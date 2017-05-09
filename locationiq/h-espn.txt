@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "106951226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182698151",
+    "boundingbox": [
+      "41.6462306",
+      "41.6524219",
+      "-72.9059651",
+      "-72.8959422"
+    ],
+    "lat": "41.6496524",
+    "lon": "-72.9004043972036",
+    "display_name": "ESPN Headquarters - Main Campus, East Bristol, Town of Bristol, Hartford County, Connecticut, 06062, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "121626521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243598000",
+    "boundingbox": [
+      "41.6476316",
+      "41.6478798",
+      "-72.9015569",
+      "-72.8991079"
+    ],
+    "lat": "41.6478661",
+    "lon": "-72.8992429",
+    "display_name": "ESPN Drive, ESPN Headquarters - Main Campus, Town of Southington, Hartford County, Connecticut, 06062, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "4350036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "470897948",
+    "boundingbox": [
+      "34.0439813",
+      "34.0440813",
+      "-118.2652822",
+      "-118.2651822"
+    ],
+    "lat": "34.0440313",
+    "lon": "-118.2652322",
+    "display_name": "ESPN Zone, Figueroa Street, South Park, Bunker Hill, LA, Los Angeles County, California, 90015, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52850142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4004583453",
+    "boundingbox": [
+      "43.0389159",
+      "43.0390159",
+      "-87.9153691",
+      "-87.9152691"
+    ],
+    "lat": "43.0389659",
+    "lon": "-87.9153191",
+    "display_name": "540 AM ESPN Radio and 1510 ESPN Deportes, 310, West Wisconsin Avenue, Park East, Westown, Milwaukee, Milwaukee County, Wisconsin, 53203, United States of America",
+    "class": "amenity",
+    "type": "studio",
+    "importance": 0.101
+  },
+  {
+    "place_id": "87794477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107403779",
+    "boundingbox": [
+      "33.8090648",
+      "33.8094455",
+      "-117.9258179",
+      "-117.9252766"
+    ],
+    "lat": "33.8092559",
+    "lon": "-117.925546319769",
+    "display_name": "ESPN Zone, 1545, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "13052598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1231987030",
+    "boundingbox": [
+      "33.8092878",
+      "33.8093878",
+      "-117.9254456",
+      "-117.9253456"
+    ],
+    "lat": "33.8093378",
+    "lon": "-117.9253956",
+    "display_name": "ESPN Zone Studio Store, 1545, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "13774480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1253474063",
+    "boundingbox": [
+      "33.8092099",
+      "33.8093099",
+      "-117.925608",
+      "-117.925508"
+    ],
+    "lat": "33.8092599",
+    "lon": "-117.925558",
+    "display_name": "ESPN Zone Sports Arena, 1545, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+    "class": "leisure",
+    "type": "video_arcade",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106430296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180514469",
+    "boundingbox": [
+      "42.7611076",
+      "42.7612943",
+      "-71.4660441",
+      "-71.4656551"
+    ],
+    "lat": "42.76120585",
+    "lon": "-71.4658385074476",
+    "display_name": "ESPN New Hampshire, 149, Main Street, Ward 4, Nashua, Hillsborough County, New Hampshire, 03060, United States of America",
+    "class": "amenity",
+    "type": "studio",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146451922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371976776",
+    "boundingbox": [
+      "12.1595871",
+      "12.1596385",
+      "-68.2797185",
+      "-68.2796662"
+    ],
+    "lat": "12.15961285",
+    "lon": "-68.279692341279",
+    "display_name": "ESPN Bonaire, Kaya Dialma, Antriol, Bonaire, Caribisch Nederland, Nederland",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "131635653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294862121",
+    "boundingbox": [
+      "28.33306",
+      "28.3419393",
+      "-81.562113",
+      "-81.5511261"
+    ],
+    "lat": "28.33785335",
+    "lon": "-81.5575223276482",
+    "display_name": "ESPN Wide World of Sports Complex, Bronson Highway, Reedy Creek Improvement District, Osceola County, Florida, 34747, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

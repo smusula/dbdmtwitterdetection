@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "14337766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1304399424",
+    "boundingbox": [
+      "45.8580654",
+      "45.8980654",
+      "7.3002579",
+      "7.3402579"
+    ],
+    "lat": "45.8780654",
+    "lon": "7.3202579",
+    "display_name": "Places, VDA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8432904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "905829108",
+    "boundingbox": [
+      "48.1714651",
+      "48.1715651",
+      "16.3569186",
+      "16.3570186"
+    ],
+    "lat": "48.1715151",
+    "lon": "16.3569686",
+    "display_name": "Places, Troststra\u00dfe, Triesterviertel, KG Inzersdorf Stadt, Favoriten, Wien, 1100, \u00d6sterreich",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2652789931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4702531211",
+    "boundingbox": [
+      "-34.6001329",
+      "-34.6000329",
+      "-58.3794445",
+      "-58.3793445"
+    ],
+    "lat": "-34.6000829",
+    "lon": "-58.3793945",
+    "display_name": "Places, Viamonte, Microcentro, San Nicol\u00e1s, CABA, Comuna 1, CABA, C1054AAC, Argentina",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "24037102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2356214935",
+    "boundingbox": [
+      "-15.7943937",
+      "-15.7942937",
+      "-47.8925089",
+      "-47.8924089"
+    ],
+    "lat": "-15.7943437",
+    "lon": "-47.8924589",
+    "display_name": "Places, S2 Oeste, SHS, SAM, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70308-200, Brasil",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "47921091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3465273057",
+    "boundingbox": [
+      "36.4855757",
+      "36.4856757",
+      "-4.9544664",
+      "-4.9543664"
+    ],
+    "lat": "36.4856257",
+    "lon": "-4.9544164",
+    "display_name": "Places, Calle Muelle Benabola, Aldea Blanca, Puerto Ban\u00fas, Marbella, M\u00e1laga, Andaluc\u00eda, 29660, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "27597252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2605488383",
+    "boundingbox": [
+      "52.4778096",
+      "52.4779096",
+      "-1.9142043",
+      "-1.9141043"
+    ],
+    "lat": "52.4778596",
+    "lon": "-1.9141543",
+    "display_name": "Places, 5, Brunswick Street, Ladywood, Park Central, Birmingham, West Midlands, England, B1, UK",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101399295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161753626",
+    "boundingbox": [
+      "44.305289",
+      "44.3053823",
+      "4.6886094",
+      "4.6888621"
+    ],
+    "lat": "44.3053357",
+    "lon": "4.68873578875434",
+    "display_name": "Places, Avenue de la Gare, L'\u00cele-Roy, Lapalud, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84840, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48021632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3477018027",
+    "boundingbox": [
+      "27.7156817",
+      "27.7157817",
+      "85.3091901",
+      "85.3092901"
+    ],
+    "lat": "27.7157317",
+    "lon": "85.3092401",
+    "display_name": "Places, Saat Ghumti Marg, Loot Chowk, Thamel, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, 8061, \u0928\u0947\u092a\u093e\u0932",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

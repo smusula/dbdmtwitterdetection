@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "56433592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4417962350",
+    "boundingbox": [
+      "43.771627",
+      "43.811627",
+      "-0.0884181",
+      "-0.0484181"
+    ],
+    "lat": "43.791627",
+    "lon": "-0.0684181",
+    "display_name": "Gayman, Condom, Gers, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42802845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3101301262",
+    "boundingbox": [
+      "6.1521524",
+      "6.1921524",
+      "-10.4022075",
+      "-10.3622075"
+    ],
+    "lat": "6.1721524",
+    "lon": "-10.3822075",
+    "display_name": "Gayman, Mambah Kaba, Margibi County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "64101513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16029294",
+    "boundingbox": [
+      "41.5049011",
+      "41.51014",
+      "-90.631195",
+      "-90.6310609"
+    ],
+    "lat": "41.5073026",
+    "lon": "-90.6311134",
+    "display_name": "Gayman, Davenport, Scott County, Iowa, 52802, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64521559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16029297",
+    "boundingbox": [
+      "41.565932",
+      "41.56718",
+      "-90.6305885",
+      "-90.6305756"
+    ],
+    "lat": "41.56718",
+    "lon": "-90.6305756",
+    "display_name": "Gayman, Davenport, Scott County, Iowa, 52806, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "136254060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315753260",
+    "boundingbox": [
+      "7.8804062",
+      "7.8805206",
+      "-72.5025035",
+      "-72.5023078"
+    ],
+    "lat": "7.8804649",
+    "lon": "-72.5024072767706",
+    "display_name": "color, Avenida 5, Barrio latino, Ciudadela Juan Atalaya, C\u00facuta, Bucarasica, Norte de Santander, 5400, Colombia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "39933588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2946476333",
+    "boundingbox": [
+      "40.4071199",
+      "40.4072199",
+      "-3.6508175",
+      "-3.6507175"
+    ],
+    "lat": "40.4071699",
+    "lon": "-3.6507675",
+    "display_name": "Color, 9, Calle de la Marroquina, Marroquina, Moratalaz, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28030, Espa\u00f1a",
+    "class": "shop",
+    "type": "copyshop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51431958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3848439006",
+    "boundingbox": [
+      "35.1734066",
+      "35.1735066",
+      "136.8792057",
+      "136.8793057"
+    ],
+    "lat": "35.1734566",
+    "lon": "136.8792557",
+    "display_name": "Color, \u540d\u99c5\u901a\u308a, \u897f\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 451-0046, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "46242471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3314846699",
+    "boundingbox": [
+      "47.6588458",
+      "47.6589458",
+      "-2.7546912",
+      "-2.7545912"
+    ],
+    "lat": "47.6588958",
+    "lon": "-2.7546412",
+    "display_name": "Color, Rue Saint-Nicolas, Kerquer, Saint-Patern, Vannes, Morbihan, Bretagne, 56000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "25282985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2438107600",
+    "boundingbox": [
+      "50.4691603",
+      "50.4692603",
+      "17.3330654",
+      "17.3331654"
+    ],
+    "lat": "50.4692103",
+    "lon": "17.3331154",
+    "display_name": "Color, 37, Mariacka, \u015ar\u00f3dmie\u015bcie, Nysa, gmina Nysa, powiat nyski, opolskie, Polska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "20370647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2024765210",
+    "boundingbox": [
+      "44.6059227",
+      "44.6060227",
+      "17.8587884",
+      "17.8588884"
+    ],
+    "lat": "44.6059727",
+    "lon": "17.8588384",
+    "display_name": "Color, Trg, Tesli\u0107, Op\u0161tina Tesli\u0107, Republika Srpska, 74270, Bosna i Hercegovina",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "45077548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3189817612",
+    "boundingbox": [
+      "35.699457",
+      "35.699557",
+      "139.6371888",
+      "139.6372888"
+    ],
+    "lat": "35.699507",
+    "lon": "139.6372388",
+    "display_name": "COLOR, \u963f\u4f50\u30f6\u8c37\u30d1\u30fc\u30eb\u30bb\u30f3\u30bf\u30fc, \u5584\u798f\u5bfa, \u6749\u4e26\u533a, \u6771\u4eac\u90fd, 166-0004, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16415873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1506576294",
+    "boundingbox": [
+      "56.1081626",
+      "56.1082626",
+      "47.472791",
+      "47.472891"
+    ],
+    "lat": "56.1082126",
+    "lon": "47.472841",
+    "display_name": "Color, 1, \u0415\u043b\u044c\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0435\u0437\u0434, \u041d\u043e\u0432\u043e\u0447\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041d\u043e\u0432\u043e\u0447\u0435\u0431\u043e\u043a\u0441\u0430\u0440\u0441\u043a, \u0427\u0443\u0432\u0430\u0448\u0438\u044f, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 429959, \u0420\u0424",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "51318382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3836404943",
+    "boundingbox": [
+      "54.8565443",
+      "54.8566443",
+      "53.0688076",
+      "53.0689076"
+    ],
+    "lat": "54.8565943",
+    "lon": "53.0688576",
+    "display_name": "COLOR, 16, \u0443\u043b\u0438\u0446\u0430 \u0425\u0430\u0441\u0430\u043d\u0448\u0438\u043d\u043e\u0439, \u041c\u0430\u043d\u044f\u0443\u0437, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0410\u0437\u043d\u0430\u043a\u0430\u0435\u0432\u043e, \u0410\u0437\u043d\u0430\u043a\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 423332, \u0420\u0424",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "89119470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "112435472",
+    "boundingbox": [
+      "14.5803092",
+      "14.580618",
+      "121.0768544",
+      "121.0771946"
+    ],
+    "lat": "14.58046355",
+    "lon": "121.077024499296",
+    "display_name": "Color, Carlo J. Caparas, Ugong, Pasig, Metro Manila, 1604, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160263401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112189",
+    "boundingbox": [
+      "37.9535573",
+      "38.0475217",
+      "-122.1584961",
+      "-122.0751731"
+    ],
+    "lat": "38.0103311",
+    "lon": "-122.1298308",
+    "display_name": "Martinez, Contra Costa County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160265344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "119407",
+    "boundingbox": [
+      "33.482532",
+      "33.553961",
+      "-82.1416609",
+      "-82.0528579"
+    ],
+    "lat": "33.5185135",
+    "lon": "-82.0902081166508",
+    "display_name": "Martinez, Wynngate, Columbia County, Georgia, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.44273772186085,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610663781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184023687",
+    "boundingbox": [
+      "42.614059",
+      "42.614611",
+      "3.034135",
+      "3.034753"
+    ],
+    "lat": "42.614303",
+    "lon": "3.03446068793004",
+    "display_name": "Martinez, Saint-Cyprien, Perpignan, Pyr\u00e9n\u00e9es-Orientales, Occitanie, 66750, France",
+    "class": "waterway",
+    "type": "boatyard",
+    "importance": 0.425
+  },
+  {
+    "place_id": "88502526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109969553",
+    "boundingbox": [
+      "38.0189392",
+      "38.0192474",
+      "-122.1390883",
+      "-122.1382158"
+    ],
+    "lat": "38.01909155",
+    "lon": "-122.138735398263",
+    "display_name": "Martinez, 601, Marina Vista Avenue, Martinez, Contra Costa County, California, 94553, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.42079972394797,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160327530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "341728",
+    "boundingbox": [
+      "40.6029557",
+      "40.6519677",
+      "-5.3967748",
+      "-5.3163362"
+    ],
+    "lat": "40.6299978",
+    "lon": "-5.347783",
+    "display_name": "Mart\u00ednez, \u00c1vila, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41901062051775,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "340737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150948044",
+    "boundingbox": [
+      "38.0032567",
+      "38.0432567",
+      "-120.3996383",
+      "-120.3596383"
+    ],
+    "lat": "38.0232567",
+    "lon": "-120.3796383",
+    "display_name": "Martinez, Tuolumne County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "337030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150935036",
+    "boundingbox": [
+      "33.5428041",
+      "33.5828041",
+      "-116.1730602",
+      "-116.1330602"
+    ],
+    "lat": "33.5628041",
+    "lon": "-116.1530602",
+    "display_name": "Martinez, Riverside County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "419377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154018372",
+    "boundingbox": [
+      "33.4973577",
+      "33.5373577",
+      "-82.0956733",
+      "-82.0556733"
+    ],
+    "lat": "33.5173577",
+    "lon": "-82.0756733",
+    "display_name": "Martinez, Columbia County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "383655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151878505",
+    "boundingbox": [
+      "34.9792153",
+      "35.0192153",
+      "-106.2111368",
+      "-106.1711368"
+    ],
+    "lat": "34.9992153",
+    "lon": "-106.1911368",
+    "display_name": "Martinez, Torrance County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1533487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336168800",
+    "boundingbox": [
+      "30.9885",
+      "31.0285",
+      "-110.2069999",
+      "-110.1669999"
+    ],
+    "lat": "31.0085",
+    "lon": "-110.1869999",
+    "display_name": "Martinez, Cananea, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

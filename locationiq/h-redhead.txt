@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "160958494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5993807",
+    "boundingbox": [
+      "-33.0205629",
+      "-32.9901069",
+      "151.687986",
+      "151.7282064"
+    ],
+    "lat": "-33.011111",
+    "lon": "151.7077778",
+    "display_name": "Redhead, Newcastle, Newcastle-Maitland, Lake Macquarie, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "63082853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14290314",
+    "boundingbox": [
+      "39.574711",
+      "39.575959",
+      "-118.5105899",
+      "-118.5094339"
+    ],
+    "lat": "39.575432",
+    "lon": "-118.5099189",
+    "display_name": "Redhead, Churchill County, Nevada, 89406, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "28169946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2611290567",
+    "boundingbox": [
+      "40.7308512",
+      "40.7309512",
+      "-73.9834391",
+      "-73.9833391"
+    ],
+    "lat": "40.7309012",
+    "lon": "-73.9833891",
+    "display_name": "The Redhead, 349, East 13th Street, East Village, Manhattan, New York County, NYC, New York, 10003, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

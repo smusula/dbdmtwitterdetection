@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "7234721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "768658702",
+    "boundingbox": [
+      "19.678759",
+      "19.718759",
+      "103.174342",
+      "103.214342"
+    ],
+    "lat": "19.698759",
+    "lon": "103.194342",
+    "display_name": "Yay, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e9e\u0eb9\u0e81\u0eb9\u0e94, \u0e8a\u0ebd\u0e87\u0e82\u0ea7\u0eb2\u0e87, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10926250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042030817",
+    "boundingbox": [
+      "51.3768991",
+      "51.4068991",
+      "-56.0980993",
+      "-56.0680993"
+    ],
+    "lat": "51.3918991",
+    "lon": "-56.0830993",
+    "display_name": "St Anthony Airport, The Viking Trail, Newfoundland and Labrador, Canada",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.18611063262914,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "150715461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "394089023",
+    "boundingbox": [
+      "-16.8444407",
+      "-16.8443428",
+      "36.9845141",
+      "36.984631"
+    ],
+    "lat": "-16.84438675",
+    "lon": "36.9845662912921",
+    "display_name": "yay, Diego Road, Mocuba, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "56032296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4349831013",
+    "boundingbox": [
+      "52.3550267",
+      "52.3551267",
+      "4.8916334",
+      "4.8917334"
+    ],
+    "lat": "52.3550767",
+    "lon": "4.8916834",
+    "display_name": "YAY!, 103, Albert Cuypstraat, Oude Pijp, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1073BE, Nederland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "55646357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4315323189",
+    "boundingbox": [
+      "40.7642342",
+      "40.7643342",
+      "-73.9871474",
+      "-73.9870474"
+    ],
+    "lat": "40.7642842",
+    "lon": "-73.9870974",
+    "display_name": "YAy, West 52nd Street, Midtown West, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

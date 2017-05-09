@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "6845264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703481294",
+    "boundingbox": [
+      "2.0841467",
+      "2.1041467",
+      "-78.4779655",
+      "-78.4579655"
+    ],
+    "lat": "2.0941467",
+    "lon": "-78.4679655",
+    "display_name": "Papi, Nari\u00f1o, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2609536052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4484387637",
+    "boundingbox": [
+      "18.3558419",
+      "18.3758419",
+      "-74.3332426",
+      "-74.3132426"
+    ],
+    "lat": "18.3658419",
+    "lon": "-74.3232426",
+    "display_name": "Papi, Commune Les Irois, Arrondissement d'Anse d'Hainault, D\u00e9partement de la Grande-Anse, Ayiti",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "71709671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30699241",
+    "boundingbox": [
+      "48.263615",
+      "48.2759217",
+      "22.4099019",
+      "22.4369172"
+    ],
+    "lat": "48.2687699",
+    "lon": "22.4234401",
+    "display_name": "\u041f\u043e\u043f\u043e\u0432\u043e, \u0411\u0435\u0440\u0435\u0433\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.31045232539126,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "115040949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217446959",
+    "boundingbox": [
+      "59.2108437",
+      "59.2121888",
+      "24.6984172",
+      "24.6995778"
+    ],
+    "lat": "59.2121275",
+    "lon": "24.6995366",
+    "display_name": "Papi, Vilivere k\u00fcla, Kohila vald, Rapla maakond, 75516, Eesti",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "134298573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306839436",
+    "boundingbox": [
+      "43.2560038",
+      "43.2560924",
+      "5.7795746",
+      "5.7796624"
+    ],
+    "lat": "43.2560038",
+    "lon": "5.7795746",
+    "display_name": "PAPI, Circuit Paul Ricard High Tech Test Track, Le Castellet, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83330, France",
+    "class": "aeroway",
+    "type": "navigationaid",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26548428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2526979026",
+    "boundingbox": [
+      "49.2513194",
+      "49.2514194",
+      "2.5098838",
+      "2.5099838"
+    ],
+    "lat": "49.2513694",
+    "lon": "2.5099338",
+    "display_name": "PAPI, All\u00e9e du Lieutnant Maurice Choron, Creil, Senlis, Oise, Hauts-de-France, 60100, France",
+    "class": "aeroway",
+    "type": "papi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26421749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2526979043",
+    "boundingbox": [
+      "49.2561617",
+      "49.2562617",
+      "2.5300573",
+      "2.5301573"
+    ],
+    "lat": "49.2562117",
+    "lon": "2.5301073",
+    "display_name": "PAPI, Route de la Belle Croix, Aumont-en-Halatte, Senlis, Oise, Hauts-de-France, 60300, France",
+    "class": "aeroway",
+    "type": "papi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134345212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306835105",
+    "boundingbox": [
+      "43.0901611",
+      "43.0902354",
+      "6.1551678",
+      "6.1552725"
+    ],
+    "lat": "43.0902354",
+    "lon": "6.1552725",
+    "display_name": "PAPI, Boulevard de la Marine, La Capte, Hy\u00e8res, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83400, France",
+    "class": "aeroway",
+    "type": "beacon",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134285456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306835103",
+    "boundingbox": [
+      "43.0978257",
+      "43.0980236",
+      "6.145867",
+      "6.1460827"
+    ],
+    "lat": "43.0978257",
+    "lon": "6.1460827",
+    "display_name": "PAPI, Rue Nicephore Niepce, Costebelle, Hy\u00e8res, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83400, France",
+    "class": "aeroway",
+    "type": "beacon",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134297437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306835104",
+    "boundingbox": [
+      "43.1038247",
+      "43.1040182",
+      "6.1582662",
+      "6.1584788"
+    ],
+    "lat": "43.1040182",
+    "lon": "6.1582662",
+    "display_name": "PAPI, Chemin la Lev\u00e9e, Costebelle, Hy\u00e8res, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83400, France",
+    "class": "aeroway",
+    "type": "beacon",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "366989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151536965",
+    "boundingbox": [
+      "32.7734769",
+      "32.8134769",
+      "-93.4287829",
+      "-93.3887829"
+    ],
+    "lat": "32.7934769",
+    "lon": "-93.4087829",
+    "display_name": "Treat, Webster Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "364046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151477046",
+    "boundingbox": [
+      "35.5925808",
+      "35.6325808",
+      "-93.1812863",
+      "-93.1412863"
+    ],
+    "lat": "35.6125808",
+    "lon": "-93.1612863",
+    "display_name": "Treat, Pope County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647464098",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1616127",
+    "boundingbox": [
+      "36.861516",
+      "37.005123",
+      "7.318698",
+      "7.492551"
+    ],
+    "lat": "36.8978997",
+    "lon": "7.4275222",
+    "display_name": "Treat, Da\u00efra Berrahal, Annaba - \u0639\u0646\u0627\u0628\u0629\u200e, RADP",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "16278184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1513160699",
+    "boundingbox": [
+      "59.3445252",
+      "59.3446252",
+      "18.06188",
+      "18.06198"
+    ],
+    "lat": "59.3445752",
+    "lon": "18.06193",
+    "display_name": "Treat, Roslagsgatan, Sibirien, Vasastan, Norrmalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 113 55, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55597956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4307551330",
+    "boundingbox": [
+      "12.9717142",
+      "12.9718142",
+      "77.6470285",
+      "77.6471285"
+    ],
+    "lat": "12.9717642",
+    "lon": "77.6470785",
+    "display_name": "Treat, 80 Feet Road(Sir C.V. Raman Hospital Road), Old Thippasandra, Hoysala Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56852016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4430155395",
+    "boundingbox": [
+      "27.1691523",
+      "27.1692523",
+      "78.0420287",
+      "78.0421287"
+    ],
+    "lat": "27.1692023",
+    "lon": "78.0420787",
+    "display_name": "Treat, Taj East Gate Road, Taj Ganj, Agra, Uttar Pradesh, 282001, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "46399542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3355873693",
+    "boundingbox": [
+      "48.1464741",
+      "48.1465741",
+      "17.1228006",
+      "17.1229006"
+    ],
+    "lat": "48.1465241",
+    "lon": "17.1228506",
+    "display_name": "Treat, 4118/4, Mlynsk\u00e9 nivy, Dunajsk\u00e1 \u0161tvr\u0165, Oblas\u0165 Dunajsk\u00e1, Bratislava - mestsk\u00e1 \u010das\u0165 Star\u00e9 Mesto, Star\u00e9 Mesto, Bratislava, Bratislavsk\u00fd kraj, 811 09, Slovensko",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "19175971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1867356493",
+    "boundingbox": [
+      "41.2689435",
+      "41.2690435",
+      "-73.6085009",
+      "-73.6084009"
+    ],
+    "lat": "41.2689935",
+    "lon": "-73.6084509",
+    "display_name": "Treat, Cross Meadow Lane, Waccabuc, Town of Lewisboro, Westchester County, New York, 10518, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "144876293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365231027",
+    "boundingbox": [
+      "43.6014988",
+      "43.6018174",
+      "-112.670475",
+      "-112.6701939"
+    ],
+    "lat": "43.60171385",
+    "lon": "-112.670334841357",
+    "display_name": "TREAT, Harrison Boulevard, Bingham County, Idaho, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18904101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1833434198",
+    "boundingbox": [
+      "31.7094593",
+      "31.7095593",
+      "76.9320641",
+      "76.9321641"
+    ],
+    "lat": "31.7095093",
+    "lon": "76.9321141",
+    "display_name": "The Treat, Samkhetar Road, Mandi, Himachal Pradesh, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "159459116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "442921288",
+    "boundingbox": [
+      "-27.4814188",
+      "-27.4808444",
+      "153.0041039",
+      "153.0046014"
+    ],
+    "lat": "-27.4811339",
+    "lon": "153.004349413671",
+    "display_name": "Illuminate, 321, Montague Road, Hill End, West End, Brisbane, Brisbane City, QLD, 4101, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "105027460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174660695",
+    "boundingbox": [
+      "10.6259516",
+      "10.6265685",
+      "-61.4522222",
+      "-61.4519996"
+    ],
+    "lat": "10.62625875",
+    "lon": "-61.4521049365758",
+    "display_name": "Illuminate, Chanka Tr, Barataria, El Socorro, 868 793-7962, Trinidad and Tobago",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

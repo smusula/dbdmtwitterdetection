@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "2486223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "352864592",
+    "boundingbox": [
+      "37.3648259",
+      "37.4448259",
+      "22.6796809",
+      "22.7596809"
+    ],
+    "lat": "37.4048259",
+    "lon": "22.7196809",
+    "display_name": "\u0386\u03c3\u03c4\u03c1\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03cc\u03c1\u03b5\u03b9\u03b1\u03c2 \u039a\u03c5\u03bd\u03bf\u03c5\u03c1\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0391\u03c1\u03ba\u03b1\u03b4\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 22001, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "town",
+    "importance": 0.27594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "2646771501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460585327",
+    "boundingbox": [
+      "21.2879062",
+      "21.2884788",
+      "-100.5268885",
+      "-100.5268075"
+    ],
+    "lat": "21.2884223",
+    "lon": "-100.5268119",
+    "display_name": "astros, Del sol, San Luis de la Paz, Guanajuato, 37900, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "150270324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391336746",
+    "boundingbox": [
+      "29.4145748",
+      "29.4156224",
+      "-98.7680919",
+      "-98.7667916"
+    ],
+    "lat": "29.414627",
+    "lon": "-98.7679596",
+    "display_name": "Astros, San Antonio, Bexar County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "121968197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245224848",
+    "boundingbox": [
+      "23.257858",
+      "23.2581746",
+      "-106.3769355",
+      "-106.3760337"
+    ],
+    "lat": "23.2579877",
+    "lon": "-106.3764192",
+    "display_name": "Astros, San Fernando, Villa Galaxia, Mazatl\u00e1n, Sinaloa, 82000, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "91358346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120104813",
+    "boundingbox": [
+      "20.6666662",
+      "20.6687416",
+      "-103.3863421",
+      "-103.3863258"
+    ],
+    "lat": "20.6673806",
+    "lon": "-103.3863258",
+    "display_name": "Astros, Guadalajara, Jalisco, 44520, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80667156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "70139855",
+    "boundingbox": [
+      "25.8637945",
+      "25.866482",
+      "-97.4913692",
+      "-97.4850296"
+    ],
+    "lat": "25.8656088",
+    "lon": "-97.4887623",
+    "display_name": "Astros, Matamoros, Tamaulipas, 87350, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "125399521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "259477163",
+    "boundingbox": [
+      "17.9589149",
+      "17.9589263",
+      "-102.2071646",
+      "-102.206077"
+    ],
+    "lat": "17.9589149",
+    "lon": "-102.206077",
+    "display_name": "Astros, INFONAVIT Nuevo Horizonte, L\u00e1zaro C\u00e1rdenas, Michoac\u00e1n de Ocampo, 60953, M\u00e9xico",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142031230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "344019669",
+    "boundingbox": [
+      "25.6824028",
+      "25.6826088",
+      "-100.4827368",
+      "-100.4822038"
+    ],
+    "lat": "25.6824028",
+    "lon": "-100.4822038",
+    "display_name": "Astros, Residencial Santa Catarina, Santa Catarina, Nuevo Le\u00f3n, 66367, M\u00e9xico",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2652628806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4698230403",
+    "boundingbox": [
+      "-34.6036548",
+      "-34.6035548",
+      "-58.3773408",
+      "-58.3772408"
+    ],
+    "lat": "-34.6036048",
+    "lon": "-58.3772908",
+    "display_name": "Astros, Avenida Corrientes, Microcentro, San Nicol\u00e1s, CABA, Comuna 1, CABA, C1043AAU, Argentina",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "146523332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371870901",
+    "boundingbox": [
+      "5.6138202",
+      "5.6143171",
+      "-0.2035549",
+      "-0.2030652"
+    ],
+    "lat": "5.61406865",
+    "lon": "-0.20331005",
+    "display_name": "Astros, Odotei Tsui Avenue, Dzorwulu, Accra, Accra Metropolitan, Greater Accra Region, AK1 3PF, Ghana",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

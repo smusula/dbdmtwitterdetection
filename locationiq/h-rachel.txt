@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "49255865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3656127930",
+    "boundingbox": [
+      "37.6213209",
+      "37.6613209",
+      "-115.7683609",
+      "-115.7283609"
+    ],
+    "lat": "37.6413209",
+    "lon": "-115.7483609",
+    "display_name": "Rachel, Lincoln County, Nevada, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.46503227916672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "79692320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61320767",
+    "boundingbox": [
+      "50.7888954",
+      "50.7896436",
+      "12.9744335",
+      "12.9791713"
+    ],
+    "lat": "50.7896436",
+    "lon": "12.9777701",
+    "display_name": "Rachel, Chemnitz, Sachsen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160348091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "439634",
+    "boundingbox": [
+      "50.3329002",
+      "50.3746987",
+      "13.2697023",
+      "13.3461765"
+    ],
+    "lat": "50.3531714",
+    "lon": "13.2986961",
+    "display_name": "Rokle, okres Chomutov, \u00dasteck\u00fd kraj, Severoz\u00e1pad, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36019232957918,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "432676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153988737",
+    "boundingbox": [
+      "39.4984169",
+      "39.5384169",
+      "-80.3236951",
+      "-80.2836951"
+    ],
+    "lat": "39.5184169",
+    "lon": "-80.3036951",
+    "display_name": "Rachel, Marion County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.34591738766298,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53178826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4053585175",
+    "boundingbox": [
+      "31.8671553",
+      "31.8672553",
+      "-102.394158",
+      "-102.394058"
+    ],
+    "lat": "31.8672053",
+    "lon": "-102.394108",
+    "display_name": "Rachel, Odessa, Ector County, Texas, 79769, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "47821013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3462910804",
+    "boundingbox": [
+      "50.795311",
+      "50.795411",
+      "14.09945",
+      "14.09955"
+    ],
+    "lat": "50.795361",
+    "lon": "14.0995",
+    "display_name": "Roklan, J\u00edlov\u00e9, okres D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, Severoz\u00e1pad, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "67234876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20902577",
+    "boundingbox": [
+      "29.2148324",
+      "29.2152948",
+      "-94.9169182",
+      "-94.9166687"
+    ],
+    "lat": "29.215064",
+    "lon": "-94.9167939",
+    "display_name": "Rachel, Bermuda Beach, Galveston, Galveston County, Texas, 77554, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63544233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15086768",
+    "boundingbox": [
+      "40.240594",
+      "40.2408959",
+      "-78.9282724",
+      "-78.927763"
+    ],
+    "lat": "40.2408959",
+    "lon": "-78.927763",
+    "display_name": "Rachel, Davidsville, Somerset County, Pennsylvania, 15928, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67105575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20730487",
+    "boundingbox": [
+      "29.4308732",
+      "29.4309245",
+      "-95.2395811",
+      "-95.2378055"
+    ],
+    "lat": "29.4308732",
+    "lon": "-95.2395811",
+    "display_name": "Rachel, Alvin, Brazoria County, Texas, 77511, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59136432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7783063",
+    "boundingbox": [
+      "34.862322",
+      "34.862686",
+      "-87.7325899",
+      "-87.7310979"
+    ],
+    "lat": "34.862333",
+    "lon": "-87.7319169",
+    "display_name": "Rachel, Mansion View, Lauderdale County, Alabama, 35633, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

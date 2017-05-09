@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160482541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1993534",
+    "boundingbox": [
+      "47.8618282",
+      "47.904933",
+      "-0.8746769",
+      "-0.8300402"
+    ],
+    "lat": "47.8876818",
+    "lon": "-0.850754",
+    "display_name": "Simpl\u00e9, Ch\u00e2teau-Gontier, Mayenne, Pays de la Loire, 53360, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49993195574801,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "67361313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20726782",
+    "boundingbox": [
+      "29.00919",
+      "29.011843",
+      "-95.5798769",
+      "-95.5796559"
+    ],
+    "lat": "29.011592",
+    "lon": "-95.5797919",
+    "display_name": "Simple, Old Brazoria, Brazoria County, Texas, 77422, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "47312822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3414032170",
+    "boundingbox": [
+      "50.0899664",
+      "50.0900664",
+      "14.4191578",
+      "14.4192578"
+    ],
+    "lat": "50.0900164",
+    "lon": "14.4192078",
+    "display_name": "Simple, 20, Pa\u0159\u00ed\u017esk\u00e1, Josefov, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 11000, \u010cesko",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "46721814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3387747493",
+    "boundingbox": [
+      "45.8025405",
+      "45.8026405",
+      "16.0067031",
+      "16.0068031"
+    ],
+    "lat": "45.8025905",
+    "lon": "16.0067531",
+    "display_name": "Simple, 269, Ulica grada Vukovara, Sige\u010dica, Trnje, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "50584625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3772487828",
+    "boundingbox": [
+      "51.1192256",
+      "51.1193256",
+      "16.9896527",
+      "16.9897527"
+    ],
+    "lat": "51.1192756",
+    "lon": "16.9897027",
+    "display_name": "Simple, D\u0105br\u00f3wki, Popowice Po\u0142udniowe, Osiedle G\u0105d\u00f3w-Popowice Po\u0142udniowe, Wroc\u0142aw, dolno\u015bl\u0105skie, 54-204, Polska",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  },
+  {
+    "place_id": "110783846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "199230991",
+    "boundingbox": [
+      "52.4012795",
+      "52.4014163",
+      "16.9273094",
+      "16.9276422"
+    ],
+    "lat": "52.4013479",
+    "lon": "16.9274758080368",
+    "display_name": "Simple, Tadeusza Ko\u015bciuszki, Piekary, Stare Miasto, Pozna\u0144, wielkopolskie, 61-888, Polska",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "140655557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "336762534",
+    "boundingbox": [
+      "52.4007547",
+      "52.4008738",
+      "16.9134451",
+      "16.9135978"
+    ],
+    "lat": "52.4008255",
+    "lon": "16.9135214497087",
+    "display_name": "Simple, Wolne Tory, Wierzbi\u0119cice, Wilda, Pozna\u0144, wielkopolskie, 61-581, Polska",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "142788254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351862786",
+    "boundingbox": [
+      "51.5096467",
+      "51.5097626",
+      "-0.0248738",
+      "-0.0247788"
+    ],
+    "lat": "51.5097048",
+    "lon": "-0.0248258527835991",
+    "display_name": "Simple, Pennyfields, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 6JE, UK",
+    "class": "shop",
+    "type": "estate_agent",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_estateagent2.p.20.png"
+  },
+  {
+    "place_id": "2650983924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "471650756",
+    "boundingbox": [
+      "-34.5708911",
+      "-34.570772",
+      "-58.5058295",
+      "-58.5057233"
+    ],
+    "lat": "-34.570845",
+    "lon": "-58.5057667059069",
+    "display_name": "Simple, Medeyros, Villa Urquiza, CABA, Comuna 12, CABA, C1431DUB, Argentina",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52301415",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3951542880",
+    "boundingbox": [
+      "53.380866",
+      "53.380966",
+      "14.671213",
+      "14.671313"
+    ],
+    "lat": "53.380916",
+    "lon": "14.671263",
+    "display_name": "Simple, 42, Andrzeja Struga, Majowe, Prawobrze\u017ce, Szczecin, zachodniopomorskie, 70-784, Polska",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

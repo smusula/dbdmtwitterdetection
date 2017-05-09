@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "157260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "30093418",
+    "boundingbox": [
+      "53.7350305",
+      "53.7750305",
+      "-2.4085216",
+      "-2.3685216"
+    ],
+    "lat": "53.7550305",
+    "lon": "-2.3885216",
+    "display_name": "Church, Lancs, North West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.40130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "345017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151399896",
+    "boundingbox": [
+      "43.332198",
+      "43.372198",
+      "-91.3590237",
+      "-91.3190237"
+    ],
+    "lat": "43.352198",
+    "lon": "-91.3390237",
+    "display_name": "Church, Allamakee County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654489619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "697223908",
+    "boundingbox": [
+      "51.4116648",
+      "51.4516648",
+      "-0.9781245",
+      "-0.9381245"
+    ],
+    "lat": "51.4316648",
+    "lon": "-0.9581245",
+    "display_name": "Church, Reading, South East, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "103882414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170444944",
+    "boundingbox": [
+      "17.720416",
+      "17.7220179",
+      "83.3071339",
+      "83.3090943"
+    ],
+    "lat": "17.72124135",
+    "lon": "83.3080726293408",
+    "display_name": "church, MVP Colony, Visakhapatnam, Vishakhapatnam, Andhra Pradesh, 530001, India",
+    "class": "landuse",
+    "type": "cemetery",
+    "importance": 0.31
+  },
+  {
+    "place_id": "76233358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44706398",
+    "boundingbox": [
+      "-40.225062",
+      "-40.2246199",
+      "175.5565534",
+      "175.5572012"
+    ],
+    "lat": "-40.2248834",
+    "lon": "175.556802686821",
+    "display_name": "Church, Feilding, Manawatu District, Manawatu-Wanganui, 4702, New Zealand/Aotearoa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "139234573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "330602576",
+    "boundingbox": [
+      "3.3765626",
+      "3.3767137",
+      "31.8009268",
+      "31.8011454"
+    ],
+    "lat": "3.3766206",
+    "lon": "31.8010331801438",
+    "display_name": "CHURCH, Adjumani, Northern Region, Uganda",
+    "class": "landuse",
+    "type": "cemetery",
+    "importance": 0.3
+  },
+  {
+    "place_id": "112834164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "207470174",
+    "boundingbox": [
+      "55.6828334",
+      "55.68302",
+      "-2.6474681",
+      "-2.6472477"
+    ],
+    "lat": "55.6828994",
+    "lon": "-2.64736536278119",
+    "display_name": "Church, Morriston Cottage, Kirkhill, Scottish Borders, Scotland, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64437268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16125616",
+    "boundingbox": [
+      "41.1061559",
+      "41.106457",
+      "-75.4840981",
+      "-75.4835319"
+    ],
+    "lat": "41.106296",
+    "lon": "-75.4840159",
+    "display_name": "Church, Pocono Pines, Monroe County, Pennsylvania, 18350, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67274194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20332107",
+    "boundingbox": [
+      "38.3147033",
+      "38.3170812",
+      "-78.3000886",
+      "-78.2994833"
+    ],
+    "lat": "38.3159339",
+    "lon": "-78.2999074",
+    "display_name": "Church, Shelby, Madison County, Virginia, 22738, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65262615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17843167",
+    "boundingbox": [
+      "42.931496",
+      "42.933268",
+      "-85.3526869",
+      "-85.3526629"
+    ],
+    "lat": "42.932767",
+    "lon": "-85.3526719",
+    "display_name": "Church, Lowell, Kent County, Michigan, 49331, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

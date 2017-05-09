@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160258532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "85606",
+    "boundingbox": [
+      "45.9516883",
+      "50.2144769",
+      "38.220892",
+      "44.3241519"
+    ],
+    "lat": "47.6222451",
+    "lon": "40.7957942",
+    "display_name": "\u0420\u041e\u0421, \u042e\u0424\u041e, \u0420\u0424",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57440279513244,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160302021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "270615",
+    "boundingbox": [
+      "39.167278",
+      "39.516193",
+      "-83.394417",
+      "-82.7406149"
+    ],
+    "lat": "39.3455507",
+    "lon": "-83.0773589",
+    "display_name": "Ross County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51067863072538,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160426242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1266501",
+    "boundingbox": [
+      "50.2289437",
+      "50.255489",
+      "7.2340076",
+      "7.2934932"
+    ],
+    "lat": "50.2427211",
+    "lon": "7.25653",
+    "display_name": "Roes, Kaisersesch, Landkreis Cochem-Zell, Rheinland-Pfalz, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44060025734446,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3141003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358689214",
+    "boundingbox": [
+      "6.4581978",
+      "7.0981978",
+      "157.9070777",
+      "158.5470777"
+    ],
+    "lat": "6.7781978",
+    "lon": "158.2270777",
+    "display_name": "Ros, Kitti, Pohnpei, Federated States of Micronesia",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "119462949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234580831",
+    "boundingbox": [
+      "49.5399361",
+      "49.5449706",
+      "30.8631926",
+      "30.8800242"
+    ],
+    "lat": "49.5425359",
+    "lon": "30.8715577",
+    "display_name": "\u0420\u043e\u0441\u044c, \u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432, \u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.40640558331302
+  },
+  {
+    "place_id": "119339818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233537391",
+    "boundingbox": [
+      "49.5275984",
+      "49.530229",
+      "30.9093006",
+      "30.9116101"
+    ],
+    "lat": "49.529188",
+    "lon": "30.9102949",
+    "display_name": "\u0420\u043e\u0441\u044c, \u0411\u043e\u0433\u0443\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.40640558331302
+  },
+  {
+    "place_id": "160638977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3273706",
+    "boundingbox": [
+      "49.3989224",
+      "49.8086129",
+      "29.0738115",
+      "31.6902816"
+    ],
+    "lat": "49.6619997",
+    "lon": "30.4606992",
+    "display_name": "\u0420\u043e\u0441\u044c, \u0420\u043e\u043a\u0438\u0442\u043d\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.40640558331302
+  },
+  {
+    "place_id": "43090559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3110716029",
+    "boundingbox": [
+      "48.2525795",
+      "48.2925795",
+      "-2.9521038",
+      "-2.9121038"
+    ],
+    "lat": "48.2725795",
+    "lon": "-2.9321038",
+    "display_name": "Le Ros, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4496725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "492408424",
+    "boundingbox": [
+      "42.4651364",
+      "42.5051364",
+      "-3.8277504",
+      "-3.7877504"
+    ],
+    "lat": "42.4851364",
+    "lon": "-3.8077504",
+    "display_name": "Ros, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160675148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3519596",
+    "boundingbox": [
+      "-32.9216687",
+      "-32.8856578",
+      "-60.790627",
+      "-60.7777937"
+    ],
+    "lat": "-32.9004202",
+    "lon": "-60.7837562747643",
+    "display_name": "Islas Malvinas, Pedro Lino Funes, Funes City, Zona 3, Funes, Municipio de Funes, Departamento Rosario, Sta. Fe, S2000, Argentina",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36392466723397,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

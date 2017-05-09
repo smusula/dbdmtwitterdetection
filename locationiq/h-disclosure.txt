@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "70410114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27569435",
+    "boundingbox": [
+      "55.8571431",
+      "55.8576725",
+      "-4.2882888",
+      "-4.2875305"
+    ],
+    "lat": "55.8573952",
+    "lon": "-4.28783241507702",
+    "display_name": "Disclosure Scotland, Plantation, Glasgow City, Scotland, G41, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "70494405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27569586",
+    "boundingbox": [
+      "55.8567799",
+      "55.8576184",
+      "-4.2890957",
+      "-4.2880892"
+    ],
+    "lat": "55.85719675",
+    "lon": "-4.28863493764991",
+    "display_name": "Disclosure Scotland, Pacific Drive, Cranston Hill, Plantation, Glasgow City, Scotland, G51 1DA, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

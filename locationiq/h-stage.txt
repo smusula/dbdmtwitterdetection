@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "368023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151454481",
+    "boundingbox": [
+      "40.5920989",
+      "40.6320989",
+      "-104.7636203",
+      "-104.7236203"
+    ],
+    "lat": "40.6120989",
+    "lon": "-104.7436203",
+    "display_name": "Stage, Weld County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "389079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153573732",
+    "boundingbox": [
+      "32.2626467",
+      "32.3026467",
+      "-89.6550718",
+      "-89.6150718"
+    ],
+    "lat": "32.2826467",
+    "lon": "-89.6350718",
+    "display_name": "Stage, Scott County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55832345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4328136682",
+    "boundingbox": [
+      "51.5573883",
+      "51.5773883",
+      "-2.999333",
+      "-2.979333"
+    ],
+    "lat": "51.5673883",
+    "lon": "-2.989333",
+    "display_name": "The Stage, Newport, Wales, NP, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "126681318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265513667",
+    "boundingbox": [
+      "51.523457",
+      "51.523828",
+      "-0.0810922",
+      "-0.0804462"
+    ],
+    "lat": "51.5236826",
+    "lon": "-0.0807741314009661",
+    "display_name": "The Stage, Shoreditch, London Borough of Hackney, London, Greater London, England, E1W, UK",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "67165152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20364118",
+    "boundingbox": [
+      "37.4824762",
+      "37.487729",
+      "-76.9358409",
+      "-76.9343899"
+    ],
+    "lat": "37.4850139",
+    "lon": "-76.935008",
+    "display_name": "Stage, Slaterville, New Kent County, Virginia, 23098, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155531877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421916837",
+    "boundingbox": [
+      "41.2832143",
+      "41.2833808",
+      "-92.6590246",
+      "-92.6588346"
+    ],
+    "lat": "41.28329755",
+    "lon": "-92.6589295817264",
+    "display_name": "Stage, Oskaloosa, Mahaska County, Iowa, 52577, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "113344238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "209624643",
+    "boundingbox": [
+      "40.6657932",
+      "40.6658863",
+      "-73.9656132",
+      "-73.9654791"
+    ],
+    "lat": "40.6658413",
+    "lon": "-73.9655461335046",
+    "display_name": "Stage, East Drive, Prospect Heights, BK, Kings County, NYC, New York, 11238, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651077526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119243619",
+    "boundingbox": [
+      "45.5080219",
+      "45.5082316",
+      "-122.7129718",
+      "-122.7127003"
+    ],
+    "lat": "45.50812575",
+    "lon": "-122.712836208861",
+    "display_name": "Stage, Zoo Street, Portland Heights, Portland, Multnomah County, Oregon, 97201, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "85307087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96666772",
+    "boundingbox": [
+      "47.3675836",
+      "47.3677227",
+      "15.092125",
+      "15.0923336"
+    ],
+    "lat": "47.36765315",
+    "lon": "15.0922293",
+    "display_name": "Stage, 47, Ferdinand Hanusch-Stra\u00dfe, Leitendorf, Schober, Leoben, Steiermark, 8700, \u00d6sterreich",
+    "class": "shop",
+    "type": "musical_instrument",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654549363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481382948",
+    "boundingbox": [
+      "30.2245206",
+      "30.2245797",
+      "-98.8035775",
+      "-98.8035386"
+    ],
+    "lat": "30.22455015",
+    "lon": "-98.80355805",
+    "display_name": "Stage, Ranch to Market Road 1376, Kendall County, Texas, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

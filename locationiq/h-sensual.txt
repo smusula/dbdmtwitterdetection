@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "46542294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3369517045",
+    "boundingbox": [
+      "-23.7200786",
+      "-23.7199786",
+      "-46.5505292",
+      "-46.5504292"
+    ],
+    "lat": "-23.7200286",
+    "lon": "-46.5504792",
+    "display_name": "Sensual, 2334, Avenida Brigadeiro Faria Lima, Vila Magn\u00f3lia, Centro, S\u00e3o Bernardo do Campo, Microrregi\u00e3o de S\u00e3o Paulo, RMSP, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, 09721-230, Brasil",
+    "class": "shop",
+    "type": "erotic",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116268969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222237123",
+    "boundingbox": [
+      "9.9846881",
+      "9.9848516",
+      "-84.1120199",
+      "-84.111866"
+    ],
+    "lat": "9.98481055",
+    "lon": "-84.1119517953125",
+    "display_name": "Sensual, Calle 3, Los Lagos, Guarar\u00ed, San Francisco, Cant\u00f3n Heredia, Provincia Heredia, 40103, Costa Rica",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116165522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221658555",
+    "boundingbox": [
+      "9.9175405",
+      "9.9176553",
+      "-84.0469454",
+      "-84.0468808"
+    ],
+    "lat": "9.91759745",
+    "lon": "-84.0469129770495",
+    "display_name": "Sensual, Pasillo, Mar\u00eda Auxiliadora, Curridabat, Cant\u00f3n Curridabat, Provincia San Jos\u00e9, 11801, Costa Rica",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116928289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224818504",
+    "boundingbox": [
+      "9.9014024",
+      "9.9015438",
+      "-83.9973744",
+      "-83.9972907"
+    ],
+    "lat": "9.9014571",
+    "lon": "-83.9973284803041",
+    "display_name": "Sensual, Escalera, Residencial Omega, San Diego, Cant\u00f3n La Uni\u00f3n, Provincia Cartago, 30302, Costa Rica",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "116969784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224818503",
+    "boundingbox": [
+      "9.9018297",
+      "9.90197",
+      "-83.9963497",
+      "-83.9962694"
+    ],
+    "lat": "9.901901",
+    "lon": "-83.9963093100984",
+    "display_name": "Sensual, Escalera1, Residencial Omega, San Diego, Cant\u00f3n La Uni\u00f3n, Provincia Cartago, 30302, Costa Rica",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

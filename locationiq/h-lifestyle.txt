@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "130073531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286826354",
+    "boundingbox": [
+      "34.0921876",
+      "34.0929919",
+      "-117.4487793",
+      "-117.4473506"
+    ],
+    "lat": "34.0925269",
+    "lon": "-117.448065618253",
+    "display_name": "Lifestyle, Fontana, San Bernardino County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "39002150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2905074052",
+    "boundingbox": [
+      "34.0925405",
+      "34.0926405",
+      "-117.4481226",
+      "-117.4480226"
+    ],
+    "lat": "34.0925905",
+    "lon": "-117.4480726",
+    "display_name": "Lifestyle, Fontana, San Bernardino County, California, 92335, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "25057384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2405697885",
+    "boundingbox": [
+      "52.1573451",
+      "52.1574451",
+      "4.4931534",
+      "4.4932534"
+    ],
+    "lat": "52.1573951",
+    "lon": "4.4932034",
+    "display_name": "Lifestyle, Nieuwe Rijn, Binnenstad, Leiden, Zuid-Holland, Nederland, 2312JG, Nederland",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11466083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1112475541",
+    "boundingbox": [
+      "51.4825174",
+      "51.4826174",
+      "-3.2038682",
+      "-3.2037682"
+    ],
+    "lat": "51.4825674",
+    "lon": "-3.2038182",
+    "display_name": "Lifestyle, Market Place, Canton, Cardiff, Wales, CF, UK",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "47016139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3408267317",
+    "boundingbox": [
+      "13.0586175",
+      "13.0587175",
+      "80.2645521",
+      "80.2646521"
+    ],
+    "lat": "13.0586675",
+    "lon": "80.2646021",
+    "display_name": "Lifestyle, 49-50L, Royapettah, Zone 7 Nungambakkam, Chennai, Chennai district, Tamil Nadu, 600014, India",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2651729688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4678668496",
+    "boundingbox": [
+      "49.7983767",
+      "49.7984767",
+      "9.9010054",
+      "9.9011054"
+    ],
+    "lat": "49.7984267",
+    "lon": "9.9010554",
+    "display_name": "LIFESTYLE, 48, Mainaustra\u00dfe, Zellerau, W\u00fcrzburg, Unterfranken, Bayern, 97082, Deutschland",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "57183459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4446899259",
+    "boundingbox": [
+      "12.9911593",
+      "12.9912593",
+      "77.5711513",
+      "77.5712513"
+    ],
+    "lat": "12.9912093",
+    "lon": "77.5712013",
+    "display_name": "Lifestyle, UG 02-06, Sampige Road, Vyalikaval, Seshadripuram, Bengaluru, Bangalore Urban, Karnataka, 560003, India",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2655043770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4753600446",
+    "boundingbox": [
+      "48.5712973",
+      "48.5713973",
+      "13.4517944",
+      "13.4518944"
+    ],
+    "lat": "48.5713473",
+    "lon": "13.4518444",
+    "display_name": "Lifestyle, 19, Neuburger Stra\u00dfe, Hacklberg, Passau, NB, Bayern, 94032, Deutschland",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653977805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4731959410",
+    "boundingbox": [
+      "24.4968388",
+      "24.4969388",
+      "54.380316",
+      "54.380416"
+    ],
+    "lat": "24.4968888",
+    "lon": "54.380366",
+    "display_name": "Lifestyle, 1150, Al Firdous Street, Marina Square, Al Zahiyah (Tourist Club Area), Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 4758, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "7085827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "762002424",
+    "boundingbox": [
+      "54.5455863",
+      "54.5456863",
+      "-1.2988193",
+      "-1.2987193"
+    ],
+    "lat": "54.5456363",
+    "lon": "-1.2987693",
+    "display_name": "@Lifestyle, Thorntree Road, Thornaby-on-Tees, Thornaby, Stockton-on-Tees, North East England, England, TS17 8AP, UK",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "65665702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18428094",
+    "boundingbox": [
+      "37.565682",
+      "37.566099",
+      "-94.0121389",
+      "-94.0117079"
+    ],
+    "lat": "37.565829",
+    "lon": "-94.0118069",
+    "display_name": "Ds2, Cedarville, Dade County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80209635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66348830",
+    "boundingbox": [
+      "51.2348007",
+      "51.2350535",
+      "22.5457154",
+      "22.5461689"
+    ],
+    "lat": "51.23492555",
+    "lon": "22.5459583746665",
+    "display_name": "Ds2, 44, Nadbystrzycka, Rury \u015awi\u0119toduskie, Rury, Lublin, lubelskie, 20-620, Polska",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "103535769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169235743",
+    "boundingbox": [
+      "54.1970711",
+      "54.1976639",
+      "16.2015274",
+      "16.2018315"
+    ],
+    "lat": "54.1973675",
+    "lon": "16.20167945",
+    "display_name": "DS2, Tadeusza Rejtana, Kopernika, Osiedle Wsp\u00f3lny Dom, Koszalin, zachodniopomorskie, 75-507, Polska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "118793447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231815501",
+    "boundingbox": [
+      "50.0691696",
+      "50.0695327",
+      "19.904709",
+      "19.9051026"
+    ],
+    "lat": "50.06935125",
+    "lon": "19.9049061067906",
+    "display_name": "DS Babilon, 11, J\u00f3zefa Rostafi\u0144skiego, Miasteczko Studenckie AGH, Krowodrza, Krak\u00f3w, ma\u0142opolskie, 30-067, Polska",
+    "class": "tourism",
+    "type": "hostel",
+    "importance": 0.001
+  },
+  {
+    "place_id": "158803199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438897173",
+    "boundingbox": [
+      "-17.7632678",
+      "-17.7629886",
+      "177.4479725",
+      "177.4482306"
+    ],
+    "lat": "-17.7631138",
+    "lon": "177.448095056214",
+    "display_name": "DS#2, Deo Street, Nadi, Western, 769, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

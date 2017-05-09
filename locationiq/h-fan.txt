@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "642096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "243844839",
+    "boundingbox": [
+      "22.4920279",
+      "22.4921279",
+      "114.1386574",
+      "114.1387574"
+    ],
+    "lat": "22.4920779",
+    "lon": "114.1387074",
+    "display_name": "\u7c89\u5dba Fanling, \u7c89\u5dba\u516c\u8def Fanling Highway, \u767e\u798f Pak Fuk, \u5b89\u6a02\u6751 On Lok Tsuen, \u7c89\u5dba Fanling, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.52781050376192
+  },
+  {
+    "place_id": "109108032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192380982",
+    "boundingbox": [
+      "22.4916429",
+      "22.4926219",
+      "114.1382688",
+      "114.1392156"
+    ],
+    "lat": "22.4921299",
+    "lon": "114.138670687868",
+    "display_name": "\u7c89\u5dba Fanling, \u7c89\u5dba\u8eca\u7ad9\u8def Fanling Station Road, \u7530\u5fc3 Tin Sam, \u5b89\u6a02\u6751 On Lok Tsuen, \u7c89\u5dba Fanling, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.5039994037711,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "104838477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173860574",
+    "boundingbox": [
+      "41.8654716",
+      "42.1557201",
+      "19.9528892",
+      "20.082514"
+    ],
+    "lat": "41.9998786",
+    "lon": "19.9991533",
+    "display_name": "Fan, Gjegjan, Puk\u00eb, Qarku i Shkodr\u00ebs, Shqip\u00ebria",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "128659130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279335999",
+    "boundingbox": [
+      "41.7064965",
+      "41.7916108",
+      "19.7690199",
+      "19.852609"
+    ],
+    "lat": "41.7699024",
+    "lon": "19.7888739",
+    "display_name": "Fan, Rubik, Mirdit\u00eb, Qarku i Lezh\u00ebs, Berat County / Qarku i Beratit, Shqip\u00ebria",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "27303573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2588602117",
+    "boundingbox": [
+      "37.5321089",
+      "37.5721089",
+      "-77.4848953",
+      "-77.4448953"
+    ],
+    "lat": "37.5521089",
+    "lon": "-77.4648953",
+    "display_name": "The Fan, Richmond, Richmond City, Virginia, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.40979098780839,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "159451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29729495",
+    "boundingbox": [
+      "52.4569586",
+      "52.4969586",
+      "-3.5794607",
+      "-3.5394607"
+    ],
+    "lat": "52.4769586",
+    "lon": "-3.5594607",
+    "display_name": "Y Fan, Powys, Wales, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160407440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1248940",
+    "boundingbox": [
+      "41.8763222",
+      "42.0326579",
+      "20.0751541",
+      "20.2775799"
+    ],
+    "lat": "41.9302557",
+    "lon": "20.1541502",
+    "display_name": "Fan, Mirdit\u00eb, Qarku i Lezh\u00ebs, Shqip\u00ebria",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "47711156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3450783196",
+    "boundingbox": [
+      "47.2090933",
+      "47.2091933",
+      "1.8952668",
+      "1.8953668"
+    ],
+    "lat": "47.2091433",
+    "lon": "1.8953168",
+    "display_name": "Le Fan, Genouilly, Vierzon, Cher, Centre-Val de Loire, 18310, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "82359980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82226058",
+    "boundingbox": [
+      "42.1836089",
+      "42.2771854",
+      "123.6120496",
+      "123.7651463"
+    ],
+    "lat": "42.2361586",
+    "lon": "123.691984",
+    "display_name": "\u6cdb\u6cb3, \u94c1\u5cad\u53bf / Tieling, \u94c1\u5cad\u5e02 / Tieling, \u8fbd\u5b81\u7701, \u4e2d\u56fd",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "106010437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178298802",
+    "boundingbox": [
+      "54.1323688",
+      "54.1369788",
+      "54.7454697",
+      "54.7598129"
+    ],
+    "lat": "54.1347103",
+    "lon": "54.7535546",
+    "display_name": "\u0424\u0430\u043d\u044c, \u0410\u043b\u044c\u0448\u0435\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 452120, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3136646714219,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

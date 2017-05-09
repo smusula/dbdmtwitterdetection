@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "110963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "17328659",
+    "boundingbox": [
+      "48.0483537",
+      "48.3683537",
+      "16.2125042",
+      "16.5325042"
+    ],
+    "lat": "48.2083537",
+    "lon": "16.3725042",
+    "display_name": "Wien, \u00d6sterreich",
+    "class": "place",
+    "type": "city",
+    "importance": 0.79144681705381,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160350356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "418420",
+    "boundingbox": [
+      "51.772851",
+      "51.8674494",
+      "5.5979767",
+      "5.8009487"
+    ],
+    "lat": "51.8099983",
+    "lon": "5.7362233",
+    "display_name": "Wijchen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47653549084166,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160445972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1451169",
+    "boundingbox": [
+      "51.7778526",
+      "51.8397088",
+      "5.6755147",
+      "5.8009487"
+    ],
+    "lat": "51.80877035",
+    "lon": "5.73480416563305",
+    "display_name": "Wijchen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46321307563109,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4753323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "504886725",
+    "boundingbox": [
+      "13.7811225",
+      "13.8611225",
+      "-87.3203861",
+      "-87.2403861"
+    ],
+    "lat": "13.8211225",
+    "lon": "-87.2803861",
+    "display_name": "El vino, Francisco Moraz\u00e1n, Honduras",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "14075565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1258250138",
+    "boundingbox": [
+      "45.9211269",
+      "45.9611269",
+      "14.5832382",
+      "14.6232382"
+    ],
+    "lat": "45.9411269",
+    "lon": "14.6032382",
+    "display_name": "Vino, Upravna Enota Grosupllje, Osrednjeslovenska, Slovenija",
+    "class": "place",
+    "type": "village",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13447989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242666175",
+    "boundingbox": [
+      "41.3649448",
+      "41.3849448",
+      "-3.9655037",
+      "-3.9455037"
+    ],
+    "lat": "41.3749448",
+    "lon": "-3.9555037",
+    "display_name": "El Vino, San Miguel de Bernuy, Segovia, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654489449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "260598012",
+    "boundingbox": [
+      "4.882773",
+      "4.922773",
+      "-74.3310785",
+      "-74.2910785"
+    ],
+    "lat": "4.902773",
+    "lon": "-74.3110785",
+    "display_name": "El Vino, Sabaneta, Cundinamarca, Colombia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22476610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2247144557",
+    "boundingbox": [
+      "4.8736609",
+      "4.8737609",
+      "-74.2931525",
+      "-74.2930525"
+    ],
+    "lat": "4.8737109",
+    "lon": "-74.2931025",
+    "display_name": "El Vino, Sabaneta, Cundinamarca, Colombia",
+    "class": "mountain_pass",
+    "type": "yes",
+    "importance": 0.35
+  },
+  {
+    "place_id": "128586331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278929561",
+    "boundingbox": [
+      "28.6203854",
+      "28.6207811",
+      "-17.8977739",
+      "-17.897248"
+    ],
+    "lat": "28.62058065",
+    "lon": "-17.8974793228402",
+    "display_name": "Vino, Todoque, Los Llanos de Aridane, Santa Cruz de Tenerife, Canarias, 38759, Espa\u00f1a",
+    "class": "landuse",
+    "type": "meadow",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1442703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "315627213",
+    "boundingbox": [
+      "50.1708347",
+      "50.2108347",
+      "17.6337529",
+      "17.6737529"
+    ],
+    "lat": "50.1908347",
+    "lon": "17.6537529",
+    "display_name": "V\u00edno, okres Brunt\u00e1l, Moravskoslezsk\u00fd kraj, Moravskoslezsko, \u010cesko",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

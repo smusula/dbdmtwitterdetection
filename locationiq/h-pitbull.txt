@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "23948038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2353576090",
+    "boundingbox": [
+      "45.4821313",
+      "45.4822313",
+      "9.18717",
+      "9.18727"
+    ],
+    "lat": "45.4821813",
+    "lon": "9.18722",
+    "display_name": "Pitbull, 11, Corso Como, Porta Garibaldi, Milano, MI, LOM, 20154, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56017354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4362489469",
+    "boundingbox": [
+      "40.7654054",
+      "40.7655054",
+      "14.028661",
+      "14.028761"
+    ],
+    "lat": "40.7654554",
+    "lon": "14.028711",
+    "display_name": "PitBull, Via Roma, Terra Murata, Procida, NA, CAM, 80079, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

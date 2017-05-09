@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "77855770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52027014",
+    "boundingbox": [
+      "37.7638638",
+      "37.7680139",
+      "35.1387506",
+      "35.1395242"
+    ],
+    "lat": "37.7660435",
+    "lon": "35.1390086",
+    "display_name": "moloz seyahat, \u00c7amard\u0131, Ni\u011fde, \u0130\u00e7 Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "98543623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149699863",
+    "boundingbox": [
+      "37.8281861",
+      "37.831546",
+      "35.1961484",
+      "35.19884"
+    ],
+    "lat": "37.8293516",
+    "lon": "35.1976772",
+    "display_name": "moloz seyahat, Yahyal\u0131, Kayseri, \u0130\u00e7 Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "84041148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "90478173",
+    "boundingbox": [
+      "41.015729",
+      "41.0158931",
+      "28.9312314",
+      "28.9314892"
+    ],
+    "lat": "41.01581495",
+    "lon": "28.9313597349673",
+    "display_name": "Seyahat Acentalar\u0131, Kerpi\u00e7hane Sokak, \u015eehremini Mahallesi, \u0130stanbul, Fatih, \u0130stanbul, Marmara B\u00f6lgesi, 34104, T\u00fcrkiye",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50890264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3787556554",
+    "boundingbox": [
+      "37.7526649",
+      "37.7527649",
+      "29.088321",
+      "29.088421"
+    ],
+    "lat": "37.7527149",
+    "lon": "29.088371",
+    "display_name": "Kalehan Turizm ve Seyahat Acentesi, Almelo Caddesi, Mehmet\u00e7ik Mahallesi, Denizli, Pamukkale, Denizli, Ege B\u00f6lgesi, 20000, T\u00fcrkiye",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "38107246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2884029463",
+    "boundingbox": [
+      "40.8440835",
+      "40.8441835",
+      "31.1660041",
+      "31.1661041"
+    ],
+    "lat": "40.8441335",
+    "lon": "31.1660541",
+    "display_name": "D\u00fczce G\u00fcven Seyahat, Erdo\u011fmu\u015f Sokak, D\u00fczce, D\u00fczce merkez, D\u00fczce, Karadeniz B\u00f6lgesi, 81010, T\u00fcrkiye",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56835191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4439283314",
+    "boundingbox": [
+      "50.8808062",
+      "50.8809062",
+      "6.6671392",
+      "6.6672392"
+    ],
+    "lat": "50.8808562",
+    "lon": "6.6671892",
+    "display_name": "Hac-Umre Seyahat Sirketi, Boschstra\u00dfe, Gewerbegebiet Kerpen, Kerpen, Rhein-Erft-Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50171, Deutschland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22711559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2258279131",
+    "boundingbox": [
+      "40.9975878",
+      "40.9976878",
+      "29.1552261",
+      "29.1553261"
+    ],
+    "lat": "40.9976378",
+    "lon": "29.1552761",
+    "display_name": "D\u00fczce Seyahat, Necip Faz\u0131l Bulvar\u0131, Mehmet Akif, Yukar\u0131dudullu, \u00dcmraniye, \u0130stanbul, Marmara B\u00f6lgesi, 34775, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "bus_station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_station.p.20.png"
+  },
+  {
+    "place_id": "2649248778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4617464423",
+    "boundingbox": [
+      "41.3200321",
+      "41.3201321",
+      "27.9797241",
+      "27.9798241"
+    ],
+    "lat": "41.3200821",
+    "lon": "27.9797741",
+    "display_name": "\u0130stanbul Seyahat, 34.Sokak, Kapakl\u0131, \u0130smetpa\u015fa Mh., Karaa\u011fa\u00e7, Kapakl\u0131, Tekirda\u011f, Marmara B\u00f6lgesi, 59510, T\u00fcrkiye",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652718457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4700565177",
+    "boundingbox": [
+      "41.3280419",
+      "41.3281419",
+      "27.9754679",
+      "27.9755679"
+    ],
+    "lat": "41.3280919",
+    "lon": "27.9755179",
+    "display_name": "\u0130stanbul Seyahat, \u00c7erkezk\u00f6y Saray Yolu, Kapakl\u0131, Atat\u00fcrk Mahallesi, Kapakl\u0131, Tekirda\u011f, Marmara B\u00f6lgesi, 59510, T\u00fcrkiye",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653108150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4710821770",
+    "boundingbox": [
+      "41.3239547",
+      "41.3240547",
+      "27.97607",
+      "27.97617"
+    ],
+    "lat": "41.3240047",
+    "lon": "27.97612",
+    "display_name": "\u0130stanbul Seyahat, Gaziosmanpa\u015fa Caddesi, Kapakl\u0131, \u0130smetpa\u015fa Mh., Karaa\u011fa\u00e7, Kapakl\u0131, Tekirda\u011f, Marmara B\u00f6lgesi, 59510, T\u00fcrkiye",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

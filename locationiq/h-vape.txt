@@ -1,0 +1,111 @@
+[
+  {
+    "place_id": "28190131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2612962431",
+    "boundingbox": [
+      "51.5795713",
+      "51.5796713",
+      "-0.3342049",
+      "-0.3341049"
+    ],
+    "lat": "51.5796213",
+    "lon": "-0.3341549",
+    "display_name": "Vape, Station Road, Harrow on the Hill, London Borough of Harrow, London, Greater London, England, HA1 2AW, UK",
+    "class": "shop",
+    "type": "e-cigarette",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55773642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4347899540",
+    "boundingbox": [
+      "52.2892454",
+      "52.2893454",
+      "-0.5971438",
+      "-0.5970438"
+    ],
+    "lat": "52.2892954",
+    "lon": "-0.5970938",
+    "display_name": "Vape, High Street, Rushden, East Northamptonshire, Northamptonshire, East Midlands, England, NN10 0NZ, UK",
+    "class": "shop",
+    "type": "tobacco",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608122304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "116338607",
+    "boundingbox": [
+      "53.0976855",
+      "53.0978328",
+      "-1.386882",
+      "-1.3867801"
+    ],
+    "lat": "53.0977333",
+    "lon": "-1.38682623389956",
+    "display_name": "Vape, High Street, Alfreton CP, Amber Valley, Derbyshire, East Midlands, England, DE55 7BW, UK",
+    "class": "shop",
+    "type": "e-cigarette",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56597709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4431642494",
+    "boundingbox": [
+      "52.5713687",
+      "52.5714687",
+      "0.8221251",
+      "0.8222251"
+    ],
+    "lat": "52.5714187",
+    "lon": "0.8221751",
+    "display_name": "Vape, 76, High Street, Watton, Breckland District, Norfolk, East of England, England, IP25 6AH, UK",
+    "class": "shop",
+    "type": "vaping",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609135958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4472358398",
+    "boundingbox": [
+      "16.8463441",
+      "16.8464441",
+      "96.1556369",
+      "96.1557369"
+    ],
+    "lat": "16.8463941",
+    "lon": "96.1556869",
+    "display_name": "The Vape, Kan Yeik Thar St, \u1019\u101b\u1019\u103a\u1038\u1000\u102f\u1014\u103a\u1038, Northern District, \u101b\u1014\u103a\u1000\u102f\u1014\u103a, Yangon, 11081, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "40194092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2945979249",
+    "boundingbox": [
+      "37.2776749",
+      "37.2777749",
+      "-79.870523",
+      "-79.870423"
+    ],
+    "lat": "37.2777249",
+    "lon": "-79.870473",
+    "display_name": "Vape, East Washington Avenue, Kenwood, Spring Grove, Roanoke County, Virginia, 24179, United States of America",
+    "class": "shop",
+    "type": "e-cigarette",
+    "importance": 0.101
+  }
+]

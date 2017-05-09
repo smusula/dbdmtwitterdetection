@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "47980666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3477270310",
+    "boundingbox": [
+      "50.872422",
+      "50.872522",
+      "14.259227",
+      "14.259327"
+    ],
+    "lat": "50.872472",
+    "lon": "14.259277",
+    "display_name": "Pidi\u017ev\u00edk, H\u0159ensko, okres D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, Severoz\u00e1pad, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "24866407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2410457761",
+    "boundingbox": [
+      "49.2805025",
+      "49.2806025",
+      "-123.1020946",
+      "-123.1019946"
+    ],
+    "lat": "49.2805525",
+    "lon": "-123.1020446",
+    "display_name": "Bestie, 105, East Pender Street, Chinatown, Vancouver, Greater Vancouver Regional District, British Columbia, V6A, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17969918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1735321669",
+    "boundingbox": [
+      "-36.8573392",
+      "-36.8572392",
+      "174.7601603",
+      "174.7602603"
+    ],
+    "lat": "-36.8572892",
+    "lon": "174.7602103",
+    "display_name": "Bestie, 183, Karangahape Road, Newton, Waitemata, Auckland, 1010, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

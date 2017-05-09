@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160373403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1074381",
+    "boundingbox": [
+      "32.43861",
+      "32.692764",
+      "-84.0180969",
+      "-83.7006069"
+    ],
+    "lat": "32.5543462",
+    "lon": "-83.8350732",
+    "display_name": "Peach County, Georgia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49961277857485,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "386734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153533520",
+    "boundingbox": [
+      "35.0261937",
+      "35.0661937",
+      "-87.2441825",
+      "-87.2041825"
+    ],
+    "lat": "35.0461937",
+    "lon": "-87.2241825",
+    "display_name": "Peach, Giles County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "476567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158454728",
+    "boundingbox": [
+      "36.3345994",
+      "36.3745994",
+      "-76.5566125",
+      "-76.5166125"
+    ],
+    "lat": "36.3545994",
+    "lon": "-76.5366125",
+    "display_name": "Peach, Perquimans County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "66440270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19614401",
+    "boundingbox": [
+      "35.1500829",
+      "35.1503029",
+      "-90.0342054",
+      "-90.0331454"
+    ],
+    "lat": "35.1501269",
+    "lon": "-90.0332014",
+    "display_name": "Peach, Memphis, Shelby County, Tennessee, 38105, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62026944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12091372",
+    "boundingbox": [
+      "40.3266166",
+      "40.3273296",
+      "-79.5711453",
+      "-79.5704737"
+    ],
+    "lat": "40.3271106",
+    "lon": "-79.5707961",
+    "display_name": "Peach, Beech Hills, Westmoreland County, Pennsylvania, 15601, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67766193",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21699659",
+    "boundingbox": [
+      "38.967193",
+      "38.967443",
+      "-89.4010289",
+      "-89.3900119"
+    ],
+    "lat": "38.967329",
+    "lon": "-89.3955779",
+    "display_name": "Peach, Durley, Bond County, Illinois, 62246, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67836702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21808367",
+    "boundingbox": [
+      "41.0622163",
+      "41.0631417",
+      "-87.5544308",
+      "-87.5535798"
+    ],
+    "lat": "41.0622163",
+    "lon": "-87.5535798",
+    "display_name": "Peach, Kankakee County, Illinois, 60944, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67099165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20696099",
+    "boundingbox": [
+      "41.364434",
+      "41.366513",
+      "-74.2973509",
+      "-74.2940139"
+    ],
+    "lat": "41.365512",
+    "lon": "-74.2958279",
+    "display_name": "Peach, Otter Kill, Orange County, New York, 10918, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65467733",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17942363",
+    "boundingbox": [
+      "44.975908",
+      "44.975924",
+      "-84.6975469",
+      "-84.6946539"
+    ],
+    "lat": "44.975924",
+    "lon": "-84.6968969",
+    "display_name": "Peach, Pearll City, Otsego County, Michigan, 49735, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65917350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18782303",
+    "boundingbox": [
+      "36.971655",
+      "36.972194",
+      "-90.5518119",
+      "-90.5510779"
+    ],
+    "lat": "36.972159",
+    "lon": "-90.5512589",
+    "display_name": "Peach, Williamsville, Wayne County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

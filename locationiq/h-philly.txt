@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "128553495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278718469",
+    "boundingbox": [
+      "36.0672084",
+      "36.0688264",
+      "-80.0089356",
+      "-80.0080464"
+    ],
+    "lat": "36.0684073",
+    "lon": "-80.0088551",
+    "display_name": "Philly Lane, High Point, Guilford County, North Carolina, 27235, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65172254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17440913",
+    "boundingbox": [
+      "40.048462",
+      "40.048831",
+      "-85.6366119",
+      "-85.6353439"
+    ],
+    "lat": "40.048516",
+    "lon": "-85.6361719",
+    "display_name": "Philly Way, Anderson, Madison County, Indiana, 46013, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63379539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14248246",
+    "boundingbox": [
+      "40.634936",
+      "40.635045",
+      "-75.8557429",
+      "-75.8553279"
+    ],
+    "lat": "40.634996",
+    "lon": "-75.8554909",
+    "display_name": "Old Philly Pike, Trexler, Berks County, Pennsylvania, 19529, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63367068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14235472",
+    "boundingbox": [
+      "40.6311",
+      "40.631762",
+      "-75.8342119",
+      "-75.8341859"
+    ],
+    "lat": "40.631454",
+    "lon": "-75.8341859",
+    "display_name": "Old Philly Pike, Fetherolfsville, Berks County, Pennsylvania, 19529, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63054907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14247764",
+    "boundingbox": [
+      "40.632106",
+      "40.635129",
+      "-75.8636279",
+      "-75.8557429"
+    ],
+    "lat": "40.632932",
+    "lon": "-75.8594419",
+    "display_name": "Old Philly Pk, Trexler, Berks County, Pennsylvania, 19529, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63379524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14248234",
+    "boundingbox": [
+      "40.635713",
+      "40.643534",
+      "-75.9272299",
+      "-75.8925379"
+    ],
+    "lat": "40.641308",
+    "lon": "-75.9094059",
+    "display_name": "Old Philly Pike, Quaker City, Berks County, Pennsylvania, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63078285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14248243",
+    "boundingbox": [
+      "40.629083",
+      "40.632106",
+      "-75.8911009",
+      "-75.8636279"
+    ],
+    "lat": "40.630796",
+    "lon": "-75.8774069",
+    "display_name": "Old Philly Pike, Albany, Berks County, Pennsylvania, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63631650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15197203",
+    "boundingbox": [
+      "29.967285",
+      "29.968013",
+      "-98.2262369",
+      "-98.2260979"
+    ],
+    "lat": "29.968013",
+    "lon": "-98.2260979",
+    "display_name": "Philly Court, Fischer, Comal County, Texas, 78623, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57559442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5582730",
+    "boundingbox": [
+      "42.649296",
+      "42.65267",
+      "-74.0563009",
+      "-74.0537469"
+    ],
+    "lat": "42.651087",
+    "lon": "-74.0548799",
+    "display_name": "Philly Road, Town of Knox, Albany County, New York, 12059, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "143142011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "354072202",
+    "boundingbox": [
+      "30.5194536",
+      "30.5197716",
+      "-90.1578978",
+      "-90.1565366"
+    ],
+    "lat": "30.5194536",
+    "lon": "-90.1569486",
+    "display_name": "Philly Court, Ramsay, St. Tammany Parish, Louisiana, 70434, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

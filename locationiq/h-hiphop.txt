@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "956115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "287560665",
+    "boundingbox": [
+      "60.1871303",
+      "60.1872303",
+      "24.9407938",
+      "24.9408938"
+    ],
+    "lat": "60.1871803",
+    "lon": "24.9408438",
+    "display_name": "Hiphop, 1, Tivolikuja, Alppila, Alppiharju, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, FI-00510, Suomi",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "56500302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4398484246",
+    "boundingbox": [
+      "51.1966513",
+      "51.1967513",
+      "4.4223342",
+      "4.4224342"
+    ],
+    "lat": "51.1967013",
+    "lon": "4.4223842",
+    "display_name": "Hiphop, Driekoningenstraat, Oud-Berchem, Berchem, Antwerpen, Vlaanderen, 2600, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

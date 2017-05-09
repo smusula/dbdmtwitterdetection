@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "2647492395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4578320597",
+    "boundingbox": [
+      "46.1915751",
+      "46.1916751",
+      "6.7764924",
+      "6.7765924"
+    ],
+    "lat": "46.1916251",
+    "lon": "6.7765424",
+    "display_name": "Festival, Chalet de l'Aiguille, Morzine, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74110, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2648418613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4599347148",
+    "boundingbox": [
+      "13.3100383",
+      "13.3101383",
+      "12.6145798",
+      "12.6146798"
+    ],
+    "lat": "13.3100883",
+    "lon": "12.6146298",
+    "display_name": "Festival, Diffa, Niger",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "59095408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7726249",
+    "boundingbox": [
+      "31.145853",
+      "31.145864",
+      "-85.4053289",
+      "-85.4045659"
+    ],
+    "lat": "31.145856",
+    "lon": "-85.4051269",
+    "display_name": "Festival, Dothan, Houston County, Alabama, 36301, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68412944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23119844",
+    "boundingbox": [
+      "-33.9827394",
+      "-33.9800634",
+      "18.8476995",
+      "18.8528064"
+    ],
+    "lat": "-33.9816789",
+    "lon": "18.850447",
+    "display_name": "Festival, Aan de Weber, Stellenbosch Ward 21, Stellenbosch Local Municipality, Cape Winelands District Municipality, Western Cape, 7487, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54750520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4237988892",
+    "boundingbox": [
+      "51.9955873",
+      "51.9956873",
+      "6.6023986",
+      "6.6024986"
+    ],
+    "lat": "51.9956373",
+    "lon": "6.6024486",
+    "display_name": "festival, Visserijdijk, Vragender, Oost Gelre, Gelderland, Nederland, 7134RD, Nederland",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "6568321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "681818309",
+    "boundingbox": [
+      "48.8655593",
+      "48.8656593",
+      "2.3368761",
+      "2.3369761"
+    ],
+    "lat": "48.8656093",
+    "lon": "2.3369261",
+    "display_name": "Le Festival, Passage Hulot, Palais Royal, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54757016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4235248790",
+    "boundingbox": [
+      "51.0542816",
+      "51.0543816",
+      "3.7259686",
+      "3.7260686"
+    ],
+    "lat": "51.0543316",
+    "lon": "3.7260186",
+    "display_name": "Festival, 58, Hoogpoort, St. Jacobs, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "74460649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38694995",
+    "boundingbox": [
+      "52.3785124",
+      "52.3786927",
+      "-1.5038496",
+      "-1.5035595"
+    ],
+    "lat": "52.37860745",
+    "lon": "-1.50370340585115",
+    "display_name": "The Festival, Stonebridge Highway, Fenside, Stivichall, Coventry, West Midlands, England, CV3 5NJ, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "36120543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2834225427",
+    "boundingbox": [
+      "42.641534",
+      "42.641634",
+      "18.10805",
+      "18.10815"
+    ],
+    "lat": "42.641584",
+    "lon": "18.1081",
+    "display_name": "Festival, Celestina Medovi\u0107a, Plo\u010de, Pile, Dubrovnik, Dubrova\u010dko-Neretvanska \u017eupanija, 20108, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "40690305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2985405233",
+    "boundingbox": [
+      "16.460442",
+      "16.460542",
+      "107.591383",
+      "107.591483"
+    ],
+    "lat": "16.460492",
+    "lon": "107.591433",
+    "display_name": "Festival, L\u00fd Th\u01b0\u1eddng Ki\u1ec7t, Hu\u1ebf, T\u1ec9nh Th\u1eeba Thi\u00ean - Hu\u1ebf, 008454, Vi\u1ec7t Nam",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

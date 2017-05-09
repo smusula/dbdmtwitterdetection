@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "18106129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1760574323",
+    "boundingbox": [
+      "-34.1652463",
+      "-34.1651463",
+      "-70.7392078",
+      "-70.7391078"
+    ],
+    "lat": "-34.1651963",
+    "lon": "-70.7391578",
+    "display_name": "Hungry, Avenida Libertador Bernardo O'Higgins, Arbolada de Koke, Rancagua, Provincia de Cachapoal, VI Regi\u00f3n del Libertador General Bernardo O'Higgins, 2852046, Chile",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "45866837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3267534120",
+    "boundingbox": [
+      "37.9160237",
+      "37.9161237",
+      "139.0577642",
+      "139.0578642"
+    ],
+    "lat": "37.9160737",
+    "lon": "139.0578142",
+    "display_name": "\u30cf\u30f3\u30b0\u30ea\u30fc, \u65b0\u6f5f\u5c0f\u9808\u6238\u4e09\u6761\u7dda, \u4e2d\u592e\u533a, \u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, 950-0901, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

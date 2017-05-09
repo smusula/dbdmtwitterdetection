@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "19284862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1867070199",
+    "boundingbox": [
+      "52.2690837",
+      "52.3090837",
+      "19.6894937",
+      "19.7294937"
+    ],
+    "lat": "52.2890837",
+    "lon": "19.7094937",
+    "display_name": "Model, gmina Pacyna, powiat gostyni\u0144ski, mazowieckie, 09-541, Polska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13255969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242363653",
+    "boundingbox": [
+      "41.0048517",
+      "41.0248517",
+      "-0.9666632",
+      "-0.9466632"
+    ],
+    "lat": "41.0148517",
+    "lon": "-0.9566632",
+    "display_name": "El Model, Huesa del Com\u00fan, Teruel, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "351157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151346779",
+    "boundingbox": [
+      "37.3522372",
+      "37.3922372",
+      "-104.2649742",
+      "-104.2249742"
+    ],
+    "lat": "37.3722372",
+    "lon": "-104.2449742",
+    "display_name": "Model, Las Animas County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.33670773196559,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "99533051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153701118",
+    "boundingbox": [
+      "50.1805787",
+      "50.1819869",
+      "11.1907058",
+      "11.1914416"
+    ],
+    "lat": "50.1814422",
+    "lon": "11.1907058",
+    "display_name": "Model, Marktgraitz, Redwitz an der Rodach (VGem), Landkreis Lichtenfels, Oberfranken, Bayern, 96257, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18579142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1824839441",
+    "boundingbox": [
+      "52.3143979",
+      "52.3144979",
+      "20.9613863",
+      "20.9614863"
+    ],
+    "lat": "52.3144479",
+    "lon": "20.9614363",
+    "display_name": "Model, 12, Poraj\u00f3w, Tarchomin, Bia\u0142o\u0142\u0119ka, Warszawa, mazowieckie, 03-126, Polska",
+    "class": "amenity",
+    "type": "driving_school",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646337638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4552755256",
+    "boundingbox": [
+      "43.2806195",
+      "43.2807195",
+      "-2.9627313",
+      "-2.9626313"
+    ],
+    "lat": "43.2806695",
+    "lon": "-2.9626813",
+    "display_name": "Model, Calle Universidad de O\u00f1ate, Sarrikue-Sarriko, San Inazio, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19518483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1888240341",
+    "boundingbox": [
+      "50.269379",
+      "50.269479",
+      "19.0798752",
+      "19.0799752"
+    ],
+    "lat": "50.269429",
+    "lon": "19.0799252",
+    "display_name": "Model, 8, Genera\u0142a J\u00f3zefa Hallera, Ro\u017adzie\u0144, Burowiec, Szopienice-Burowiec, Katowice, \u015bl\u0105skie, 40-338, Polska",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2654803630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "201897472",
+    "boundingbox": [
+      "50.2645399",
+      "50.2647114",
+      "19.1058047",
+      "19.1060721"
+    ],
+    "lat": "50.26464585",
+    "lon": "19.1059381766157",
+    "display_name": "Model, 119b, Morawa, Osiedle Morawa, Szopienice, Szopienice-Burowiec, Katowice, \u015bl\u0105skie, 40-353, Polska",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "55820609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4327190452",
+    "boundingbox": [
+      "41.9836678",
+      "41.9837678",
+      "2.814717",
+      "2.814817"
+    ],
+    "lat": "41.9837178",
+    "lon": "2.814767",
+    "display_name": "Model, 12, Carrer de Pau Casals, Eixample, GRN, Girona, CAT, 17001, Espa\u00f1a",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "8902989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "931095019",
+    "boundingbox": [
+      "46.1033768",
+      "46.1034768",
+      "19.6694803",
+      "19.6695803"
+    ],
+    "lat": "46.1034268",
+    "lon": "19.6695303",
+    "display_name": "Model, \u0412\u0430\u0441\u0435 \u0421\u0442\u0430\u0458\u0438\u045b\u0430, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e, \u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430, \u0413\u0440\u0430\u0434 \u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430, \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430, 24105, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

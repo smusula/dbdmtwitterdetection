@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160420794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1390144",
+    "boundingbox": [
+      "4.6558051",
+      "7.0548413",
+      "-74.6593288",
+      "-71.9452874"
+    ],
+    "lat": "5.6278979",
+    "lon": "-72.8268616",
+    "display_name": "Boyac\u00e1, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.60754196290482,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "54374677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4202782802",
+    "boundingbox": [
+      "44.4717007",
+      "44.5117007",
+      "3.5423495",
+      "3.5823495"
+    ],
+    "lat": "44.4917007",
+    "lon": "3.5623495",
+    "display_name": "Le Boy, Mende, Loz\u00e8re, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42345691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3076921956",
+    "boundingbox": [
+      "7.9049195",
+      "7.9449195",
+      "-2.8826232",
+      "-2.8426232"
+    ],
+    "lat": "7.9249195",
+    "lon": "-2.8626232",
+    "display_name": "Boy, Gontougo, Zanzan, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41907559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3054196973",
+    "boundingbox": [
+      "5.73",
+      "5.77",
+      "-8.5033329",
+      "-8.4633329"
+    ],
+    "lat": "5.75",
+    "lon": "-8.4833329",
+    "display_name": "Boy, Seekon, Sinoe County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22414231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2208651972",
+    "boundingbox": [
+      "43.345877",
+      "43.345977",
+      "-0.1754535",
+      "-0.1753535"
+    ],
+    "lat": "43.345927",
+    "lon": "-0.1754035",
+    "display_name": "Boy, Sedz\u00e8re, Pau, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64160, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "26497405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2504192355",
+    "boundingbox": [
+      "43.0556724",
+      "43.0756724",
+      "0.0335066",
+      "0.0535066"
+    ],
+    "lat": "43.0656724",
+    "lon": "0.0435066",
+    "display_name": "Boy, Arrodets-ez-Angles, Argel\u00e8s-Gazost, Hautes-Pyr\u00e9n\u00e9es, Occitanie, 65100, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4352572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "459659743",
+    "boundingbox": [
+      "51.5165011",
+      "51.5565011",
+      "6.9522127",
+      "6.9922127"
+    ],
+    "lat": "51.5365011",
+    "lon": "6.9722127",
+    "display_name": "Boy, Bottrop, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, Deutschland",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2608161646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4452475898",
+    "boundingbox": [
+      "43.871484",
+      "43.871584",
+      "0.4140746",
+      "0.4141746"
+    ],
+    "lat": "43.871534",
+    "lon": "0.4141246",
+    "display_name": "Boy, Saint-Puy, Condom, Gers, Occitanie, 32310, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "40541687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2973773582",
+    "boundingbox": [
+      "44.0686061",
+      "44.0886061",
+      "0.3222524",
+      "0.3422524"
+    ],
+    "lat": "44.0786061",
+    "lon": "0.3322524",
+    "display_name": "Le Boy, Fr\u00e9chou, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47600, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40221296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2963272273",
+    "boundingbox": [
+      "44.0526925",
+      "44.0527925",
+      "0.3885877",
+      "0.3886877"
+    ],
+    "lat": "44.0527425",
+    "lon": "0.3886377",
+    "display_name": "Le Boy, Moncrabeau, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47600, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

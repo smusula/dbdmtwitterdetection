@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "2646450687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "459628746",
+    "boundingbox": [
+      "26.0053144",
+      "26.0053634",
+      "-80.1864853",
+      "-80.1863888"
+    ],
+    "lat": "26.0053183",
+    "lon": "-80.1864339",
+    "display_name": "POOL, Hollywood, Broward County, Florida, United States of America",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2650058311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469227030",
+    "boundingbox": [
+      "40.6376593",
+      "40.63774",
+      "-80.3816136",
+      "-80.3815141"
+    ],
+    "lat": "40.63774",
+    "lon": "-80.3815598",
+    "display_name": "Pool, Beaver County, Pennsylvania, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "39844727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2937459782",
+    "boundingbox": [
+      "31.825201",
+      "31.825301",
+      "-81.3050955",
+      "-81.3049955"
+    ],
+    "lat": "31.825251",
+    "lon": "-81.3050455",
+    "display_name": "Pool, Bryan County, Georgia, United States of America",
+    "class": "waterway",
+    "type": "weir",
+    "importance": 0.425
+  },
+  {
+    "place_id": "17789175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1720021404",
+    "boundingbox": [
+      "53.1229726",
+      "53.1230726",
+      "-119.2038648",
+      "-119.2037648"
+    ],
+    "lat": "53.1230226",
+    "lon": "-119.2038148",
+    "display_name": "Pool, Regional District of Fraser-Fort George, British Columbia, Canada",
+    "class": "waterway",
+    "type": "rapids",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2650235744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469587927",
+    "boundingbox": [
+      "25.2691848",
+      "25.2695389",
+      "51.482148",
+      "51.4824591"
+    ],
+    "lat": "25.2693764",
+    "lon": "51.4822955",
+    "display_name": "Pool, Al-Rayyan, Ar Rayyan, \u200f\u0642\u0637\u0631\u200e",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160613576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3220595",
+    "boundingbox": [
+      "-4.9221389",
+      "-2.7174565",
+      "13.8602706",
+      "16.2145623"
+    ],
+    "lat": "-4.3629728",
+    "lon": "14.7391738",
+    "display_name": "Pool, R\u00e9publique du Congo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38421533777039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2649465202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1478246763",
+    "boundingbox": [
+      "50.6714078",
+      "50.7114078",
+      "-4.1186519",
+      "-4.0786519"
+    ],
+    "lat": "50.6914078",
+    "lon": "-4.0986519",
+    "display_name": "Pool, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28303271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2622423315",
+    "boundingbox": [
+      "13.1559712",
+      "13.1959712",
+      "-59.5342014",
+      "-59.4942014"
+    ],
+    "lat": "13.1759712",
+    "lon": "-59.5142014",
+    "display_name": "Pool, Saint John, Barbados",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "409201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153902466",
+    "boundingbox": [
+      "38.1437228",
+      "38.1837228",
+      "-80.8842629",
+      "-80.8442629"
+    ],
+    "lat": "38.1637228",
+    "lon": "-80.8642629",
+    "display_name": "Pool, Nicholas County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160816703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4818686",
+    "boundingbox": [
+      "53.8880317",
+      "53.90733",
+      "-1.6608211",
+      "-1.6104045"
+    ],
+    "lat": "53.897679",
+    "lon": "-1.63720984146571",
+    "display_name": "Pool, Leeds, East Riding of Yorkshire, Yorkshire and the Humber, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

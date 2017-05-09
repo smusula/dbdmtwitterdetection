@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160494992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2179309",
+    "boundingbox": [
+      "42.7956684",
+      "42.8050426",
+      "-1.6694142",
+      "-1.6467272"
+    ],
+    "lat": "42.80009565",
+    "lon": "-1.65810457929369",
+    "display_name": "UN, Carretera de la Universidad, Lezkairu, Pamplona/Iru\u00f1a, Navarra, 31007, Espa\u00f1a",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.49694520020431,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "160369141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1027787",
+    "boundingbox": [
+      "47.623469",
+      "47.6623083",
+      "18.7173852",
+      "18.7821786"
+    ],
+    "lat": "47.6430359",
+    "lon": "18.7389954",
+    "display_name": "\u00dany, Esztergomi j\u00e1r\u00e1s, Kom\u00e1rom-Esztergom megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47965970416506,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "642735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "245718263",
+    "boundingbox": [
+      "23.9278",
+      "23.9678",
+      "71.7783",
+      "71.8183"
+    ],
+    "lat": "23.9478",
+    "lon": "71.7983",
+    "display_name": "Un, Mahes\u0101na, Gujarat, 385560, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "30153321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2723541981",
+    "boundingbox": [
+      "24.3561014",
+      "24.3961014",
+      "70.654538",
+      "70.694538"
+    ],
+    "lat": "24.3761014",
+    "lon": "70.674538",
+    "display_name": "Un, Tharparkar District, \u0633\u0646\u068c, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "96893850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "141915496",
+    "boundingbox": [
+      "57.4173654",
+      "57.5144576",
+      "58.5424363",
+      "58.7071561"
+    ],
+    "lat": "57.4393853",
+    "lon": "58.6445541",
+    "display_name": "\u0423\u043d\u044c, \u0428\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "13340774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1239343119",
+    "boundingbox": [
+      "57.5664224",
+      "57.6064224",
+      "58.6632944",
+      "58.7032944"
+    ],
+    "lat": "57.5864224",
+    "lon": "58.6832944",
+    "display_name": "\u0423\u043d\u044c, \u0428\u0430\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "83138934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87080782",
+    "boundingbox": [
+      "36.878281",
+      "36.8789276",
+      "10.113471",
+      "10.1136832"
+    ],
+    "lat": "36.878281",
+    "lon": "10.1136832",
+    "display_name": "un, \u062d\u062f\u0627\u0626\u0642 \u0627\u0644\u0645\u0646\u0632\u0647 2, Mnihla, \u0623\u0631\u064a\u0627\u0646\u0629, 2096, \u062a\u0648\u0646\u0633",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "139151171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "330093957",
+    "boundingbox": [
+      "46.7467968",
+      "46.7471811",
+      "-1.6272749",
+      "-1.6268358"
+    ],
+    "lat": "46.7469974",
+    "lon": "-1.6270033",
+    "display_name": "Un, Le Plessis, Aizenay, La Roche-sur-Yon, Vend\u00e9e, Pays de la Loire, 85190, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62569282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13407097",
+    "boundingbox": [
+      "34.729001",
+      "34.734854",
+      "-117.7344199",
+      "-117.7338709"
+    ],
+    "lat": "34.730667",
+    "lon": "-117.7340269",
+    "display_name": "Un, Hi Vista, Los Angeles County, California, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "10949112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "977278929",
+    "boundingbox": [
+      "10.0964757",
+      "10.1364757",
+      "98.7146334",
+      "98.7546334"
+    ],
+    "lat": "10.1164757",
+    "lon": "98.7346334",
+    "display_name": "\u0e25\u0e30\u0e2d\u0e38\u0e48\u0e19, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e23\u0e30\u0e19\u0e2d\u0e07, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "place",
+    "type": "village",
+    "importance": 0.17714730829695,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

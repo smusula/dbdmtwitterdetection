@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "107340034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184279105",
+    "boundingbox": [
+      "48.268705",
+      "48.3165375",
+      "6.9808244",
+      "7.11242"
+    ],
+    "lat": "48.2802437",
+    "lon": "7.046385",
+    "display_name": "La Fave, Neuvillers-sur-Fave, Saint-Di\u00e9-des-Vosges, Vosges, Grand-Est, 88100, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "56441281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4390756731",
+    "boundingbox": [
+      "45.7030774",
+      "45.7430774",
+      "5.7451721",
+      "5.7851721"
+    ],
+    "lat": "45.7230774",
+    "lon": "5.7651721",
+    "display_name": "Nattages, La Fave, Belley, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26131090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2484200091",
+    "boundingbox": [
+      "45.5825248",
+      "45.6025248",
+      "4.5307817",
+      "4.5507817"
+    ],
+    "lat": "45.5925248",
+    "lon": "4.5407817",
+    "display_name": "La-Fave, Larajasse, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69590, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2650572300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4624225938",
+    "boundingbox": [
+      "44.8741349",
+      "44.8742349",
+      "7.2778265",
+      "7.2779265"
+    ],
+    "lat": "44.8741849",
+    "lon": "7.2778765",
+    "display_name": "Fav\u00e8, Prarostino, TO, PIE, Italia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "2654421454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740821921",
+    "boundingbox": [
+      "6.2853921",
+      "6.2854921",
+      "99.7331864",
+      "99.7332864"
+    ],
+    "lat": "6.2854421",
+    "lon": "99.7332364",
+    "display_name": "Fave, Jalan Pantai Tengah, Kg Temoyong, Langkawi, Kedah, Malaysia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "150880545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395858534",
+    "boundingbox": [
+      "-8.6717514",
+      "-8.6705783",
+      "115.1628733",
+      "115.1633147"
+    ],
+    "lat": "-8.67104805",
+    "lon": "115.163118063765",
+    "display_name": "Fave, Jl. Petitenget, Seminyak, KECAMATAN KUBU, Bali, 90361, Indonesia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19535725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1924439614",
+    "boundingbox": [
+      "-6.8961089",
+      "-6.8960089",
+      "107.6036329",
+      "107.6037329"
+    ],
+    "lat": "-6.8960589",
+    "lon": "107.6036829",
+    "display_name": "Fave, Jalan Cihampelas, Pasteur, Jawa Barat, 40562, Indonesia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

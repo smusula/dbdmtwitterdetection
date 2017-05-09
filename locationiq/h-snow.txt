@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "405047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153640523",
+    "boundingbox": [
+      "41.9044887",
+      "41.9444887",
+      "-86.5030745",
+      "-86.4630745"
+    ],
+    "lat": "41.9244887",
+    "lon": "-86.4830745",
+    "display_name": "Snow, Berrien County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "419480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153793659",
+    "boundingbox": [
+      "36.7303437",
+      "36.7703437",
+      "-85.1569001",
+      "-85.1169001"
+    ],
+    "lat": "36.7503437",
+    "lon": "-85.1369001",
+    "display_name": "Snow, Clinton County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "337175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150942328",
+    "boundingbox": [
+      "40.2696758",
+      "40.3096758",
+      "-111.7154808",
+      "-111.6754808"
+    ],
+    "lat": "40.2896758",
+    "lon": "-111.6954808",
+    "display_name": "Snow, Utah County, Utah, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "368111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151602376",
+    "boundingbox": [
+      "36.2328484",
+      "36.2728484",
+      "-92.8221126",
+      "-92.7821126"
+    ],
+    "lat": "36.2528484",
+    "lon": "-92.8021126",
+    "display_name": "Snow, Marion County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "353336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151538016",
+    "boundingbox": [
+      "34.3760068",
+      "34.4160068",
+      "-95.4330332",
+      "-95.3930332"
+    ],
+    "lat": "34.3960068",
+    "lon": "-95.4130332",
+    "display_name": "Snow, Pushmataha County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "344332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150961724",
+    "boundingbox": [
+      "40.7651912",
+      "40.7851912",
+      "-111.9256367",
+      "-111.9056367"
+    ],
+    "lat": "40.7751912",
+    "lon": "-111.9156367",
+    "display_name": "Snow, Salt Lake City, Salt Lake County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59478872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8762966",
+    "boundingbox": [
+      "42.2845451",
+      "42.284626",
+      "-83.2143059",
+      "-83.214256"
+    ],
+    "lat": "42.2845451",
+    "lon": "-83.214256",
+    "display_name": "Snow, Dearborn, Wayne County, Michigan, 48101, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64009312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15353950",
+    "boundingbox": [
+      "29.821568",
+      "29.823218",
+      "-95.8302399",
+      "-95.8301929"
+    ],
+    "lat": "29.821568",
+    "lon": "-95.8301929",
+    "display_name": "Snow, Katy, Harris County, Texas, 77493, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67966823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21938299",
+    "boundingbox": [
+      "32.924239",
+      "32.924747",
+      "-98.4337129",
+      "-98.4333699"
+    ],
+    "lat": "32.924747",
+    "lon": "-98.4333699",
+    "display_name": "Snow, Palo Pinto County, Texas, 76449, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65538878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17767678",
+    "boundingbox": [
+      "46.2875975",
+      "46.2891982",
+      "-84.1299157",
+      "-84.1274951"
+    ],
+    "lat": "46.2877998",
+    "lon": "-84.1293927",
+    "display_name": "Snow, Chippewa County, Michigan, 49710, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

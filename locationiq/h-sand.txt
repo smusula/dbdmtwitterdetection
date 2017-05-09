@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160259832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "85841",
+    "boundingbox": [
+      "48.3613025",
+      "48.3940475",
+      "7.5886624",
+      "7.6578799"
+    ],
+    "lat": "48.3836463",
+    "lon": "7.6138847",
+    "display_name": "Sand, S\u00e9lestat-Erstein, Bas-Rhin, Grand-Est, 67230, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59648064627289,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160401196",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1360009",
+    "boundingbox": [
+      "46.4057486",
+      "46.4307792",
+      "17.0874542",
+      "17.1413382"
+    ],
+    "lat": "46.4219829",
+    "lon": "17.1242085",
+    "display_name": "Sand, Nagykanizsai j\u00e1r\u00e1s, Zala megye, Nyugat-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48506868719577,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "74375235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38286312",
+    "boundingbox": [
+      "-26.0992479",
+      "-26.0268021",
+      "28.0573915",
+      "28.0756274"
+    ],
+    "lat": "-26.0622441",
+    "lon": "28.0673852",
+    "display_name": "Sand, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "123984421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253486540",
+    "boundingbox": [
+      "-28.5489143",
+      "-28.4915764",
+      "29.5517925",
+      "29.7312648"
+    ],
+    "lat": "-28.5303243",
+    "lon": "29.6314005",
+    "display_name": "Sand, Emnambithi/Ladysmith Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "93345271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "127083160",
+    "boundingbox": [
+      "-33.1675521",
+      "-33.1339203",
+      "21.9209443",
+      "21.9955657"
+    ],
+    "lat": "-33.1624778",
+    "lon": "21.9535086",
+    "display_name": "Sand, Prince Albert Local Municipality, Central Karoo District Municipality, Western Cape, South Africa",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "94026999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "129398690",
+    "boundingbox": [
+      "-32.4730286",
+      "-32.4659241",
+      "22.1794252",
+      "22.2057731"
+    ],
+    "lat": "-32.467662",
+    "lon": "22.192169",
+    "display_name": "Sand, Beaufort West Local Municipality, Central Karoo District Municipality, Western Cape, South Africa",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "5060278",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "575984231",
+    "boundingbox": [
+      "48.7897948",
+      "48.7898948",
+      "9.9235039",
+      "9.9236039"
+    ],
+    "lat": "48.7898448",
+    "lon": "9.9235539",
+    "display_name": "Sand, Heubach, Verwaltungsverband Rosenstein, Ostalbkreis, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "26650976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2531110429",
+    "boundingbox": [
+      "47.9848467",
+      "47.9849467",
+      "14.4094186",
+      "14.4095186"
+    ],
+    "lat": "47.9848967",
+    "lon": "14.4094686",
+    "display_name": "Sand, Garsten, Steyr-Land, Ober\u00f6sterreich, 4451, \u00d6sterreich",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "363730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151470392",
+    "boundingbox": [
+      "32.6842648",
+      "32.7242648",
+      "-102.1923892",
+      "-102.1523892"
+    ],
+    "lat": "32.7042648",
+    "lon": "-102.1723892",
+    "display_name": "Sand, Dawson County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2547245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "354561404",
+    "boundingbox": [
+      "49.6592756",
+      "49.6992756",
+      "11.6098501",
+      "11.6498501"
+    ],
+    "lat": "49.6792756",
+    "lon": "11.6298501",
+    "display_name": "Sand, Amberg-Sulzbach, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

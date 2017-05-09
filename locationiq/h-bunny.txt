@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160292538",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "185324",
+    "boundingbox": [
+      "52.847175",
+      "52.8760572",
+      "-1.1677127",
+      "-1.1043412"
+    ],
+    "lat": "52.8615198",
+    "lon": "-1.13657627090481",
+    "display_name": "Bunny, Rushcliffe, Nottinghamshire, East Midlands, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "135999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27269478",
+    "boundingbox": [
+      "52.8406394",
+      "52.8806394",
+      "-1.1553703",
+      "-1.1153703"
+    ],
+    "lat": "52.8606394",
+    "lon": "-1.1353703",
+    "display_name": "Bunny, Nottinghamshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.33050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "84296750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91823475",
+    "boundingbox": [
+      "51.1300186",
+      "51.1303307",
+      "-1.4851944",
+      "-1.4848946"
+    ],
+    "lat": "51.1300186",
+    "lon": "-1.4848946",
+    "display_name": "The Bunny, Longstock, Test Valley, Hampshire, South East, England, SO20 6DR, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "159102562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "440846449",
+    "boundingbox": [
+      "51.1276257",
+      "51.1279026",
+      "-1.4811543",
+      "-1.480691"
+    ],
+    "lat": "51.1279026",
+    "lon": "-1.4811543",
+    "display_name": "The Bunny, Longstock, Test Valley, Hampshire, South East, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59728219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8693296",
+    "boundingbox": [
+      "42.723518",
+      "42.724371",
+      "-83.2942289",
+      "-83.2931979"
+    ],
+    "lat": "42.723937",
+    "lon": "-83.2937739",
+    "display_name": "Bunny, Orion Township, Oakland County, Michigan, 48359, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65636506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18510487",
+    "boundingbox": [
+      "37.074485",
+      "37.074546",
+      "-94.4673039",
+      "-94.4653569"
+    ],
+    "lat": "37.074546",
+    "lon": "-94.4673039",
+    "display_name": "Bunny, Duquesne, Jasper County, Missouri, 64801, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78290255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "54277742",
+    "boundingbox": [
+      "32.1199421",
+      "32.150828",
+      "-110.7895502",
+      "-110.7809449"
+    ],
+    "lat": "32.135362",
+    "lon": "-110.7852899",
+    "display_name": "Bunny, Tucson, Pima County, Arizona, 85747, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2654613901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481483361",
+    "boundingbox": [
+      "33.641666",
+      "33.642945",
+      "-85.8560569",
+      "-85.8537639"
+    ],
+    "lat": "33.642143",
+    "lon": "-85.8548339",
+    "display_name": "Bunny, Anniston, Calhoun County, Alabama, 36201, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "80232621",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66626981",
+    "boundingbox": [
+      "43.5626162",
+      "43.5628241",
+      "4.0981698",
+      "4.0984628"
+    ],
+    "lat": "43.56272085",
+    "lon": "4.09829493417578",
+    "display_name": "Bunny, Rue Saint-Louis, Ponant Sud, La Grande-Motte, Montpellier, H\u00e9rault, Occitanie, 34280, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "92861151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125433277",
+    "boundingbox": [
+      "38.6879756",
+      "38.6887985",
+      "-120.0794397",
+      "-120.0747209"
+    ],
+    "lat": "38.6879756",
+    "lon": "-120.0794397",
+    "display_name": "Bunny, Danburg Drive, Kirkwood, Amador County, California, 95646, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "15831537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1435624099",
+    "boundingbox": [
+      "47.5172878",
+      "47.5173878",
+      "-53.3014316",
+      "-53.3013316"
+    ],
+    "lat": "47.5173378",
+    "lon": "-53.3013816",
+    "display_name": "The Indian, Clarke's Beach, Newfoundland and Labrador, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "453832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154355247",
+    "boundingbox": [
+      "37.0676141",
+      "37.1076141",
+      "-81.7781696",
+      "-81.7381696"
+    ],
+    "lat": "37.0876141",
+    "lon": "-81.7581696",
+    "display_name": "Indian, Tazewell County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "385918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151808835",
+    "boundingbox": [
+      "33.0326231",
+      "33.0726231",
+      "-91.3095571",
+      "-91.2695571"
+    ],
+    "lat": "33.0526231",
+    "lon": "-91.2895571",
+    "display_name": "Indian, Chicot County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48384343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3553751838",
+    "boundingbox": [
+      "50.54645",
+      "50.54655",
+      "15.198422",
+      "15.198522"
+    ],
+    "lat": "50.5465",
+    "lon": "15.198472",
+    "display_name": "Indi\u00e1n, Hrub\u00e1 Sk\u00e1la, okres Semily, Libereck\u00fd kraj, Severov\u00fdchod, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "59593356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8967654",
+    "boundingbox": [
+      "58.3024181",
+      "58.3032568",
+      "-134.4163139",
+      "-134.4142931"
+    ],
+    "lat": "58.3026887",
+    "lon": "-134.415371",
+    "display_name": "Indian, Juneau, Alaska, 99802, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57836985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5979936",
+    "boundingbox": [
+      "32.850716",
+      "32.85091",
+      "-116.8826679",
+      "-116.8821869"
+    ],
+    "lat": "32.850803",
+    "lon": "-116.8824919",
+    "display_name": "Indian, Riverview, Johnstown, San Diego County, California, 92021, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64245529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16106813",
+    "boundingbox": [
+      "41.1642993",
+      "41.1651608",
+      "-75.569436",
+      "-75.5681737"
+    ],
+    "lat": "41.1642993",
+    "lon": "-75.5681737",
+    "display_name": "Indian, Arrowhead Lake, Monroe County, Pennsylvania, 18347, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63553057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15107072",
+    "boundingbox": [
+      "30.040677",
+      "30.042642",
+      "-97.0984159",
+      "-97.0977079"
+    ],
+    "lat": "30.042002",
+    "lon": "-97.0983009",
+    "display_name": "Indian, Pin Oak, Bastrop County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67098075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20722351",
+    "boundingbox": [
+      "29.128883",
+      "29.128927",
+      "-95.4208729",
+      "-95.4184149"
+    ],
+    "lat": "29.128883",
+    "lon": "-95.4208729",
+    "display_name": "Indian, Angleton, Brazoria County, Texas, 77515, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64221746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15444825",
+    "boundingbox": [
+      "29.505335",
+      "29.506594",
+      "-101.0533139",
+      "-101.0533029"
+    ],
+    "lat": "29.506337",
+    "lon": "-101.0533069",
+    "display_name": "Indian, Del Rio, Val Verde County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "13338079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242062773",
+    "boundingbox": [
+      "41.580547",
+      "41.600547",
+      "-5.3907926",
+      "-5.3707926"
+    ],
+    "lat": "41.590547",
+    "lon": "-5.3807926",
+    "display_name": "Bendiciones, Villardondiego, Zamora, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13450594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242670813",
+    "boundingbox": [
+      "41.2037658",
+      "41.2237658",
+      "-4.4478795",
+      "-4.4278795"
+    ],
+    "lat": "41.2137658",
+    "lon": "-4.4378795",
+    "display_name": "Bendiciones, Navas de Oro, Segovia, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25097180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2427522127",
+    "boundingbox": [
+      "-4.4590041",
+      "-4.4589041",
+      "-81.285916",
+      "-81.285816"
+    ],
+    "lat": "-4.4589541",
+    "lon": "-81.285866",
+    "display_name": "Bendiciones, Calle La Punta, Lobitos, Talara, Piura, Per\u00fa",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

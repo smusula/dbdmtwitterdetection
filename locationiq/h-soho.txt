@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "133665347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303976093",
+    "boundingbox": [
+      "51.5099458",
+      "51.5163588",
+      "-0.1418294",
+      "-0.1291588"
+    ],
+    "lat": "51.5131628",
+    "lon": "-0.1311753",
+    "display_name": "Soho, City of Westminster, London, Greater London, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.60634389564847,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "480771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158809984",
+    "boundingbox": [
+      "40.72283",
+      "40.72293",
+      "-73.9988004",
+      "-73.9987004"
+    ],
+    "lat": "40.72288",
+    "lon": "-73.9987504",
+    "display_name": "SoHo, Spring Street, SoHo, Manhattan, New York County, NYC, New York, 10013, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.57062929320075,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "52114414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3924246726",
+    "boundingbox": [
+      "7.3124631",
+      "7.3125631",
+      "-8.6791483",
+      "-8.6790483"
+    ],
+    "lat": "7.3125131",
+    "lon": "-8.6790983",
+    "display_name": "Soho, Sanniquellie Mahn, Nimba County, Liberia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "42140529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3050691735",
+    "boundingbox": [
+      "7.743733",
+      "7.743833",
+      "-7.4917149",
+      "-7.4916149"
+    ],
+    "lat": "7.743783",
+    "lon": "-7.4916649",
+    "display_name": "Soho, Man, Tonpki, Montagnes, C\u00f4te d\u2019Ivoire",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2561825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "345489123",
+    "boundingbox": [
+      "51.2098491",
+      "51.2498491",
+      "-2.4576088",
+      "-2.4176088"
+    ],
+    "lat": "51.2298491",
+    "lon": "-2.4376088",
+    "display_name": "Soho, Somerset, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14309329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308716129",
+    "boundingbox": [
+      "-0.9668662",
+      "-0.9268662",
+      "122.7474742",
+      "122.7874742"
+    ],
+    "lat": "-0.9468662",
+    "lon": "122.7674742",
+    "display_name": "Soho, Banggai, Sulawesi Tengah, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41473370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3023062710",
+    "boundingbox": [
+      "7.283333",
+      "7.323333",
+      "-8.7149999",
+      "-8.6749999"
+    ],
+    "lat": "7.303333",
+    "lon": "-8.6949999",
+    "display_name": "Soho, Sanniquellie Mahn, Nimba County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160751446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4134563",
+    "boundingbox": [
+      "53.6276194",
+      "53.641779",
+      "-7.4170337",
+      "-7.4039604"
+    ],
+    "lat": "53.6334103",
+    "lon": "-7.4124624",
+    "display_name": "Soho, Multyfarnham, Mullingar, County Westmeath, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "476795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158590253",
+    "boundingbox": [
+      "40.4375192",
+      "40.4376192",
+      "-79.9826026",
+      "-79.9825026"
+    ],
+    "lat": "40.4375692",
+    "lon": "-79.9825526",
+    "display_name": "Soho, Bluff, PGH, Allegheny County, Pennsylvania, 15219, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "133796174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "304537796",
+    "boundingbox": [
+      "51.2309493",
+      "51.2315455",
+      "-2.4370388",
+      "-2.4347117"
+    ],
+    "lat": "51.2312424",
+    "lon": "-2.43602449827587",
+    "display_name": "Soho, Leigh-on-Mendip CP, Mendip District, Somerset, South West England, England, UK",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  }
+]

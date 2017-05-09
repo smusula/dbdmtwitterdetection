@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160433571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1664293",
+    "boundingbox": [
+      "45.1114156",
+      "45.1431386",
+      "-0.6460942",
+      "-0.5859098"
+    ],
+    "lat": "45.1294933",
+    "lon": "-0.6201296",
+    "display_name": "Cars, Blaye, Gironde, Nouvelle-Aquitaine, 33390, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.32123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "104175203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171571643",
+    "boundingbox": [
+      "51.265519",
+      "51.266335",
+      "0.6150296",
+      "0.6153667"
+    ],
+    "lat": "51.2659777",
+    "lon": "0.6151141",
+    "display_name": "Cars, Hollingbourne CP, Maidstone, Kent, South East, England, ME17 1SS, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "82081027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80249550",
+    "boundingbox": [
+      "51.4228565",
+      "51.4235456",
+      "-1.0385466",
+      "-1.0372162"
+    ],
+    "lat": "51.4230472",
+    "lon": "-1.0379424",
+    "display_name": "cars, Burghfield CP, Burghfield, West Berkshire, South East, England, RG30, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.185
+  },
+  {
+    "place_id": "140063264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334481414",
+    "boundingbox": [
+      "54.9518211",
+      "54.9523888",
+      "-2.9800122",
+      "-2.9791434"
+    ],
+    "lat": "54.9521516",
+    "lon": "-2.9795884",
+    "display_name": "Cars, Moto Todhills Rest Area, Kingmoor, Carlisle, Cumbria, North West England, England, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "122423661",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247140298",
+    "boundingbox": [
+      "36.4347806",
+      "36.4350121",
+      "139.2491744",
+      "139.2494898"
+    ],
+    "lat": "36.4349878",
+    "lon": "139.2492765",
+    "display_name": "\u8eca (cars), \u65b0\u5ddd, \u6850\u751f\u5e02, \u5229\u6839\u90e1, \u7fa4\u99ac\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "106053525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178756865",
+    "boundingbox": [
+      "43.6378503",
+      "43.638332",
+      "-95.9688363",
+      "-95.964444"
+    ],
+    "lat": "43.6383302",
+    "lon": "-95.9661825",
+    "display_name": "Cars, Nobles County, Minnesota, 56110, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "83310621",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87917558",
+    "boundingbox": [
+      "39.5671756",
+      "39.5691728",
+      "-104.0154609",
+      "-104.0121202"
+    ],
+    "lat": "39.5675876",
+    "lon": "-104.013438",
+    "display_name": "Cars, Arapahoe County, Colorado, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "122241553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246564150",
+    "boundingbox": [
+      "41.0840008",
+      "41.0848232",
+      "-96.2757681",
+      "-96.2742818"
+    ],
+    "lat": "41.0845863",
+    "lon": "-96.2749282",
+    "display_name": "Cars, Melia, Sarpy County, Nebraska, 68028, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "79818056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60901737",
+    "boundingbox": [
+      "52.695653",
+      "52.6966088",
+      "-1.2973777",
+      "-1.2959829"
+    ],
+    "lat": "52.6961179",
+    "lon": "-1.29666800507736",
+    "display_name": "cars, Moto Markfield Services, Markfield, Hinckley and Bosworth, Leicestershire, East Midlands, England, LE67 9PP, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "118734047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231366300",
+    "boundingbox": [
+      "45.4358377",
+      "45.4377669",
+      "-75.6241953",
+      "-75.6216993"
+    ],
+    "lat": "45.4368425",
+    "lon": "-75.6229936468317",
+    "display_name": "Carson Grove Elementary School, 1401, Matheson Road, Cyrville Industrial Area, Beacon Hill-Cyrville, Ottawa, Ontario, K1J 8B5, Canada",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

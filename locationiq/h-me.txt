@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160263945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "114686",
+    "boundingbox": [
+      "14.3886243",
+      "32.7186553",
+      "-118.5991899",
+      "-86.4932659"
+    ],
+    "lat": "22.5000485",
+    "lon": "-100.0000374",
+    "display_name": "M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.83480745773015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160253479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "63512",
+    "boundingbox": [
+      "42.9222206",
+      "47.4598397",
+      "-71.0841693",
+      "-66.8854161"
+    ],
+    "lat": "45.709097",
+    "lon": "-68.85902",
+    "display_name": "Maine, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7960117209556,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160252864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "53296",
+    "boundingbox": [
+      "41.7495999",
+      "43.5585061",
+      "18.4195781",
+      "20.3545618"
+    ],
+    "lat": "43.0285558",
+    "lon": "19.291739",
+    "display_name": "\u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.70894126802592,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160372979",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070343",
+    "boundingbox": [
+      "37.0001282",
+      "37.475838",
+      "-100.6520389",
+      "-100.0894927"
+    ],
+    "lat": "37.2091116",
+    "lon": "-100.3963019",
+    "display_name": "Meade County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56059389488672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160240393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "39374",
+    "boundingbox": [
+      "37.7954",
+      "38.8177524",
+      "14.183422",
+      "15.6533196"
+    ],
+    "lat": "38.048433",
+    "lon": "15.004346824016",
+    "display_name": "ME, SIC, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160668283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3579474",
+    "boundingbox": [
+      "5.2152815",
+      "6.6495399",
+      "-4.1638459",
+      "-3.3173548"
+    ],
+    "lat": "5.932282",
+    "lon": "-3.75549088192979",
+    "display_name": "M\u00e9, Lagunes, C\u00f4te d\u2019Ivoire",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "114629",
+    "boundingbox": [
+      "48.006808",
+      "48.3785103",
+      "14.9435878",
+      "15.5317901"
+    ],
+    "lat": "48.1926758",
+    "lon": "15.2097099723358",
+    "display_name": "Melk, Nieder\u00f6sterreich, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46415097256809,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3731107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "411107429",
+    "boundingbox": [
+      "71.014722",
+      "71.044722",
+      "27.811667",
+      "27.841667"
+    ],
+    "lat": "71.029722",
+    "lon": "27.826667",
+    "display_name": "Mehamn lufthavn, 265, Mehamn, Gamvik, Finnmark, 9770, Norge",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.40496966945241,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "160414159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1490845",
+    "boundingbox": [
+      "46.6147866",
+      "47.0648545",
+      "-75.7501508",
+      "-75.2910253"
+    ],
+    "lat": "46.7017198",
+    "lon": "-75.4503267",
+    "display_name": "Ferme-Neuve, MRC Antoine-Labelle, Qu\u00e9bec, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40205072167334,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160418929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1490834",
+    "boundingbox": [
+      "45.9528899",
+      "46.2309411",
+      "-75.7850648",
+      "-75.2112001"
+    ],
+    "lat": "46.0899",
+    "lon": "-75.6243899",
+    "display_name": "Notre-Dame-du-Laus, MRC Antoine-Labelle, Qu\u00e9bec, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40205072167334,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

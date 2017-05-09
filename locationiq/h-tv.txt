@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160504810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2177266",
+    "boundingbox": [
+      "-10.9939388",
+      "-5.436961",
+      "-179.9999999",
+      "180"
+    ],
+    "lat": "-7.7689589",
+    "lon": "178.1167698",
+    "display_name": "Tuvalu",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.63173694879711,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160248696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "45300",
+    "boundingbox": [
+      "45.5304763",
+      "46.0828957",
+      "11.7430653",
+      "12.6853155"
+    ],
+    "lat": "45.8066856",
+    "lon": "12.2063096974479",
+    "display_name": "TV, VEN, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58093344375539,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160467585",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1873642",
+    "boundingbox": [
+      "9.0800586",
+      "10.0650786",
+      "105.9547258",
+      "106.8722725"
+    ],
+    "lat": "9.8371629",
+    "lon": "106.2394463",
+    "display_name": "T\u1ec9nh Tr\u00e0 Vinh, Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42404108003558,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160629763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3328699",
+    "boundingbox": [
+      "5.769361",
+      "8.7753129",
+      "-0.3616157",
+      "1.1996242"
+    ],
+    "lat": "7.1920414",
+    "lon": "0.406167",
+    "display_name": "Volta Region, Ghana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39603191779386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144598446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363643283",
+    "boundingbox": [
+      "-12.1462181",
+      "-12.1449039",
+      "-38.4068273",
+      "-38.4068253"
+    ],
+    "lat": "-12.1462181",
+    "lon": "-38.4068273",
+    "display_name": "Tv., Alagoinhas, Microrregi\u00e3o de Alagoinhas, Mesorregi\u00e3o do Nordeste Baiano, BA, Regi\u00e3o Nordeste, Brasil",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "160124933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447389833",
+    "boundingbox": [
+      "45.788138",
+      "45.79058",
+      "14.060759",
+      "14.061964"
+    ],
+    "lat": "45.789259",
+    "lon": "14.061098",
+    "display_name": "TV, Postojna, Primorsko-notranjska, 6225, Slovenija",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94651717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131948688",
+    "boundingbox": [
+      "45.772553",
+      "45.788138",
+      "14.052937",
+      "14.061964"
+    ],
+    "lat": "45.781206",
+    "lon": "14.056098",
+    "display_name": "TV, Postojna, Primorsko-notranjska, 6225, Slovenija",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "132091496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "296977881",
+    "boundingbox": [
+      "39.354699",
+      "39.359658",
+      "-123.7695757",
+      "-123.7529829"
+    ],
+    "lat": "39.356463",
+    "lon": "-123.7611839",
+    "display_name": "TV, Mendocino County, California, 95420, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "158003356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "434360337",
+    "boundingbox": [
+      "45.7720789",
+      "45.772553",
+      "14.0529174",
+      "14.0530267"
+    ],
+    "lat": "45.7721949",
+    "lon": "14.0530267",
+    "display_name": "TV, Vipava, Gori\u0161ka, Slovenija",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "18279658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1785554261",
+    "boundingbox": [
+      "46.7852915",
+      "46.7853915",
+      "-92.1212237",
+      "-92.1211237"
+    ],
+    "lat": "46.7853415",
+    "lon": "-92.1211737",
+    "display_name": "TV, Observation Road, Duluth, Saint Louis County, Minnesota, 55811, United States of America",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  }
+]

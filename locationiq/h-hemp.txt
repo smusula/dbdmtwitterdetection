@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "447500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154359437",
+    "boundingbox": [
+      "34.8634176",
+      "34.9034176",
+      "-84.1918592",
+      "-84.1518592"
+    ],
+    "lat": "34.8834176",
+    "lon": "-84.1718592",
+    "display_name": "Hemp, Fannin County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "93678280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "128203478",
+    "boundingbox": [
+      "48.5768039",
+      "48.5769193",
+      "9.4161494",
+      "9.416479"
+    ],
+    "lat": "48.5768733",
+    "lon": "9.41630515468621",
+    "display_name": "Hemp, Beuren, Vereinbarte Verwaltungsgemeinschaft der Stadt Neuffen, Landkreis Esslingen, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 72660, Deutschland",
+    "class": "landuse",
+    "type": "meadow",
+    "importance": 0.3
+  },
+  {
+    "place_id": "84137055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91700706",
+    "boundingbox": [
+      "14.1139658",
+      "14.1142777",
+      "120.9356705",
+      "120.9358859"
+    ],
+    "lat": "14.1142777",
+    "lon": "120.9356705",
+    "display_name": "Hemp, Metrogate Tagaytay Estates Phase 2, Tagaytay, Cavite, Calabarzon, 4120, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "109417820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193807575",
+    "boundingbox": [
+      "47.780108",
+      "47.78025",
+      "9.6010637",
+      "9.6012349"
+    ],
+    "lat": "47.7801878",
+    "lon": "9.60114995176344",
+    "display_name": "Hemp, 13, Uferstra\u00dfe, Galgenhalde, Ravensburg, Verwaltungsverband Mittleres Schussental, Landkreis Ravensburg, Regierungsbezirk T\u00fcbingen, Baden-W\u00fcrttemberg, 88214, Deutschland",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "14069033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1250834697",
+    "boundingbox": [
+      "50.6256535",
+      "50.6257535",
+      "6.9500549",
+      "6.9501549"
+    ],
+    "lat": "50.6257035",
+    "lon": "6.9501049",
+    "display_name": "Hemp, 13, Hauptstra\u00dfe, Rheinbach, Rhein-Sieg-Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 53359, Deutschland",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28380443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2638066766",
+    "boundingbox": [
+      "15.690268",
+      "15.690368",
+      "73.7022293",
+      "73.7023293"
+    ],
+    "lat": "15.690318",
+    "lon": "73.7022793",
+    "display_name": "Hemp, Kepe-Dando Bridge, Mandrem, North Goa, Goa, 403524, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

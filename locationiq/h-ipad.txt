@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "18719576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1813528807",
+    "boundingbox": [
+      "14.90689",
+      "14.90699",
+      "-23.513646",
+      "-23.513546"
+    ],
+    "lat": "14.90694",
+    "lon": "-23.513596",
+    "display_name": "IPAD: Insituto Portugu\u00eas de Apoio ao Desenvolvimento, Avenida OUA, Monte Vermelho, Prainha, Praia, 7600, Cabo Verde",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "127109227",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "268191983",
+    "boundingbox": [
+      "8.2437758",
+      "8.2439855",
+      "124.2428168",
+      "124.2429778"
+    ],
+    "lat": "8.24390455",
+    "lon": "124.242905685515",
+    "display_name": "IPAD, 9, Iligan, Iligan City, Northern Mindanao, 9200, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158581735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437649835",
+    "boundingbox": [
+      "-12.1250668",
+      "-12.1243975",
+      "-77.0256033",
+      "-77.0251521"
+    ],
+    "lat": "-12.12473485",
+    "lon": "-77.0253836711229",
+    "display_name": "IPAD, 715, Avenida Alfredo Benavides, Miraflores, Lima, 1203, Per\u00fa",
+    "class": "office",
+    "type": "educational_institution",
+    "importance": 0.101
+  }
+]

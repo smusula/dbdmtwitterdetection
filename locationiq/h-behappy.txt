@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "55361459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4296796265",
+    "boundingbox": [
+      "-25.4481979",
+      "-25.4480979",
+      "-49.2830541",
+      "-49.2829541"
+    ],
+    "lat": "-25.4481479",
+    "lon": "-49.2830041",
+    "display_name": "BeHappy, 609, Rua Bento Viana, \u00c1gua Verde, Curitiba, Microrregi\u00e3o de Curitiba, RMC, Mesorregi\u00e3o Metropolitana de Curitiba, PR, Regi\u00e3o Sul, 80240-060, Brasil",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "27267879",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2592646367",
+    "boundingbox": [
+      "43.4632005",
+      "43.4633005",
+      "-3.7947976",
+      "-3.7946976"
+    ],
+    "lat": "43.4632505",
+    "lon": "-3.7947476",
+    "display_name": "Behappy, 13-1\u00ba izda, Calle de Castelar, El Sardinero, Santander, Comarca de Santander, Cantabria, 39004, Espa\u00f1a",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

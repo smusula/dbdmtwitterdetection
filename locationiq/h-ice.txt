@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "154509446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "416714688",
+    "boundingbox": [
+      "39.5303037",
+      "39.5304624",
+      "-119.7134423",
+      "-119.7129136"
+    ],
+    "lat": "39.5303868",
+    "lon": "-119.7131064",
+    "display_name": "Ice, Sparks, Washoe County, Nevada, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "418906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154011568",
+    "boundingbox": [
+      "37.0875975",
+      "37.1275975",
+      "-82.8801603",
+      "-82.8401603"
+    ],
+    "lat": "37.1075975",
+    "lon": "-82.8601603",
+    "display_name": "Ice, Letcher County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "75320895",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41413979",
+    "boundingbox": [
+      "14.6890989",
+      "14.6909442",
+      "121.0012426",
+      "121.0025382"
+    ],
+    "lat": "14.6898008",
+    "lon": "121.0021501",
+    "display_name": "Ice, Sitio Cabatuhan, Valenzuela, Metro Manila, 1442, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108314336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188790584",
+    "boundingbox": [
+      "9.9850989",
+      "9.9896033",
+      "-84.3409789",
+      "-84.3379427"
+    ],
+    "lat": "9.986836",
+    "lon": "-84.3399028",
+    "display_name": "ICE, ICE La Garita, La Garita, Cant\u00f3n Alajuela, Provincia Alajuela, 20113, Costa Rica",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "120288591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "238142405",
+    "boundingbox": [
+      "10.3095973",
+      "10.3114868",
+      "-84.1800998",
+      "-84.1780077"
+    ],
+    "lat": "10.3104048",
+    "lon": "-84.179171",
+    "display_name": "ICE, Sarapiqu\u00ed, Cant\u00f3n Alajuela, Provincia Alajuela, 20114, Costa Rica",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2654350209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4739151340",
+    "boundingbox": [
+      "32.7806614",
+      "32.7807614",
+      "-79.9565724",
+      "-79.9564724"
+    ],
+    "lat": "32.7807114",
+    "lon": "-79.9565224",
+    "display_name": "ice, James Island Expressway, Charleston, Charleston County, South Carolina, 29409, United States of America",
+    "class": "amenity",
+    "type": "ice",
+    "importance": 0.111
+  },
+  {
+    "place_id": "51153955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3821283642",
+    "boundingbox": [
+      "29.7168278",
+      "29.7169278",
+      "-95.2946933",
+      "-95.2945933"
+    ],
+    "lat": "29.7168778",
+    "lon": "-95.2946433",
+    "display_name": "Ice, South 75th Street, Houston, Harris County, Texas, 77011, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1346757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "302737809",
+    "boundingbox": [
+      "53.8047121",
+      "53.8048121",
+      "-1.6101271",
+      "-1.6100271"
+    ],
+    "lat": "53.8047621",
+    "lon": "-1.6100771",
+    "display_name": "Ice, Cockshott Lane, Kirkstall, Leeds, Yorkshire and the Humber, England, LS12, UK",
+    "class": "shop",
+    "type": "car_parts",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116518870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "223170440",
+    "boundingbox": [
+      "-15.7598392",
+      "-15.7589054",
+      "-47.8898467",
+      "-47.8888492"
+    ],
+    "lat": "-15.759371",
+    "lon": "-47.8893571634805",
+    "display_name": "ICE, Ciclovia W1 Norte, SQN 108, Asa Norte, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70744-020, Brasil",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "29066716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2681385585",
+    "boundingbox": [
+      "41.146471",
+      "41.146571",
+      "-8.6313635",
+      "-8.6312635"
+    ],
+    "lat": "41.146521",
+    "lon": "-8.6313135",
+    "display_name": "Ice, Alameda de Basilo Teles, Massarelos, Lordelo do Ouro e Massarelos, Porto, \u00c1rea Metropolitana do Porto, Norte, 4050-503, Portugal",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

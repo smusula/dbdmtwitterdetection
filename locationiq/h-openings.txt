@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "407094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153691421",
+    "boundingbox": [
+      "41.9130829",
+      "41.9530829",
+      "-88.4845243",
+      "-88.4445243"
+    ],
+    "lat": "41.9330829",
+    "lon": "-88.4645243",
+    "display_name": "Oak Openings, Kane County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59490945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8782298",
+    "boundingbox": [
+      "41.543352",
+      "41.544221",
+      "-83.8426999",
+      "-83.8425409"
+    ],
+    "lat": "41.5440856",
+    "lon": "-83.8426751",
+    "display_name": "Oak Openings Parkway, East Swanton, Lucas County, Ohio, 43571, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66738606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20109390",
+    "boundingbox": [
+      "42.904111",
+      "42.94006",
+      "-77.6649249",
+      "-77.6509729"
+    ],
+    "lat": "42.920734",
+    "lon": "-77.6563261",
+    "display_name": "Oak Openings Road, North Avon, Avon Town, Livingston County, New York, 14472, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65337718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17731289",
+    "boundingbox": [
+      "42.526793",
+      "42.530134",
+      "-85.4200199",
+      "-85.4186829"
+    ],
+    "lat": "42.527561",
+    "lon": "-85.4186909",
+    "display_name": "Oak Openings Street, Delton, Barry County, Michigan, 49046, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65400109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17840339",
+    "boundingbox": [
+      "42.294877",
+      "42.295122",
+      "-85.5555139",
+      "-85.5532629"
+    ],
+    "lat": "42.295119",
+    "lon": "-85.5541239",
+    "display_name": "Oak Openings Street, Lakewood, Kalamazoo County, Michigan, 49048, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "45863849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3242559801",
+    "boundingbox": [
+      "47.4137762",
+      "47.4138762",
+      "18.9353786",
+      "18.9354786"
+    ],
+    "lat": "47.4138262",
+    "lon": "18.9354286",
+    "display_name": "Kapt\u00e1rk\u0151 (kett\u0151 f\u00fclke), Gizella utca, \u00c1rp\u00e1dh\u00e1z lak\u00f3park, Di\u00f3sd, \u00c9rdi j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2049, Magyarorsz\u00e1g",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.18611063262914,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "106617431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "181227253",
+    "boundingbox": [
+      "41.539963",
+      "41.544646",
+      "-83.8390669",
+      "-83.8247699"
+    ],
+    "lat": "41.541017",
+    "lon": "-83.8324919",
+    "display_name": "Oak Openings Parkway, East Swanton, Lucas County, Ohio, 43571, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2648849517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465957375",
+    "boundingbox": [
+      "41.5597947",
+      "41.5827707",
+      "-83.8730141",
+      "-83.8344871"
+    ],
+    "lat": "41.57091735",
+    "lon": "-83.8537781348538",
+    "display_name": "Oak Openings Preserve Metropark, Girdham Road, East Swanton, Lucas County, Ohio, 43558, United States of America",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160977260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6389065",
+    "boundingbox": [
+      "42.9544039",
+      "42.9614834",
+      "-77.6901532",
+      "-77.6664723"
+    ],
+    "lat": "42.95731905",
+    "lon": "-77.6828530970833",
+    "display_name": "Rush Oak Openings Unique Area, West Henrietta Road, West Rush, Rush Town, Monroe County, New York, 14472, United States of America",
+    "class": "boundary",
+    "type": "protected_area",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7089606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "762908808",
+    "boundingbox": [
+      "42.7723632",
+      "42.7724632",
+      "-73.8245359",
+      "-73.8244359"
+    ],
+    "lat": "42.7724132",
+    "lon": "-73.8244859",
+    "display_name": "Grand Openings, Troy-Schenectady Road, Verdoy, Town of Colonie, Albany County, New York, 12110, United States of America",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  }
+]

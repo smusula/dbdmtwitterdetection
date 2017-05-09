@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160463118",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1822222",
+    "boundingbox": [
+      "33.7178093",
+      "34.074947",
+      "-97.5606585",
+      "-96.9357529"
+    ],
+    "lat": "33.9852998",
+    "lon": "-97.2526991",
+    "display_name": "Love County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47479342751939,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "123731904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "252237876",
+    "boundingbox": [
+      "53.4813439",
+      "53.4890844",
+      "-104.1736328",
+      "-104.158954"
+    ],
+    "lat": "53.4847935",
+    "lon": "-104.164399637233",
+    "display_name": "Love, Census Division No. 14, Saskatchewan, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "402894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153768958",
+    "boundingbox": [
+      "41.5491997",
+      "41.5891997",
+      "-89.8259387",
+      "-89.7859387"
+    ],
+    "lat": "41.5691997",
+    "lon": "-89.8059387",
+    "display_name": "Love, Bureau County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "36884112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2850810278",
+    "boundingbox": [
+      "39.825829",
+      "39.825929",
+      "-86.1831984",
+      "-86.1830984"
+    ],
+    "lat": "39.825879",
+    "lon": "-86.1831484",
+    "display_name": "LOVE, West 38th Street, Woodstock, Marion County, Indiana, 46254, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "353903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151362244",
+    "boundingbox": [
+      "32.9506856",
+      "32.9906856",
+      "-94.6288134",
+      "-94.5888134"
+    ],
+    "lat": "32.9706856",
+    "lon": "-94.6088134",
+    "display_name": "Love, Cass County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "475344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158432966",
+    "boundingbox": [
+      "37.8654163",
+      "37.9054163",
+      "-79.0300252",
+      "-78.9900252"
+    ],
+    "lat": "37.8854163",
+    "lon": "-79.0100252",
+    "display_name": "Love, Nelson County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "340836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150953890",
+    "boundingbox": [
+      "33.8322523",
+      "33.8722523",
+      "-113.4857576",
+      "-113.4457576"
+    ],
+    "lat": "33.8522523",
+    "lon": "-113.4657576",
+    "display_name": "Love, La Paz County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "402602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153794676",
+    "boundingbox": [
+      "37.2631039",
+      "37.3031039",
+      "-86.547205",
+      "-86.507205"
+    ],
+    "lat": "37.2831039",
+    "lon": "-86.527205",
+    "display_name": "Love, Butler County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "396484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153349407",
+    "boundingbox": [
+      "34.7334336",
+      "34.7734336",
+      "-89.9900901",
+      "-89.9500901"
+    ],
+    "lat": "34.7534336",
+    "lon": "-89.9700901",
+    "display_name": "Love, DeSoto County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652378725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4230323498",
+    "boundingbox": [
+      "40.7628268",
+      "40.7629268",
+      "-73.9780752",
+      "-73.9779752"
+    ],
+    "lat": "40.7628768",
+    "lon": "-73.9780252",
+    "display_name": "Love, West 55th Street, Hell's Kitchen, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

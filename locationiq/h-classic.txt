@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "88657184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110607128",
+    "boundingbox": [
+      "33.6994309",
+      "33.6997914",
+      "-117.7401829",
+      "-117.7398122"
+    ],
+    "lat": "33.6996713",
+    "lon": "-117.7399365",
+    "display_name": "Classic, Woodbury, Irvine, Orange County, California, 92676, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85451264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97462753",
+    "boundingbox": [
+      "42.5279064",
+      "42.528225",
+      "24.8150381",
+      "24.8156286"
+    ],
+    "lat": "42.5281467",
+    "lon": "24.8152274",
+    "display_name": "Classic, \u0425\u0438\u0441\u0430\u0440\u044f, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 4360, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "23017653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2271365193",
+    "boundingbox": [
+      "45.7858525",
+      "45.7859525",
+      "15.9250649",
+      "15.9251649"
+    ],
+    "lat": "45.7859025",
+    "lon": "15.9251149",
+    "display_name": "Classic, Jarun, Tre\u0161njevka - jug, Zagreb, Grad Zagreb, 10 000, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2653823791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41166523",
+    "boundingbox": [
+      "-5.8585689",
+      "-5.8575443",
+      "-35.216779",
+      "-35.216058"
+    ],
+    "lat": "-5.8579072",
+    "lon": "-35.2163832886892",
+    "display_name": "Classic, Rua Doutor Jos\u00e9 Tavares da Silva, Candel\u00e1ria, Natal, Microrregi\u00e3o de Natal, Mesorregi\u00e3o do Leste Potiguar, RN, Regi\u00e3o Nordeste, 59086005, Brasil",
+    "class": "tourism",
+    "type": "motel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "142729938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351245287",
+    "boundingbox": [
+      "-26.915828",
+      "-26.9153983",
+      "-49.0707801",
+      "-49.0703255"
+    ],
+    "lat": "-26.9156409",
+    "lon": "-49.0705280790519",
+    "display_name": "Classic, 122, Rua Doutor Amadeu da Luz, Centro, Blumenau, Microrregi\u00e3o de Blumenau, Mesorregi\u00e3o do Vale do Itaja\u00ed, SC, Regi\u00e3o Sul, 89010-910, Brasil",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647489670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "392996666",
+    "boundingbox": [
+      "41.0562787",
+      "41.0566802",
+      "-73.5369335",
+      "-73.5362574"
+    ],
+    "lat": "41.0564524",
+    "lon": "-73.5366017105979",
+    "display_name": "The Classic, Forest Street, Stamford, Fairfield County, Connecticut, 06901, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53957946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4111426564",
+    "boundingbox": [
+      "41.8435975",
+      "41.8436975",
+      "2.2902783",
+      "2.2903783"
+    ],
+    "lat": "41.8436475",
+    "lon": "2.2903283",
+    "display_name": "Classic, BV-5303, la Quadrada, Sobrevia, Seva, Osona, BCN, CAT, 08553, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "154089482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "414042271",
+    "boundingbox": [
+      "40.5165052",
+      "40.5166806",
+      "72.799148",
+      "72.7993545"
+    ],
+    "lat": "40.516596",
+    "lon": "72.7992474320301",
+    "display_name": "CLASSIC, 143, \u041c\u043e\u043b\u0434\u043e\u043d\u0438\u044f\u0437\u043e\u0432\u0430 \u0443\u043b\u0438\u0446\u0430, \u041e\u0448, \u041e\u0448\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 723500, \u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "1400165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "310297973",
+    "boundingbox": [
+      "48.5317757",
+      "48.5318757",
+      "8.074853",
+      "8.074953"
+    ],
+    "lat": "48.5318257",
+    "lon": "8.074903",
+    "display_name": "Classic Tankstelle, Appenweierer Stra\u00dfe, Albersbach, Oberkirch, Verwaltungsgemeinschaft Oberkirch, Ortenaukreis, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 77704, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "123678494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251951502",
+    "boundingbox": [
+      "50.1597628",
+      "50.1598602",
+      "8.9943614",
+      "8.9945517"
+    ],
+    "lat": "50.15982565",
+    "lon": "8.99444756561683",
+    "display_name": "Classic, 3, Leipziger Stra\u00dfe, R\u00fcckingen, Erlensee, Main-Kinzig-Kreis, Regierungsbezirk Darmstadt, Hessen, 63526, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

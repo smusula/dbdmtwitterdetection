@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "19382369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1888753898",
+    "boundingbox": [
+      "10.6703604",
+      "10.6704604",
+      "-61.410788",
+      "-61.410688"
+    ],
+    "lat": "10.6704104",
+    "lon": "-61.410738",
+    "display_name": "Poolside, La Seiva, 310407, Trinidad and Tobago",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "133364537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "302860860",
+    "boundingbox": [
+      "29.4314208",
+      "29.4316591",
+      "-98.7976003",
+      "-98.7974072"
+    ],
+    "lat": "29.4314984",
+    "lon": "-98.7975502",
+    "display_name": "Poolside, San Antonio, Bexar County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "137505848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321373747",
+    "boundingbox": [
+      "54.1971405",
+      "54.1980782",
+      "-3.2882273",
+      "-3.2877876"
+    ],
+    "lat": "54.1976937",
+    "lon": "-3.2880837",
+    "display_name": "Poolside, Copeland, Cumbria, North West England, England, LA18 4EX, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "137519753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321389361",
+    "boundingbox": [
+      "54.1981874",
+      "54.2014823",
+      "-3.2876957",
+      "-3.2854457"
+    ],
+    "lat": "54.1998966",
+    "lon": "-3.2866685",
+    "display_name": "Poolside, Copeland, Cumbria, North West England, England, LA18 4NG, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "135993431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314839013",
+    "boundingbox": [
+      "54.2015778",
+      "54.201828",
+      "-3.2851289",
+      "-3.2836618"
+    ],
+    "lat": "54.2016706",
+    "lon": "-3.2847322",
+    "display_name": "Poolside, Copeland, Cumbria, North West England, England, LA18 4EL, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84916237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95236531",
+    "boundingbox": [
+      "52.9978494",
+      "53.0016237",
+      "-2.3404198",
+      "-2.3392683"
+    ],
+    "lat": "52.9998149",
+    "lon": "-2.339909",
+    "display_name": "Poolside, Madeley, Newcastle-under-Lyme, Staffordshire, West Midlands, England, CW3 9JJ, UK",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68716683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23758116",
+    "boundingbox": [
+      "53.1119244",
+      "53.1177781",
+      "-2.2862404",
+      "-2.2725306"
+    ],
+    "lat": "53.1148618",
+    "lon": "-2.2790518",
+    "display_name": "Poolside, Odd Rode, Rode Heath, Cheshire East, North West England, England, CW11, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77736776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51523798",
+    "boundingbox": [
+      "53.012714",
+      "53.0132526",
+      "-2.2344144",
+      "-2.2339679"
+    ],
+    "lat": "53.012918",
+    "lon": "-2.2341776",
+    "display_name": "Poolside, Cross Heath, Clayton, Newcastle-under-Lyme, Staffordshire, West Midlands, England, ST5 2RS, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77617531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50742925",
+    "boundingbox": [
+      "52.6777554",
+      "52.6783438",
+      "-2.7799086",
+      "-2.7790658"
+    ],
+    "lat": "52.6781857",
+    "lon": "-2.7795553",
+    "display_name": "Poolside, Bayston Hill, Nobold, Shropshire, West Midlands, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99318338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153173740",
+    "boundingbox": [
+      "52.9723897",
+      "52.9727997",
+      "-2.1561494",
+      "-2.1554738"
+    ],
+    "lat": "52.972698",
+    "lon": "-2.1554738",
+    "display_name": "Poolside, Blurton, Newstead, Stoke-on-Trent, West Midlands, England, ST3 3JP, UK",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "16089307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1467865015",
+    "boundingbox": [
+      "48.2295628",
+      "48.2296628",
+      "16.3725689",
+      "16.3726689"
+    ],
+    "lat": "48.2296128",
+    "lon": "16.3726189",
+    "display_name": "Afterwork Academy, 4-6, B\u00e4uerlegasse, KG Brigittenau, Brigittenau, Wien, 1200, \u00d6sterreich",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "14989001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1347889177",
+    "boundingbox": [
+      "50.6297853",
+      "50.6298853",
+      "12.8105174",
+      "12.8106174"
+    ],
+    "lat": "50.6298353",
+    "lon": "12.8105674",
+    "display_name": "Afterwork Caf\u00e8 & Bar, 1, M\u00fchlberg, K\u00fchnhaide, Zw\u00f6nitz, Erzgebirgskreis, Sachsen, 08297, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

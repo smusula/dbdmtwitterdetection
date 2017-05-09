@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "89833445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114655273",
+    "boundingbox": [
+      "54.9321139",
+      "54.9324486",
+      "43.3261691",
+      "43.3269027"
+    ],
+    "lat": "54.9322259",
+    "lon": "43.3265301430704",
+    "display_name": "\u0417\u0430\u0440\u0435\u0447\u043d\u044b\u0439, 23/1, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041c\u0443\u0437\u0440\u0443\u043a\u043e\u0432\u0430, \u0421\u0430\u0440\u043e\u0432, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u0430\u0440\u043e\u0432, \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 607188, \u0420\u0424",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "89599037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114015279",
+    "boundingbox": [
+      "54.9220908",
+      "54.9225905",
+      "43.3232372",
+      "43.3245209"
+    ],
+    "lat": "54.9223497",
+    "lon": "43.3236093458239",
+    "display_name": "\u0423\u0421\u0418\u0421, 4, \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0421\u0430\u0440\u043e\u0432, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u0430\u0440\u043e\u0432, \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 607188, \u0420\u0424",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

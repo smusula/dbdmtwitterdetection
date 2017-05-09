@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "151767644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400014249",
+    "boundingbox": [
+      "40.7000578",
+      "40.8774502",
+      "-74.0193087",
+      "-73.9104554"
+    ],
+    "lat": "40.7902778",
+    "lon": "-73.9597221",
+    "display_name": "Manhattan, New York County, NYC, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.79014193609354,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160538320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2552485",
+    "boundingbox": [
+      "40.679542",
+      "40.882463",
+      "-74.0477158",
+      "-73.9071359"
+    ],
+    "lat": "40.7835127",
+    "lon": "-73.9570850698202",
+    "display_name": "New York County, NYC, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.69014193609354,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160270349",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "129869",
+    "boundingbox": [
+      "39.1241341",
+      "39.2287959",
+      "-96.6902755",
+      "-96.5200843"
+    ],
+    "lat": "39.1836082",
+    "lon": "-96.5716693",
+    "display_name": "Manhattan, Riley County, Kansas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.60310261250013,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "73332465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34746462",
+    "boundingbox": [
+      "45.850757",
+      "45.866825",
+      "-111.3421859",
+      "-111.3185479"
+    ],
+    "lat": "45.8553685",
+    "lon": "-111.334081",
+    "display_name": "Manhattan, Gallatin County, Montana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160268572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "125780",
+    "boundingbox": [
+      "41.385834",
+      "41.454473",
+      "-88.0203839",
+      "-87.9410549"
+    ],
+    "lat": "41.4225316",
+    "lon": "-87.9858862",
+    "display_name": "Manhattan, Will County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41239812023006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "456098",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158351136",
+    "boundingbox": [
+      "41.727015",
+      "41.767015",
+      "-77.558038",
+      "-77.518038"
+    ],
+    "lat": "41.747015",
+    "lon": "-77.538038",
+    "display_name": "Manhattan, Tioga County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "408037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153887694",
+    "boundingbox": [
+      "27.4875391",
+      "27.5275391",
+      "-82.3387031",
+      "-82.2987031"
+    ],
+    "lat": "27.5075391",
+    "lon": "-82.3187031",
+    "display_name": "Manhattan, Manatee County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "404214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153603710",
+    "boundingbox": [
+      "39.5350444",
+      "39.5750444",
+      "-86.9475113",
+      "-86.9075113"
+    ],
+    "lat": "39.5550444",
+    "lon": "-86.9275113",
+    "display_name": "Manhattan, Putnam County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "378382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151845682",
+    "boundingbox": [
+      "33.2517865",
+      "33.2917865",
+      "-90.8773218",
+      "-90.8373218"
+    ],
+    "lat": "33.2717865",
+    "lon": "-90.8573218",
+    "display_name": "Manhattan, Washington County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52826908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4000757433",
+    "boundingbox": [
+      "49.6241594",
+      "49.6641594",
+      "22.0270548",
+      "22.0670548"
+    ],
+    "lat": "49.6441594",
+    "lon": "22.0470548",
+    "display_name": "Manhattan, gmina Brzoz\u00f3w, powiat brzozowski, podkarpackie, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

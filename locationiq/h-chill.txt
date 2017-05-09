@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "56552972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4418979649",
+    "boundingbox": [
+      "52.2067963",
+      "52.2068963",
+      "0.1197681",
+      "0.1198681"
+    ],
+    "lat": "52.2068463",
+    "lon": "0.1198181",
+    "display_name": "Chill, 40, Green Street, Market Ward, Cambridge, Cambridgeshire, East of England, England, CB2 3JX, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "111906906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204188829",
+    "boundingbox": [
+      "53.7299732",
+      "53.7300663",
+      "-1.4980482",
+      "-1.4978249"
+    ],
+    "lat": "53.73001975",
+    "lon": "-1.49793655",
+    "display_name": "Chill, Ledger Lane, Knowsthorpe, Leeds, Yorkshire and the Humber, England, WF3 3LW, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "13824727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1250540446",
+    "boundingbox": [
+      "48.7719957",
+      "48.7720957",
+      "11.4351775",
+      "11.4352775"
+    ],
+    "lat": "48.7720457",
+    "lon": "11.4352275",
+    "display_name": "Chill, 33, N\u00fcrnberger Stra\u00dfe, Josephviertel, Nordost, Ingolstadt, OB, Bayern, 85055, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2525715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "343263211",
+    "boundingbox": [
+      "47.9947402",
+      "47.9948402",
+      "-4.0997254",
+      "-4.0996254"
+    ],
+    "lat": "47.9947902",
+    "lon": "-4.0996754",
+    "display_name": "Chill, Boulevard Dupleix, Saint-Laurent, Kerfeunteun, Quimper, Finist\u00e8re, Bretagne, 29000, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54061114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4160990190",
+    "boundingbox": [
+      "11.5712119",
+      "11.5713119",
+      "104.9295391",
+      "104.9296391"
+    ],
+    "lat": "11.5712619",
+    "lon": "104.9295891",
+    "display_name": "Chill, \u178f\u17b8\u179a\u179c\u17b7\u1790\u17b8 \u1796\u17d2\u179a\u17c7\u179f\u17ca\u17b8\u179f\u17bb\u179c\u178f\u17d2\u178f\u17b7, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12200, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "20530045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2051882518",
+    "boundingbox": [
+      "48.7406215",
+      "48.7407215",
+      "9.3007507",
+      "9.3008507"
+    ],
+    "lat": "48.7406715",
+    "lon": "9.3008007",
+    "display_name": "Chill, Martinstra\u00dfe, Innenstadt, Esslingen, Landkreis Esslingen, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 73728, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "16296783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1499228161",
+    "boundingbox": [
+      "52.6486837",
+      "52.6487837",
+      "-8.6367048",
+      "-8.6366048"
+    ],
+    "lat": "52.6487337",
+    "lon": "-8.6366548",
+    "display_name": "Chill, Childers Road, Ballinacurra (Weston), Ballinacurra B, Metropolitan District of Limerick, County Limerick, Munster, Ireland",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "16394684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1503247062",
+    "boundingbox": [
+      "53.383227",
+      "53.383327",
+      "-6.6036611",
+      "-6.6035611"
+    ],
+    "lat": "53.383277",
+    "lon": "-6.6036111",
+    "display_name": "Chill, Kilcock Road, Laraghbryan East, Maynooth ED, Maynooth Municipal District, County Kildare, Leinster, Ireland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "56840603",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428894303",
+    "boundingbox": [
+      "25.6792596",
+      "25.6793596",
+      "100.2095045",
+      "100.2096045"
+    ],
+    "lat": "25.6793096",
+    "lon": "100.2095545",
+    "display_name": "Chill, \u73af\u6d77\u897f\u8def, \u4e0b\u5173\u9547, \u5927\u7406\u5e02 (Dali), \u5927\u7406\u5dde (Dali), \u4e91\u5357\u7701, 671003, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "rest_area",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19766680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1969579818",
+    "boundingbox": [
+      "10.7703748",
+      "10.7704748",
+      "106.6942859",
+      "106.6943859"
+    ],
+    "lat": "10.7704248",
+    "lon": "106.6943359",
+    "display_name": "Chill, L\u00ea Lai, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1, Tp HCM, 1, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

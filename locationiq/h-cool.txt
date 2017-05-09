@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "51909043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3883075659",
+    "boundingbox": [
+      "51.9266987",
+      "51.9267987",
+      "4.378881",
+      "4.378981"
+    ],
+    "lat": "51.9267487",
+    "lon": "4.378931",
+    "display_name": "cool, Schiedam, MRDH, Zuid-Holland, Nederland",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.435
+  },
+  {
+    "place_id": "156645308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427502345",
+    "boundingbox": [
+      "51.9115219",
+      "51.9244165",
+      "4.4705926",
+      "4.4810331"
+    ],
+    "lat": "51.91831445",
+    "lon": "4.47647692560627",
+    "display_name": "Cool, Rotterdam, MRDH, Zuid-Holland, Nederland, 3012GR, Nederland",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.42136144456224
+  },
+  {
+    "place_id": "369861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151626685",
+    "boundingbox": [
+      "41.2033284",
+      "41.2433284",
+      "-93.5974378",
+      "-93.5574378"
+    ],
+    "lat": "41.2233284",
+    "lon": "-93.5774378",
+    "display_name": "Cool, Warren County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160952740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6155355",
+    "boundingbox": [
+      "52.1971305",
+      "52.213452",
+      "-9.9241237",
+      "-9.9006046"
+    ],
+    "lat": "52.205295",
+    "lon": "-9.91590336290469",
+    "display_name": "Cool, Kilgobban ED, Tralee, County Kerry, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160637416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3373008",
+    "boundingbox": [
+      "53.3798565",
+      "53.3895546",
+      "-8.293674",
+      "-8.2753222"
+    ],
+    "lat": "53.38469395",
+    "lon": "-8.28502931670073",
+    "display_name": "Cool, Ahascragh ED, Ballinasloe Municipal District, County Galway, Connacht, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160961985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5989382",
+    "boundingbox": [
+      "52.5103707",
+      "52.518551",
+      "-8.4012038",
+      "-8.3866788"
+    ],
+    "lat": "52.51459555",
+    "lon": "-8.39305419464285",
+    "display_name": "Cool, Kilteely, Cappamore - Kilmallock, County Limerick, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160776386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4562070",
+    "boundingbox": [
+      "52.8741511",
+      "52.8857836",
+      "-7.4458065",
+      "-7.4304024"
+    ],
+    "lat": "52.88006785",
+    "lon": "-7.43886542294146",
+    "display_name": "Cool, Killermogh ED, Borris-in-Ossory-Mountmellick, County Laois, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160854260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5517739",
+    "boundingbox": [
+      "52.1559737",
+      "52.170534",
+      "-8.0073031",
+      "-7.9870842"
+    ],
+    "lat": "52.1629144",
+    "lon": "-7.99731315385679",
+    "display_name": "Cool, Ballysaggart More, Dungarvan - Lismore, County Waterford, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160900873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5845843",
+    "boundingbox": [
+      "52.0912543",
+      "52.0988699",
+      "-7.7733135",
+      "-7.7629413"
+    ],
+    "lat": "52.0950567",
+    "lon": "-7.7660140486119",
+    "display_name": "Cool, Whitechurch, Dungarvan - Lismore, County Waterford, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "73080828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33245853",
+    "boundingbox": [
+      "32.795584",
+      "32.804664",
+      "-98.0358189",
+      "-97.9878799"
+    ],
+    "lat": "32.8001288",
+    "lon": "-98.0011529",
+    "display_name": "Cool, Parker County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2646538647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4556243690",
+    "boundingbox": [
+      "51.4614213",
+      "51.4615213",
+      "-0.0067944",
+      "-0.0066944"
+    ],
+    "lat": "51.4614713",
+    "lon": "-0.0067444",
+    "display_name": "Records, Lee High Road, Blackheath Vale, Hither Green, London Borough of Lewisham, London, Greater London, England, SE13 5PT, UK",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26320567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2507822144",
+    "boundingbox": [
+      "42.0557094",
+      "42.0558094",
+      "0.2417535",
+      "0.2418535"
+    ],
+    "lat": "42.0557594",
+    "lon": "0.2418035",
+    "display_name": "Records, 21, Avenida Arag\u00f3n, Estadilla, Somontano de Barbastro, Huesca, Arag\u00f3n, 22423, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "135421002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "312025387",
+    "boundingbox": [
+      "48.3603468",
+      "48.3606317",
+      "29.5282702",
+      "29.5285894"
+    ],
+    "lat": "48.36049265",
+    "lon": "29.5284280755061",
+    "display_name": "La Records, \u0420-54, \u0424\u043b\u043e\u0440\u0438\u043d\u0435, \u0411\u0435\u0440\u0448\u0430\u0434\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 24405, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

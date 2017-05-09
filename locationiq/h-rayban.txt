@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "2654502962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4743355860",
+    "boundingbox": [
+      "15.5354709",
+      "15.5355709",
+      "73.8206594",
+      "73.8207594"
+    ],
+    "lat": "15.5355209",
+    "lon": "73.8207094",
+    "display_name": "RayBan, NH66, Porvorim, North Goa, Goa, 403500, India",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  },
+  {
+    "place_id": "57034956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4446913325",
+    "boundingbox": [
+      "21.2410621",
+      "21.2411621",
+      "81.684367",
+      "81.684467"
+    ],
+    "lat": "21.2411121",
+    "lon": "81.684417",
+    "display_name": "Rayban, NH53, Raipur, Chhattisgarh, 492001, India",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  },
+  {
+    "place_id": "159171288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "441515886",
+    "boundingbox": [
+      "-16.5048392",
+      "-16.5046369",
+      "-68.1273637",
+      "-68.1271854"
+    ],
+    "lat": "-16.5047363",
+    "lon": "-68.1272913207616",
+    "display_name": "Rayban, Calle Zapata, Casco Viejo, Municipio Nuestra Se\u00f1ora de La Paz, Provincia Murillo, LPZ, 3077, Bolivia",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56797703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4445077284",
+    "boundingbox": [
+      "13.0011651",
+      "13.0012651",
+      "77.6328014",
+      "77.6329014"
+    ],
+    "lat": "13.0012151",
+    "lon": "77.6328514",
+    "display_name": "Ray_Ban, No. 26/10, Banaswadi Main Road, Banaswadi Layout, Maruthi Sevanagar, Banaswadi Road, MSO Colony, Cooke Town, Bengaluru, Bangalore Urban, Karnataka, 560033, India",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  }
+]

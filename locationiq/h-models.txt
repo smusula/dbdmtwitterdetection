@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "147735985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377853679",
+    "boundingbox": [
+      "43.6676059",
+      "43.6676764",
+      "18.9741981",
+      "18.9742988"
+    ],
+    "lat": "43.6676415",
+    "lon": "18.9742484410949",
+    "display_name": "Models, Sinan-pa\u0161e Sijer\u010di\u0107a, Belvedere, Vitkovi\u0107i, Gora\u017ede, Op\u0107ina Gora\u017ede, Bosansko-podrinjski kanton/\u017eupanija, Federacija Bosne i Hercegovine, 73000, Bosna i Hercegovina",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "16243607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1483303854",
+    "boundingbox": [
+      "52.2604775",
+      "52.2605775",
+      "5.6060204",
+      "5.6061204"
+    ],
+    "lat": "52.2605275",
+    "lon": "5.6060704",
+    "display_name": "Models, Dorpsstraat, Putten, Gelderland, Nederland, 3881BD, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2646130587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547311389",
+    "boundingbox": [
+      "10.1493001",
+      "10.1494001",
+      "76.234342",
+      "76.234442"
+    ],
+    "lat": "10.1493501",
+    "lon": "76.234392",
+    "display_name": "Models, Aluva Parur Road, Paravur, Ernakulam, Kerala, 683513, India",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158460648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "436783300",
+    "boundingbox": [
+      "-11.9564276",
+      "-11.9563035",
+      "-77.0530583",
+      "-77.0528538"
+    ],
+    "lat": "-11.95636555",
+    "lon": "-77.0529560518245",
+    "display_name": "Models, Avenida Tupac Amaru, El Parrial, Comas, Lima, 07, Per\u00fa",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "29004576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2688112534",
+    "boundingbox": [
+      "48.8858944",
+      "48.8859944",
+      "2.1715514",
+      "2.1716514"
+    ],
+    "lat": "48.8859444",
+    "lon": "2.1716014",
+    "display_name": "Model's, Les Arches du Patio, Rueil-Malmaison, Arrondissement de Nanterre, Hauts-de-Seine, \u00cele-de-France, 92500, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "45499406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3249687307",
+    "boundingbox": [
+      "15.4661732",
+      "15.4662732",
+      "73.8069564",
+      "73.8070564"
+    ],
+    "lat": "15.4662232",
+    "lon": "73.8070064",
+    "display_name": "Model's, Old Dauna Paula, Patto Centre, Panaji, North Goa, Goa, 403002, India",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "107681909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "185882029",
+    "boundingbox": [
+      "51.4560987",
+      "51.4794056",
+      "-0.4943775",
+      "-0.4151696"
+    ],
+    "lat": "51.467772",
+    "lon": "-0.459093681628075",
+    "display_name": "Heathrow, Airside Road Tunnel, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, TW6 1BP, UK",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.53320434987888,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "56880159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "2798802",
+    "boundingbox": [
+      "51.4775056",
+      "51.4776791",
+      "-0.4850404",
+      "-0.4332974"
+    ],
+    "lat": "51.4775978",
+    "lon": "-0.4575309",
+    "display_name": "09L/27R, Northern Perimeter Road West, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, TW6 2AU, UK",
+    "class": "aeroway",
+    "type": "runway",
+    "importance": 0.001
+  },
+  {
+    "place_id": "57199793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "2798800",
+    "boundingbox": [
+      "51.4647867",
+      "51.4649463",
+      "-0.4823453",
+      "-0.4340795"
+    ],
+    "lat": "51.4648679",
+    "lon": "-0.4577982",
+    "display_name": "09R/27L, Heathrow Cargo Tunnel, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, TW14 8, UK",
+    "class": "aeroway",
+    "type": "runway",
+    "importance": 0.001
+  }
+]

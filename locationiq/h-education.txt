@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "113699990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210813931",
+    "boundingbox": [
+      "41.7168833",
+      "41.7173657",
+      "-87.6129921",
+      "-87.6123527"
+    ],
+    "lat": "41.71712055",
+    "lon": "-87.6127576704073",
+    "display_name": "Education, 9501, South Doctor Martin Luther King Junior Drive, Lilydale, Chicago, Cook County, Illinois, 60628, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160985295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6427395",
+    "boundingbox": [
+      "34.2410655",
+      "34.2415446",
+      "-118.5314836",
+      "-118.5304106"
+    ],
+    "lat": "34.2413342",
+    "lon": "-118.531045518679",
+    "display_name": "Education, Jacaranda Walk, Northridge, LA, Los Angeles County, California, 91330, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76607684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46381730",
+    "boundingbox": [
+      "-33.8871081",
+      "-33.8864958",
+      "151.1869774",
+      "151.1873972"
+    ],
+    "lat": "-33.88680025",
+    "lon": "151.187180782797",
+    "display_name": "Education, Manning Road, Camperdown, Sydney, NSW, 2006, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94406818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131361429",
+    "boundingbox": [
+      "-35.0283994",
+      "-35.0279602",
+      "138.5743626",
+      "138.5750656"
+    ],
+    "lat": "-35.02827315",
+    "lon": "138.574709091368",
+    "display_name": "Education, Lakeside Walk, Bedford Park, Adelaide, South Australia, 5000, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73891266",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36806695",
+    "boundingbox": [
+      "-32.0085532",
+      "-32.0082019",
+      "115.8929841",
+      "115.8937823"
+    ],
+    "lat": "-32.0084076",
+    "lon": "115.8933832",
+    "display_name": "501 Education, 501, Chessell Drive, Waterford, Perth, Western Australia, 6102, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73133514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34124814",
+    "boundingbox": [
+      "32.2332294",
+      "32.2336505",
+      "-110.9502348",
+      "-110.9493164"
+    ],
+    "lat": "32.2334291",
+    "lon": "-110.94974555",
+    "display_name": "Education, East North Campus Drive, Rincon Heights, Tucson, Pima County, Arizona, 85719, United States of America",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "132239740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "297762715",
+    "boundingbox": [
+      "34.7218276",
+      "34.7219295",
+      "-92.3416419",
+      "-92.3404554"
+    ],
+    "lat": "34.72187855",
+    "lon": "-92.34104865",
+    "display_name": "Education, South University Avenue, Little Rock, Pulaski County, Arkansas, 72204, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10991651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1018132630",
+    "boundingbox": [
+      "52.621332",
+      "52.621432",
+      "1.237412",
+      "1.237512"
+    ],
+    "lat": "52.621382",
+    "lon": "1.237462",
+    "display_name": "Education, Chancellors Drive, Earlham, Norwich, Norfolk, East of England, England, UK",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48049579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3501026498",
+    "boundingbox": [
+      "33.5798582",
+      "33.5799582",
+      "-101.8800033",
+      "-101.8799033"
+    ],
+    "lat": "33.5799082",
+    "lon": "-101.8799533",
+    "display_name": "Education, 18th Street, Lubbock, Lubbock County, Texas, 79406, United States of America",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "50994677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3809239523",
+    "boundingbox": [
+      "54.1372238",
+      "54.1373238",
+      "-3.2073958",
+      "-3.2072958"
+    ],
+    "lat": "54.1372738",
+    "lon": "-3.2073458",
+    "display_name": "Education, Dalton Lane, Hawcoat, Barrow-in-Furness, Cumbria, North West England, England, LA14 4PG, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  }
+]

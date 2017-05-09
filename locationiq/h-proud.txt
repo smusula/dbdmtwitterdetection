@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "2647301490",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4573040270",
+    "boundingbox": [
+      "47.8270965",
+      "47.8470965",
+      "3.4124758",
+      "3.4324758"
+    ],
+    "lat": "47.8370965",
+    "lon": "3.4224758",
+    "display_name": "Le Proud, Poilly-sur-Tholon, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, 89110, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52210862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3933417014",
+    "boundingbox": [
+      "52.5136331",
+      "52.5137331",
+      "13.4583672",
+      "13.4584672"
+    ],
+    "lat": "52.5136831",
+    "lon": "13.4584172",
+    "display_name": "proud, 9, Niederbarnimstra\u00dfe, Fhain, Friedrichshain-Kreuzberg, Berlin, 10247, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

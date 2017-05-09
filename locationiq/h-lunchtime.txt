@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "52522322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3975798457",
+    "boundingbox": [
+      "48.2323474",
+      "48.2324474",
+      "16.4137213",
+      "16.4138213"
+    ],
+    "lat": "48.2323974",
+    "lon": "16.4137713",
+    "display_name": "Lunchtime, 1, Donau-City-Stra\u00dfe, Donau City, KG Kaiserm\u00fchlen, Donaustadt, Wien, 1220, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "6742003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703229664",
+    "boundingbox": [
+      "50.9859299",
+      "50.9860299",
+      "4.5449864",
+      "4.5450864"
+    ],
+    "lat": "50.9859799",
+    "lon": "4.5450364",
+    "display_name": "Lunchtime, 110, Leuvensesteenweg, Hever, Boortmeerbeek, Leuven, Vlaams-Brabant, Vlaanderen, 3191, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "143947895",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "359511621",
+    "boundingbox": [
+      "49.5990135",
+      "49.5993678",
+      "6.2140667",
+      "6.2149881"
+    ],
+    "lat": "49.59922115",
+    "lon": "6.21464916715288",
+    "display_name": "Lunchtime, Rue des Chaux, Contern, Canton Luxembourg, 5324, L\u00ebtzebuerg",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

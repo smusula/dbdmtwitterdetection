@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "89994132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115106237",
+    "boundingbox": [
+      "56.6227043",
+      "56.6252313",
+      "-2.7680859",
+      "-2.7655111"
+    ],
+    "lat": "56.6243999",
+    "lon": "-2.7662783",
+    "display_name": "Vinny Den, East Lodge, Idvies, Angus, Scotland, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "35148502",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2820088123",
+    "boundingbox": [
+      "50.0887034",
+      "50.0888034",
+      "14.4236177",
+      "14.4237177"
+    ],
+    "lat": "50.0887534",
+    "lon": "14.4236677",
+    "display_name": "Vinn\u00fd, T\u00fdnsk\u00e1, Star\u00e9 M\u011bsto, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 11005, \u010cesko",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

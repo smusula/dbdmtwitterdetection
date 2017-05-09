@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "13680454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243762756",
+    "boundingbox": [
+      "41.3864838",
+      "41.4064838",
+      "-2.478066",
+      "-2.458066"
+    ],
+    "lat": "41.3964838",
+    "lon": "-2.468066",
+    "display_name": "El Arrojo, Adradas, Comarca de Almaz\u00e1n, Soria, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "514371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "189159246",
+    "boundingbox": [
+      "43.3544236",
+      "43.3944236",
+      "-7.077538",
+      "-7.037538"
+    ],
+    "lat": "43.3744236",
+    "lon": "-7.057538",
+    "display_name": "Arroxo, Asturias / Asturies, Asturias, 33775, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10970889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1054642943",
+    "boundingbox": [
+      "43.1532257",
+      "43.1932257",
+      "-6.0112566",
+      "-5.9712566"
+    ],
+    "lat": "43.1732257",
+    "lon": "-5.9912566",
+    "display_name": "Arrojo/Arroxo, Asturias / Asturies, Asturias, 33117, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.26095925177046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48419510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3575305295",
+    "boundingbox": [
+      "40.7108828",
+      "40.7109828",
+      "-73.96808",
+      "-73.96798"
+    ],
+    "lat": "40.7109328",
+    "lon": "-73.96803",
+    "display_name": "Arrojo, 15, Dunham Place, Brooklyn Navy Yard, Kings County, NYC, New York, 11211, United States of America",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20070922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1995304087",
+    "boundingbox": [
+      "43.17549",
+      "43.17559",
+      "-5.9926923",
+      "-5.9925923"
+    ],
+    "lat": "43.17554",
+    "lon": "-5.9926423",
+    "display_name": "Arrojo, AS-229, Quir\u00f3s, Asturias / Asturies, Asturias, 33118, Espa\u00f1a",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "6592382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "685357343",
+    "boundingbox": [
+      "50.4458451",
+      "50.4858451",
+      "4.9041678",
+      "4.9441678"
+    ],
+    "lat": "50.4658451",
+    "lon": "4.9241678",
+    "display_name": "Lives-sur-Meuse, Namur, Wallonie, 5101, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12766441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1185645417",
+    "boundingbox": [
+      "45.7461013",
+      "45.7861013",
+      "3.3661481",
+      "3.4061481"
+    ],
+    "lat": "45.7661013",
+    "lon": "3.3861481",
+    "display_name": "La Live, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52580732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3961335693",
+    "boundingbox": [
+      "45.9519817",
+      "45.9520817",
+      "4.9612827",
+      "4.9613827"
+    ],
+    "lat": "45.9520317",
+    "lon": "4.9613327",
+    "display_name": "La Live, Monthieux, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01390, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "121329568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242358712",
+    "boundingbox": [
+      "51.0859913",
+      "51.0873874",
+      "3.6712886",
+      "3.6786134"
+    ],
+    "lat": "51.0868136",
+    "lon": "3.6754581",
+    "display_name": "Lieve, Gent, Oost-Vlaanderen, Vlaanderen, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.325
+  },
+  {
+    "place_id": "87278395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "105533239",
+    "boundingbox": [
+      "51.0896823",
+      "51.142024",
+      "3.557791",
+      "3.6523344"
+    ],
+    "lat": "51.1389709",
+    "lon": "3.6150122",
+    "display_name": "Lieve, Waarschoot, Gent, Oost-Vlaanderen, Vlaanderen, 9950, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.325
+  },
+  {
+    "place_id": "22840873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2272881682",
+    "boundingbox": [
+      "46.0146245",
+      "46.0346245",
+      "2.5132382",
+      "2.5332382"
+    ],
+    "lat": "46.0246245",
+    "lon": "2.5232382",
+    "display_name": "La Li\u00e8ve, Auzances, Aubusson, Creuse, Nouvelle-Aquitaine, 23700, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

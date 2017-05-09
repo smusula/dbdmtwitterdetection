@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "150484242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391817685",
+    "boundingbox": [
+      "43.8122478",
+      "43.813218",
+      "-79.7306559",
+      "-79.7298667"
+    ],
+    "lat": "43.8129036",
+    "lon": "-79.7301869",
+    "display_name": "Strength Street, Brampton, Peel Region, Ontario, L6P1W3, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58039636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6200954",
+    "boundingbox": [
+      "32.451495",
+      "32.451596",
+      "-86.4476519",
+      "-86.4463929"
+    ],
+    "lat": "32.451563",
+    "lon": "-86.4468599",
+    "display_name": "Strength Street, Prattville, Autauga County, Alabama, 36067, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59518682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7923766",
+    "boundingbox": [
+      "31.341904",
+      "31.343099",
+      "-87.4121059",
+      "-87.4033009"
+    ],
+    "lat": "31.342811",
+    "lon": "-87.4075609",
+    "display_name": "Strength Lane, Goodway, Monroe County, Alabama, 36502, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59006270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7660734",
+    "boundingbox": [
+      "31.078154",
+      "31.078209",
+      "-87.2551809",
+      "-87.2510299"
+    ],
+    "lat": "31.078189",
+    "lon": "-87.2533299",
+    "display_name": "Strength Road, Osaka, Escambia County, Alabama, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111540343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202343954",
+    "boundingbox": [
+      "36.0824692",
+      "36.0824915",
+      "-115.0370053",
+      "-115.0355678"
+    ],
+    "lat": "36.0824915",
+    "lon": "-115.0362746",
+    "display_name": "Surf Strength Way, Whitney Ranch, East Las Vegas, Clark County, Nevada, 89122, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70380729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27323376",
+    "boundingbox": [
+      "-33.3915479",
+      "-33.380992",
+      "116.116949",
+      "116.11851"
+    ],
+    "lat": "-33.3857527",
+    "lon": "116.1173726",
+    "display_name": "Strength Road, Collie, Western Australia, 6225, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55427155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4289535777",
+    "boundingbox": [
+      "29.7181811",
+      "29.7182811",
+      "-95.3446047",
+      "-95.3445047"
+    ],
+    "lat": "29.7182311",
+    "lon": "-95.3445547",
+    "display_name": "Strength in Caring, 4800, Calhoun Road, Houston, Harris County, Texas, 77021, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "25822612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2462325819",
+    "boundingbox": [
+      "47.6685891",
+      "47.6686891",
+      "-122.2906871",
+      "-122.2905871"
+    ],
+    "lat": "47.6686391",
+    "lon": "-122.2906371",
+    "display_name": "Sound Strength and Conditioning, 3418, Northeast 55th Street, Wedgwood, University District, Seattle, King County, Washington, 98105, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "57124041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4445938996",
+    "boundingbox": [
+      "40.4629307",
+      "40.4630307",
+      "-80.0311775",
+      "-80.0310775"
+    ],
+    "lat": "40.4629807",
+    "lon": "-80.0311275",
+    "display_name": "Next Level Athletic Strength & Conditioning, 2320, California Avenue, Marshall Shadeland, Marshall-Shadeland, PGH, Allegheny County, Pennsylvania, 15212, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50616622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3778731931",
+    "boundingbox": [
+      "45.3629408",
+      "45.3630408",
+      "-75.7896578",
+      "-75.7895578"
+    ],
+    "lat": "45.3629908",
+    "lon": "-75.7896078",
+    "display_name": "Canadian Strength, Richmond Road, Lincoln Heights, Britannia Bay, Bay, Ottawa, Ontario, K2B 7H6, Canada",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

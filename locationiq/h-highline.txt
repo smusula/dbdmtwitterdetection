@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "334503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150980448",
+    "boundingbox": [
+      "47.4533437",
+      "47.4933437",
+      "-122.344973",
+      "-122.304973"
+    ],
+    "lat": "47.4733437",
+    "lon": "-122.324973",
+    "display_name": "Highline, King County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "82609359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83665316",
+    "boundingbox": [
+      "53.4685301",
+      "53.4695136",
+      "-112.8212251",
+      "-112.8133287"
+    ],
+    "lat": "53.4695136",
+    "lon": "-112.8176846",
+    "display_name": "Highline, Camrose, Alberta, Canada",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60628963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10424306",
+    "boundingbox": [
+      "35.10943",
+      "35.109433",
+      "-118.5365379",
+      "-118.5349499"
+    ],
+    "lat": "35.10943",
+    "lon": "-118.5349499",
+    "display_name": "Highline, Kern County, California, 93561, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67946383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21893004",
+    "boundingbox": [
+      "30.321222",
+      "30.321338",
+      "-95.3200689",
+      "-95.3045969"
+    ],
+    "lat": "30.321275",
+    "lon": "-95.3098439",
+    "display_name": "Highline, Groceville, Montgomery County, Texas, 77306, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66028745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18301461",
+    "boundingbox": [
+      "40.2280871",
+      "40.2283738",
+      "-92.5809513",
+      "-92.5809478"
+    ],
+    "lat": "40.2280871",
+    "lon": "-92.5809513",
+    "display_name": "Highline, Kirksville, Adair County, Missouri, 63501, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60726575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10054695",
+    "boundingbox": [
+      "32.853743",
+      "32.854661",
+      "-97.1433639",
+      "-97.1395009"
+    ],
+    "lat": "32.85425",
+    "lon": "-97.1410699",
+    "display_name": "Highline, Bedford, Tarrant County, Texas, 76021, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "131330889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293254402",
+    "boundingbox": [
+      "39.2198105",
+      "39.2217217",
+      "-106.9201896",
+      "-106.9195655"
+    ],
+    "lat": "39.2208498",
+    "lon": "-106.9199924",
+    "display_name": "Highline, Snowmass Village, Pitkin County, Colorado, 81615, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "92280214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123596783",
+    "boundingbox": [
+      "37.4516237",
+      "37.5044191",
+      "-108.0387621",
+      "-108.0113079"
+    ],
+    "lat": "37.4735004",
+    "lon": "-108.0356516",
+    "display_name": "Highline, Montezuma County, Colorado, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "82664770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82583775",
+    "boundingbox": [
+      "48.7710155",
+      "48.771359",
+      "-113.7717062",
+      "-113.7708169"
+    ],
+    "lat": "48.7712359",
+    "lon": "-113.7713307",
+    "display_name": "Highline, Crystal Point, Flathead County, Montana, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2645815145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "457953067",
+    "boundingbox": [
+      "50.5480134",
+      "50.554755",
+      "-115.9984019",
+      "-115.9900019"
+    ],
+    "lat": "50.55185",
+    "lon": "-115.9928619",
+    "display_name": "Highline, Regional District of East Kootenay, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

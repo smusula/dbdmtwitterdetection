@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "54791912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4232772703",
+    "boundingbox": [
+      "30.6449393",
+      "30.6450393",
+      "104.0668856",
+      "104.0669856"
+    ],
+    "lat": "30.6449893",
+    "lon": "104.0669356",
+    "display_name": "halal, \u5927\u5b66\u8def, \u6b66\u4faf\u533a, \u6b66\u4faf\u533a (Wuhou), \u6210\u90fd\u5e02 / Chengdu, \u56db\u5ddd\u7701, 610000, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "50681830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3785195846",
+    "boundingbox": [
+      "40.7698973",
+      "40.7699973",
+      "-73.9881716",
+      "-73.9880716"
+    ],
+    "lat": "40.7699473",
+    "lon": "-73.9881216",
+    "display_name": "Halal, 891, 10th Avenue, Hell's Kitchen, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2653311561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4714505090",
+    "boundingbox": [
+      "31.2358512",
+      "31.2359512",
+      "121.4745809",
+      "121.4746809"
+    ],
+    "lat": "31.2359012",
+    "lon": "121.4746309",
+    "display_name": "Halal, \u6c49\u53e3\u8def, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, \u9ec4\u6d66\u533a, \u4e0a\u6d77\u5e02, 200085, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22998080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2282162810",
+    "boundingbox": [
+      "42.3382018",
+      "42.3383018",
+      "-3.702941",
+      "-3.702841"
+    ],
+    "lat": "42.3382518",
+    "lon": "-3.702891",
+    "display_name": "Halal, Calle Hospital Militar, San Juli\u00e1n, San Pedro y San Felices, Burgos, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09003, Espa\u00f1a",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2649965598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4634585990",
+    "boundingbox": [
+      "42.978522",
+      "42.978622",
+      "47.4883656",
+      "47.4884656"
+    ],
+    "lat": "42.978572",
+    "lon": "47.4884156",
+    "display_name": "Halal, 50, \u0443\u043b\u0438\u0446\u0430 \u0420\u0438\u0437\u0432\u0430\u043d\u0430 \u0421\u0443\u043b\u0435\u0439\u043c\u0430\u043d\u043e\u0432\u0430, \u0433\u043e\u0440\u043e\u0434\u043e\u043a \u041d\u0435\u0444\u0442\u044f\u043d\u0438\u043a\u043e\u0432, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430, \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d, \u0421\u041a\u0424\u041e, 367000, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "55655841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4326752543",
+    "boundingbox": [
+      "40.3277268",
+      "40.3278268",
+      "-3.7617413",
+      "-3.7616413"
+    ],
+    "lat": "40.3277768",
+    "lon": "-3.7616913",
+    "display_name": "Halal, Calle del Geranio, Zarzaquemada, Legan\u00e9s, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28912, Espa\u00f1a",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  },
+  {
+    "place_id": "49329826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3668344135",
+    "boundingbox": [
+      "-6.8048234",
+      "-6.8047234",
+      "39.248328",
+      "39.248428"
+    ],
+    "lat": "-6.8047734",
+    "lon": "39.248378",
+    "display_name": "Halal, Usimulizi Street, Kimamba, Makurumla, Dar es Salaam, Coastal, 78492, Tanzania",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  },
+  {
+    "place_id": "52380615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3958298340",
+    "boundingbox": [
+      "40.5509567",
+      "40.5510567",
+      "-3.6531362",
+      "-3.6530362"
+    ],
+    "lat": "40.5510067",
+    "lon": "-3.6530862",
+    "display_name": "Halal, 8, Calle Palestina, Valdelasfuentes, Alcobendas, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28100, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56479168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4422778850",
+    "boundingbox": [
+      "41.0818119",
+      "41.0819119",
+      "1.1835281",
+      "1.1836281"
+    ],
+    "lat": "41.0818619",
+    "lon": "1.1835781",
+    "display_name": "Halal, Passeig de Pau Casals, La Pineda, Vila-seca, Tarragon\u00e8s, Tarragona, CAT, 43481, Espa\u00f1a",
+    "class": "shop",
+    "type": "greengrocer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653759252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4726023520",
+    "boundingbox": [
+      "42.6842641",
+      "42.6843641",
+      "-2.9497099",
+      "-2.9496099"
+    ],
+    "lat": "42.6843141",
+    "lon": "-2.9496599",
+    "display_name": "Halal, Calle Real Allende, Barriada de San Ju\u00e1n del Monte, Allende, Miranda de Ebro, Ebro, Burgos, Castilla y Le\u00f3n, 09200, Espa\u00f1a",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

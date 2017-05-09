@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "138465262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326788630",
+    "boundingbox": [
+      "45.5177059",
+      "45.518004",
+      "-122.6778876",
+      "-122.6771643"
+    ],
+    "lat": "45.51785495",
+    "lon": "-122.677525984055",
+    "display_name": "Apple, 450, Southwest Yamhill Street, Pioneer Place, University District, Portland, Multnomah County, Oregon, 97204, United States of America",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.51835445476798
+  },
+  {
+    "place_id": "55386251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4305086935",
+    "boundingbox": [
+      "42.7014785",
+      "42.7015785",
+      "-71.4370799",
+      "-71.4369799"
+    ],
+    "lat": "42.7015285",
+    "lon": "-71.4370299",
+    "display_name": "Apple, 310, Daniel Webster Highway, South Nashua, Ward 7, Nashua, Hillsborough County, New Hampshire, 03060, United States of America",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.51835445476798
+  },
+  {
+    "place_id": "421122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154053322",
+    "boundingbox": [
+      "39.382843",
+      "39.422843",
+      "-82.7271124",
+      "-82.6871124"
+    ],
+    "lat": "39.402843",
+    "lon": "-82.7071124",
+    "display_name": "Apple, Hocking County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "385508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151883513",
+    "boundingbox": [
+      "34.1076036",
+      "34.1476036",
+      "-95.4374605",
+      "-95.3974605"
+    ],
+    "lat": "34.1276036",
+    "lon": "-95.4174605",
+    "display_name": "Apple, Choctaw County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31047074434472,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "119641863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "235377229",
+    "boundingbox": [
+      "30.4304456",
+      "30.4338104",
+      "-97.7390182",
+      "-97.7330262"
+    ],
+    "lat": "30.4322257",
+    "lon": "-97.7360047694386",
+    "display_name": "Apple, Jollyville, Austin, Travis County, Texas, 78728, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "149545416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386965732",
+    "boundingbox": [
+      "54.2790627",
+      "54.2796967",
+      "18.6787005",
+      "18.6799233"
+    ],
+    "lat": "54.27940765",
+    "lon": "18.6793037733478",
+    "display_name": "Apple, Weselno, Rokitnica, gmina Pruszcz Gda\u0144ski, powiat gda\u0144ski, pomorskie, 83-021, Polska",
+    "class": "landuse",
+    "type": "orchard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "72038706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31615214",
+    "boundingbox": [
+      "7.1276461",
+      "7.1285619",
+      "125.6268412",
+      "125.6282557"
+    ],
+    "lat": "7.1276461",
+    "lon": "125.6282557",
+    "display_name": "Apple, Ciudad de Esperanza Subdivision Phase 4, El Punto Vista, Davao City, Davao, 8001, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68005061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21979920",
+    "boundingbox": [
+      "40.0848337",
+      "40.087242",
+      "-88.5094802",
+      "-88.5094258"
+    ],
+    "lat": "40.0860538",
+    "lon": "-88.5094647",
+    "display_name": "Apple, White Heath, Piatt County, Illinois, 61884, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68021965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22065461",
+    "boundingbox": [
+      "37.816795",
+      "37.817314",
+      "-89.1261049",
+      "-89.1260999"
+    ],
+    "lat": "37.816795",
+    "lon": "-89.1261049",
+    "display_name": "Apple, Blairsville, Williamson County, Illinois, 62918, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61239175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11375954",
+    "boundingbox": [
+      "29.155159",
+      "29.15543",
+      "-81.0194929",
+      "-81.0188289"
+    ],
+    "lat": "29.155159",
+    "lon": "-81.0194929",
+    "display_name": "Apple, South Daytona, Volusia County, Florida, 32119, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

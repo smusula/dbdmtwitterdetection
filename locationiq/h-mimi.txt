@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160820636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4649302",
+    "boundingbox": [
+      "29.6770986",
+      "29.953368",
+      "82.0521997",
+      "82.497195"
+    ],
+    "lat": "29.81496765",
+    "lon": "82.2620737496201",
+    "display_name": "Mimi, \u0939\u0941\u092e\u094d\u0932\u093e, \u0915\u0930\u094d\u0923\u093e\u0932\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f-\u092a\u0936\u094d\u091a\u093f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0928\u0947\u092a\u093e\u0932",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4344253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473696405",
+    "boundingbox": [
+      "13.1137407",
+      "13.1537407",
+      "12.3949367",
+      "12.4349367"
+    ],
+    "lat": "13.1337407",
+    "lon": "12.4149367",
+    "display_name": "Mimi, Diffa, Niger",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648418761",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4599347496",
+    "boundingbox": [
+      "13.1018667",
+      "13.1418667",
+      "12.42055",
+      "12.46055"
+    ],
+    "lat": "13.1218667",
+    "lon": "12.44055",
+    "display_name": "Mimi, Diffa, Niger",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48415900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3523690509",
+    "boundingbox": [
+      "33.870833",
+      "33.910833",
+      "47.1075",
+      "47.1475"
+    ],
+    "lat": "33.890833",
+    "lon": "47.1275",
+    "display_name": "\u0645\u06cc\u0645\u06cc, \u0628\u062e\u0634 \u0641\u06cc\u0631\u0648\u0632\u0622\u0628\u0627\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647, \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "20735539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2073661170",
+    "boundingbox": [
+      "57.0835797",
+      "57.0836797",
+      "24.3511051",
+      "24.3512051"
+    ],
+    "lat": "57.0836297",
+    "lon": "24.3511551",
+    "display_name": "Miemi, Kadaga, \u0100da\u017eu novads, Vidzeme, Latvija",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "61519663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11270475",
+    "boundingbox": [
+      "29.6417457",
+      "29.642571",
+      "-81.8534625",
+      "-81.8520219"
+    ],
+    "lat": "29.642167",
+    "lon": "-81.8527369",
+    "display_name": "Mimi, Mannville, Putnam County, Florida, 32148, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89122284",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "112414881",
+    "boundingbox": [
+      "43.791978",
+      "43.79215",
+      "6.023434",
+      "6.023671"
+    ],
+    "lat": "43.7920635",
+    "lon": "6.02354591346154",
+    "display_name": "mimi, Chemin Saint-Veran, Allemagne-en-Provence, Digne-les-Bains, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, 04500, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "35959119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2836148701",
+    "boundingbox": [
+      "48.888175",
+      "48.888275",
+      "2.306362",
+      "2.306462"
+    ],
+    "lat": "48.888225",
+    "lon": "2.306412",
+    "display_name": "Mimi, Rue de Tocqueville, Batignolles, 17e, Paris, \u00cele-de-France, 75017, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16175674",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1467144752",
+    "boundingbox": [
+      "48.2082121",
+      "48.2083121",
+      "16.3928847",
+      "16.3929847"
+    ],
+    "lat": "48.2082621",
+    "lon": "16.3929347",
+    "display_name": "Mimi, L\u00f6wengasse, Wei\u00dfgerber, KG Landstra\u00dfe, Landstra\u00dfe, Wien, 1030, \u00d6sterreich",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "4786712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "528170290",
+    "boundingbox": [
+      "46.6251622",
+      "46.6252622",
+      "14.3064518",
+      "14.3065518"
+    ],
+    "lat": "46.6252122",
+    "lon": "14.3065018",
+    "display_name": "Mimi, 31, Alter Platz, Innere Stadt, Klagenfurt (Stadt), K\u00e4rnten, 9020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "8084205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "879077562",
+    "boundingbox": [
+      "48.309678",
+      "48.349678",
+      "13.012897",
+      "13.052897"
+    ],
+    "lat": "48.329678",
+    "lon": "13.032897",
+    "display_name": "Walking, Landkreis Rottal-Inn, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "125657973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260707292",
+    "boundingbox": [
+      "27.7825433",
+      "27.7832201",
+      "85.379431",
+      "85.3815959"
+    ],
+    "lat": "27.7827302",
+    "lon": "85.3802999",
+    "display_name": "walking, Nagigumba, Khadkagaon, Budhanilkantha, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, 46603, \u0928\u0947\u092a\u093e\u0932",
+    "class": "highway",
+    "type": "steps",
+    "importance": 0.185
+  },
+  {
+    "place_id": "2650295007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "86254368",
+    "boundingbox": [
+      "42.1136106",
+      "42.1138155",
+      "-87.9605981",
+      "-87.9563254"
+    ],
+    "lat": "42.1136106",
+    "lon": "-87.9584738",
+    "display_name": "Walking, Arlington Heights, Cook County, Illinois, 60004, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2652813342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4703302477",
+    "boundingbox": [
+      "43.2578373",
+      "43.2579373",
+      "-2.9239031",
+      "-2.9238031"
+    ],
+    "lat": "43.2578873",
+    "lon": "-2.9238531",
+    "display_name": "Walking, Loteria kalea, Ribera / Erribera, Casco Viejo - Zazpikaleak, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21538613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2137609135",
+    "boundingbox": [
+      "38.7282945",
+      "38.7283945",
+      "-0.0057711",
+      "-0.0056711"
+    ],
+    "lat": "38.7283445",
+    "lon": "-0.0057211",
+    "display_name": "Walking, CV-750, Ll\u00edber, Marina Alta, Alicante/Alacant, Comunitat Valenciana, 03727, Espa\u00f1a",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4996306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "562869038",
+    "boundingbox": [
+      "49.378322",
+      "49.378422",
+      "11.2261713",
+      "11.2262713"
+    ],
+    "lat": "49.378372",
+    "lon": "11.2262213",
+    "display_name": "Walking, Chormantelweg, Feucht, Landkreis N\u00fcrnberger Land, Mittelfranken, Bayern, 90537, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "11762484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1128385379",
+    "boundingbox": [
+      "47.7254904",
+      "47.7255904",
+      "10.2463041",
+      "10.2464041"
+    ],
+    "lat": "47.7255404",
+    "lon": "10.2463541",
+    "display_name": "Walking, Bergstra\u00dfe, Wiggensbach, Landkreis Oberallg\u00e4u, Schwaben, Bayern, 87487, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "4944635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "561264221",
+    "boundingbox": [
+      "49.3718729",
+      "49.3719729",
+      "11.2212649",
+      "11.2213649"
+    ],
+    "lat": "49.3719229",
+    "lon": "11.2213149",
+    "display_name": "Walking, Ludwig-Ganghofer-Stra\u00dfe, Feucht, Landkreis N\u00fcrnberger Land, Mittelfranken, Bayern, 90537, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "11814598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1128385428",
+    "boundingbox": [
+      "47.7209305",
+      "47.7210305",
+      "10.2412718",
+      "10.2413718"
+    ],
+    "lat": "47.7209805",
+    "lon": "10.2413218",
+    "display_name": "Walking, Wagenb\u00fchl, Wiggensbach, Landkreis Oberallg\u00e4u, Schwaben, Bayern, 87487, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "11995141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1128385310",
+    "boundingbox": [
+      "47.7283022",
+      "47.7284022",
+      "10.2485009",
+      "10.2486009"
+    ],
+    "lat": "47.7283522",
+    "lon": "10.2485509",
+    "display_name": "Walking, Notzen, Landkreis Oberallg\u00e4u, Schwaben, Bayern, 87487, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  }
+]

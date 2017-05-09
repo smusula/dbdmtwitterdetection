@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160324980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "389267",
+    "boundingbox": [
+      "51.8374878",
+      "52.0266405",
+      "11.7620003",
+      "12.0199053"
+    ],
+    "lat": "51.9666473",
+    "lon": "11.8860511",
+    "display_name": "Barby, Salzlandkreis, Sachsen-Anhalt, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33452569928643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "52467728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3975668855",
+    "boundingbox": [
+      "30.8645287",
+      "30.9045287",
+      "-2.0356299",
+      "-1.9956299"
+    ],
+    "lat": "30.8845287",
+    "lon": "-2.0156299",
+    "display_name": "\u0628\u064e\u0631\u0652\u0628\u064a, Da\u00efra de Taghit, B\u00e9char, RADP",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "39318865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2917412030",
+    "boundingbox": [
+      "43.0237462",
+      "43.0238462",
+      "11.5447401",
+      "11.5448401"
+    ],
+    "lat": "43.0237962",
+    "lon": "11.5447901",
+    "display_name": "Barbi, Montalcino, SI, TOS, Italia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "44580360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3178944775",
+    "boundingbox": [
+      "44.0576533",
+      "44.0577533",
+      "1.463242",
+      "1.463342"
+    ],
+    "lat": "44.0577033",
+    "lon": "1.463292",
+    "display_name": "Le Barbi\u00e9, Saint-\u00c9tienne-de-Tulmont, Montauban, Tarn-et-Garonne, Occitanie, 82410, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "87727774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107381262",
+    "boundingbox": [
+      "43.6611201",
+      "43.6616",
+      "1.7134448",
+      "1.7143555"
+    ],
+    "lat": "43.6612351",
+    "lon": "1.7141575",
+    "display_name": "Le Barbie, Barde-Neuve, Verfeil, Toulouse, Haute-Garonne, Occitanie, 31590, France",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "100676544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158807331",
+    "boundingbox": [
+      "41.6272403",
+      "41.6324769",
+      "-71.6077603",
+      "-71.6035761"
+    ],
+    "lat": "41.630741",
+    "lon": "-71.6054973",
+    "display_name": "Barbie, Kitts Corner, Kent County, Rhode Island, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "6174664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "643781701",
+    "boundingbox": [
+      "45.0313128",
+      "45.0314128",
+      "38.9702446",
+      "38.9703446"
+    ],
+    "lat": "45.0313628",
+    "lon": "38.9702946",
+    "display_name": "Barbie, \u0420\u0430\u0448\u043f\u0438\u043b\u0435\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 350000, \u0420\u0424",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "137055021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "319410364",
+    "boundingbox": [
+      "46.6632232",
+      "46.6634178",
+      "16.1416448",
+      "16.1419637"
+    ],
+    "lat": "46.66332635",
+    "lon": "16.1418105820033",
+    "display_name": "Barbie, 11, Gederovska ulica, Murska Sobota, Pomurska, 9000, Slovenija",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "37327542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2855537289",
+    "boundingbox": [
+      "45.6931786",
+      "45.6932786",
+      "11.8332498",
+      "11.8333498"
+    ],
+    "lat": "45.6932286",
+    "lon": "11.8332998",
+    "display_name": "BarBie, Via Ugo Foscolo, Loria, TV, VEN, 31037, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "17904951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1723180863",
+    "boundingbox": [
+      "49.4491165",
+      "49.4492165",
+      "10.643278",
+      "10.643378"
+    ],
+    "lat": "49.4491665",
+    "lon": "10.643328",
+    "display_name": "Barbie, Ziegelbuck, Eichenm\u00fchle, Neuhof a.d.Zenn, Neuhof an der Zenn (VGem), Landkreis Neustadt an der Aisch-Bad Windsheim, Mittelfranken, Bayern, 90616, Deutschland",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "51254498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3827585048",
+    "boundingbox": [
+      "34.0835072",
+      "34.0836072",
+      "-118.3559663",
+      "-118.3558663"
+    ],
+    "lat": "34.0835572",
+    "lon": "-118.3559163",
+    "display_name": "timeless, 7614, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90046, United States of America",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.111
+  },
+  {
+    "place_id": "29578551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2708406915",
+    "boundingbox": [
+      "52.0610956",
+      "52.0611956",
+      "4.3268999",
+      "4.3269999"
+    ],
+    "lat": "52.0611456",
+    "lon": "4.3269499",
+    "display_name": "Timeless, 194, Oudemansstraat, Laakkwartier, Den Haag, MRDH, Zuid-Holland, Nederland, 2522ST, Nederland",
+    "class": "shop",
+    "type": "tattoo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "30327648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2732560572",
+    "boundingbox": [
+      "52.0665531",
+      "52.0666531",
+      "4.2459081",
+      "4.2460081"
+    ],
+    "lat": "52.0666031",
+    "lon": "4.2459581",
+    "display_name": "Timeless, 22C, De Savornin Lohmanplein, Bohemen, Den Haag, MRDH, Zuid-Holland, Nederland, 2566AC, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56656778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4412447415",
+    "boundingbox": [
+      "52.2213376",
+      "52.2214376",
+      "6.8944147",
+      "6.8945147"
+    ],
+    "lat": "52.2213876",
+    "lon": "6.8944647",
+    "display_name": "Timeless, Stadsgravenstraat, Binnenstad, Enschede, Regio Twente, Overijssel, Nederland, 7511GD, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2655195841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4755892735",
+    "boundingbox": [
+      "47.8026447",
+      "47.8027447",
+      "13.0455979",
+      "13.0456979"
+    ],
+    "lat": "47.8026947",
+    "lon": "13.0456479",
+    "display_name": "Timeless, Cornelius-Reitsamer-Platz, Rechte Altstadt, Salzburg, 5020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "5176677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "593725382",
+    "boundingbox": [
+      "47.2665367",
+      "47.2666367",
+      "11.3940275",
+      "11.3941275"
+    ],
+    "lat": "47.2665867",
+    "lon": "11.3940775",
+    "display_name": "Timeless?, 7, Maria-Theresien-Stra\u00dfe, Tivoli, Altstadt, Innsbruck, Innsbruck-Stadt, Tirol, 6020, \u00d6sterreich",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "50832809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3799268857",
+    "boundingbox": [
+      "52.4844527",
+      "52.4845527",
+      "13.3522753",
+      "13.3523753"
+    ],
+    "lat": "52.4845027",
+    "lon": "13.3523253",
+    "display_name": "Timeless, Hauptstra\u00dfe, Sch\u00f6neberg, Tempelhof-Sch\u00f6neberg, Berlin, 10827, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56650871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4411851405",
+    "boundingbox": [
+      "5.8319482",
+      "5.8320482",
+      "-55.1902391",
+      "-55.1901391"
+    ],
+    "lat": "5.8319982",
+    "lon": "-55.1901891",
+    "display_name": "Timeless, Johannes Mungrastraat, Paramaribo, Distrikt Paramaribo, Paramaribo, 597, Suriname",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "42153005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3072521833",
+    "boundingbox": [
+      "49.246573",
+      "49.246673",
+      "7.364783",
+      "7.364883"
+    ],
+    "lat": "49.246623",
+    "lon": "7.364833",
+    "display_name": "Timeless, 12, Fruchtmarktstra\u00dfe, Kreuzberg, Zweibr\u00fccken, Rheinland-Pfalz, 66482, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48347704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3573166753",
+    "boundingbox": [
+      "51.4337422",
+      "51.4338422",
+      "-0.4646316",
+      "-0.4645316"
+    ],
+    "lat": "51.4337922",
+    "lon": "-0.4645816",
+    "display_name": "Timeless, Church Road, Chattern Hill, Spelthorne, Surrey, South East, England, TW15 2UT, UK",
+    "class": "shop",
+    "type": "IT",
+    "importance": 0.101
+  }
+]

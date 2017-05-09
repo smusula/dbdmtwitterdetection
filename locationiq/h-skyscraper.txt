@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "48560964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3577483748",
+    "boundingbox": [
+      "51.5328502",
+      "51.5329502",
+      "-0.0441661",
+      "-0.0440661"
+    ],
+    "lat": "51.5329002",
+    "lon": "-0.0441161",
+    "display_name": "Skyscraper, Old Ford Road, Globe Town, London Borough of Tower Hamlets, London, Greater London, England, E2 0SS, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "103102075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167466915",
+    "boundingbox": [
+      "43.8551605",
+      "43.8554444",
+      "18.3931617",
+      "18.3939984"
+    ],
+    "lat": "43.8553053",
+    "lon": "18.3935800518106",
+    "display_name": "Skyscraper, 35, Hamdije \u010cemerli\u0107a, \u017deljezni\u010dka, Op\u0107ina Novo Sarajevo, Grad Sarajevo, Kanton/\u017dupanija Sarajevo, Federacija Bosne i Hercegovine, 71000, Bosna i Hercegovina",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "13205676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1223938269",
+    "boundingbox": [
+      "41.4868308",
+      "41.4869308",
+      "-82.6865803",
+      "-82.6864803"
+    ],
+    "lat": "41.4868808",
+    "lon": "-82.6865303",
+    "display_name": "Skyscraper, Grand Prix, Sandusky, Erie County, Ohio, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "118607567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230913060",
+    "boundingbox": [
+      "38.9837925",
+      "38.9840156",
+      "-74.8135954",
+      "-74.8133164"
+    ],
+    "lat": "38.983903",
+    "lon": "-74.8134559274631",
+    "display_name": "Skyscraper, Boardwalk, Wildwood, Cape May County, New Jersey, 08260, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "49105091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3632106190",
+    "boundingbox": [
+      "39.9422641",
+      "39.9423641",
+      "-74.069485",
+      "-74.069385"
+    ],
+    "lat": "39.9423141",
+    "lon": "-74.069435",
+    "display_name": "Skyscraper, Seaside Heights Boardwalk, Seaside Heights, Ocean County, New Jersey, 08751, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

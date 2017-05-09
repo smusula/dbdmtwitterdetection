@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "55029601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4238370274",
+    "boundingbox": [
+      "-32.941066",
+      "-32.940966",
+      "-60.6991188",
+      "-60.6990188"
+    ],
+    "lat": "-32.941016",
+    "lon": "-60.6990688",
+    "display_name": "WTF?, Tom\u00e1s Guido, Azcu\u00e9naga, Distrito Noroeste, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "71599649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30421249",
+    "boundingbox": [
+      "33.4263157",
+      "33.4267455",
+      "-111.9237891",
+      "-111.9236003"
+    ],
+    "lat": "33.4265306",
+    "lon": "-111.9236947",
+    "display_name": "WTF, East Rio Salado Parkway, Tempe, Maricopa County, Arizona, 85281, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21442411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2130342976",
+    "boundingbox": [
+      "19.1284442",
+      "19.1285442",
+      "72.817234",
+      "72.817334"
+    ],
+    "lat": "19.1284942",
+    "lon": "72.817284",
+    "display_name": "WTF, Jai Prakash Road (Versova Road), Seven Bungalows, Versova, Sunder Wadi, Greater Bombay, Maharashtra, 400061, India",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "54664282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4223043089",
+    "boundingbox": [
+      "3.13243",
+      "3.13253",
+      "101.6731005",
+      "101.6732005"
+    ],
+    "lat": "3.13248",
+    "lon": "101.6731505",
+    "display_name": "WTF, 98, Lorong Maarof, Bukit Persekutuan, Sentul, KL, 59000, Malaysia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2648805898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4607590922",
+    "boundingbox": [
+      "43.7924213",
+      "43.7925213",
+      "25.4904795",
+      "25.4905795"
+    ],
+    "lat": "43.7924713",
+    "lon": "25.4905295",
+    "display_name": "WTF, DJ506, Bragadiru, Teleorman, 147030, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

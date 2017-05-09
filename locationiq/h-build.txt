@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "126847206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "266866285",
+    "boundingbox": [
+      "40.7643901",
+      "40.7650855",
+      "-73.9551656",
+      "-73.9542415"
+    ],
+    "lat": "40.7647735",
+    "lon": "-73.9548221771446",
+    "display_name": "build, 1300, York Avenue, Lenox Hill, Manhattan, New York County, NYC, New York, 10065, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2649971722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4634749260",
+    "boundingbox": [
+      "49.8200256",
+      "49.8201256",
+      "20.0511979",
+      "20.0512979"
+    ],
+    "lat": "49.8200756",
+    "lon": "20.0512479",
+    "display_name": "build, Zasa\u0144, gmina My\u015blenice, powiat my\u015blenicki, ma\u0142opolskie, Polska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  }
+]

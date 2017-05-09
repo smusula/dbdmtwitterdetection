@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "3671090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "407674577",
+    "boundingbox": [
+      "26.3405999",
+      "26.3705999",
+      "127.7525",
+      "127.7825"
+    ],
+    "lat": "26.3555999",
+    "lon": "127.7675",
+    "display_name": "\u5609\u624b\u7d0d\u98db\u884c\u5834, \u6c96\u7e04\u5609\u624b\u7d0d\u7dda, \u6c96\u7e04\u5e02, \u6c96\u7e04\u770c, \u65e5\u672c",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.31239812023006,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "100419133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157757085",
+    "boundingbox": [
+      "-6.6038617",
+      "-6.6037453",
+      "106.7941394",
+      "106.7943681"
+    ],
+    "lat": "-6.6037958",
+    "lon": "106.7942387",
+    "display_name": "DnA, Bogor, Jawa Barat, 16122, Indonesia",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "100839837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159321836",
+    "boundingbox": [
+      "-6.6030494",
+      "-6.6030186",
+      "106.7802564",
+      "106.7804515"
+    ],
+    "lat": "-6.6030295",
+    "lon": "106.7803388",
+    "display_name": "DnA, Bogor, Jawa Barat, 16119, Indonesia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "101334255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161509006",
+    "boundingbox": [
+      "-6.5913374",
+      "-6.5912263",
+      "106.8023487",
+      "106.8025252"
+    ],
+    "lat": "-6.5913374",
+    "lon": "106.8023487",
+    "display_name": "DnA, Bogor, Jawa Barat, 16128, Indonesia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "97255841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "144044883",
+    "boundingbox": [
+      "41.6543386",
+      "41.6587977",
+      "-71.5575895",
+      "-71.5512407"
+    ],
+    "lat": "41.6571325",
+    "lon": "-71.5552211",
+    "display_name": "DNA, Moosehorn Corner, Kent County, Rhode Island, 02816, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "45528694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3240235709",
+    "boundingbox": [
+      "63.4296974",
+      "63.4297974",
+      "10.3927874",
+      "10.3928874"
+    ],
+    "lat": "63.4297474",
+    "lon": "10.3928374",
+    "display_name": "dna, Elefantplassen, Kalvskinnet, Midtbyen, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7011, Norge",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "25436728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2466502775",
+    "boundingbox": [
+      "60.1701267",
+      "60.1702267",
+      "24.9404984",
+      "24.9405984"
+    ],
+    "lat": "60.1701767",
+    "lon": "24.9405484",
+    "display_name": "DNA, Kompassitaso, Keskusta, Kluuvi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 00014, Suomi",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "79138600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58335963",
+    "boundingbox": [
+      "43.640718",
+      "43.6411063",
+      "-79.4147186",
+      "-79.4136901"
+    ],
+    "lat": "43.640915",
+    "lon": "-79.4143448647014",
+    "display_name": "DNA, 1, Shaw Street, Liberty Village, Old Toronto, Toronto, Ontario, M6K 1E4, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25868884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2466173817",
+    "boundingbox": [
+      "52.5050675",
+      "52.5051675",
+      "13.3006127",
+      "13.3007127"
+    ],
+    "lat": "52.5051175",
+    "lon": "13.3006627",
+    "display_name": "DNA, 18, Stuttgarter Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2646907738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4564455989",
+    "boundingbox": [
+      "35.1604766",
+      "35.1605766",
+      "33.3588868",
+      "33.3589868"
+    ],
+    "lat": "35.1605266",
+    "lon": "33.3589368",
+    "display_name": "DNA, 1, Atho, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 1082, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

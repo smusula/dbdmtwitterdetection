@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "84904127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95046634",
+    "boundingbox": [
+      "50.7519333",
+      "50.7519476",
+      "4.6630115",
+      "4.6636082"
+    ],
+    "lat": "50.7519333",
+    "lon": "4.6630115",
+    "display_name": "Train, Grez-Doiceau, Nivelles, Brabant wallon, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "93240576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126550418",
+    "boundingbox": [
+      "50.7235073",
+      "50.7241149",
+      "4.6976982",
+      "4.6980872"
+    ],
+    "lat": "50.7239247",
+    "lon": "4.6977401",
+    "display_name": "Le Train, Grez-Doiceau, Nivelles, Brabant wallon, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "159533008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443589414",
+    "boundingbox": [
+      "50.683326",
+      "50.6840084",
+      "4.6953919",
+      "4.6957232"
+    ],
+    "lat": "50.6836778",
+    "lon": "4.6955663",
+    "display_name": "Le Train, Chaumont-Gistoux, Nivelles, Brabant wallon, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

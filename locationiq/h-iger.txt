@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "47229820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3428657838",
+    "boundingbox": [
+      "42.8331603",
+      "42.8332603",
+      "-1.6080599",
+      "-1.6079599"
+    ],
+    "lat": "42.8332103",
+    "lon": "-1.6080099",
+    "display_name": "Iger, Plaza Miguel Indur\u00e1in, Villava/Atarrabia, Navarra, 31610, Espa\u00f1a",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "15227684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1401894779",
+    "boundingbox": [
+      "10.088891",
+      "10.088991",
+      "46.464478",
+      "46.464578"
+    ],
+    "lat": "10.088941",
+    "lon": "46.464528",
+    "display_name": "Iger, Ceel Afweyn, Sanaag, Jamhuuriyadda Soomaaliland, Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+    "class": "natural",
+    "type": "spring",
+    "importance": 0.101
+  }
+]

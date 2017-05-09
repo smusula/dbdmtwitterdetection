@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "79489014",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60517256",
+    "boundingbox": [
+      "32.8330732",
+      "32.834119",
+      "-117.1741218",
+      "-117.1713537"
+    ],
+    "lat": "32.8336547",
+    "lon": "-117.173165500679",
+    "display_name": "Madison Square, San Diego, San Diego County, California, 92111, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "81830376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78142022",
+    "boundingbox": [
+      "14.569801",
+      "14.5709132",
+      "121.0516281",
+      "121.052241"
+    ],
+    "lat": "14.57043965",
+    "lon": "121.051935667265",
+    "display_name": "Madison Square, Buwayang Bato, Mandaluyong, Metro Manila, 1603, Philippines",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108362878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189011324",
+    "boundingbox": [
+      "14.6046744",
+      "14.6052177",
+      "121.0428692",
+      "121.0434385"
+    ],
+    "lat": "14.604946",
+    "lon": "121.043153847979",
+    "display_name": "Madison Square, Greenhills, Addition Hills, District 2, San Juan, Metro Manila, 1502, Philippines",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "109371075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193218584",
+    "boundingbox": [
+      "39.9424787",
+      "39.9426656",
+      "-75.1838802",
+      "-75.1825839"
+    ],
+    "lat": "39.9426656",
+    "lon": "-75.1838802",
+    "display_name": "Madison Square, Naval Square, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "141621530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "341200202",
+    "boundingbox": [
+      "39.9420563",
+      "39.9424787",
+      "-75.1825839",
+      "-75.1792743"
+    ],
+    "lat": "39.9422648",
+    "lon": "-75.1809442",
+    "display_name": "Madison Square, Southwest Center City, Philadelphia, Philadelphia County, Pennsylvania, 19146, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.1
+  },
+  {
+    "place_id": "66324335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19464458",
+    "boundingbox": [
+      "36.2550066",
+      "36.2561132",
+      "-86.7161546",
+      "-86.7152356"
+    ],
+    "lat": "36.255415",
+    "lon": "-86.7156594",
+    "display_name": "Madison Square, Dalewood, Nashville-Davidson, Davidson County, Tennessee, 37115, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "75271128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41205070",
+    "boundingbox": [
+      "-33.8789598",
+      "-33.8780928",
+      "18.5400899",
+      "18.5411472"
+    ],
+    "lat": "-33.8781244",
+    "lon": "18.5407959",
+    "display_name": "Madison Square, Edgemead, Cape Town, City of Cape Town, Western Cape, 7460, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "67888128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21887381",
+    "boundingbox": [
+      "32.1118003",
+      "32.112648",
+      "-96.4872903",
+      "-96.4860059"
+    ],
+    "lat": "32.112496",
+    "lon": "-96.4862859",
+    "display_name": "Madison Square, Corsicana, Navarro County, Texas, 75110, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "78401844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "54640333",
+    "boundingbox": [
+      "42.6203394",
+      "42.6209909",
+      "-70.6718652",
+      "-70.6712461"
+    ],
+    "lat": "42.6207471",
+    "lon": "-70.6716117",
+    "display_name": "Madison Square, Gloucester, Essex County, Massachusetts, 01930, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "153607913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "410620246",
+    "boundingbox": [
+      "40.1351425",
+      "40.1363134",
+      "-85.6943021",
+      "-85.6942967"
+    ],
+    "lat": "40.1363134",
+    "lon": "-85.6942967",
+    "display_name": "Madison Square, Anderson, Madison County, Indiana, 46011, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

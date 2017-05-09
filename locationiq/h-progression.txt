@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "145311871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367359796",
+    "boundingbox": [
+      "49.433404",
+      "49.4369",
+      "-123.5990489",
+      "-123.5970619"
+    ],
+    "lat": "49.434697",
+    "lon": "-123.5975589",
+    "display_name": "Progression, Roberts Creek, Sunshine Coast Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "47365732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3439413444",
+    "boundingbox": [
+      "59.3197036",
+      "59.3198036",
+      "18.0481827",
+      "18.0482827"
+    ],
+    "lat": "59.3197536",
+    "lon": "18.0482327",
+    "display_name": "Progression, Skinnarbacken, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 11729, Sverige",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

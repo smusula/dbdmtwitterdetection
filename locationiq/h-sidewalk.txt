@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "115786082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220364503",
+    "boundingbox": [
+      "41.5558616",
+      "41.5558687",
+      "-93.6259749",
+      "-93.6256074"
+    ],
+    "lat": "41.5558616",
+    "lon": "-93.6256074",
+    "display_name": "sidewalk, Des Moines, Polk County, Iowa, 50315, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.21
+  },
+  {
+    "place_id": "2650046469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469203617",
+    "boundingbox": [
+      "32.8104554",
+      "32.8110171",
+      "-116.919677",
+      "-116.9192831"
+    ],
+    "lat": "32.8104554",
+    "lon": "-116.919677",
+    "display_name": "sidewalk, El Cajon, San Diego County, California, 92021, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.21
+  },
+  {
+    "place_id": "142655612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "350688352",
+    "boundingbox": [
+      "39.834317",
+      "39.834862",
+      "-86.0069899",
+      "-86.0069159"
+    ],
+    "lat": "39.8345813",
+    "lon": "-86.0069159",
+    "display_name": "Sidewalk, Indianapolis, Marion County, Indiana, 46235, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146706960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "373254215",
+    "boundingbox": [
+      "47.5714243",
+      "47.5719799",
+      "-52.7381676",
+      "-52.7374139"
+    ],
+    "lat": "47.57167045",
+    "lon": "-52.7377534508501",
+    "display_name": "Sidewalk, St. John's, Newfoundland and Labrador, A1B 3T8, Canada",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "102020559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163664931",
+    "boundingbox": [
+      "43.0393744",
+      "43.0394439",
+      "-78.9565226",
+      "-78.9562777"
+    ],
+    "lat": "43.0394077",
+    "lon": "-78.9564079",
+    "display_name": "Sidewalk, Sandy Beach, Grand Island Town, Erie County, New York, 14072, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149140405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "384434175",
+    "boundingbox": [
+      "44.2971814",
+      "44.3007175",
+      "-96.7984842",
+      "-96.7984681"
+    ],
+    "lat": "44.2971814",
+    "lon": "-96.7984681",
+    "display_name": "Sidewalk, Brookings, Brookings County, South Dakota, 57006, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647050323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "461230573",
+    "boundingbox": [
+      "37.9607248",
+      "37.9608716",
+      "-121.313639",
+      "-121.3126216"
+    ],
+    "lat": "37.9607273",
+    "lon": "-121.3136219",
+    "display_name": "sidewalk, Stockton, San Joaquin County, California, 95203, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "111521971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202443101",
+    "boundingbox": [
+      "51.1171305",
+      "51.1206688",
+      "-114.1554679",
+      "-114.1533192"
+    ],
+    "lat": "51.118359",
+    "lon": "-114.1548317",
+    "display_name": "sidewalk, Dalhousie, Calgary, Alberta, T3A 2X7, Canada",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "2646693777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460361756",
+    "boundingbox": [
+      "50.9225131",
+      "50.9225398",
+      "-114.0738826",
+      "-114.073881"
+    ],
+    "lat": "50.9225398",
+    "lon": "-114.073881",
+    "display_name": "sidewalk, Shawnee Slopes, Calgary, Alberta, T2Y 1M6, Canada",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "2647274260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "461788526",
+    "boundingbox": [
+      "33.1888127",
+      "33.1898768",
+      "-117.3111382",
+      "-117.3107032"
+    ],
+    "lat": "33.1893139",
+    "lon": "-117.3108521",
+    "display_name": "sidewalk, Oceanside, San Diego County, California, 92010, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  }
+]

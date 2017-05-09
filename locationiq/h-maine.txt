@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "160253479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "63512",
+    "boundingbox": [
+      "42.9222206",
+      "47.4598397",
+      "-71.0841693",
+      "-66.8854161"
+    ],
+    "lat": "45.709097",
+    "lon": "-68.85902",
+    "display_name": "Maine, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7960117209556,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160307983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "330883",
+    "boundingbox": [
+      "47.4071346",
+      "47.4927019",
+      "-0.6161933",
+      "-0.5426102"
+    ],
+    "lat": "47.4539332",
+    "lon": "-0.5826295",
+    "display_name": "La Maine, Angers, Maine-et-Loire, Pays de la Loire, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.52476415943353
+  },
+  {
+    "place_id": "160424027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1241205",
+    "boundingbox": [
+      "46.8681561",
+      "47.1526247",
+      "-1.4483139",
+      "-0.9953644"
+    ],
+    "lat": "46.9415598",
+    "lon": "-1.2563849",
+    "display_name": "La Maine, La Roche-sur-Yon, Vend\u00e9e, Pays de la Loire, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.50150375493637
+  },
+  {
+    "place_id": "160721826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3920240",
+    "boundingbox": [
+      "46.6916272",
+      "46.7049338",
+      "-0.9565048",
+      "-0.8043003"
+    ],
+    "lat": "46.7042135",
+    "lon": "-0.8789617",
+    "display_name": "La Maine, Fontenay-le-Comte, Vend\u00e9e, Pays de la Loire, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "136210739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315552746",
+    "boundingbox": [
+      "54.9597982",
+      "54.9603154",
+      "-6.3548632",
+      "-6.3544032"
+    ],
+    "lat": "54.9602442",
+    "lon": "-6.354794",
+    "display_name": "Maine, County Antrim, Northern Ireland, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  }
+]

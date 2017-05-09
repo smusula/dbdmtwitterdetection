@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "233083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "51969452",
+    "boundingbox": [
+      "56.054687",
+      "56.094687",
+      "-118.2566342",
+      "-118.2166342"
+    ],
+    "lat": "56.074687",
+    "lon": "-118.2366342",
+    "display_name": "Bluesky, Alberta, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.27217279423731,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3656371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "385151338",
+    "boundingbox": [
+      "52.2399857",
+      "52.2400857",
+      "21.0764254",
+      "21.0765254"
+    ],
+    "lat": "52.2400357",
+    "lon": "21.0764754",
+    "display_name": "Bluesky, W\u0105wolnicka, Groch\u00f3w-Kinowa, Praga-Po\u0142udnie, Warszawa, mazowieckie, 04-023, Polska",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "952251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "291331764",
+    "boundingbox": [
+      "52.3766165",
+      "52.3767165",
+      "9.7370272",
+      "9.7371272"
+    ],
+    "lat": "52.3766665",
+    "lon": "9.7370772",
+    "display_name": "BlueSky, 9, Kurt-Schumacher-Stra\u00dfe, Mitte, Hannover, Region Hannover, Niedersachsen, 30159, Deutschland",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18099358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1739900030",
+    "boundingbox": [
+      "35.008334",
+      "35.008434",
+      "135.7192054",
+      "135.7193054"
+    ],
+    "lat": "35.008384",
+    "lon": "135.7192554",
+    "display_name": "BLUESKY, \u4e09\u6761\u901a;\u4eac\u90fd\u5e9c\u9053112\u53f7\u4e8c\u6761\u505c\u8eca\u5834\u5d50\u5c71\u7dda, \u53f3\u4eac\u533a, \u4eac\u90fd\u5e02, \u4e0e\u8b1d\u90e1, \u4eac\u90fd\u5e9c, 6048493, \u65e5\u672c",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  },
+  {
+    "place_id": "107927359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186944666",
+    "boundingbox": [
+      "-12.7773863",
+      "-12.7772367",
+      "45.2309189",
+      "45.2310049"
+    ],
+    "lat": "-12.7773115",
+    "lon": "45.2309619",
+    "display_name": "BlueSky, Rue Said Soimihi, Mamoudzou, Mayotte, 97600, France",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14200599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1287941065",
+    "boundingbox": [
+      "59.9318473",
+      "59.9319473",
+      "30.3569374",
+      "30.3570374"
+    ],
+    "lat": "59.9318973",
+    "lon": "30.3569874",
+    "display_name": "BlueSky, 106, \u041d\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041b\u0438\u0442\u0435\u0439\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  }
+]

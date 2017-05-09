@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160407494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1428125",
+    "boundingbox": [
+      "41.6765556",
+      "83.3362128",
+      "-141.0027499",
+      "-52.323198"
+    ],
+    "lat": "61.0666922",
+    "lon": "-107.991707",
+    "display_name": "Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.98909828419394,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146630504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372825179",
+    "boundingbox": [
+      "27.8657261",
+      "27.8658283",
+      "-15.6671778",
+      "-15.6666104"
+    ],
+    "lat": "27.8657261",
+    "lon": "-15.6671778",
+    "display_name": "La Canada, Mog\u00e1n, Las Palmas, Canarias, Espa\u00f1a",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "76680969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46391467",
+    "boundingbox": [
+      "36.0696054",
+      "36.0698419",
+      "-106.3237937",
+      "-106.3236089"
+    ],
+    "lat": "36.0696054",
+    "lon": "-106.3237937",
+    "display_name": "La Canada, Rio Arriba County, New Mexico, United States of America",
+    "class": "waterway",
+    "type": "artificial",
+    "importance": 0.425
+  },
+  {
+    "place_id": "76828801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46362903",
+    "boundingbox": [
+      "36.0698419",
+      "36.0785534",
+      "-106.3274308",
+      "-106.3226098"
+    ],
+    "lat": "36.074676",
+    "lon": "-106.3226126",
+    "display_name": "La Canada, Rio Arriba County, New Mexico, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160311193",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "343409",
+    "boundingbox": [
+      "38.6393939",
+      "38.7322464",
+      "-0.8474198",
+      "-0.7942826"
+    ],
+    "lat": "38.6751148",
+    "lon": "-0.8097568",
+    "display_name": "Ca\u00f1ada, Alto Vinalop\u00f3, Alicante/Alacant, Comunitat Valenciana, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41357240733262,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160788620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4653259",
+    "boundingbox": [
+      "4.0211036",
+      "4.0661385",
+      "-75.2026959",
+      "-75.1466761"
+    ],
+    "lat": "4.0434117",
+    "lon": "-75.1816744424474",
+    "display_name": "Ca\u00f1ada, San Luis, Tolima, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "156103068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "424793653",
+    "boundingbox": [
+      "19.4425743",
+      "19.4448001",
+      "-70.6756336",
+      "-70.6723184"
+    ],
+    "lat": "19.4437479",
+    "lon": "-70.6738312",
+    "display_name": "Ca\u00f1ada, Santiago de los Caballeros, Santiago, Rep\u00fablica Dominicana",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "135942554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314668776",
+    "boundingbox": [
+      "22.1618377",
+      "22.1652438",
+      "-80.0537972",
+      "-80.0516383"
+    ],
+    "lat": "22.1633893",
+    "lon": "-80.052904",
+    "display_name": "Ca\u00f1ada, Manicaragua, Villa Clara, Cuba",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "136022251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314667896",
+    "boundingbox": [
+      "22.1655963",
+      "22.1667453",
+      "-80.0494502",
+      "-80.0465968"
+    ],
+    "lat": "22.1661447",
+    "lon": "-80.0481362",
+    "display_name": "Ca\u00f1ada, Manicaragua, Villa Clara, Cuba",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.325
+  },
+  {
+    "place_id": "122661913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248228479",
+    "boundingbox": [
+      "18.5233344",
+      "18.538765",
+      "-69.838459",
+      "-69.8311473"
+    ],
+    "lat": "18.5317727",
+    "lon": "-69.8345751",
+    "display_name": "Ca\u00f1ada, Santo Domingo Este, Santo Domingo, Rep\u00fablica Dominicana",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160372482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070352",
+    "boundingbox": [
+      "36.998643",
+      "37.303272",
+      "-96.5281365",
+      "-95.9631269"
+    ],
+    "lat": "37.146335",
+    "lon": "-96.2656965",
+    "display_name": "Chautauqua County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56273821104147,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160453404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1838089",
+    "boundingbox": [
+      "41.9983316",
+      "42.6914262",
+      "-79.7619439",
+      "-79.0598926"
+    ],
+    "lat": "42.2894671",
+    "lon": "-79.4217279",
+    "display_name": "Chautauqua County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54490874673125,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "430138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153957447",
+    "boundingbox": [
+      "39.5697807",
+      "39.6097807",
+      "-84.3163298",
+      "-84.2763298"
+    ],
+    "lat": "39.5897807",
+    "lon": "-84.2963298",
+    "display_name": "Chautauqua, Montgomery County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "372491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151678639",
+    "boundingbox": [
+      "38.9444926",
+      "38.9844926",
+      "-90.4056702",
+      "-90.3656702"
+    ],
+    "lat": "38.9644926",
+    "lon": "-90.3856702",
+    "display_name": "Chautauqua, Jersey County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "450482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158266762",
+    "boundingbox": [
+      "42.18978",
+      "42.22978",
+      "-79.4867139",
+      "-79.4467139"
+    ],
+    "lat": "42.20978",
+    "lon": "-79.4667139",
+    "display_name": "Chautauqua, Chautauqua County, New York, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "360393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151420871",
+    "boundingbox": [
+      "41.2708307",
+      "41.3108307",
+      "-95.8136211",
+      "-95.7736211"
+    ],
+    "lat": "41.2908307",
+    "lon": "-95.7936211",
+    "display_name": "Chautauqua, Pottawattamie County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "340453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150952823",
+    "boundingbox": [
+      "47.4041463",
+      "47.4441463",
+      "-122.4634427",
+      "-122.4234427"
+    ],
+    "lat": "47.4241463",
+    "lon": "-122.4434427",
+    "display_name": "Chautauqua, King County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "362350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151369923",
+    "boundingbox": [
+      "43.9602512",
+      "44.0002512",
+      "-97.0800595",
+      "-97.0400595"
+    ],
+    "lat": "43.9802512",
+    "lon": "-97.0600595",
+    "display_name": "Chautauqua, Lake County, South Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160270564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130145",
+    "boundingbox": [
+      "37.018056",
+      "37.031079",
+      "-96.1829039",
+      "-96.1724199"
+    ],
+    "lat": "37.0203354",
+    "lon": "-96.1766558",
+    "display_name": "Chautauqua, Chautauqua County, Kansas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.33263829078643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "81188949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "73680980",
+    "boundingbox": [
+      "39.9971277",
+      "39.9988082",
+      "-105.2855488",
+      "-105.2828913"
+    ],
+    "lat": "39.9982153",
+    "lon": "-105.2843784",
+    "display_name": "Chautauqua, The Hill, Seven Hills, Boulder County, Colorado, 80302, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

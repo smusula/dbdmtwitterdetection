@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160293290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187275",
+    "boundingbox": [
+      "40.102984",
+      "40.130452",
+      "-79.9040829",
+      "-79.8781049"
+    ],
+    "lat": "40.1128504",
+    "lon": "-79.8886585",
+    "display_name": "Twilight, Washington County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41966198108865,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "454210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154359567",
+    "boundingbox": [
+      "40.0161849",
+      "40.0561849",
+      "-80.6134077",
+      "-80.5734077"
+    ],
+    "lat": "40.0361849",
+    "lon": "-80.5934077",
+    "display_name": "Twilight, Ohio County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153980910",
+    "boundingbox": [
+      "37.907329",
+      "37.947329",
+      "-81.6434468",
+      "-81.6034468"
+    ],
+    "lat": "37.927329",
+    "lon": "-81.6234468",
+    "display_name": "Twilight, Boone County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "62472095",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13329000",
+    "boundingbox": [
+      "33.6993202",
+      "33.7000959",
+      "-117.8948515",
+      "-117.8948177"
+    ],
+    "lat": "33.6999572",
+    "lon": "-117.8948503",
+    "display_name": "Twilight, Santa Ana, Orange County, California, 92704, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "153429321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "409596271",
+    "boundingbox": [
+      "40.2853549",
+      "40.2857868",
+      "-76.7899296",
+      "-76.7891591"
+    ],
+    "lat": "40.2853549",
+    "lon": "-76.7899296",
+    "display_name": "Twilight, Swatara, Kent Gardens, Dauphin County, Pennsylvania, 17111, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67778687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21066885",
+    "boundingbox": [
+      "31.054571",
+      "31.0595796",
+      "-96.1885629",
+      "-96.1859299"
+    ],
+    "lat": "31.05796",
+    "lon": "-96.1859299",
+    "display_name": "Twilight, Hilltop Lakes, Leon County, Texas, 77871, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59690798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8645896",
+    "boundingbox": [
+      "42.4819468",
+      "42.485929",
+      "-83.7618269",
+      "-83.7588421"
+    ],
+    "lat": "42.482912",
+    "lon": "-83.7616679",
+    "display_name": "Twilight, Green Oak Township, Livingston County, Michigan, 48116, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57670001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5143312",
+    "boundingbox": [
+      "43.20652",
+      "43.2136998",
+      "-120.759908",
+      "-120.7598794"
+    ],
+    "lat": "43.2087491",
+    "lon": "-120.7598956",
+    "display_name": "Twilight, Lake County, Oregon, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57554152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5146469",
+    "boundingbox": [
+      "43.206466",
+      "43.20652",
+      "-120.7800319",
+      "-120.759908"
+    ],
+    "lat": "43.20652",
+    "lon": "-120.759908",
+    "display_name": "Twilight, Lake County, Oregon, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99043924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "152014490",
+    "boundingbox": [
+      "14.3458836",
+      "14.3468208",
+      "120.9236536",
+      "120.9237137"
+    ],
+    "lat": "14.3464277",
+    "lon": "120.923672",
+    "display_name": "Twilight, Sunrise Hills, Dasmari\u00f1as, Cavite, Calabarzon, 4114, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

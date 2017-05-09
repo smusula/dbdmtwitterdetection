@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "44531178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3174326503",
+    "boundingbox": [
+      "34.9733254",
+      "34.9734254",
+      "138.3851797",
+      "138.3852797"
+    ],
+    "lat": "34.9733754",
+    "lon": "138.3852297",
+    "display_name": "momoya, \u7d3a\u5c4b\u753a\u5730\u4e0b\u8857, \u5449\u670d\u753a\u4e8c\u4e01\u76ee, \u5341\u4e8c\u53cc\u56e3\u5730, \u8475\u533a, \u9759\u5ca1\u5e02, \u699b\u539f\u90e1, \u9759\u5ca1\u770c, 420-0852, \u65e5\u672c",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2648637758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4604252268",
+    "boundingbox": [
+      "40.7425975",
+      "40.7426975",
+      "-73.9965106",
+      "-73.9964106"
+    ],
+    "lat": "40.7426475",
+    "lon": "-73.9964606",
+    "display_name": "Momoya, 185, West 21st Street, Flatiron, Manhattan, New York County, NYC, New York, 10011, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "127224102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269307477",
+    "boundingbox": [
+      "40.7839141",
+      "40.7840796",
+      "-73.9774826",
+      "-73.9771903"
+    ],
+    "lat": "40.7839968",
+    "lon": "-73.977336425158",
+    "display_name": "Momoya, 427, Amsterdam Avenue, Upper West Side, Manhattan, New York County, NYC, New York, 10024, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "160122336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447218242",
+    "boundingbox": [
+      "36.5935288",
+      "36.5936539",
+      "139.9180273",
+      "139.9181882"
+    ],
+    "lat": "36.59360125",
+    "lon": "139.918115793182",
+    "display_name": "\u713c\u8089\u3082\u3082\u3084, \u767d\u6ca2\u8857\u9053, \u5b87\u90fd\u5bae\u5e02, \u90a3\u9808\u90e1, \u6803\u6728\u770c, 3210965, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "90984406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118449204",
+    "boundingbox": [
+      "39.1883509",
+      "39.1886351",
+      "140.1887372",
+      "140.1891109"
+    ],
+    "lat": "39.188493",
+    "lon": "140.188924044826",
+    "display_name": "\u305d\u3070\u51e6\u3082\u3082\u3084, \u56fd\u9053108\u53f7, \u4f0f\u898b\u6ca2, \u7531\u5229\u672c\u8358\u5e02, \u96c4\u52dd\u90e1, \u79cb\u7530\u770c, 015-0501, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "125405233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "259476344",
+    "boundingbox": [
+      "38.1771271",
+      "38.1772862",
+      "140.9525343",
+      "140.952695"
+    ],
+    "lat": "38.17721415",
+    "lon": "140.95261786885",
+    "display_name": "\u3082\u3082\u3084, \u9596\u4e0a\u6e2f\u7dda, \u9596\u4e0a\uff11\u4e01\u76ee, \u540d\u53d6\u5e02, \u4f0a\u5177\u90e1, \u5bae\u57ce\u770c, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "129998179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286419000",
+    "boundingbox": [
+      "31.4660575",
+      "31.4662503",
+      "130.7000018",
+      "130.7002046"
+    ],
+    "lat": "31.4661539",
+    "lon": "130.700103183801",
+    "display_name": "\u3082\u3082\u3084, \u56fd\u9053\uff12\uff12\uff10\u53f7, \u5782\u6c34\u5e02, \u66fd\u65bc\u90e1 (Soo), \u9e7f\u5150\u5cf6\u770c, \u65e5\u672c",
+    "class": "shop",
+    "type": "greengrocer",
+    "importance": 0.001
+  }
+]

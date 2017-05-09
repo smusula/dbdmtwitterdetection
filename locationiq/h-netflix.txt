@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "138841934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "328702395",
+    "boundingbox": [
+      "45.5423939",
+      "45.5433472",
+      "-122.8939901",
+      "-122.8926627"
+    ],
+    "lat": "45.5428794",
+    "lon": "-122.89370518997",
+    "display_name": "Netflix, 3175, Northwest Aloclek Drive, Orenco, Hillsboro, Washington County, Oregon, 97124, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81246284",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74096918",
+    "boundingbox": [
+      "37.2592783",
+      "37.2599342",
+      "-121.963068",
+      "-121.9622484"
+    ],
+    "lat": "37.25962235",
+    "lon": "-121.962678907307",
+    "display_name": "Netflix, 100, Winchester Circle, Los Gatos, Santa Clara County, California, 95032, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "115455369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218954782",
+    "boundingbox": [
+      "37.2599795",
+      "37.2606728",
+      "-121.9625064",
+      "-121.9616673"
+    ],
+    "lat": "37.26032355",
+    "lon": "-121.962071840729",
+    "display_name": "Netflix, 200, Winchester Circle, Los Gatos, Santa Clara County, California, 95032, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

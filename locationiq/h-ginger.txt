@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "383301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151891112",
+    "boundingbox": [
+      "32.829845",
+      "32.869845",
+      "-95.7396836",
+      "-95.6996836"
+    ],
+    "lat": "32.849845",
+    "lon": "-95.7196836",
+    "display_name": "Ginger, Rains County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "328697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150962196",
+    "boundingbox": [
+      "46.6606921",
+      "46.7006921",
+      "-119.5258596",
+      "-119.4858596"
+    ],
+    "lat": "46.6806921",
+    "lon": "-119.5058596",
+    "display_name": "Ginger, Benton County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "138186079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "325452419",
+    "boundingbox": [
+      "26.139725",
+      "26.1402276",
+      "-97.6698648",
+      "-97.6691652"
+    ],
+    "lat": "26.1399601",
+    "lon": "-97.6695092",
+    "display_name": "Ginger, San Benito, Cameron County, Texas, 78586, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59387122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8635663",
+    "boundingbox": [
+      "42.463449",
+      "42.465253",
+      "-83.8455589",
+      "-83.8453889"
+    ],
+    "lat": "42.463449",
+    "lon": "-83.8453889",
+    "display_name": "Ginger, Hamburg Township, Livingston County, Michigan, 48169, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57604325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5246555",
+    "boundingbox": [
+      "45.5644499",
+      "45.5645969",
+      "-123.9125858",
+      "-123.9124745"
+    ],
+    "lat": "45.5645969",
+    "lon": "-123.9125858",
+    "display_name": "Ginger, Garibaldi, Tillamook County, Oregon, 97118, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84182004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91700548",
+    "boundingbox": [
+      "14.1125804",
+      "14.1132192",
+      "120.9334238",
+      "120.9336603"
+    ],
+    "lat": "14.1132192",
+    "lon": "120.9336603",
+    "display_name": "Ginger, Metrogate Tagaytay Estates Phase 2, Tagaytay, Cavite, Calabarzon, 4120, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92475524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123837226",
+    "boundingbox": [
+      "14.8739882",
+      "14.8789492",
+      "120.8145753",
+      "120.8172035"
+    ],
+    "lat": "14.8762217",
+    "lon": "120.8164586",
+    "display_name": "Ginger, Grand Royale Subdivision, Lugam, Bulacan, Central Luzon, 3000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "86117460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "100592310",
+    "boundingbox": [
+      "14.1283458",
+      "14.1288972",
+      "121.1408862",
+      "121.141884"
+    ],
+    "lat": "14.1287105",
+    "lon": "121.1415471",
+    "display_name": "Ginger, Ponte Verde, Santo Tomas, Batangas, Calabarzon, 4234, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126180026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263322296",
+    "boundingbox": [
+      "7.1286519",
+      "7.1288983",
+      "125.6079223",
+      "125.6089088"
+    ],
+    "lat": "7.1287063",
+    "lon": "125.6080829",
+    "display_name": "Ginger, Northcrest, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136172454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315361370",
+    "boundingbox": [
+      "35.250696",
+      "35.2582229",
+      "-111.640905",
+      "-111.6337979"
+    ],
+    "lat": "35.254347",
+    "lon": "-111.6386509",
+    "display_name": "Ginger, Flagstaff, Coconino County, Arizona, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

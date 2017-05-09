@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "54731605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4234132572",
+    "boundingbox": [
+      "-0.1576837",
+      "-0.1575837",
+      "-78.4854544",
+      "-78.4853544"
+    ],
+    "lat": "-0.1576337",
+    "lon": "-78.4854044",
+    "display_name": "Predador Brazilian Jiujitsu, Avenida Amazonas, El Carmen, Kennedy, Quito, Pichincha, EC170501, Ecuador",
+    "class": "amenity",
+    "type": "dojo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18460514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1769167041",
+    "boundingbox": [
+      "34.2241667",
+      "34.2242667",
+      "-119.038118",
+      "-119.038018"
+    ],
+    "lat": "34.2242167",
+    "lon": "-119.038068",
+    "display_name": "Brazillian Jiujitsu, East Ponderosa Drive, Camarillo, Ventura County, California, 93010, United States of America",
+    "class": "amenity",
+    "type": "dojo",
+    "importance": 0.101
+  }
+]

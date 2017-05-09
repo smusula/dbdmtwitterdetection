@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "140562991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "336420902",
+    "boundingbox": [
+      "39.3348934",
+      "39.3349714",
+      "-76.6363953",
+      "-76.6362395"
+    ],
+    "lat": "39.33493135",
+    "lon": "-76.6363174130653",
+    "display_name": "Psychedelic Art Exchange, 3846A, Falls Road, Hampden, Baltimore, Baltimore County, Maryland, 21211, United States of America",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48951481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3632574672",
+    "boundingbox": [
+      "36.9689174",
+      "36.9690174",
+      "-122.0374876",
+      "-122.0373876"
+    ],
+    "lat": "36.9689674",
+    "lon": "-122.0374376",
+    "display_name": "Multidisciplinary Association for Psychedelic Studies (MAPS), Mission Street, Mission Street Corridor (Commercial), Westside, Santa Cruz, Santa Cruz County, California, 95060, United States of America",
+    "class": "office",
+    "type": "financial",
+    "importance": 0.101
+  }
+]

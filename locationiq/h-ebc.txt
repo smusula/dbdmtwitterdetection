@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "55165657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4286485788",
+    "boundingbox": [
+      "-15.7950964",
+      "-15.7949964",
+      "-47.8925381",
+      "-47.8924381"
+    ],
+    "lat": "-15.7950464",
+    "lon": "-47.8924881",
+    "display_name": "EBC, SCS Quadra 7/8, SRTVS, Asa Sul, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70307-902, Brasil",
+    "class": "office",
+    "type": "telecommunication",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46248176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3316077065",
+    "boundingbox": [
+      "50.8627597",
+      "50.8628597",
+      "6.0806778",
+      "6.0807778"
+    ],
+    "lat": "50.8628097",
+    "lon": "6.0807278",
+    "display_name": "EBC, 1-10, Eurode-Park, Kerkrade, Parkstad Limburg, Limburg, Nederland, 6461KB, Nederland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651336440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4668169259",
+    "boundingbox": [
+      "-26.9210127",
+      "-26.9209127",
+      "-49.0666799",
+      "-49.0665799"
+    ],
+    "lat": "-26.9209627",
+    "lon": "-49.0666299",
+    "display_name": "EBC, 165, Rua Padre Jacobs, Centro, Blumenau, Microrregi\u00e3o de Blumenau, Mesorregi\u00e3o do Vale do Itaja\u00ed, SC, Regi\u00e3o Sul, 89010-070, Brasil",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10660784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "980249537",
+    "boundingbox": [
+      "48.8597782",
+      "48.8598782",
+      "2.5302929",
+      "2.5303929"
+    ],
+    "lat": "48.8598282",
+    "lon": "2.5303429",
+    "display_name": "EBC, Impasse Ren\u00e9, Neuilly-sur-Marne, Le Raincy, Seine-Saint-Denis, \u00cele-de-France, 93330, France",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "46458870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3316077064",
+    "boundingbox": [
+      "50.8622104",
+      "50.8623104",
+      "6.0812571",
+      "6.0813571"
+    ],
+    "lat": "50.8622604",
+    "lon": "6.0813071",
+    "display_name": "EBC, 1-10, Eurode-Park, Stra\u00df, Herzogenrath, St\u00e4dteregion Aachen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52134, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76821912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47023333",
+    "boundingbox": [
+      "50.8620618",
+      "50.863028",
+      "6.0804575",
+      "6.0815645"
+    ],
+    "lat": "50.8625461",
+    "lon": "6.08108481589299",
+    "display_name": "EBC, Aachener Stra\u00dfe, Stra\u00df, Herzogenrath, St\u00e4dteregion Aachen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52134, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654387556",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "480937840",
+    "boundingbox": [
+      "22.1522713",
+      "22.1536404",
+      "-101.0322979",
+      "-101.0306533"
+    ],
+    "lat": "22.1527884",
+    "lon": "-101.031885862421",
+    "display_name": "EBC, Boulevard Rio Santiago, San Luis Potos\u00ed, 78178, M\u00e9xico",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "28368400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2641377418",
+    "boundingbox": [
+      "-26.4975366",
+      "-26.4974366",
+      "31.367907",
+      "31.368007"
+    ],
+    "lat": "-26.4974866",
+    "lon": "31.367957",
+    "display_name": "EBC, D25, Manzini, Inkhundla Manzini, Manzini, 268, Swaziland",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "126949203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "267404539",
+    "boundingbox": [
+      "14.5757461",
+      "14.5760413",
+      "121.1418685",
+      "121.142181"
+    ],
+    "lat": "14.57589375",
+    "lon": "121.142024778927",
+    "display_name": "EBC, Geronimo Road, Meadow View, Dolores, Taytay, Rizal, Calabarzon, 1920, Philippines",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "145718104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368973946",
+    "boundingbox": [
+      "4.1380622",
+      "4.1381512",
+      "9.5919036",
+      "9.5919774"
+    ],
+    "lat": "4.13810965",
+    "lon": "9.59194007810222",
+    "display_name": "EBC, N 5, Dibombari, Moungo, LT, Cameroun",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "54601286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4195621582",
+    "boundingbox": [
+      "43.7153857",
+      "43.7154857",
+      "10.4004565",
+      "10.4005565"
+    ],
+    "lat": "43.7154357",
+    "lon": "10.4005065",
+    "display_name": "80s, Via Pietro Toselli, Sant'Antonio, Pisa, PI, TOS, 56125, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "973270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "289460659",
+    "boundingbox": [
+      "52.6391007",
+      "52.6392007",
+      "5.0594796",
+      "5.0595796"
+    ],
+    "lat": "52.6391507",
+    "lon": "5.0595296",
+    "display_name": "80's, 5, Roode Steen, Binnenstad, Hoorn, Noord-Holland, Nederland, 1621CV, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "48053988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3485405326",
+    "boundingbox": [
+      "40.2032958",
+      "40.2033958",
+      "-8.4067277",
+      "-8.4066277"
+    ],
+    "lat": "40.2033458",
+    "lon": "-8.4066777",
+    "display_name": "80's, Rua Dom Jo\u00e3o III, Quinta da Lomba, Solum, Santo Ant\u00f3nio dos Olivais, Coimbra, Baixo Mondego, Centro, 3030-329, Portugal",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.001
+  }
+]

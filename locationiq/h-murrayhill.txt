@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "68218054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22734821",
+    "boundingbox": [
+      "55.7564922",
+      "55.759764",
+      "-4.1936716",
+      "-4.1871472"
+    ],
+    "lat": "55.7577199",
+    "lon": "-4.1906134",
+    "display_name": "Murrayhill, Westwood, Hudson Bay, South Lanarkshire, Scotland, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "79865749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61123323",
+    "boundingbox": [
+      "55.759764",
+      "55.7599602",
+      "-4.1871472",
+      "-4.1867287"
+    ],
+    "lat": "55.759879",
+    "lon": "-4.1869372",
+    "display_name": "Murrayhill, East Mains, East Kilbride, South Lanarkshire, Scotland, G74, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "5042725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "565753713",
+    "boundingbox": [
+      "55.7562214",
+      "55.7563214",
+      "-4.193337",
+      "-4.193237"
+    ],
+    "lat": "55.7562714",
+    "lon": "-4.193287",
+    "display_name": "Murrayhill, Murray Road, Whitehills, Hudson Bay, South Lanarkshire, Scotland, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

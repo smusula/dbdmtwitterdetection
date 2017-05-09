@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "54001390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4151934590",
+    "boundingbox": [
+      "-38.7675182",
+      "-38.7674182",
+      "-72.7661652",
+      "-72.7660652"
+    ],
+    "lat": "-38.7674682",
+    "lon": "-72.7661152",
+    "display_name": "Alcapone, Las Perdices, Temuco, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, Chile",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "15826162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1443482105",
+    "boundingbox": [
+      "35.9580178",
+      "35.9581178",
+      "14.3667612",
+      "14.3668612"
+    ],
+    "lat": "35.9580678",
+    "lon": "14.3668112",
+    "display_name": "Alcapone, Triq l-Etna, Mellie\u0127a, I\u010b-\u010airkewwa, Mellie\u0127a, Malta, MLH 2317, Malta",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "18132420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1762657589",
+    "boundingbox": [
+      "28.4967434",
+      "28.4968434",
+      "34.5167185",
+      "34.5168185"
+    ],
+    "lat": "28.4967934",
+    "lon": "34.5167685",
+    "display_name": "Alcapone, El Masbat, Masbat, \u062f\u0647\u0628, \u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621, 55555, \u0645\u0635\u0631",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

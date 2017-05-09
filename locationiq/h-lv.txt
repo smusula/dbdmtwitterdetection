@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160255867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "72594",
+    "boundingbox": [
+      "55.6746505",
+      "58.0855688",
+      "20.6715407",
+      "28.2414904"
+    ],
+    "lat": "56.8666904",
+    "lon": "24.5999717",
+    "display_name": "Latvija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76362458684468,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160254368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "72380",
+    "boundingbox": [
+      "48.7182704",
+      "50.6489605",
+      "22.6408308",
+      "25.4270391"
+    ],
+    "lat": "50.1594016",
+    "lon": "24.2337089",
+    "display_name": "\u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5675507974575,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160372991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070403",
+    "boundingbox": [
+      "38.9550584",
+      "39.4192304",
+      "-95.1878292",
+      "-94.7766401"
+    ],
+    "lat": "39.2147095",
+    "lon": "-95.0620346",
+    "display_name": "Leavenworth County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46847667377961,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "93238233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126463320",
+    "boundingbox": [
+      "29.5849291",
+      "29.5871447",
+      "-98.6231651",
+      "-98.6209389"
+    ],
+    "lat": "29.58605095",
+    "lon": "-98.6219135626921",
+    "display_name": "Laurel Village Complex, San Antonio, Bexar County, Texas, 78256, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101008752",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159932424",
+    "boundingbox": [
+      "19.6010503",
+      "19.6014329",
+      "-99.2022267",
+      "-99.2019987"
+    ],
+    "lat": "19.6014329",
+    "lon": "-99.2022267",
+    "display_name": "LV, Colonia Hacienda del Parque, Colonia Atlanta, Cuautitl\u00e1n Izcalli, M\u00e9xico, 54769, M\u00e9xico",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "14200644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1291760980",
+    "boundingbox": [
+      "9.5442344",
+      "9.5443344",
+      "1.1963459",
+      "1.1964459"
+    ],
+    "lat": "9.5442844",
+    "lon": "1.1963959",
+    "display_name": "lv, Avenue de la Cedeao, Kara, Kozah, R\u00e9gion de la Kara, Togo",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "49983615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3724879361",
+    "boundingbox": [
+      "38.732875",
+      "38.732975",
+      "-9.1309468",
+      "-9.1308468"
+    ],
+    "lat": "38.732925",
+    "lon": "-9.1308968",
+    "display_name": "LV, Largo Mendon\u00e7a e Costa, S\u00e3o Jo\u00e3o, Penha de Fran\u00e7a, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, 1900-213, Portugal",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  },
+  {
+    "place_id": "562777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "227759666",
+    "boundingbox": [
+      "44.6568583",
+      "44.6569583",
+      "10.8815468",
+      "10.8816468"
+    ],
+    "lat": "44.6569083",
+    "lon": "10.8815968",
+    "display_name": "LV, Via Emilia Ovest, Villaggio Artigiano, San Faustino-Madonnina-Quattroville, Modena, MO, EMR, 41123, Italia",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "994082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "291555637",
+    "boundingbox": [
+      "51.9013837",
+      "51.9014837",
+      "-8.4663614",
+      "-8.4662614"
+    ],
+    "lat": "51.9014337",
+    "lon": "-8.4663114",
+    "display_name": "LV, 56, MacCurtain Street, St. Patrick's A, Cork, County Cork, Munster, Ireland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "40782620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2993814887",
+    "boundingbox": [
+      "44.870602",
+      "44.870702",
+      "10.0752579",
+      "10.0753579"
+    ],
+    "lat": "44.870652",
+    "lon": "10.0753079",
+    "display_name": "LV, Tangenziale via Emilia, Fidenza, PR, EMR, 43036, Italia",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

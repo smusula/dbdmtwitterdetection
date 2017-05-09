@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "113364075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "209679121",
+    "boundingbox": [
+      "35.1868087",
+      "35.2352998",
+      "-80.9698179",
+      "-80.922862"
+    ],
+    "lat": "35.21074145",
+    "lon": "-80.9460210318358",
+    "display_name": "Charlotte-Douglas International Airport, Express Drive, Charlotte, Mecklenburg County, North Carolina, 28208, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.41214111170503,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "42087825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3062526162",
+    "boundingbox": [
+      "35.1902458",
+      "35.1903458",
+      "-80.9517965",
+      "-80.9516965"
+    ],
+    "lat": "35.1902958",
+    "lon": "-80.9517465",
+    "display_name": "CLT, Byrum Drive, Charlotte, Mecklenburg County, North Carolina, 28208, United States of America",
+    "class": "aeroway",
+    "type": "navigationaid",
+    "importance": 0.101
+  },
+  {
+    "place_id": "77058967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48392360",
+    "boundingbox": [
+      "50.8735857",
+      "50.874226",
+      "4.7078312",
+      "4.7085376"
+    ],
+    "lat": "50.8739297",
+    "lon": "4.70831515308558",
+    "display_name": "CLT, 4, Dekenstraat, Nieuw Kwartier, Leuven, Vlaams-Brabant, Vlaanderen, 3000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "81502263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75891266",
+    "boundingbox": [
+      "42.5690843",
+      "42.5693706",
+      "12.6451214",
+      "12.6453543"
+    ],
+    "lat": "42.56922745",
+    "lon": "12.645237872247",
+    "display_name": "CLT, Viale Gabriele D'Annunzio, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "81762795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75891225",
+    "boundingbox": [
+      "42.5689893",
+      "42.5694815",
+      "12.6473377",
+      "12.6477761"
+    ],
+    "lat": "42.5692344",
+    "lon": "12.6475549091425",
+    "display_name": "CLT, Via Evangelista Torricelli, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "142625692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "350596992",
+    "boundingbox": [
+      "42.5692626",
+      "42.5695934",
+      "12.6464078",
+      "12.6466568"
+    ],
+    "lat": "42.569427",
+    "lon": "12.6465316248387",
+    "display_name": "CLT, Viale Tito Oro Nobili, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81500246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75891239",
+    "boundingbox": [
+      "42.5689095",
+      "42.5692424",
+      "12.646423",
+      "12.6466692"
+    ],
+    "lat": "42.56907695",
+    "lon": "12.6465487345274",
+    "display_name": "CLT, Via Ludovico Antonio Muratori, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81473117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75891282",
+    "boundingbox": [
+      "42.5689215",
+      "42.5692523",
+      "12.6466936",
+      "12.6469426"
+    ],
+    "lat": "42.5690859",
+    "lon": "12.6468174248387",
+    "display_name": "CLT, Piazzale Edoardo Pantano, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "145406722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367900782",
+    "boundingbox": [
+      "-22.9599522",
+      "-22.958073",
+      "-46.9801322",
+      "-46.9784817"
+    ],
+    "lat": "-22.9587094",
+    "lon": "-46.9794132937464",
+    "display_name": "CLT, Avenida Doutor Altino Gouveia, Valinhos, Microrregi\u00e3o de Campinas, RMC, Mesorregi\u00e3o de Campinas, SP, Regi\u00e3o Sudeste, 13272588, Brasil",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160950596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6139134",
+    "boundingbox": [
+      "35.2177867",
+      "35.2250732",
+      "-80.9485783",
+      "-80.9390409"
+    ],
+    "lat": "35.22142",
+    "lon": "-80.9417718107557",
+    "display_name": "Charlotte-Douglas International Airport, 5501, Josh Birmingham Parkway, Charlotte, Mecklenburg County, North Carolina, 28208, United States of America",
+    "class": "aeroway",
+    "type": "terminal",
+    "importance": 0.001
+  }
+]

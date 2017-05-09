@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "129344834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "283053641",
+    "boundingbox": [
+      "39.6620272",
+      "39.6623063",
+      "-104.8694479",
+      "-104.8690041"
+    ],
+    "lat": "39.66216575",
+    "lon": "-104.869115002674",
+    "display_name": "Waterfalls, Denver, Denver County, Colorado, United States of America",
+    "class": "waterway",
+    "type": "weir",
+    "importance": 0.425
+  },
+  {
+    "place_id": "43778694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3125548601",
+    "boundingbox": [
+      "-6.8780772",
+      "-6.8779772",
+      "37.6822389",
+      "37.6823389"
+    ],
+    "lat": "-6.8780272",
+    "lon": "37.6822889",
+    "display_name": "Waterfalls, Morogoro, Coastal, Tanzania",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.425
+  },
+  {
+    "place_id": "15146134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1355488430",
+    "boundingbox": [
+      "40.4345539",
+      "40.4346539",
+      "-111.9094302",
+      "-111.9093302"
+    ],
+    "lat": "40.4346039",
+    "lon": "-111.9093802",
+    "display_name": "Waterfalls, Lehi, Utah County, Utah, United States of America",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3605897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "370599352",
+    "boundingbox": [
+      "13.8107885",
+      "13.8108885",
+      "79.2180236",
+      "79.2181236"
+    ],
+    "lat": "13.8108385",
+    "lon": "79.2180736",
+    "display_name": "Waterfalls, YSR Kadapa, Andhra Pradesh, India",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.425
+  },
+  {
+    "place_id": "52309209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3923318679",
+    "boundingbox": [
+      "-17.9172285",
+      "-17.8772285",
+      "31.0003457",
+      "31.0403457"
+    ],
+    "lat": "-17.8972285",
+    "lon": "31.0203457",
+    "display_name": "Waterfalls, Harare, Harare Province, Zimbabwe",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610748677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4513773877",
+    "boundingbox": [
+      "35.8235155",
+      "35.8236155",
+      "51.3998809",
+      "51.3999809"
+    ],
+    "lat": "35.8235655",
+    "lon": "51.3999309",
+    "display_name": "\u0622\u0628\u0634\u0627\u0631, \u0631\u0648\u062f\u0628\u0627\u0631\u0642\u0635\u0631\u0627\u0646, \u0628\u062e\u0634 \u0631\u0648\u062f\u0628\u0627\u0631\u0642\u0635\u0631\u0627\u0646, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0634\u0645\u06cc\u0631\u0627\u0646\u0627\u062a, \u0627\u0633\u062a\u0627\u0646 \u062a\u0647\u0631\u0627\u0646, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2610235987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4501211691",
+    "boundingbox": [
+      "-51.1166559",
+      "-51.1165559",
+      "-72.9927498",
+      "-72.9926498"
+    ],
+    "lat": "-51.1166059",
+    "lon": "-72.9926998",
+    "display_name": "salto Chico Falls, Torres del Paine, Provincia de \u00daltima Esperanza, XII Regi\u00f3n de Magallanes y de la Ant\u00e1rtica Chilena, Chile",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.325
+  },
+  {
+    "place_id": "160594641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2745987",
+    "boundingbox": [
+      "9.5915239",
+      "11.02283",
+      "-5.5132415",
+      "-3.6730999"
+    ],
+    "lat": "10.30718125",
+    "lon": "-4.4351892203504",
+    "display_name": "Cascades, Burkina Faso",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25089190172262,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "69248506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24888716",
+    "boundingbox": [
+      "51.5595417",
+      "51.5599096",
+      "0.4208973",
+      "0.4218998"
+    ],
+    "lat": "51.5599044",
+    "lon": "0.4218998",
+    "display_name": "The Waterfalls, Laindon, Basildon, Essex, East of England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70659164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28062397",
+    "boundingbox": [
+      "7.1038389",
+      "7.1066307",
+      "125.6071848",
+      "125.6089766"
+    ],
+    "lat": "7.1052588",
+    "lon": "125.6080818",
+    "display_name": "Waterfalls, Spring Valley Subdivision, Buhangin, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

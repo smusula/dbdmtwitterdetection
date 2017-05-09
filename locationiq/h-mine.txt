@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "160629833",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3344184",
+    "boundingbox": [
+      "44.1120675",
+      "44.1222617",
+      "4.7972752",
+      "4.8021399"
+    ],
+    "lat": "44.1168024",
+    "lon": "4.7999854",
+    "display_name": "La Mine, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.45
+  },
+  {
+    "place_id": "105578926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "176931847",
+    "boundingbox": [
+      "52.6903351",
+      "52.6929932",
+      "-6.5007185",
+      "-6.497433"
+    ],
+    "lat": "52.6914036",
+    "lon": "-6.4987564",
+    "display_name": "Mine, Dublin, Leinster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "119471675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234712087",
+    "boundingbox": [
+      "52.7024502",
+      "52.7040257",
+      "-6.5201972",
+      "-6.5188398"
+    ],
+    "lat": "52.7029849",
+    "lon": "-6.5197897",
+    "display_name": "Mine, Baltinglass Municipal District, County Wicklow, Leinster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "108116012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188132466",
+    "boundingbox": [
+      "52.6852966",
+      "52.686746",
+      "-6.475214",
+      "-6.4653425"
+    ],
+    "lat": "52.6862055",
+    "lon": "-6.4699175",
+    "display_name": "Mine, Gorey Municipal District, County Wexford, Leinster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160727279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4018266",
+    "boundingbox": [
+      "34.081746",
+      "34.336731",
+      "131.082447",
+      "131.409617"
+    ],
+    "lat": "34.166854",
+    "lon": "131.203899",
+    "display_name": "\u7f8e\u7962\u5e02, \u963f\u6b66\u90e1, \u5c71\u53e3\u770c, \u65e5\u672c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42144714246806,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

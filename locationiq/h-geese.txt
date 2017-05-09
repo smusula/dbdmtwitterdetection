@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "82477100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82958172",
+    "boundingbox": [
+      "39.7486324",
+      "39.7491439",
+      "-104.9481357",
+      "-104.9474652"
+    ],
+    "lat": "39.74893145",
+    "lon": "-104.947817114759",
+    "display_name": "Geese, Denver, Denver County, Colorado, 80206, United States of America",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1383984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "308766767",
+    "boundingbox": [
+      "50.8292719",
+      "50.8293719",
+      "-0.1304352",
+      "-0.1303352"
+    ],
+    "lat": "50.8293219",
+    "lon": "-0.1303852",
+    "display_name": "The Geese, 16, Southover Street, Round Hill, Hanover & Queen's Park, Queen's Park, Brighton, Brighton and Hove, South East, England, BN2 9UA, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2654869702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34057300",
+    "boundingbox": [
+      "49.4471646",
+      "49.4475814",
+      "11.1482266",
+      "11.149026"
+    ],
+    "lat": "49.447367",
+    "lon": "11.1486832265012",
+    "display_name": "G\u00e4nse, Aquapark, M\u00f6geldorf, N\u00fcrnberg, Mittelfranken, Bayern, 90480, Deutschland",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "116364842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222811873",
+    "boundingbox": [
+      "46.9894474",
+      "46.9896014",
+      "15.9131627",
+      "15.9134959"
+    ],
+    "lat": "46.9895198",
+    "lon": "15.913327802258",
+    "display_name": "G\u00e4nse, Rundweg, H\u00f6hlgraben, Riegersburg, S\u00fcdoststeiermark, Steiermark, 8333, \u00d6sterreich",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.001
+  }
+]

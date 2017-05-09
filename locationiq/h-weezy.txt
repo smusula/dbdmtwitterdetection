@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "157446823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "432399877",
+    "boundingbox": [
+      "45.5034722",
+      "45.5035999",
+      "9.1573219",
+      "9.1575224"
+    ],
+    "lat": "45.5035134",
+    "lon": "9.15742640214313",
+    "display_name": "Cheezy Weezy, 4, no, Derganino, Bovisa, Milano, MI, LOM, 20156, Italia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "53338463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4063760435",
+    "boundingbox": [
+      "39.0917194",
+      "39.0918194",
+      "-94.5849591",
+      "-94.5848591"
+    ],
+    "lat": "39.0917694",
+    "lon": "-94.5849091",
+    "display_name": "Bizz and Weezy Confections, West 18th Street, Crossroads, Westport, Kansas City, Jackson County, Missouri, 64108, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

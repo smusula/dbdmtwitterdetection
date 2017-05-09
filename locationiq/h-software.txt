@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": "19126096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1870849962",
+    "boundingbox": [
+      "6.9406748",
+      "6.9407748",
+      "79.8647783",
+      "79.8648783"
+    ],
+    "lat": "6.9407248",
+    "lon": "79.8648283",
+    "display_name": "Commercial Bank of Ceylon PLC, 442/A, Old Moor Street, Masangasweediya, Colombo, \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba, Western Province, 01200, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

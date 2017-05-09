@@ -1,0 +1,147 @@
+[
+  {
+    "place_id": "63720840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15396822",
+    "boundingbox": [
+      "43.7671802",
+      "43.7812886",
+      "-79.516797",
+      "-79.492979"
+    ],
+    "lat": "43.7743911",
+    "lon": "-79.5048107538812",
+    "display_name": "York University, Keele Campus, Campus Walk, North York, Toronto, Ontario, M3J1V6, Canada",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.50809844461369,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "57665085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5372705",
+    "boundingbox": [
+      "43.6398716",
+      "43.6398775",
+      "-121.5742504",
+      "-121.5696742"
+    ],
+    "lat": "43.6398716",
+    "lon": "-121.5696742",
+    "display_name": "Yorkie Lane, Deschutes County, Oregon, 97739, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61351478",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11519400",
+    "boundingbox": [
+      "39.1501086",
+      "39.1503748",
+      "-76.4819432",
+      "-76.4803178"
+    ],
+    "lat": "39.1501086",
+    "lon": "-76.4819432",
+    "display_name": "Yorkie Avenue, Annesley By The Bay, Venice on the Bay, Anne Arundel County, Maryland, 21122, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146274444",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371300270",
+    "boundingbox": [
+      "32.014178",
+      "32.0142352",
+      "-110.7061935",
+      "-110.7041679"
+    ],
+    "lat": "32.014178",
+    "lon": "-110.7042512",
+    "display_name": "East Yorkie Place, Mountain View, Pima County, Arizona, 85641, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138187557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "325424154",
+    "boundingbox": [
+      "35.0003081",
+      "35.0005724",
+      "-78.7053124",
+      "-78.7041874"
+    ],
+    "lat": "35.0005453",
+    "lon": "-78.7043019",
+    "display_name": "Yorkie Court, Stedman, Cumberland County, North Carolina, 28391, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126188978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263170799",
+    "boundingbox": [
+      "39.2883045",
+      "39.288836",
+      "-80.2130971",
+      "-80.2124587"
+    ],
+    "lat": "39.2883917",
+    "lon": "-80.2129576",
+    "display_name": "Yorkie Lane, Lake Ridge, Harrison County, West Virginia, 26330, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117351767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226332310",
+    "boundingbox": [
+      "42.7712359",
+      "42.771388",
+      "-71.4828704",
+      "-71.4826703"
+    ],
+    "lat": "42.77131195",
+    "lon": "-71.4827703373527",
+    "display_name": "Yorkie Town, 126, Amherst Street, Nashville Historic District, Nashua, Hillsborough County, New Hampshire, 03064, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "154025952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "413691223",
+    "boundingbox": [
+      "18.4904361",
+      "18.490528",
+      "-69.9100525",
+      "-69.9099841"
+    ],
+    "lat": "18.49047525",
+    "lon": "-69.9100165605",
+    "display_name": "Yorki Comercial, Calle Americo Lugo, Distrito Nacional, 10412, Rep\u00fablica Dominicana",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

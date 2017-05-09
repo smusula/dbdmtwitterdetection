@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "447612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154299524",
+    "boundingbox": [
+      "38.2881379",
+      "38.3281379",
+      "-82.8440536",
+      "-82.8040536"
+    ],
+    "lat": "38.3081379",
+    "lon": "-82.8240536",
+    "display_name": "Music, Carter County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1444731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "320561678",
+    "boundingbox": [
+      "45.2699692",
+      "45.3099692",
+      "18.1470307",
+      "18.1870307"
+    ],
+    "lat": "45.2899692",
+    "lon": "18.1670307",
+    "display_name": "Musi\u0107, Osje\u010dko-Baranjska \u017eupanija, Hrvatska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26602210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2526289556",
+    "boundingbox": [
+      "43.8323871",
+      "43.8723871",
+      "17.2768771",
+      "17.3168771"
+    ],
+    "lat": "43.8523871",
+    "lon": "17.2968771",
+    "display_name": "Mu\u0161i\u0107, Op\u0107ina Kupres, Hercegbosanska \u017eupanija, Federacija Bosne i Hercegovine, Bosna i Hercegovina",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "103511030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169095743",
+    "boundingbox": [
+      "51.7735057",
+      "51.7739341",
+      "-1.2586098",
+      "-1.2578465"
+    ],
+    "lat": "51.7737199",
+    "lon": "-1.2582488924556",
+    "display_name": "Music, Charlbury Road, Summertown, Oxford, Oxon, South East, England, OX2 6UY, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "77643609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50099793",
+    "boundingbox": [
+      "52.3893963",
+      "52.3896742",
+      "-1.5593471",
+      "-1.5589476"
+    ],
+    "lat": "52.38953485",
+    "lon": "-1.55914762400564",
+    "display_name": "Music, Kirby Corner Road, Kirby Corner, Cannon Park, Coventry, West Midlands, England, CV4 8GD, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "99361082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "152917044",
+    "boundingbox": [
+      "52.3993194",
+      "52.399607",
+      "-1.4920351",
+      "-1.491555"
+    ],
+    "lat": "52.3994618",
+    "lon": "-1.49179497347185",
+    "display_name": "Music, Terry Road, Lower Stoke, Coventry, West Midlands, England, CV3 1NT, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608303879",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4455493032",
+    "boundingbox": [
+      "45.5661296",
+      "45.5662296",
+      "5.9270699",
+      "5.9271699"
+    ],
+    "lat": "45.5661796",
+    "lon": "5.9271199",
+    "display_name": "Music, 94, Faubourg Montm\u00e9lian, Laurier, Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, 73000, France",
+    "class": "shop",
+    "type": "musical_instrument",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654250467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233291895",
+    "boundingbox": [
+      "33.9700001",
+      "33.970386",
+      "-117.3817094",
+      "-117.3813165"
+    ],
+    "lat": "33.97019515",
+    "lon": "-117.38151294695",
+    "display_name": "Music, Mine Okubo Drive, Upper Campus, Riverside, Riverside County, California, 92506, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "133933800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305289743",
+    "boundingbox": [
+      "51.2722289",
+      "51.2724071",
+      "-0.3963509",
+      "-0.3961304"
+    ],
+    "lat": "51.2723221",
+    "lon": "-0.396271814006941",
+    "display_name": "Music, Effingham Place, Effingham, Effingham CP, Guildford, Surrey, South East, England, KT22, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "113784248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "211041340",
+    "boundingbox": [
+      "51.3130713",
+      "51.3131505",
+      "-0.6012185",
+      "-0.6010799"
+    ],
+    "lat": "51.31309795",
+    "lon": "-0.601151940112994",
+    "display_name": "Music, Inkerman Way, Goldsworth Park, Hook Heath, Woking, Surrey, South East, England, GU21 8TJ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

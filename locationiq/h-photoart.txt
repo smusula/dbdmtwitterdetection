@@ -1,0 +1,129 @@
+[
+  {
+    "place_id": "160794941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4622102",
+    "boundingbox": [
+      "35.4855298",
+      "35.4858976",
+      "-97.5408132",
+      "-97.5406458"
+    ],
+    "lat": "35.48572035",
+    "lon": "-97.5407306916954",
+    "display_name": "Photoart Studios, Oklahoma City, Oklahoma County, Oklahoma, 73106, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "47969255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3470524719",
+    "boundingbox": [
+      "52.4688657",
+      "52.4689657",
+      "-1.8561199",
+      "-1.8560199"
+    ],
+    "lat": "52.4689157",
+    "lon": "-1.8560699",
+    "display_name": "Photoart Studios, Coventry Road, Digbeth, Small Heath, West Midlands Combined Authority, West Midlands, England, B10 0LL, UK",
+    "class": "shop",
+    "type": "photo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "129884960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "285721578",
+    "boundingbox": [
+      "51.7501453",
+      "51.7503145",
+      "14.6469906",
+      "14.6472464"
+    ],
+    "lat": "51.7502599",
+    "lon": "14.6471621485185",
+    "display_name": "Photoart Annika Dubrau, 23, Gubener Stra\u00dfe, Neu-Horno, Forst (Lausitz), Landkreis Spree-Nei\u00dfe, Brandenburg, 03149, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14303325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1280164328",
+    "boundingbox": [
+      "48.0519185",
+      "48.0520185",
+      "10.8702153",
+      "10.8703153"
+    ],
+    "lat": "48.0519685",
+    "lon": "10.8702653",
+    "display_name": "photoart 1 fotostudio, 25, Von-K\u00fchlmann-Stra\u00dfe, Kl\u00f6sterl, Landsberg am Lech, Landkreis Landsberg am Lech, OB, Bayern, 86899, Deutschland",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650306052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4639854580",
+    "boundingbox": [
+      "49.2490079",
+      "49.2491079",
+      "8.3420324",
+      "8.3421324"
+    ],
+    "lat": "49.2490579",
+    "lon": "8.3420824",
+    "display_name": "DIWA PhotoArt, 51, Germersheimer Stra\u00dfe, Lingenfeld, Landkreis Germersheim, Rheinland-Pfalz, 67360, Deutschland",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24963551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2419143844",
+    "boundingbox": [
+      "51.3873135",
+      "51.3874135",
+      "7.3951684",
+      "7.3952684"
+    ],
+    "lat": "51.3873635",
+    "lon": "7.3952184",
+    "display_name": "Maik W\u00f6ll Photoart, Wilhelmstra\u00dfe, Alt-Wetter, Wetter (Ruhr), Ennepe-Ruhr-Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58300, Deutschland",
+    "class": "shop",
+    "type": "vacant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654362539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740189521",
+    "boundingbox": [
+      "-6.1926065",
+      "-6.1925065",
+      "106.8136777",
+      "106.8137777"
+    ],
+    "lat": "-6.1925565",
+    "lon": "106.8137277",
+    "display_name": "House Of Kanio & Sakti PhotoArt Studio, Kebon Pala, RW 12, Kebon Melati, Tanah Abang, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10240, Indonesia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

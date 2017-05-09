@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "8849300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "931540608",
+    "boundingbox": [
+      "-1.1091669",
+      "-0.4691669",
+      "130.433889",
+      "131.073889"
+    ],
+    "lat": "-0.7891669",
+    "lon": "130.753889",
+    "display_name": "Yum, Papua Barat, Indonesia",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "1479345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "317119129",
+    "boundingbox": [
+      "32.6490609",
+      "32.6790609",
+      "-114.6173697",
+      "-114.5873697"
+    ],
+    "lat": "32.6640609",
+    "lon": "-114.6023697",
+    "display_name": "Yuma International Airport, South Fortuna Avenue, Yuma, Yuma County, Arizona, 85365, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.35699840250201,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "87897382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107883246",
+    "boundingbox": [
+      "59.3490149",
+      "59.3511227",
+      "53.748789",
+      "53.7497424"
+    ],
+    "lat": "59.350174",
+    "lon": "53.7497131",
+    "display_name": "\u042e\u043c, \u042e\u0440\u043b\u0438\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u042e\u0440\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u043e\u043c\u0438-\u041f\u0435\u0440\u043c\u044f\u0446\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2652934535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477223887",
+    "boundingbox": [
+      "32.6682121",
+      "32.6684894",
+      "-114.5998927",
+      "-114.5984354"
+    ],
+    "lat": "32.6683486",
+    "lon": "-114.599191484161",
+    "display_name": "Yuma International Airport Terminal, 2191, East 32nd Street, Yuma, Yuma County, Arizona, 85365, United States of America",
+    "class": "aeroway",
+    "type": "terminal",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94786740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "132662558",
+    "boundingbox": [
+      "44.9485722",
+      "44.9488754",
+      "-93.3307818",
+      "-93.3305166"
+    ],
+    "lat": "44.9486537",
+    "lon": "-93.3306491878837",
+    "display_name": "Yum, Minnetonka Boulevard, St. Louis Park, Hennepin County, Minnesota, 55416, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2645416587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4529154691",
+    "boundingbox": [
+      "55.6811186",
+      "55.6812186",
+      "37.5473759",
+      "37.5474759"
+    ],
+    "lat": "55.6811686",
+    "lon": "37.5474259",
+    "display_name": "Pizza Hut, 72 \u043a1, \u0443\u043b\u0438\u0446\u0430 \u0412\u0430\u0432\u0438\u043b\u043e\u0432\u0430, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0438\u0439, \u041c\u043e\u0441\u043a\u0432\u0430, \u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 117335, \u0420\u0424",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26554377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2509969545",
+    "boundingbox": [
+      "35.087108",
+      "35.087208",
+      "-106.5155459",
+      "-106.5154459"
+    ],
+    "lat": "35.087158",
+    "lon": "-106.5154959",
+    "display_name": "Taco Bell/Pizza Hut, Lomas Boulevard Northeast, La Cuesta, ABQ, Bernalillo County, New Mexico, 87112, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "21342252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2114906107",
+    "boundingbox": [
+      "54.7683763",
+      "54.7684763",
+      "-1.571968",
+      "-1.571868"
+    ],
+    "lat": "54.7684263",
+    "lon": "-1.571918",
+    "display_name": "Palatine Centre Cafe, Stockton Road, Aykley Heads, Durham, County Durham, North East England, England, DH1 3LE, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "21500572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2114906097",
+    "boundingbox": [
+      "54.7680964",
+      "54.7681964",
+      "-1.5735471",
+      "-1.5734471"
+    ],
+    "lat": "54.7681464",
+    "lon": "-1.5734971",
+    "display_name": "Library Caf\u00e9, Stockton Road, Aykley Heads, Durham, County Durham, North East England, England, DH1 3LE, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "433754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154327216",
+    "boundingbox": [
+      "37.2759541",
+      "37.3159541",
+      "-80.8906335",
+      "-80.8506335"
+    ],
+    "lat": "37.2959541",
+    "lon": "-80.8706335",
+    "display_name": "French, Giles County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "352049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151333469",
+    "boundingbox": [
+      "46.2680153",
+      "46.3080153",
+      "-96.2217286",
+      "-96.1817286"
+    ],
+    "lat": "46.2880153",
+    "lon": "-96.2017286",
+    "display_name": "French, Otter Tail County, Minnesota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "372241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151673677",
+    "boundingbox": [
+      "36.3406209",
+      "36.3806209",
+      "-91.7134779",
+      "-91.6734779"
+    ],
+    "lat": "36.3606209",
+    "lon": "-91.6934779",
+    "display_name": "French, Fulton County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "364011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151749096",
+    "boundingbox": [
+      "36.4541996",
+      "36.4941996",
+      "-104.5783228",
+      "-104.5383228"
+    ],
+    "lat": "36.4741996",
+    "lon": "-104.5583228",
+    "display_name": "French, Colfax County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53157090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4053425564",
+    "boundingbox": [
+      "31.8511264",
+      "31.8512264",
+      "-102.3591713",
+      "-102.3590713"
+    ],
+    "lat": "31.8511764",
+    "lon": "-102.3591213",
+    "display_name": "French, Odessa, Ector County, Texas, 79761, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "71713665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29906115",
+    "boundingbox": [
+      "42.627362",
+      "42.6311434",
+      "-72.4935668",
+      "-72.4888992"
+    ],
+    "lat": "42.6291628",
+    "lon": "-72.4912617960242",
+    "display_name": "French, Gill, Franklin County, Massachusetts, 01354, United States of America",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2647790705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6841785",
+    "boundingbox": [
+      "-35.5253373",
+      "-35.5115807",
+      "-61.0109477",
+      "-60.9920065"
+    ],
+    "lat": "-35.517982",
+    "lon": "-61.0012822",
+    "display_name": "French, Cuartel Doce de Octubre, Partido de Nueve de Julio, Bs. As., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.28611063262914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4505943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "494211148",
+    "boundingbox": [
+      "-35.5151349",
+      "-35.5150349",
+      "-61.0013504",
+      "-61.0012504"
+    ],
+    "lat": "-35.5150849",
+    "lon": "-61.0013004",
+    "display_name": "French, Juan B. Justo, French, Cuartel Doce de Octubre, Partido de Nueve de Julio, Bs. As., 6516, Argentina",
+    "class": "railway",
+    "type": "halt",
+    "importance": 0.23958297447186
+  },
+  {
+    "place_id": "107573587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "185318945",
+    "boundingbox": [
+      "-32.9225283",
+      "-32.9224738",
+      "-60.7492455",
+      "-60.7456505"
+    ],
+    "lat": "-32.9225035",
+    "lon": "-60.7469017",
+    "display_name": "French, Fisherton, Distrito Noroeste, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65650039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18394520",
+    "boundingbox": [
+      "38.707665",
+      "38.712121",
+      "-94.5200389",
+      "-94.5190569"
+    ],
+    "lat": "38.711328",
+    "lon": "-94.5198599",
+    "display_name": "French, Cass County, Missouri, 64078, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

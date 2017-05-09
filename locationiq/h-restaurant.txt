@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "54651493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4221746321",
+    "boundingbox": [
+      "45.5711977",
+      "45.5712977",
+      "-122.5541927",
+      "-122.5540927"
+    ],
+    "lat": "45.5712477",
+    "lon": "-122.5541427",
+    "display_name": "Restaurant, 10280, Northeast Cascades Parkway, Parkrose, Portland, Multnomah County, Oregon, 97220, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.6255656756044,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "52590499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3993891474",
+    "boundingbox": [
+      "43.7027642",
+      "43.7227642",
+      "-0.4542657",
+      "-0.4342657"
+    ],
+    "lat": "43.7127642",
+    "lon": "-0.4442657",
+    "display_name": "Le Restaurant, Fargues, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40500, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "89688998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114282489",
+    "boundingbox": [
+      "22.2775312",
+      "22.2777161",
+      "114.1621214",
+      "114.1623943"
+    ],
+    "lat": "22.2776237",
+    "lon": "114.162257847097",
+    "display_name": "restaurant, \u4e2d\u74b0 Central, \u9999\u6e2f Hong Kong, \u4e2d\u897f\u5340 Central and Western District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 2F, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.31
+  },
+  {
+    "place_id": "117520341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227078893",
+    "boundingbox": [
+      "-16.9940669",
+      "-16.9939359",
+      "-65.2493654",
+      "-65.2489852"
+    ],
+    "lat": "-16.99400275",
+    "lon": "-65.24917567284",
+    "display_name": "restaurant, Municipio Shinahota, Tiraque, CBA, Bolivia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.31
+  },
+  {
+    "place_id": "46546226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3314168421",
+    "boundingbox": [
+      "43.6930835",
+      "43.6931835",
+      "5.5046339",
+      "5.5047339"
+    ],
+    "lat": "43.6931335",
+    "lon": "5.5046839",
+    "display_name": "restaurant, Rue des Casements, Domaine de Tintaine, Les Arnauds, Pertuis, Apt, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84120, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26273338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2509618306",
+    "boundingbox": [
+      "52.3556036",
+      "52.3557036",
+      "4.8982833",
+      "4.8983833"
+    ],
+    "lat": "52.3556536",
+    "lon": "4.8983333",
+    "display_name": "Le Restaurant, 3, Tweede Jan Steenstraat, de Pijp, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1073 VK, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56693091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4417389112",
+    "boundingbox": [
+      "25.2753974",
+      "25.2754974",
+      "55.3047491",
+      "55.3048491"
+    ],
+    "lat": "25.2754474",
+    "lon": "55.3047991",
+    "display_name": "Restaurant, 16th Street, \u0627\u0644\u0631\u0627\u0633, Dubai, \u062f\u0628\u064a\u200e, 103711, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2647006486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3838769226",
+    "boundingbox": [
+      "-6.855155",
+      "-6.855055",
+      "39.2628102",
+      "39.2629102"
+    ],
+    "lat": "-6.855105",
+    "lon": "39.2628602",
+    "display_name": "Restaurant, Ndalala Street, Temeke, Dar es Salaam, Coastal, 78492, Tanzania",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2650595900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363889268",
+    "boundingbox": [
+      "45.8511401",
+      "45.8513361",
+      "-84.6243364",
+      "-84.6240884"
+    ],
+    "lat": "45.8512262",
+    "lon": "-84.6242123955563",
+    "display_name": "Restaurant, Cadotte Avenue, Four Corners, Mackinac Island, Mackinac County, Michigan, 49757, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2646258225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4550822790",
+    "boundingbox": [
+      "35.7449246",
+      "35.7450246",
+      "0.5574875",
+      "0.5575875"
+    ],
+    "lat": "35.7449746",
+    "lon": "0.5575375",
+    "display_name": "Restaurant, RN 4, Relizane, da\u00efra Relizane, Relizane - \u063a\u0644\u064a\u0632\u0627\u0646, 48000, RADP",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

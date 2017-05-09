@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "2933382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357316609",
+    "boundingbox": [
+      "44.126734",
+      "44.126834",
+      "-121.8570375",
+      "-121.8569375"
+    ],
+    "lat": "44.126784",
+    "lon": "-121.8569875",
+    "display_name": "The Husband, Lane County, Oregon, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "462556",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157643793",
+    "boundingbox": [
+      "40.0217436",
+      "40.0617436",
+      "-79.1216948",
+      "-79.0816948"
+    ],
+    "lat": "40.0417436",
+    "lon": "-79.1016948",
+    "display_name": "Husband, Somerset County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

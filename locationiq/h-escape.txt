@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "468264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158565172",
+    "boundingbox": [
+      "41.3356437",
+      "41.3756437",
+      "-75.3260134",
+      "-75.2860134"
+    ],
+    "lat": "41.3556437",
+    "lon": "-75.3060134",
+    "display_name": "The Escape, Pike County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8086303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "878632469",
+    "boundingbox": [
+      "37.381891",
+      "37.421891",
+      "-3.0311818",
+      "-2.9911818"
+    ],
+    "lat": "37.401891",
+    "lon": "-3.0111818",
+    "display_name": "El Escape, Granada, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "65534437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17761150",
+    "boundingbox": [
+      "45.228041",
+      "45.228924",
+      "-85.0263619",
+      "-85.0263609"
+    ],
+    "lat": "45.228041",
+    "lon": "-85.0263609",
+    "display_name": "Escape, Boyne City, Charlevoix County, Michigan, 49712, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "107024304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182935184",
+    "boundingbox": [
+      "19.4656417",
+      "19.4734792",
+      "-99.2226283",
+      "-99.219855"
+    ],
+    "lat": "19.468836",
+    "lon": "-99.2215043",
+    "display_name": "Escape, Naucalpan de Juarez, Ciudad Sat\u00e9lite, Naucalpan de Ju\u00e1rez, M\u00e9xico, 53530, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124759721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256671399",
+    "boundingbox": [
+      "38.7904817",
+      "38.7909458",
+      "-120.0878701",
+      "-120.0871459"
+    ],
+    "lat": "38.7904817",
+    "lon": "-120.0878701",
+    "display_name": "Escape, Phillips, El Dorado County, California, 95721, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "135996261",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314500471",
+    "boundingbox": [
+      "38.6364894",
+      "38.6385588",
+      "-109.6532989",
+      "-109.6515843"
+    ],
+    "lat": "38.6376983",
+    "lon": "-109.6520136",
+    "display_name": "Escape, Grand County, Utah, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "82676463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82668993",
+    "boundingbox": [
+      "50.6489695",
+      "50.6498888",
+      "-120.3374474",
+      "-120.3356769"
+    ],
+    "lat": "50.6497371",
+    "lon": "-120.3367056",
+    "display_name": "Escape, Upper Sahali, City of Kamloops, Thompson-Nicola Regional District, British Columbia, V2E 2N8, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "93680226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "128222230",
+    "boundingbox": [
+      "50.648864",
+      "50.649573",
+      "-120.3381425",
+      "-120.3351779"
+    ],
+    "lat": "50.649438",
+    "lon": "-120.3366859",
+    "display_name": "Escape, Upper Sahali, City of Kamloops, Thompson-Nicola Regional District, British Columbia, V2E 1Z8, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "146491120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372144503",
+    "boundingbox": [
+      "48.2172722",
+      "48.2181992",
+      "-122.7456828",
+      "-122.7428015"
+    ],
+    "lat": "48.2175585",
+    "lon": "-122.7442171",
+    "display_name": "Escape, San de Fuca, Island County, Washington, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55246642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4281500489",
+    "boundingbox": [
+      "11.9441875",
+      "11.9442875",
+      "108.4370891",
+      "108.4371891"
+    ],
+    "lat": "11.9442375",
+    "lon": "108.4371391",
+    "display_name": "escape, Phan B\u1ed9i Ch\u00e2u, \u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng, 670000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

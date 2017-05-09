@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "396628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153355161",
+    "boundingbox": [
+      "35.8236871",
+      "35.8636871",
+      "-89.7611915",
+      "-89.7211915"
+    ],
+    "lat": "35.8436871",
+    "lon": "-89.7411915",
+    "display_name": "Tomato, Mississippi County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149858453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388865794",
+    "boundingbox": [
+      "32.7035901",
+      "32.7039647",
+      "130.6406936",
+      "130.6410852"
+    ],
+    "lat": "32.7037774",
+    "lon": "130.6408894",
+    "display_name": "\u30c8\u30de\u30c8, \u5b87\u571f\u5e02, \u516b\u4ee3\u90e1 (Yatsushiro), \u718a\u672c\u770c, \u65e5\u672c",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647762040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4584825392",
+    "boundingbox": [
+      "20.4828505",
+      "20.4829505",
+      "96.9116585",
+      "96.9117585"
+    ],
+    "lat": "20.4829005",
+    "lon": "96.9117085",
+    "display_name": "tomato, \u100a\u1031\u102c\u1004\u103a\u101b\u103d\u103e\u1031, Taunggyi, Shan State (South), Shan State, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "22913653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2280750880",
+    "boundingbox": [
+      "45.8178917",
+      "45.8179917",
+      "15.9761329",
+      "15.9762329"
+    ],
+    "lat": "45.8179417",
+    "lon": "15.9761829",
+    "display_name": "Tomato, 63, Ulica Ivana Tkal\u010di\u0107a, Gornji Grad, Gornji Grad - Medve\u0161\u010dak, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "7140732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "769127537",
+    "boundingbox": [
+      "41.7624589",
+      "41.7625589",
+      "44.7759095",
+      "44.7760095"
+    ],
+    "lat": "41.7625089",
+    "lon": "44.7759595",
+    "display_name": "Tomato, \u10d4\u10d5\u10d2\u10d4\u10dc\u10d8 \u10db\u10d8\u10e5\u10d4\u10da\u10d0\u10eb\u10d8\u10e1 \u10e5\u10e3\u10e9\u10d0, \u10d3\u10d8\u10e6\u10dd\u10db\u10d8\u10e1 \u10db\u10d0\u10e1\u10d8\u10d5\u10d8, \u10d3\u10d8\u10d3\u10e3\u10d1\u10d4-\u10e9\u10e3\u10e6\u10e3\u10e0\u10d4\u10d7\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8, \u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8, 0159, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2650807589",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4652155170",
+    "boundingbox": [
+      "64.1479305",
+      "64.1480305",
+      "-21.9420097",
+      "-21.9419097"
+    ],
+    "lat": "64.1479805",
+    "lon": "-21.9419597",
+    "display_name": "Tomato, 8, Brattagata, Mi\u00f0b\u00e6r, Reykjav\u00edk, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 101, \u00cdsland",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2650673996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4646763779",
+    "boundingbox": [
+      "34.1468915",
+      "34.1469915",
+      "-118.1479597",
+      "-118.1478597"
+    ],
+    "lat": "34.1469415",
+    "lon": "-118.1479097",
+    "display_name": "Tomato, 119, East Union Street, Pasadena, Los Angeles County, California, 91103, United States of America",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27314117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2588348036",
+    "boundingbox": [
+      "51.4488078",
+      "51.4489078",
+      "7.9672506",
+      "7.9673506"
+    ],
+    "lat": "51.4488578",
+    "lon": "7.9673006",
+    "display_name": "Tomato, 8, Stembergstra\u00dfe, M\u00fcggenberg, Rusch, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59755, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "127360754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "270097240",
+    "boundingbox": [
+      "52.4439563",
+      "52.4440292",
+      "15.5815113",
+      "15.5816115"
+    ],
+    "lat": "52.4439928",
+    "lon": "15.5815614279632",
+    "display_name": "TOMATO, 30 Stycznia, Centrum, Mi\u0119dzyrzecz, gmina Mi\u0119dzyrzecz, powiat mi\u0119dzyrzecki, lubuskie, 66-300, Polska",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "20428096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2035483978",
+    "boundingbox": [
+      "11.9507042",
+      "11.9508042",
+      "108.453645",
+      "108.453745"
+    ],
+    "lat": "11.9507542",
+    "lon": "108.453695",
+    "display_name": "Tomato, S\u01b0\u01a1ng Nguy\u1ec7t \u00c1nh, \u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng, 61000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

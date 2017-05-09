@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "56041494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4347968920",
+    "boundingbox": [
+      "44.8237807",
+      "44.8637807",
+      "0.9281117",
+      "0.9681117"
+    ],
+    "lat": "44.8437807",
+    "lon": "0.9481117",
+    "display_name": "Coux-et-Bigaroque, Le Single, Sarlat-la-Can\u00e9da, Dordogne, Nouvelle-Aquitaine, 24220, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13744868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243281518",
+    "boundingbox": [
+      "40.2918751",
+      "40.3118751",
+      "0.0279137",
+      "0.0479137"
+    ],
+    "lat": "40.3018751",
+    "lon": "0.0379137",
+    "display_name": "Single, la Serratella, Plana Alta, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13594366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243232758",
+    "boundingbox": [
+      "40.3884178",
+      "40.4084178",
+      "-0.1190723",
+      "-0.0990723"
+    ],
+    "lat": "40.3984178",
+    "lon": "-0.1090723",
+    "display_name": "El Single, Ares del Maestrat, Alt Maestrat, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13597504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243232911",
+    "boundingbox": [
+      "40.2460774",
+      "40.2660774",
+      "-0.001301",
+      "0.018699"
+    ],
+    "lat": "40.2560774",
+    "lon": "0.008699",
+    "display_name": "El Single, Sierra Engarcer\u00e1n, Plana Alta, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "116137474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221540330",
+    "boundingbox": [
+      "37.4289291",
+      "37.4322239",
+      "-119.6438438",
+      "-119.6397424"
+    ],
+    "lat": "37.4305521",
+    "lon": "-119.6414888",
+    "display_name": "Single, Sugar Pine, Madera County, California, 93623, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "131491352",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293981173",
+    "boundingbox": [
+      "43.4703501",
+      "43.4728472",
+      "5.4358267",
+      "5.4404992"
+    ],
+    "lat": "43.4715158",
+    "lon": "5.4373791",
+    "display_name": "Single, Luynes, Aix-en-Provence, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13080, France",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2610705962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454728408",
+    "boundingbox": [
+      "38.787938",
+      "38.7897747",
+      "-9.2776719",
+      "-9.2764462"
+    ],
+    "lat": "38.7889387",
+    "lon": "-9.2770117",
+    "display_name": "Single, Casal da Carregueira, Belas, Queluz e Belas, Sintra, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, Portugal",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "22475072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2214754957",
+    "boundingbox": [
+      "51.91187",
+      "51.91197",
+      "4.454176",
+      "4.454276"
+    ],
+    "lat": "51.91192",
+    "lon": "4.454226",
+    "display_name": "Single, 360B, Nieuwe Binnenweg, Nieuwe Westen, Rotterdam, MRDH, Zuid-Holland, Nederland, 3023ES, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "128349472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "277268011",
+    "boundingbox": [
+      "33.5993375",
+      "33.5997021",
+      "130.3873139",
+      "130.3878339"
+    ],
+    "lat": "33.59954195",
+    "lon": "130.387598203086",
+    "display_name": "SINGLE, 1, \u5929\u795e\u5317\u30e9\u30f3\u30d7 Tenjin-kita Exit, \u5929\u795e, \u4e2d\u592e\u533a, \u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, 8100022, \u65e5\u672c",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73426124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35284766",
+    "boundingbox": [
+      "48.6203748",
+      "48.6205874",
+      "9.359888",
+      "9.3603344"
+    ],
+    "lat": "48.62048045",
+    "lon": "9.36011126606434",
+    "display_name": "Single, 1, Liebigweg, Rieth, Ro\u00dfdorf, N\u00fcrtingen, Vereinbarte Verwaltungsgemeinschaft der Stadt N\u00fcrtingen, Landkreis Esslingen, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 72622, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

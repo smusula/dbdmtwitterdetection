@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160701910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3698894",
+    "boundingbox": [
+      "40.7778676",
+      "40.7809012",
+      "-73.9651393",
+      "-73.9617007"
+    ],
+    "lat": "40.77944365",
+    "lon": "-73.9633640138519",
+    "display_name": "The Met, 1000, 5th Avenue, Central Park, Manhattan, New York County, NYC, New York, 10035, United States of America",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.65436582628478,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "160412739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1305166",
+    "boundingbox": [
+      "1.6012501",
+      "4.9251379",
+      "-74.9339282",
+      "-71.0774068"
+    ],
+    "lat": "3.5000086",
+    "lon": "-73.0000085",
+    "display_name": "Meta, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48241866325719,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160902221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5831721",
+    "boundingbox": [
+      "18.3630701",
+      "19.0047692",
+      "101.567888",
+      "102.1123616"
+    ],
+    "lat": "18.6832102",
+    "lon": "101.90560327986",
+    "display_name": "\u0ec1\u0ea1\u0e94, \u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "5898996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "598575946",
+    "boundingbox": [
+      "45.700324",
+      "45.740324",
+      "1.8233774",
+      "1.8633774"
+    ],
+    "lat": "45.720324",
+    "lon": "1.8433774",
+    "display_name": "Le Met, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "135363136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "312100608",
+    "boundingbox": [
+      "50.6531179",
+      "50.6540712",
+      "5.6277933",
+      "5.6310831"
+    ],
+    "lat": "50.6537034",
+    "lon": "5.62949019663849",
+    "display_name": "MET, Jupille-sur-Meuse, Li\u00e8ge, Wallonie, 4020, Belgi\u00eb - Belgique - Belgien",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160618596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3092302",
+    "boundingbox": [
+      "-33.8564222",
+      "-33.8549216",
+      "18.509025",
+      "18.5110318"
+    ],
+    "lat": "-33.85587155",
+    "lon": "18.509847180132",
+    "display_name": "The Met, Cape Town Ward 4, Cape Town, City of Cape Town, Western Cape, 2251, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "97555852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145180565",
+    "boundingbox": [
+      "51.9105065",
+      "51.9192148",
+      "4.1921373",
+      "4.2046549"
+    ],
+    "lat": "51.91485065",
+    "lon": "4.19771682808097",
+    "display_name": "MET, Europoort Rotterdam, Rotterdam, MRDH, Zuid-Holland, Nederland, 3231ND, Nederland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "51621610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3869064109",
+    "boundingbox": [
+      "15.6693164",
+      "15.7093164",
+      "105.9991833",
+      "106.0391833"
+    ],
+    "lat": "15.6893164",
+    "lon": "106.0191833",
+    "display_name": "\u0ec1\u0ea1\u0e94, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0ea7\u0eb2\u0e9b, \u0eaa\u0eb2\u0ea5\u0eb0\u0ea7\u0eb1\u0e99, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46397963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3329033642",
+    "boundingbox": [
+      "14.4090563",
+      "14.4490563",
+      "-16.1381513",
+      "-16.0981513"
+    ],
+    "lat": "14.4290563",
+    "lon": "-16.1181513",
+    "display_name": "M\u00e9t, Fatick, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "97295404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143823043",
+    "boundingbox": [
+      "53.5930394",
+      "53.593267",
+      "-2.2973557",
+      "-2.2969948"
+    ],
+    "lat": "53.5931557",
+    "lon": "-2.29716281449925",
+    "display_name": "The Met, Haymarket Street, Buckley Wells, Bury, Greater Manchester, North West England, England, BL9 0DA, UK",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.26679990974024,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

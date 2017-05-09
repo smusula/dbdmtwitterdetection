@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "2654979235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4752763737",
+    "boundingbox": [
+      "34.060244",
+      "34.060344",
+      "-117.5872898",
+      "-117.5871898"
+    ],
+    "lat": "34.060294",
+    "lon": "-117.5872398",
+    "display_name": "Security, Ontario, San Bernardino County, California, United States of America",
+    "class": "waterway",
+    "type": "lock_gate",
+    "importance": 0.425
+  },
+  {
+    "place_id": "366939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151567927",
+    "boundingbox": [
+      "30.3079883",
+      "30.3479883",
+      "-95.2593804",
+      "-95.2193804"
+    ],
+    "lat": "30.3279883",
+    "lon": "-95.2393804",
+    "display_name": "Security, Montgomery County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "476485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158635906",
+    "boundingbox": [
+      "39.6312072",
+      "39.6712072",
+      "-77.7108258",
+      "-77.6708258"
+    ],
+    "lat": "39.6512072",
+    "lon": "-77.6908258",
+    "display_name": "Security, Washington County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "356364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151593132",
+    "boundingbox": [
+      "38.7383288",
+      "38.7783288",
+      "-104.7630277",
+      "-104.7230277"
+    ],
+    "lat": "38.7583288",
+    "lon": "-104.7430277",
+    "display_name": "Security, El Paso County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "378250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151842328",
+    "boundingbox": [
+      "31.5143401",
+      "31.5543401",
+      "-91.8365148",
+      "-91.7965148"
+    ],
+    "lat": "31.5343401",
+    "lon": "-91.8165148",
+    "display_name": "Security, Catahoula Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "71075123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28341303",
+    "boundingbox": [
+      "14.7631643",
+      "14.7654557",
+      "121.0263441",
+      "121.027889"
+    ],
+    "lat": "14.7647419",
+    "lon": "121.0263698",
+    "display_name": "Security, Bankers Village, Caloocan, Metro Manila, 1421, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "83170391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87234472",
+    "boundingbox": [
+      "49.2791322",
+      "49.2793572",
+      "-122.9204824",
+      "-122.9201894"
+    ],
+    "lat": "49.2792469",
+    "lon": "-122.920342578956",
+    "display_name": "Security, Gaglardi Way, Barnet, Burnaby, Greater Vancouver Regional District, British Columbia, V3J3Z8, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56410203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4415512448",
+    "boundingbox": [
+      "38.8843588",
+      "38.8844588",
+      "-77.1019631",
+      "-77.1018631"
+    ],
+    "lat": "38.8844088",
+    "lon": "-77.1019131",
+    "display_name": "Security, Fairfax Drive, Virginia Square, Arlington, Arlington County, Virginia, 22201, United States of America",
+    "class": "military",
+    "type": "checkpoint",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654696665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481765945",
+    "boundingbox": [
+      "51.4530627",
+      "51.453121",
+      "-1.2822489",
+      "-1.2820937"
+    ],
+    "lat": "51.45309185",
+    "lon": "-1.2821713",
+    "display_name": "Security, Crabtree Lane, Chieveley CP, Hermitage, West Berkshire, South East, England, RG18, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649276753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "467166064",
+    "boundingbox": [
+      "50.3922604",
+      "50.3922914",
+      "30.4710777",
+      "30.4711124"
+    ],
+    "lat": "50.39227595",
+    "lon": "30.471095044253",
+    "display_name": "Security, \u041f\u0440\u0430\u043a\u0442\u0438\u0447\u043d\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u043e\u0432\u043a\u0438, \u0421\u043e\u043b\u043e\u043c\u2019\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 03022, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

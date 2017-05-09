@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "3244347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358706029",
+    "boundingbox": [
+      "30.6632618",
+      "31.3032618",
+      "-83.3487554",
+      "-82.7087554"
+    ],
+    "lat": "30.9832618",
+    "lon": "-83.0287554",
+    "display_name": "The Rocks, Lanier County, Georgia, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2964908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357787408",
+    "boundingbox": [
+      "33.9345685",
+      "33.9346685",
+      "-77.9544818",
+      "-77.9543818"
+    ],
+    "lat": "33.9346185",
+    "lon": "-77.9544318",
+    "display_name": "The Rocks, Brunswick County, North Carolina, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2610404160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4505089750",
+    "boundingbox": [
+      "34.0633388",
+      "34.0634388",
+      "-118.5196273",
+      "-118.5195273"
+    ],
+    "lat": "34.0633888",
+    "lon": "-118.5195773",
+    "display_name": "rocks, LA, Los Angeles County, California, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.41,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "46525008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3310867563",
+    "boundingbox": [
+      "-41.3723492",
+      "-41.3722492",
+      "173.3455096",
+      "173.3456096"
+    ],
+    "lat": "-41.3722992",
+    "lon": "173.3455596",
+    "display_name": "The Rocks, Nelson, New Zealand/Aotearoa",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "74742234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38570877",
+    "boundingbox": [
+      "43.4780071",
+      "43.4788541",
+      "-73.6688499",
+      "-73.6685581"
+    ],
+    "lat": "43.4784306",
+    "lon": "-73.6687041109607",
+    "display_name": "Rocks, Town of Bolton, Warren County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3071405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358270320",
+    "boundingbox": [
+      "42.4083717",
+      "42.4084717",
+      "-72.6370841",
+      "-72.6369841"
+    ],
+    "lat": "42.4084217",
+    "lon": "-72.6370341",
+    "display_name": "The Rocks, Hatfield, Hampshire County, Massachusetts, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2667477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356587042",
+    "boundingbox": [
+      "37.960922",
+      "37.961022",
+      "-78.9003506",
+      "-78.9002506"
+    ],
+    "lat": "37.960972",
+    "lon": "-78.9003006",
+    "display_name": "The Rocks, Augusta County, Virginia, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "3261996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "359273996",
+    "boundingbox": [
+      "34.4233111",
+      "34.4234111",
+      "-111.7313079",
+      "-111.7312079"
+    ],
+    "lat": "34.4233611",
+    "lon": "-111.7312579",
+    "display_name": "The Rocks, Yavapai County, Arizona, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "3261873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358907163",
+    "boundingbox": [
+      "40.9354899",
+      "40.9355899",
+      "-103.4519286",
+      "-103.4518286"
+    ],
+    "lat": "40.9355399",
+    "lon": "-103.4518786",
+    "display_name": "The Rocks, Logan County, Colorado, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2624946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356674556",
+    "boundingbox": [
+      "39.2999206",
+      "39.3000206",
+      "-110.8099352",
+      "-110.8098352"
+    ],
+    "lat": "39.2999706",
+    "lon": "-110.8098852",
+    "display_name": "The Rocks, Emery County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

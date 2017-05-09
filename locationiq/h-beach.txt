@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "1429419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "326247750",
+    "boundingbox": [
+      "43.6709744",
+      "43.6710744",
+      "-79.2967619",
+      "-79.2966619"
+    ],
+    "lat": "43.6710244",
+    "lon": "-79.2967119",
+    "display_name": "The Beaches, Old Toronto, Toronto, Ontario, M4L1J2, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.51170570333501
+  },
+  {
+    "place_id": "160290138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "181448",
+    "boundingbox": [
+      "46.904813",
+      "46.927163",
+      "-104.0288209",
+      "-103.9865499"
+    ],
+    "lat": "46.9180689",
+    "lon": "-104.0043727",
+    "display_name": "Beach, Golden Valley County, North Dakota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45860537099289,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2799794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357276280",
+    "boundingbox": [
+      "39.4771821",
+      "40.1171821",
+      "-76.6110991",
+      "-75.9710991"
+    ],
+    "lat": "39.7971821",
+    "lon": "-76.2910991",
+    "display_name": "Beach, Lancaster County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "364704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151489220",
+    "boundingbox": [
+      "30.2999322",
+      "30.3399322",
+      "-95.4413283",
+      "-95.4013283"
+    ],
+    "lat": "30.3199322",
+    "lon": "-95.4213283",
+    "display_name": "Beach, Montgomery County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "351767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151501848",
+    "boundingbox": [
+      "37.4111559",
+      "37.4511559",
+      "-92.9790681",
+      "-92.9390681"
+    ],
+    "lat": "37.4311559",
+    "lon": "-92.9590681",
+    "display_name": "Beach, Webster County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "410032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153911706",
+    "boundingbox": [
+      "31.4200457",
+      "31.4600457",
+      "-82.5236595",
+      "-82.4836595"
+    ],
+    "lat": "31.4400457",
+    "lon": "-82.5036595",
+    "display_name": "Beach, Ware County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "408167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153679303",
+    "boundingbox": [
+      "32.4765294",
+      "32.5165294",
+      "-89.6750731",
+      "-89.6350731"
+    ],
+    "lat": "32.4965294",
+    "lon": "-89.6550731",
+    "display_name": "Beach, Scott County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "341560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150950252",
+    "boundingbox": [
+      "48.6959399",
+      "48.7359399",
+      "-122.7037907",
+      "-122.6637907"
+    ],
+    "lat": "48.7159399",
+    "lon": "-122.6837907",
+    "display_name": "Beach, Whatcom County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160110374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447340200",
+    "boundingbox": [
+      "37.4870922",
+      "37.4889619",
+      "71.521712",
+      "71.5251258"
+    ],
+    "lat": "37.4876017",
+    "lon": "71.5234085180638",
+    "display_name": "beach, \u0425\u043e\u0440\u0443\u0493, \u041d\u043e\u04b3\u0438\u044f\u0438 \u0428\u0443\u0493\u043d\u043e\u043d, \u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u041c\u0443\u0445\u0442\u043e\u0440\u0438 \u041a\u04ef\u04b3\u0438\u0441\u0442\u043e\u043d\u0438 \u0411\u0430\u0434\u0430\u0445\u0448\u043e\u043d, \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.36,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160948226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5972104",
+    "boundingbox": [
+      "51.6661534",
+      "51.6790857",
+      "-9.498852",
+      "-9.4743331"
+    ],
+    "lat": "51.67259705",
+    "lon": "-9.48509516272879",
+    "display_name": "Beach, Bantry Rural, West Cork, County Cork, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "77976245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51722271",
+    "boundingbox": [
+      "40.458374",
+      "40.4587834",
+      "-106.8032251",
+      "-106.8006898"
+    ],
+    "lat": "40.4587834",
+    "lon": "-106.8006898",
+    "display_name": "Preview, Ski Time Square Drive, Steamboat Springs, Routt County, Colorado, 80487, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46852501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3391756721",
+    "boundingbox": [
+      "-36.9107905",
+      "-36.9106905",
+      "174.7750415",
+      "174.7751415"
+    ],
+    "lat": "-36.9107405",
+    "lon": "174.7750915",
+    "display_name": "Preview, Manukau Road, Royal Oak, Maungakiekie-Tamaki, Auckland, 1061, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

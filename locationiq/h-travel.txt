@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": "2646807355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460688260",
+    "boundingbox": [
+      "29.679129",
+      "29.6794617",
+      "-95.4780435",
+      "-95.4780091"
+    ],
+    "lat": "29.67929525",
+    "lon": "-95.478026600406",
+    "display_name": "Travel, Caversham Drive, Houston, Harris County, Texas, 77096, United States of America",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645904554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "458167131",
+    "boundingbox": [
+      "-34.9051891",
+      "-34.9050912",
+      "-56.1375853",
+      "-56.1373492"
+    ],
+    "lat": "-34.90514015",
+    "lon": "-56.13746725",
+    "display_name": "Travel, Avenida Luis Alberto de Herrera, Villa Dolores, Pocitos, Montevideo, 11300, Uruguay",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55997116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4370033084",
+    "boundingbox": [
+      "52.4346458",
+      "52.4347458",
+      "30.9997246",
+      "30.9998246"
+    ],
+    "lat": "52.4346958",
+    "lon": "30.9997746",
+    "display_name": "Travel, 3, \u0412\u0435\u0442\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u0413\u043e\u043c\u0435\u043b\u044c, \u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 246022, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "119462073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234407574",
+    "boundingbox": [
+      "12.0525236",
+      "12.0529103",
+      "-61.7496904",
+      "-61.7494655"
+    ],
+    "lat": "12.05272715",
+    "lon": "-61.7495371873592",
+    "display_name": "Travel, Hughes Street, Belmont, St. George's, 1473, Grenada",
+    "class": "office",
+    "type": "guide",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40607413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2987216035",
+    "boundingbox": [
+      "15.877636",
+      "15.877736",
+      "108.33118",
+      "108.33128"
+    ],
+    "lat": "15.877686",
+    "lon": "108.33123",
+    "display_name": "Le Travel, 24, Nguy\u1ec5n Hu\u1ec7, H\u1ed9i An, C\u1ea9m Nam, H\u1ed9i An, T\u1ec9nh Qu\u1ea3ng Nam, 0510, Vi\u1ec7t Nam",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648461304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4600327180",
+    "boundingbox": [
+      "-34.47934",
+      "-34.47924",
+      "-58.493809",
+      "-58.493709"
+    ],
+    "lat": "-34.47929",
+    "lon": "-58.493759",
+    "display_name": "Travel, Avenida del Libertador, Mart\u00ednez, Partido de San Isidro, Bs. As., B1640HQB, Argentina",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "104867882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173818929",
+    "boundingbox": [
+      "-5.4631639",
+      "-5.4630818",
+      "122.6001792",
+      "122.600256"
+    ],
+    "lat": "-5.46312285",
+    "lon": "122.6002176",
+    "display_name": "Travel, Jalan Betoambari, Katobengke, Sulawesi Tenggara, 93725, Indonesia",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

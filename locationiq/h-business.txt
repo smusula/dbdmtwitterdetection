@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160465961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1960033",
+    "boundingbox": [
+      "50.0501473",
+      "50.0753147",
+      "2.948223",
+      "2.9848639"
+    ],
+    "lat": "50.0645843",
+    "lon": "2.9646497",
+    "display_name": "Bus, Arras, Pas-de-Calais, Hauts-de-France, 62124, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40545343654463,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160350681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "442226",
+    "boundingbox": [
+      "49.7829405",
+      "49.8151334",
+      "14.3617212",
+      "14.4126588"
+    ],
+    "lat": "49.8031656",
+    "lon": "14.3836446",
+    "display_name": "Bu\u0161, okres Praha-z\u00e1pad, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37918864804464,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160328566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "407501",
+    "boundingbox": [
+      "49.5304813",
+      "49.582844",
+      "6.291895",
+      "6.355383"
+    ],
+    "lat": "49.5557996",
+    "lon": "6.3312468",
+    "display_name": "Bous, Canton Remich, L\u00ebtzebuerg",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37629070643744,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81130832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "73003528",
+    "boundingbox": [
+      "46.2206751",
+      "46.2357908",
+      "13.1213179",
+      "13.1726464"
+    ],
+    "lat": "46.2242974",
+    "lon": "13.1477879",
+    "display_name": "Rio Bosso, Artegna, UD, FVG, Italia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "81097150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "73003550",
+    "boundingbox": [
+      "46.2282428",
+      "46.2283877",
+      "13.1726464",
+      "13.1729122"
+    ],
+    "lat": "46.2282428",
+    "lon": "13.1726464",
+    "display_name": "Rio Bosso, Magnano in Riviera, UD, FVG, Italia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "75861572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43133874",
+    "boundingbox": [
+      "52.4556861",
+      "52.4557858",
+      "9.8023713",
+      "9.8026423"
+    ],
+    "lat": "52.4557858",
+    "lon": "9.8026423",
+    "display_name": "Bues, Isernhagen, Region Hannover, Niedersachsen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "19443938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1927215677",
+    "boundingbox": [
+      "49.276874",
+      "49.316874",
+      "-1.3559675",
+      "-1.3159675"
+    ],
+    "lat": "49.296874",
+    "lon": "-1.3359675",
+    "display_name": "Le Bus, Saint-L\u00f4, Manche, Normandie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6465614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "666736279",
+    "boundingbox": [
+      "46.0730079",
+      "46.1130079",
+      "11.2580764",
+      "11.2980764"
+    ],
+    "lat": "46.0930079",
+    "lon": "11.2780764",
+    "display_name": "Bus, Comunit\u00e0 Alta Valsugana e Bersntol, TN, TAA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1317396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "305268392",
+    "boundingbox": [
+      "45.7766024",
+      "45.8166024",
+      "10.9444181",
+      "10.9844181"
+    ],
+    "lat": "45.7966024",
+    "lon": "10.9644181",
+    "display_name": "Bus, Comunit\u00e0 della Vallagarina, TN, TAA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2645079139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "43178503",
+    "boundingbox": [
+      "51.5763609",
+      "51.6163609",
+      "5.4777375",
+      "5.5177375"
+    ],
+    "lat": "51.5963609",
+    "lon": "5.4977375",
+    "display_name": "Bus, Noord-Brabant, Nederland, 5466, Nederland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

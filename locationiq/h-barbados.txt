@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160353412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "547511",
+    "boundingbox": [
+      "12.845",
+      "13.535",
+      "-59.8562114",
+      "-59.2147174"
+    ],
+    "lat": "13.1500331",
+    "lon": "-59.5250304",
+    "display_name": "Barbados",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.77678524157887,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "46114304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3266910021",
+    "boundingbox": [
+      "-25.4018202",
+      "-25.3618202",
+      "-48.2441329",
+      "-48.2041329"
+    ],
+    "lat": "-25.3818202",
+    "lon": "-48.2241329",
+    "display_name": "Barbados, Microrregi\u00e3o de Paranagu\u00e1, Mesorregi\u00e3o Metropolitana de Curitiba, PR, Regi\u00e3o Sul, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3877710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "416656760",
+    "boundingbox": [
+      "-19.5380037",
+      "-19.4980037",
+      "-40.5986067",
+      "-40.5586067"
+    ],
+    "lat": "-19.5180037",
+    "lon": "-40.5786067",
+    "display_name": "Colatina, Barbados, Microrregi\u00e3o Colatina, Mesorregi\u00e3o Noroeste Esp\u00edrito-Santense, ES, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160460750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1920371",
+    "boundingbox": [
+      "-19.5325877",
+      "-19.5140885",
+      "-40.6033465",
+      "-40.5665201"
+    ],
+    "lat": "-19.5248147",
+    "lon": "-40.5823625",
+    "display_name": "Barbados, Colatina, Microrregi\u00e3o Colatina, Mesorregi\u00e3o Noroeste Esp\u00edrito-Santense, ES, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17012633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1594593675",
+    "boundingbox": [
+      "55.5766116",
+      "55.5966116",
+      "-2.4204402",
+      "-2.4004402"
+    ],
+    "lat": "55.5866116",
+    "lon": "-2.4104402",
+    "display_name": "Barbadoes, Proctor's Smithy, Scottish Borders, Scotland, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "103575028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169348939",
+    "boundingbox": [
+      "-33.044819",
+      "-33.0446122",
+      "-71.6488802",
+      "-71.6484291"
+    ],
+    "lat": "-33.044819",
+    "lon": "-71.6484291",
+    "display_name": "Barbados, Cerro Chaparro, Valpara\u00edso, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, 32, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "122751174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248390387",
+    "boundingbox": [
+      "-31.4797401",
+      "-31.4776841",
+      "-64.2481516",
+      "-64.2456704"
+    ],
+    "lat": "-31.4784969",
+    "lon": "-64.2466299",
+    "display_name": "Barbados, H\u00e9roes de Malvinas, Amp.Vicor, C\u00f3rdoba, Departamento Capital, Cba., X5017LAV, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "152371511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "403649502",
+    "boundingbox": [
+      "-31.4755725",
+      "-31.4742752",
+      "-64.243114",
+      "-64.2415007"
+    ],
+    "lat": "-31.4745931",
+    "lon": "-64.2418789",
+    "display_name": "Barbados, H\u00e9roes de Malvinas, Santa Isabel Anexo, C\u00f3rdoba, Departamento Capital, Cba., X5017LAV, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "154076800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "413950856",
+    "boundingbox": [
+      "-31.481523",
+      "-31.4797401",
+      "-64.2503018",
+      "-64.2481516"
+    ],
+    "lat": "-31.481523",
+    "lon": "-64.2503018",
+    "display_name": "Barbados, H\u00e9roes de Malvinas, San Luis de Francia, C\u00f3rdoba, Departamento Capital, Cba., X5017LAV, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61493982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11237691",
+    "boundingbox": [
+      "27.9646134",
+      "27.9658969",
+      "-82.7191262",
+      "-82.7189394"
+    ],
+    "lat": "27.9657631",
+    "lon": "-82.7189402",
+    "display_name": "Barbados, Bayside Arbors, Clearwater, Pinellas County, Florida, 33764, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

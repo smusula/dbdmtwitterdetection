@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "47565118",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3460438601",
+    "boundingbox": [
+      "51.4701988",
+      "51.4702988",
+      "-0.1719971",
+      "-0.1718971"
+    ],
+    "lat": "51.4702488",
+    "lon": "-0.1719471",
+    "display_name": "Facade, 156, Battersea High Street, Battersea, London Borough of Wandsworth, London, Greater London, England, SW11 3JR, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2647804692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82520342",
+    "boundingbox": [
+      "45.5475203",
+      "45.5476395",
+      "3.7454213",
+      "3.7459289"
+    ],
+    "lat": "45.54758855",
+    "lon": "3.74567543798583",
+    "display_name": "La Fa\u00e7ade, 11, Rue Blaise Pascal, Ambert, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 63600, France",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  }
+]

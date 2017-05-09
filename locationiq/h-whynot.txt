@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "23877885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2357547611",
+    "boundingbox": [
+      "47.6690351",
+      "47.7090351",
+      "-96.9383834",
+      "-96.8983834"
+    ],
+    "lat": "47.6890351",
+    "lon": "-96.9183834",
+    "display_name": "Whynot, Grand Forks County, North Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26945669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2550051091",
+    "boundingbox": [
+      "40.7338279",
+      "40.7339279",
+      "-74.000487",
+      "-74.000387"
+    ],
+    "lat": "40.7338779",
+    "lon": "-74.000437",
+    "display_name": "Whynot, 14, Christopher Street, Greenwich Village, Manhattan, New York County, NYC, New York, 10014, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "24982070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2415446250",
+    "boundingbox": [
+      "55.9535353",
+      "55.9536353",
+      "-3.1956272",
+      "-3.1955272"
+    ],
+    "lat": "55.9535853",
+    "lon": "-3.1955772",
+    "display_name": "Whynot, 14, George Street, Bellevue, New Town, Edinburgh, City of Edinburgh, Scotland, EH2 2PF, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "98265378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148391194",
+    "boundingbox": [
+      "51.5163046",
+      "51.5164349",
+      "-0.120413",
+      "-0.1202116"
+    ],
+    "lat": "51.51636465",
+    "lon": "-0.120313171845771",
+    "display_name": "Whynot!, 60, Parker Street, Holborn, St Giles, London Borough of Camden, London, Greater London, England, WC2B 5PZ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608352996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4456592039",
+    "boundingbox": [
+      "-1.2612049",
+      "-1.2611049",
+      "36.8622445",
+      "36.8623445"
+    ],
+    "lat": "-1.2611549",
+    "lon": "36.8622945",
+    "display_name": "Whynot, Juja Road, Kariobangi, Nairobi, 00611, Kenya",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "2610195358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4500098190",
+    "boundingbox": [
+      "-1.2612805",
+      "-1.2611805",
+      "36.8622495",
+      "36.8623495"
+    ],
+    "lat": "-1.2612305",
+    "lon": "36.8622995",
+    "display_name": "Whynot, Juja Road, Kariobangi, Nairobi, 00611, Kenya",
+    "class": "amenity",
+    "type": "drinking_water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52586054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3951497368",
+    "boundingbox": [
+      "64.5363379",
+      "64.5364379",
+      "40.5192427",
+      "40.5193427"
+    ],
+    "lat": "64.5363879",
+    "lon": "40.5192927",
+    "display_name": "Whynot, 58, \u0422\u0440\u043e\u0438\u0446\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 163061, \u0420\u0424",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "82537862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81622905",
+    "boundingbox": [
+      "52.4541183",
+      "52.4543102",
+      "-2.0907253",
+      "-2.0905063"
+    ],
+    "lat": "52.4542033",
+    "lon": "-2.09061124905914",
+    "display_name": "The Whynot, Whynot Street, Wynall, Cradley, Dudley, West Midlands, England, B63, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

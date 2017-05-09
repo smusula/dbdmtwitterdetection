@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "160264489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "116809",
+    "boundingbox": [
+      "43.5595333",
+      "43.601131",
+      "-1.3384167",
+      "-1.1983963"
+    ],
+    "lat": "43.5815313",
+    "lon": "-1.2699075",
+    "display_name": "Saint-Martin-de-Hinx, Dax, Landes, Nouvelle-Aquitaine, 40390, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51654892888843,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "84341883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "92656837",
+    "boundingbox": [
+      "40.355761",
+      "40.3562995",
+      "-122.1069415",
+      "-122.1062095"
+    ],
+    "lat": "40.3558875",
+    "lon": "-122.1065706",
+    "display_name": "Inks Creek, Tehama County, California, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "106932294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182628715",
+    "boundingbox": [
+      "30.7296544",
+      "30.7313824",
+      "-98.3851394",
+      "-98.3831473"
+    ],
+    "lat": "30.73043985",
+    "lon": "-98.3841293268639",
+    "display_name": "Roy Inks Dam, Burnet County, Texas, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "25586939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2460907560",
+    "boundingbox": [
+      "3.9427559",
+      "3.9827559",
+      "12.5485539",
+      "12.5885539"
+    ],
+    "lat": "3.9627559",
+    "lon": "12.5685539",
+    "display_name": "Eyes, Nyong-et-Foumou, CE, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44051810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3129493500",
+    "boundingbox": [
+      "55.9538878",
+      "55.9539878",
+      "-3.2000411",
+      "-3.1999411"
+    ],
+    "lat": "55.9539378",
+    "lon": "-3.1999911",
+    "display_name": "eyes, 63, Thistle Street, Bellevue, New Town, Edinburgh, City of Edinburgh, Scotland, EH2 1DX, UK",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  },
+  {
+    "place_id": "26454238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2527780715",
+    "boundingbox": [
+      "48.8443518",
+      "48.8444518",
+      "2.3090664",
+      "2.3091664"
+    ],
+    "lat": "48.8444018",
+    "lon": "2.3091164",
+    "display_name": "Eyes, 21, Rue Lecourbe, Necker, 15e, Paris, \u00cele-de-France, 75015, France",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  },
+  {
+    "place_id": "42320522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3084752651",
+    "boundingbox": [
+      "48.3984582",
+      "48.3985582",
+      "9.9886604",
+      "9.9887604"
+    ],
+    "lat": "48.3985082",
+    "lon": "9.9887104",
+    "display_name": "Eyes, Hirschstra\u00dfe, Fischerviertel, Weststadt, Arbeitersiedlung Untere Bleiche, Ulm, Regierungsbezirk T\u00fcbingen, Baden-W\u00fcrttemberg, 89073, Deutschland",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  },
+  {
+    "place_id": "41138951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2999347347",
+    "boundingbox": [
+      "35.3704472",
+      "35.3705472",
+      "24.5341685",
+      "24.5342685"
+    ],
+    "lat": "35.3704972",
+    "lon": "24.5342185",
+    "display_name": "Eyes, \u039c\u03ac\u03c7\u03b7\u03c2 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u03a0\u03bb\u03b1\u03c4\u03b1\u03bd\u03b9\u03ac\u03c2, \u039a\u03ac\u03bc\u03c0\u03bf\u03c2 \u0391\u03b4\u03b5\u03bb\u03b9\u03b1\u03bd\u03cc\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a1\u03b5\u03b8\u03cd\u03bc\u03bd\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039a\u03c1\u03ae\u03c4\u03b7\u03c2, 74100, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2609310060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4476873992",
+    "boundingbox": [
+      "16.7793225",
+      "16.7794225",
+      "96.1733499",
+      "96.1734499"
+    ],
+    "lat": "16.7793725",
+    "lon": "96.1733999",
+    "display_name": "EYES, \u1017\u102d\u102f\u101c\u103a\u1001\u103b\u102f\u1015\u103a\u1021\u1031\u102c\u1004\u103a\u1006\u1014\u103a\u1038\u101c\u1019\u103a\u1038, \u1015\u102f\u1007\u103d\u1014\u103a\u1010\u1031\u102c\u1004\u103a, Eastern District, \u101b\u1014\u103a\u1000\u102f\u1014\u103a, Yangon, 11171, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

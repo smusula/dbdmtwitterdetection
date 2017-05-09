@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "51491563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3854165574",
+    "boundingbox": [
+      "29.745833",
+      "29.785833",
+      "110.766389",
+      "110.806389"
+    ],
+    "lat": "29.765833",
+    "lon": "110.786389",
+    "display_name": "\u82cf\u5bb6\u94fa, \u77f3\u95e8\u53bf (Shimen), \u5e38\u5fb7\u5e02 / Changde, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "151491187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398797363",
+    "boundingbox": [
+      "56.3155682",
+      "56.3302796",
+      "51.0888268",
+      "51.1097834"
+    ],
+    "lat": "56.3247923",
+    "lon": "51.0984556",
+    "display_name": "\u0421\u0443\u0448\u0438, \u0412\u044f\u0442\u0441\u043a\u043e\u043f\u043e\u043b\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160883516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5496754",
+    "boundingbox": [
+      "53.9970108",
+      "54.0048662",
+      "26.8303144",
+      "26.8363425"
+    ],
+    "lat": "54.00347",
+    "lon": "26.83505",
+    "display_name": "\u0421\u0443\u0448\u0438, \u0412\u043e\u043b\u043e\u0436\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2608967383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4470176454",
+    "boundingbox": [
+      "51.4582425",
+      "51.4583425",
+      "7.0067781",
+      "7.0068781"
+    ],
+    "lat": "51.4582925",
+    "lon": "7.0068281",
+    "display_name": "sushi, 1a, Limbecker Platz, Stadtmitte, Stadtkern, Stadtbezirk I, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 45127, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "141001134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "337786389",
+    "boundingbox": [
+      "-38.7377689",
+      "-38.7375574",
+      "-72.6338619",
+      "-72.6335815"
+    ],
+    "lat": "-38.7376668",
+    "lon": "-72.6337244211494",
+    "display_name": "sushi, Avenida Pablo Neruda, Temuco, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, 045, Chile",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17548558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1702681861",
+    "boundingbox": [
+      "43.5775208",
+      "43.5776208",
+      "6.9982685",
+      "6.9983685"
+    ],
+    "lat": "43.5775708",
+    "lon": "6.9983185",
+    "display_name": "sushi, 102, Avenue Franklin Roosevelt, L'Olivet, Le Cannet, Grasse, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06110, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2646745169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4561477905",
+    "boundingbox": [
+      "25.0668252",
+      "25.0669252",
+      "121.5383299",
+      "121.5384299"
+    ],
+    "lat": "25.0668752",
+    "lon": "121.5383799",
+    "display_name": "sushi, \u6c11\u65cf\u6771\u8def410\u5df723\u5f04, \u884c\u4ec1\u91cc, \u897f\u65b0\u5e84\u5b50, \u4e2d\u5c71\u5340, \u81fa\u5317\u5e02, 104, \u81fa\u7063",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "51615005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3872020932",
+    "boundingbox": [
+      "52.3368405",
+      "52.3369405",
+      "4.8713685",
+      "4.8714685"
+    ],
+    "lat": "52.3368905",
+    "lon": "4.8714185",
+    "display_name": "Sushi, Gustav Mahlerlaan, Zuideramstel, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1082ME, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "12541498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1166298735",
+    "boundingbox": [
+      "48.2536083",
+      "48.2537083",
+      "16.3542244",
+      "16.3543244"
+    ],
+    "lat": "48.2536583",
+    "lon": "16.3542744",
+    "display_name": "Sushi, Grinzinger Stra\u00dfe, KG Heiligenstadt, D\u00f6bling, Wien, 1190, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "11692135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1117935134",
+    "boundingbox": [
+      "50.8509091",
+      "50.8510091",
+      "5.6902243",
+      "5.6903243"
+    ],
+    "lat": "50.8509591",
+    "lon": "5.6902743",
+    "display_name": "Sushi, Markt, Binnenstad, Maastricht, Limburg, Nederland, 6211CH, Nederland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

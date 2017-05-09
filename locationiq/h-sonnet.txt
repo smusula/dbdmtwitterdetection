@@ -1,0 +1,111 @@
+[
+  {
+    "place_id": "80124122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62326899",
+    "boundingbox": [
+      "52.9805107",
+      "52.980852",
+      "-2.0003832",
+      "-2.0001711"
+    ],
+    "lat": "52.9807953",
+    "lon": "-2.0002151",
+    "display_name": "The Sonnet, Cheadle, Staffordshire Moorlands, Staffordshire, West Midlands, England, ST10 1XR, UK",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "134466425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "307409859",
+    "boundingbox": [
+      "49.2312051",
+      "49.2316312",
+      "-123.0099572",
+      "-123.0090205"
+    ],
+    "lat": "49.23140365",
+    "lon": "-123.009497038718",
+    "display_name": "The Sonnet, 5848, Olive Avenue, Garden Village, Burnaby, Greater Vancouver Regional District, British Columbia, V5H 1P2, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "33280235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2788097432",
+    "boundingbox": [
+      "48.0598639",
+      "48.0599639",
+      "-0.7638771",
+      "-0.7637771"
+    ],
+    "lat": "48.0599139",
+    "lon": "-0.7638271",
+    "display_name": "Sonnet, Rue de l'\u00c9cole, Avesni\u00e8res, La M\u00e9tairie, Laval, Mayenne, Pays de la Loire, 53000, France",
+    "class": "craft",
+    "type": "caterer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16710790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1558672890",
+    "boundingbox": [
+      "50.5687862",
+      "50.5688862",
+      "5.5830523",
+      "5.5831523"
+    ],
+    "lat": "50.5688362",
+    "lon": "5.5831023",
+    "display_name": "Sonnet, Avenue Laboulle, Tilff, Esneux, Li\u00e8ge, Wallonie, 4130, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "102325291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164881924",
+    "boundingbox": [
+      "42.0813145",
+      "42.0821816",
+      "-122.7048982",
+      "-122.7019291"
+    ],
+    "lat": "42.0821816",
+    "lon": "-122.7019291",
+    "display_name": "Sonnet, Mount Ashland Road, Colestin, Jackson County, Oregon, 97520, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120318738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "238233666",
+    "boundingbox": [
+      "22.5893317",
+      "22.5897777",
+      "88.4112251",
+      "88.4115792"
+    ],
+    "lat": "22.5895394",
+    "lon": "88.4114122734596",
+    "display_name": "The Sonnet, 2nd Avenue, CC Block, Bidhannagar, H\u0101ora, West Bengal, 700064, India",
+    "class": "tourism",
+    "type": "motel",
+    "importance": 0.101
+  }
+]

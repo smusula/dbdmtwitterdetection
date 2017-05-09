@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "139444308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331558650",
+    "boundingbox": [
+      "41.246132",
+      "41.2468445",
+      "-73.9228091",
+      "-73.9220753"
+    ],
+    "lat": "41.2464997",
+    "lon": "-73.9224539843705",
+    "display_name": "Cortlandt, Memorial Drive, Montrose, Cortland, Westchester County, New York, 10520, United States of America",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.101
+  },
+  {
+    "place_id": "139471324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331558648",
+    "boundingbox": [
+      "41.2464715",
+      "41.2476324",
+      "-73.9237372",
+      "-73.9225548"
+    ],
+    "lat": "41.24732795",
+    "lon": "-73.9234236496964",
+    "display_name": "Cortlandt, Briarcliff-Peekskill Parkway, Montrose, Cortland, Westchester County, New York, 10548, United States of America",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.101
+  },
+  {
+    "place_id": "139412826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331558649",
+    "boundingbox": [
+      "41.2460689",
+      "41.246497",
+      "-73.9229163",
+      "-73.9225116"
+    ],
+    "lat": "41.2462849",
+    "lon": "-73.9227273857613",
+    "display_name": "Cortlandt, Memorial Drive, Montrose, Cortland, Westchester County, New York, 10520, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

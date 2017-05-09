@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160549404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2624905",
+    "boundingbox": [
+      "42.9854107",
+      "43.0281352",
+      "40.973369",
+      "41.0684194"
+    ],
+    "lat": "43.0033629",
+    "lon": "41.0192741",
+    "display_name": "\u0410\u049f\u0259\u0430 - \u0421\u0443\u0445\u0443\u043c, \u0410\u049f\u04d9\u0430 \u0430\u0440\u0430\u0438\u043e\u043d - \u0421\u0443\u0445\u0443\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u10d0\u10e4\u10ee\u10d0\u10d6\u10d4\u10d7\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0 - \u0410\u04a7\u0441\u043d\u044b \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u0442\u04d9 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430, \u0410\u0431\u0445\u0430\u0437\u0438\u044f - \u0410\u04a7\u0441\u043d\u044b, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "place",
+    "type": "city",
+    "importance": 0.54327544939687,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160500887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2027324",
+    "boundingbox": [
+      "42.9804327",
+      "43.0266147",
+      "40.9599227",
+      "41.0520223"
+    ],
+    "lat": "43.0033629",
+    "lon": "41.0192741",
+    "display_name": "\u0410\u049f\u04d9\u0430 - \u0421\u0443\u0445\u0443\u043c, \u0410\u049f\u04d9\u0430 \u0430\u0440\u0430\u0438\u043e\u043d - \u0421\u0443\u0445\u0443\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u10d0\u10e4\u10ee\u10d0\u10d6\u10d4\u10d7\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0 - \u0410\u04a7\u0441\u043d\u044b \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u0442\u04d9 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430, \u0410\u0431\u0445\u0430\u0437\u0438\u044f - \u0410\u04a7\u0441\u043d\u044b, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "place",
+    "type": "city",
+    "importance": 0.54327544939687,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160569734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2683768",
+    "boundingbox": [
+      "3.8278132",
+      "3.9264575",
+      "28.9465445",
+      "29.2084643"
+    ],
+    "lat": "3.8787978",
+    "lon": "29.0878735",
+    "display_name": "Aka, Orientale, Haut-Uele, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "133975787",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305365184",
+    "boundingbox": [
+      "6.9672521",
+      "6.9751862",
+      "0.6299166",
+      "0.6315293"
+    ],
+    "lat": "6.9711555",
+    "lon": "0.6311939",
+    "display_name": "Aka, Kpalim\u00e9, R\u00e9gion des Plateaux, Togo",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "84717155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93830553",
+    "boundingbox": [
+      "3.8845128",
+      "3.9572263",
+      "29.206144",
+      "29.2319985"
+    ],
+    "lat": "3.9263225",
+    "lon": "29.219482",
+    "display_name": "Aka, Orientale, Haut-Uele, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160371757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1027803",
+    "boundingbox": [
+      "47.3742233",
+      "47.4370254",
+      "18.0435311",
+      "18.1114541"
+    ],
+    "lat": "47.4048171",
+    "lon": "18.0699103",
+    "display_name": "Aka, Kisb\u00e9ri j\u00e1r\u00e1s, Kom\u00e1rom-Esztergom megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41791837080539,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "49356785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3671422261",
+    "boundingbox": [
+      "38.3616488",
+      "38.4016488",
+      "40.4631186",
+      "40.5031186"
+    ],
+    "lat": "38.3816488",
+    "lon": "40.4831186",
+    "display_name": "Aka, Hani, Diyarbak\u0131r, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4661783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501516765",
+    "boundingbox": [
+      "4.996667",
+      "5.036667",
+      "7.896667",
+      "7.936667"
+    ],
+    "lat": "5.016667",
+    "lon": "7.916667",
+    "display_name": "Aka, Uyo, Akwa Ibom, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4562427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501416446",
+    "boundingbox": [
+      "11.5735465",
+      "11.6135465",
+      "14.3756435",
+      "14.4156435"
+    ],
+    "lat": "11.5935465",
+    "lon": "14.3956435",
+    "display_name": "Aka, Kala-Balge, Borno, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4581633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501496940",
+    "boundingbox": [
+      "6.895063",
+      "6.935063",
+      "7.399974",
+      "7.439974"
+    ],
+    "lat": "6.915063",
+    "lon": "7.419974",
+    "display_name": "Aka, Igbo-Eze-South, Enugu, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

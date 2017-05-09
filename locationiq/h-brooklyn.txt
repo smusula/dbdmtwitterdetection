@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "146567577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372352792",
+    "boundingbox": [
+      "25.0577995",
+      "25.0624587",
+      "-77.3151545",
+      "-77.3098097"
+    ],
+    "lat": "25.06013005",
+    "lon": "-77.3124820417139",
+    "display_name": "Brooklyn, The Bahamas",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "487343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158857828",
+    "boundingbox": [
+      "40.6301038",
+      "40.6701038",
+      "-73.9695822",
+      "-73.9295822"
+    ],
+    "lat": "40.6501038",
+    "lon": "-73.9495822",
+    "display_name": "BK, Kings County, NYC, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.68454442710904,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160322786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "369518",
+    "boundingbox": [
+      "40.5498513",
+      "40.7394026",
+      "-74.0558454",
+      "-73.8335644"
+    ],
+    "lat": "40.64530975",
+    "lon": "-73.9550229275334",
+    "display_name": "Kings County, NYC, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68454442710904,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160278793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135207",
+    "boundingbox": [
+      "42.09663",
+      "42.113681",
+      "-84.2598239",
+      "-84.2394619"
+    ],
+    "lat": "42.105874",
+    "lon": "-84.2482818",
+    "display_name": "Brooklyn, Jackson County, Michigan, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46473979407787,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160268770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127259",
+    "boundingbox": [
+      "39.531956",
+      "39.551056",
+      "-86.3783819",
+      "-86.3549059"
+    ],
+    "lat": "39.5392141",
+    "lon": "-86.3691597",
+    "display_name": "Brooklyn, Morgan County, Indiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4514973276097,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160300354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "251945",
+    "boundingbox": [
+      "42.8446714",
+      "42.862072",
+      "-89.3834499",
+      "-89.3559342"
+    ],
+    "lat": "42.8523555",
+    "lon": "-89.3691671",
+    "display_name": "Brooklyn, Green County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44067216745114,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "486127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158584082",
+    "boundingbox": [
+      "39.2340334",
+      "39.2341334",
+      "-76.6033932",
+      "-76.6032932"
+    ],
+    "lat": "39.2340834",
+    "lon": "-76.6033432",
+    "display_name": "Brooklyn, Baltimore, Maryland, 21225, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.44025131828771
+  },
+  {
+    "place_id": "160290401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182120",
+    "boundingbox": [
+      "41.418406",
+      "41.4625173",
+      "-81.7696549",
+      "-81.7285836"
+    ],
+    "lat": "41.439754",
+    "lon": "-81.7405558",
+    "display_name": "Brooklyn, Cuyahoga County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42876858236251,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "344358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150961976",
+    "boundingbox": [
+      "45.4705318",
+      "45.5105318",
+      "-122.6691276",
+      "-122.6291276"
+    ],
+    "lat": "45.4905318",
+    "lon": "-122.6491276",
+    "display_name": "Brooklyn, Portland, Multnomah County, Oregon, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.4282657693621,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "503573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158846792",
+    "boundingbox": [
+      "41.7681541",
+      "41.8081541",
+      "-71.9697956",
+      "-71.9297956"
+    ],
+    "lat": "41.7881541",
+    "lon": "-71.9497956",
+    "display_name": "Brooklyn, Windham County, Connecticut, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.41175576870917,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

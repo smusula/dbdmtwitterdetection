@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "2653369501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "478351365",
+    "boundingbox": [
+      "51.6983125",
+      "51.7038743",
+      "5.27372",
+      "5.2834297"
+    ],
+    "lat": "51.7010098",
+    "lon": "5.2787248428788",
+    "display_name": "Heineken, 's-Hertogenbosch, Noord-Brabant, Nederland, 5222AR, Nederland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160636356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3210950",
+    "boundingbox": [
+      "-21.8230546",
+      "-21.8164951",
+      "-48.1744465",
+      "-48.1667324"
+    ],
+    "lat": "-21.8198377",
+    "lon": "-48.1705615688651",
+    "display_name": "Heineken, Jardim Tamoio, Araraquara, Microrregi\u00e3o de Araraquara, Mesorregi\u00e3o de Araraquara, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "56215050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4396190564",
+    "boundingbox": [
+      "52.3748111",
+      "52.3749111",
+      "4.8731942",
+      "4.8732942"
+    ],
+    "lat": "52.3748611",
+    "lon": "4.8732442",
+    "display_name": "Heineken, Frederik Hendrikstraat, Frederik Hendrikbuurt, Amsterdam, West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1052KW, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "74268198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37943860",
+    "boundingbox": [
+      "55.9321194",
+      "55.9327364",
+      "-3.298816",
+      "-3.2979256"
+    ],
+    "lat": "55.93242605",
+    "lon": "-3.29856592187718",
+    "display_name": "Heineken, South Gyle Broadway, Gogarloch, South Gyle, Edinburgh, City of Edinburgh, Scotland, EH12 9FL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160702357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3800251",
+    "boundingbox": [
+      "52.1364959",
+      "52.137798",
+      "4.5338407",
+      "4.5362869"
+    ],
+    "lat": "52.13718375",
+    "lon": "4.53572151388996",
+    "display_name": "Heineken, Burgemeester Smeetsweg, Zoeterwoude, Zuid-Holland, Nederland, 2382BK, Nederland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17719655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1734125129",
+    "boundingbox": [
+      "52.1361004",
+      "52.1362004",
+      "4.5325935",
+      "4.5326935"
+    ],
+    "lat": "52.1361504",
+    "lon": "4.5326435",
+    "display_name": "Heineken, Doctor H.P. Heinekenweg, Barre Polder, Zoeterwoude, Zuid-Holland, Nederland, 2382HD, Nederland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "56506208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4398938991",
+    "boundingbox": [
+      "52.3089485",
+      "52.3090485",
+      "4.7655859",
+      "4.7656859"
+    ],
+    "lat": "52.3089985",
+    "lon": "4.7656359",
+    "display_name": "Heineken, Panorama Boulevard, Schiphol, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1118 AS, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "45916731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3248135655",
+    "boundingbox": [
+      "12.3775868",
+      "12.3776868",
+      "-1.5048067",
+      "-1.5047067"
+    ],
+    "lat": "12.3776368",
+    "lon": "-1.5047567",
+    "display_name": "Heineken, avenue de l'universite, Ouagadougou, Kalgodin, Ouaga, Kadiogo, Centre, 13, Burkina Faso",
+    "class": "shop",
+    "type": "kiosk",
+    "importance": 0.101
+  },
+  {
+    "place_id": "31319025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2751678683",
+    "boundingbox": [
+      "0.402523",
+      "0.402623",
+      "9.4474186",
+      "9.4475186"
+    ],
+    "lat": "0.402573",
+    "lon": "9.4474686",
+    "display_name": "Heineken, Boulevard Monseigneur Bessieux, Mont Bouet, Libreville, Estuaire, 144, Gabon",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "104966466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174275700",
+    "boundingbox": [
+      "48.2140061",
+      "48.2147388",
+      "17.1632949",
+      "17.1645448"
+    ],
+    "lat": "48.21436705",
+    "lon": "17.1639208491954",
+    "display_name": "Heineken, P\u00fachovsk\u00e1, Komis\u00e1rky, Centr\u00e1lna Ra\u010da, Ra\u010da, Bratislava, Bratislavsk\u00fd kraj, 831 06, Slovensko",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "56197306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4403886660",
+    "boundingbox": [
+      "43.4999108",
+      "43.5000108",
+      "6.6456291",
+      "6.6457291"
+    ],
+    "lat": "43.4999608",
+    "lon": "6.6456791",
+    "display_name": "La From, Route de la Bouverie, La Bouverie, Roquebrune-sur-Argens, Draguignan, Var, Provence-Alpes-C\u00f4te d'Azur, 83520, France",
+    "class": "shop",
+    "type": "cheese",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14224827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289232535",
+    "boundingbox": [
+      "59.1579758",
+      "59.1580758",
+      "10.2638465",
+      "10.2639465"
+    ],
+    "lat": "59.1580258",
+    "lon": "10.2638965",
+    "display_name": "From, R\u00e5stadveien, Sandefjord, Vestfold, 3228, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "2650769845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470868205",
+    "boundingbox": [
+      "43.1133078",
+      "43.1135364",
+      "131.9367717",
+      "131.9371979"
+    ],
+    "lat": "43.11341505",
+    "lon": "131.936985191018",
+    "display_name": "\u041e\u0442 \u0438 \u0434\u043e, 22/26, \u041b\u0443\u0433\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a, \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, 690000, \u0420\u0424",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.001
+  }
+]

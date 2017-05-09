@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "14146455",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1277151631",
+    "boundingbox": [
+      "46.8205579",
+      "46.8206579",
+      "-2.0333761",
+      "-2.0332761"
+    ],
+    "lat": "46.8206079",
+    "lon": "-2.0333261",
+    "display_name": "weather, Chemin des Moutardi\u00e8res, La Bosse, Saint-Jean-de-Monts, Les Sables-d'Olonne, Vend\u00e9e, Pays de la Loire, 85160, France",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  },
+  {
+    "place_id": "57063657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4449193937",
+    "boundingbox": [
+      "-25.2864093",
+      "-25.2863093",
+      "-57.6554868",
+      "-57.6553868"
+    ],
+    "lat": "-25.2863593",
+    "lon": "-57.6554368",
+    "display_name": "Weather, De la Conquista, San Antonio, Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, 1254, Paraguay",
+    "class": "office",
+    "type": "government",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106322729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180022865",
+    "boundingbox": [
+      "38.5430922",
+      "38.5435927",
+      "-89.8665386",
+      "-89.8652915"
+    ],
+    "lat": "38.54333735",
+    "lon": "-89.8660358307607",
+    "display_name": "Weather, West Clay Street, Shiloh Station, Saint Clair County, Illinois, 62225, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

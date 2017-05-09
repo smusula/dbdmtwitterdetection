@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "348239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150975257",
+    "boundingbox": [
+      "45.0585463",
+      "45.0985463",
+      "-110.8018805",
+      "-110.7618805"
+    ],
+    "lat": "45.0785463",
+    "lon": "-110.7818805",
+    "display_name": "Electric, Park County, Montana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22263081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2193281612",
+    "boundingbox": [
+      "42.5079375",
+      "42.5279375",
+      "-82.362196",
+      "-82.342196"
+    ],
+    "lat": "42.5179375",
+    "lon": "-82.352196",
+    "display_name": "Electric, Chatham-Kent, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72687105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32884260",
+    "boundingbox": [
+      "-28.7335084",
+      "-28.7335001",
+      "24.7675115",
+      "24.768202"
+    ],
+    "lat": "-28.7335084",
+    "lon": "24.768202",
+    "display_name": "Electric, Sol Plaatje Ward 21, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63853505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14868795",
+    "boundingbox": [
+      "34.286945",
+      "34.288366",
+      "-94.9596559",
+      "-94.9506879"
+    ],
+    "lat": "34.287234",
+    "lon": "-94.9555599",
+    "display_name": "Electric, McCurtain County, Oklahoma, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "51461321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3843667124",
+    "boundingbox": [
+      "51.7509436",
+      "51.7510436",
+      "-1.259703",
+      "-1.259603"
+    ],
+    "lat": "51.7509936",
+    "lon": "-1.259653",
+    "display_name": "electric, St Ebbes Street, Grandpont, Oxford, Oxon, South East, England, OX1 1PT, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "8346324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "892619366",
+    "boundingbox": [
+      "37.0063268",
+      "37.0064268",
+      "27.2577223",
+      "27.2578223"
+    ],
+    "lat": "37.0063768",
+    "lon": "27.2577723",
+    "display_name": "electric, Gazi Mustafa Kemal Bulvari, Turgutreis, Bodrum, Mu\u011fla, Ege B\u00f6lgesi, 48960, T\u00fcrkiye",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "19770705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1949284856",
+    "boundingbox": [
+      "51.925332",
+      "51.925432",
+      "4.48666",
+      "4.48676"
+    ],
+    "lat": "51.925382",
+    "lon": "4.48671",
+    "display_name": "Electric, Jan van Loonslaan, Rubroek, Rotterdam, MRDH, Zuid-Holland, Nederland, 3031AR, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "16099111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1487990441",
+    "boundingbox": [
+      "51.5175159",
+      "51.5176159",
+      "-0.151336",
+      "-0.151236"
+    ],
+    "lat": "51.5175659",
+    "lon": "-0.151286",
+    "display_name": "Electric, 29, Bulstrode Street, St. James's, Marylebone, City of Westminster, London, Greater London, England, W1U 3JN, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "103826569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170239183",
+    "boundingbox": [
+      "51.8959766",
+      "51.8961867",
+      "-8.47342",
+      "-8.4731569"
+    ],
+    "lat": "51.8960675",
+    "lon": "-8.47328982539267",
+    "display_name": "Electric, Grand Parade / South Mall Board Walk, Centre A, Cork, County Cork, Munster, Ireland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "147073172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374969990",
+    "boundingbox": [
+      "35.0483898",
+      "35.0484438",
+      "-120.4856245",
+      "-120.4855585"
+    ],
+    "lat": "35.04841685",
+    "lon": "-120.485591501343",
+    "display_name": "Electric, Cardinal Drive, Nipomo, San Luis Obispo County, California, 93444, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

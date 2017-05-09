@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160287333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "174979",
+    "boundingbox": [
+      "42.4183181",
+      "42.467079",
+      "-76.5269469",
+      "-76.4698029"
+    ],
+    "lat": "42.4396039",
+    "lon": "-76.4968018",
+    "display_name": "Ithaca, Tompkins County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.60295319625216,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160285799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "169567",
+    "boundingbox": [
+      "41.155069",
+      "41.16284",
+      "-96.5454719",
+      "-96.5318369"
+    ],
+    "lat": "41.1627787",
+    "lon": "-96.5397422",
+    "display_name": "Ithaca, Saunders County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4282657693621,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "369598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151859874",
+    "boundingbox": [
+      "43.3208176",
+      "43.3608176",
+      "-90.301792",
+      "-90.261792"
+    ],
+    "lat": "43.3408176",
+    "lon": "-90.281792",
+    "display_name": "Ithaca, Richland County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160291582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "183345",
+    "boundingbox": [
+      "39.936109",
+      "39.939334",
+      "-84.5549639",
+      "-84.5518299"
+    ],
+    "lat": "39.9372731",
+    "lon": "-84.5532856",
+    "display_name": "Ithaca, Darke County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "434872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154114631",
+    "boundingbox": [
+      "33.6606642",
+      "33.7006642",
+      "-84.9679974",
+      "-84.9279974"
+    ],
+    "lat": "33.6806642",
+    "lon": "-84.9479974",
+    "display_name": "Ithaca, Carroll County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "290977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "88800441",
+    "boundingbox": [
+      "-27.4706867",
+      "-27.4306867",
+      "152.9769364",
+      "153.0169364"
+    ],
+    "lat": "-27.4506867",
+    "lon": "152.9969364",
+    "display_name": "Ithaca, Brisbane City, QLD, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54076410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4156272245",
+    "boundingbox": [
+      "6.2094601",
+      "6.2494601",
+      "-57.563115",
+      "-57.523115"
+    ],
+    "lat": "6.2294601",
+    "lon": "-57.543115",
+    "display_name": "Ithaca, Mahaica-Berbice Region, Mahaica-Berbice, Guyana",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160273626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135157",
+    "boundingbox": [
+      "43.27014",
+      "43.306177",
+      "-84.6274189",
+      "-84.5678689"
+    ],
+    "lat": "43.291698",
+    "lon": "-84.6074999",
+    "display_name": "Ithaca, Gratiot County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160367687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "957835",
+    "boundingbox": [
+      "38.300341",
+      "38.503307",
+      "20.6148807",
+      "20.766938"
+    ],
+    "lat": "38.40127265",
+    "lon": "20.6697301074088",
+    "display_name": "\u0399\u03b8\u03ac\u03ba\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0399\u03b8\u03ac\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03cc\u03bd\u03b9\u03c9\u03bd \u03bd\u03b7\u03c3\u03b9\u03ce\u03bd, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "93708648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "128116776",
+    "boundingbox": [
+      "52.2136173",
+      "52.2144928",
+      "5.1890226",
+      "5.1891724"
+    ],
+    "lat": "52.2136858",
+    "lon": "5.1891103",
+    "display_name": "Ithaca, Hilversum, MRA, Noord-Holland, Nederland, 1213NW, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  }
+]

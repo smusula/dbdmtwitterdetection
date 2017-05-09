@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160396386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1311341",
+    "boundingbox": [
+      "27.4335426",
+      "43.9933088",
+      "-18.3936844",
+      "4.5918885"
+    ],
+    "lat": "40.0028028",
+    "lon": "-4.0031039",
+    "display_name": "Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.89788241089947,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "55940535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4354915675",
+    "boundingbox": [
+      "46.3153802",
+      "46.3553802",
+      "4.7642649",
+      "4.8042649"
+    ],
+    "lat": "46.3353802",
+    "lon": "4.7842649",
+    "display_name": "Le Pain, M\u00e2con, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19219629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1871906389",
+    "boundingbox": [
+      "48.2446816",
+      "48.2846816",
+      "-1.172764",
+      "-1.132764"
+    ],
+    "lat": "48.2646816",
+    "lon": "-1.152764",
+    "display_name": "Le Pain, Foug\u00e8res-Vitr\u00e9, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14083157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1270466179",
+    "boundingbox": [
+      "46.8841634",
+      "46.9241634",
+      "0.8227687",
+      "0.8627687"
+    ],
+    "lat": "46.9041634",
+    "lon": "0.8427687",
+    "display_name": "Le Pain, Loches, Indre-et-Loire, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8903850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "921757143",
+    "boundingbox": [
+      "48.3995764",
+      "48.4195764",
+      "6.6023087",
+      "6.6223087"
+    ],
+    "lat": "48.4095764",
+    "lon": "6.6123087",
+    "display_name": "Le Pain, Xaff\u00e9villers, \u00c9pinal, Vosges, Grand-Est, 88700, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27106117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2565058346",
+    "boundingbox": [
+      "48.0148889",
+      "48.0348889",
+      "0.2022482",
+      "0.2222482"
+    ],
+    "lat": "48.0248889",
+    "lon": "0.2122482",
+    "display_name": "Le Pain, Coulaines, Le Mans, Sarthe, Pays de la Loire, 72190, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6654073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "694634784",
+    "boundingbox": [
+      "46.6780048",
+      "46.6980048",
+      "-0.0123292",
+      "0.0076708"
+    ],
+    "lat": "46.6880048",
+    "lon": "-0.0023292",
+    "display_name": "Le Pain, Cherves, Poitiers, Vienne, Nouvelle-Aquitaine, 86170, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50407276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3758948563",
+    "boundingbox": [
+      "48.2205467",
+      "48.2206467",
+      "0.3366109",
+      "0.3367109"
+    ],
+    "lat": "48.2205967",
+    "lon": "0.3366609",
+    "display_name": "Le Pain, Saint-Aignan, Mamers, Sarthe, Pays de la Loire, 72110, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "13400359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242553267",
+    "boundingbox": [
+      "41.5262663",
+      "41.5462663",
+      "-4.6570455",
+      "-4.6370455"
+    ],
+    "lat": "41.5362663",
+    "lon": "-4.6470455",
+    "display_name": "El Pain, Aldeamayor de San Mart\u00edn, Valladolid, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610205805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4500373180",
+    "boundingbox": [
+      "18.3831225",
+      "18.4231225",
+      "-73.5531657",
+      "-73.5131657"
+    ],
+    "lat": "18.4031225",
+    "lon": "-73.5331657",
+    "display_name": "Pa\u00efen, Arrondissement de l\u2019Anse-\u00e0-Veau, D\u00e9partement des Nippes, Ayiti",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

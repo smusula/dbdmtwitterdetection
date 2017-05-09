@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "160372401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1028125",
+    "boundingbox": [
+      "31.0725261",
+      "31.518152",
+      "-85.1150023",
+      "-84.6271359"
+    ],
+    "lat": "31.3466656",
+    "lon": "-84.9350893",
+    "display_name": "Early County, Georgia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49566309696659,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "396268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153463807",
+    "boundingbox": [
+      "30.0085361",
+      "30.0485361",
+      "-85.3318625",
+      "-85.2918625"
+    ],
+    "lat": "30.0285361",
+    "lon": "-85.3118625",
+    "display_name": "Early, Gulf County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "411383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153933420",
+    "boundingbox": [
+      "36.787348",
+      "36.827348",
+      "-80.8100738",
+      "-80.7700738"
+    ],
+    "lat": "36.807348",
+    "lon": "-80.7900738",
+    "display_name": "Early, Carroll County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160269822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "128873",
+    "boundingbox": [
+      "42.4515319",
+      "42.4673309",
+      "-95.1590487",
+      "-95.1460666"
+    ],
+    "lat": "42.4613706",
+    "lon": "-95.1519372",
+    "display_name": "Early, Sac County, Iowa, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.34417377737972,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "73031653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33168525",
+    "boundingbox": [
+      "31.729798",
+      "31.760585",
+      "-98.9717619",
+      "-98.9023089"
+    ],
+    "lat": "31.742096",
+    "lon": "-98.9456051",
+    "display_name": "Early, Brown County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.33263829078643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

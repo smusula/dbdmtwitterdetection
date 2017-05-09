@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160307757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "324211",
+    "boundingbox": [
+      "43.5802533",
+      "43.8554425",
+      "-79.6392726",
+      "-79.1132192"
+    ],
+    "lat": "43.6529206",
+    "lon": "-79.3849007",
+    "display_name": "Toronto, Ontario, Canada",
+    "class": "place",
+    "type": "city",
+    "importance": 0.83607703895224,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "1664136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "339273301",
+    "boundingbox": [
+      "-33.0168774",
+      "-33.0068774",
+      "151.5914662",
+      "151.6014662"
+    ],
+    "lat": "-33.0118774",
+    "lon": "151.5964662",
+    "display_name": "Toronto, Victory Parade, Toronto, Rathmines, Newcastle-Maitland, Lake Macquarie, NSW, 2283, Australia",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.4846342182247,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160923257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5993953",
+    "boundingbox": [
+      "-33.0319569",
+      "-32.9966782",
+      "151.556006",
+      "151.606824"
+    ],
+    "lat": "-33.0134409",
+    "lon": "151.5942043",
+    "display_name": "Toronto, Rathmines, Newcastle-Maitland, Lake Macquarie, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43359981948048,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160290078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "183442",
+    "boundingbox": [
+      "40.436469",
+      "40.4832531",
+      "-80.6228149",
+      "-80.5961971"
+    ],
+    "lat": "40.4642335",
+    "lon": "-80.6009057",
+    "display_name": "Toronto, Jefferson County, Ohio, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "393864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153665688",
+    "boundingbox": [
+      "39.6939399",
+      "39.7339399",
+      "-89.6498196",
+      "-89.6098196"
+    ],
+    "lat": "39.7139399",
+    "lon": "-89.6298196",
+    "display_name": "Toronto, Sangamon County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "359230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151336737",
+    "boundingbox": [
+      "30.3201601",
+      "30.3601601",
+      "-103.7707311",
+      "-103.7307311"
+    ],
+    "lat": "30.3401601",
+    "lon": "-103.7507311",
+    "display_name": "Toronto, Brewster County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4778524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "529925288",
+    "boundingbox": [
+      "49.8453059",
+      "49.8853059",
+      "14.4525114",
+      "14.4925114"
+    ],
+    "lat": "49.8653059",
+    "lon": "14.4725114",
+    "display_name": "Toronto, okres Praha-z\u00e1pad, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, \u010cesko",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "367801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151451673",
+    "boundingbox": [
+      "37.9836476",
+      "38.0236476",
+      "-92.5454575",
+      "-92.5054575"
+    ],
+    "lat": "38.0036476",
+    "lon": "-92.5254575",
+    "display_name": "Toronto, Camden County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160270223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "128413",
+    "boundingbox": [
+      "41.898723",
+      "41.906811",
+      "-90.8672339",
+      "-90.8594669"
+    ],
+    "lat": "41.9050213",
+    "lon": "-90.8640345",
+    "display_name": "Toronto, Clinton County, Iowa, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.37483378640496,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "18253820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1760271247",
+    "boundingbox": [
+      "46.4424682",
+      "46.4624682",
+      "-63.3899628",
+      "-63.3699628"
+    ],
+    "lat": "46.4524682",
+    "lon": "-63.3799628",
+    "display_name": "Toronto, Charlottetown, Queens County, Prince Edward Island, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

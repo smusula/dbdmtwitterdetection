@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "6957665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "723598226",
+    "boundingbox": [
+      "-31.423688",
+      "-31.423588",
+      "-64.1814963",
+      "-64.1813963"
+    ],
+    "lat": "-31.423638",
+    "lon": "-64.1814463",
+    "display_name": "icecream, Rondeau, Nueva C\u00f3rdoba, C\u00f3rdoba, Departamento Capital, Cba., X5000AVG, Argentina",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18556899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1800380017",
+    "boundingbox": [
+      "45.9543309",
+      "45.9544309",
+      "8.9483359",
+      "8.9484359"
+    ],
+    "lat": "45.9543809",
+    "lon": "8.9483859",
+    "display_name": "icecream, Piazzetta del Commercio, Melide, Circolo di Carona, Distretto di Lugano, Ticino, 6815, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "49813160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3709450643",
+    "boundingbox": [
+      "55.000217",
+      "55.000317",
+      "-1.4256605",
+      "-1.4255605"
+    ],
+    "lat": "55.000267",
+    "lon": "-1.4256105",
+    "display_name": "Icecream, Henry Nelson Street, Cleadon Park, South Tyneside, Tyne and Wear, North East England, England, NE33 2JQ, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "30013747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2725042760",
+    "boundingbox": [
+      "50.2518302",
+      "50.2519302",
+      "28.6661292",
+      "28.6662292"
+    ],
+    "lat": "50.2518802",
+    "lon": "28.6661792",
+    "display_name": "\u041c\u043e\u0440\u043e\u0437\u0438\u0432\u043e, \u041d\u043e\u0432\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, \u041a\u043e\u0440\u043e\u043b\u044c\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0416\u0438\u0442\u043e\u043c\u0438\u0440, \u0416\u0438\u0442\u043e\u043c\u0438\u0440\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 10014, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  }
+]

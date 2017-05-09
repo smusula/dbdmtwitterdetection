@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "38874591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2903635928",
+    "boundingbox": [
+      "48.1385701",
+      "48.1386701",
+      "11.5775679",
+      "11.5776679"
+    ],
+    "lat": "48.1386201",
+    "lon": "11.5776179",
+    "display_name": "Google, Hofgraben, Bezirksteil Graggenau, Stadtbezirk 01 Altstadt-Lehel, M\u00fcnchen, OB, Bayern, 80331, Deutschland",
+    "class": "office",
+    "type": "it",
+    "importance": 0.667149620979
+  },
+  {
+    "place_id": "131115480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "292238629",
+    "boundingbox": [
+      "47.6683486",
+      "47.6707396",
+      "-122.1998471",
+      "-122.1964058"
+    ],
+    "lat": "47.66954465",
+    "lon": "-122.198117359739",
+    "display_name": "Google, Juanita, Kirkland, King County, Washington, 98033, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "19547830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1908132061",
+    "boundingbox": [
+      "16.4493278",
+      "16.4893278",
+      "77.1242219",
+      "77.1642219"
+    ],
+    "lat": "16.4693278",
+    "lon": "77.1442219",
+    "display_name": "Googal, Devadurga taluk, Raichur district, Karnataka, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "136372188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316208875",
+    "boundingbox": [
+      "-6.3661567",
+      "-6.3544935",
+      "107.5179534",
+      "107.5204557"
+    ],
+    "lat": "-6.3600933",
+    "lon": "107.5202433",
+    "display_name": "Google, Pangulah Selatan, Karawang, Jawa Barat, Indonesia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68675995",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23733643",
+    "boundingbox": [
+      "37.4228787",
+      "37.42371",
+      "-122.0884598",
+      "-122.0875974"
+    ],
+    "lat": "37.4232421",
+    "lon": "-122.0881563",
+    "display_name": "Google, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2651405816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4670429232",
+    "boundingbox": [
+      "37.420557",
+      "37.420657",
+      "-122.0826602",
+      "-122.0825602"
+    ],
+    "lat": "37.420607",
+    "lon": "-122.0826102",
+    "display_name": "Google, Charleston Road, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651406209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472845541",
+    "boundingbox": [
+      "37.4196268",
+      "37.419639",
+      "-122.0827767",
+      "-122.0827083"
+    ],
+    "lat": "37.41963295",
+    "lon": "-122.0827425",
+    "display_name": "Google, Huff Avenue, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651405806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4670428776",
+    "boundingbox": [
+      "37.4190502",
+      "37.4191502",
+      "-122.08134",
+      "-122.08124"
+    ],
+    "lat": "37.4191002",
+    "lon": "-122.08129",
+    "display_name": "Google, Joaquin Road, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651406198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472845525",
+    "boundingbox": [
+      "37.4186632",
+      "37.4186771",
+      "-122.081539",
+      "-122.0813117"
+    ],
+    "lat": "37.41867015",
+    "lon": "-122.08142535",
+    "display_name": "Google, Joaquin Road, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651405812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4670429218",
+    "boundingbox": [
+      "37.4189774",
+      "37.4190774",
+      "-122.0825991",
+      "-122.0824991"
+    ],
+    "lat": "37.4190274",
+    "lon": "-122.0825491",
+    "display_name": "Google, Huff Avenue, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  }
+]

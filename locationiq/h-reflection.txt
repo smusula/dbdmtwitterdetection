@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "142222326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "345539727",
+    "boundingbox": [
+      "12.8640702",
+      "12.8657751",
+      "100.8936398",
+      "100.8958668"
+    ],
+    "lat": "12.86483855",
+    "lon": "100.89461983099",
+    "display_name": "Reflection, \u0e19\u0e32\u0e08\u0e2d\u0e21\u0e40\u0e17\u0e35\u0e22\u0e19, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "65401167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17841323",
+    "boundingbox": [
+      "43.090373",
+      "43.091046",
+      "-85.6432859",
+      "-85.6432679"
+    ],
+    "lat": "43.091046",
+    "lon": "-85.6432859",
+    "display_name": "Reflection, Belmont, Kent County, Michigan, 49321, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116351534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222884190",
+    "boundingbox": [
+      "51.4991613",
+      "51.4995026",
+      "0.0687893",
+      "0.0691652"
+    ],
+    "lat": "51.4993262",
+    "lon": "0.0689003942106237",
+    "display_name": "The Reflection, 2, Woolwich Manor Way, Galleons Point, North Woolwich, London Borough of Newham, London, Greater London, England, E16 2RG, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48203739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3500204475",
+    "boundingbox": [
+      "40.8216483",
+      "40.8217483",
+      "-96.7087035",
+      "-96.7086035"
+    ],
+    "lat": "40.8216983",
+    "lon": "-96.7086535",
+    "display_name": "Reflection, Salt Creek Roadway, West Lincoln, Lincoln, Lancaster County, Nebraska, 68508, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "49595323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3685570682",
+    "boundingbox": [
+      "53.9607291",
+      "53.9608291",
+      "-2.0195419",
+      "-2.0194419"
+    ],
+    "lat": "53.9607791",
+    "lon": "-2.0194919",
+    "display_name": "Reflection, 13, Coach Street, Skipton, Craven, Yorkshire and the Humber, England, BD23 1LH, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "136133167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315146131",
+    "boundingbox": [
+      "42.4472496",
+      "42.4473913",
+      "-71.3365876",
+      "-71.336396"
+    ],
+    "lat": "42.44731455",
+    "lon": "-71.3364910509004",
+    "display_name": "Reflection, Thoreau's on Path Brister's Hill, Concord, Middlesex County, Massachusetts, 01773, United States of America",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "140271275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "335284239",
+    "boundingbox": [
+      "39.987399",
+      "39.9874903",
+      "-105.9408841",
+      "-105.9406953"
+    ],
+    "lat": "39.98744465",
+    "lon": "-105.9407897",
+    "display_name": "Reflection, 1, Stillwater Road, Grand County, Colorado, 80478, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

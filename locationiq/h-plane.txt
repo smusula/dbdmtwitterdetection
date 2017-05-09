@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "136785319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "318208766",
+    "boundingbox": [
+      "49.671971",
+      "49.6743227",
+      "5.5225049",
+      "5.5402364"
+    ],
+    "lat": "49.6739955",
+    "lon": "5.5313418",
+    "display_name": "Le plane, Tintigny, Virton, Luxembourg, Wallonie, 6730, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "156160434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "424978230",
+    "boundingbox": [
+      "52.3845575",
+      "52.3882605",
+      "12.4820329",
+      "12.4936754"
+    ],
+    "lat": "52.3845575",
+    "lon": "12.489101",
+    "display_name": "Plane, Brandenburg an der Havel, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "140989634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "338088046",
+    "boundingbox": [
+      "52.0678607",
+      "52.1474046",
+      "12.649598",
+      "12.7195752"
+    ],
+    "lat": "52.1072298",
+    "lon": "12.6862774",
+    "display_name": "Plane, Planetal, Niemegk, Landkreis Potsdam-Mittelmark, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "85064066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95836015",
+    "boundingbox": [
+      "52.0426463",
+      "52.0603282",
+      "12.5609446",
+      "12.6296423"
+    ],
+    "lat": "52.0480413",
+    "lon": "12.5995161",
+    "display_name": "Plane, Rabenstein/Fl\u00e4ming, Niemegk, Landkreis Potsdam-Mittelmark, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "151457920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398885492",
+    "boundingbox": [
+      "52.0617794",
+      "52.0679398",
+      "12.6405857",
+      "12.649598"
+    ],
+    "lat": "52.0661756",
+    "lon": "12.6439575",
+    "display_name": "Plane, Niemegk, Landkreis Potsdam-Mittelmark, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "152291036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "403134564",
+    "boundingbox": [
+      "52.1474046",
+      "52.149922",
+      "12.7195752",
+      "12.7216308"
+    ],
+    "lat": "52.1488412",
+    "lon": "12.7205933",
+    "display_name": "Plane, Landkreis Potsdam-Mittelmark, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "23284261",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2303808499",
+    "boundingbox": [
+      "47.0733612",
+      "47.1133612",
+      "6.4149442",
+      "6.4549442"
+    ],
+    "lat": "47.0933612",
+    "lon": "6.4349442",
+    "display_name": "Le Plane, Pontarlier, Doubs, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "34978050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2817423955",
+    "boundingbox": [
+      "46.1494297",
+      "46.1894297",
+      "6.4838898",
+      "6.5238898"
+    ],
+    "lat": "46.1694297",
+    "lon": "6.5038898",
+    "display_name": "Le Plane, Bonneville, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24786585",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2404226491",
+    "boundingbox": [
+      "43.7820153",
+      "43.8220153",
+      "7.2102709",
+      "7.2502709"
+    ],
+    "lat": "43.8020153",
+    "lon": "7.2302709",
+    "display_name": "La Plane, Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28003786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2617295941",
+    "boundingbox": [
+      "43.3223528",
+      "43.3623528",
+      "6.5374724",
+      "6.5774724"
+    ],
+    "lat": "43.3423528",
+    "lon": "6.5574724",
+    "display_name": "La Plane, Draguignan, Var, Provence-Alpes-C\u00f4te d'Azur, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

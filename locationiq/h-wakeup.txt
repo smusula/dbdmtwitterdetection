@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "17229779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1670083990",
+    "boundingbox": [
+      "45.7501071",
+      "45.7502071",
+      "21.2385768",
+      "21.2386768"
+    ],
+    "lat": "45.7501571",
+    "lon": "21.2386268",
+    "display_name": "WakeUp, Strada Aurelianus, Complexul Studen\u021besc, Timi\u0219oara, Timi\u0219, 300551, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "25906166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2496034031",
+    "boundingbox": [
+      "48.7572408",
+      "48.7573408",
+      "30.2170375",
+      "30.2171375"
+    ],
+    "lat": "48.7572908",
+    "lon": "30.2170875",
+    "display_name": "WakeUp, 52, \u041b\u0435\u043d\u0456\u043d\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0423\u043c\u0430\u043d\u044c, \u0427\u0435\u0440\u043a\u0430\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 20300, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "116648357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "223635003",
+    "boundingbox": [
+      "48.2132822",
+      "48.2136118",
+      "16.4363948",
+      "16.4369207"
+    ],
+    "lat": "48.2134718",
+    "lon": "16.4366023318582",
+    "display_name": "wake_up, 1, Donauuferautobahn, KG Kaiserm\u00fchlen, Donaustadt, Wien, 1220, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

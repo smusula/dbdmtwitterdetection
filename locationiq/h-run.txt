@@ -1,0 +1,148 @@
+[
+  {
+    "place_id": "75502525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42090044",
+    "boundingbox": [
+      "38.0722901",
+      "38.072486",
+      "-84.4859522",
+      "-84.4857805"
+    ],
+    "lat": "38.0722901",
+    "lon": "-84.4859522",
+    "display_name": "Run, Lexington, Fayette County, Kentucky, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "85005359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95455474",
+    "boundingbox": [
+      "51.3926993",
+      "51.4003481",
+      "5.4024013",
+      "5.4110801"
+    ],
+    "lat": "51.3954953",
+    "lon": "5.4077365",
+    "display_name": "Run, Veldhoven, MRE, Noord-Brabant, Nederland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "84959440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95455297",
+    "boundingbox": [
+      "51.3525063",
+      "51.352659",
+      "5.3421826",
+      "5.3425647"
+    ],
+    "lat": "51.3525063",
+    "lon": "5.3421826",
+    "display_name": "Run, Eersel, MRE, Noord-Brabant, Nederland",
+    "class": "waterway",
+    "type": "culvert",
+    "importance": 0.425
+  },
+  {
+    "place_id": "120255543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "237875128",
+    "boundingbox": [
+      "51.3304333",
+      "51.3376863",
+      "5.3225635",
+      "5.3274908"
+    ],
+    "lat": "51.3329874",
+    "lon": "5.326335",
+    "display_name": "Run, Eersel, MRE, Noord-Brabant, Nederland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "84961584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95455391",
+    "boundingbox": [
+      "51.3658273",
+      "51.3676672",
+      "5.3628666",
+      "5.3665378"
+    ],
+    "lat": "51.367058",
+    "lon": "5.3645264",
+    "display_name": "Run, Bergeijk, MRE, Noord-Brabant, Nederland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "876599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "279128592",
+    "boundingbox": [
+      "47.4112437",
+      "48.0512437",
+      "-4.3500599",
+      "-3.7100599"
+    ],
+    "lat": "47.7312437",
+    "lon": "-4.0300599",
+    "display_name": "Le Run, France",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "11284088",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1070177012",
+    "boundingbox": [
+      "-4.5501776",
+      "-4.5500776",
+      "129.6891282",
+      "129.6892282"
+    ],
+    "lat": "-4.5501276",
+    "lon": "129.6891782",
+    "display_name": "Run, Maluku, Indonesia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160603292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3097794",
+    "boundingbox": [
+      "-20.8974354",
+      "-20.8828057",
+      "55.503636",
+      "55.535487"
+    ],
+    "lat": "-20.8902648",
+    "lon": "55.5172793162058",
+    "display_name": "A\u00e9roport de la R\u00e9union Roland-Garros, Service A\u00e9roportuaire, Sainte-Marie, Saint-Denis, La R\u00e9union, 97438, France",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.31303438301933,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

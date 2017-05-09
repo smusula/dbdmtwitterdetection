@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "82907562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85699843",
+    "boundingbox": [
+      "6.6220866",
+      "6.6276582",
+      "-58.2074655",
+      "-58.2016111"
+    ],
+    "lat": "6.624836",
+    "lon": "-58.2042469",
+    "display_name": "Support, Demerara-Mahaica Region, Demerara-Mahaica, Guyana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "8371652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "898947204",
+    "boundingbox": [
+      "49.8356046",
+      "49.8357046",
+      "18.285314",
+      "18.285414"
+    ],
+    "lat": "49.8356546",
+    "lon": "18.285364",
+    "display_name": "Support, 814/6, \u0160ubertova, Moravsk\u00e1 Ostrava, Ostrava, okres Ostrava-m\u011bsto, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 70169, \u010cesko",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "108964239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191715027",
+    "boundingbox": [
+      "51.8484135",
+      "51.8485011",
+      "1.2698016",
+      "1.2699116"
+    ],
+    "lat": "51.84845705",
+    "lon": "1.26985690255872",
+    "display_name": "Support, High Street, Frinton and Walton Civil Parish, Walton-on-the-Naze, Essex, East of England, England, CO14 8BH, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  }
+]

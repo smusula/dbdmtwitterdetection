@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "2652705317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7003364",
+    "boundingbox": [
+      "52.6570131",
+      "52.6650417",
+      "-8.6228081",
+      "-8.608792"
+    ],
+    "lat": "52.66098085",
+    "lon": "-8.61783626081366",
+    "display_name": "Market, Metropolitan District of Limerick, County Limerick, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160358160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "540201",
+    "boundingbox": [
+      "48.3956559",
+      "48.5006198",
+      "14.7262969",
+      "14.8687196"
+    ],
+    "lat": "48.4354116",
+    "lon": "14.7819471",
+    "display_name": "Markt, Freistadt, Ober\u00f6sterreich, 4273, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39146640414423,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "57509263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4634289",
+    "boundingbox": [
+      "60.2998625",
+      "60.3017719",
+      "19.1293704",
+      "19.1356101"
+    ],
+    "lat": "60.30081675",
+    "lon": "19.1321755441852",
+    "display_name": "M\u00e4rket, Hammarland, \u00c5lands landsbygd, Landskapet \u00c5land, Regional State Agency \u00c5land, \u00c5land, Suomi",
+    "class": "place",
+    "type": "island",
+    "importance": 0.390074127412
+  },
+  {
+    "place_id": "499079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158814896",
+    "boundingbox": [
+      "41.8628707",
+      "41.9028707",
+      "-73.7606847",
+      "-73.7206847"
+    ],
+    "lat": "41.8828707",
+    "lon": "-73.7406847",
+    "display_name": "Market, Town of Stanford, Dutchess County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "448613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154371953",
+    "boundingbox": [
+      "39.1850865",
+      "39.2250865",
+      "-80.7231572",
+      "-80.6831572"
+    ],
+    "lat": "39.2050865",
+    "lon": "-80.7031572",
+    "display_name": "Market, Doddridge County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53981313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4142464855",
+    "boundingbox": [
+      "47.3135873",
+      "47.3535873",
+      "13.2758289",
+      "13.3158289"
+    ],
+    "lat": "47.3335873",
+    "lon": "13.2958289",
+    "display_name": "Markt, Sankt Johann im Pongau, Salzburg, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36590216462374,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51136382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3816675199",
+    "boundingbox": [
+      "9.5405882",
+      "9.5605882",
+      "76.9051145",
+      "76.9251145"
+    ],
+    "lat": "9.5505882",
+    "lon": "76.9151145",
+    "display_name": "Market, Peruvanthanam, Idukki, Kerala, India",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49333071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3656549732",
+    "boundingbox": [
+      "59.980811",
+      "60.620811",
+      "18.81335",
+      "19.45335"
+    ],
+    "lat": "60.300811",
+    "lon": "19.13335",
+    "display_name": "M\u00e4rket, \u00d6sthammar, Landskapet Uppland, Uppsala l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "161021044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6486074",
+    "boundingbox": [
+      "47.3496899",
+      "47.4296751",
+      "19.0913176",
+      "19.1989675"
+    ],
+    "lat": "47.4025482",
+    "lon": "19.1184601",
+    "display_name": "Soroks\u00e1r, 23. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.32079972394797,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27386721",
+    "boundingbox": [
+      "47.6048851",
+      "47.6448851",
+      "7.5612733",
+      "7.6012733"
+    ],
+    "lat": "47.6248851",
+    "lon": "7.5812733",
+    "display_name": "M\u00e4rkt, L\u00f6rrach, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

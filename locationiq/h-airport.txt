@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "133311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26608365",
+    "boundingbox": [
+      "60.3039332",
+      "60.3339332",
+      "24.9532958",
+      "24.9832958"
+    ],
+    "lat": "60.3189332",
+    "lon": "24.9682958",
+    "display_name": "Airport, 1, Lentoasemantie, Lentokentt\u00e4, Aviapoliksen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 01530, Suomi",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.49748726415965,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "70962251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28069671",
+    "boundingbox": [
+      "22.3144586",
+      "22.3174954",
+      "113.9358189",
+      "113.9371974"
+    ],
+    "lat": "22.3161394",
+    "lon": "113.93644473373",
+    "display_name": "\u6a5f\u5834 Airport, \u66a2\u822a\u8def Cheong Hong Road, \u671b\u540e\u77f3 Pillar Point, \u6771\u6d8c Tung Chung, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.48012747763777,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2654296762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4737797103",
+    "boundingbox": [
+      "64.9136939",
+      "64.9436939",
+      "25.3584547",
+      "25.3884547"
+    ],
+    "lat": "64.9286939",
+    "lon": "25.3734547",
+    "display_name": "Airport, 720, Lentokent\u00e4ntie, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Pohjois-Suomen aluehallintovirasto, Pohjois-Suomi, 90410, Suomi",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.41428909659158,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "8655240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "911973835",
+    "boundingbox": [
+      "11.0380494",
+      "11.0780494",
+      "124.5438817",
+      "124.5838817"
+    ],
+    "lat": "11.0580494",
+    "lon": "124.5638817",
+    "display_name": "Airport, Ormoc, Leyte, Eastern Visayas, 6541, Philippines",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160865910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5574441",
+    "boundingbox": [
+      "9.5627722",
+      "9.5901153",
+      "-13.6291116",
+      "-13.5962063"
+    ],
+    "lat": "9.57643115",
+    "lon": "-13.6134737899366",
+    "display_name": "Airport, Matoto, Conakry, Guin\u00e9e",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "15096972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1366261201",
+    "boundingbox": [
+      "49.9040812",
+      "49.9041812",
+      "-97.2384372",
+      "-97.2383372"
+    ],
+    "lat": "49.9041312",
+    "lon": "-97.2383872",
+    "display_name": "Airport, Assiniboia, Winnipeg, Manitoba, R3J, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "53434163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4053677296",
+    "boundingbox": [
+      "31.3620395",
+      "31.3621395",
+      "-100.4943538",
+      "-100.4942538"
+    ],
+    "lat": "31.3620895",
+    "lon": "-100.4943038",
+    "display_name": "Airport, San Angelo, Tom Green County, Texas, 76904, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "54310833",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4154304592",
+    "boundingbox": [
+      "31.5816532",
+      "31.5817532",
+      "-102.8960582",
+      "-102.8959582"
+    ],
+    "lat": "31.5817032",
+    "lon": "-102.8960082",
+    "display_name": "Airport, Monahans, Ward County, Texas, 79756, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "53460453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4077245016",
+    "boundingbox": [
+      "32.6634259",
+      "32.6635259",
+      "-102.6556113",
+      "-102.6555113"
+    ],
+    "lat": "32.6634759",
+    "lon": "-102.6555613",
+    "display_name": "Airport, Gaines County, Texas, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "138879101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329241833",
+    "boundingbox": [
+      "53.0583199",
+      "53.060596",
+      "-93.3406912",
+      "-93.3344417"
+    ],
+    "lat": "53.05943005",
+    "lon": "-93.3391895599861",
+    "display_name": "Airport, Sandy Lake, Ontario, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

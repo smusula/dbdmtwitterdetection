@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "21934615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2178840380",
+    "boundingbox": [
+      "48.1406245",
+      "48.1806245",
+      "12.7695573",
+      "12.8095573"
+    ],
+    "lat": "48.1606245",
+    "lon": "12.7895573",
+    "display_name": "Hiering, Emmerting (VGem), Landkreis Alt\u00f6tting, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "589045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240096095",
+    "boundingbox": [
+      "48.1990689",
+      "48.2390689",
+      "13.8051667",
+      "13.8451667"
+    ],
+    "lat": "48.2190689",
+    "lon": "13.8251667",
+    "display_name": "Hiering, Grieskirchen, Ober\u00f6sterreich, 4710, \u00d6sterreich",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "580343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240101554",
+    "boundingbox": [
+      "48.19794",
+      "48.23794",
+      "13.80769",
+      "13.84769"
+    ],
+    "lat": "48.21794",
+    "lon": "13.82769",
+    "display_name": "Hiering, Grieskirchen, Ober\u00f6sterreich, 4707, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

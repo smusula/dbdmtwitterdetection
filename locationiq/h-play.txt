@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "50484990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3764431374",
+    "boundingbox": [
+      "45.3063001",
+      "45.3463001",
+      "4.303848",
+      "4.343848"
+    ],
+    "lat": "45.3263001",
+    "lon": "4.323848",
+    "display_name": "Le Play, Yssingeaux, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25230827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2433597468",
+    "boundingbox": [
+      "47.217613",
+      "47.257613",
+      "1.452388",
+      "1.492388"
+    ],
+    "lat": "47.237613",
+    "lon": "1.472388",
+    "display_name": "Le Play, Ch\u00e2teauroux, Indre, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40328243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2961781694",
+    "boundingbox": [
+      "43.2052194",
+      "43.2252194",
+      "0.2704981",
+      "0.2904981"
+    ],
+    "lat": "43.2152194",
+    "lon": "0.2804981",
+    "display_name": "Play, Bernadets-Dessus, Tarbes, Hautes-Pyr\u00e9n\u00e9es, Occitanie, 65190, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127150341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "268784256",
+    "boundingbox": [
+      "19.3725127",
+      "19.3741872",
+      "-70.3478764",
+      "-70.3475973"
+    ],
+    "lat": "19.3733848",
+    "lon": "-70.3475973",
+    "display_name": "El Play, Urbanizacion Julian Javier I, El Millon, Tenares, Hermanas Mirabal, Rep\u00fablica Dominicana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74300229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38252981",
+    "boundingbox": [
+      "-33.7299557",
+      "-33.7297018",
+      "18.9861655",
+      "18.9889123"
+    ],
+    "lat": "-33.7297018",
+    "lon": "18.9861655",
+    "display_name": "Play, Drakenstein Ward 22, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62487834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13291183",
+    "boundingbox": [
+      "33.6355519",
+      "33.635558",
+      "-117.9381491",
+      "-117.9363744"
+    ],
+    "lat": "33.6355519",
+    "lon": "-117.9381491",
+    "display_name": "Play, Play Port Mobile Home Village, Orange County, California, 92663, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55721230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4349205792",
+    "boundingbox": [
+      "52.171111",
+      "52.171211",
+      "21.0256609",
+      "21.0257609"
+    ],
+    "lat": "52.171161",
+    "lon": "21.0257109",
+    "display_name": "Play, 11, Wa\u0142brzyska, S\u0142u\u017cew nad Dolink\u0105, Mokot\u00f3w, Warszawa, mazowieckie, 02-728, Polska",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "29926123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2721792530",
+    "boundingbox": [
+      "51.1081816",
+      "51.1082816",
+      "17.039538",
+      "17.039638"
+    ],
+    "lat": "51.1082316",
+    "lon": "17.039588",
+    "display_name": "PLAY, 3, Plac Dominika\u0144ski, Ostr\u00f3w Tumski, Stare Miasto, Osiedle Stare Miasto, Wroc\u0142aw, dolno\u015bl\u0105skie, 50-159, Polska",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6542100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "668307668",
+    "boundingbox": [
+      "45.1880073",
+      "45.1881073",
+      "5.7249231",
+      "5.7250231"
+    ],
+    "lat": "45.1880573",
+    "lon": "5.7249731",
+    "display_name": "Play, 1, Rue Lamartine, Hyper Centre, Secteur 2, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38000, France",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28027103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2627344404",
+    "boundingbox": [
+      "41.9805914",
+      "41.9806914",
+      "2.8146368",
+      "2.8147368"
+    ],
+    "lat": "41.9806414",
+    "lon": "2.8146868",
+    "display_name": "Play, 48, Carrer de Santa Eug\u00e8nia, Eixample, GRN, Girona, CAT, 17001, Espa\u00f1a",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

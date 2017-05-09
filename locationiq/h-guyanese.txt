@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "51011514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3810437063",
+    "boundingbox": [
+      "17.4972856",
+      "17.4973856",
+      "-88.1853433",
+      "-88.1852433"
+    ],
+    "lat": "17.4973356",
+    "lon": "-88.1852933",
+    "display_name": "Guyanese Consulate, 3, Barrack Road, Belize City, Belize District, suite 205, Belize",
+    "class": "amenity",
+    "type": "embassy",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6714571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "679558287",
+    "boundingbox": [
+      "5.9330007",
+      "5.9331007",
+      "-57.1498387",
+      "-57.1497387"
+    ],
+    "lat": "5.9330507",
+    "lon": "-57.1497887",
+    "display_name": "Guyanese Outreach, Public Road, No. 73 Village, Mahaica-Berbice Region, Guyana",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51314577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3815207158",
+    "boundingbox": [
+      "17.9900612",
+      "17.9901612",
+      "-76.7891323",
+      "-76.7890323"
+    ],
+    "lat": "17.9901112",
+    "lon": "-76.7890823",
+    "display_name": "Guyanese Consulate in Kingston, Jamaica, 66, Slipe Road, Cross Roads, Saint Andrew, Surrey County, Kingston 5, Jamaica",
+    "class": "amenity",
+    "type": "embassy",
+    "importance": 0.101
+  }
+]

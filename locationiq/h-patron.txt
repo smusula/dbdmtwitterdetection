@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "37689668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2871422339",
+    "boundingbox": [
+      "45.0440359",
+      "45.0840359",
+      "4.6334753",
+      "4.6734753"
+    ],
+    "lat": "45.0640359",
+    "lon": "4.6534753",
+    "display_name": "Le Patron, Tournon-sur-Rh\u00f4ne, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652439069",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4693703515",
+    "boundingbox": [
+      "46.0616036",
+      "46.0617036",
+      "4.9062977",
+      "4.9063977"
+    ],
+    "lat": "46.0616536",
+    "lon": "4.9063477",
+    "display_name": "Patron, Saint-Trivier-sur-Moignans, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01990, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "50653825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3783427236",
+    "boundingbox": [
+      "44.0457549",
+      "44.0657549",
+      "0.9259849",
+      "0.9459849"
+    ],
+    "lat": "44.0557549",
+    "lon": "0.9359849",
+    "display_name": "Patron, Saint-Michel, Castelsarrasin, Tarn-et-Garonne, Occitanie, 82340, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13547350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243690619",
+    "boundingbox": [
+      "40.8138065",
+      "40.8338065",
+      "-2.8617766",
+      "-2.8417766"
+    ],
+    "lat": "40.8238065",
+    "lon": "-2.8517766",
+    "display_name": "El Patr\u00f3n, Ledanca, Guadalajara, Castilla-La Mancha, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13478574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242930139",
+    "boundingbox": [
+      "42.8411595",
+      "42.8611595",
+      "-3.88447",
+      "-3.86447"
+    ],
+    "lat": "42.8511595",
+    "lon": "-3.87447",
+    "display_name": "El Patr\u00f3n, Valderredible, Cantabria, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13857718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243364841",
+    "boundingbox": [
+      "40.2138086",
+      "40.2338086",
+      "-3.8864307",
+      "-3.8664307"
+    ],
+    "lat": "40.2238086",
+    "lon": "-3.8764307",
+    "display_name": "Patr\u00f3n, Gri\u00f1\u00f3n, Comarca Sur, Comunidad de Madrid, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24046186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2364440693",
+    "boundingbox": [
+      "42.5657632",
+      "42.5857632",
+      "-0.0532447",
+      "-0.0332447"
+    ],
+    "lat": "42.5757632",
+    "lon": "-0.0432447",
+    "display_name": "Patr\u00f3n, Fanlo, Sobrarbe, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13572595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243213272",
+    "boundingbox": [
+      "38.885456",
+      "38.905456",
+      "-3.4830202",
+      "-3.4630202"
+    ],
+    "lat": "38.895456",
+    "lon": "-3.4730202",
+    "display_name": "El Patr\u00f3n, Valdepe\u00f1as, La Mancha, Ciudad Real, Castilla-La Mancha, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13610675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243305162",
+    "boundingbox": [
+      "37.2599481",
+      "37.2799481",
+      "-3.1348196",
+      "-3.1148196"
+    ],
+    "lat": "37.2699481",
+    "lon": "-3.1248196",
+    "display_name": "El Patr\u00f3n, Valle del Zalab\u00ed, Granada, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13189111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241927963",
+    "boundingbox": [
+      "36.2134352",
+      "36.2334352",
+      "-5.4850459",
+      "-5.4650459"
+    ],
+    "lat": "36.2234352",
+    "lon": "-5.4750459",
+    "display_name": "El Patr\u00f3n, Los Barrios, C\u00e1diz, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

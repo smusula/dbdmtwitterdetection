@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "119585407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "235118299",
+    "boundingbox": [
+      "-5.4582433",
+      "-5.4574351",
+      "122.6065488",
+      "122.607992"
+    ],
+    "lat": "-5.45786105",
+    "lon": "122.607236111742",
+    "display_name": "FF, Kanakea Dalam, Sulawesi Tenggara, 93725, Indonesia",
+    "class": "landuse",
+    "type": "village_green",
+    "importance": 0.3
+  },
+  {
+    "place_id": "67803121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21758045",
+    "boundingbox": [
+      "40.520038",
+      "40.5243037",
+      "-90.0292569",
+      "-90.0292159"
+    ],
+    "lat": "40.522609",
+    "lon": "-90.0292279",
+    "display_name": "Ff, East Lawndale, Fulton County, Illinois, 61520, United States of America",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67636355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21456638",
+    "boundingbox": [
+      "43.31467",
+      "43.3159932",
+      "-90.8592899",
+      "-90.8582093"
+    ],
+    "lat": "43.315184",
+    "lon": "-90.8582979",
+    "display_name": "Ff, Gays Mills, Crawford County, Wisconsin, 54631, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89979842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115055705",
+    "boundingbox": [
+      "37.0548316",
+      "37.0551239",
+      "-94.4810231",
+      "-94.4784438"
+    ],
+    "lat": "37.0550026",
+    "lon": "-94.4794534",
+    "display_name": "East 32nd Street, Joplin, Newton County, Missouri, 64804, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "89979836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115055693",
+    "boundingbox": [
+      "37.0547344",
+      "37.055148",
+      "-94.4757333",
+      "-94.4513997"
+    ],
+    "lat": "37.0548855",
+    "lon": "-94.4633562",
+    "display_name": "East 32nd Street, Joplin, Missouri, 64804, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "71703013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30411286",
+    "boundingbox": [
+      "37.054721",
+      "37.0557089",
+      "-94.4513997",
+      "-94.4452955"
+    ],
+    "lat": "37.0555271",
+    "lon": "-94.4481599",
+    "display_name": "East 32nd Street, Joplin, Jasper County, Missouri, 64804, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "71523365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29364627",
+    "boundingbox": [
+      "37.0544976",
+      "37.0547145",
+      "-94.4396984",
+      "-94.4269809"
+    ],
+    "lat": "37.0545318",
+    "lon": "-94.4327868",
+    "display_name": "32nd Street, Rex City, Lawrence, Missouri, 64841, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "71359469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29369248",
+    "boundingbox": [
+      "37.0554396",
+      "37.0556267",
+      "-94.4451149",
+      "-94.4439535"
+    ],
+    "lat": "37.0554396",
+    "lon": "-94.4439535",
+    "display_name": "East 32nd Street, Jasper County, Missouri, 64841, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "71239428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29369249",
+    "boundingbox": [
+      "37.0547428",
+      "37.0557901",
+      "-94.4513997",
+      "-94.4451149"
+    ],
+    "lat": "37.05561",
+    "lon": "-94.4482059",
+    "display_name": "East 32nd Street, Jasper County, Missouri, 64804, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "65726434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18515222",
+    "boundingbox": [
+      "37.053343",
+      "37.0544852",
+      "-94.4259213",
+      "-94.3134809"
+    ],
+    "lat": "37.053737",
+    "lon": "-94.3694929",
+    "display_name": "32nd Street, Scotland, Lawrence, Missouri, 64836, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  }
+]

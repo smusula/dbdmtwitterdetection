@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "53777896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4122149987",
+    "boundingbox": [
+      "4.7151376",
+      "4.7152376",
+      "-74.2150683",
+      "-74.2149683"
+    ],
+    "lat": "4.7151876",
+    "lon": "-74.2150183",
+    "display_name": "Hotdogs, 55, Calle 10, La Chaguya, Funza Casco Urbano, Funza, Cundinamarca, Colombia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16222997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1499655070",
+    "boundingbox": [
+      "-2.9015674",
+      "-2.9014674",
+      "-78.9987044",
+      "-78.9986044"
+    ],
+    "lat": "-2.9015174",
+    "lon": "-78.9986544",
+    "display_name": "HotDogs, Juan Jaramillo, El Sagrario, Cuenca, Azuay, 010111, Ecuador",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

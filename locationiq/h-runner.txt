@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "139688848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "332469727",
+    "boundingbox": [
+      "53.8721603",
+      "53.8748624",
+      "-0.7485463",
+      "-0.7397714"
+    ],
+    "lat": "53.8726568",
+    "lon": "-0.7439327",
+    "display_name": "The Runner, East Riding of Yorkshire, Yorkshire and the Humber, England, UK",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "68975556",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23716911",
+    "boundingbox": [
+      "14.7518658",
+      "14.7524987",
+      "120.9660495",
+      "120.967573"
+    ],
+    "lat": "14.7518658",
+    "lon": "120.967573",
+    "display_name": "Runner, Zigzag Hills, Meycauayan, Bulacan, Central Luzon, 3020, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44384025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3139872462",
+    "boundingbox": [
+      "39.2197771",
+      "39.2198771",
+      "9.1079395",
+      "9.1080395"
+    ],
+    "lat": "39.2198271",
+    "lon": "9.1079895",
+    "display_name": "Runner, Corso Vittorio Emanuele II, San Paolo, Stampace, Casteddu/Cagliari, CA, SAR, 09121-09131, 09134, Italia",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "97226704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143471965",
+    "boundingbox": [
+      "51.5543941",
+      "51.5546515",
+      "-1.8035385",
+      "-1.8032059"
+    ],
+    "lat": "51.5545238",
+    "lon": "-1.80333662911622",
+    "display_name": "The Runner, Wootton Bassett Road, Rushey Platt, Kingshill, Swindon, South West England, England, SN1 4PW, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "47845590",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3456392169",
+    "boundingbox": [
+      "47.976029",
+      "47.976129",
+      "19.118399",
+      "19.118499"
+    ],
+    "lat": "47.976079",
+    "lon": "19.118449",
+    "display_name": "Runner, 2, Borsosber\u00e9ny, R\u00e9ts\u00e1gi j\u00e1r\u00e1s, N\u00f3gr\u00e1d megye, \u00c9szak-Magyarorsz\u00e1g, Alf\u00f6ld \u00e9s \u00c9szak, 2644, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "52537718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3987017717",
+    "boundingbox": [
+      "34.8618283",
+      "34.8619283",
+      "-82.4209137",
+      "-82.4208137"
+    ],
+    "lat": "34.8618783",
+    "lon": "-82.4208637",
+    "display_name": "The Runner, Swamp Rabbit Tram Trail, City View, Greenville County, South Carolina, 29617, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "52955577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4033168417",
+    "boundingbox": [
+      "-33.0104907",
+      "-33.0103907",
+      "-68.9232891",
+      "-68.9231891"
+    ],
+    "lat": "-33.0104407",
+    "lon": "-68.9232391",
+    "display_name": "Runner, Panamericana, Los Perales, Mza., CP5509, Argentina",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2539124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "348421876",
+    "boundingbox": [
+      "52.9565028",
+      "52.9566028",
+      "-1.1626748",
+      "-1.1625748"
+    ],
+    "lat": "52.9565528",
+    "lon": "-1.1626248",
+    "display_name": "The Running Horse, 16, Alfreton Road, Lace Market, The Park, City of Nottingham, East Midlands, England, NG7 3NG, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "137153540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "319845463",
+    "boundingbox": [
+      "37.9765957",
+      "37.9766749",
+      "23.7493317",
+      "23.749433"
+    ],
+    "lat": "37.9766353",
+    "lon": "23.7493823606362",
+    "display_name": "\u0394\u03c1\u03bf\u03bc\u03ad\u03b1\u03c2, \u039b\u03b5\u03c9\u03c6\u03cc\u03c1\u03bf\u03c2 \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u03a3\u03bf\u03c6\u03af\u03b1\u03c2, \u039a\u03bf\u03c5\u03bd\u03c4\u03bf\u03c5\u03c1\u03b9\u03ce\u03c4\u03b9\u03ba\u03b1, \u0391\u03b8\u03ae\u03bd\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u03a0.\u0395. \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 10676, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

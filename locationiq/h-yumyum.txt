@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "54782807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4230276491",
+    "boundingbox": [
+      "-8.8194038",
+      "-8.8193038",
+      "115.1162597",
+      "115.1163597"
+    ],
+    "lat": "-8.8193538",
+    "lon": "115.1163097",
+    "display_name": "yumyum, Jalan Labuan Sait - Pecatu, Pecatu, KECAMATAN KUBU, Bali, 80364, Indonesia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54822670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4235876303",
+    "boundingbox": [
+      "51.5851694",
+      "51.5852694",
+      "-0.0199216",
+      "-0.0198216"
+    ],
+    "lat": "51.5852194",
+    "lon": "-0.0198716",
+    "display_name": "YumYum, 202, Hoe Street, Walthamstow Village, Leyton, London Borough of Waltham Forest, London, Greater London, England, E17 4BS, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "45710453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3268699957",
+    "boundingbox": [
+      "23.6238843",
+      "23.6239843",
+      "58.4908566",
+      "58.4909566"
+    ],
+    "lat": "23.6239343",
+    "lon": "58.4909066",
+    "display_name": "Yumyum, Street 2234, Al Qurm, Muscat, Oman, \u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0642\u0637, 116, \u0639\u0645\u0627\u0646",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

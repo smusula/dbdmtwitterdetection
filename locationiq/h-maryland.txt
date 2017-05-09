@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160283467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "162112",
+    "boundingbox": [
+      "37.886605",
+      "39.7229331",
+      "-79.4873054",
+      "-74.9851722"
+    ],
+    "lat": "39.5162234",
+    "lon": "-76.9382068",
+    "display_name": "Maryland, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.83496098916703,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "39093853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2912811859",
+    "boundingbox": [
+      "2.0755376",
+      "7.1955376",
+      "-10.2881668",
+      "-5.1681668"
+    ],
+    "lat": "4.6355376",
+    "lon": "-7.7281668",
+    "display_name": "Maryland, Liberia",
+    "class": "place",
+    "type": "state",
+    "importance": 0.44857837983063,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "142293119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "347263800",
+    "boundingbox": [
+      "51.5457226",
+      "51.5462507",
+      "0.0051394",
+      "0.0066973"
+    ],
+    "lat": "51.54597925",
+    "lon": "0.00567217064665446",
+    "display_name": "Maryland, Leytonstone Road, Stratford New Town, London Borough of Newham, London, Greater London, England, E15 1SA, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160932195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6026850",
+    "boundingbox": [
+      "-32.8943681",
+      "-32.8675956",
+      "151.6463052",
+      "151.6773971"
+    ],
+    "lat": "-32.8788888",
+    "lon": "151.6636111",
+    "display_name": "Maryland, Newcastle, Newcastle-Maitland, Newcastle, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39899904973499,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "53373100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4066625718",
+    "boundingbox": [
+      "48.0377281",
+      "48.0777281",
+      "-0.8975092",
+      "-0.8575092"
+    ],
+    "lat": "48.0577281",
+    "lon": "-0.8775092",
+    "display_name": "Maryland, Laval, Mayenne, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "390051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153590820",
+    "boundingbox": [
+      "42.0455835",
+      "42.0855835",
+      "-89.5673341",
+      "-89.5273341"
+    ],
+    "lat": "42.0655835",
+    "lon": "-89.5473341",
+    "display_name": "Maryland, Ogle County, Illinois, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "495720",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158860013",
+    "boundingbox": [
+      "42.5164661",
+      "42.5564661",
+      "-74.9065452",
+      "-74.8665452"
+    ],
+    "lat": "42.5364661",
+    "lon": "-74.8865452",
+    "display_name": "Maryland, Town of Maryland, Otsego County, New York, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55856041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4361690010",
+    "boundingbox": [
+      "51.7297546",
+      "51.7697546",
+      "-2.7188131",
+      "-2.6788131"
+    ],
+    "lat": "51.7497546",
+    "lon": "-2.6988131",
+    "display_name": "Maryland, Monmouthshire, Wales, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "349362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151334851",
+    "boundingbox": [
+      "29.6924309",
+      "29.7324309",
+      "-91.4826099",
+      "-91.4426099"
+    ],
+    "lat": "29.7124309",
+    "lon": "-91.4626099",
+    "display_name": "Maryland, St. Mary Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "375178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151697327",
+    "boundingbox": [
+      "31.9026591",
+      "31.9426591",
+      "-91.3887268",
+      "-91.3487268"
+    ],
+    "lat": "31.9226591",
+    "lon": "-91.3687268",
+    "display_name": "Maryland, Tensas Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

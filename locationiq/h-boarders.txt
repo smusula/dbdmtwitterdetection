@@ -1,0 +1,167 @@
+[
+  {
+    "place_id": "80159004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62753307",
+    "boundingbox": [
+      "-27.4599951",
+      "-27.4597324",
+      "153.0165",
+      "153.016903"
+    ],
+    "lat": "-27.45986215",
+    "lon": "153.016699511602",
+    "display_name": "The Boarders Lawn, Petrie Terrace, Brisbane, Brisbane City, QLD, 4004, Australia",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "109408638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193765542",
+    "boundingbox": [
+      "49.8482294",
+      "49.8484216",
+      "-97.113078",
+      "-97.1128599"
+    ],
+    "lat": "49.848343",
+    "lon": "-97.1129672687494",
+    "display_name": "844, Boarders Anonymous, Saint Vital, Winnipeg, Manitoba, R2M 3P4, Canada",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "144612197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363407079",
+    "boundingbox": [
+      "10.3382881",
+      "10.3383047",
+      "123.91282",
+      "123.9128355"
+    ],
+    "lat": "10.3382965",
+    "lon": "123.912828154217",
+    "display_name": "Univelle boarders (our house), 69D, J. Panis St., Crossroads, Cebu City, Cebu, Central Visayas, 6000, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51987756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3905545669",
+    "boundingbox": [
+      "29.7871789",
+      "29.7872789",
+      "-95.7345602",
+      "-95.7344602"
+    ],
+    "lat": "29.7872289",
+    "lon": "-95.7345102",
+    "display_name": "Texas Boarders Bar & Grill, Westgreen Boulevard, Harris County, Texas, 77450, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2651343218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4668357800",
+    "boundingbox": [
+      "40.8877135",
+      "40.8878135",
+      "-98.3410136",
+      "-98.3409136"
+    ],
+    "lat": "40.8877635",
+    "lon": "-98.3409636",
+    "display_name": "Boarders Inn & Suites with Full Circle Venue and Conference Center, West Husker Highway, Grand Island, Hall County, Nebraska, 68801, United States of America",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "123527175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251406845",
+    "boundingbox": [
+      "43.8558861",
+      "43.8565471",
+      "-88.8680003",
+      "-88.8677385"
+    ],
+    "lat": "43.8562166",
+    "lon": "-88.8678694",
+    "display_name": "Boarders Inn and Suites, 1219, West Fond du Lac Street, Ripon, Fond du Lac County, Wisconsin, 54971, United States of America",
+    "class": "tourism",
+    "type": "motel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150248616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "390848603",
+    "boundingbox": [
+      "43.634101",
+      "43.6342731",
+      "-88.716948",
+      "-88.7160723"
+    ],
+    "lat": "43.63418705",
+    "lon": "-88.71651015",
+    "display_name": "Boarders Inn and Suites, Gateway Drive, Waupun, Fond du Lac County, Wisconsin, 53963, United States of America",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  },
+  {
+    "place_id": "46042903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3269647906",
+    "boundingbox": [
+      "46.950145",
+      "46.950245",
+      "7.4423063",
+      "7.4424063"
+    ],
+    "lat": "46.950195",
+    "lon": "7.4423563",
+    "display_name": "Tip To Tail, 35, Speichergasse, Rotes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3011, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.001
+  },
+  {
+    "place_id": "19105005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1858863200",
+    "boundingbox": [
+      "7.4283476",
+      "7.4284476",
+      "125.7941009",
+      "125.7942009"
+    ],
+    "lat": "7.4283976",
+    "lon": "125.7941509",
+    "display_name": "Boarder's Inn, Davao-Agusan National Highway, Esmeralda Homes, Canocotan, Davao Del Norte, Davao, 8100, Philippines",
+    "class": "tourism",
+    "type": "motel",
+    "importance": 0.001
+  }
+]

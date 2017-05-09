@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "3250723",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "359252462",
+    "boundingbox": [
+      "36.3671741",
+      "36.3672741",
+      "-109.2618187",
+      "-109.2617187"
+    ],
+    "lat": "36.3672241",
+    "lon": "-109.2617687",
+    "display_name": "The Legs, Apache County, Arizona, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "48257806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3506896155",
+    "boundingbox": [
+      "53.8022508",
+      "53.8222508",
+      "-8.0966506",
+      "-8.0766506"
+    ],
+    "lat": "53.8122508",
+    "lon": "-8.0866506",
+    "display_name": "Legs, Ballygarden ED, Municipal District of Boyle, County Roscommon, Connacht, Ireland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "159189009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "441532411",
+    "boundingbox": [
+      "53.964841",
+      "53.967959",
+      "-122.8948259",
+      "-122.8858739"
+    ],
+    "lat": "53.967677",
+    "lon": "-122.8892969",
+    "display_name": "Legs, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "11706476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1120257140",
+    "boundingbox": [
+      "51.5469161",
+      "51.5470161",
+      "-0.0495001",
+      "-0.0494001"
+    ],
+    "lat": "51.5469661",
+    "lon": "-0.0494501",
+    "display_name": "Legs, Meeting Field Path, Hackney, London Borough of Hackney, London, Greater London, England, E9 6LP, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "3838411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "413763594",
+    "boundingbox": [
+      "36.9754657",
+      "36.9755657",
+      "-122.0267887",
+      "-122.0266887"
+    ],
+    "lat": "36.9755157",
+    "lon": "-122.0267387",
+    "display_name": "Legs, Pacific Avenue, Downtown District (Commercial), Downtown, Santa Cruz, Santa Cruz County, California, 1982, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

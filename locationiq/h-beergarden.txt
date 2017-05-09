@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "21968150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2179943868",
+    "boundingbox": [
+      "-22.0007155",
+      "-22.0006155",
+      "15.5871676",
+      "15.5872676"
+    ],
+    "lat": "-22.0006655",
+    "lon": "15.5872176",
+    "display_name": "Beergarden, Theo Ben Gurirab St, Usakos, Erongo Region, Usakos, Namibia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2653682590",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4723983410",
+    "boundingbox": [
+      "17.9745108",
+      "17.9746108",
+      "102.6053796",
+      "102.6054796"
+    ],
+    "lat": "17.9745608",
+    "lon": "102.6054296",
+    "display_name": "Biergarten, \u0e96\u0eb0\u0edc\u0ebb\u0e99 \u0ec0\u0ead\u0e8a\u0ebd\u0e99, \u0e82\u0ebb\u0ea7\u0eab\u0ebc\u0ea7\u0e87\u0ec3\u0e95\u0ec9, \u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e88\u0eb1\u0e99\u0e97\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5, \u0e99\u0eb0\u0e84\u0ead\u0e99\u0eab\u0ebc\u0ea7\u0e87\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99, 0100, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "11987082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1133835760",
+    "boundingbox": [
+      "56.3467482",
+      "56.3468482",
+      "30.5146911",
+      "30.5147911"
+    ],
+    "lat": "56.3467982",
+    "lon": "30.5147411",
+    "display_name": "BierGarten, \u041a\u0440\u0430\u0441\u043d\u043e\u0444\u043b\u043e\u0442\u0441\u043a\u0430\u044f \u043d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430\u044f, \u0421\u043c\u043e\u043b\u044f\u043d\u0438\u043d\u043e\u0432\u043e, \u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041b\u0443\u043a\u0438, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0412\u0435\u043b\u0438\u043a\u0438\u0435 \u041b\u0443\u043a\u0438, \u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 182100, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

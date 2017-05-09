@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "53288093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4045561179",
+    "boundingbox": [
+      "40.7357826",
+      "40.7358826",
+      "-74.0019358",
+      "-74.0018358"
+    ],
+    "lat": "40.7358326",
+    "lon": "-74.0018858",
+    "display_name": "Saturdays, Perry Street, Greenwich Village, Manhattan, New York County, NYC, New York, 10014, United States of America",
+    "class": "amenity",
+    "type": "clothing store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146361558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371540566",
+    "boundingbox": [
+      "40.0659304",
+      "40.0659982",
+      "-83.0870542",
+      "-83.0868393"
+    ],
+    "lat": "40.0659654",
+    "lon": "-83.0869469062129",
+    "display_name": "Saturday's, Pickforde Drive, Columbus, Franklin County, Ohio, 43235, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

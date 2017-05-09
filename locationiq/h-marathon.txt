@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "146533429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372366515",
+    "boundingbox": [
+      "25.048884",
+      "25.0532067",
+      "-77.3311549",
+      "-77.3248547"
+    ],
+    "lat": "25.0504753",
+    "lon": "-77.3287412718398",
+    "display_name": "Marathon, The Bahamas",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "816735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269816004",
+    "boundingbox": [
+      "42.1979979",
+      "42.1980979",
+      "-85.6426967",
+      "-85.6425967"
+    ],
+    "lat": "42.1980479",
+    "lon": "-85.6426467",
+    "display_name": "Marathon, West Centre Avenue, Portage, Kalamazoo County, Michigan, 49024, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.50251317578818,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "160302383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "270642",
+    "boundingbox": [
+      "44.681183",
+      "45.12051",
+      "-90.3165463",
+      "-89.2233538"
+    ],
+    "lat": "44.8914036",
+    "lon": "-89.7748097",
+    "display_name": "Marathon County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50047892248498,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160264713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "117966",
+    "boundingbox": [
+      "24.68836",
+      "24.777277",
+      "-81.1247689",
+      "-80.9233769"
+    ],
+    "lat": "24.7137524",
+    "lon": "-81.0903511",
+    "display_name": "Marathon, Monroe County, Florida, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47274364316066,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "283509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "81386205",
+    "boundingbox": [
+      "48.6762203",
+      "48.7562203",
+      "-86.4158953",
+      "-86.3358953"
+    ],
+    "lat": "48.7162203",
+    "lon": "-86.3758953",
+    "display_name": "Marathon, Ontario, Canada",
+    "class": "place",
+    "type": "town",
+    "importance": 0.43634000491239,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "409541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153735401",
+    "boundingbox": [
+      "44.9015679",
+      "44.9415679",
+      "-89.8442903",
+      "-89.8042903"
+    ],
+    "lat": "44.9215679",
+    "lon": "-89.8242903",
+    "display_name": "Marathon, Marathon County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.4282657693621,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "346685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151416816",
+    "boundingbox": [
+      "30.0393684",
+      "30.0793684",
+      "-90.621477",
+      "-90.581477"
+    ],
+    "lat": "30.0593684",
+    "lon": "-90.601477",
+    "display_name": "Marathon, St. John the Baptist Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "360950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151474336",
+    "boundingbox": [
+      "33.045401",
+      "33.085401",
+      "-91.0392715",
+      "-90.9992715"
+    ],
+    "lat": "33.065401",
+    "lon": "-91.0192715",
+    "display_name": "Marathon, Washington County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "362270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151483885",
+    "boundingbox": [
+      "30.1851688",
+      "30.2251688",
+      "-103.2646204",
+      "-103.2246204"
+    ],
+    "lat": "30.2051688",
+    "lon": "-103.2446204",
+    "display_name": "Marathon, Brewster County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37020262461153,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "440371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154380810",
+    "boundingbox": [
+      "39.1247857",
+      "39.1647857",
+      "-84.0263209",
+      "-83.9863209"
+    ],
+    "lat": "39.1447857",
+    "lon": "-84.0063209",
+    "display_name": "Marathon, Jackson Township, Clermont County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35844201129513,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

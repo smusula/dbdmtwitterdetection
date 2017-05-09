@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160694685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3755083",
+    "boundingbox": [
+      "28.4214309",
+      "28.424643",
+      "77.0566997",
+      "77.060122"
+    ],
+    "lat": "28.4229766",
+    "lon": "77.0577468086375",
+    "display_name": "Hibiscus, Sector 50, Gurugram, Gurgaon District, Haryana, India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "133189553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301852771",
+    "boundingbox": [
+      "-25.8423058",
+      "-25.8411907",
+      "28.3030199",
+      "28.3051401"
+    ],
+    "lat": "-25.8417582",
+    "lon": "28.3040788206695",
+    "display_name": "Hibiscus, Tshwane Ward 91, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0044, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "112047474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204393284",
+    "boundingbox": [
+      "19.1365783",
+      "19.1373157",
+      "72.8158528",
+      "72.8168398"
+    ],
+    "lat": "19.13698935",
+    "lon": "72.8164178892945",
+    "display_name": "Hibiscus, Versova, Sunder Wadi, Greater Bombay, Maharashtra, 400061, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "63582458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15152216",
+    "boundingbox": [
+      "29.548295",
+      "29.548586",
+      "-98.3817399",
+      "-98.3811979"
+    ],
+    "lat": "29.548383",
+    "lon": "-98.3816039",
+    "display_name": "Hibiscus, San Antonio, Bexar County, Texas, 78233, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "91343367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119633244",
+    "boundingbox": [
+      "27.7190914",
+      "27.7193887",
+      "-97.430611",
+      "-97.4303267"
+    ],
+    "lat": "27.7193387",
+    "lon": "-97.4304603",
+    "display_name": "Hibiscus, Corpus Christi, Nueces County, Texas, 78415, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57727156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5545441",
+    "boundingbox": [
+      "14.6207773",
+      "14.6225178",
+      "121.0373642",
+      "121.0383643"
+    ],
+    "lat": "14.6225178",
+    "lon": "121.0373642",
+    "display_name": "Hibiscus, Mariana, Quezon City, District IV, Quezon City, Metro Manila, 1112, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67127274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20762720",
+    "boundingbox": [
+      "26.2228501",
+      "26.2239171",
+      "-97.6665864",
+      "-97.6660779"
+    ],
+    "lat": "26.2233048",
+    "lon": "-97.666467",
+    "display_name": "Hibiscus, Harlingen, Cameron County, Texas, 78550, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62599180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13298639",
+    "boundingbox": [
+      "33.6512743",
+      "33.65245",
+      "-117.5801217",
+      "-117.579932"
+    ],
+    "lat": "33.6517078",
+    "lon": "-117.580048",
+    "display_name": "Hibiscus, Robinson Ranch, Rancho Santa Margarita, Orange County, California, 92679, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63644900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15268842",
+    "boundingbox": [
+      "26.2049323",
+      "26.2072426",
+      "-98.1159639",
+      "-98.1155519"
+    ],
+    "lat": "26.2060798",
+    "lon": "-98.1157665",
+    "display_name": "Hibiscus, Alamo, Hidalgo County, Texas, 78516, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67142618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20762723",
+    "boundingbox": [
+      "26.074773",
+      "26.0748865",
+      "-97.4759853",
+      "-97.4743751"
+    ],
+    "lat": "26.0748865",
+    "lon": "-97.4759853",
+    "display_name": "Hibiscus, Los Fresnos, Cameron County, Texas, 78566, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

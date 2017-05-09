@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "2648589333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4602971510",
+    "boundingbox": [
+      "-4.0004847",
+      "-4.0003847",
+      "-79.2030884",
+      "-79.2029884"
+    ],
+    "lat": "-4.0004347",
+    "lon": "-79.2030384",
+    "display_name": "Toners, Azuay, 10 de Agosto, Loja, 110101, Ecuador",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645670591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4535780571",
+    "boundingbox": [
+      "-3.9849053",
+      "-3.9848053",
+      "-79.3595542",
+      "-79.3594542"
+    ],
+    "lat": "-3.9848553",
+    "lon": "-79.3595042",
+    "display_name": "Toners, Dieciocho de Noviembre, El Carmen, Catamayo, Cant\u00f3n Catamayo, Loja, 110202, Ecuador",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  }
+]

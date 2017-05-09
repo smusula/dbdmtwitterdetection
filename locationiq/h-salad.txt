@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "46386405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3304641838",
+    "boundingbox": [
+      "25.041659",
+      "25.041759",
+      "121.5476656",
+      "121.5477656"
+    ],
+    "lat": "25.041709",
+    "lon": "121.5477156",
+    "display_name": "salad, 91, \u5fe0\u5b5d\u6771\u8def\u56db\u6bb5, \u5149\u6b66\u91cc, \u9f8d\u5b89\u5761, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 106, \u81fa\u7063",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "17236520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1671272050",
+    "boundingbox": [
+      "45.8058514",
+      "45.8059514",
+      "9.0846682",
+      "9.0847682"
+    ],
+    "lat": "45.8059014",
+    "lon": "9.0847182",
+    "display_name": "Cioccolati Italiani, Piazza Vittoria, Garzola, Como, CO, LOM, 22100, Italia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "53594657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4100643162",
+    "boundingbox": [
+      "48.8965361",
+      "48.8966361",
+      "2.218329",
+      "2.218429"
+    ],
+    "lat": "48.8965861",
+    "lon": "2.218379",
+    "display_name": "Good Food, 22, Rue Pablo Neruda, Parc Nord, Nanterre, Arrondissement de Nanterre, Hauts-de-Seine, \u00cele-de-France, 92000, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "21867458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2169859146",
+    "boundingbox": [
+      "35.1889499",
+      "35.1890499",
+      "-111.6556166",
+      "-111.6555166"
+    ],
+    "lat": "35.1889999",
+    "lon": "-111.6555666",
+    "display_name": "The Garden Toss, Blome Drive North, Southside, Flagstaff, Coconino County, Arizona, 86011, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

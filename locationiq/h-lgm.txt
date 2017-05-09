@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "19688167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1909150179",
+    "boundingbox": [
+      "14.6964119",
+      "14.6965119",
+      "-17.4571182",
+      "-17.4570182"
+    ],
+    "lat": "14.6964619",
+    "lon": "-17.4570682",
+    "display_name": "LGM, Rue de Kolda (PE-25), Bopp, Amiti\u00e9 1, Dakar, R\u00e9gion de Dakar, 7141, S\u00e9n\u00e9gal",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "20478103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2063625167",
+    "boundingbox": [
+      "-21.2812078",
+      "-21.2811078",
+      "55.5173241",
+      "55.5174241"
+    ],
+    "lat": "-21.2811578",
+    "lon": "55.5173741",
+    "display_name": "LGM, Rue Hubert Delisle, Le Tampon, Saint-Pierre, La R\u00e9union, 97430, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "98661397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150382479",
+    "boundingbox": [
+      "48.782968",
+      "48.783284",
+      "2.211485",
+      "2.212113"
+    ],
+    "lat": "48.783127",
+    "lon": "2.2117973685152",
+    "display_name": "LGM, 13, Avenue Morane Saulnier, Inovel, V\u00e9lizy-Villacoublay, Versailles, Yvelines, \u00cele-de-France, 78140, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653904548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "455714629",
+    "boundingbox": [
+      "51.1205641",
+      "51.1209765",
+      "4.0192325",
+      "4.0199872"
+    ],
+    "lat": "51.1207779",
+    "lon": "4.01960958820508",
+    "display_name": "LGM, Krommingenstraat, Waasmunster, Dendermonde, Oost-Vlaanderen, Vlaanderen, 9250, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4602725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "496982689",
+    "boundingbox": [
+      "49.3078668",
+      "49.3079668",
+      "12.83518",
+      "12.83528"
+    ],
+    "lat": "49.3079168",
+    "lon": "12.83523",
+    "display_name": "LGM, Marienstra\u00dfe, Furth im Wald, Landkreis Cham, OPf, Bayern, 93437, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4493819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "496982687",
+    "boundingbox": [
+      "49.3078612",
+      "49.3079612",
+      "12.8350684",
+      "12.8351684"
+    ],
+    "lat": "49.3079112",
+    "lon": "12.8351184",
+    "display_name": "LGM, 13b, Marienstra\u00dfe, Furth im Wald, Landkreis Cham, OPf, Bayern, 93437, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "39231639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2914246202",
+    "boundingbox": [
+      "-18.1597338",
+      "-18.1596338",
+      "49.4216327",
+      "49.4217327"
+    ],
+    "lat": "-18.1596838",
+    "lon": "49.4216827",
+    "display_name": "LGM, Rue Nationale, Toamasina, Ampasimazava, Toamasina, R\u00e9gion de Atsinanana, Province de Tamatave, 501, Madagasikara",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "44534710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3163095377",
+    "boundingbox": [
+      "58.4313826",
+      "58.4413826",
+      "15.7806811",
+      "15.7906811"
+    ],
+    "lat": "58.4363826",
+    "lon": "15.7856811",
+    "display_name": "Linghem, E 796, Linghem, Link\u00f6ping, Landskapet \u00d6sterg\u00f6tland, \u00d6sterg\u00f6tlands l\u00e4n, G\u00f6taland, Sverige",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

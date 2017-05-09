@@ -1,0 +1,133 @@
+[
+  {
+    "place_id": "475537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158452335",
+    "boundingbox": [
+      "39.9839868",
+      "40.0239868",
+      "-76.596632",
+      "-76.556632"
+    ],
+    "lat": "40.0039868",
+    "lon": "-76.576632",
+    "display_name": "Stoner, York County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "377370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151826182",
+    "boundingbox": [
+      "37.5694381",
+      "37.6094381",
+      "-108.340084",
+      "-108.300084"
+    ],
+    "lat": "37.5894381",
+    "lon": "-108.320084",
+    "display_name": "Stoner, Montezuma County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14999330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1366501709",
+    "boundingbox": [
+      "45.8950865",
+      "45.9350865",
+      "11.6549939",
+      "11.6949939"
+    ],
+    "lat": "45.9150865",
+    "lon": "11.6749939",
+    "display_name": "Stoner, VI, VEN, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13149610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1230023780",
+    "boundingbox": [
+      "53.6202405",
+      "53.6402405",
+      "-122.6732577",
+      "-122.6532577"
+    ],
+    "lat": "53.6302405",
+    "lon": "-122.6632577",
+    "display_name": "Stoner, Prince George, Regional District of Fraser-Fort George, British Columbia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "65055859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17034544",
+    "boundingbox": [
+      "37.4113662",
+      "37.4130056",
+      "-105.6633999",
+      "-105.6566246"
+    ],
+    "lat": "37.4130021",
+    "lon": "-105.6610669",
+    "display_name": "Stoner, Costilla County, Colorado, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62294520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12825773",
+    "boundingbox": [
+      "36.118863",
+      "36.119802",
+      "-92.1441329",
+      "-92.1439079"
+    ],
+    "lat": "36.119733",
+    "lon": "-92.1440479",
+    "display_name": "Stoner, Calico Rock, Izard County, Arkansas, 72517, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49991880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3725669777",
+    "boundingbox": [
+      "12.9763642",
+      "12.9764642",
+      "77.6411863",
+      "77.6412863"
+    ],
+    "lat": "12.9764142",
+    "lon": "77.6412363",
+    "display_name": "Stoner, 51, 100 Feet Road(S K Karim Khan Road), HAL 1st Stage, Hoysala Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160327473",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "396507",
+    "boundingbox": [
+      "38.3133402",
+      "38.9259921",
+      "-122.4229284",
+      "-121.5011699"
+    ],
+    "lat": "38.7184542",
+    "lon": "-121.9059",
+    "display_name": "Yolo County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55301198074231,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "151911373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400926897",
+    "boundingbox": [
+      "-4.3315409",
+      "-4.3258608",
+      "15.3339067",
+      "15.3356933"
+    ],
+    "lat": "-4.3287855",
+    "lon": "15.3354586",
+    "display_name": "Yolo, Limete, Kinshasa, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "17665475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1703672504",
+    "boundingbox": [
+      "13.5987144",
+      "13.6787144",
+      "-5.6682732",
+      "-5.5882732"
+    ],
+    "lat": "13.6387144",
+    "lon": "-5.6282732",
+    "display_name": "Yolo, Cercle de S\u00e9gou, S\u00e9gou, Mali",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "336809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150941861",
+    "boundingbox": [
+      "38.7118481",
+      "38.7518481",
+      "-121.827743",
+      "-121.787743"
+    ],
+    "lat": "38.7318481",
+    "lon": "-121.807743",
+    "display_name": "Yolo, Yolo County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "356633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151598592",
+    "boundingbox": [
+      "38.412798",
+      "38.452798",
+      "-93.5588206",
+      "-93.5188206"
+    ],
+    "lat": "38.432798",
+    "lon": "-93.5388206",
+    "display_name": "Yolo, Henry County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4475702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473482465",
+    "boundingbox": [
+      "13.7266864",
+      "13.7666864",
+      "0.7271558",
+      "0.7671558"
+    ],
+    "lat": "13.7466864",
+    "lon": "0.7471558",
+    "display_name": "Yolo, T\u00e9ra, Tillab\u00e9ri, Niger",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41323363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3007314393",
+    "boundingbox": [
+      "6.5974343",
+      "6.6374343",
+      "-10.8082772",
+      "-10.7682772"
+    ],
+    "lat": "6.6174343",
+    "lon": "-10.7882772",
+    "display_name": "Weawolo, Klay, Bomi County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28854417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2682793456",
+    "boundingbox": [
+      "7.1761697",
+      "7.2161697",
+      "19.984352",
+      "20.024352"
+    ],
+    "lat": "7.1961697",
+    "lon": "20.004352",
+    "display_name": "Yombo-Bac, Nana-Gr\u00e9bizi, K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka - R\u00e9publique Centrafricaine",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "86102121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "100522110",
+    "boundingbox": [
+      "-34.9491535",
+      "-34.9472521",
+      "-54.9380799",
+      "-54.9376562"
+    ],
+    "lat": "-34.9491535",
+    "lon": "-54.9376562",
+    "display_name": "Yolo, Punta Del Este, Maldonado, 20100, Uruguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111650430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202771778",
+    "boundingbox": [
+      "14.2690974",
+      "14.2701089",
+      "121.0677561",
+      "121.069355"
+    ],
+    "lat": "14.2696834",
+    "lon": "121.0684802",
+    "display_name": "Yolo, Laguna Bel-Air, Nuvali, Pulong Santa Cruz, Santa Rosa, Laguna, Calabarzon, 4026, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

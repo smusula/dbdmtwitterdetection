@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160260428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "87565",
+    "boundingbox": [
+      "-47.1788334",
+      "-22.12503",
+      "16.3335213",
+      "38.2898954"
+    ],
+    "lat": "-28.8166235",
+    "lon": "24.991639",
+    "display_name": "South Africa",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78638243370969,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "52155058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3924348878",
+    "boundingbox": [
+      "50.3294152",
+      "50.3694152",
+      "-4.7250944",
+      "-4.6850944"
+    ],
+    "lat": "50.3494152",
+    "lon": "-4.7050944",
+    "display_name": "Par, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.58009763253116,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160433430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1674782",
+    "boundingbox": [
+      "34.5840785",
+      "35.4210098",
+      "68.1897505",
+      "69.6206048"
+    ],
+    "lat": "34.9797014",
+    "lon": "68.9146703",
+    "display_name": "Parwan \u067e\u0631\u0648\u0627\u0646, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56540755765673,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "46665574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3380976589",
+    "boundingbox": [
+      "37.6614547",
+      "37.7014547",
+      "44.9905597",
+      "45.0305597"
+    ],
+    "lat": "37.6814547",
+    "lon": "45.0105597",
+    "display_name": "Par, \u0628\u062e\u0634 \u0646\u0627\u0632\u0644\u0648, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0631\u0648\u0645\u06cc\u0647, \u0627\u0633\u062a\u0627\u0646 \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u063a\u0631\u0628\u06cc\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653813323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479679552",
+    "boundingbox": [
+      "43.0512897",
+      "43.0544418",
+      "42.4908914",
+      "42.4977317"
+    ],
+    "lat": "43.0527185",
+    "lon": "42.4931666",
+    "display_name": "\u10e4\u10d0\u10e0\u10d8 (Pari), \u10db\u10d4\u10e1\u10e2\u10d8\u10d0, \u10e1\u10d0\u10db\u10d4\u10d2\u10e0\u10d4\u10da\u10dd-\u10d6\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646914278",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "458461654",
+    "boundingbox": [
+      "-37.8123142",
+      "-37.8095298",
+      "144.9721137",
+      "144.9737061"
+    ],
+    "lat": "-37.810922",
+    "lon": "144.972906133537",
+    "display_name": "Parliament, Spring Street, East Melbourne, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3000, Australia",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.32123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "16641039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1581290819",
+    "boundingbox": [
+      "45.6717436",
+      "45.6917436",
+      "10.2015092",
+      "10.2215092"
+    ],
+    "lat": "45.6817436",
+    "lon": "10.2115092",
+    "display_name": "Paer, Sarezzo, Comunit\u00e0 montana della valle Trompia, BS, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48238767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3509571904",
+    "boundingbox": [
+      "38.1197337",
+      "38.1597337",
+      "42.7266259",
+      "42.7666259"
+    ],
+    "lat": "38.1397337",
+    "lon": "42.7466259",
+    "display_name": "Papatya, \u00c7atbay\u0131r, Bah\u00e7esaray, Van, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "66132338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18522951",
+    "boundingbox": [
+      "38.4710093",
+      "38.4711504",
+      "-90.4997241",
+      "-90.4986683"
+    ],
+    "lat": "38.4711437",
+    "lon": "-90.4993979",
+    "display_name": "Par, Parkdale, Jefferson County, Missouri, 63049, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85460813",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97508201",
+    "boundingbox": [
+      "51.5229046",
+      "51.5229759",
+      "-0.1024639",
+      "-0.1023064"
+    ],
+    "lat": "51.5229424",
+    "lon": "-0.102380530769224",
+    "display_name": "PAR, Albemarle Way, Clerkenwell, London Borough of Islington, London, Greater London, England, EC1M 5RJ, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

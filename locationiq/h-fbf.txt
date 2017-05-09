@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "68646191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23620688",
+    "boundingbox": [
+      "51.1565921",
+      "51.1571634",
+      "4.3797674",
+      "4.3806159"
+    ],
+    "lat": "51.15688265",
+    "lon": "4.38019315485414",
+    "display_name": "FBF, 4-8, Dynamicalaan, Terbekehof, Wilrijk, Antwerpen, Vlaanderen, 2610, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146867833",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374101634",
+    "boundingbox": [
+      "-17.3788656",
+      "-17.3787301",
+      "-66.1605646",
+      "-66.1603938"
+    ],
+    "lat": "-17.3787958",
+    "lon": "-66.1604752946211",
+    "display_name": "FBF, Avenida Libertador Sim\u00f3n Bolivar, Portales, Distrito 12, Adela Zamudio, Cochabamba, Kanata, Cercado, CBA, 662, Bolivia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "69941001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26181460",
+    "boundingbox": [
+      "55.6576823",
+      "55.6580465",
+      "12.355883",
+      "12.3569518"
+    ],
+    "lat": "55.6578748",
+    "lon": "12.356472213116",
+    "display_name": "Forbr\u00e6ndingen, Vognporten, Albertslund, Albertslund Kommune, Region Hovedstaden, 2625, Danmark",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

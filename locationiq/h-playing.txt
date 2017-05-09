@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "72113200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31783874",
+    "boundingbox": [
+      "54.7687048",
+      "54.7698169",
+      "-1.576239",
+      "-1.5736431"
+    ],
+    "lat": "54.7692476",
+    "lon": "-1.57498894851002",
+    "display_name": "The Chorister School Playing Fields, Quarryheads Lane, Aykley Heads, Durham, County Durham, North East England, England, DH1 3RJ, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.54700658064227
+  },
+  {
+    "place_id": "107666397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "185770360",
+    "boundingbox": [
+      "51.4337448",
+      "51.4380085",
+      "-0.2533172",
+      "-0.2451698"
+    ],
+    "lat": "51.4358183",
+    "lon": "-0.24942711980525",
+    "display_name": "Richardson Evans Memorial Playing Fields, Friar's Avenue, Putney Vale, London Borough of Wandsworth, London, Greater London, England, SW19, UK",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.4740320746879
+  },
+  {
+    "place_id": "17663754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1700724507",
+    "boundingbox": [
+      "50.214157",
+      "50.254157",
+      "-5.0885225",
+      "-5.0485225"
+    ],
+    "lat": "50.234157",
+    "lon": "-5.0685225",
+    "display_name": "Playing Place, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "68356291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23018730",
+    "boundingbox": [
+      "52.5176251",
+      "52.528812",
+      "-1.9219893",
+      "-1.9072226"
+    ],
+    "lat": "52.52344775",
+    "lon": "-1.91357801729038",
+    "display_name": "Perry Hall Playing Fields, River Tame Way, Handsworth Wood, Perry Beeches, Birmingham, West Midlands, England, B42 1QF, UK",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.36392466723397
+  },
+  {
+    "place_id": "47940758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3501044519",
+    "boundingbox": [
+      "51.484498",
+      "51.504498",
+      "-0.6121061",
+      "-0.5921061"
+    ],
+    "lat": "51.494498",
+    "lon": "-0.6021061",
+    "display_name": "The Playing Fields, Eton, Windsor and Maidenhead, South East, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648984633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31562493",
+    "boundingbox": [
+      "55.9641369",
+      "55.966544",
+      "-3.202841",
+      "-3.1991701"
+    ],
+    "lat": "55.96533125",
+    "lon": "-3.20107748496272",
+    "display_name": "Warriston Playing Fields, Newhaven, Edinburgh, City of Edinburgh, Scotland, UK",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "91249123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119363804",
+    "boundingbox": [
+      "55.96803",
+      "55.9718812",
+      "-3.2070162",
+      "-3.2008529"
+    ],
+    "lat": "55.9698779",
+    "lon": "-3.20326707637231",
+    "display_name": "Goldenacre Playing Fields (George Heriot's), Inverleith, Edinburgh, City of Edinburgh, Scotland, UK",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2650365597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469807203",
+    "boundingbox": [
+      "-33.767501",
+      "-33.7621738",
+      "151.207513",
+      "151.2109924"
+    ],
+    "lat": "-33.76471725",
+    "lon": "151.209390240104",
+    "display_name": "Forestville War Memorial Playing Fields, Forestville, Sydney, Northern Beaches, NSW, 2087, Australia",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2646886446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7812283",
+    "boundingbox": [
+      "57.1638948",
+      "57.1668284",
+      "-2.1095291",
+      "-2.1065505"
+    ],
+    "lat": "57.16542745",
+    "lon": "-2.10779752221999",
+    "display_name": "St. Machar Playing Fields, Tillydrone, Aberdeen, Aberdeen City, Scotland, AB10, UK",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "115593672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219627439",
+    "boundingbox": [
+      "52.5803068",
+      "52.5837821",
+      "1.6909159",
+      "1.698701"
+    ],
+    "lat": "52.5820256",
+    "lon": "1.69388860411954",
+    "display_name": "Mill Lane Playing Field, Bradwell, Great Yarmouth, Norfolk, East of England, England, UK",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  }
+]

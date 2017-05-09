@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "121490432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243111414",
+    "boundingbox": [
+      "18.1476423",
+      "18.1547706",
+      "-76.9009548",
+      "-76.8911916"
+    ],
+    "lat": "18.1505194",
+    "lon": "-76.8951841949987",
+    "display_name": "Grateful Hill, Saint Catherine, Middlesex County, Jamaica",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "57739551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5273134",
+    "boundingbox": [
+      "39.1943099",
+      "39.1945841",
+      "-76.9093292",
+      "-76.9081554"
+    ],
+    "lat": "39.1944529",
+    "lon": "-76.9086393",
+    "display_name": "Grateful Heart Gate, Village of River Hill - Pointers Run, River Hill, Simpsonville, Howard County, Maryland, 21044, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "97615402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145040125",
+    "boundingbox": [
+      "39.1928768",
+      "39.1943099",
+      "-76.9100408",
+      "-76.9093292"
+    ],
+    "lat": "39.1936469",
+    "lon": "-76.9096969",
+    "display_name": "Grateful Heart Gate, Village of River Hill - Pointers Run, River Hill, Simpsonville, Howard County, Maryland, 21044, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61310032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11502625",
+    "boundingbox": [
+      "38.7932872",
+      "38.7946335",
+      "-76.6013775",
+      "-76.598706"
+    ],
+    "lat": "38.7946251",
+    "lon": "-76.6003636",
+    "display_name": "Grateful Acres Lane, Bountys View, Anne Arundel County, Maryland, 20779, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65215577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17663876",
+    "boundingbox": [
+      "38.332597",
+      "38.333214",
+      "-76.5907939",
+      "-76.5906609"
+    ],
+    "lat": "38.332882",
+    "lon": "-76.5907319",
+    "display_name": "Grateful Way, Holly Gaf Acres, Saint Mary's County, Maryland, 20636, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62436553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12645645",
+    "boundingbox": [
+      "29.980219",
+      "29.980577",
+      "-91.8435209",
+      "-91.8432279"
+    ],
+    "lat": "29.980455",
+    "lon": "-91.8432449",
+    "display_name": "Grateful Pass, Brannon, Iberia Parish, Louisiana, 70560, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90200566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115730012",
+    "boundingbox": [
+      "36.005804",
+      "36.006584",
+      "-78.6027629",
+      "-78.6007039"
+    ],
+    "lat": "36.006262",
+    "lon": "-78.6018059",
+    "display_name": "Grateful Traill, New Light, Wake County, North Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58001097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5903639",
+    "boundingbox": [
+      "48.154882",
+      "48.166521",
+      "-122.5905939",
+      "-122.5878649"
+    ],
+    "lat": "48.157473",
+    "lon": "-122.5905939",
+    "display_name": "South Grateful Acre Place, Island County, Washington, 98239, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "18053618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1734782301",
+    "boundingbox": [
+      "47.6796502",
+      "47.6797502",
+      "-122.2907124",
+      "-122.2906124"
+    ],
+    "lat": "47.6797002",
+    "lon": "-122.2906624",
+    "display_name": "Grateful Bread Baking Co, 7001, 35th Avenue Northeast, Wedgwood, University District, Seattle, King County, Washington, 98125, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48231419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3540104123",
+    "boundingbox": [
+      "37.7394974",
+      "37.7395974",
+      "-122.4669693",
+      "-122.4668693"
+    ],
+    "lat": "37.7395474",
+    "lon": "-122.4669193",
+    "display_name": "The Grateful Head, 103, West Portal Ave, West Portal, SF, California, 94127, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

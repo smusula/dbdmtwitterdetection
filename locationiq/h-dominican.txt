@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "70625184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28068491",
+    "boundingbox": [
+      "14.4922955",
+      "14.4928458",
+      "121.025448",
+      "121.0284693"
+    ],
+    "lat": "14.4923454",
+    "lon": "121.0256025",
+    "display_name": "Dominican, Sun Valley, Santa Ana Village, Para\u00f1aque, Metro Manila, 1709, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "23825151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2329109535",
+    "boundingbox": [
+      "50.8491991",
+      "50.8492991",
+      "4.3546512",
+      "4.3547512"
+    ],
+    "lat": "50.8492491",
+    "lon": "4.3547012",
+    "display_name": "The Dominican, 9, Rue L\u00e9opold - Leopoldstraat, Quartier du Centre - Centrumwijk, BXL, Ville de Bruxelles - Stad Brussel, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1000, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "54103020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4142945325",
+    "boundingbox": [
+      "40.2293627",
+      "40.2294627",
+      "-74.725347",
+      "-74.725247"
+    ],
+    "lat": "40.2294127",
+    "lon": "-74.725297",
+    "display_name": "Buen Gusto Family Restaurant, 2003, Greenwood Avenue, Trenton, Mercer County, New Jersey, 08609, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

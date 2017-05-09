@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "158619285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437874991",
+    "boundingbox": [
+      "48.8656286",
+      "48.8662012",
+      "2.3734324",
+      "2.3740734"
+    ],
+    "lat": "48.86595115",
+    "lon": "2.37370290089469",
+    "display_name": "Centre de secours Parmentier, 87, Avenue Parmentier, Folie-M\u00e9ricourt, 11e, Paris, \u00cele-de-France, 75011, France",
+    "class": "amenity",
+    "type": "fire_station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_firestation3.p.20.png"
+  },
+  {
+    "place_id": "82242133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81080224",
+    "boundingbox": [
+      "48.1020612",
+      "48.1024598",
+      "-1.7415353",
+      "-1.7411154"
+    ],
+    "lat": "48.1023371",
+    "lon": "-1.74135587937025",
+    "display_name": "Parm', Rue des Mar\u00e9chales, Parc d'activit\u00e9 des Trois Marches, Pont Ch\u00e2teau, Vezin-le-Coquet, Rennes, Ille-et-Vilaine, Bretagne, 35132, France",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  }
+]

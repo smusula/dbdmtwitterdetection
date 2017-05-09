@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160236439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7444",
+    "boundingbox": [
+      "48.8155755",
+      "48.902156",
+      "2.224122",
+      "2.4697602"
+    ],
+    "lat": "48.8566101",
+    "lon": "2.3514992",
+    "display_name": "Paris, \u00cele-de-France, France",
+    "class": "place",
+    "type": "city",
+    "importance": 0.86893459932191,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160257602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "71525",
+    "boundingbox": [
+      "48.8155755",
+      "48.902156",
+      "2.224122",
+      "2.4697602"
+    ],
+    "lat": "48.85881005",
+    "lon": "2.32003101155031",
+    "display_name": "Paris, \u00cele-de-France, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.86893459932191,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160548305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2528142",
+    "boundingbox": [
+      "42.5553114",
+      "45.2764135",
+      "15.7287433",
+      "19.6237311"
+    ],
+    "lat": "44.3053476",
+    "lon": "17.5961467",
+    "display_name": "Bosna i Hercegovina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7129671382003,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "131444982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293814124",
+    "boundingbox": [
+      "48.0930224",
+      "48.2256188",
+      "17.0065223",
+      "17.2400247"
+    ],
+    "lat": "48.1535383",
+    "lon": "17.1096711",
+    "display_name": "Bratislava, Bratislavsk\u00fd kraj, Slovensko",
+    "class": "place",
+    "type": "city",
+    "importance": 0.68945533940805,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160723028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3992676",
+    "boundingbox": [
+      "48.0178865",
+      "48.2537932",
+      "16.9659115",
+      "17.2400247"
+    ],
+    "lat": "48.1535383",
+    "lon": "17.1096711",
+    "display_name": "Bratislava, Bratislavsk\u00fd kraj, Slovensko",
+    "class": "place",
+    "type": "city",
+    "importance": 0.68945533940805,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160321728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "362413",
+    "boundingbox": [
+      "-18.3679137",
+      "-8.5260055",
+      "-46.6169999",
+      "-37.1888914"
+    ],
+    "lat": "-12.2852509",
+    "lon": "-41.9294775",
+    "display_name": "BA, Regi\u00e3o Nordeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.65391993511894,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160422753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1615621",
+    "boundingbox": [
+      "-9.0502286",
+      "-7.4627962",
+      "114.4126778",
+      "115.8324222"
+    ],
+    "lat": "-8.3304976",
+    "lon": "115.0906401",
+    "display_name": "Bali, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.61732016625253,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160426786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1632167",
+    "boundingbox": [
+      "-41.0368835",
+      "-33.2616118",
+      "-63.3927931",
+      "-56.6650496"
+    ],
+    "lat": "-36.3789924",
+    "lon": "-60.3855888",
+    "display_name": "Bs. As., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59565231030311,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160718338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3781240",
+    "boundingbox": [
+      "23.4936993",
+      "25.007481",
+      "56.1036606",
+      "57.687861"
+    ],
+    "lat": "24.2478322",
+    "lon": "56.6989073674214",
+    "display_name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0634\u0645\u0627\u0644 \u0627\u0644\u0628\u0627\u0637\u0646\u0629, \u0639\u0645\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160737791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3994012",
+    "boundingbox": [
+      "22.98773",
+      "24.0321261",
+      "56.8399046",
+      "58.049057"
+    ],
+    "lat": "23.5637588",
+    "lon": "57.6138425530215",
+    "display_name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0648\u0628 \u0627\u0644\u0628\u0627\u0637\u0646\u0629, \u0639\u0645\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

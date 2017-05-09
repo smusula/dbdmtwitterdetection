@@ -1,0 +1,168 @@
+[
+  {
+    "place_id": "56087758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4354717773",
+    "boundingbox": [
+      "45.4901051",
+      "45.4902051",
+      "9.2254817",
+      "9.2255817"
+    ],
+    "lat": "45.4901551",
+    "lon": "9.2255317",
+    "display_name": "GetFIT Club, Via Lambrate, Casoretto, Milano, MI, LOM, 20131, Italia",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94274917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130428268",
+    "boundingbox": [
+      "51.4867246",
+      "51.486964",
+      "8.3497081",
+      "8.3501944"
+    ],
+    "lat": "51.48686665",
+    "lon": "8.34995922545681",
+    "display_name": "getFit Belecke, 35, Wiebusch, Drewer, R\u00fcthen, Kreis Soest, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59581, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "48027065",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3481978048",
+    "boundingbox": [
+      "49.0721771",
+      "49.0722771",
+      "12.7113148",
+      "12.7114148"
+    ],
+    "lat": "49.0722271",
+    "lon": "12.7113648",
+    "display_name": "GeTFit Str\u00f6der GmbH, 4, Sankt-Ulrich-Stra\u00dfe, Gro\u00dfwieden, Konzell, Landkreis Straubing-Bogen, NB, Bayern, 94357, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47882957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3481945142",
+    "boundingbox": [
+      "49.0501814",
+      "49.0502814",
+      "12.6560469",
+      "12.6561469"
+    ],
+    "lat": "49.0502314",
+    "lon": "12.6560969",
+    "display_name": "GeTFit Str\u00f6der Gmbh, 10, Straubinger Stra\u00dfe, Stallwang, Stallwang (VGem), Landkreis Straubing-Bogen, NB, Bayern, 94375, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47705853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3481983931",
+    "boundingbox": [
+      "49.2144102",
+      "49.2145102",
+      "12.6686338",
+      "12.6687338"
+    ],
+    "lat": "49.2144602",
+    "lon": "12.6686838",
+    "display_name": "GeTFit Str\u00f6der GmbH, 5, Janahofer Stra\u00dfe, Janahof, Cham, Landkreis Cham, OPf, Bayern, 93413, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48027092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3481989802",
+    "boundingbox": [
+      "49.1895144",
+      "49.1896144",
+      "12.7515894",
+      "12.7516894"
+    ],
+    "lat": "49.1895644",
+    "lon": "12.7516394",
+    "display_name": "GeTFit Str\u00f6der GmbH, 46, Bachstra\u00dfe, Chamerau, Landkreis Cham, OPf, Bayern, 93466, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "130042927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286818259",
+    "boundingbox": [
+      "49.8000262",
+      "49.8007696",
+      "9.0017269",
+      "9.0028396"
+    ],
+    "lat": "49.80039785",
+    "lon": "9.00228322603031",
+    "display_name": "DM Lidl GetFit, Albert-Einstein-Stra\u00dfe, Gewerbegebiet Aue, H\u00f6chst i. Odw., Odenwaldkreis, Regierungsbezirk Darmstadt, Hessen, 64739, Deutschland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "54282941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4169652189",
+    "boundingbox": [
+      "48.5152639",
+      "48.5153639",
+      "32.2806021",
+      "32.2807021"
+    ],
+    "lat": "48.5153139",
+    "lon": "32.2806521",
+    "display_name": "\u0424\u0456\u0442\u043d\u0435\u0441-\u043a\u043b\u0443\u0431  GetFit, 21, \u0421\u0442\u0443\u0434\u0435\u043d\u0442\u0441\u044c\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, 5/5, \u041a\u0440\u043e\u043f\u0438\u0432\u043d\u0438\u0446\u044c\u043a\u0438\u0439, \u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u041a\u0456\u0440\u043e\u0432\u043e\u0433\u0440\u0430\u0434\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 25000-25490, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "18419732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1777244340",
+    "boundingbox": [
+      "10.7604087",
+      "10.7605087",
+      "106.6990403",
+      "106.6991403"
+    ],
+    "lat": "10.7604587",
+    "lon": "106.6990903",
+    "display_name": "GetFit Gym, Ho\u00e0ng Di\u1ec7u, Ph\u01b0\u1eddng 6, Qu\u1eadn 4, Tp HCM, 709999, Vi\u1ec7t Nam",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

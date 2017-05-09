@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "375341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151691534",
+    "boundingbox": [
+      "40.0188749",
+      "40.0588749",
+      "-105.4108273",
+      "-105.3708273"
+    ],
+    "lat": "40.0388749",
+    "lon": "-105.3908273",
+    "display_name": "Wallstreet, Boulder County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2530214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "343578709",
+    "boundingbox": [
+      "50.9633841",
+      "50.9634841",
+      "7.0019737",
+      "7.0020737"
+    ],
+    "lat": "50.9634341",
+    "lon": "7.0020237",
+    "display_name": "Wallstreet, 1, Regentenstra\u00dfe, Stegerwaldsiedlung, M\u00fclheim, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51063, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "21942329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2178696624",
+    "boundingbox": [
+      "50.6382115",
+      "50.6383115",
+      "5.5698654",
+      "5.5699654"
+    ],
+    "lat": "50.6382615",
+    "lon": "5.5699154",
+    "display_name": "Wallstreet, 29, Rue Saint-Remy, Le Carr\u00e9, Sainte-Marguerite, Li\u00e8ge, Wallonie, 4000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "46575240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3331617454",
+    "boundingbox": [
+      "27.7141284",
+      "27.7142284",
+      "85.313347",
+      "85.313447"
+    ],
+    "lat": "27.7141784",
+    "lon": "85.313397",
+    "display_name": "Wallstreet, Tridevi Sadak, Loot Chowk, Lainchaur, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, Ward no 30, \u0928\u0947\u092a\u093e\u0932",
+    "class": "amenity",
+    "type": "bureau_de_change",
+    "importance": 0.101
+  }
+]

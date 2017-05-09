@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160462887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1946207",
+    "boundingbox": [
+      "50.5902435",
+      "50.6954989",
+      "3.8765388",
+      "4.0667533"
+    ],
+    "lat": "50.6489028",
+    "lon": "3.9243973",
+    "display_name": "Silly, Soignies, Hainaut, Wallonie, 7830, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53993423267161,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160923451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5705432",
+    "boundingbox": [
+      "11.3073606",
+      "11.8160953",
+      "-2.6734699",
+      "-2.3621936"
+    ],
+    "lat": "11.55834",
+    "lon": "-2.52697908645303",
+    "display_name": "Silly, Sissili, Centre-Ouest, Burkina Faso",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49454431737364,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7125350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "768115307",
+    "boundingbox": [
+      "46.9472914",
+      "46.9872914",
+      "0.0332682",
+      "0.0732682"
+    ],
+    "lat": "46.9672914",
+    "lon": "0.0532682",
+    "display_name": "Silly, Ch\u00e2tellerault, Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24037329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2357331790",
+    "boundingbox": [
+      "49.2341919",
+      "49.2342919",
+      "-1.123885",
+      "-1.123785"
+    ],
+    "lat": "49.2342419",
+    "lon": "-1.123835",
+    "display_name": "Silly, Saint-Jean-de-Daye, Saint-L\u00f4, Manche, Normandie, 50620, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "23708174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2329447244",
+    "boundingbox": [
+      "43.0291233",
+      "43.0292233",
+      "43.1371555",
+      "43.1372555"
+    ],
+    "lat": "43.0291733",
+    "lon": "43.1372055",
+    "display_name": "\u0421\u0435\u043b\u043b\u044b, \u0427\u0435\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u0424",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "142149169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "345770693",
+    "boundingbox": [
+      "49.2284888",
+      "49.2291863",
+      "-0.0387176",
+      "-0.0380953"
+    ],
+    "lat": "49.2287428",
+    "lon": "-0.0384333",
+    "display_name": "Silly, Dozul\u00e9, Lisieux, Calvados, Normandie, 14430, France",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "8614990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "902927493",
+    "boundingbox": [
+      "11.58",
+      "11.62",
+      "-2.5199999",
+      "-2.4799999"
+    ],
+    "lat": "11.6",
+    "lon": "-2.4999999",
+    "display_name": "Silly, Sissili, Centre-Ouest, Burkina Faso",
+    "class": "place",
+    "type": "village",
+    "importance": 0.14652765815729,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4015481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "418332015",
+    "boundingbox": [
+      "50.6577815",
+      "50.6677815",
+      "3.9311943",
+      "3.9411943"
+    ],
+    "lat": "50.6627815",
+    "lon": "3.9361943",
+    "display_name": "Silly, Rue de la Nouvelle Gare, Silly, Soignies, Hainaut, Wallonie, 7830, Belgi\u00eb - Belgique - Belgien",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "22789107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2262919915",
+    "boundingbox": [
+      "46.7951483",
+      "46.7952483",
+      "15.5983625",
+      "15.5984625"
+    ],
+    "lat": "46.7951983",
+    "lon": "15.5984125",
+    "display_name": "PURESLeben - Ferienh\u00e4user am Thunauberg, 105, Teichsillyweg, Gabersdorf, Leibnitz, Steiermark, 8424, \u00d6sterreich",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158970438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "440021221",
+    "boundingbox": [
+      "43.0368464",
+      "43.0390304",
+      "43.1336532",
+      "43.1373064"
+    ],
+    "lat": "43.03798935",
+    "lon": "43.1354939948435",
+    "display_name": "\u0421\u0435\u043b\u043b\u044b, \u0427\u0435\u0440\u0435\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u0431\u0430\u0440\u0434\u0438\u043d\u043e-\u0411\u0430\u043b\u043a\u0430\u0440\u0438\u044f, \u0421\u041a\u0424\u041e, \u0420\u0424",
+    "class": "natural",
+    "type": "glacier",
+    "importance": 0.001
+  }
+]

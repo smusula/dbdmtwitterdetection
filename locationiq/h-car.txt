@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "106436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "8087537",
+    "boundingbox": [
+      "53.0308873",
+      "53.3508873",
+      "-3.0508954",
+      "-2.7308954"
+    ],
+    "lat": "53.1908873",
+    "lon": "-2.8908954",
+    "display_name": "Chester, Cheshire West and Chester, North West England, England, UK",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57060850056993,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160358836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "911249",
+    "boundingbox": [
+      "40.424664",
+      "40.729198",
+      "-81.3217239",
+      "-80.860681"
+    ],
+    "lat": "40.5250362",
+    "lon": "-81.0927233",
+    "display_name": "Carroll County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49873531220172,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "41007028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009672343",
+    "boundingbox": [
+      "53.0032846",
+      "53.0432846",
+      "22.8366112",
+      "22.8766112"
+    ],
+    "lat": "53.0232846",
+    "lon": "22.8566112",
+    "display_name": "Car, gmina \u0141apy, powiat bia\u0142ostocki, podlaskie, 18-100, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "129014396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281430183",
+    "boundingbox": [
+      "41.6449018",
+      "41.6788096",
+      "46.6527968",
+      "46.6981465"
+    ],
+    "lat": "41.6623795",
+    "lon": "46.6717766",
+    "display_name": "Car, Zaqatala rayonu, Az\u0259rbaycan",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52079603",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3921246402",
+    "boundingbox": [
+      "46.0527399",
+      "46.0528399",
+      "9.005003",
+      "9.005103"
+    ],
+    "lat": "46.0527899",
+    "lon": "9.005053",
+    "display_name": "Car, Circolo di Lugano est, Lugano, Circolo di Sonvico, Distretto di Lugano, Ticino, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "39063184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2910864941",
+    "boundingbox": [
+      "52.4795506",
+      "52.4995506",
+      "1.0296472",
+      "1.0496472"
+    ],
+    "lat": "52.4895506",
+    "lon": "1.0396472",
+    "display_name": "The Car, Breckland District, Norfolk, East of England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2608288401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6656137",
+    "boundingbox": [
+      "42.5821107",
+      "42.6175194",
+      "21.7384166",
+      "21.762929"
+    ],
+    "lat": "42.60013745",
+    "lon": "21.7516492203097",
+    "display_name": "\u0427\u0430\u0440, \u041f\u0447\u0438\u045a\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2646450807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "459629488",
+    "boundingbox": [
+      "25.9926833",
+      "25.9927091",
+      "-80.2673701",
+      "-80.2673229"
+    ],
+    "lat": "25.9926965",
+    "lon": "-80.267353444186",
+    "display_name": "Car, Miramar, Broward County, Florida, 33025, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "141413982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "340132006",
+    "boundingbox": [
+      "18.5273197",
+      "18.5276236",
+      "-72.3397443",
+      "-72.3395746"
+    ],
+    "lat": "18.52743325",
+    "lon": "-72.3396314447399",
+    "display_name": "10, Centre d'Appui \u00e0 la Reconstruction (CAR), 7e Morne l'Hopital, P\u00f2toprens, Arrondissement de Port-au-Prince, D\u00e9partement de l'Ouest, 6112, Ayiti",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "75110517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40721273",
+    "boundingbox": [
+      "4.8955086",
+      "4.9415492",
+      "-73.8860774",
+      "-73.8351531"
+    ],
+    "lat": "4.91796485",
+    "lon": "-73.8790232204393",
+    "display_name": "CAR, Tomine De Santa Barbara, Cundinamarca, Colombia",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  }
+]

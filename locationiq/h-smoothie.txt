@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "132998580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300979978",
+    "boundingbox": [
+      "45.4704164",
+      "45.4775289",
+      "6.8876387",
+      "6.9086471"
+    ],
+    "lat": "45.4719536",
+    "lon": "6.8950974",
+    "display_name": "Smoothie, Tignes, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, 73320, France",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "147821332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "378221723",
+    "boundingbox": [
+      "9.9320881",
+      "9.9322695",
+      "-84.0489525",
+      "-84.0489047"
+    ],
+    "lat": "9.9321787",
+    "lon": "-84.0489282026538",
+    "display_name": "Smoothie, V\u00eda 2, Barrio Pinto, San Pedro, Cant\u00f3n Montes de Oca, Provincia San Jos\u00e9, 11501, Costa Rica",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23653679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2342360111",
+    "boundingbox": [
+      "39.0017704",
+      "39.0018704",
+      "-1.871685",
+      "-1.871585"
+    ],
+    "lat": "39.0018204",
+    "lon": "-1.871635",
+    "display_name": "Quo, Calle Gerona, Albacete, Ca\u00f1icas-Canal de Mar\u00eda Cristina, Albacete, Castilla-La Mancha, 02006, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "50581213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3773761962",
+    "boundingbox": [
+      "39.4902149",
+      "39.4903149",
+      "2.8911702",
+      "2.8912702"
+    ],
+    "lat": "39.4902649",
+    "lon": "2.8912202",
+    "display_name": "Doze, Pla\u00e7a d'Espanya, Llucmajor, Migjorn, Illes Balears, 07620, 124",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

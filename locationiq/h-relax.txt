@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "80372116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67616239",
+    "boundingbox": [
+      "51.7765673",
+      "51.7786497",
+      "14.9782161",
+      "14.9811863"
+    ],
+    "lat": "51.7779628",
+    "lon": "14.9798655003131",
+    "display_name": "Relax, Lubsko, gmina Lubsko, powiat \u017carski, lubuskie, 68320, Polska",
+    "class": "landuse",
+    "type": "allotments",
+    "importance": 0.3
+  },
+  {
+    "place_id": "75225029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41024320",
+    "boundingbox": [
+      "52.00387",
+      "52.00612",
+      "20.27067",
+      "20.27199"
+    ],
+    "lat": "52.00533",
+    "lon": "20.27154",
+    "display_name": "Relax, Prochowy M\u0142ynek, Bartniki, gmina Puszcza Maria\u0144ska, powiat \u017cyrardowski, mazowieckie, Polska",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "9316153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "951740700",
+    "boundingbox": [
+      "50.8430173",
+      "50.8431173",
+      "5.7274374",
+      "5.7275374"
+    ],
+    "lat": "50.8430673",
+    "lon": "5.7274874",
+    "display_name": "Relax, 12, Dorpstraat, Heer, Maastricht, Limburg, Nederland, 6227BN, Nederland",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608605327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4462134933",
+    "boundingbox": [
+      "45.7972119",
+      "45.7973119",
+      "15.9147413",
+      "15.9148413"
+    ],
+    "lat": "45.7972619",
+    "lon": "15.9147913",
+    "display_name": "Relax, Jablanska ulica, Rude\u0161, Tre\u0161njevka - sjever, Zagreb, Grad Zagreb, 10145, Hrvatska",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45568703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3239607054",
+    "boundingbox": [
+      "63.4293012",
+      "63.4294012",
+      "10.392812",
+      "10.392912"
+    ],
+    "lat": "63.4293512",
+    "lon": "10.392862",
+    "display_name": "Relax, Erling Skakkes gate, Kalvskinnet, Midtbyen, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7012, Norge",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654659778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4747035724",
+    "boundingbox": [
+      "43.2583617",
+      "43.2584617",
+      "-2.9327685",
+      "-2.9326685"
+    ],
+    "lat": "43.2584117",
+    "lon": "-2.9327185",
+    "display_name": "Relax, Fern\u00e1ndez del Campo kalea, San Frantzizko, Zabalburu, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "bed",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84831362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94884043",
+    "boundingbox": [
+      "12.6544751",
+      "12.6550239",
+      "-7.9780541",
+      "-7.9776542"
+    ],
+    "lat": "12.65476115",
+    "lon": "-7.97785314806906",
+    "display_name": "Relax, Avenue Al Qoods - Route de Koulikoro, Di\u00e9libougou, Bamako, District de Bamako, 2386, Mali",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "80296455",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66977892",
+    "boundingbox": [
+      "46.4004538",
+      "46.4005738",
+      "6.587465",
+      "6.5876609"
+    ],
+    "lat": "46.40050165",
+    "lon": "6.58756730489624",
+    "display_name": "Le relax, 4, Rue de la Monnaie, La Serraz, \u00c9vian-les-Bains, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74500, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "4923599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "558680141",
+    "boundingbox": [
+      "48.8985445",
+      "48.8986445",
+      "9.1919042",
+      "9.1920042"
+    ],
+    "lat": "48.8985945",
+    "lon": "9.1919542",
+    "display_name": "Relax, 3, Holzmarkt, Ludwigsburg-Mitte, Ludwigsburg, Landkreis Ludwigsburg, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 71634, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "8459985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "900306616",
+    "boundingbox": [
+      "54.9077304",
+      "54.9078304",
+      "8.3079638",
+      "8.3080638"
+    ],
+    "lat": "54.9077804",
+    "lon": "8.3080138",
+    "display_name": "Relax, Wilhelmstra\u00dfe, Westerland, Sylt, Kreis Nordfriesland, Schleswig-Holstein, 25980, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

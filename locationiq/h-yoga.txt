@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "41291752",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3015159917",
+    "boundingbox": [
+      "6.546667",
+      "6.586667",
+      "-9.4366669",
+      "-9.3966669"
+    ],
+    "lat": "6.566667",
+    "lon": "-9.4166669",
+    "display_name": "Yoga, Tukpahblee, Bong County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41610502",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3032866085",
+    "boundingbox": [
+      "5.9807659",
+      "6.0207659",
+      "-10.1366584",
+      "-10.0966584"
+    ],
+    "lat": "6.0007659",
+    "lon": "-10.1166584",
+    "display_name": "Yoga, St. John River City, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "798447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "266083837",
+    "boundingbox": [
+      "35.6216477",
+      "35.6316477",
+      "139.6291719",
+      "139.6391719"
+    ],
+    "lat": "35.6266477",
+    "lon": "139.6341719",
+    "display_name": "\u7528\u8cc0, 427, \u8239\u6a4b, \u4e16\u7530\u8c37\u533a, \u6771\u4eac\u90fd, 158-0097, \u65e5\u672c",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.31303438301933,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "52770960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4017641144",
+    "boundingbox": [
+      "54.4817332",
+      "54.4818332",
+      "9.0463289",
+      "9.0464289"
+    ],
+    "lat": "54.4817832",
+    "lon": "9.0463789",
+    "display_name": "yoga, 120, Neustadt, Zentrum, Husum, Kreis Nordfriesland, Schleswig-Holstein, 25813, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "17876550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1720117845",
+    "boundingbox": [
+      "32.8956237",
+      "32.8957237",
+      "-117.1241495",
+      "-117.1240495"
+    ],
+    "lat": "32.8956737",
+    "lon": "-117.1240995",
+    "display_name": "Yoga, Black Mountain Road, Mira Mesa, San Diego, San Diego County, California, 92126, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "156349282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "425639343",
+    "boundingbox": [
+      "-0.2091924",
+      "-0.2090707",
+      "-78.4825584",
+      "-78.4824359"
+    ],
+    "lat": "-0.2091315",
+    "lon": "-78.4824971541114",
+    "display_name": "Yoga, Mallorca, Mariscal Sucre, Quito, Pichincha, 170525, Ecuador",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "54998074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4263451916",
+    "boundingbox": [
+      "-0.1566523",
+      "-0.1565523",
+      "-78.4803227",
+      "-78.4802227"
+    ],
+    "lat": "-0.1566023",
+    "lon": "-78.4802727",
+    "display_name": "Yoga, Avenida El Inca, El Carmen, Kennedy, Quito, Pichincha, 170501, Ecuador",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "46934411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3391247216",
+    "boundingbox": [
+      "53.1415634",
+      "53.1416634",
+      "-1.549847",
+      "-1.549747"
+    ],
+    "lat": "53.1416134",
+    "lon": "-1.549797",
+    "display_name": "Yoga, Smedley Street East, Matlock Town CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE4 3GN, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18808149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1853021543",
+    "boundingbox": [
+      "51.5721766",
+      "51.5722766",
+      "7.7144539",
+      "7.7145539"
+    ],
+    "lat": "51.5722266",
+    "lon": "7.7145039",
+    "display_name": "YOGA-Raum, 32, S\u00fcdfeld, Heeren-Werve, Kamen, Kreis Unna, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59174, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "51887187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3881448297",
+    "boundingbox": [
+      "36.7533728",
+      "36.7534728",
+      "-76.2459956",
+      "-76.2458956"
+    ],
+    "lat": "36.7534228",
+    "lon": "-76.2459456",
+    "display_name": "Yoga, 927, Battlefield Boulevard North, Magnolia Chase, Great Bridge, Chesapeake, Chesapeake City, Virginia, 23320, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

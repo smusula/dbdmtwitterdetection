@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "357648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151411294",
+    "boundingbox": [
+      "38.1469714",
+      "38.1869714",
+      "-93.4968723",
+      "-93.4568723"
+    ],
+    "lat": "38.1669714",
+    "lon": "-93.4768723",
+    "display_name": "Wisdom, Benton County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "400257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153436869",
+    "boundingbox": [
+      "36.983943",
+      "37.023943",
+      "-85.7399704",
+      "-85.6999704"
+    ],
+    "lat": "37.003943",
+    "lon": "-85.7199704",
+    "display_name": "Wisdom, Metcalfe County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160277919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "142603",
+    "boundingbox": [
+      "45.598433",
+      "45.621741",
+      "-113.4537659",
+      "-113.4373009"
+    ],
+    "lat": "45.6175681",
+    "lon": "-113.4495768",
+    "display_name": "Wisdom, Beaverhead County, Montana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35699840250201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "67406640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20529327",
+    "boundingbox": [
+      "14.6658519",
+      "14.6666325",
+      "121.039146",
+      "121.0415235"
+    ],
+    "lat": "14.6662671",
+    "lon": "121.0404507",
+    "display_name": "Wisdom, Saint Dominic Subdivision 8, Bahay Toro, Quezon City, District I, Quezon City, Metro Manila, 1128, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63254901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14307089",
+    "boundingbox": [
+      "36.0798394",
+      "36.0799199",
+      "-115.0985454",
+      "-115.0963934"
+    ],
+    "lat": "36.0799199",
+    "lon": "-115.0984357",
+    "display_name": "Wisdom, Midtown UNLV, Paradise, Clark County, Nevada, 89120, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100337070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156941316",
+    "boundingbox": [
+      "14.4655009",
+      "14.4657942",
+      "121.0256552",
+      "121.0265086"
+    ],
+    "lat": "14.4655009",
+    "lon": "121.0265086",
+    "display_name": "Wisdom, Dreamland Sucat Subdivision, San Antonio, Para\u00f1aque, Metro Manila, 1715, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100122368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156129792",
+    "boundingbox": [
+      "14.4117601",
+      "14.4123645",
+      "121.0035069",
+      "121.0038484"
+    ],
+    "lat": "14.4117601",
+    "lon": "121.0035069",
+    "display_name": "Wisdom, BF Classic Homes, Almanza Dos, Las Pi\u00f1as, District 2, Las Pi\u00f1as, Metro Manila, 1750, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99344263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153309627",
+    "boundingbox": [
+      "14.4282607",
+      "14.4287578",
+      "121.0124413",
+      "121.0125968"
+    ],
+    "lat": "14.4287578",
+    "lon": "121.0124413",
+    "display_name": "Wisdom, San Francisco Del Monte Subdivision, Almanza Uno, Las Pi\u00f1as, District 2, Las Pi\u00f1as, Metro Manila, 1750, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62935635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14010362",
+    "boundingbox": [
+      "42.3342286",
+      "42.3352684",
+      "-98.2410165",
+      "-98.2409748"
+    ],
+    "lat": "42.3347617",
+    "lon": "-98.2409824",
+    "display_name": "Wisdom, Orchard, Antelope County, Nebraska, 68764, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89805635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114626760",
+    "boundingbox": [
+      "7.0798982",
+      "7.0811287",
+      "125.5379237",
+      "125.538698"
+    ],
+    "lat": "7.0811287",
+    "lon": "125.5379237",
+    "display_name": "Wisdom, SGR Village, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

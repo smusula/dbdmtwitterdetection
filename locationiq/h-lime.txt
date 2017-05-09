@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160280937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153118",
+    "boundingbox": [
+      "49.3125944",
+      "49.3371113",
+      "3.5308134",
+      "3.5806312"
+    ],
+    "lat": "49.3225",
+    "lon": "3.5488889",
+    "display_name": "Lim\u00e9, Soissons, Aisne, Hauts-de-France, 02220, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58395685604896,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "130904835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "291162249",
+    "boundingbox": [
+      "46.7076725",
+      "46.7076976",
+      "-0.2896664",
+      "-0.2894869"
+    ],
+    "lat": "46.7076976",
+    "lon": "-0.2894869",
+    "display_name": "La Lime, Adilly, Parthenay, Deux-S\u00e8vres, Nouvelle-Aquitaine, 79200, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "333498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150933286",
+    "boundingbox": [
+      "44.3865503",
+      "44.4265503",
+      "-117.3312945",
+      "-117.2912945"
+    ],
+    "lat": "44.4065503",
+    "lon": "-117.3112945",
+    "display_name": "Lime, Baker County, Oregon, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15597880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1420167380",
+    "boundingbox": [
+      "45.6712357",
+      "45.7112357",
+      "0.4013187",
+      "0.4413187"
+    ],
+    "lat": "45.6912357",
+    "lon": "0.4213187",
+    "display_name": "La Lime, Angoul\u00eame, Charente, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648419775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4599389993",
+    "boundingbox": [
+      "46.2998679",
+      "46.3398679",
+      "0.3130655",
+      "0.3530655"
+    ],
+    "lat": "46.3198679",
+    "lon": "0.3330655",
+    "display_name": "Lime, Montmorillon, Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56070622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4350336706",
+    "boundingbox": [
+      "46.1411083",
+      "46.1811083",
+      "4.7190845",
+      "4.7590845"
+    ],
+    "lat": "46.1611083",
+    "lon": "4.7390845",
+    "display_name": "La Lime, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "360073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151345623",
+    "boundingbox": [
+      "37.9349931",
+      "37.9749931",
+      "-107.9508992",
+      "-107.9108992"
+    ],
+    "lat": "37.9549931",
+    "lon": "-107.9308992",
+    "display_name": "Lime, San Miguel County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40341633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2954422683",
+    "boundingbox": [
+      "7.8898748",
+      "7.9298748",
+      "-11.3469459",
+      "-11.3069459"
+    ],
+    "lat": "7.9098748",
+    "lon": "-11.3269459",
+    "display_name": "Lime, Kenema District, Eastern Province, Sierra Leone",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81531040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74362857",
+    "boundingbox": [
+      "45.6626587",
+      "45.6790577",
+      "9.6864013",
+      "9.7283073"
+    ],
+    "lat": "45.67095925",
+    "lon": "9.69876347014919",
+    "display_name": "Aeroporto internazionale il Caravaggio di Bergamo-Orio al Serio, 13, Via Aeroporto, Orio al Serio, BG, LOM, 24050, Italia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.34745019828771,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "16828891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1578664212",
+    "boundingbox": [
+      "46.6797398",
+      "46.7197398",
+      "5.5647014",
+      "5.6047014"
+    ],
+    "lat": "46.6997398",
+    "lon": "5.5847014",
+    "display_name": "La Li\u00e8me, Lons-le-Saunier, Jura, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

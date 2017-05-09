@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160296927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "206807",
+    "boundingbox": [
+      "37.2474009",
+      "37.3102841",
+      "-76.7429784",
+      "-76.6644693"
+    ],
+    "lat": "37.2707028",
+    "lon": "-76.7074501",
+    "display_name": "Williamsburg, Williamsburg (city), Virginia, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.59523370227315,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "505330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158863515",
+    "boundingbox": [
+      "40.714572",
+      "40.714672",
+      "-73.9534999",
+      "-73.9533999"
+    ],
+    "lat": "40.714622",
+    "lon": "-73.9534499",
+    "display_name": "Williamsburg, New York, NYC, New York, 11211, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.54191280349821
+  },
+  {
+    "place_id": "160271310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130889",
+    "boundingbox": [
+      "36.717595",
+      "36.762155",
+      "-84.1884119",
+      "-84.1434059"
+    ],
+    "lat": "36.7434169",
+    "lon": "-84.159656",
+    "display_name": "Williamsburg, Whitley County, Kentucky, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.48331367947268,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160536419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2532523",
+    "boundingbox": [
+      "33.304485",
+      "33.890884",
+      "-80.1041869",
+      "-79.3174819"
+    ],
+    "lat": "33.6442699",
+    "lon": "-79.7442134",
+    "display_name": "Williamsburg County, South Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46444602896267,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "419789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154025866",
+    "boundingbox": [
+      "37.9501195",
+      "37.9901195",
+      "-80.5123022",
+      "-80.4723022"
+    ],
+    "lat": "37.9701195",
+    "lon": "-80.4923022",
+    "display_name": "Williamsburg, Greenbrier County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42410162999415,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160470993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1839168",
+    "boundingbox": [
+      "42.3582321",
+      "42.4529305",
+      "-72.7770437",
+      "-72.6690908"
+    ],
+    "lat": "42.3931434",
+    "lon": "-72.7300916",
+    "display_name": "Williamsburg, Hampshire County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160293523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "188267",
+    "boundingbox": [
+      "40.457501",
+      "40.470729",
+      "-78.2144229",
+      "-78.1955479"
+    ],
+    "lat": "40.4620172",
+    "lon": "-78.1997319",
+    "display_name": "Williamsburg, Blair County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39661565540093,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "21902435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2173733660",
+    "boundingbox": [
+      "44.9347687",
+      "45.0147687",
+      "-75.2831917",
+      "-75.2031917"
+    ],
+    "lat": "44.9747687",
+    "lon": "-75.2431917",
+    "display_name": "Williamsburg, Ontario, Canada",
+    "class": "place",
+    "type": "town",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160289360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182747",
+    "boundingbox": [
+      "39.035752",
+      "39.0685522",
+      "-84.0707709",
+      "-84.0228559"
+    ],
+    "lat": "39.0542312",
+    "lon": "-84.0529885",
+    "display_name": "Williamsburg, Williamsburg Township, Clermont County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160379008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1129801",
+    "boundingbox": [
+      "28.3895829",
+      "28.4208033",
+      "-81.4540506",
+      "-81.4299868"
+    ],
+    "lat": "28.40508045",
+    "lon": "-81.4465011313389",
+    "display_name": "Williamsburg, Orange County, Florida, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.37594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

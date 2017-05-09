@@ -1,0 +1,133 @@
+[
+  {
+    "place_id": "75507790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42031420",
+    "boundingbox": [
+      "46.5957403",
+      "46.6014277",
+      "4.8739225",
+      "4.8848534"
+    ],
+    "lat": "46.59858825",
+    "lon": "4.87964187686818",
+    "display_name": "Le Ch\u00e9vy, La Roche, Boyer, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71700, France",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.2
+  },
+  {
+    "place_id": "133873524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "304931102",
+    "boundingbox": [
+      "6.4453769",
+      "6.4453982",
+      "3.5279346",
+      "3.5287275"
+    ],
+    "lat": "6.4453982",
+    "lon": "3.5287275",
+    "display_name": "Chevy, Maiyegun, Eti Osa, Lagos, Nigeria",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "156973531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "429230231",
+    "boundingbox": [
+      "-2.148275",
+      "-2.1479218",
+      "-79.8921844",
+      "-79.8919242"
+    ],
+    "lat": "-2.14813965",
+    "lon": "-79.8920373806562",
+    "display_name": "Chevy, Guillermo Pareja Rolando, La Garzota, Guayaquil, Guayas, 5934, Ecuador",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "994758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "295434800",
+    "boundingbox": [
+      "50.5871539",
+      "50.5872539",
+      "8.6689932",
+      "8.6690932"
+    ],
+    "lat": "50.5872039",
+    "lon": "8.6690432",
+    "display_name": "Chevy, 64, Westanlage, Kleinlinden, Gie\u00dfen, Landkreis Gie\u00dfen, Regierungsbezirk Gie\u00dfen, Hessen, 35390, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654771873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4749209738",
+    "boundingbox": [
+      "19.2900073",
+      "19.2901073",
+      "-99.6435198",
+      "-99.6434198"
+    ],
+    "lat": "19.2900573",
+    "lon": "-99.6434698",
+    "display_name": "Chevy, Hidalgo, San Crist\u00f3bal, Toluca de Lerdo, Toluca, M\u00e9xico, 50050, M\u00e9xico",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "24395226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2376711918",
+    "boundingbox": [
+      "8.5725796",
+      "8.5726796",
+      "123.3399053",
+      "123.3400053"
+    ],
+    "lat": "8.5726296",
+    "lon": "123.3399553",
+    "display_name": "Chevy, National Highway, Purok Kalamboan, Dipolog, Zamboanga del Norte, Zamboanga Peninsula, 7100, Philippines",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "45821141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3265441469",
+    "boundingbox": [
+      "-34.1016882",
+      "-34.1015882",
+      "18.844809",
+      "18.844909"
+    ],
+    "lat": "-34.1016382",
+    "lon": "18.844859",
+    "display_name": "Chevy, Main Road, Cape Town Ward 83, Strand, City of Cape Town, Western Cape, 7130, South Africa",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  }
+]

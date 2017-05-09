@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "54144162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4149245973",
+    "boundingbox": [
+      "40.7897911",
+      "40.7898911",
+      "-73.0951826",
+      "-73.0950826"
+    ],
+    "lat": "40.7898411",
+    "lon": "-73.0951326",
+    "display_name": "MSNBC Gift shop, Arrival Avenue, Ronkonkoma, Suffolk County, New York, 11716, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "53974879",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4149245076",
+    "boundingbox": [
+      "40.7892631",
+      "40.7893631",
+      "-73.0964003",
+      "-73.0963003"
+    ],
+    "lat": "40.7893131",
+    "lon": "-73.0963503",
+    "display_name": "MSNBC Gift Shop, Arrival Avenue, Ronkonkoma, Suffolk County, New York, 11716, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

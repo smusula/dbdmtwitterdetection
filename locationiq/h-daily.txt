@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "352677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151338890",
+    "boundingbox": [
+      "46.6974769",
+      "46.7374769",
+      "-97.9962116",
+      "-97.9562116"
+    ],
+    "lat": "46.7174769",
+    "lon": "-97.9762116",
+    "display_name": "Daily, Barnes County, North Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160950219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5936267",
+    "boundingbox": [
+      "35.2243702",
+      "35.2245188",
+      "-80.9445212",
+      "-80.9442197"
+    ],
+    "lat": "35.2244448",
+    "lon": "-80.9443665932125",
+    "display_name": "Daily, Charlotte, Mecklenburg County, North Carolina, 28214, United States of America",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.2,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "12865139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1201454396",
+    "boundingbox": [
+      "32.1141864",
+      "32.1142864",
+      "34.8035007",
+      "34.8036007"
+    ],
+    "lat": "32.1142364",
+    "lon": "34.8035507",
+    "display_name": "daily, \u05db\u05d9\u05db\u05e8 \u05d4\u05e9\u05d5\u05d0\u05d4 \u05d5\u05d4\u05ea\u05e7\u05d5\u05de\u05d4, \u05d0\u05e4\u05e7\u05d4, \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5, \u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, 69395, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "24453868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2394853979",
+    "boundingbox": [
+      "48.847047",
+      "48.847147",
+      "2.3701095",
+      "2.3702095"
+    ],
+    "lat": "48.847097",
+    "lon": "2.3701595",
+    "display_name": "Daily, Avenue Ledru-Rollin, 12e Arrondissement (urbain), Quinze-Vingts, 12e, Paris, \u00cele-de-France, 75012, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16163535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1468818744",
+    "boundingbox": [
+      "47.5130473",
+      "47.5131473",
+      "19.0573056",
+      "19.0574056"
+    ],
+    "lat": "47.5130973",
+    "lon": "19.0573556",
+    "display_name": "Daily, V\u00e1ci \u00fat, L\u0151port\u00e1rd\u0171l\u0151, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1132, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "123041438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249503771",
+    "boundingbox": [
+      "53.5496742",
+      "53.5497867",
+      "9.9853042",
+      "9.9854478"
+    ],
+    "lat": "53.54973675",
+    "lon": "9.98537132492647",
+    "display_name": "Daily, 1, Stadthausbr\u00fccke, Neustadt, Hamburg-Mitte, Hamburg, 20355, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "19434628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1925268203",
+    "boundingbox": [
+      "53.5577203",
+      "53.5578203",
+      "9.9891889",
+      "9.9892889"
+    ],
+    "lat": "53.5577703",
+    "lon": "9.9892389",
+    "display_name": "Daily, 6, Stephansplatz, Neustadt, Hamburg-Mitte, Hamburg, 20354, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "20268946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2015075186",
+    "boundingbox": [
+      "53.5454207",
+      "53.5455207",
+      "10.0248783",
+      "10.0249783"
+    ],
+    "lat": "53.5454707",
+    "lon": "10.0249283",
+    "display_name": "DAILY, 89, Hammerbrookstra\u00dfe, Hammerbrook, Hamburg-Mitte, Hamburg, 20097, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "53465613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4077776292",
+    "boundingbox": [
+      "54.7068778",
+      "54.7069778",
+      "25.189507",
+      "25.189607"
+    ],
+    "lat": "54.7069278",
+    "lon": "25.189557",
+    "display_name": "Daily restoran\u0117lis, 2, Vyd\u016bno g., Pilait\u0117s seni\u016bnija, Vilnius, Vilniaus miesto savivaldyb\u0117, Vilniaus apskritis, 06269, Lietuva",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "19604397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1954585943",
+    "boundingbox": [
+      "40.6093205",
+      "40.6094205",
+      "22.9678703",
+      "22.9679703"
+    ],
+    "lat": "40.6093705",
+    "lon": "22.9679203",
+    "display_name": "Daily, \u039d\u03b9\u03ba\u03b1\u03af\u03b1\u03c2, \u039a\u03c1\u03c5\u03bf\u03bd\u03ad\u03c1\u03b9, \u03a7\u03b1\u03c1\u03b9\u03bb\u03ac\u03bf\u03c5, \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 54453, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

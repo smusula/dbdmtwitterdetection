@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "144133828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361060687",
+    "boundingbox": [
+      "46.836139",
+      "46.8363733",
+      "5.7105247",
+      "5.7109471"
+    ],
+    "lat": "46.8362266",
+    "lon": "5.71072888598994",
+    "display_name": "Th\u00e9\u00e2tre, Rue du Th\u00e9\u00e2tre, Poligny, Lons-le-Saunier, Jura, Bourgogne-Franche-Comt\u00e9, 39800, France",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.74293650255059,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "10872263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1010432629",
+    "boundingbox": [
+      "39.7455723",
+      "39.7456723",
+      "20.0204259",
+      "20.0205259"
+    ],
+    "lat": "39.7456223",
+    "lon": "20.0204759",
+    "display_name": "Theatre, SH81, Ksamil, Sarand\u00eb, Qarku i Vlor\u00ebs, Shqip\u00ebria",
+    "class": "historic",
+    "type": "archaeological_site",
+    "importance": 0.54596585868395,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_archaeological2.p.20.png"
+  },
+  {
+    "place_id": "8112158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "863697585",
+    "boundingbox": [
+      "46.6293921",
+      "46.6693921",
+      "-0.266931",
+      "-0.226931"
+    ],
+    "lat": "46.6493921",
+    "lon": "-0.246931",
+    "display_name": "Le Theatre, Parthenay, Deux-S\u00e8vres, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51265507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3812352855",
+    "boundingbox": [
+      "9.5287952",
+      "9.5487952",
+      "76.872812",
+      "76.892812"
+    ],
+    "lat": "9.5387952",
+    "lon": "76.882812",
+    "display_name": "Theatre, Mundakkayam, Kottayam, Kerala, 686513, India",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646767855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "423497581",
+    "boundingbox": [
+      "43.2076635",
+      "43.2078727",
+      "5.368225",
+      "5.3688634"
+    ],
+    "lat": "43.20776125",
+    "lon": "5.36874097417795",
+    "display_name": "Batterie de la Mounine, Marseille 8e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13008, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16880822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1597759093",
+    "boundingbox": [
+      "46.2063746",
+      "46.2064746",
+      "5.2255158",
+      "5.2256158"
+    ],
+    "lat": "46.2064246",
+    "lon": "5.2255658",
+    "display_name": "Th\u00e9\u00e2tre, Esplanade de la Com\u00e9die, Le Peloux, Les Vennes, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01000, France",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.22603047907589,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "138664495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "327785956",
+    "boundingbox": [
+      "43.3156756",
+      "43.3162953",
+      "5.3782074",
+      "5.3791731"
+    ],
+    "lat": "43.3159279",
+    "lon": "5.37871461790172",
+    "display_name": "Le Th\u00e9atre, Saint-Mauront, Marseille 3e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13003, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77903174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51341673",
+    "boundingbox": [
+      "49.045311",
+      "49.0466084",
+      "-1.4558302",
+      "-1.452526"
+    ],
+    "lat": "49.04608705",
+    "lon": "-1.45412764442994",
+    "display_name": "Le Th\u00e9\u00e2tre, La Godefrairie, Coutances, Manche, Normandie, 50200, France",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2658174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "355342731",
+    "boundingbox": [
+      "47.18637",
+      "47.18647",
+      "-1.5442881",
+      "-1.5441881"
+    ],
+    "lat": "47.18642",
+    "lon": "-1.5442381",
+    "display_name": "Th\u00e9\u00e2tre, Pont Rousseau, Rez\u00e9, Nantes, Loire-Atlantique, Pays de la Loire, 44400, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62170090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12827268",
+    "boundingbox": [
+      "35.637523",
+      "35.638668",
+      "-91.1839529",
+      "-91.1824939"
+    ],
+    "lat": "35.637729",
+    "lon": "-91.1835599",
+    "display_name": "Theatre, Newport, Jackson County, Arkansas, 72043, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

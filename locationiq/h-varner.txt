@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "382705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151880984",
+    "boundingbox": [
+      "37.6989032",
+      "37.7389032",
+      "-98.0564471",
+      "-98.0164471"
+    ],
+    "lat": "37.7189032",
+    "lon": "-98.0364471",
+    "display_name": "Varner, Kingman County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "449238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154318880",
+    "boundingbox": [
+      "38.8873046",
+      "38.9273046",
+      "-81.7240182",
+      "-81.6840182"
+    ],
+    "lat": "38.9073046",
+    "lon": "-81.7040182",
+    "display_name": "Varner, Jackson County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "374404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151681073",
+    "boundingbox": [
+      "34.0184335",
+      "34.0584335",
+      "-91.6390154",
+      "-91.5990154"
+    ],
+    "lat": "34.0384335",
+    "lon": "-91.6190154",
+    "display_name": "Varner, Lincoln County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "146959482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374437073",
+    "boundingbox": [
+      "19.3721285",
+      "19.3722489",
+      "-72.3347763",
+      "-72.334529"
+    ],
+    "lat": "19.37218875",
+    "lon": "-72.3346543510523",
+    "display_name": "Internet, Ville de Saint-Michel de l'Attalaye, Arrondissement de Marmelade, D\u00e9partement de l'Artibonite, Ayiti",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "23148108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2287953117",
+    "boundingbox": [
+      "45.7975751",
+      "45.7976751",
+      "15.974478",
+      "15.974578"
+    ],
+    "lat": "45.7976251",
+    "lon": "15.974528",
+    "display_name": "Internet, Miramarska cesta, Trnje, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "39680018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2935240711",
+    "boundingbox": [
+      "52.5649383",
+      "52.5650383",
+      "13.3235623",
+      "13.3236623"
+    ],
+    "lat": "52.5649883",
+    "lon": "13.3236123",
+    "display_name": "Internet, Scharnweberstra\u00dfe, Reinickendorf, Berlin, 13405, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "47790644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3492948607",
+    "boundingbox": [
+      "19.2905087",
+      "19.2906087",
+      "-99.1786991",
+      "-99.1785991"
+    ],
+    "lat": "19.2905587",
+    "lon": "-99.1786491",
+    "display_name": "Internet, Ayuntamiento, Tlalpan, CDMX, 14060, M\u00e9xico",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "123411704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "250846777",
+    "boundingbox": [
+      "28.6598678",
+      "28.6600472",
+      "-17.9167578",
+      "-17.9165507"
+    ],
+    "lat": "28.6599318",
+    "lon": "-17.9166559176471",
+    "display_name": "Internet, Avenida Enrique Mederos, Monta\u00f1a Tenisca, Los Llanos de Aridane, Santa Cruz de Tenerife, Canarias, 38770, Espa\u00f1a",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650598483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4644509490",
+    "boundingbox": [
+      "5.5995836",
+      "5.5996836",
+      "-75.8196946",
+      "-75.8195946"
+    ],
+    "lat": "5.5996336",
+    "lon": "-75.8196446",
+    "display_name": "Cafe internet, Carrera 3; C\u00f3rdoba, Cabecera Municipal, Jard\u00edn, Antioquia, Colombia",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56805364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4446460788",
+    "boundingbox": [
+      "-33.4247436",
+      "-33.4246436",
+      "-70.665977",
+      "-70.665877"
+    ],
+    "lat": "-33.4246936",
+    "lon": "-70.665927",
+    "display_name": "Internet, El Pino, Independencia, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 654700, Chile",
+    "class": "amenity",
+    "type": "internet_cafe",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14478754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1312749571",
+    "boundingbox": [
+      "-8.6210947",
+      "-8.6209947",
+      "122.2220018",
+      "122.2221018"
+    ],
+    "lat": "-8.6210447",
+    "lon": "122.2220518",
+    "display_name": "Internet, Jl. Hasannudin, Maumere, Nusa Tenggara Timur, 86111, Indonesia",
+    "class": "amenity",
+    "type": "internet_cafe",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55881189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4336150503",
+    "boundingbox": [
+      "-12.0822911",
+      "-12.0821911",
+      "-77.0671057",
+      "-77.0670057"
+    ],
+    "lat": "-12.0822411",
+    "lon": "-77.0670557",
+    "display_name": "Internet, Avenida Antonio de Sucre, Pueblo Libre, Lima, Lima 21, Per\u00fa",
+    "class": "amenity",
+    "type": "internet_cafe",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12545445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1188707473",
+    "boundingbox": [
+      "18.3750152",
+      "18.3751152",
+      "100.2019293",
+      "100.2020293"
+    ],
+    "lat": "18.3750652",
+    "lon": "100.2019793",
+    "display_name": "Internet, 103, \u0e1a\u0e49\u0e32\u0e19\u0e23\u0e48\u0e2d\u0e07\u0e40\u0e22\u0e47\u0e19, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e41\u0e1e\u0e23\u0e48, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  }
+]

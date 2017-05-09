@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "144976384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365651246",
+    "boundingbox": [
+      "51.5117108",
+      "51.5119031",
+      "-0.1023278",
+      "-0.101555"
+    ],
+    "lat": "51.5117946",
+    "lon": "-0.101942774123356",
+    "display_name": "The Mermaid, Puddle Dock, Temple, City of London, Greater London, England, EC4V 4AA, UK",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.47504530481938,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "97578112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145301897",
+    "boundingbox": [
+      "52.7702471",
+      "52.7778017",
+      "1.2273302",
+      "1.2956469"
+    ],
+    "lat": "52.7738045",
+    "lon": "1.2605885",
+    "display_name": "The Mermaid, Broadland, Norfolk, East of England, England, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "490685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158647627",
+    "boundingbox": [
+      "39.7228898",
+      "39.7628898",
+      "-75.7129872",
+      "-75.6729872"
+    ],
+    "lat": "39.7428898",
+    "lon": "-75.6929872",
+    "display_name": "Mermaid, New Castle County, Delaware, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21364143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2100717615",
+    "boundingbox": [
+      "46.2520016",
+      "46.2720016",
+      "-63.04625",
+      "-63.02625"
+    ],
+    "lat": "46.2620016",
+    "lon": "-63.03625",
+    "display_name": "Mermaid, Charlottetown, Queens County, Prince Edward Island, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "476249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158449586",
+    "boundingbox": [
+      "40.0789497",
+      "40.0790497",
+      "-75.178282",
+      "-75.178182"
+    ],
+    "lat": "40.0789997",
+    "lon": "-75.178232",
+    "display_name": "Mermaid, Philadelphia, Philadelphia County, Pennsylvania, 19150, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "77528225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50465166",
+    "boundingbox": [
+      "-33.0841899",
+      "-33.0835626",
+      "18.05162",
+      "18.0527143"
+    ],
+    "lat": "-33.0840406",
+    "lon": "18.0521184",
+    "display_name": "Mermaid, Saldanha Bay Ward 6, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94437533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131348419",
+    "boundingbox": [
+      "-34.361505",
+      "-34.3604764",
+      "18.9613669",
+      "18.9627349"
+    ],
+    "lat": "-34.3605571",
+    "lon": "18.9614169",
+    "display_name": "Mermaid, Overstrand Ward 10, Overstrand Local Municipality, Overberg District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "826141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269763272",
+    "boundingbox": [
+      "52.2194849",
+      "52.2195849",
+      "0.1465802",
+      "0.1466802"
+    ],
+    "lat": "52.2195349",
+    "lon": "0.1466302",
+    "display_name": "The Mermaid, 207, Green End Road, East Chesterton Ward, Cambridge, Cambridgeshire, East of England, England, CB4 1RJ, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2621326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "347061061",
+    "boundingbox": [
+      "52.5827603",
+      "52.5828603",
+      "-2.193002",
+      "-2.192902"
+    ],
+    "lat": "52.5828103",
+    "lon": "-2.192952",
+    "display_name": "The Mermaid, Wightwick Bank, Castlecroft, Tettenhall Wood, Wolverhampton, West Midlands, England, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "50925094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3789622726",
+    "boundingbox": [
+      "52.6342263",
+      "52.6343263",
+      "-0.3446243",
+      "-0.3445243"
+    ],
+    "lat": "52.6342763",
+    "lon": "-0.3445743",
+    "display_name": "The Mermaid, Woodgate, Helpston CP (Peterborough), Helpston, City of Peterborough, East of England, England, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

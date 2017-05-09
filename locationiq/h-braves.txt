@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "17842646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1718482466",
+    "boundingbox": [
+      "43.6008614",
+      "43.6009614",
+      "1.419002",
+      "1.419102"
+    ],
+    "lat": "43.6009114",
+    "lon": "1.419052",
+    "display_name": "Braves, Rue des Fontaines, Fontaine Bayonne - Cartoucherie, Toulouse Rive Gauche, Toulouse, Haute-Garonne, Occitanie, 31300, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "4513482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "495953846",
+    "boundingbox": [
+      "50.7732639",
+      "50.7733639",
+      "4.3358933",
+      "4.3359933"
+    ],
+    "lat": "50.7733139",
+    "lon": "4.3359433",
+    "display_name": "Dapperen - Braves, Stationsstraat - Rue de la Station, Linkebeek, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1630, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "23234055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2300581606",
+    "boundingbox": [
+      "50.7735252",
+      "50.7736252",
+      "4.3359497",
+      "4.3360497"
+    ],
+    "lat": "50.7735752",
+    "lon": "4.3359997",
+    "display_name": "Dapperen - Braves, 12-14, Dapperensquare - Square des Braves, Linkebeek, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1630, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

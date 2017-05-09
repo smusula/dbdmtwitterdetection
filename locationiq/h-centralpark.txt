@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "106913301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182451378",
+    "boundingbox": [
+      "45.4190154",
+      "45.4194555",
+      "11.8762583",
+      "11.876941"
+    ],
+    "lat": "45.41926005",
+    "lon": "11.876642507026",
+    "display_name": "Centralpark, Corso delle Tre Venezie, Arcella, Padova, PD, VEN, 35137, Italia",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20499923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2040022723",
+    "boundingbox": [
+      "-22.9538512",
+      "-22.9537512",
+      "-43.1861474",
+      "-43.1860474"
+    ],
+    "lat": "-22.9538012",
+    "lon": "-43.1860974",
+    "display_name": "CentralPark, Rua Dezenove de Fevereiro, Botafogo, Rio de Janeiro, Microrregi\u00e3o Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, 22270-000, Brasil",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84258253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "92017180",
+    "boundingbox": [
+      "47.0436008",
+      "47.0445232",
+      "8.3129193",
+      "8.314408"
+    ],
+    "lat": "47.0439655",
+    "lon": "8.31357013999793",
+    "display_name": "Centralpark, Tribschenstrasse, Tribschen, Oberwil, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653738129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479437130",
+    "boundingbox": [
+      "48.578877",
+      "48.5805711",
+      "19.110442",
+      "19.1117689"
+    ],
+    "lat": "48.57975205",
+    "lon": "19.1111374652268",
+    "display_name": "CentralPark, Alexandra Nogr\u00e1dyho, Zvolen, okres Zvolen, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, 960 01, Slovensko",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653748918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110039312",
+    "boundingbox": [
+      "48.580283",
+      "48.5806859",
+      "19.1103406",
+      "19.110769"
+    ],
+    "lat": "48.58045545",
+    "lon": "19.1105450091575",
+    "display_name": "CentralPark, Evgenija Pavlovi\u010da Voljansk\u00e9ho, Zvolen, okres Zvolen, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, 960 01, Slovensko",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  }
+]

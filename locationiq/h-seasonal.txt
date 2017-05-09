@@ -1,0 +1,147 @@
+[
+  {
+    "place_id": "126118785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263023388",
+    "boundingbox": [
+      "-8.5434854",
+      "-8.5363662",
+      "115.4913389",
+      "115.4987848"
+    ],
+    "lat": "-8.5396977",
+    "lon": "115.4955768",
+    "display_name": "Seasonal, Semarapura, KECAMATAN KUBU, Bali, Indonesia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "6849425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703492532",
+    "boundingbox": [
+      "4.4799148",
+      "4.4999148",
+      "-75.7808151",
+      "-75.7608151"
+    ],
+    "lat": "4.4899148",
+    "lon": "-75.7708151",
+    "display_name": "Seasonal, Armenia, Quind\u00edo, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "108850436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191358468",
+    "boundingbox": [
+      "-19.1670108",
+      "-19.1582769",
+      "23.9207123",
+      "23.9228098"
+    ],
+    "lat": "-19.1630482",
+    "lon": "23.9216018",
+    "display_name": "seasonal, North-West District, Botswana",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "100727454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159023399",
+    "boundingbox": [
+      "-19.151523",
+      "-19.1499961",
+      "23.7687039",
+      "23.772517"
+    ],
+    "lat": "-19.1512008",
+    "lon": "23.7704819",
+    "display_name": "seasonal, Khwai, North-West District, Botswana",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "65550644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17793370",
+    "boundingbox": [
+      "45.319153",
+      "45.33372",
+      "-84.7908209",
+      "-84.7845179"
+    ],
+    "lat": "45.327205",
+    "lon": "-84.7902639",
+    "display_name": "Seasonal, Epsilon, Emmet County, Michigan, 49770, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144023690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "360485264",
+    "boundingbox": [
+      "-6.9013307",
+      "-6.9002043",
+      "31.1633313",
+      "31.163629"
+    ],
+    "lat": "-6.9003055",
+    "lon": "31.1633876",
+    "display_name": "Seasonal, Mpanda, Katavi, Southern Highlands, Tanzania",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144527069",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363309942",
+    "boundingbox": [
+      "-19.2297655",
+      "-19.2293524",
+      "23.3820952",
+      "23.3827545"
+    ],
+    "lat": "-19.2293524",
+    "lon": "23.3827545",
+    "display_name": "Seasonal, Third Bridge, North-West District, Botswana",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70745165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28094392",
+    "boundingbox": [
+      "-19.1911869",
+      "-19.1893396",
+      "23.4103518",
+      "23.4136247"
+    ],
+    "lat": "-19.1905659",
+    "lon": "23.411935",
+    "display_name": "Seasonal, Xakanaxa, North-West District, Botswana",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

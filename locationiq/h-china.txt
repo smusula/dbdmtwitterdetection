@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "160301823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "270056",
+    "boundingbox": [
+      "8.8481547",
+      "53.5608154",
+      "73.4997347",
+      "134.7754563"
+    ],
+    "lat": "35.000074",
+    "lon": "104.999927",
+    "display_name": "\u4e2d\u56fd",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.83539498496693,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160864407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5605656",
+    "boundingbox": [
+      "25.0671341",
+      "25.9161824",
+      "-99.4612272",
+      "-98.4215759"
+    ],
+    "lat": "25.4915799",
+    "lon": "-98.9811114045569",
+    "display_name": "China, Nuevo Le\u00f3n, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "144161143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361183753",
+    "boundingbox": [
+      "-6.8021965",
+      "-6.8021907",
+      "39.2402286",
+      "39.2402469"
+    ],
+    "lat": "-6.8021965",
+    "lon": "39.2402469",
+    "display_name": "China, Dar es Salaam, Coastal, Tanzania",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "144716002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363988443",
+    "boundingbox": [
+      "-6.805699",
+      "-6.8020712",
+      "39.224956",
+      "39.2364104"
+    ],
+    "lat": "-6.8042001",
+    "lon": "39.2301449",
+    "display_name": "China, Dar es Salaam, Coastal, Tanzania",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "144439871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362826131",
+    "boundingbox": [
+      "-6.8036231",
+      "-6.8036168",
+      "39.2387883",
+      "39.2388124"
+    ],
+    "lat": "-6.8036168",
+    "lon": "39.2388124",
+    "display_name": "China, Dar es Salaam, Coastal, Tanzania",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160720406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3969541",
+    "boundingbox": [
+      "27.1439592",
+      "27.6053392",
+      "128.2950016",
+      "128.7607838"
+    ],
+    "lat": "27.343615",
+    "lon": "128.568063",
+    "display_name": "\u77e5\u540d\u753a, \u5927\u5cf6\u90e1, \u9e7f\u5150\u5cf6\u770c, \u65e5\u672c",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36050526824242,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

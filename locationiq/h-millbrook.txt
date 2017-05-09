@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160814758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5012166",
+    "boundingbox": [
+      "45.3191185",
+      "45.3481267",
+      "-63.3152465",
+      "-63.277845"
+    ],
+    "lat": "45.3294649",
+    "lon": "-63.3077782812606",
+    "display_name": "Millbrook, Nova Scotia, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160286452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175938",
+    "boundingbox": [
+      "41.77375",
+      "41.800425",
+      "-73.7226759",
+      "-73.6722259"
+    ],
+    "lat": "41.7865038",
+    "lon": "-73.6921866",
+    "display_name": "Millbrook, Town of Washington, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45730822489547,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1530263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "323321353",
+    "boundingbox": [
+      "52.0170204",
+      "52.0570204",
+      "-0.545426",
+      "-0.505426"
+    ],
+    "lat": "52.0370204",
+    "lon": "-0.525426",
+    "display_name": "Millbrook, Central Bedfordshire, East of England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.44191911145088,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74796814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39584106",
+    "boundingbox": [
+      "51.0617931",
+      "51.1031147",
+      "0.0637922",
+      "0.1320881"
+    ],
+    "lat": "51.0849699",
+    "lon": "0.096204",
+    "display_name": "Millbrook, Wealden, East Sussex, South East, England, UK",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "1482907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "320743931",
+    "boundingbox": [
+      "50.3271467",
+      "50.3671467",
+      "-4.2368959",
+      "-4.1968959"
+    ],
+    "lat": "50.3471467",
+    "lon": "-4.2168959",
+    "display_name": "Millbrook, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648404627",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6864414",
+    "boundingbox": [
+      "52.1431823",
+      "52.2009915",
+      "-9.3781711",
+      "-9.2305744"
+    ],
+    "lat": "52.1720372",
+    "lon": "-9.30593711869819",
+    "display_name": "Millbrook, Killarney, County Kerry, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "469735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158350887",
+    "boundingbox": [
+      "39.1964782",
+      "39.2364782",
+      "-78.567064",
+      "-78.527064"
+    ],
+    "lat": "39.2164782",
+    "lon": "-78.547064",
+    "display_name": "Millbrook, Hampshire County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39497837370268,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160262220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "110470",
+    "boundingbox": [
+      "32.446876",
+      "32.570448",
+      "-86.4194489",
+      "-86.3334509"
+    ],
+    "lat": "32.4798575",
+    "lon": "-86.3619162",
+    "display_name": "Millbrook, Elmore County, Alabama, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "705120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "253066441",
+    "boundingbox": [
+      "50.8974966",
+      "50.9374966",
+      "-1.4745729",
+      "-1.4345729"
+    ],
+    "lat": "50.9174966",
+    "lon": "-1.4545729",
+    "display_name": "Millbrook, Southampton, South East, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "502957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158873077",
+    "boundingbox": [
+      "42.0287138",
+      "42.0687138",
+      "-70.7069817",
+      "-70.6669817"
+    ],
+    "lat": "42.0487138",
+    "lon": "-70.6869817",
+    "display_name": "Millbrook, Plymouth County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

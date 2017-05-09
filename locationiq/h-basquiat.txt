@@ -1,0 +1,167 @@
+[
+  {
+    "place_id": "136844203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "318379237",
+    "boundingbox": [
+      "48.8310281",
+      "48.831627",
+      "2.3744554",
+      "2.3756687"
+    ],
+    "lat": "48.83134825",
+    "lon": "2.3752463653561",
+    "display_name": "Place Jean-Michel Basquiat, Gare, 13e, Paris, \u00cele-de-France, 75013, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124429229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255234928",
+    "boundingbox": [
+      "47.4193097",
+      "47.4202145",
+      "0.6858398",
+      "0.6867862"
+    ],
+    "lat": "47.4197492",
+    "lon": "0.6859498",
+    "display_name": "All\u00e9e Jean-Michel Basquiat, Europe, Tours, Indre-et-Loire, Centre-Val de Loire, 37000;37100;37200, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71970276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31343270",
+    "boundingbox": [
+      "44.7640885",
+      "44.765289",
+      "-0.5579113",
+      "-0.5567955"
+    ],
+    "lat": "44.7650696",
+    "lon": "-0.5567955",
+    "display_name": "All\u00e9e Alexis de Basquiat, Chamb\u00e9ry, Villenave-d'Ornon, Bordeaux, Gironde, Nouvelle-Aquitaine, 33140, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77028372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48235248",
+    "boundingbox": [
+      "18.5102974",
+      "18.5124952",
+      "-72.2713239",
+      "-72.2699623"
+    ],
+    "lat": "18.5113108",
+    "lon": "-72.270419",
+    "display_name": "Impasse Basquiat, 7e Bellevue Chardonni\u00e8res, Petyonvil, Arrondissement de Port-au-Prince, D\u00e9partement de l'Ouest, HT6141, Ayiti",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654675479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "318379234",
+    "boundingbox": [
+      "48.8311345",
+      "48.8313593",
+      "2.3748806",
+      "2.3757516"
+    ],
+    "lat": "48.8311345",
+    "lon": "2.3748806",
+    "display_name": "Place Jean-Michel Basquiat, Gare, 13e, Paris, \u00cele-de-France, 75013, France",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "53822055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4127643389",
+    "boundingbox": [
+      "52.3635769",
+      "52.3636769",
+      "4.9357031",
+      "4.9358031"
+    ],
+    "lat": "52.3636269",
+    "lon": "4.9357531",
+    "display_name": "Bar Basquiat, Javastraat, Indische Buurt, Amsterdam, Oost, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1094NE, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "22270885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2194121804",
+    "boundingbox": [
+      "37.1450177",
+      "37.1451177",
+      "14.3831483",
+      "14.3832483"
+    ],
+    "lat": "37.1450677",
+    "lon": "14.3831983",
+    "display_name": "Pub Basquiat, Via Malerba, Niscemi, CL, SIC, 93015, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "3521097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "368726275",
+    "boundingbox": [
+      "35.101126",
+      "35.101226",
+      "129.027943",
+      "129.028043"
+    ],
+    "lat": "35.101176",
+    "lon": "129.027993",
+    "display_name": "\ubc14\uc2a4\ud0a4\uc544\uac24\ub7ec\ub9ac (Basquiat Gallery), \uc911\uad6c\ub85c, \ub300\uccad\ub3d94\uac00 (Daecheongdong 4 Ga), \ub300\uccad\ub3d9, \uc911\uad6c, \ubd80\uc0b0\uad11\uc5ed\uc2dc, 48982, \ub300\ud55c\ubbfc\uad6d",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "131731885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295271711",
+    "boundingbox": [
+      "5.3567796",
+      "5.3569297",
+      "-3.9773829",
+      "-3.9773081"
+    ],
+    "lat": "5.35685465",
+    "lon": "-3.9773455",
+    "display_name": "Art Gallery  Le Basquiat, Rue I78, Bonoumin, Cocody, Abidjan, 06, C\u00f4te d\u2019Ivoire",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  }
+]

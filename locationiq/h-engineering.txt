@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "68538601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22490811",
+    "boundingbox": [
+      "14.6734466",
+      "14.6745684",
+      "121.0224721",
+      "121.0227597"
+    ],
+    "lat": "14.6738872",
+    "lon": "121.0225898",
+    "display_name": "Engineering, Mendoza Village, Sangandaan, Quezon City, District VI, Quezon City, Metro Manila, 1116, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68614159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23250502",
+    "boundingbox": [
+      "14.7049868",
+      "14.7071993",
+      "121.0610694",
+      "121.0637162"
+    ],
+    "lat": "14.7058156",
+    "lon": "121.0622281",
+    "display_name": "Engineering, SSS Employees Housing Project, North Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84218241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "92105015",
+    "boundingbox": [
+      "14.6745684",
+      "14.676248",
+      "121.0225394",
+      "121.024364"
+    ],
+    "lat": "14.6755723",
+    "lon": "121.0235564",
+    "display_name": "Engineering, Rivera Court, Sangandaan, Quezon City, District VI, Quezon City, Metro Manila, 1116, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77879731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52098796",
+    "boundingbox": [
+      "14.4827893",
+      "14.4845235",
+      "121.0282082",
+      "121.0282342"
+    ],
+    "lat": "14.4845235",
+    "lon": "121.0282082",
+    "display_name": "Engineering, Scienceville, Don Bosco, Para\u00f1aque, Metro Manila, 1711, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70455668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27427006",
+    "boundingbox": [
+      "14.66726",
+      "14.6695057",
+      "120.992143",
+      "120.9970848"
+    ],
+    "lat": "14.6684189",
+    "lon": "120.994853",
+    "display_name": "Engineering, Araneta University Village, Malabon, Metro Manila, 1476, Philippines",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103897335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170406429",
+    "boundingbox": [
+      "6.4229841",
+      "6.4236271",
+      "124.7751155",
+      "124.7761634"
+    ],
+    "lat": "6.4236271",
+    "lon": "124.7751155",
+    "display_name": "Engineering, Banga, South Cotabato, Soccsksargen, 9511, Philippines",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "131740730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295305461",
+    "boundingbox": [
+      "51.4556574",
+      "51.4558454",
+      "-2.6019742",
+      "-2.6016857"
+    ],
+    "lat": "51.45576185",
+    "lon": "-2.60182598371966",
+    "display_name": "Engineering, 93-95, Woodland Rise, Kingsdown, Cotham, Bristol, City of Bristol, South West England, England, BS1 5LS, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74375883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37526763",
+    "boundingbox": [
+      "-35.2764621",
+      "-35.27581",
+      "149.1194387",
+      "149.1203174"
+    ],
+    "lat": "-35.2761667",
+    "lon": "149.120016090998",
+    "display_name": "Engineering, North Road, North Canberra, Acton, Canberra, Canberra Central, Australian Capital Territory, 2601, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76734914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45801663",
+    "boundingbox": [
+      "52.3823351",
+      "52.3829028",
+      "-1.5618593",
+      "-1.5611559"
+    ],
+    "lat": "52.3826783",
+    "lon": "-1.56150272194957",
+    "display_name": "Engineering, University Road, Kirby Corner, Cannon Park, Coventry, West Midlands, England, CV4 7AL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74609829",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39159689",
+    "boundingbox": [
+      "52.1314226",
+      "52.1332389",
+      "-106.6305381",
+      "-106.6278789"
+    ],
+    "lat": "52.13229535",
+    "lon": "-106.629404200936",
+    "display_name": "Engineering, Campus Drive, Grosvenor Park, Nutana, Saskatoon, Census Division No. 11, Saskatchewan, S7K7E6, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

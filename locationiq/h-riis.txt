@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "5928271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "614905601",
+    "boundingbox": [
+      "55.8089296",
+      "55.8489296",
+      "9.3007157",
+      "9.3407157"
+    ],
+    "lat": "55.8289296",
+    "lon": "9.3207157",
+    "display_name": "Riis, Vejle Kommune, Region Syddanmark, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653793791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "47541803",
+    "boundingbox": [
+      "52.8436479",
+      "52.8836479",
+      "5.4769956",
+      "5.5169956"
+    ],
+    "lat": "52.8636479",
+    "lon": "5.4969956",
+    "display_name": "Rijs, Friesland, Nederland, 8572, Nederland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "94786803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "132793597",
+    "boundingbox": [
+      "55.8850932",
+      "55.885512",
+      "37.6066686",
+      "37.6075998"
+    ],
+    "lat": "55.8853026",
+    "lon": "37.6071342",
+    "display_name": "\u0420\u0435\u0439\u0441, \u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e, \u0440\u0430\u0439\u043e\u043d \u0411\u0438\u0431\u0438\u0440\u0435\u0432\u043e, \u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 127560, \u0420\u0424",
+    "class": "landuse",
+    "type": "garages",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18232361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1749773414",
+    "boundingbox": [
+      "59.4359096",
+      "59.4360096",
+      "24.7701373",
+      "24.7702373"
+    ],
+    "lat": "59.4359596",
+    "lon": "24.7701873",
+    "display_name": "Riis, 21, Tina, Kesklinna linnaosa, Tallinn, Harju maakond, 10120, Eesti",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "10544776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "967354365",
+    "boundingbox": [
+      "56.163041",
+      "56.163141",
+      "8.763856",
+      "8.763956"
+    ],
+    "lat": "56.163091",
+    "lon": "8.763906",
+    "display_name": "Riis, 1, Riisvej, Timring, Herning Kommune, Region Midtjylland, 7480, Danmark",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14083957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289233559",
+    "boundingbox": [
+      "59.9828415",
+      "59.9829415",
+      "11.0510596",
+      "11.0511596"
+    ],
+    "lat": "59.9828915",
+    "lon": "11.0511096",
+    "display_name": "Riis, Kirkeveien, Kjeller, Holt Vestvollen, Skedsmo, Akershus, 2007, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "14220319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289232414",
+    "boundingbox": [
+      "60.3735034",
+      "60.3736034",
+      "10.621362",
+      "10.621462"
+    ],
+    "lat": "60.3735534",
+    "lon": "10.621412",
+    "display_name": "Riis, Lynnebakka, Ringstad, Gran, Oppland, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "109490692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194059186",
+    "boundingbox": [
+      "43.1485901",
+      "43.1486904",
+      "131.9522533",
+      "131.9524229"
+    ],
+    "lat": "43.14864025",
+    "lon": "131.9523381",
+    "display_name": "\u0420\u0435\u0439\u0441, 53\u0410 \u04411, \u0412\u044b\u0441\u0435\u043b\u043a\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041f\u0435\u0440\u0432\u043e\u0440\u0435\u0447\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a, \u0412\u043b\u0430\u0434\u0438\u0432\u043e\u0441\u0442\u043e\u043a\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, 690000, \u0420\u0424",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "23206930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2317523561",
+    "boundingbox": [
+      "68.9605299",
+      "68.9606299",
+      "33.1026017",
+      "33.1027017"
+    ],
+    "lat": "68.9605799",
+    "lon": "33.1026517",
+    "display_name": "\u0420\u0435\u0439\u0441, 3, \u041f\u043b\u0430\u043d\u0435\u0440\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041f\u043b\u0430\u043d\u0435\u0440\u043d\u043e\u0435 \u043f\u043e\u043b\u0435, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 183039, \u0420\u0424",
+    "class": "shop",
+    "type": "car_parts",
+    "importance": 0.001
+  },
+  {
+    "place_id": "53606373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4062060694",
+    "boundingbox": [
+      "52.9223951",
+      "52.9224951",
+      "78.5644104",
+      "78.5645104"
+    ],
+    "lat": "52.9224451",
+    "lon": "78.5644604",
+    "display_name": "\u0420\u0435\u0439\u0441, \u041a\u0443\u043b\u0443\u043d\u0434\u0438\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u042f\u0440\u043e\u0432\u043e\u0435, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042f\u0440\u043e\u0432\u043e\u0435, \u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0421\u0424\u041e, 658839, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

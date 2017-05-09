@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "137118153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "319651987",
+    "boundingbox": [
+      "52.5890229",
+      "52.5893439",
+      "-0.4073871",
+      "-0.4071841"
+    ],
+    "lat": "52.5891646",
+    "lon": "-0.40729451421515",
+    "display_name": "horses, Thornhaugh, Wansford, City of Peterborough, East of England, England, UK",
+    "class": "landuse",
+    "type": "meadow",
+    "importance": 0.31
+  },
+  {
+    "place_id": "135263943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311413353",
+    "boundingbox": [
+      "38.1839213",
+      "38.1862952",
+      "-85.5657708",
+      "-85.5642044"
+    ],
+    "lat": "38.1848068",
+    "lon": "-85.5648367364383",
+    "display_name": "Horses, Jeffersontown, Jefferson County, Kentucky, 40299, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "76950641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46960413",
+    "boundingbox": [
+      "36.8673212",
+      "36.8677142",
+      "42.978068",
+      "42.9785594"
+    ],
+    "lat": "36.867526",
+    "lon": "42.9783130718067",
+    "display_name": "Horses, \u062f\u0647\u06c6\u0643, Dihok, \u062f\u0647\u0648\u0643, \u0625\u0642\u0644\u064a\u0645 \u0643\u0631\u062f\u0633\u062a\u0627\u0646, 42000, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124878876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "257105406",
+    "boundingbox": [
+      "48.1040428",
+      "48.1043151",
+      "9.2751248",
+      "9.275688"
+    ],
+    "lat": "48.10418165",
+    "lon": "9.27540638426315",
+    "display_name": "horses, Grub\u00e4cker, Bingen, Gemeindeverwaltungsverband Sigmaringen, Landkreis Sigmaringen, Regierungsbezirk T\u00fcbingen, Baden-W\u00fcrttemberg, 72511, Deutschland",
+    "class": "natural",
+    "type": "landform",
+    "importance": 0.111
+  },
+  {
+    "place_id": "49352413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3670780417",
+    "boundingbox": [
+      "52.3556745",
+      "52.3557745",
+      "6.6477241",
+      "6.6478241"
+    ],
+    "lat": "52.3557245",
+    "lon": "6.6477741",
+    "display_name": "Horses, Wierdensestraat, Almelo, Regio Twente, Overijssel, Nederland, 7604CC, Nederland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "80952438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "71902154",
+    "boundingbox": [
+      "42.8074155",
+      "42.8075744",
+      "-73.913617",
+      "-73.9134153"
+    ],
+    "lat": "42.8074949",
+    "lon": "-73.9135148433879",
+    "display_name": "The Horses, McClellan Street, City of Schenectady, Schenectady County, New York, 12309, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "109186482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192695313",
+    "boundingbox": [
+      "3.8993069",
+      "3.8996561",
+      "11.4955976",
+      "11.4957523"
+    ],
+    "lat": "3.8995301",
+    "lon": "11.4956864732318",
+    "display_name": "Horses, Avenue Rosa Parks, Ntoungou, Yaound\u00e9 II, CUY, Mfoundi, CE, 6241, Cameroun",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "129020785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281473049",
+    "boundingbox": [
+      "44.3534211",
+      "44.3536349",
+      "-86.1939338",
+      "-86.1937101"
+    ],
+    "lat": "44.353528",
+    "lon": "-86.19382195",
+    "display_name": "Horses, Jones Road, Onekama Junction, Manistee County, Michigan, 49675, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116091733",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221233210",
+    "boundingbox": [
+      "46.6947092",
+      "46.6948498",
+      "-122.9592792",
+      "-122.9587939"
+    ],
+    "lat": "46.6947795",
+    "lon": "-122.959036526173",
+    "display_name": "Horses, South Gold Street, Centralia, Lewis County, Washington, 98531, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21331587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2112705691",
+    "boundingbox": [
+      "56.076495",
+      "56.076595",
+      "-60.7275577",
+      "-60.7274577"
+    ],
+    "lat": "56.076545",
+    "lon": "-60.7275077",
+    "display_name": "The Horses, Canada",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  }
+]

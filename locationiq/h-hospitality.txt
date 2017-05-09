@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "137593504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321766161",
+    "boundingbox": [
+      "-32.0418509",
+      "-32.0417313",
+      "115.9165286",
+      "115.9166927"
+    ],
+    "lat": "-32.0417911",
+    "lon": "115.91661065",
+    "display_name": "Hospitality, Yew Place, Parkwood, Perth, Western Australia, 6147, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54998734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4244251431",
+    "boundingbox": [
+      "51.3646965",
+      "51.3647965",
+      "3.3469012",
+      "3.3470012"
+    ],
+    "lat": "51.3647465",
+    "lon": "3.3469512",
+    "display_name": "Hospitality, Yourcenarpad, Knokke, Knokke-Heist, Brugge, West-Vlaanderen, Vlaanderen, 8300, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "144303855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361975242",
+    "boundingbox": [
+      "53.9839813",
+      "53.9844905",
+      "-6.3940173",
+      "-6.3935131"
+    ],
+    "lat": "53.9842975",
+    "lon": "-6.39383135860904",
+    "display_name": "Hospitality, Dublin Road, Dundalk Rural, Dundalk, County Louth, Leinster, Ireland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "93209119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126603895",
+    "boundingbox": [
+      "-34.57639",
+      "-34.5760896",
+      "138.7342463",
+      "138.7345038"
+    ],
+    "lat": "-34.5762056",
+    "lon": "138.734376015038",
+    "display_name": "Hospitality, Redbanks Road, Gawler Belt, Gawler, South Australia, 5118, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

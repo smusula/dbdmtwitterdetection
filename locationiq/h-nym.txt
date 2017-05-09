@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "2608536573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4460412022",
+    "boundingbox": [
+      "44.4838156",
+      "44.4839156",
+      "11.2687755",
+      "11.2688755"
+    ],
+    "lat": "44.4838656",
+    "lon": "11.2688255",
+    "display_name": "Nym, Via Aldo Moro, Casalecchio di Reno, BO, EMR, 40033, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "81376722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75208110",
+    "boundingbox": [
+      "65.4663248",
+      "65.4999348",
+      "72.6746709",
+      "72.7167317"
+    ],
+    "lat": "65.4829836",
+    "lon": "72.6965028507138",
+    "display_name": "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041d\u0430\u0434\u044b\u043c, \u041d\u0430\u0434\u044b\u043c-\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442, \u041d\u0430\u0434\u044b\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u043c\u0430\u043b\u043e-\u041d\u0435\u043d\u0435\u0446\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

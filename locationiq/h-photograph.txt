@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2649268172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4617961394",
+    "boundingbox": [
+      "47.748343",
+      "47.748443",
+      "12.9940777",
+      "12.9941777"
+    ],
+    "lat": "47.748393",
+    "lon": "12.9941277",
+    "display_name": "Photograph, Glanstra\u00dfe, Gr\u00f6dig, Salzburg-Umgebung, Salzburg, 5082, \u00d6sterreich",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56281350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4404550706",
+    "boundingbox": [
+      "49.5246679",
+      "49.5247679",
+      "5.8895753",
+      "5.8896753"
+    ],
+    "lat": "49.5247179",
+    "lon": "5.8896253",
+    "display_name": "Photo'Graph, 39, Avenue de la Libert\u00e9, Differdange, Canton Esch-sur-Alzette, 4601, L\u00ebtzebuerg",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.001
+  },
+  {
+    "place_id": "22911809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2272339970",
+    "boundingbox": [
+      "50.3614268",
+      "50.3615268",
+      "8.1588865",
+      "8.1589865"
+    ],
+    "lat": "50.3614768",
+    "lon": "8.1589365",
+    "display_name": "FOTO-EHRLICH.de, 19, Jahnstra\u00dfe, Brechen, Landkreis Limburg-Weilburg, Regierungsbezirk Gie\u00dfen, Hessen, 65611, Deutschland",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

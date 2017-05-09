@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160809942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5011759",
+    "boundingbox": [
+      "12.2338079",
+      "12.37125",
+      "-2.037041",
+      "-1.7852499"
+    ],
+    "lat": "12.3024759",
+    "lon": "-1.89999255843374",
+    "display_name": "Bingo, Boulkiemd\u00e9, Centre-Ouest, Burkina Faso",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49454431737364,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160451135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1802539",
+    "boundingbox": [
+      "-10.4394444",
+      "-7.6199998",
+      "12.8884172",
+      "14.7233334"
+    ],
+    "lat": "-8.9928443",
+    "lon": "13.7877067",
+    "display_name": "Bengo, Angola",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48134747881787,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "500831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158824814",
+    "boundingbox": [
+      "45.3289593",
+      "45.3689593",
+      "-67.6963905",
+      "-67.6563905"
+    ],
+    "lat": "45.3489593",
+    "lon": "-67.6763905",
+    "display_name": "Bingo, Washington County, Maine, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26900106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2532889881",
+    "boundingbox": [
+      "12.75242",
+      "12.79242",
+      "-2.0833926",
+      "-2.0433926"
+    ],
+    "lat": "12.77242",
+    "lon": "-2.0633926",
+    "display_name": "Bingo, Arboll\u00e9, Passor\u00e9, Nord, Burkina Faso",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24782618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2403784471",
+    "boundingbox": [
+      "12.2802121",
+      "12.3202121",
+      "-1.8526994",
+      "-1.8126994"
+    ],
+    "lat": "12.3002121",
+    "lon": "-1.8326994",
+    "display_name": "Bingo, Boulkiemd\u00e9, Centre-Ouest, Burkina Faso",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41579467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037426303",
+    "boundingbox": [
+      "7.7730599",
+      "7.8130599",
+      "15.4148099",
+      "15.4548099"
+    ],
+    "lat": "7.7930599",
+    "lon": "15.4348099",
+    "display_name": "Bingo, Mayo-Rey, NO, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23217148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2295811820",
+    "boundingbox": [
+      "10.6260375",
+      "10.6660375",
+      "-0.6641268",
+      "-0.6241268"
+    ],
+    "lat": "10.6460375",
+    "lon": "-0.6441268",
+    "display_name": "Bingo, Upper East Region, Ghana",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22374868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2229101105",
+    "boundingbox": [
+      "0.913333",
+      "0.953333",
+      "33.846667",
+      "33.886667"
+    ],
+    "lat": "0.933333",
+    "lon": "33.866667",
+    "display_name": "Bingo, Butaleja, Eastern Region, Uganda",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "31648088",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2756587795",
+    "boundingbox": [
+      "8.7697302",
+      "8.8097302",
+      "-10.4384758",
+      "-10.3984758"
+    ],
+    "lat": "8.7897302",
+    "lon": "-10.4184758",
+    "display_name": "Bingo, Gu\u00e9ck\u00e9dou, R\u00e9gion de Nz\u00e9r\u00e9kor\u00e9, Guin\u00e9e",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "130705086",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289972773",
+    "boundingbox": [
+      "44.8187596",
+      "44.8201951",
+      "15.8511563",
+      "15.853404"
+    ],
+    "lat": "44.8194026",
+    "lon": "15.8522236157436",
+    "display_name": "Bingo, Jotani, Biha\u0107, Grad Biha\u0107, Unsko-sanski kanton/\u017eupanija, Federacija Bosne i Hercegovine, 77000, Bosna i Hercegovina",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  }
+]

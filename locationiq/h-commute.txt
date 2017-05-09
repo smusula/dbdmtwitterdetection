@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "37834112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2867872023",
+    "boundingbox": [
+      "-15.8270608",
+      "-15.8269608",
+      "-47.923244",
+      "-47.923144"
+    ],
+    "lat": "-15.8270108",
+    "lon": "-47.923194",
+    "display_name": "Commute Bike Studio, CLS 314/315, SQS 315, Asa Sul, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70390100, Brasil",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "140184139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334997650",
+    "boundingbox": [
+      "36.0629829",
+      "36.0640755",
+      "1.127331",
+      "1.1285204"
+    ],
+    "lat": "36.0635292",
+    "lon": "1.1279257",
+    "display_name": "Stade de commute de Boukadir, RN 4, Boukadir, Da\u00efra Boukadir, Chlef - \u0627\u0644\u0634\u0644\u0641\u200e, RADP",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

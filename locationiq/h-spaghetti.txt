@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "112371694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205704614",
+    "boundingbox": [
+      "-35.3277031",
+      "-35.32538",
+      "149.3524778",
+      "149.3530254"
+    ],
+    "lat": "-35.3265084",
+    "lon": "149.3525245",
+    "display_name": "Spaghetti, Kowen, Australian Capital Territory, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "54922735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4259963190",
+    "boundingbox": [
+      "50.4458488",
+      "50.4459488",
+      "30.4998816",
+      "30.4999816"
+    ],
+    "lat": "50.4458988",
+    "lon": "30.4999316",
+    "display_name": "Spaghetti, \u0422\u0430\u0440\u0430\u0441\u0430 \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0430 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, \u041a\u0443\u0434\u0440\u044f\u0432\u0435\u0446\u044c, \u0421\u0442\u0430\u0440\u0438\u0439 \u041a\u0438\u0457\u0432, \u041a\u0438\u0457\u0432, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01032, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "156227311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "425204390",
+    "boundingbox": [
+      "-0.1981227",
+      "-0.198045",
+      "-78.4880069",
+      "-78.4878997"
+    ],
+    "lat": "-0.19808385",
+    "lon": "-78.4879533",
+    "display_name": "Spaghetti, Avenida Francisco de Orellana, Mariscal Sucre, Quito, Pichincha, 170516, Ecuador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55594384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4307263414",
+    "boundingbox": [
+      "42.2784523",
+      "42.2785523",
+      "18.8383074",
+      "18.8384074"
+    ],
+    "lat": "42.2785023",
+    "lon": "18.8383574",
+    "display_name": "Spaghetti, Vuka Karad\u017ei\u0107a, Budva, Op\u0161tina Budva, 58310, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "111746974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203449366",
+    "boundingbox": [
+      "38.6558573",
+      "38.6559235",
+      "-27.219293",
+      "-27.2191548"
+    ],
+    "lat": "38.6558893",
+    "lon": "-27.2192242038941",
+    "display_name": "Spaghetti, Rua da S\u00e9, Angra do Hero\u00edsmo, Terceira, A\u00e7ores, 9700-026, Portugal (\u00e1guas territoriais)",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56544687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4403263719",
+    "boundingbox": [
+      "39.4117419",
+      "39.4118419",
+      "3.2599674",
+      "3.2600674"
+    ],
+    "lat": "39.4117919",
+    "lon": "3.2600174",
+    "display_name": "Spaghetti, Avinguda de Cala Mar\u00e7al, Portocolom, Felanitx, Migjorn, Illes Balears, 07670, 124",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16990533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1597722470",
+    "boundingbox": [
+      "28.6846175",
+      "28.6847175",
+      "-14.0116554",
+      "-14.0115554"
+    ],
+    "lat": "28.6846675",
+    "lon": "-14.0116054",
+    "display_name": "Spaghetti, Calle Santiago Apostol, La Oliva, Las Palmas, Canarias, 35650, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

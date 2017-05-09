@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "3120055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358044541",
+    "boundingbox": [
+      "26.2037263",
+      "26.2337263",
+      "68.3735733",
+      "68.4035733"
+    ],
+    "lat": "26.2187263",
+    "lon": "68.3885733",
+    "display_name": "Nawabshah Airport, Airport Road, Mian Chhohra, Naw\u0101bsh\u0101h District, \u0633\u0646\u068c, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.24927434823075,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "150009311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "389827684",
+    "boundingbox": [
+      "17.7203709",
+      "17.7206545",
+      "83.3070352",
+      "83.3073759"
+    ],
+    "lat": "17.7205153",
+    "lon": "83.3072057138249",
+    "display_name": "WNS, Jail Road, Lalitha Nagar, MVP Colony, Visakhapatnam, Vishakhapatnam, Andhra Pradesh, 530001, India",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

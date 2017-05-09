@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "70599074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27258669",
+    "boundingbox": [
+      "14.4574385",
+      "14.4596041",
+      "120.9548973",
+      "120.9553211"
+    ],
+    "lat": "14.4587807",
+    "lon": "120.9549933",
+    "display_name": "Wednesday, St. Joseph Village, Talaba 1, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84134766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91662151",
+    "boundingbox": [
+      "14.3422977",
+      "14.3439353",
+      "121.0617901",
+      "121.0626572"
+    ],
+    "lat": "14.3431033",
+    "lon": "121.0623783",
+    "display_name": "Wednesday, Phase 7B, Pacita I, San Pedro, Laguna, Calabarzon, 4023, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18156601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1767383531",
+    "boundingbox": [
+      "52.4881561",
+      "52.4882561",
+      "13.4274265",
+      "13.4275265"
+    ],
+    "lat": "52.4882061",
+    "lon": "13.4274765",
+    "display_name": "Wednesday, Weserstra\u00dfe, Reuterkiez, Neuk\u00f6lln, Berlin, 12047, Deutschland",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  }
+]

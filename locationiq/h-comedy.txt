@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "53025071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4037151516",
+    "boundingbox": [
+      "52.2048986",
+      "52.2049986",
+      "4.3942958",
+      "4.3943958"
+    ],
+    "lat": "52.2049486",
+    "lon": "4.3943458",
+    "display_name": "The Comedy,, Emmaplein, Katwijk, Zuid-Holland, Nederland, 2225BK, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "6461376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "660254355",
+    "boundingbox": [
+      "53.9309204",
+      "53.9310204",
+      "27.6354473",
+      "27.6355473"
+    ],
+    "lat": "53.9309704",
+    "lon": "27.6354973",
+    "display_name": "\u041a\u043e\u043c\u0435\u0434\u0438\u044f, 117, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041d\u0435\u0437\u0430\u0432\u0438\u0441\u0438\u043c\u043e\u0441\u0442\u0438, \u0412\u043e\u0441\u0442\u043e\u043a, \u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a, 721888, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

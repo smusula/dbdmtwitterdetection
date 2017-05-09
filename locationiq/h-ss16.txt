@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "3306738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "364775180",
+    "boundingbox": [
+      "3.0612343",
+      "3.1012343",
+      "101.5638074",
+      "101.6038074"
+    ],
+    "lat": "3.0812343",
+    "lon": "101.5838074",
+    "display_name": "SS16, Selangor, Malaysia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3769734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "410590036",
+    "boundingbox": [
+      "35.7236278",
+      "35.7336278",
+      "139.547938",
+      "139.557938"
+    ],
+    "lat": "35.7286278",
+    "lon": "139.552938",
+    "display_name": "\u897f\u6b66\u67f3\u6ca2, \u5343\u4ee3\u7530\u7df4\u99ac\u7530\u7121\u7dda, \u5357\u753a4, \u897f\u6771\u4eac\u5e02, \u6771\u4eac\u90fd, \u65e5\u672c",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.30130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "106427238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180435844",
+    "boundingbox": [
+      "41.2057999",
+      "41.207689",
+      "16.5805407",
+      "16.586707"
+    ],
+    "lat": "41.2074965",
+    "lon": "16.5810602",
+    "display_name": "SS16, Molfetta, BA, PUG, 70056, Italia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "104101038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171227058",
+    "boundingbox": [
+      "40.7281478",
+      "40.7283569",
+      "17.5725942",
+      "17.5728677"
+    ],
+    "lat": "40.72825345",
+    "lon": "17.5727308484856",
+    "display_name": "SS16, Ostuni, BR, PUG, 72017, Italia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70304497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27012712",
+    "boundingbox": [
+      "44.383977",
+      "44.3842772",
+      "12.1953063",
+      "12.196219"
+    ],
+    "lat": "44.3842772",
+    "lon": "12.1953063",
+    "display_name": "Via Classicana, Ravenna, RA, EMR, 48121, Italia",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.1
+  },
+  {
+    "place_id": "144963650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365708244",
+    "boundingbox": [
+      "40.3389014",
+      "40.34535",
+      "18.1837352",
+      "18.1897027"
+    ],
+    "lat": "40.3425378",
+    "lon": "18.1873071",
+    "display_name": "Via Puglia, Lecce, LE, PUG, 73100, Italia",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.1
+  },
+  {
+    "place_id": "131067104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "291931335",
+    "boundingbox": [
+      "40.3354359",
+      "40.3366772",
+      "18.1898014",
+      "18.1899456"
+    ],
+    "lat": "40.3359536",
+    "lon": "18.1898901",
+    "display_name": "Strada Statale 16 Adriatica, Lecce, LE, PUG, 73100, Italia",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.1
+  },
+  {
+    "place_id": "141709639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "342616740",
+    "boundingbox": [
+      "40.3633396",
+      "40.3643574",
+      "18.1468438",
+      "18.1491774"
+    ],
+    "lat": "40.3637961",
+    "lon": "18.1479055",
+    "display_name": "Via Taranto, Lecce, LE, PUG, 73100, Italia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "74250531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37888006",
+    "boundingbox": [
+      "41.1981218",
+      "41.2015986",
+      "16.6049123",
+      "16.6125705"
+    ],
+    "lat": "41.1998572",
+    "lon": "16.6087318",
+    "display_name": "Via Giovinazzo, Molfetta, BA, PUG, 70056, Italia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "76190713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44506598",
+    "boundingbox": [
+      "41.1972531",
+      "41.1981218",
+      "16.6125705",
+      "16.6144955"
+    ],
+    "lat": "41.1976101",
+    "lon": "16.6137188",
+    "display_name": "Via Martiri di Nassirya, Molfetta, BA, PUG, 70056, Italia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  }
+]

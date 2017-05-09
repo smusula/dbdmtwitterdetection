@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "433439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154321222",
+    "boundingbox": [
+      "29.9649349",
+      "30.0049349",
+      "-84.4410098",
+      "-84.4010098"
+    ],
+    "lat": "29.9849349",
+    "lon": "-84.4210098",
+    "display_name": "Surf, Wakulla County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "333400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150975852",
+    "boundingbox": [
+      "34.6644268",
+      "34.7044268",
+      "-120.6235028",
+      "-120.5835028"
+    ],
+    "lat": "34.6844268",
+    "lon": "-120.6035028",
+    "display_name": "Surf, Santa Barbara County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.254561534822,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60696042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10565455",
+    "boundingbox": [
+      "35.1347042",
+      "35.1360072",
+      "-120.6372663",
+      "-120.6358173"
+    ],
+    "lat": "35.1354017",
+    "lon": "-120.636603",
+    "display_name": "Surf, Pismo Beach Senior Mobile Home Park, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "27814799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2607931660",
+    "boundingbox": [
+      "-25.9686019",
+      "-25.9685019",
+      "32.5779532",
+      "32.5780532"
+    ],
+    "lat": "-25.9685519",
+    "lon": "32.5780032",
+    "display_name": "Surf, 1769, Avenida 24 de Julho, Baixa, Central B, Distrito Urbano de KaMpfumo, Cidade de Maputo, Maputo, 1100, Mo\u00e7ambique",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "25355578",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2440423518",
+    "boundingbox": [
+      "45.6444471",
+      "45.6445471",
+      "-1.0889091",
+      "-1.0888091"
+    ],
+    "lat": "45.6444971",
+    "lon": "-1.0888591",
+    "display_name": "Le Surf, Place du Rh\u00e2, Saint-Palais-sur-Mer, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, 17420, France",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "17777414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1719219060",
+    "boundingbox": [
+      "45.6028925",
+      "45.6029925",
+      "-0.99781",
+      "-0.99771"
+    ],
+    "lat": "45.6029425",
+    "lon": "-0.99776",
+    "display_name": "Surf, Rue d'Alger, Saint-Georges-de-Didonne, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, 17110, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "7193684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "777267768",
+    "boundingbox": [
+      "45.223223",
+      "45.223323",
+      "-1.1698244",
+      "-1.1697244"
+    ],
+    "lat": "45.223273",
+    "lon": "-1.1697744",
+    "display_name": "Le Surf, Rue des Sables, Hourtin Plage, Hourtin, Lesparre-M\u00e9doc, Gironde, Nouvelle-Aquitaine, 33990, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "81824571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78199373",
+    "boundingbox": [
+      "45.5606344",
+      "45.5608105",
+      "-0.965527",
+      "-0.9652971"
+    ],
+    "lat": "45.56070735",
+    "lon": "-0.96539556114686",
+    "display_name": "El Surf, Avenue des Nonnes, Diou, Meschers-sur-Gironde, Saintes, Charente-Maritime, Nouvelle-Aquitaine, 17132, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "14077040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1269824299",
+    "boundingbox": [
+      "45.0013124",
+      "45.0014124",
+      "-1.2007465",
+      "-1.2006465"
+    ],
+    "lat": "45.0013624",
+    "lon": "-1.2006965",
+    "display_name": "Le Surf, All\u00e9e Pierre Ortal, Lacanau-Oc\u00e9an, Lacanau, Lesparre-M\u00e9doc, Gironde, Nouvelle-Aquitaine, 33680, France",
+    "class": "shop",
+    "type": "gift;tobacco",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24982911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2421201478",
+    "boundingbox": [
+      "43.6536105",
+      "43.6537105",
+      "-1.4454376",
+      "-1.4453376"
+    ],
+    "lat": "43.6536605",
+    "lon": "-1.4453876",
+    "display_name": "Le Surf, Boulevard Fran\u00e7ois Mitterrand, La Plage, Capbreton, Dax, Landes, Nouvelle-Aquitaine, 40130, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

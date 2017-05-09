@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160371604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "535828",
+    "boundingbox": [
+      "-20.7249999",
+      "-10.1379999",
+      "56.3825151",
+      "63.7151319"
+    ],
+    "lat": "-20.275945",
+    "lon": "57.5703566",
+    "display_name": "Mauritius",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68004706089845,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "107233139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183831887",
+    "boundingbox": [
+      "39.4990137",
+      "39.5232009",
+      "-84.7394572",
+      "-84.7171112"
+    ],
+    "lat": "39.511003",
+    "lon": "-84.7293038876583",
+    "display_name": "MU, East High Street, Oxford, Oxford Township, Butler County, Ohio, 45056, United States of America",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.60559308640648,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "160698528",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3781315",
+    "boundingbox": [
+      "25.227185",
+      "26.7026737",
+      "55.8883688",
+      "56.7715427"
+    ],
+    "lat": "26.15232155",
+    "lon": "56.3294894598357",
+    "display_name": "\u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0646\u062f\u0645, \u0639\u0645\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4270743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "462278350",
+    "boundingbox": [
+      "49.0961111",
+      "49.1361111",
+      "-0.1838888",
+      "-0.1438888"
+    ],
+    "lat": "49.1161111",
+    "lon": "-0.1638888",
+    "display_name": "Moult, Caen, Calvados, Normandie, 14370, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.50662772364719,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160841476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4847014",
+    "boundingbox": [
+      "36.199682",
+      "36.497744",
+      "139.563841",
+      "139.812442"
+    ],
+    "lat": "36.37952",
+    "lon": "139.693036",
+    "display_name": "\u6803\u6728\u5e02, \u6803\u6728\u770c, \u65e5\u672c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46676759420089,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160537843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2396796",
+    "boundingbox": [
+      "-2.795617",
+      "3.4464276",
+      "123.9232297",
+      "129.7578409"
+    ],
+    "lat": "0.6301215",
+    "lon": "127.9720219",
+    "display_name": "Maluku Utara, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45728017465973,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160596777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3012822",
+    "boundingbox": [
+      "49.1679874",
+      "49.3054145",
+      "-0.522617",
+      "-0.4413422"
+    ],
+    "lat": "49.2358804",
+    "lon": "-0.459305",
+    "display_name": "La Mue, Caen, Calvados, Normandie, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "160251259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "50802",
+    "boundingbox": [
+      "46.909278",
+      "47.329479",
+      "13.783465",
+      "14.589954"
+    ],
+    "lat": "47.11958265",
+    "lon": "14.2255045593288",
+    "display_name": "Murau, Steiermark, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43722909369429,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "112374493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205849153",
+    "boundingbox": [
+      "49.2661956",
+      "49.2663818",
+      "-0.4500621",
+      "-0.4497716"
+    ],
+    "lat": "49.2662988",
+    "lon": "-0.4498494",
+    "display_name": "La Mue, Basly, Caen, Calvados, Normandie, 14610, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "11192662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1079658864",
+    "boundingbox": [
+      "48.269947",
+      "48.309947",
+      "-1.2269374",
+      "-1.1869374"
+    ],
+    "lat": "48.289947",
+    "lon": "-1.2069374",
+    "display_name": "Mu\u00e9, Foug\u00e8res-Vitr\u00e9, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

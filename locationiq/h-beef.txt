@@ -1,0 +1,135 @@
+[
+  {
+    "place_id": "18100715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1740065300",
+    "boundingbox": [
+      "40.4224148",
+      "40.4225148",
+      "-3.6776012",
+      "-3.6775012"
+    ],
+    "lat": "40.4224648",
+    "lon": "-3.6775512",
+    "display_name": "Beef, Calle del Duque de Sesto, Barrio Goya, Salamanca, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28009, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "11240211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1066324532",
+    "boundingbox": [
+      "46.9481147",
+      "46.9482147",
+      "7.4486488",
+      "7.4487488"
+    ],
+    "lat": "46.9481647",
+    "lon": "7.4486988",
+    "display_name": "The BEEF, 74, Kramgasse, Gr\u00fcnes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3011, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17907249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1723552839",
+    "boundingbox": [
+      "-12.9456607",
+      "-12.9455607",
+      "-38.3661402",
+      "-38.3660402"
+    ],
+    "lat": "-12.9456107",
+    "lon": "-38.3660902",
+    "display_name": "Beef, Rua Boa Vista, Itapu\u00e3, Salvador, Microrregi\u00e3o de Salvador, Regi\u00e3o Metropolitana de Salvador, Mesorregi\u00e3o do Rec\u00f4ncavo baiano, BA, Regi\u00e3o Nordeste, 41650035, Brasil",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  },
+  {
+    "place_id": "29992616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2718233115",
+    "boundingbox": [
+      "42.0958804",
+      "42.0959804",
+      "-75.9260923",
+      "-75.9259923"
+    ],
+    "lat": "42.0959304",
+    "lon": "-75.9260423",
+    "display_name": "The Beef, Leroy Street, Binghamton, Broome County, New York, 13905, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "128323843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "276843206",
+    "boundingbox": [
+      "52.3422841",
+      "52.3424409",
+      "-1.578748",
+      "-1.5784799"
+    ],
+    "lat": "52.34236205",
+    "lon": "-1.57861412419952",
+    "display_name": "Beef, Warwick Road, Kenilworth CP, Warwick, Warwickshire, West Midlands, England, CV8 1HN, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "5126911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "581350855",
+    "boundingbox": [
+      "50.439059",
+      "50.439159",
+      "30.520626",
+      "30.520726"
+    ],
+    "lat": "50.439109",
+    "lon": "30.520676",
+    "display_name": "Beef, 11, \u0428\u043e\u0442\u0430 \u0420\u0443\u0441\u0442\u0430\u0432\u0435\u043b\u0456 \u0432\u0443\u043b\u0438\u0446\u044f, \u0416\u041a \u041b\u0438\u043f\u0441\u044c\u043a\u0430 \u0432\u0435\u0436\u0430, \u041b\u0438\u043f\u043a\u0438, \u041f\u0435\u0447\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01023, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52262410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3947178257",
+    "boundingbox": [
+      "22.53269",
+      "22.53279",
+      "114.113531",
+      "114.113631"
+    ],
+    "lat": "22.53274",
+    "lon": "114.113581",
+    "display_name": "Western restaurant, \u4eba\u6c11\u5357\u8def Renmin Nan Road, \u56fd\u8d38 Guomao, \u4eba\u6c11\u5357 Renminnan, \u7f57\u6e56\u533a (Luohu), \u6df1\u5733\u5e02 / Shenzhen, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

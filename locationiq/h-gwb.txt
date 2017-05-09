@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "73911587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37079678",
+    "boundingbox": [
+      "52.9367903",
+      "52.9373269",
+      "-1.1648876",
+      "-1.1639531"
+    ],
+    "lat": "52.93705865",
+    "lon": "-1.16442034353719",
+    "display_name": "GWB, Crossgate Drive, Queens Drive Industrial Estate, The Park, City of Nottingham, East Midlands, England, NG2 1LS, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3365503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "368387003",
+    "boundingbox": [
+      "41.2936337",
+      "41.3236337",
+      "-85.0799419",
+      "-85.0499419"
+    ],
+    "lat": "41.3086337",
+    "lon": "-85.0649419",
+    "display_name": "DeKalb County Airport, County Road 60, Hopewell, DeKalb County, Indiana, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

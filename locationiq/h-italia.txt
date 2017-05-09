@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160323801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "365331",
+    "boundingbox": [
+      "35.2889616",
+      "47.0921462",
+      "6.6272658",
+      "18.7844746"
+    ],
+    "lat": "42.6384261",
+    "lon": "12.674297",
+    "display_name": "Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 1.0188940045855,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "79907628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62194430",
+    "boundingbox": [
+      "-62.1749852",
+      "-62.173417",
+      "-58.5166347",
+      "-58.5136684"
+    ],
+    "lat": "-62.1746199",
+    "lon": "-58.5155524",
+    "display_name": "Italia, Antarctica",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "156505962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426681928",
+    "boundingbox": [
+      "4.8053256",
+      "4.8068175",
+      "-75.765144",
+      "-75.7634267"
+    ],
+    "lat": "4.80598965",
+    "lon": "-75.7643509665458",
+    "display_name": "La Italia, Pereira, Risaralda, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160984625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6425790",
+    "boundingbox": [
+      "-27.4490287",
+      "-27.4462814",
+      "-59.0336431",
+      "-59.0305576"
+    ],
+    "lat": "-27.44764615",
+    "lon": "-59.0321009314244",
+    "display_name": "Italia, Resistencia, Departamento San Fernando, CCO, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "5064586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "568142317",
+    "boundingbox": [
+      "4.8845546",
+      "4.9245546",
+      "-76.312706",
+      "-76.272706"
+    ],
+    "lat": "4.9045546",
+    "lon": "-76.292706",
+    "display_name": "La Italia, San Jos\u00e9 del Palmar, Choc\u00f3, Colombia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6769362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703215463",
+    "boundingbox": [
+      "5.2949264",
+      "5.3349264",
+      "-74.9817828",
+      "-74.9417828"
+    ],
+    "lat": "5.3149264",
+    "lon": "-74.9617828",
+    "display_name": "Italia, Victoria, Magdalena Caldense, Caldas, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6928754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703523319",
+    "boundingbox": [
+      "7.4427047",
+      "7.4827047",
+      "-73.9103174",
+      "-73.8703174"
+    ],
+    "lat": "7.4627047",
+    "lon": "-73.8903174",
+    "display_name": "Italia, Santander, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "684698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249429435",
+    "boundingbox": [
+      "-2.1063477",
+      "-2.0663477",
+      "-79.7542776",
+      "-79.7142776"
+    ],
+    "lat": "-2.0863477",
+    "lon": "-79.7342776",
+    "display_name": "Italia, Cant\u00f3n San Jacinto de Yaguachi, Guayas, Ecuador",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25614275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2462850398",
+    "boundingbox": [
+      "41.4381301",
+      "41.4781301",
+      "12.8726143",
+      "12.9126143"
+    ],
+    "lat": "41.4581301",
+    "lon": "12.8926143",
+    "display_name": "Italia, Latina, LT, LAZ, Italia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13175316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241599063",
+    "boundingbox": [
+      "39.6943511",
+      "39.7143511",
+      "-6.1612949",
+      "-6.1412949"
+    ],
+    "lat": "39.7043511",
+    "lon": "-6.1512949",
+    "display_name": "Italia, Monroy, C\u00e1ceres, Extremadura, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

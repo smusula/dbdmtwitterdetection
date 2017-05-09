@@ -1,0 +1,149 @@
+[
+  {
+    "place_id": "16979547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1595861618",
+    "boundingbox": [
+      "50.885888",
+      "50.925888",
+      "-4.5416948",
+      "-4.5016948"
+    ],
+    "lat": "50.905888",
+    "lon": "-4.5216948",
+    "display_name": "Shop, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4006638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "431307364",
+    "boundingbox": [
+      "50.8614531",
+      "50.9014531",
+      "-4.3068724",
+      "-4.2668724"
+    ],
+    "lat": "50.8814531",
+    "lon": "-4.2868724",
+    "display_name": "Shop, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "138576852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "327296209",
+    "boundingbox": [
+      "-0.6788196",
+      "-0.6785765",
+      "34.6380669",
+      "34.6383091"
+    ],
+    "lat": "-0.67869805",
+    "lon": "34.638188",
+    "display_name": "Shop, Kisii, Kenya",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "138748187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "328334214",
+    "boundingbox": [
+      "-0.6501409",
+      "-0.6500456",
+      "34.6290307",
+      "34.6291107"
+    ],
+    "lat": "-0.65009325",
+    "lon": "34.6290707",
+    "display_name": "Shop, Nyamira, Homa Bay, Kenya",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "138576859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "327296215",
+    "boundingbox": [
+      "-0.6797557",
+      "-0.6787958",
+      "34.6371421",
+      "34.6382239"
+    ],
+    "lat": "-0.6792574",
+    "lon": "34.6376143306316",
+    "display_name": "Shop, Migori, Kenya",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "138707564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "328314581",
+    "boundingbox": [
+      "-0.6514018",
+      "-0.6513373",
+      "34.5887452",
+      "34.5888114"
+    ],
+    "lat": "-0.6513695",
+    "lon": "34.588778296334",
+    "display_name": "Shop, Akelo's Village, Homa Bay, Kenya",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "138279884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "325855400",
+    "boundingbox": [
+      "-0.6477183",
+      "-0.6476029",
+      "34.6150247",
+      "34.6152126"
+    ],
+    "lat": "-0.6476606",
+    "lon": "34.61511865",
+    "display_name": "Shop, Sinema, Homa Bay, Kenya",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2894676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357399909",
+    "boundingbox": [
+      "35.8775471",
+      "35.8776471",
+      "-95.1688983",
+      "-95.1687983"
+    ],
+    "lat": "35.8775971",
+    "lon": "-95.1688483",
+    "display_name": "Norwood Custom Cabinets, 20181, Cherokee County, Oklahoma, 74441, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

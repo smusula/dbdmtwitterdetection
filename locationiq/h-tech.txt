@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160405371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1229554",
+    "boundingbox": [
+      "42.4017257",
+      "42.5892067",
+      "2.3241944",
+      "3.0450462"
+    ],
+    "lat": "42.4748084",
+    "lon": "2.668284",
+    "display_name": "Le Tech, C\u00e9ret, Pyr\u00e9n\u00e9es-Orientales, Occitanie, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.48059201389789
+  },
+  {
+    "place_id": "160610387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2918769",
+    "boundingbox": [
+      "42.3928961",
+      "42.4949965",
+      "2.4525647",
+      "2.5786073"
+    ],
+    "lat": "42.4090872",
+    "lon": "2.5398559",
+    "display_name": "Le Tech, C\u00e9ret, Pyr\u00e9n\u00e9es-Orientales, Occitanie, 66230, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39661565540093,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "28787769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2677130584",
+    "boundingbox": [
+      "43.0564079",
+      "43.0764079",
+      "0.3423684",
+      "0.3623684"
+    ],
+    "lat": "43.0664079",
+    "lon": "0.3523684",
+    "display_name": "Tech, Avezac-Prat-Lahitte, Bagn\u00e8res-de-Bigorre, Hautes-Pyr\u00e9n\u00e9es, Occitanie, 65130, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50727791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3788925458",
+    "boundingbox": [
+      "51.543755",
+      "51.543855",
+      "9.9022339",
+      "9.9023339"
+    ],
+    "lat": "51.543805",
+    "lon": "9.9022839",
+    "display_name": "TECH, 16, Rudolf-Winkel-Stra\u00dfe, Robert-Bosch-Breite, Weststadt, G\u00f6ttingen, Landkreis G\u00f6ttingen, Niedersachsen, 37079, Deutschland, Europe",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52430588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3929104900",
+    "boundingbox": [
+      "10.6514226",
+      "10.6515226",
+      "-61.509819",
+      "-61.509719"
+    ],
+    "lat": "10.6514726",
+    "lon": "-61.509769",
+    "display_name": "Tech, Frederick Street, Downtown, Port of Spain, 190130, Trinidad and Tobago",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44758944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3177657686",
+    "boundingbox": [
+      "52.4666285",
+      "52.4667285",
+      "-1.8582623",
+      "-1.8581623"
+    ],
+    "lat": "52.4666785",
+    "lon": "-1.8582123",
+    "display_name": "Tech, Wordsworth Road, Digbeth, Small Heath, West Midlands Combined Authority, West Midlands, England, B10 0LL, UK",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654307969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164057136",
+    "boundingbox": [
+      "50.9072676",
+      "50.9077171",
+      "-3.3331427",
+      "-3.3321869"
+    ],
+    "lat": "50.90749195",
+    "lon": "-3.33283291440707",
+    "display_name": "Tech, Highland Park, Uffculme CP, Mid Devon, Devon, South West England, England, EX15 3AG, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654522431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377527786",
+    "boundingbox": [
+      "49.8846328",
+      "49.8848745",
+      "19.3178517",
+      "19.3186185"
+    ],
+    "lat": "49.88473695",
+    "lon": "19.3182389098111",
+    "display_name": "Tech, 31, Bia\u0142a Droga, Wieprz, gmina Wieprz, powiat wadowicki, ma\u0142opolskie, 34-122, Polska",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49718799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3691499150",
+    "boundingbox": [
+      "32.6873743",
+      "32.6874743",
+      "35.0608324",
+      "35.0609324"
+    ],
+    "lat": "32.6874243",
+    "lon": "35.0608824",
+    "display_name": "Tech, 672, \u05d3\u05dc\u05d9\u05ea \u05d0\u05dc-\u05db\u05e8\u05de\u05dc, \u05d3\u05d0\u05dc\u05d9\u05ea \u05d0\u05dc-\u05db\u05e8\u05de\u05dc, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, 30056, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3693002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "410484497",
+    "boundingbox": [
+      "1.4292619",
+      "1.4293619",
+      "103.7665484",
+      "103.7666484"
+    ],
+    "lat": "1.4293119",
+    "lon": "103.7665984",
+    "display_name": "Tech, Woodlands Avenue 3, Woodlands, North West Community Development Council, 738782, Singapore",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

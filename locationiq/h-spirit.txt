@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "341005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150954490",
+    "boundingbox": [
+      "48.8096345",
+      "48.8496345",
+      "-117.6705333",
+      "-117.6305333"
+    ],
+    "lat": "48.8296345",
+    "lon": "-117.6505333",
+    "display_name": "Spirit, Stevens County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "354265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151555422",
+    "boundingbox": [
+      "45.4341321",
+      "45.4741321",
+      "-90.1343133",
+      "-90.0943133"
+    ],
+    "lat": "45.4541321",
+    "lon": "-90.1143133",
+    "display_name": "Spirit, Price County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.35844201129513,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "100646971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158678063",
+    "boundingbox": [
+      "33.6827674",
+      "33.6830258",
+      "-117.891726",
+      "-117.8907111"
+    ],
+    "lat": "33.6828318",
+    "lon": "-117.8912064",
+    "display_name": "Spirit, Costa Mesa, Orange County, California, 92626, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136268632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316123800",
+    "boundingbox": [
+      "35.1644246",
+      "35.1645285",
+      "-114.6162969",
+      "-114.6100602"
+    ],
+    "lat": "35.1644705",
+    "lon": "-114.6130487",
+    "display_name": "Spirit, Laughlin, Clark County, Nevada, 89029, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57981675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5588565",
+    "boundingbox": [
+      "33.8561966",
+      "33.856345",
+      "-112.1252484",
+      "-112.1226975"
+    ],
+    "lat": "33.856247",
+    "lon": "-112.1237034",
+    "display_name": "Spirit, Anthem, New River, Maricopa County, Arizona, 85086, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111559345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202624331",
+    "boundingbox": [
+      "37.274381",
+      "37.280233",
+      "-107.8933049",
+      "-107.8887329"
+    ],
+    "lat": "37.277403",
+    "lon": "-107.8918489",
+    "display_name": "Spirit, Durango, La Plata County, Colorado, 81302, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "159988623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "446430166",
+    "boundingbox": [
+      "-16.4950352",
+      "-16.4949439",
+      "-68.2127336",
+      "-68.2126062"
+    ],
+    "lat": "-16.494985",
+    "lon": "-68.2126702830413",
+    "display_name": "spirit, peatonal 5, Zona Brasil, Municipio El Alto, Provincia Murillo, LPZ, Bolivia",
+    "class": "amenity",
+    "type": "taxi",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2649859851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4632587056",
+    "boundingbox": [
+      "52.3675543",
+      "52.3676543",
+      "4.9258131",
+      "4.9259131"
+    ],
+    "lat": "52.3676043",
+    "lon": "4.9258631",
+    "display_name": "Spirit, 2A, Czaar Peterstraat, Oostelijke Eilanden, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1018ND, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "55260566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4286848087",
+    "boundingbox": [
+      "40.4787071",
+      "40.4788071",
+      "-79.956491",
+      "-79.956391"
+    ],
+    "lat": "40.4787571",
+    "lon": "-79.956441",
+    "display_name": "Spirit, 242, 51st Street, Upper Lawrenceville, PGH, Allegheny County, Pennsylvania, 15201, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "50420470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3757007478",
+    "boundingbox": [
+      "40.9624727",
+      "40.9625727",
+      "-5.662349",
+      "-5.662249"
+    ],
+    "lat": "40.9625227",
+    "lon": "-5.662299",
+    "display_name": "Spirit, 66, Calle Gran V\u00eda, Salamanca, Centro, Salamanca, Campo de Salamanca, Salamanca, Castilla y Le\u00f3n, 37001, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

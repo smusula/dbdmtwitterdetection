@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160263173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112391",
+    "boundingbox": [
+      "37.134462",
+      "37.225329",
+      "-104.5319939",
+      "-104.4346539"
+    ],
+    "lat": "37.169397",
+    "lon": "-104.500541",
+    "display_name": "Trinidad, Las Animas County, Colorado, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55616325668286,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "73008241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33105861",
+    "boundingbox": [
+      "41.050941",
+      "41.06736",
+      "-124.1534869",
+      "-124.1330009"
+    ],
+    "lat": "41.059291",
+    "lon": "-124.1431249",
+    "display_name": "Trinidad, Humboldt County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46954659981371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "161012002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6605883",
+    "boundingbox": [
+      "6.315688",
+      "6.3644787",
+      "-75.2336894",
+      "-75.1845521"
+    ],
+    "lat": "6.3435896",
+    "lon": "-75.2108228",
+    "display_name": "LA TRINIDAD, Concepci\u00f3n, Antioquia, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160842324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5415198",
+    "boundingbox": [
+      "9.9680306",
+      "9.992499",
+      "-84.054199",
+      "-84.0188238"
+    ],
+    "lat": "9.9751535",
+    "lon": "-84.0325438",
+    "display_name": "La Trinidad, Cant\u00f3n Moravia, Provincia San Jos\u00e9, 11403, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160795810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4636997",
+    "boundingbox": [
+      "38.9001424",
+      "38.9173465",
+      "-76.9931048",
+      "-76.9724375"
+    ],
+    "lat": "38.9056673",
+    "lon": "-76.9844199",
+    "display_name": "Trinidad, Washington, District of Columbia, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.44191911145088,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "540736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198508568",
+    "boundingbox": [
+      "16.4217181",
+      "16.5017181",
+      "120.5485323",
+      "120.6285323"
+    ],
+    "lat": "16.4617181",
+    "lon": "120.5885323",
+    "display_name": "La Trinidad, Benguet, Cordillera Administrative Region, 2601, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.43025481034543,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160852538",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5176042",
+    "boundingbox": [
+      "10.0424201",
+      "10.843845",
+      "-61.9306511",
+      "-60.9090475"
+    ],
+    "lat": "10.4432392",
+    "lon": "-61.2608331444615",
+    "display_name": "Trinidad, San Fernando, Trinidad and Tobago",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "523229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198501070",
+    "boundingbox": [
+      "10.0382446",
+      "10.1182446",
+      "124.3032035",
+      "124.3832035"
+    ],
+    "lat": "10.0782446",
+    "lon": "124.3432035",
+    "display_name": "Trinidad, Bohol, Central Visayas, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.41908579539046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "3874660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "415165872",
+    "boundingbox": [
+      "-14.9949228",
+      "-14.6749228",
+      "-65.0642566",
+      "-64.7442566"
+    ],
+    "lat": "-14.8349228",
+    "lon": "-64.9042566",
+    "display_name": "Trinidad, Provincia de Cercado, BNI, Bolivia",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160620050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2993199",
+    "boundingbox": [
+      "14.102802",
+      "14.1084996",
+      "-87.1573236",
+      "-87.1524696"
+    ],
+    "lat": "14.1054226",
+    "lon": "-87.1550476033756",
+    "display_name": "La Trinidad, Tegucigalpa, Francisco Moraz\u00e1n, Honduras",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

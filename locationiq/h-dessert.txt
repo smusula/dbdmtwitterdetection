@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "28382285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2652170388",
+    "boundingbox": [
+      "40.5877663",
+      "40.5878663",
+      "49.6766974",
+      "49.6767974"
+    ],
+    "lat": "40.5878163",
+    "lon": "49.6767474",
+    "display_name": "Dessert, 2/30, N\u0259riman N\u0259rimanov, Sumqay\u0131t, Sumqay\u0131t \u0130nzibati \u018frazisi, AZ5004, Az\u0259rbaycan",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652472486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475712166",
+    "boundingbox": [
+      "18.0506762",
+      "18.0507518",
+      "-76.7932587",
+      "-76.7931812"
+    ],
+    "lat": "18.050714",
+    "lon": "-76.79321995",
+    "display_name": "Dessert, Constant Spring Road, Constant Spring Grove, Constant Spring, Golden Spring, Saint Andrew, Surrey County, Kingston 8, Jamaica",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  }
+]

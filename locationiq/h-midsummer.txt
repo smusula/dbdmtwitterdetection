@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "79092715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58879535",
+    "boundingbox": [
+      "33.700832",
+      "33.702533",
+      "-117.7605339",
+      "-117.7588379"
+    ],
+    "lat": "33.701978",
+    "lon": "-117.7593919",
+    "display_name": "Midsummer, Northwood, Irvine, Orange County, California, 92620, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69096913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24573863",
+    "boundingbox": [
+      "42.4287255",
+      "42.4295592",
+      "-83.6109243",
+      "-83.6098353"
+    ],
+    "lat": "42.429226",
+    "lon": "-83.6103417",
+    "display_name": "Midsummer, Salem Township, Washtenaw County, Michigan, 48175, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74692121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39338818",
+    "boundingbox": [
+      "54.0872111",
+      "54.0873131",
+      "10.8690075",
+      "10.869203"
+    ],
+    "lat": "54.0872646",
+    "lon": "10.8691037451654",
+    "display_name": "Midsummer, Wiesenstra\u00dfe, Neustadt in Holstein, Kreis Ostholstein, Schleswig-Holstein, 23730, Deutschland",
+    "class": "tourism",
+    "type": "chalet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "117872636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "228203956",
+    "boundingbox": [
+      "59.4064546",
+      "59.407344",
+      "17.8351601",
+      "17.8366179"
+    ],
+    "lat": "59.4068988",
+    "lon": "17.8358839274063",
+    "display_name": "Midsummer, 6, Elektronikh\u00f6jden, Veddesta, J\u00e4rf\u00e4lla, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 175 43, Sverige",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

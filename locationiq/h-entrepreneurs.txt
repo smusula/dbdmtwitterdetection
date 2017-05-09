@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "51670182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3877146275",
+    "boundingbox": [
+      "43.3007449",
+      "43.3008449",
+      "-0.4085215",
+      "-0.4084215"
+    ],
+    "lat": "43.3007949",
+    "lon": "-0.4084715",
+    "display_name": "Entrepreneurs, Rue des Entrepreneurs, Z.A. de la Lini\u00e8re, Lons, Pau, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64140, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "55749550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4324212087",
+    "boundingbox": [
+      "48.9507589",
+      "48.9508589",
+      "2.6223806",
+      "2.6224806"
+    ],
+    "lat": "48.9508089",
+    "lon": "2.6224306",
+    "display_name": "Entrepreneurs, Avenue Jean Monnet, Villeparisis, Torcy, Seine-et-Marne, \u00cele-de-France, 77270, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

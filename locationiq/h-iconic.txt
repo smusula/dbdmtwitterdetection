@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "40120661",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2952835400",
+    "boundingbox": [
+      "55.9468208",
+      "55.9469208",
+      "-3.1973195",
+      "-3.1972195"
+    ],
+    "lat": "55.9468708",
+    "lon": "-3.1972695",
+    "display_name": "Iconic, 23, Grassmarket, Old Town, Edinburgh, City of Edinburgh, Scotland, EH1 2JR, UK",
+    "class": "shop",
+    "type": "antiques",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116257554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222505002",
+    "boundingbox": [
+      "47.6869619",
+      "47.6870897",
+      "-122.3766232",
+      "-122.3763583"
+    ],
+    "lat": "47.6870401",
+    "lon": "-122.376491027244",
+    "display_name": "Iconic, 8000, 15th Avenue Northwest, Ballard, Seattle, King County, Washington, 98117, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7749395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "836831593",
+    "boundingbox": [
+      "51.3578254",
+      "51.3579254",
+      "-0.2157699",
+      "-0.2156699"
+    ],
+    "lat": "51.3578754",
+    "lon": "-0.2157199",
+    "display_name": "Iconic, High Street, Worcester Park, London Borough of Sutton, London, Greater London, England, SM3 8RW, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "54338999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4177513035",
+    "boundingbox": [
+      "14.600423",
+      "14.600523",
+      "120.9846661",
+      "120.9847661"
+    ],
+    "lat": "14.600473",
+    "lon": "120.9847161",
+    "display_name": "Iconic, Quezon Boulevard, Residences de Manila, Quiapo, Manila, Third District, Manila, Metro Manila, 1002, Philippines",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "150494107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391880901",
+    "boundingbox": [
+      "51.27825",
+      "51.2783755",
+      "1.0808169",
+      "1.0810111"
+    ],
+    "lat": "51.27831395",
+    "lon": "1.08091448724903",
+    "display_name": "Iconic, Parade, St. Mildred's, Canterbury, Kent, South East, England, CT1 2JH, UK",
+    "class": "shop",
+    "type": "jewellery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26929241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2547909817",
+    "boundingbox": [
+      "49.6906346",
+      "49.6907346",
+      "-124.9991763",
+      "-124.9990763"
+    ],
+    "lat": "49.6906846",
+    "lon": "-124.9991263",
+    "display_name": "Iconic, 338, 5th Street, Courtenay, Comox Valley Regional District, British Columbia, V9N 1K3, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

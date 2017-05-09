@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160248307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44874",
+    "boundingbox": [
+      "44.0597158",
+      "46.4642213",
+      "6.6272658",
+      "9.2142404"
+    ],
+    "lat": "45.060735",
+    "lon": "7.923549",
+    "display_name": "PIE, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.80785484884634,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160305665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "302819",
+    "boundingbox": [
+      "-10.9280561",
+      "-2.5763364",
+      "-45.9945262",
+      "-40.3699999"
+    ],
+    "lat": "-7.6992781",
+    "lon": "-42.5043786",
+    "display_name": "PI, Regi\u00e3o Nordeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59993040878702,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263979",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "116814",
+    "boundingbox": [
+      "43.5957581",
+      "43.6402145",
+      "-1.2344931",
+      "-1.1745977"
+    ],
+    "lat": "43.6302615",
+    "lon": "-1.2015628",
+    "display_name": "Pey, Dax, Landes, Nouvelle-Aquitaine, 40300, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51590452181115,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160246186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "42338",
+    "boundingbox": [
+      "43.1084934",
+      "43.834394",
+      "10.2574977",
+      "11.0133182"
+    ],
+    "lat": "43.4716153",
+    "lon": "10.680265333555",
+    "display_name": "PI, TOS, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46260191612828,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "78463975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55289792",
+    "boundingbox": [
+      "47.8686032",
+      "47.870229",
+      "1.830704",
+      "1.8415055"
+    ],
+    "lat": "47.8693679",
+    "lon": "1.8361594",
+    "display_name": "La Pie, Saint-Hilaire-Saint-Mesmin, Orl\u00e9ans, Loiret, Centre-Val de Loire, 45160, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160584073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2913745",
+    "boundingbox": [
+      "42.4265201",
+      "42.5088045",
+      "2.3100233",
+      "2.4174276"
+    ],
+    "lat": "42.49576",
+    "lon": "2.3506675",
+    "display_name": "Py, Prades, Pyr\u00e9n\u00e9es-Orientales, Occitanie, 66360, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4088805262029,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652200864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4688678591",
+    "boundingbox": [
+      "48.1350813",
+      "48.1750813",
+      "-2.8662362",
+      "-2.8262362"
+    ],
+    "lat": "48.1550813",
+    "lon": "-2.8462362",
+    "display_name": "La Pie, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18422361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1777867524",
+    "boundingbox": [
+      "48.2365696",
+      "48.2765696",
+      "-3.4648896",
+      "-3.4248896"
+    ],
+    "lat": "48.2565696",
+    "lon": "-3.4448896",
+    "display_name": "La Pie, Guingamp, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14367438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308473488",
+    "boundingbox": [
+      "5.0803895",
+      "5.1203895",
+      "97.1666794",
+      "97.2066794"
+    ],
+    "lat": "5.1003895",
+    "lon": "97.1866794",
+    "display_name": "Pie, Syamtalira Bayu, Aceh Utara, Aceh, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "133280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26576183",
+    "boundingbox": [
+      "18.656667",
+      "18.976667",
+      "95.056667",
+      "95.376667"
+    ],
+    "lat": "18.816667",
+    "lon": "95.216667",
+    "display_name": "\u1015\u103c\u100a\u103a\u1019\u103c\u102d\u102f\u1037, Pyay, Bago, Bago Region, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.37274364316066,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160376167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "901918",
+    "boundingbox": [
+      "49.3292386",
+      "49.3891264",
+      "2.2322849",
+      "2.2803118"
+    ],
+    "lat": "49.3571636",
+    "lon": "2.2461658",
+    "display_name": "Hermes, Beauvais, Oise, Hauts-de-France, 60370, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39977507250156,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17275362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1687306031",
+    "boundingbox": [
+      "50.1276671",
+      "50.1676671",
+      "11.5861973",
+      "11.6261973"
+    ],
+    "lat": "50.1476671",
+    "lon": "11.6061973",
+    "display_name": "Hermes, Marktleugast (VGem), Landkreis Kulmbach, Oberfranken, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "96695972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140808688",
+    "boundingbox": [
+      "-27.4693003",
+      "-27.4689513",
+      "153.0278434",
+      "153.0281982"
+    ],
+    "lat": "-27.46914225",
+    "lon": "153.028010702608",
+    "display_name": "171, Hermes, Spring Hill, Brisbane, Brisbane City, QLD, 400, Australia",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "109462844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193732814",
+    "boundingbox": [
+      "52.4455052",
+      "52.4485137",
+      "9.690629",
+      "9.6940036"
+    ],
+    "lat": "52.4474107",
+    "lon": "9.69219097750556",
+    "display_name": "Hermes, Godshorn, Langenhagen, Region Hannover, Niedersachsen, 30855, Deutschland",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "158571076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437362156",
+    "boundingbox": [
+      "-12.1788892",
+      "-12.177929",
+      "-77.0165776",
+      "-77.0153349"
+    ],
+    "lat": "-12.1783693",
+    "lon": "-77.0159833348395",
+    "display_name": "Hermes, Chorrillos, Lima, 15067, Per\u00fa",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "55569293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4304725804",
+    "boundingbox": [
+      "-2.0333452",
+      "-2.0332452",
+      "-79.8933615",
+      "-79.8932615"
+    ],
+    "lat": "-2.0332952",
+    "lon": "-79.8933115",
+    "display_name": "Hermes, La Aurora, Daule, Guayas, Ecuador",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "6449416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "662103470",
+    "boundingbox": [
+      "49.3494055",
+      "49.3594055",
+      "2.2366554",
+      "2.2466554"
+    ],
+    "lat": "49.3544055",
+    "lon": "2.2416554",
+    "display_name": "Hermes, Rue de la Gare, Hermes, Beauvais, Oise, Hauts-de-France, 60370, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.26679990974024,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "71497581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30165362",
+    "boundingbox": [
+      "52.9757122",
+      "52.976962",
+      "5.9311711",
+      "5.9377032"
+    ],
+    "lat": "52.9760415",
+    "lon": "5.9328198",
+    "display_name": "Hermes, De Kavels, Heerenveen, Friesland, Nederland, 8448CJ, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "81007562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "70930779",
+    "boundingbox": [
+      "36.7219298",
+      "36.7222074",
+      "-4.4774013",
+      "-4.4746687"
+    ],
+    "lat": "36.7220634",
+    "lon": "-4.4760395",
+    "display_name": "Hermes, Colonia Santa In\u00e9s, Teatinos-Universidad, M\u00e1laga, Andaluc\u00eda, 29010, Espa\u00f1a",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "95748846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137055701",
+    "boundingbox": [
+      "14.5903246",
+      "14.5908237",
+      "120.9957237",
+      "120.9959294"
+    ],
+    "lat": "14.5903246",
+    "lon": "120.9959294",
+    "display_name": "Hermes, Acropolis, Paco, Sixth District, Manila, Metro Manila, 1007, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

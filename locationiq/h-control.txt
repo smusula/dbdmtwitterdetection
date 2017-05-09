@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "6860712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703522696",
+    "boundingbox": [
+      "6.6643286",
+      "6.7043286",
+      "-73.6200406",
+      "-73.5800406"
+    ],
+    "lat": "6.6843286",
+    "lon": "-73.6000406",
+    "display_name": "El Control, El Carmen, Santander, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6768579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703471823",
+    "boundingbox": [
+      "10.5925802",
+      "10.6325802",
+      "-74.1843369",
+      "-74.1443369"
+    ],
+    "lat": "10.6125802",
+    "lon": "-74.1643369",
+    "display_name": "Control, Magdalena, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13635690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242984848",
+    "boundingbox": [
+      "40.2332388",
+      "40.2532388",
+      "-1.3105297",
+      "-1.2905297"
+    ],
+    "lat": "40.2432388",
+    "lon": "-1.3005297",
+    "display_name": "El Control, Rubiales, Teruel, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13026562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241340095",
+    "boundingbox": [
+      "37.1888499",
+      "37.2088499",
+      "-6.6057783",
+      "-6.5857783"
+    ],
+    "lat": "37.1988499",
+    "lon": "-6.5957783",
+    "display_name": "El Control, Almonte, Huelva, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6752094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703271813",
+    "boundingbox": [
+      "9.4642996",
+      "9.4842996",
+      "-73.8227606",
+      "-73.8027606"
+    ],
+    "lat": "9.4742996",
+    "lon": "-73.8127606",
+    "display_name": "El Control, Bajo De Las Palomas, Astrea, Cesar, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651607236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226617788",
+    "boundingbox": [
+      "26.0335318",
+      "26.0341028",
+      "-98.2915244",
+      "-98.2872676"
+    ],
+    "lat": "26.0338038",
+    "lon": "-98.2892956",
+    "display_name": "Control, Reynosa, Tamaulipas, 88500, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101389774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161707246",
+    "boundingbox": [
+      "25.6662474",
+      "25.6667591",
+      "-100.142763",
+      "-100.1409026"
+    ],
+    "lat": "25.6662474",
+    "lon": "-100.1409026",
+    "display_name": "El Control, Tamaulipas, Guadalupe, Nuevo Le\u00f3n, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126401984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264252915",
+    "boundingbox": [
+      "-33.4640159",
+      "-33.4612413",
+      "-67.5375839",
+      "-67.537003"
+    ],
+    "lat": "-33.4625612",
+    "lon": "-67.5372688",
+    "display_name": "El Control, La Paz, Departamento La Paz, Mza., 5590, Argentina",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "19363899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1886635532",
+    "boundingbox": [
+      "41.3929627",
+      "41.3930627",
+      "2.15685",
+      "2.15695"
+    ],
+    "lat": "41.3930127",
+    "lon": "2.1569",
+    "display_name": "Control, Carrer del Rossell\u00f3, l'Antiga Esquerra de l'Eixample, Eixample, Barcelona, BCN, CAT, 8002, Espa\u00f1a",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19293860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1889913574",
+    "boundingbox": [
+      "41.3919484",
+      "41.3920484",
+      "2.1577342",
+      "2.1578342"
+    ],
+    "lat": "41.3919984",
+    "lon": "2.1577842",
+    "display_name": "Control, Carrer de Proven\u00e7a, l'Antiga Esquerra de l'Eixample, Eixample, Barcelona, BCN, CAT, 08008, Espa\u00f1a",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  }
+]

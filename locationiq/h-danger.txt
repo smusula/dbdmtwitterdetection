@@ -1,0 +1,166 @@
+[
+  {
+    "place_id": "14231282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1271859128",
+    "boundingbox": [
+      "-8.6294256",
+      "-8.5894256",
+      "116.4460164",
+      "116.4860164"
+    ],
+    "lat": "-8.6094256",
+    "lon": "116.4660164",
+    "display_name": "Danger, Kec. Sandubaya, Nusa Tenggara Barat, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52257623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3937195711",
+    "boundingbox": [
+      "46.4834622",
+      "46.5034622",
+      "-1.3856644",
+      "-1.3656644"
+    ],
+    "lat": "46.4934622",
+    "lon": "-1.3756644",
+    "display_name": "Le Danger, Saint-Vincent-sur-Graon, Les Sables-d'Olonne, Vend\u00e9e, Pays de la Loire, 85540, France",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2610715318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447093000",
+    "boundingbox": [
+      "50.712895",
+      "50.7146032",
+      "4.9946726",
+      "4.9966532"
+    ],
+    "lat": "50.713985",
+    "lon": "4.9959482",
+    "display_name": "!! Danger!!, Orp-Jauche, Nivelles, Brabant wallon, Wallonie, 1350, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "159731133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444673996",
+    "boundingbox": [
+      "50.9237886",
+      "50.926466",
+      "-114.6943981",
+      "-114.6916421"
+    ],
+    "lat": "50.9256742",
+    "lon": "-114.6935773",
+    "display_name": "Danger, Alberta, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "12252409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1139455335",
+    "boundingbox": [
+      "-26.1840363",
+      "-26.1839363",
+      "27.9685106",
+      "27.9686106"
+    ],
+    "lat": "-26.1839863",
+    "lon": "27.9685606",
+    "display_name": "danger, Dowling Avenue, Johannesburg Ward 82, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+    "class": "amenity",
+    "type": "danger junkie yard",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2649956232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4634449136",
+    "boundingbox": [
+      "43.2528873",
+      "43.2529873",
+      "-2.9147724",
+      "-2.9146724"
+    ],
+    "lat": "43.2529373",
+    "lon": "-2.9147224",
+    "display_name": "danger, Calle Caser\u00edo Landaburu, Basarrate, Bego\u00f1a, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "6746401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "693895736",
+    "boundingbox": [
+      "58.999482",
+      "58.999582",
+      "5.7114421",
+      "5.7115421"
+    ],
+    "lat": "58.999532",
+    "lon": "5.7114921",
+    "display_name": "Danger, Husab\u00f8\u00e5keren, Hundv\u00e5g, Stavanger, Rogaland, 4083, Norge",
+    "class": "amenity",
+    "type": "shelter",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608570205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4460040962",
+    "boundingbox": [
+      "47.6246483",
+      "47.6247483",
+      "-122.5187216",
+      "-122.5186216"
+    ],
+    "lat": "47.6246983",
+    "lon": "-122.5186716",
+    "display_name": "Danger, 285, Winslow Way East, Bainbridge Island, Kitsap County, Washington, 98110, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53379678",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4046463160",
+    "boundingbox": [
+      "-28.5219769",
+      "-28.5218769",
+      "-68.7344372",
+      "-68.7343372"
+    ],
+    "lat": "-28.5219269",
+    "lon": "-68.7343872",
+    "display_name": "Danger!, Bike or Motorcycles, Vinchina, LR, Argentina",
+    "class": "military",
+    "type": "danger_area",
+    "importance": 0.101
+  }
+]

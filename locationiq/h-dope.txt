@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "160553123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2656951",
+    "boundingbox": [
+      "53.768448",
+      "53.7859902",
+      "11.5222968",
+      "11.5390025"
+    ],
+    "lat": "53.77715595",
+    "lon": "11.5313519164908",
+    "display_name": "D\u00f6pe, D\u00f6peweg, Hohen Viecheln, Dorf Mecklenburg-Bad Kleinen, Landkreis Nordwestmecklenburg, Mecklenburg-Vorpommern, 23996, Deutschland",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.17217279423731
+  },
+  {
+    "place_id": "17047044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1606442426",
+    "boundingbox": [
+      "55.6786759",
+      "55.6787759",
+      "12.574528",
+      "12.574628"
+    ],
+    "lat": "55.6787259",
+    "lon": "12.574578",
+    "display_name": "Dope, Vimmelskaftet, K\u00f8dbyen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1161, Danmark",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16128043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1489636552",
+    "boundingbox": [
+      "55.681908",
+      "55.682008",
+      "12.5744548",
+      "12.5745548"
+    ],
+    "lat": "55.681958",
+    "lon": "12.5745048",
+    "display_name": "Dope, K\u00f8bmagergade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1126, Danmark",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20355812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2022359840",
+    "boundingbox": [
+      "51.0512095",
+      "51.0513095",
+      "3.7193103",
+      "3.7194103"
+    ],
+    "lat": "51.0512595",
+    "lon": "3.7193603",
+    "display_name": "Dope, Posteernestraat, Papegaai, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

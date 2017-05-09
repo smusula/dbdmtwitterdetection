@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "2648790532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263345884",
+    "boundingbox": [
+      "49.3850247",
+      "49.3855256",
+      "1.0686406",
+      "1.0691011"
+    ],
+    "lat": "49.38529415",
+    "lon": "1.06887058490351",
+    "display_name": "CDR, 745, Avenue de l'Universit\u00e9, Le Ch\u00e2teau Blanc, Saint-\u00c9tienne-du-Rouvray, Rouen, Seine-Maritime, Normandie, 76800, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651402219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4670389290",
+    "boundingbox": [
+      "-36.8301006",
+      "-36.8300006",
+      "-73.0522406",
+      "-73.0521406"
+    ],
+    "lat": "-36.8300506",
+    "lon": "-73.0521906",
+    "display_name": "CDR, Lincoy\u00e1n, Barrio C\u00edvico, Pedro de Valdivia, Concepci\u00f3n, Provincia de Concepci\u00f3n, VIII Regi\u00f3n del Biob\u00edo, 4030576, Chile",
+    "class": "office",
+    "type": "physician",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19296009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1888138734",
+    "boundingbox": [
+      "43.1894935",
+      "43.1895935",
+      "-2.4565353",
+      "-2.4564353"
+    ],
+    "lat": "43.1895435",
+    "lon": "-2.4564853",
+    "display_name": "CDR, Barrena kalea, Azitain, Eibar, Debabarrena, Gipuzkoa, Euskadi, 20600, Espa\u00f1a",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "16289572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1515571877",
+    "boundingbox": [
+      "38.2169394",
+      "38.2170394",
+      "15.2328671",
+      "15.2329671"
+    ],
+    "lat": "38.2169894",
+    "lon": "15.2329171",
+    "display_name": "CDR, Via Spiaggia di Ponente, Fossazzo, Milazzo, ME, SIC, 98057, Italia",
+    "class": "amenity",
+    "type": "studio",
+    "importance": 0.101
+  },
+  {
+    "place_id": "108846608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191286010",
+    "boundingbox": [
+      "43.639226",
+      "43.639701",
+      "3.936563",
+      "3.9372043"
+    ],
+    "lat": "43.639487",
+    "lon": "3.93685199973586",
+    "display_name": "CDR, Route de N\u00eemes, Zone d'Activit\u00e9s L'Aube Rouge, Le Cr\u00e8s, Montpellier, H\u00e9rault, Occitanie, 34920, France",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "90017645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115216889",
+    "boundingbox": [
+      "43.728422",
+      "43.728785",
+      "4.190972",
+      "4.191646"
+    ],
+    "lat": "43.728602",
+    "lon": "4.19132983988763",
+    "display_name": "CDR, Avenue de la Gare, Aigues-Vives, Nimes, Gard, Occitanie, 30670, France",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "80113755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65199076",
+    "boundingbox": [
+      "40.7988798",
+      "40.7993986",
+      "-77.8686813",
+      "-77.8682013"
+    ],
+    "lat": "40.79913895",
+    "lon": "-77.8683613636062",
+    "display_name": "CDR, Allen Road, State College, Centre County, Pennsylvania, 16802, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649134079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "466745449",
+    "boundingbox": [
+      "-25.3377749",
+      "-25.3376842",
+      "-57.5603619",
+      "-57.5602353"
+    ],
+    "lat": "-25.3377296",
+    "lon": "-57.560298599334",
+    "display_name": "CDR, Calle 11 de Setiembre, Yta Caaguy, Fernando de la Mora, Central, Regi\u00f3n Oriental, 2610, Paraguay",
+    "class": "shop",
+    "type": "electrical",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17536568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1694316450",
+    "boundingbox": [
+      "46.1676221",
+      "46.1677221",
+      "1.8554146",
+      "1.8555146"
+    ],
+    "lat": "46.1676721",
+    "lon": "1.8554646",
+    "display_name": "Camera-Contact VisAge, 29, Rue Salvador Allende, Route de Courtille, Gu\u00e9ret, Creuse, Nouvelle-Aquitaine, 23000, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "116315055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222563333",
+    "boundingbox": [
+      "42.8285519",
+      "42.8483867",
+      "-103.1053494",
+      "-103.085669"
+    ],
+    "lat": "42.83845375",
+    "lon": "-103.096059686878",
+    "display_name": "Chadron Municipal Airport, Airport Road, J and L Trailer Court, Dawes County, Nebraska, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

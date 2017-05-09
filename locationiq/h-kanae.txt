@@ -1,0 +1,166 @@
+[
+  {
+    "place_id": "160294706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192781",
+    "boundingbox": [
+      "4.5392525",
+      "11.1748562",
+      "-3.2607859",
+      "1.2732942"
+    ],
+    "lat": "8.0300284",
+    "lon": "-1.080027",
+    "display_name": "Ghana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72399695945124,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160402009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1317764",
+    "boundingbox": [
+      "48.4921038",
+      "48.532313",
+      "20.9993442",
+      "21.0398811"
+    ],
+    "lat": "48.5149554",
+    "lon": "21.0136036",
+    "display_name": "K\u00e1ny, Encsi j\u00e1r\u00e1s, Borsod-Aba\u00faj-Zempl\u00e9n megye, \u00c9szak-Magyarorsz\u00e1g, Alf\u00f6ld \u00e9s \u00c9szak, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48540174325282,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "108337859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189018349",
+    "boundingbox": [
+      "52.9876645",
+      "53.037452",
+      "57.31033",
+      "57.4427602"
+    ],
+    "lat": "53.0058946",
+    "lon": "57.3687956",
+    "display_name": "\u041a\u0430\u043d\u0430, \u0411\u0443\u0440\u0437\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "117823108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227834631",
+    "boundingbox": [
+      "52.7700432",
+      "52.990699",
+      "57.4294",
+      "57.811825"
+    ],
+    "lat": "52.7989716",
+    "lon": "57.5343074",
+    "display_name": "\u041a\u0430\u043d\u0430, \u0417\u0438\u043b\u0430\u0438\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "117813537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227935018",
+    "boundingbox": [
+      "53.6002562",
+      "53.6617404",
+      "57.9355197",
+      "57.9985553"
+    ],
+    "lat": "53.6365879",
+    "lon": "57.9736036",
+    "display_name": "\u041a\u0430\u043d\u0430, \u0411\u0435\u043b\u043e\u0440\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "147211021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375139749",
+    "boundingbox": [
+      "23.3240765",
+      "23.3266904",
+      "87.5760834",
+      "87.5762541"
+    ],
+    "lat": "23.3253457",
+    "lon": "87.5761972",
+    "display_name": "Kana, Bardhaman, Barddham\u0101n, Barddhaman, West Bengal, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "152172115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402581658",
+    "boundingbox": [
+      "22.7260305",
+      "22.8032312",
+      "88.1814975",
+      "88.2175893"
+    ],
+    "lat": "22.7643222",
+    "lon": "88.2035989",
+    "display_name": "kana, H\u0101ora, Hugli, West Bengal, India",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "152172051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402581232",
+    "boundingbox": [
+      "22.7424141",
+      "22.7837542",
+      "88.2157834",
+      "88.226541"
+    ],
+    "lat": "22.7618423",
+    "lon": "88.2227646",
+    "display_name": "Kana, H\u0101ora, Hugli, West Bengal, India",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "80031650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64097276",
+    "boundingbox": [
+      "67.2552901",
+      "67.3920526",
+      "33.4251314",
+      "33.7002643"
+    ],
+    "lat": "67.3282353",
+    "lon": "33.5637372",
+    "display_name": "\u041a\u0430\u043d\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0410\u043f\u0430\u0442\u0438\u0442\u044b, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

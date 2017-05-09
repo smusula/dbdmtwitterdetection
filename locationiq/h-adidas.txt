@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "131510864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294197224",
+    "boundingbox": [
+      "51.199355",
+      "51.1996493",
+      "5.987739",
+      "5.9883129"
+    ],
+    "lat": "51.19951915",
+    "lon": "5.98803536747218",
+    "display_name": "Adidas, 142, Stadsweide, Roermond, Limburg, Nederland, 6041TD, Nederland",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.69305569238912
+  },
+  {
+    "place_id": "116155081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221492128",
+    "boundingbox": [
+      "34.9527018",
+      "34.9629897",
+      "-82.0447288",
+      "-82.0350192"
+    ],
+    "lat": "34.95778",
+    "lon": "-82.0372531006043",
+    "display_name": "adidas, Forest Park, Spartanburg County, South Carolina, 29301, United States of America",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.31
+  },
+  {
+    "place_id": "119005338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232209741",
+    "boundingbox": [
+      "-29.4528328",
+      "-29.4510245",
+      "-51.8132786",
+      "-51.8109226"
+    ],
+    "lat": "-29.4519685",
+    "lon": "-51.8120497906158",
+    "display_name": "Adidas, Teut\u00f4nia, Microrregi\u00e3o de Lageado-Estrela, Mesorregi\u00e3o Centro-Oriental Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "53400934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4048975654",
+    "boundingbox": [
+      "3.1516499",
+      "3.1916499",
+      "-52.3616832",
+      "-52.3216832"
+    ],
+    "lat": "3.1716499",
+    "lon": "-52.3416832",
+    "display_name": "W\u0268wa, Cayenne, Guyane, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50490710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3765555487",
+    "boundingbox": [
+      "25.0147224",
+      "25.0148224",
+      "121.5324667",
+      "121.5325667"
+    ],
+    "lat": "25.0147724",
+    "lon": "121.5325167",
+    "display_name": "adidas, \u6c40\u5dde\u8def\u4e09\u6bb5, \u6c34\u6e90\u91cc, \u516c\u9928, \u4e2d\u6b63\u5340, \u81fa\u5317\u5e02, 10091, \u81fa\u7063",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.111
+  },
+  {
+    "place_id": "33129626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2787383734",
+    "boundingbox": [
+      "25.041649",
+      "25.041749",
+      "121.5508351",
+      "121.5509351"
+    ],
+    "lat": "25.041699",
+    "lon": "121.5508851",
+    "display_name": "adidas, \u5fe0\u5b5d\u6771\u8def\u56db\u6bb5181\u5df7, \u5efa\u5b89\u91cc, \u5761\u5fc3, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 10686, \u81fa\u7063",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2609476648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4483313093",
+    "boundingbox": [
+      "25.0862513",
+      "25.0863513",
+      "121.5250545",
+      "121.5251545"
+    ],
+    "lat": "25.0863013",
+    "lon": "121.5251045",
+    "display_name": "adidas, \u6587\u6797\u8def, \u7fa9\u4fe1\u91cc, \u5c71\u5b50\u8173, \u58eb\u6797\u5340, \u81fa\u5317\u5e02, 11167, \u81fa\u7063",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2653976344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4731676722",
+    "boundingbox": [
+      "10.7711491",
+      "10.7712491",
+      "106.6940829",
+      "106.6941829"
+    ],
+    "lat": "10.7711991",
+    "lon": "106.6941329",
+    "display_name": "adidas, Ph\u1ea1m H\u1ed3ng Th\u00e1i, Ph\u01b0\u1eddng B\u1ebfn Th\u00e0nh, Qu\u1eadn 1, Tp HCM, 1, Vi\u1ec7t Nam",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "50120187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3720429034",
+    "boundingbox": [
+      "25.0629821",
+      "25.0630821",
+      "121.497464",
+      "121.497564"
+    ],
+    "lat": "25.0630321",
+    "lon": "121.497514",
+    "display_name": "adidas, \u6b63\u7fa9\u5317\u8def16\u5df7, \u91cd\u65b0\u91cc, \u83dc\u5bee, \u4e09\u91cd\u5340, \u65b0\u5317\u5e02, 24147, \u81fa\u7063",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.111
+  },
+  {
+    "place_id": "52058868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3919059282",
+    "boundingbox": [
+      "40.4531338",
+      "40.4532338",
+      "-3.6869618",
+      "-3.6868618"
+    ],
+    "lat": "40.4531838",
+    "lon": "-3.6869118",
+    "display_name": "Adidas, Calle del Padre Dami\u00e1n, Chamart\u00edn, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28036, Espa\u00f1a",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  }
+]

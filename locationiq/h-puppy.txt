@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "153304480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "408647731",
+    "boundingbox": [
+      "43.2676207",
+      "43.2677418",
+      "-2.9345712",
+      "-2.9344693"
+    ],
+    "lat": "43.26769005",
+    "lon": "-2.934513525",
+    "display_name": "Puppy, Jose Maria Agirre Ertzainaren plaza, Abandoibarra, Ciudad Jard\u00edn - Loruri, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "26444962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2502323205",
+    "boundingbox": [
+      "35.6618436",
+      "35.6619436",
+      "139.6660004",
+      "139.6661004"
+    ],
+    "lat": "35.6618936",
+    "lon": "139.6660504",
+    "display_name": "Puppy, \u938c\u5009\u901a\u308a, \u8239\u6a4b, \u4e16\u7530\u8c37\u533a, \u6771\u4eac\u90fd, 155-9931, \u65e5\u672c",
+    "class": "shop",
+    "type": "fabric",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652618111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4697942109",
+    "boundingbox": [
+      "-53.7708493",
+      "-53.7707493",
+      "-67.720042",
+      "-67.719942"
+    ],
+    "lat": "-53.7707993",
+    "lon": "-67.719992",
+    "display_name": "Puppy, Carlos Pellegrini, Buena Vista, R\u00edo Grande, Departamento R\u00edo Grande, TDF, V9420, Argentina",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18410975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1776098226",
+    "boundingbox": [
+      "35.4124922",
+      "35.4125922",
+      "139.3317154",
+      "139.3318154"
+    ],
+    "lat": "35.4125422",
+    "lon": "139.3317654",
+    "display_name": "\u30d1\u30d4\u30fc, \u56fd\u9053246\u53f7\u7dda, \u4f0a\u52e2\u539f\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.001
+  }
+]

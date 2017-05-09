@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160370710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070393",
+    "boundingbox": [
+      "39.307137",
+      "39.654579",
+      "-97.9304659",
+      "-97.3681789"
+    ],
+    "lat": "39.4850226",
+    "lon": "-97.6705136",
+    "display_name": "Cloud County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56663924765761,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4667553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501602059",
+    "boundingbox": [
+      "45.9524985",
+      "45.9924985",
+      "1.3238457",
+      "1.3638457"
+    ],
+    "lat": "45.9724985",
+    "lon": "1.3438457",
+    "display_name": "Cloud, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16661845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1584840779",
+    "boundingbox": [
+      "46.0571585",
+      "46.0971585",
+      "1.9894611",
+      "2.0294611"
+    ],
+    "lat": "46.0771585",
+    "lon": "2.0094611",
+    "display_name": "Le Cloud, Gu\u00e9ret, Creuse, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "368616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151464729",
+    "boundingbox": [
+      "41.1549975",
+      "41.1949975",
+      "-93.2552077",
+      "-93.2152077"
+    ],
+    "lat": "41.1749975",
+    "lon": "-93.2352077",
+    "display_name": "Cloud, Marion County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6184520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "638787202",
+    "boundingbox": [
+      "53.1700405",
+      "53.1701405",
+      "-2.1442072",
+      "-2.1441072"
+    ],
+    "lat": "53.1700905",
+    "lon": "-2.1441572",
+    "display_name": "The Cloud, Staffordshire Moorlands, Staffordshire, West Midlands, England, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.36123930027934,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "153481271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "409787957",
+    "boundingbox": [
+      "9.257236",
+      "9.2658766",
+      "38.0208545",
+      "38.0308967"
+    ],
+    "lat": "9.26161455",
+    "lon": "38.0262330354685",
+    "display_name": "Cloud, \u12a0\u121d\u1266 / Ambo, West Shewa, Oromia, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "155387374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420985083",
+    "boundingbox": [
+      "6.9231234",
+      "6.930973",
+      "37.2337421",
+      "37.2388096"
+    ],
+    "lat": "6.92752675",
+    "lon": "37.2377109550535",
+    "display_name": "Cloud, Dawuro, Southern Nations, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66682288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19378755",
+    "boundingbox": [
+      "41.829014",
+      "41.829018",
+      "-71.4539789",
+      "-71.4538499"
+    ],
+    "lat": "41.829018",
+    "lon": "-71.4539789",
+    "display_name": "Cloud, Providence, Providence County, Rhode Island, 02860, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "97573051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145016632",
+    "boundingbox": [
+      "46.0774785",
+      "46.0795809",
+      "2.0072027",
+      "2.0108773"
+    ],
+    "lat": "46.0775864",
+    "lon": "2.0096918",
+    "display_name": "Le Cloud, Ahun, Gu\u00e9ret, Creuse, Nouvelle-Aquitaine, 23150, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74415487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38554043",
+    "boundingbox": [
+      "51.6382629",
+      "51.6385741",
+      "-2.3496719",
+      "-2.3477449"
+    ],
+    "lat": "51.6382735",
+    "lon": "-2.348597",
+    "display_name": "The Cloud, Wotton-under-Edge, Gloucestershire, South West England, England, GL12 7JL, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

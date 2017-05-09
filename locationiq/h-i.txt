@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160307482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "304716",
+    "boundingbox": [
+      "6.5546079",
+      "35.6745457",
+      "68.1113787",
+      "97.395561"
+    ],
+    "lat": "22.3511148",
+    "lon": "78.6677428",
+    "display_name": "India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.95342751526599,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160282973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "161816",
+    "boundingbox": [
+      "37.771742",
+      "41.761368",
+      "-88.0997018",
+      "-84.7846089"
+    ],
+    "lat": "40.3270127",
+    "lon": "-86.1746932",
+    "display_name": "Indiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.84312687542603,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160948965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5928878",
+    "boundingbox": [
+      "51.437431",
+      "51.4761733",
+      "6.9820482",
+      "7.0642849"
+    ],
+    "lat": "51.457087",
+    "lon": "7.011429",
+    "display_name": "Stadtbezirk I, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, Deutschland",
+    "class": "place",
+    "type": "city",
+    "importance": 0.74214706509138,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160255316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62269",
+    "boundingbox": [
+      "53.845",
+      "54.5534288",
+      "-5.1707284",
+      "-3.965406"
+    ],
+    "lat": "54.1936805",
+    "lon": "-4.5591147",
+    "display_name": "Isle of Man",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71011383802528,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160422784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1592819",
+    "boundingbox": [
+      "34.5147803",
+      "35.9224271",
+      "-6.2434002",
+      "-3.8026884"
+    ],
+    "lat": "35.202941",
+    "lon": "-5.5510166",
+    "display_name": "Tanger-T\u00e9touan-Al Hoceima \u2d5f\u2d30\u2d4f\u2d4a-\u2d5f\u2d49\u2d5c\u2d30\u2d61\u2d49\u2d4f-\u2d4d\u2d43\u2d53\u2d59\u2d49\u2d4e\u2d30 \u0637\u0646\u062c\u0629-\u062a\u0637\u0648\u0627\u0646-\u0627\u0644\u062d\u0633\u064a\u0645\u0629, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.65,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160455551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1675824",
+    "boundingbox": [
+      "45.8239833",
+      "46.0005907",
+      "13.7331432",
+      "14.129576"
+    ],
+    "lat": "45.8885557",
+    "lon": "13.9048561",
+    "display_name": "Ajdov\u0161\u010dina, Gori\u0161ka, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.61826747666593,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652076512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "256328937",
+    "boundingbox": [
+      "51.5698875",
+      "51.5798875",
+      "6.9713484",
+      "6.9813484"
+    ],
+    "lat": "51.5748875",
+    "lon": "6.9763484",
+    "display_name": "Gladbeck West, Hansemannstra\u00dfe, Alt-Rentfort, Gladbeck, Kreis Recklinghausen, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 45966, Deutschland",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.57376296369788,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "158843305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439128857",
+    "boundingbox": [
+      "34.830593",
+      "34.832494",
+      "137.3298921",
+      "137.3316335"
+    ],
+    "lat": "34.8312754",
+    "lon": "137.3308291",
+    "display_name": "\u56fd\u90531\u53f7, \u8c4a\u5ddd\u5e02, \u984d\u7530\u90e1, \u611b\u77e5\u770c, 442-0852, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.50719180445983
+  },
+  {
+    "place_id": "81492057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75810080",
+    "boundingbox": [
+      "34.832494",
+      "34.8453157",
+      "137.3215815",
+      "137.3298921"
+    ],
+    "lat": "34.8389212",
+    "lon": "137.3257932",
+    "display_name": "\u56fd\u90531\u53f7, \u8c4a\u5ddd\u5e02, \u984d\u7530\u90e1, \u611b\u77e5\u770c, 442-0854, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.50719180445983
+  },
+  {
+    "place_id": "158859330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439128856",
+    "boundingbox": [
+      "34.832468",
+      "34.8546693",
+      "137.3134004",
+      "137.3298019"
+    ],
+    "lat": "34.8439727",
+    "lon": "137.3224156",
+    "display_name": "\u56fd\u90531\u53f7, \u8c4a\u5ddd\u5e02, \u984d\u7530\u90e1, \u611b\u77e5\u770c, 441-0211, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.50719180445983
+  }
+]

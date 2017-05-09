@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160451967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1810775",
+    "boundingbox": [
+      "33.823685",
+      "34.31144",
+      "-102.6154946",
+      "-102.0867159"
+    ],
+    "lat": "34.0321667",
+    "lon": "-102.3429232",
+    "display_name": "Lamb County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "407985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153703961",
+    "boundingbox": [
+      "38.6720066",
+      "38.7120066",
+      "-85.2080091",
+      "-85.1680091"
+    ],
+    "lat": "38.6920066",
+    "lon": "-85.1880091",
+    "display_name": "Lamb, Switzerland County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "363344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151465703",
+    "boundingbox": [
+      "39.7211567",
+      "39.7611567",
+      "-91.4068161",
+      "-91.3668161"
+    ],
+    "lat": "39.7411567",
+    "lon": "-91.3868161",
+    "display_name": "Lamb, Marion County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "391622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153377275",
+    "boundingbox": [
+      "35.9247862",
+      "35.9647862",
+      "-86.5161037",
+      "-86.4761037"
+    ],
+    "lat": "35.9447862",
+    "lon": "-86.4961037",
+    "display_name": "Lamb, Rutherford County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "372514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151530645",
+    "boundingbox": [
+      "40.2249804",
+      "40.2649804",
+      "-103.8677283",
+      "-103.8277283"
+    ],
+    "lat": "40.2449804",
+    "lon": "-103.8477283",
+    "display_name": "Lamb, Morgan County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "402292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153585979",
+    "boundingbox": [
+      "36.7386644",
+      "36.7786644",
+      "-85.9191445",
+      "-85.8791445"
+    ],
+    "lat": "36.7586644",
+    "lon": "-85.8991445",
+    "display_name": "Lamb, Monroe County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "411953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153913786",
+    "boundingbox": [
+      "38.9361741",
+      "38.9761741",
+      "-84.4679958",
+      "-84.4279958"
+    ],
+    "lat": "38.9561741",
+    "lon": "-84.4479958",
+    "display_name": "Lamb, Kenton County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44495870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3152855930",
+    "boundingbox": [
+      "53.2048362",
+      "53.2248362",
+      "-6.4855293",
+      "-6.4655293"
+    ],
+    "lat": "53.2148362",
+    "lon": "-6.4755293",
+    "display_name": "The Lamb, Kilbride, Baltinglass Municipal District, County Wicklow, Leinster, Ireland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "89153563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "112564610",
+    "boundingbox": [
+      "51.5230059",
+      "51.523097",
+      "-0.1191079",
+      "-0.1189549"
+    ],
+    "lat": "51.5230437",
+    "lon": "-0.119030927626869",
+    "display_name": "The Lamb, 94, Lamb's Conduit Street, Holborn, Bloomsbury, London Borough of Camden, London, Greater London, England, WC1N 3LZ, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.34417377737972,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "57111559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "3469301",
+    "boundingbox": [
+      "56.069488",
+      "56.0704744",
+      "-2.7497811",
+      "-2.7475102"
+    ],
+    "lat": "56.06998735",
+    "lon": "-2.74874908059187",
+    "display_name": "Lamb, East Lothian, Scotland, UK",
+    "class": "place",
+    "type": "island",
+    "importance": 0.34054450316591
+  }
+]

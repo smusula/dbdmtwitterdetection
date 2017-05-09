@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "106909476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182533619",
+    "boundingbox": [
+      "33.7704847",
+      "33.7709774",
+      "-84.364745",
+      "-84.3639929"
+    ],
+    "lat": "33.77073075",
+    "lon": "-84.3643533882414",
+    "display_name": "The Masquerade, 695, North Avenue Northeast, Linwood, Virginia Highland, Atlanta, Fulton County, Georgia, 30307, United States of America",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21236608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2106381770",
+    "boundingbox": [
+      "51.3729365",
+      "51.3730365",
+      "-0.0979884",
+      "-0.0978884"
+    ],
+    "lat": "51.3729865",
+    "lon": "-0.0979384",
+    "display_name": "Masquerade, 36, St George's Walk, Broad Green, London Borough of Croydon, London, Greater London, England, CR0 1PD, UK",
+    "class": "shop",
+    "type": "party",
+    "importance": 0.101
+  },
+  {
+    "place_id": "95894046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136954446",
+    "boundingbox": [
+      "35.504871",
+      "35.5051949",
+      "-97.5341172",
+      "-97.5336425"
+    ],
+    "lat": "35.50503315",
+    "lon": "-97.5338789765437",
+    "display_name": "Masquerade, Northwest 34th Street, Oklahoma City, Oklahoma County, Oklahoma, 73118, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16193959",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1470672008",
+    "boundingbox": [
+      "48.1431243",
+      "48.1432243",
+      "17.1065503",
+      "17.1066503"
+    ],
+    "lat": "48.1431743",
+    "lon": "17.1066003",
+    "display_name": "Masquerade, Vent\u00farska, Vn\u00fatorn\u00e9 mesto, Historick\u00e9 jadro, Bratislava - mestsk\u00e1 \u010das\u0165 Star\u00e9 Mesto, Star\u00e9 Mesto, Bratislava, Bratislavsk\u00fd kraj, 811 01, Slovensko",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "21592987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2144148391",
+    "boundingbox": [
+      "52.4632297",
+      "52.4633297",
+      "-1.9985639",
+      "-1.9984639"
+    ],
+    "lat": "52.4632797",
+    "lon": "-1.9985139",
+    "display_name": "Masquerade, Hagley Road West, Brandhall, Sandwell, West Midlands, England, B68 0DB, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

@@ -1,0 +1,154 @@
+[
+  {
+    "place_id": "160286012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170708",
+    "boundingbox": [
+      "40.730321",
+      "40.759099",
+      "-74.0439877",
+      "-74.0137839"
+    ],
+    "lat": "40.7433066",
+    "lon": "-74.0323751",
+    "display_name": "Hoboken, Hudson County, New Jersey, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.61111239082988,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160251617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "59534",
+    "boundingbox": [
+      "51.1555619",
+      "51.1961443",
+      "4.328155",
+      "4.378306"
+    ],
+    "lat": "51.1757824",
+    "lon": "4.35115021713948",
+    "display_name": "Hoboken, Antwerpen, Vlaanderen, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47579531509901,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "265863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "63713445",
+    "boundingbox": [
+      "51.1394946",
+      "51.2194946",
+      "4.3217847",
+      "4.4017847"
+    ],
+    "lat": "51.1794946",
+    "lon": "4.3617847",
+    "display_name": "Hoboken, Antwerpen, Vlaanderen, 2660, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "town",
+    "importance": 0.47579531509901,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "326210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141027548",
+    "boundingbox": [
+      "40.8629145",
+      "40.9029145",
+      "-123.4547656",
+      "-123.4147656"
+    ],
+    "lat": "40.8829145",
+    "lon": "-123.4347656",
+    "display_name": "Hoboken, Trinity County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "441267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157556140",
+    "boundingbox": [
+      "42.6070181",
+      "42.6470181",
+      "-75.3423927",
+      "-75.3023927"
+    ],
+    "lat": "42.6270181",
+    "lon": "-75.3223927",
+    "display_name": "Hoboken, Town of Pittsfield, Otsego County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "397433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153661930",
+    "boundingbox": [
+      "31.8918267",
+      "31.9318267",
+      "-85.168821",
+      "-85.128821"
+    ],
+    "lat": "31.9118267",
+    "lon": "-85.148821",
+    "display_name": "Hoboken, Barbour County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "404002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153815910",
+    "boundingbox": [
+      "32.0059839",
+      "32.0459839",
+      "-87.8969537",
+      "-87.8569537"
+    ],
+    "lat": "32.0259839",
+    "lon": "-87.8769537",
+    "display_name": "Hoboken, Marengo County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3677614384343,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160265957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "119857",
+    "boundingbox": [
+      "31.168242",
+      "31.194627",
+      "-82.1520929",
+      "-82.1132569"
+    ],
+    "lat": "31.1810559",
+    "lon": "-82.1348415",
+    "display_name": "Hoboken, Brantley County, Georgia, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

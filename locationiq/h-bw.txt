@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160256125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62611",
+    "boundingbox": [
+      "47.5324787",
+      "49.7912941",
+      "7.5117461",
+      "10.4955731"
+    ],
+    "lat": "48.6296972",
+    "lon": "9.1949534",
+    "display_name": "Baden-W\u00fcrttemberg, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71594179054949,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160458176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1889339",
+    "boundingbox": [
+      "-26.9059668",
+      "-17.7781369",
+      "19.9986474",
+      "29.375304"
+    ],
+    "lat": "-23.1681781",
+    "lon": "24.5928742",
+    "display_name": "Botswana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.67952104895313,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160508270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2190484",
+    "boundingbox": [
+      "6.4620518",
+      "10.439004",
+      "23.447778",
+      "28.5635457"
+    ],
+    "lat": "7.2513252",
+    "lon": "26.8456044",
+    "display_name": "Western Bahr el Ghazal State, South Sudan",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.32621598500338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81526947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "76128866",
+    "boundingbox": [
+      "36.7866892",
+      "36.7885208",
+      "-119.6956466",
+      "-119.693378"
+    ],
+    "lat": "36.7876019",
+    "lon": "-119.694511962905",
+    "display_name": "BW, Clovis, Fresno County, California, 93612, United States of America",
+    "class": "landuse",
+    "type": "basin",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2610253026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453433441",
+    "boundingbox": [
+      "41.5774887",
+      "41.577509",
+      "-73.8030811",
+      "-73.802973"
+    ],
+    "lat": "41.5774887",
+    "lon": "-73.802973",
+    "display_name": "(bw), Hopewell Junction, Town of East Fishkill, Dutchess County, New York, 12533, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2610421987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453893608",
+    "boundingbox": [
+      "41.4801364",
+      "41.4805398",
+      "-73.646919",
+      "-73.6466209"
+    ],
+    "lat": "41.4802574",
+    "lon": "-73.646919",
+    "display_name": "(bw), Field Corners, Town of Patterson, Putnam County, New York, 12531, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2649349120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "467343665",
+    "boundingbox": [
+      "41.4288644",
+      "41.4289017",
+      "-73.9675141",
+      "-73.9673849"
+    ],
+    "lat": "41.4288644",
+    "lon": "-73.9675141",
+    "display_name": "(bw), Town of Philipstown, Putnam County, New York, 10996, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "21511190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117341221",
+    "boundingbox": [
+      "15.2047768",
+      "15.2048768",
+      "120.7070185",
+      "120.7071185"
+    ],
+    "lat": "15.2048268",
+    "lon": "120.7070685",
+    "display_name": "bw, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "156371670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426170437",
+    "boundingbox": [
+      "-0.1803346",
+      "-0.1802449",
+      "-78.4814577",
+      "-78.4812521"
+    ],
+    "lat": "-0.18028995",
+    "lon": "-78.481354857295",
+    "display_name": "BW, Avenida de los Shyris, La Carolina, I\u00f1aquito, Quito, Pichincha, EC170515, Ecuador",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158946972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439912758",
+    "boundingbox": [
+      "60.3292056",
+      "60.330091",
+      "24.9493253",
+      "24.950628"
+    ],
+    "lat": "60.3300616",
+    "lon": "24.9502701",
+    "display_name": "BW, L\u00e4ntinen huoltotie, Lentokentt\u00e4, Aviapoliksen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 01590, Suomi",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  }
+]

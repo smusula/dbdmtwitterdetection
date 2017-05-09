@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "66675447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20026128",
+    "boundingbox": [
+      "42.842626",
+      "42.842732",
+      "-76.6852619",
+      "-76.6846969"
+    ],
+    "lat": "42.842644",
+    "lon": "-76.6849729",
+    "display_name": "Fingerlakes Court, Union Springs, Town of Springport, Cayuga County, New York, 13160, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "133427234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303020980",
+    "boundingbox": [
+      "42.9294163",
+      "42.9311749",
+      "-76.6137799",
+      "-76.6090721"
+    ],
+    "lat": "42.9302975",
+    "lon": "-76.6114165525702",
+    "display_name": "Fingerlakes Mall, 1579, Clark Street Road, Half Acre, Town of Aurelius, Cayuga County, New York, 13021, United States of America",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.19305531631457
+  },
+  {
+    "place_id": "50971385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3794343082",
+    "boundingbox": [
+      "42.4380333",
+      "42.4381333",
+      "-76.4993501",
+      "-76.4992501"
+    ],
+    "lat": "42.4380833",
+    "lon": "-76.4993001",
+    "display_name": "Fingerlakes Electric, 222, South Cayuga Street, Ithaca, Tompkins County, New York, 14850, United States of America",
+    "class": "shop",
+    "type": "trade",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3461618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369044165",
+    "boundingbox": [
+      "42.8659236",
+      "42.8959236",
+      "-76.7974284",
+      "-76.7674284"
+    ],
+    "lat": "42.8809236",
+    "lon": "-76.7824284",
+    "display_name": "Fingerlakes Regional Airport, Martin Road, Canoga Springs, Seneca County, New York, 13148, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "25756616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2477848771",
+    "boundingbox": [
+      "42.9077123",
+      "42.9078123",
+      "-76.8039786",
+      "-76.8038786"
+    ],
+    "lat": "42.9077623",
+    "lon": "-76.8039286",
+    "display_name": "America Red Cross in the Fingerlakes, 83, West Bayard Street, Seneca Falls, Seneca County, New York, 13148, United States of America",
+    "class": "amenity",
+    "type": "social_facility",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160261672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "107680",
+    "boundingbox": [
+      "47.9919946",
+      "48.0396253",
+      "0.3070358",
+      "0.3655142"
+    ],
+    "lat": "48.0168",
+    "lon": "0.33179",
+    "display_name": "Champagn\u00e9, Mamers, Sarthe, Pays de la Loire, 72470, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50336329330033,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160435376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1684883",
+    "boundingbox": [
+      "46.8246136",
+      "46.8474755",
+      "6.6379923",
+      "6.6692426"
+    ],
+    "lat": "46.8302611",
+    "lon": "6.6580976",
+    "display_name": "Champagne, District du Jura-Nord vaudois, Vaud, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43170884311896,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "96189672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138629734",
+    "boundingbox": [
+      "44.99844",
+      "45.0091196",
+      "4.2908085",
+      "4.2935563"
+    ],
+    "lat": "45.003689",
+    "lon": "4.2920832",
+    "display_name": "Le Champagne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "21731634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2156322012",
+    "boundingbox": [
+      "48.5803413",
+      "48.6203413",
+      "0.7555839",
+      "0.7955839"
+    ],
+    "lat": "48.6003413",
+    "lon": "0.7755839",
+    "display_name": "Marchainville, La Champagne, Mortagne-au-Perche, Orne, Normandie, 61290, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51759710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3886705433",
+    "boundingbox": [
+      "46.7418825",
+      "46.7818825",
+      "5.5239602",
+      "5.5639602"
+    ],
+    "lat": "46.7618825",
+    "lon": "5.5439602",
+    "display_name": "Arlay, Champagne, Lons-le-Saunier, Jura, Bourgogne-Franche-Comt\u00e9, 39140, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53999971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4144844345",
+    "boundingbox": [
+      "49.0378881",
+      "49.0778881",
+      "1.2195712",
+      "1.2595712"
+    ],
+    "lat": "49.0578881",
+    "lon": "1.2395712",
+    "display_name": "Champagne, \u00c9vreux, Eure, Normandie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16542564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1528079856",
+    "boundingbox": [
+      "46.630047",
+      "46.670047",
+      "4.6092186",
+      "4.6492186"
+    ],
+    "lat": "46.650047",
+    "lon": "4.6292186",
+    "display_name": "Champagne, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "35748527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2831355755",
+    "boundingbox": [
+      "46.4057802",
+      "46.4457802",
+      "4.7636775",
+      "4.8036775"
+    ],
+    "lat": "46.4257802",
+    "lon": "4.7836775",
+    "display_name": "Champagne, M\u00e2con, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6044809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "613623770",
+    "boundingbox": [
+      "48.7428316",
+      "48.7828316",
+      "1.5506299",
+      "1.5906299"
+    ],
+    "lat": "48.7628316",
+    "lon": "1.5706299",
+    "display_name": "Champagne, Dreux, Eure-et-Loir, Centre-Val de Loire, 28410, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "34190575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2806802826",
+    "boundingbox": [
+      "47.5870419",
+      "47.6270419",
+      "0.0420102",
+      "0.0820102"
+    ],
+    "lat": "47.6070419",
+    "lon": "0.0620102",
+    "display_name": "Champagne, La Fl\u00e8che, Sarthe, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

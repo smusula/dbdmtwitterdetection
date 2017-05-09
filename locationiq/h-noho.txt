@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "26379176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2517057358",
+    "boundingbox": [
+      "40.7258246",
+      "40.7259246",
+      "-73.9940065",
+      "-73.9939065"
+    ],
+    "lat": "40.7258746",
+    "lon": "-73.9939565",
+    "display_name": "NoHo, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.50432525500171
+  },
+  {
+    "place_id": "2646894037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4564215677",
+    "boundingbox": [
+      "55.667649",
+      "55.667749",
+      "12.557891",
+      "12.557991"
+    ],
+    "lat": "55.667699",
+    "lon": "12.557941",
+    "display_name": "NOHO, Fl\u00e6sketorvet, K\u00f8dbyen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1712, Danmark",
+    "class": "amenity",
+    "type": "coworking_space",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6617325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "670670469",
+    "boundingbox": [
+      "43.3278051",
+      "43.3279051",
+      "-3.0121871",
+      "-3.0120871"
+    ],
+    "lat": "43.3278551",
+    "lon": "-3.0121371",
+    "display_name": "Noho, El Pinar Kalea, Areeta, Getxo, Bilboaldea, Bizkaia, Euskadi, 48930, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "24828054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2408891158",
+    "boundingbox": [
+      "42.7757034",
+      "42.7758034",
+      "2.913166",
+      "2.913266"
+    ],
+    "lat": "42.7757534",
+    "lon": "2.913216",
+    "display_name": "Noho, Chemin de Saint-Pierre, Centre Commercial Cap Roussillon, Rivesaltes, Perpignan, Pyr\u00e9n\u00e9es-Orientales, Occitanie, 66600, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

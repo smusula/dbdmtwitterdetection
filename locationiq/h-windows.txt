@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "56837800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428565389",
+    "boundingbox": [
+      "47.6795767",
+      "47.6796767",
+      "-122.209812",
+      "-122.209712"
+    ],
+    "lat": "47.6796267",
+    "lon": "-122.209762",
+    "display_name": "Puget Sound Wood Windows, 615, Market Street, Juanita, Kirkland, King County, Washington, 98033, United States of America",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56493398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4397696140",
+    "boundingbox": [
+      "31.2329573",
+      "31.2330573",
+      "121.459159",
+      "121.459259"
+    ],
+    "lat": "31.2330073",
+    "lon": "121.459209",
+    "display_name": "Windows, 702, \u5357\u4eac\u897f\u8def, \u9759\u5b89\u533a, \u4e0a\u6d77\u5e02, 200431, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "146739648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "373431059",
+    "boundingbox": [
+      "17.975271",
+      "17.9754362",
+      "-77.2582508",
+      "-77.2581295"
+    ],
+    "lat": "17.97535355",
+    "lon": "-77.2581901486699",
+    "display_name": "Windows, Manchester Avenue, May Pen, Clarendon, Middlesex County, Jamaica",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "46768126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3375302748",
+    "boundingbox": [
+      "36.7301086",
+      "36.7302086",
+      "3.2308461",
+      "3.2309461"
+    ],
+    "lat": "36.7301586",
+    "lon": "3.2308961",
+    "display_name": "Windows, Rue El\u00e9ctrom\u00e9nager Hamiz, El Hamiz, Dar El Be\u00efda, Da\u00efra Dar El Be\u00efda, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16033, RADP",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "114941987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "216953297",
+    "boundingbox": [
+      "18.6777157",
+      "18.6781117",
+      "-68.4191193",
+      "-68.4188367"
+    ],
+    "lat": "18.6779685",
+    "lon": "-68.4189779777134",
+    "display_name": "Windows, Avenida Alemania, B\u00e1varo, La Altagracia, 23301, Rep\u00fablica Dominicana",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

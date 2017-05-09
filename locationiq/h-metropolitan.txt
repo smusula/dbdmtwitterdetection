@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "88027164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108280728",
+    "boundingbox": [
+      "43.1557726",
+      "43.1563849",
+      "-77.6070797",
+      "-77.6062141"
+    ],
+    "lat": "43.15603015",
+    "lon": "-77.606628263296",
+    "display_name": "The Metropolitan, Stone Street, Rochester, Monroe County, New York, 14604, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.40130071139371
+  },
+  {
+    "place_id": "401383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153558980",
+    "boundingbox": [
+      "45.9746744",
+      "46.0146744",
+      "-87.914021",
+      "-87.874021"
+    ],
+    "lat": "45.9946744",
+    "lon": "-87.894021",
+    "display_name": "Metropolitan, Dickinson County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4453409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "480357116",
+    "boundingbox": [
+      "43.2574993",
+      "43.2774993",
+      "-81.2934234",
+      "-81.2734234"
+    ],
+    "lat": "43.2674993",
+    "lon": "-81.2834234",
+    "display_name": "Metropolitan, Stratford, Perth County, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "120101917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "237317244",
+    "boundingbox": [
+      "35.2135218",
+      "35.2159496",
+      "-80.835786",
+      "-80.8334219"
+    ],
+    "lat": "35.21484135",
+    "lon": "-80.8345089549879",
+    "display_name": "Metropolitan, Charlotte, Mecklenburg County, North Carolina, 28202, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "120084081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "237317245",
+    "boundingbox": [
+      "35.2113924",
+      "35.2136533",
+      "-80.8363613",
+      "-80.8341032"
+    ],
+    "lat": "35.21278115",
+    "lon": "-80.8351816705814",
+    "display_name": "Metropolitan, Charlotte, Mecklenburg County, North Carolina, 28204, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "119063837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232848539",
+    "boundingbox": [
+      "-35.2833092",
+      "-35.2822658",
+      "149.1242495",
+      "149.1256119"
+    ],
+    "lat": "-35.2827875",
+    "lon": "149.1249307",
+    "display_name": "The Metropolitan, City, Canberra, Canberra Central, Australian Capital Territory, 2601, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "54175227",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4153873917",
+    "boundingbox": [
+      "31.5988573",
+      "31.5989573",
+      "-102.8846427",
+      "-102.8845427"
+    ],
+    "lat": "31.5989073",
+    "lon": "-102.8845927",
+    "display_name": "Metropolitan, Monahans, Ward County, Texas, 79756, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160258146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "75539",
+    "boundingbox": [
+      "52.241995",
+      "52.2429667",
+      "21.0113567",
+      "21.0130496"
+    ],
+    "lat": "52.24248005",
+    "lon": "21.0127488687783",
+    "display_name": "Metropolitan, 3, Plac marsza\u0142ka J\u00f3zefa Pi\u0142sudskiego, V, \u015ar\u00f3dmie\u015bcie, Warszawa, mazowieckie, 00-078, Polska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.28611063262914
+  },
+  {
+    "place_id": "64548292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16075647",
+    "boundingbox": [
+      "42.519649",
+      "42.521486",
+      "-96.4840899",
+      "-96.4826939"
+    ],
+    "lat": "42.520657",
+    "lon": "-96.4834639",
+    "display_name": "Metropolitan, Sioux City, Woodbury County, Iowa, 51109, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64025856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15377722",
+    "boundingbox": [
+      "29.7526763",
+      "29.7531912",
+      "-95.4002443",
+      "-95.4002334"
+    ],
+    "lat": "29.7529039",
+    "lon": "-95.4002382",
+    "display_name": "Metropolitan, Houston, Harris County, Texas, 77019, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

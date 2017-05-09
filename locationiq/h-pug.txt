@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "160251176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "40095",
+    "boundingbox": [
+      "39.7895944",
+      "42.2264805",
+      "14.934969",
+      "18.5205121"
+    ],
+    "lat": "40.9842539",
+    "lon": "16.6210027",
+    "display_name": "PUG, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.75071605933085,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1480911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "320534015",
+    "boundingbox": [
+      "52.5061278",
+      "52.5062278",
+      "11.7509358",
+      "11.7510358"
+    ],
+    "lat": "52.5061778",
+    "lon": "11.7509858",
+    "display_name": "PUG, Tangerm\u00fcnder Stra\u00dfe, Gro\u00df Schwarzlosen, L\u00fcderitz, Tangerh\u00fctte, Landkreis Stendal, Sachsen-Anhalt, 39517, Deutschland",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "110753035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "199130202",
+    "boundingbox": [
+      "42.7615645",
+      "42.7626968",
+      "-71.0427934",
+      "-71.0415622"
+    ],
+    "lat": "42.7621179",
+    "lon": "-71.0421334192925",
+    "display_name": "The  Pug, Lincoln Avenue, Haverhill, Essex County, Massachusetts, 01830, United States of America",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52215018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3939799601",
+    "boundingbox": [
+      "52.6651364",
+      "52.6652364",
+      "11.2799897",
+      "11.2800897"
+    ],
+    "lat": "52.6651864",
+    "lon": "11.2800397",
+    "display_name": "PUG-Vario-Kauf, 121, Kakerbecker Dorfstra\u00dfe, Kakerbeck, Kalbe (Milde), Altmarkkreis Salzwedel, Sachsen-Anhalt, 39624, Deutschland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "56272857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4409901648",
+    "boundingbox": [
+      "51.7376881",
+      "51.7377881",
+      "7.5270135",
+      "7.5271135"
+    ],
+    "lat": "51.7377381",
+    "lon": "7.5270635",
+    "display_name": "PUG, 11, Schlo\u00dfstra\u00dfe, Nordkirchen, Kreis Coesfeld, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 59394, Deutschland",
+    "class": "office",
+    "type": "nursing",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11249896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042097361",
+    "boundingbox": [
+      "-32.5219007",
+      "-32.4919007",
+      "137.7019952",
+      "137.7319952"
+    ],
+    "lat": "-32.5069007",
+    "lon": "137.7169952",
+    "display_name": "Port Augusta Airport, Airport Road, Port Augusta West, Port Augusta, Port Augusta City Council, South Australia, 5700, Australia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

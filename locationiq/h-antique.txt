@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160419770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1506746",
+    "boundingbox": [
+      "10.271684",
+      "12.279476",
+      "121.1406636",
+      "122.332383"
+    ],
+    "lat": "11.1705066",
+    "lon": "122.083333",
+    "display_name": "Antique, Western Visayas, Philippines",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54683424364982,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "69041793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24159004",
+    "boundingbox": [
+      "14.6838973",
+      "14.6848017",
+      "121.0913631",
+      "121.0919371"
+    ],
+    "lat": "14.6842105",
+    "lon": "121.0916793",
+    "display_name": "Antique, Luzviminda Village, Batasan Hills, Quezon City, District II, Quezon City, Metro Manila, 1126, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61384449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11624869",
+    "boundingbox": [
+      "14.6589432",
+      "14.660305",
+      "121.0214457",
+      "121.0245786"
+    ],
+    "lat": "14.6592817",
+    "lon": "121.0230885",
+    "display_name": "Antique, Ramon Magsaysay, Bago Bantay, District I, Quezon City, Metro Manila, 1148, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70839279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28295712",
+    "boundingbox": [
+      "14.6604208",
+      "14.6609864",
+      "121.0245688",
+      "121.0247689"
+    ],
+    "lat": "14.6607888",
+    "lon": "121.0246914",
+    "display_name": "Antique, Alicia, Bago Bantay, District I, Quezon City, Metro Manila, 1148, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "96288501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138669444",
+    "boundingbox": [
+      "14.6598004",
+      "14.6604208",
+      "121.0245688",
+      "121.0256798"
+    ],
+    "lat": "14.6601812",
+    "lon": "121.02483",
+    "display_name": "Antique, Bago Bantay, District I, Quezon City, Metro Manila, 1148, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "25133149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2429981818",
+    "boundingbox": [
+      "35.737317",
+      "35.737417",
+      "139.339179",
+      "139.339279"
+    ],
+    "lat": "35.737367",
+    "lon": "139.339229",
+    "display_name": "antique, \u6771\u4eac\u74b0\u72b6, \u6771\u753a, \u798f\u751f\u5e02, \u6771\u4eac\u90fd, 1960003, \u65e5\u672c",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.111
+  },
+  {
+    "place_id": "47176721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3390137469",
+    "boundingbox": [
+      "49.1959249",
+      "49.1960249",
+      "16.6112808",
+      "16.6113808"
+    ],
+    "lat": "49.1959749",
+    "lon": "16.6113308",
+    "display_name": "Antique, 12, Dvo\u0159\u00e1kova, M\u011bsto Brno, Brno, okres Brno-m\u011bsto, Jihomoravsk\u00fd kraj, Jihov\u00fdchod, 60200, \u010cesko",
+    "class": "shop",
+    "type": "antiques",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7579776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "826805825",
+    "boundingbox": [
+      "45.4942994",
+      "45.4943994",
+      "15.5518801",
+      "15.5519801"
+    ],
+    "lat": "45.4943494",
+    "lon": "15.5519301",
+    "display_name": "Antique, Ivana Gunduli\u0107a, Turanj, Karlovac, Karlova\u010dka \u017eupanija, 47000, Hrvatska",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "25257592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2435523602",
+    "boundingbox": [
+      "38.010411",
+      "38.010511",
+      "-3.3702654",
+      "-3.3701654"
+    ],
+    "lat": "38.010461",
+    "lon": "-3.3702154",
+    "display_name": "Antique, 25, Calle Real, Barrio de San Lorenzo, \u00dabeda, Ja\u00e9n, Andaluc\u00eda, 23400, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "37594700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2869884901",
+    "boundingbox": [
+      "53.0736444",
+      "53.0737444",
+      "8.8200177",
+      "8.8201177"
+    ],
+    "lat": "53.0736944",
+    "lon": "8.8200677",
+    "display_name": "Antique, 19, Wulwesstra\u00dfe, Ostertor, Mitte, Stadtbezirk Bremen-Mitte, Bremen, 28203, Deutschland",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  }
+]

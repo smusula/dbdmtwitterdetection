@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "116262424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222324803",
+    "boundingbox": [
+      "-35.3282209",
+      "-35.3256017",
+      "149.3529298",
+      "149.3538316"
+    ],
+    "lat": "-35.3266169",
+    "lon": "149.3532846",
+    "display_name": "Meatballs, Kowen, Australian Capital Territory, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "48516119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3578674368",
+    "boundingbox": [
+      "59.3145246",
+      "59.3146246",
+      "18.0813998",
+      "18.0814998"
+    ],
+    "lat": "59.3145746",
+    "lon": "18.0814498",
+    "display_name": "Meatballs, Kocksgatan, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 11637, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2655101838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4754833646",
+    "boundingbox": [
+      "59.9177917",
+      "59.9178917",
+      "10.7537212",
+      "10.7538212"
+    ],
+    "lat": "59.9178417",
+    "lon": "10.7537712",
+    "display_name": "Meatballs, Hausmanns gate, Gr\u00fcnerl\u00f8kka, Oslo, 0182, Norge",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654295707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4737629222",
+    "boundingbox": [
+      "-37.8156506",
+      "-37.8155506",
+      "144.9700699",
+      "144.9701699"
+    ],
+    "lat": "-37.8156006",
+    "lon": "144.9701199",
+    "display_name": "Meatballs, Flinders Lane, Chinatown, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3000, Australia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "94894552",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133214239",
+    "boundingbox": [
+      "51.1270971",
+      "51.1271781",
+      "-3.0085177",
+      "-3.0083806"
+    ],
+    "lat": "51.12713825",
+    "lon": "-3.00844856253161",
+    "display_name": "Meatballs, 112, Friarn Street, Bridgwater CP, Sedgemoor District, Somerset, South West England, England, TA6 3LJ, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "48166316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3540564253",
+    "boundingbox": [
+      "39.9326737",
+      "39.9327737",
+      "116.4583473",
+      "116.4584473"
+    ],
+    "lat": "39.9327237",
+    "lon": "116.4583973",
+    "display_name": "Meatballs, \u519c\u5c55\u9986\u5357\u8def, \u8f9b\u5e84\u6751, \u671d\u9633\u533a / Chaoyang, \u5317\u4eac\u5e02, 100004, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

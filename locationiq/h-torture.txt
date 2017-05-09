@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "159837802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "445293131",
+    "boundingbox": [
+      "-34.9301528",
+      "-34.9170137",
+      "150.2147324",
+      "150.229323"
+    ],
+    "lat": "-34.9209327",
+    "lon": "150.2209632",
+    "display_name": "Torture Gully, Shoalhaven, NSW, Australia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "59572734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8032486",
+    "boundingbox": [
+      "48.8168617",
+      "48.8171601",
+      "7.7925242",
+      "7.7945356"
+    ],
+    "lat": "48.8168957",
+    "lon": "7.7935286",
+    "display_name": "Rue de la Torture, Maison Foresti\u00e8re Sandlach, Haguenau, Haguenau-Wissembourg, Bas-Rhin, Grand-Est, 67500, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70020461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26572668",
+    "boundingbox": [
+      "48.8169201",
+      "48.8174169",
+      "7.7935351",
+      "7.7945007"
+    ],
+    "lat": "48.81710895",
+    "lon": "7.79390332626812",
+    "display_name": "Place de la Torture, Maison Foresti\u00e8re Sandlach, Haguenau, Haguenau-Wissembourg, Bas-Rhin, Grand-Est, 67500, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "140043780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334302575",
+    "boundingbox": [
+      "46.6936513",
+      "46.6937145",
+      "6.4610489",
+      "6.4610715"
+    ],
+    "lat": "46.6936513",
+    "lon": "6.4610715",
+    "display_name": "Passage de la Tour de la Torture, Romainm\u00f4tier-Envy, District du Jura-Nord vaudois, Vaud, 1323, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77130242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48459817",
+    "boundingbox": [
+      "18.5366975",
+      "18.5376665",
+      "-72.2973766",
+      "-72.2971714"
+    ],
+    "lat": "18.537159",
+    "lon": "-72.297228",
+    "display_name": "Rue La Torture, 6e Turgeau, P\u00f2toprens, Arrondissement de Port-au-Prince, D\u00e9partement de l'Ouest, 6120, Ayiti",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "82131631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80328514",
+    "boundingbox": [
+      "-34.8321253",
+      "-34.8294436",
+      "138.7422999",
+      "138.7430626"
+    ],
+    "lat": "-34.830493",
+    "lon": "138.74261",
+    "display_name": "Torture Hill Track, Tea Tree Gully, Inglewood, South Australia, 5091, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "143731430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "358477850",
+    "boundingbox": [
+      "50.1255976",
+      "50.1263512",
+      "-122.9451982",
+      "-122.9447234"
+    ],
+    "lat": "50.1260533",
+    "lon": "-122.9450078",
+    "display_name": "The Torture Never Stops, Benchlands, Alpine Meadows, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, V0N1B6, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "11857204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1135509041",
+    "boundingbox": [
+      "52.3672042",
+      "52.3673042",
+      "4.8909",
+      "4.891"
+    ],
+    "lat": "52.3672542",
+    "lon": "4.89095",
+    "display_name": "Torture Museum, 457, Singel, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017AZ, Nederland",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "55375129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4281801489",
+    "boundingbox": [
+      "45.8143238",
+      "45.8144238",
+      "15.975883",
+      "15.975983"
+    ],
+    "lat": "45.8143738",
+    "lon": "15.975933",
+    "display_name": "Tortureum - Muzej torture, 13, Ulica Ivana Tkal\u010di\u0107a, Gornji Grad, Gornji Grad - Medve\u0161\u010dak, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "48944593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3634680109",
+    "boundingbox": [
+      "51.2075891",
+      "51.2076891",
+      "3.2262302",
+      "3.2263302"
+    ],
+    "lat": "51.2076391",
+    "lon": "3.2262802",
+    "display_name": "Torture Museum Oude Steen, 29D, Wollestraat, Brugge-Centrum, Brugge, West-Vlaanderen, Vlaanderen, 8000;8200;8310;8380, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  }
+]

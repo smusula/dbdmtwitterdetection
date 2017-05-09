@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "48078716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3505114274",
+    "boundingbox": [
+      "52.872664",
+      "52.892664",
+      "0.6534399",
+      "0.6734399"
+    ],
+    "lat": "52.882664",
+    "lon": "0.6634399",
+    "display_name": "The Cover, King's Lynn and West Norfolk, Norfolk, East of England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45624413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3234449872",
+    "boundingbox": [
+      "-33.0274488",
+      "-33.0273488",
+      "-58.5179708",
+      "-58.5178708"
+    ],
+    "lat": "-33.0273988",
+    "lon": "-58.5179208",
+    "display_name": "Cover, Gualeguaych\u00fa, Municipio de Gualeguaych\u00fa, Distrito Costa Uruguay Sur, Departamento Gualeguaych\u00fa, ER., 2820, Argentina",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17184359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1634354322",
+    "boundingbox": [
+      "51.6529281",
+      "51.6530281",
+      "-0.1993223",
+      "-0.1992223"
+    ],
+    "lat": "51.6529781",
+    "lon": "-0.1992723",
+    "display_name": "Cover, High Street, High Barnet, London Borough of Barnet, London, Greater London, England, EN5 5SN, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "86627394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "102774392",
+    "boundingbox": [
+      "51.0570892",
+      "51.057197",
+      "3.7265269",
+      "3.7266877"
+    ],
+    "lat": "51.05714325",
+    "lon": "3.72660698461064",
+    "display_name": "The Cover, 26, Vrijdagmarkt, St. Jacobs, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "45771103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3243467266",
+    "boundingbox": [
+      "44.3178481",
+      "44.3179481",
+      "23.7892053",
+      "23.7893053"
+    ],
+    "lat": "44.3178981",
+    "lon": "23.7892553",
+    "display_name": "Cover, Strada Br\u00e2ndu\u0219a, Craiova, Dolj, 200410, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "49593599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3672219586",
+    "boundingbox": [
+      "48.3695371",
+      "48.3696371",
+      "10.9011542",
+      "10.9012542"
+    ],
+    "lat": "48.3695871",
+    "lon": "10.9012042",
+    "display_name": "Cover, 10, Barf\u00fc\u00dferstra\u00dfe, Bleichviertel, Innenstadt, Augsburg, Schwaben, Bayern, 86150, Deutschland",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55529101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4330174836",
+    "boundingbox": [
+      "-39.812825",
+      "-39.812725",
+      "-73.24505",
+      "-73.24495"
+    ],
+    "lat": "-39.812775",
+    "lon": "-73.245",
+    "display_name": "The Cover, 372, Camilo Henr\u00edquez, Las \u00c1nimas, Valdivia, Provincia de Valdivia, XIV Regi\u00f3n de Los R\u00edos, 5110244, Chile",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55891732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4337429097",
+    "boundingbox": [
+      "-27.4017505",
+      "-27.4016505",
+      "-55.9173636",
+      "-55.9172636"
+    ],
+    "lat": "-27.4017005",
+    "lon": "-55.9173136",
+    "display_name": "Cover, Avenida Tom\u00e1s Guido, Chacra 228, Delegaci\u00f3n Municipal Cristo Rey 32-33, Posadas, Municipio de Posadas, Departamento Capital, Mnes., 3300, Argentina",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2649981088",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4634919214",
+    "boundingbox": [
+      "21.9114871",
+      "21.9115871",
+      "-80.0014786",
+      "-80.0013786"
+    ],
+    "lat": "21.9115371",
+    "lon": "-80.0014286",
+    "display_name": "Cover, Caburn\u00ed-Vegas Grandes, El Chorrito, Topes de Collantes, Trinidad, Sancti Spiritus, 64310, Cuba",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

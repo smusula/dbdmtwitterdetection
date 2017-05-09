@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "29557810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2713394971",
+    "boundingbox": [
+      "33.5477844",
+      "33.5478844",
+      "-111.8843098",
+      "-111.8842098"
+    ],
+    "lat": "33.5478344",
+    "lon": "-111.8842598",
+    "display_name": "Arizona Diamondbacks Training Center, Pima Freeway, El Paseo, Maricopa County, Arizona, 85258, United States of America",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "126697839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265716334",
+    "boundingbox": [
+      "33.5461603",
+      "33.5468474",
+      "-111.885323",
+      "-111.8841151"
+    ],
+    "lat": "33.54650315",
+    "lon": "-111.884658554587",
+    "display_name": "Arizona Diamondbacks Offices, Pima Freeway, El Paseo, Maricopa County, Arizona, 85258, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160796724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4468426",
+    "boundingbox": [
+      "18.1145028",
+      "18.1425835",
+      "-66.1319926",
+      "-66.0940913"
+    ],
+    "lat": "18.12854835",
+    "lon": "-66.1107822686239",
+    "display_name": "Vegas, Cayey, Puerto Rico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160771561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4467722",
+    "boundingbox": [
+      "18.0876169",
+      "18.1227116",
+      "-66.8871247",
+      "-66.8624695"
+    ],
+    "lat": "18.10513465",
+    "lon": "-66.8750610211059",
+    "display_name": "Vegas, Yauco, Puerto Rico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "142836772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "352117505",
+    "boundingbox": [
+      "22.7546595",
+      "22.8003708",
+      "-81.8127336",
+      "-81.806456"
+    ],
+    "lat": "22.7766325",
+    "lon": "-81.811957",
+    "display_name": "Vegas, Nueva Paz, Mayabeque, Cuba",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "1494862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "331134368",
+    "boundingbox": [
+      "29.0563888",
+      "29.0963888",
+      "-13.7009495",
+      "-13.6609495"
+    ],
+    "lat": "29.0763888",
+    "lon": "-13.6809495",
+    "display_name": "Vegas, Las Palmas, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4337750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "460436145",
+    "boundingbox": [
+      "22.77275",
+      "22.81275",
+      "-81.8379857",
+      "-81.7979857"
+    ],
+    "lat": "22.79275",
+    "lon": "-81.8179857",
+    "display_name": "Vegas, Nueva Paz, Mayabeque, Cuba",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48529996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3581428920",
+    "boundingbox": [
+      "23.0687718",
+      "23.1087718",
+      "-81.3048877",
+      "-81.2648877"
+    ],
+    "lat": "23.0887718",
+    "lon": "-81.2848877",
+    "display_name": "Vegas, C\u00e1rdenas, Matanzas, Cuba",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46285154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3279674187",
+    "boundingbox": [
+      "10.0550632",
+      "10.0950632",
+      "-83.4194406",
+      "-83.3794406"
+    ],
+    "lat": "10.0750632",
+    "lon": "-83.3994406",
+    "display_name": "Vegas, Cant\u00f3n Matina, Provincia Lim\u00f3n, Costa Rica",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "317948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150933906",
+    "boundingbox": [
+      "40.6682805",
+      "40.6882805",
+      "-111.8421559",
+      "-111.8221559"
+    ],
+    "lat": "40.6782805",
+    "lon": "-111.8321559",
+    "display_name": "Vegas, Holladay, Salt Lake County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "20793000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2073749030",
+    "boundingbox": [
+      "56.5426394",
+      "56.5427394",
+      "23.7642081",
+      "23.7643081"
+    ],
+    "lat": "56.5426894",
+    "lon": "23.7642581",
+    "display_name": "Vegas, Lielvircava, Jelgavas novads, Zemgale, Latvija",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "20756831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2073752970",
+    "boundingbox": [
+      "56.9788966",
+      "56.9789966",
+      "21.8753962",
+      "21.8754962"
+    ],
+    "lat": "56.9789466",
+    "lon": "21.8754462",
+    "display_name": "V\u0113gas, Deksne, Kuld\u012bgas novads, Kurzeme, Latvija",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  }
+]

@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "160878839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5455324",
+    "boundingbox": [
+      "-23.4206403",
+      "-23.4205075",
+      "-47.1634276",
+      "-47.163301"
+    ],
+    "lat": "-23.4205861",
+    "lon": "-47.163365136438",
+    "display_name": "Mixed, Rodovia Castelo Branco, S\u00e3o Roque, Microrregi\u00e3o de Sorocaba, Mesorregi\u00e3o Macro Metropolitana Paulista, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2652870707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4704753092",
+    "boundingbox": [
+      "41.5996486",
+      "41.5997486",
+      "-93.8348139",
+      "-93.8347139"
+    ],
+    "lat": "41.5996986",
+    "lon": "-93.8347639",
+    "display_name": "Mixed, 9250, University Avenue, Midwest Country Estates, Dallas County, Iowa, 50266, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "46049540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3306668287",
+    "boundingbox": [
+      "52.0461615",
+      "52.0462615",
+      "7.4667698",
+      "7.4668698"
+    ],
+    "lat": "52.0462115",
+    "lon": "7.4668198",
+    "display_name": "Mixed, 12, Kirchstra\u00dfe, Altenberge, Kreis Steinfurt, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48341, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "20679144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2037953511",
+    "boundingbox": [
+      "43.2275216",
+      "43.2276216",
+      "76.96146",
+      "76.96156"
+    ],
+    "lat": "43.2275716",
+    "lon": "76.96151",
+    "display_name": "Dostyk, 218\u0411, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0414\u043e\u0441\u0442\u044b\u043a, \u0422\u0443\u0440\u043a\u0441\u0438\u0431, \u041c\u0435\u0434\u0435\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043b\u043c\u0430\u0442\u044b, 050051, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

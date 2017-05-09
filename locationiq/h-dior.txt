@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160445095",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1440627",
+    "boundingbox": [
+      "47.5915535",
+      "47.7478298",
+      "17.5098749",
+      "17.8081732"
+    ],
+    "lat": "47.687609",
+    "lon": "17.6346815",
+    "display_name": "Gy\u0151r, Gy\u0151ri j\u00e1r\u00e1s, Gy\u0151r-Moson-Sopron megye, Nyugat-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "place",
+    "type": "city",
+    "importance": 0.59679850352546,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "48599389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3584262350",
+    "boundingbox": [
+      "48.8666465",
+      "48.8667465",
+      "2.3294831",
+      "2.3295831"
+    ],
+    "lat": "48.8666965",
+    "lon": "2.3295331",
+    "display_name": "Dior, 8, Place Vend\u00f4me, Vend\u00f4me, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.4559855176309,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "75502119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42014788",
+    "boundingbox": [
+      "47.9247469",
+      "47.9323021",
+      "1.9852944",
+      "1.9994733"
+    ],
+    "lat": "47.928295",
+    "lon": "1.9924420365716",
+    "display_name": "Dior, Saint-Jean-de-Braye, Orl\u00e9ans, Loiret, Centre-Val de Loire, 45800, France",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "14932258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1356581537",
+    "boundingbox": [
+      "46.509356",
+      "46.509456",
+      "13.1259958",
+      "13.1260958"
+    ],
+    "lat": "46.509406",
+    "lon": "13.1260458",
+    "display_name": "Dioor, Paularo, UD, FVG, Italia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "70792542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28206718",
+    "boundingbox": [
+      "14.7642994",
+      "14.7668454",
+      "121.0342982",
+      "121.0343069"
+    ],
+    "lat": "14.7656669",
+    "lon": "121.0343029",
+    "display_name": "Dior, Congressional Model Subdivision, Caloocan, Metro Manila, 1421, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52808310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3981411856",
+    "boundingbox": [
+      "48.8666117",
+      "48.8667117",
+      "2.3066707",
+      "2.3067707"
+    ],
+    "lat": "48.8666617",
+    "lon": "2.3067207",
+    "display_name": "Dior, 11bis, Rue Fran\u00e7ois 1er, Champs-\u00c9lys\u00e9es, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52515329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980826552",
+    "boundingbox": [
+      "48.8654841",
+      "48.8655841",
+      "2.330879",
+      "2.330979"
+    ],
+    "lat": "48.8655341",
+    "lon": "2.330929",
+    "display_name": "Dior, 328, Rue Saint-Honor\u00e9, Vend\u00f4me, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52808322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3981413158",
+    "boundingbox": [
+      "48.8674042",
+      "48.8675042",
+      "2.3057947",
+      "2.3058947"
+    ],
+    "lat": "48.8674542",
+    "lon": "2.3058447",
+    "display_name": "Dior, 24, Rue Fran\u00e7ois 1er, Champs-\u00c9lys\u00e9es, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52693058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980456241",
+    "boundingbox": [
+      "48.866499",
+      "48.866599",
+      "2.3068721",
+      "2.3069721"
+    ],
+    "lat": "48.866549",
+    "lon": "2.3069221",
+    "display_name": "Dior, 11-11bis, Rue Fran\u00e7ois 1er, Champs-\u00c9lys\u00e9es, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52803772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980660122",
+    "boundingbox": [
+      "48.8690615",
+      "48.8691615",
+      "2.3233918",
+      "2.3234918"
+    ],
+    "lat": "48.8691115",
+    "lon": "2.3234418",
+    "display_name": "Dior, 25, Rue Royale, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "craft",
+    "type": "dressmaker",
+    "importance": 0.101
+  }
+]

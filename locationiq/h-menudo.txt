@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "13791434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243188225",
+    "boundingbox": [
+      "39.3271644",
+      "39.3471644",
+      "-3.0192044",
+      "-2.9992044"
+    ],
+    "lat": "39.3371644",
+    "lon": "-3.0092044",
+    "display_name": "El Menudo, Campo de Criptana, La Mancha, Ciudad Real, Castilla-La Mancha, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "131527545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294281026",
+    "boundingbox": [
+      "32.8784868",
+      "32.878497",
+      "-111.7212498",
+      "-111.7206415"
+    ],
+    "lat": "32.8784928",
+    "lon": "-111.7207779",
+    "display_name": "Menudo, Fiesta Grande RV Resort, Casa Grande, Pinal County, Arizona, 85222, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2651893797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4682282296",
+    "boundingbox": [
+      "37.9930109",
+      "37.9931109",
+      "23.7650296",
+      "23.7651296"
+    ],
+    "lat": "37.9930609",
+    "lon": "23.7650796",
+    "display_name": "Menudo, 38\u0393, \u0391\u03bb\u03b5\u03be\u03ac\u03bd\u03b4\u03c1\u03bf\u03c5 \u03a0\u03b1\u03c5\u03bb\u03ae, \u0391\u03bc\u03c0\u03b5\u03bb\u03cc\u03ba\u03b7\u03c0\u03bf\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u03a0.\u0395. \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 11523, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

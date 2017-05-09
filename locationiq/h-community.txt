@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160254152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "46085",
+    "boundingbox": [
+      "45.7587544",
+      "45.8419781",
+      "9.0310791",
+      "9.1368711"
+    ],
+    "lat": "45.8106805",
+    "lon": "9.0863028",
+    "display_name": "Como, CO, LOM, Italia",
+    "class": "place",
+    "type": "city",
+    "importance": 0.59570867858216,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "48169711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3495186855",
+    "boundingbox": [
+      "52.6686761",
+      "52.6687761",
+      "-3.1517044",
+      "-3.1516044"
+    ],
+    "lat": "52.6687261",
+    "lon": "-3.1516544",
+    "display_name": "The Common, Powys, Wales, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "337013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "149693337",
+    "boundingbox": [
+      "51.0956195",
+      "51.1356195",
+      "0.5348231",
+      "0.5748231"
+    ],
+    "lat": "51.1156195",
+    "lon": "0.5548231",
+    "display_name": "The Common, Kent, South East, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28425758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2663133701",
+    "boundingbox": [
+      "52.7669556",
+      "52.7869556",
+      "0.133289",
+      "0.153289"
+    ],
+    "lat": "52.7769556",
+    "lon": "0.143289",
+    "display_name": "The Common, South Holland, Lincolnshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46608676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3360082668",
+    "boundingbox": [
+      "51.0643503",
+      "51.0843503",
+      "-0.3407547",
+      "-0.3207547"
+    ],
+    "lat": "51.0743503",
+    "lon": "-0.3307547",
+    "display_name": "The Common, West Sussex, South East, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "20085167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1995445508",
+    "boundingbox": [
+      "53.6193398",
+      "53.6393398",
+      "-1.691961",
+      "-1.671961"
+    ],
+    "lat": "53.6293398",
+    "lon": "-1.681961",
+    "display_name": "The  Common, Kirklees, Yorkshire and the Humber, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160937040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6054279",
+    "boundingbox": [
+      "52.4635962",
+      "52.4792297",
+      "-8.8456989",
+      "-8.7960241"
+    ],
+    "lat": "52.47152175",
+    "lon": "-8.81862525071198",
+    "display_name": "Common, Ballingarry, Adare - Rathkeale, County Limerick, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160743373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4168320",
+    "boundingbox": [
+      "54.6897397",
+      "54.7031248",
+      "-7.6964508",
+      "-7.6865943"
+    ],
+    "lat": "54.6962805",
+    "lon": "-7.69298110778645",
+    "display_name": "Common, County Tyrone, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2651800369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4680304006",
+    "boundingbox": [
+      "53.3069415",
+      "53.3269415",
+      "-6.5237078",
+      "-6.5037078"
+    ],
+    "lat": "53.3169415",
+    "lon": "-6.5137078",
+    "display_name": "Common, Newcastle ED, Hazelhatch Bridge, South Dublin, County Dublin, Leinster, Ireland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160778946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4581636",
+    "boundingbox": [
+      "52.257007",
+      "52.2593726",
+      "-6.4508001",
+      "-6.4451327"
+    ],
+    "lat": "52.2582891",
+    "lon": "-6.4481886973988",
+    "display_name": "Common, Killinick, Wexford Municipal District, County Wexford, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

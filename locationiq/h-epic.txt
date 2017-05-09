@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "126458718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264685194",
+    "boundingbox": [
+      "40.7484403",
+      "40.749035",
+      "-73.9904048",
+      "-73.9897908"
+    ],
+    "lat": "40.74873265",
+    "lon": "-73.9901120731927",
+    "display_name": "The Epic, 125, West 31st Street, Chelsea, Manhattan, New York County, NYC, New York, 10001, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.23958297447186
+  },
+  {
+    "place_id": "65548282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17786764",
+    "boundingbox": [
+      "44.588272",
+      "44.588412",
+      "-84.6290579",
+      "-84.6255759"
+    ],
+    "lat": "44.588412",
+    "lon": "-84.6255759",
+    "display_name": "Epic, Pere Cheney, Crawford County, Michigan, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75111953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39725697",
+    "boundingbox": [
+      "-26.0721293",
+      "-26.0705592",
+      "28.1956545",
+      "28.1959027"
+    ],
+    "lat": "-26.0710603",
+    "lon": "28.1956545",
+    "display_name": "Epic, Ekurhuleni Ward 13, Kempton Park, City of Ekurhuleni Metropolitan Municipality, Gauteng, 1630, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "81930545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "79507261",
+    "boundingbox": [
+      "-27.7448615",
+      "-27.7290933",
+      "152.426712",
+      "152.4543008"
+    ],
+    "lat": "-27.7349738",
+    "lon": "152.4414673",
+    "display_name": "Epic, Ipswich, Ipswich City, QLD, Australia",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "86329718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101270223",
+    "boundingbox": [
+      "52.6369307",
+      "52.6374069",
+      "1.2958082",
+      "1.2966336"
+    ],
+    "lat": "52.63710985",
+    "lon": "1.29626100620878",
+    "display_name": "Epic, even, Magdalen Street, Heigham Grove, Norwich, Norfolk, East of England, England, NR3 1JD, UK",
+    "class": "place",
+    "type": "houses",
+    "importance": 0.15
+  },
+  {
+    "place_id": "99664562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154296960",
+    "boundingbox": [
+      "-37.8256735",
+      "-37.8252777",
+      "144.9619039",
+      "144.9624008"
+    ],
+    "lat": "-37.82547565",
+    "lon": "144.962152347656",
+    "display_name": "Epic, 199, City Road, Southbank, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3006, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "127039531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "267781588",
+    "boundingbox": [
+      "51.588056",
+      "51.5882453",
+      "4.7716954",
+      "4.7717859"
+    ],
+    "lat": "51.58810575",
+    "lon": "4.77174012232143",
+    "display_name": "Epic, Nieuweweg, Breda, Noord-Brabant, Nederland, 4811WN, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "139519211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331918674",
+    "boundingbox": [
+      "-33.9039909",
+      "-33.9035772",
+      "151.2084828",
+      "151.2094054"
+    ],
+    "lat": "-33.9037954",
+    "lon": "151.208972514903",
+    "display_name": "Epic, 5, O'Dea Avenue, Macdonaldtown, Sydney, NSW, 2017, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1301173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303800698",
+    "boundingbox": [
+      "-25.8499786",
+      "-25.8498786",
+      "28.1971126",
+      "28.1972126"
+    ],
+    "lat": "-25.8499286",
+    "lon": "28.1971626",
+    "display_name": "Epic, Jean Avenue, Tshwane Ward 65, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0140, South Africa",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "84663111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94065258",
+    "boundingbox": [
+      "-43.5361796",
+      "-43.5355012",
+      "172.6397827",
+      "172.6402435"
+    ],
+    "lat": "-43.5358404",
+    "lon": "172.6400131",
+    "display_name": "EPIC, 78-100, Manchester Street, Edgeware, Christchurch, Christchurch City, Canterbury, 8011, New Zealand/Aotearoa",
+    "class": "office",
+    "type": "it",
+    "importance": 0.101
+  }
+]

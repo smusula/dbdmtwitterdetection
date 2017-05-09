@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "55157493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4272078193",
+    "boundingbox": [
+      "-0.2776852",
+      "-0.2775852",
+      "-78.54283",
+      "-78.54273"
+    ],
+    "lat": "-0.2776352",
+    "lon": "-78.54278",
+    "display_name": "Videos, Teniente Hugo Ortiz, Turubamba, Solanda, Quito, Pichincha, 170606, Ecuador",
+    "class": "shop",
+    "type": "video",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650942513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4656616748",
+    "boundingbox": [
+      "-19.1231072",
+      "-19.1230072",
+      "-64.3230751",
+      "-64.3229751"
+    ],
+    "lat": "-19.1230572",
+    "lon": "-64.3230251",
+    "display_name": "Videos, RN38: Pucara-Villa Serrano, Municipio Villa Serrano, Provincia Belisario Boeto, CHQ, Bolivia",
+    "class": "shop",
+    "type": "video",
+    "importance": 0.101
+  }
+]

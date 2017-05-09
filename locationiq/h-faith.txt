@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "357551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151615488",
+    "boundingbox": [
+      "38.0344814",
+      "38.0744814",
+      "-92.417677",
+      "-92.377677"
+    ],
+    "lat": "38.0544814",
+    "lon": "-92.397677",
+    "display_name": "Faith, Miller County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "362869",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151496719",
+    "boundingbox": [
+      "34.0837102",
+      "34.1237102",
+      "-92.1234762",
+      "-92.0834762"
+    ],
+    "lat": "34.1037102",
+    "lon": "-92.1034762",
+    "display_name": "Faith, Jefferson County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160295422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194939",
+    "boundingbox": [
+      "45.012112",
+      "45.038549",
+      "-102.0492569",
+      "-102.0246999"
+    ],
+    "lat": "45.023039",
+    "lon": "-102.0359919",
+    "display_name": "Faith, Meade County, South Dakota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.3713907126481,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160288886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "180316",
+    "boundingbox": [
+      "35.57851",
+      "35.600956",
+      "-80.4698539",
+      "-80.4460109"
+    ],
+    "lat": "35.587084",
+    "lon": "-80.4628389",
+    "display_name": "Faith, Rowan County, North Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35699840250201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "388369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151950059",
+    "boundingbox": [
+      "47.2669062",
+      "47.3069062",
+      "-96.1189388",
+      "-96.0789388"
+    ],
+    "lat": "47.2869062",
+    "lon": "-96.0989388",
+    "display_name": "Faith, Norman County, Minnesota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.34591738766298,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98191348",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148064830",
+    "boundingbox": [
+      "14.831351",
+      "14.8315176",
+      "120.2931477",
+      "120.2964475"
+    ],
+    "lat": "14.8313562",
+    "lon": "120.2963438",
+    "display_name": "Faith, Subic Bay Gateway Park, Subic Bay Freeport, Olongapo, Central Luzon, 2200, Philippines",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68167052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22002448",
+    "boundingbox": [
+      "38.596863",
+      "38.5983695",
+      "-90.0697756",
+      "-90.0691253"
+    ],
+    "lat": "38.5973965",
+    "lon": "-90.0697236",
+    "display_name": "Faith, East St. Louis, Saint Clair County, Illinois, 62203, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67132490",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20764470",
+    "boundingbox": [
+      "26.208713",
+      "26.20872",
+      "-97.7227029",
+      "-97.7222919"
+    ],
+    "lat": "26.208713",
+    "lon": "-97.7227029",
+    "display_name": "Faith, Harlingen, Cameron County, Texas, 78552, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62628241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13341011",
+    "boundingbox": [
+      "33.6519239",
+      "33.6528933",
+      "-117.8154016",
+      "-117.8138137"
+    ],
+    "lat": "33.6524128",
+    "lon": "-117.8144008",
+    "display_name": "Faith, Turtle Rock, Irvine, Orange County, California, 92612, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67747182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21023175",
+    "boundingbox": [
+      "30.045334",
+      "30.045773",
+      "-94.1204219",
+      "-94.1204159"
+    ],
+    "lat": "30.045773",
+    "lon": "-94.1204159",
+    "display_name": "Faith, West Oakland, Jefferson County, Texas, 77704, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

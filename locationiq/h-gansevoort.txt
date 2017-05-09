@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "493419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158904288",
+    "boundingbox": [
+      "43.1761848",
+      "43.2161848",
+      "-73.6717839",
+      "-73.6317839"
+    ],
+    "lat": "43.1961848",
+    "lon": "-73.6517839",
+    "display_name": "Gansevoort, Town of Northumberland, Saratoga County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47785320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3482621879",
+    "boundingbox": [
+      "21.7848938",
+      "21.7849938",
+      "-72.2045392",
+      "-72.2044392"
+    ],
+    "lat": "21.7849438",
+    "lon": "-72.2044892",
+    "display_name": "Gansevoort, Penns Road, The Bight, Provinciales and West Caicos, Turks and Caicos Islands",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "68554042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23447557",
+    "boundingbox": [
+      "43.6597903",
+      "43.6601319",
+      "-79.3768697",
+      "-79.3766075"
+    ],
+    "lat": "43.6599611",
+    "lon": "-79.3767386",
+    "display_name": "Co-operative Education and Internship, 101, Gerrard Street East, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M5B 1G7, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107093236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183160470",
+    "boundingbox": [
+      "37.3864662",
+      "37.3867396",
+      "-5.9953432",
+      "-5.9950999"
+    ],
+    "lat": "37.38660995",
+    "lon": "-5.99522176147629",
+    "display_name": "Spain Internship, 22, Calle Garc\u00eda de Vinuesa, El Arenal, Casco Antiguo, Sevilla, Andaluc\u00eda, 41001, Espa\u00f1a",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73261579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34896179",
+    "boundingbox": [
+      "39.7417274",
+      "39.7418597",
+      "-105.0037398",
+      "-105.0035437"
+    ],
+    "lat": "39.74179355",
+    "lon": "-105.00364175",
+    "display_name": "MetroState Internship Center, Curtis Street, Auraria, Denver, Denver County, Colorado, 80204, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653982525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4732355626",
+    "boundingbox": [
+      "27.7312511",
+      "27.7313511",
+      "85.330703",
+      "85.330803"
+    ],
+    "lat": "27.7313011",
+    "lon": "85.330753",
+    "display_name": "Internship Nepal, Sheetal Marg, Kiran Chowk, Maharajgunj, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, 44616, \u0928\u0947\u092a\u093e\u0932",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "2610560701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4509510190",
+    "boundingbox": [
+      "-16.4986597",
+      "-16.4985597",
+      "-68.1184635",
+      "-68.1183635"
+    ],
+    "lat": "-16.4986097",
+    "lon": "-68.1184135",
+    "display_name": "traveling, Avenida Brasil, Miraflores, Municipio Nuestra Se\u00f1ora de La Paz, Provincia Murillo, LPZ, 0591, Bolivia",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.111
+  },
+  {
+    "place_id": "55608016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4308198190",
+    "boundingbox": [
+      "-8.5616655",
+      "-8.5615655",
+      "115.1711779",
+      "115.1712779"
+    ],
+    "lat": "-8.5616155",
+    "lon": "115.1712279",
+    "display_name": "Traveling, Jl. Raya Denpasar-Gilimanuk, Mengwitani, KECAMATAN KUBU, Bali, 80351, Indonesia",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

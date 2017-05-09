@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "337730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150944873",
+    "boundingbox": [
+      "36.779394",
+      "36.799394",
+      "-119.4140149",
+      "-119.3940149"
+    ],
+    "lat": "36.789394",
+    "lon": "-119.4040149",
+    "display_name": "Avocado, Fresno County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.46899863577735,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2649133584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "466743931",
+    "boundingbox": [
+      "36.809556",
+      "36.8114844",
+      "-4.1960911",
+      "-4.1930039"
+    ],
+    "lat": "36.81047405",
+    "lon": "-4.19475032721918",
+    "display_name": "Avocado, Almachar, Alm\u00e1char, M\u00e1laga, Andaluc\u00eda, 29718, Espa\u00f1a",
+    "class": "landuse",
+    "type": "orchard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "72177035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31615360",
+    "boundingbox": [
+      "7.1270558",
+      "7.1277839",
+      "125.6286671",
+      "125.6301855"
+    ],
+    "lat": "7.1270558",
+    "lon": "125.6301855",
+    "display_name": "Avocado, Ciudad de Esperanza Subdivision Phase 4, El Punto Vista, Davao City, Davao, 8001, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89921803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114782998",
+    "boundingbox": [
+      "7.1537047",
+      "7.1547193",
+      "125.6553435",
+      "125.6556484"
+    ],
+    "lat": "7.1537047",
+    "lon": "125.6553435",
+    "display_name": "Avocado, Dona Mercedes Village, Purok 2-B Central Ilang, Davao City, Davao, 8001, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103312441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "168413177",
+    "boundingbox": [
+      "7.1136748",
+      "7.1140504",
+      "125.5986121",
+      "125.5986242"
+    ],
+    "lat": "7.1140504",
+    "lon": "125.5986242",
+    "display_name": "Avocado, Julliville Subdivision, Buhangin, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71378886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29002287",
+    "boundingbox": [
+      "14.5403374",
+      "14.5433848",
+      "121.0604247",
+      "121.0607178"
+    ],
+    "lat": "14.5417373",
+    "lon": "121.060468",
+    "display_name": "Avocado, Pembo, Makati, District II, Makati, Metro Manila, 1208, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71081662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28997711",
+    "boundingbox": [
+      "14.5448699",
+      "14.5453843",
+      "121.0627033",
+      "121.0637192"
+    ],
+    "lat": "14.5453843",
+    "lon": "121.0637192",
+    "display_name": "Avocado, Comembo, Makati, District II, Makati, Metro Manila, 1620, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71603387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30162412",
+    "boundingbox": [
+      "14.5643798",
+      "14.5675261",
+      "121.0892169",
+      "121.0906571"
+    ],
+    "lat": "14.5656535",
+    "lon": "121.0892169",
+    "display_name": "Avocado, Suarezville Subdivision, Marietta-Romeo Village, Pasig, Metro Manila, 1606, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60713549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10590613",
+    "boundingbox": [
+      "14.5733029",
+      "14.5742958",
+      "121.0694955",
+      "121.070783"
+    ],
+    "lat": "14.5735601",
+    "lon": "121.0698105",
+    "display_name": "Avocado, Valle Verde 1, Ugong, Pasig, Metro Manila, 1604, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68627962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23287054",
+    "boundingbox": [
+      "14.5940398",
+      "14.5942796",
+      "121.0930653",
+      "121.0957622"
+    ],
+    "lat": "14.5942796",
+    "lon": "121.0930653",
+    "display_name": "Avocado, Catalina Subdivision, Marietta-Romeo Village, Pasig, Metro Manila, 1611, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

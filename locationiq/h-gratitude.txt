@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "472938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158533967",
+    "boundingbox": [
+      "39.1206657",
+      "39.1606657",
+      "-76.2799547",
+      "-76.2399547"
+    ],
+    "lat": "39.1406657",
+    "lon": "-76.2599547",
+    "display_name": "Gratitude, Kent County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5122747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "582987162",
+    "boundingbox": [
+      "11.9947434",
+      "11.9948434",
+      "79.8190774",
+      "79.8191774"
+    ],
+    "lat": "11.9947934",
+    "lon": "79.8191274",
+    "display_name": "Gratitude, Auroville, Viluppuram district, Tamil Nadu, 605101, India",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "154746748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "417783296",
+    "boundingbox": [
+      "-28.691095",
+      "-28.68863",
+      "22.0965626",
+      "22.0995501"
+    ],
+    "lat": "-28.68983145",
+    "lon": "22.0982394964142",
+    "display_name": "La Gratitude, Tsantsabane Ward 6, Tsantsabane Local Municipality, ZF Mgcawu District Municipality, Northern Cape, South Africa",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118403964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229948520",
+    "boundingbox": [
+      "-33.9332018",
+      "-33.9330528",
+      "18.5186479",
+      "18.5204073"
+    ],
+    "lat": "-33.9331773",
+    "lon": "18.5189217",
+    "display_name": "La Gratitude, Cape Town Ward 53, Cape Town, City of Cape Town, Western Cape, 7405, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "27530841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2587611423",
+    "boundingbox": [
+      "48.1507402",
+      "48.1508402",
+      "11.5760822",
+      "11.5761822"
+    ],
+    "lat": "48.1507902",
+    "lon": "11.5761322",
+    "display_name": "Gratitude, 55, T\u00fcrkenstra\u00dfe, Bezirksteil Universit\u00e4t, Stadtbezirk 03 Maxvorstadt, M\u00fcnchen, OB, Bayern, 80799, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22886279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2272908103",
+    "boundingbox": [
+      "40.8287788",
+      "40.8288788",
+      "-96.6307752",
+      "-96.6306752"
+    ],
+    "lat": "40.8288288",
+    "lon": "-96.6307252",
+    "display_name": "Gratitude, 1551, North Cotner Boulevard, Lincoln, Lancaster County, Nebraska, 68505, United States of America",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "2652526578",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4695819871",
+    "boundingbox": [
+      "-34.4501665",
+      "-34.4500665",
+      "-58.5324664",
+      "-58.5323664"
+    ],
+    "lat": "-34.4501165",
+    "lon": "-58.5324164",
+    "display_name": "Gratitude, Avenida del Libertador, Punta Chica, Victoria, Partido de San Fernando, Bs. As., B1644BHH, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

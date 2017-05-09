@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "105782628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177546935",
+    "boundingbox": [
+      "50.911949",
+      "50.9124274",
+      "-1.3272544",
+      "-1.3259877"
+    ],
+    "lat": "50.9124274",
+    "lon": "-1.3259877",
+    "display_name": "The Siblings, Hedge End, Eastleigh, Hampshire, South East, England, SO19 6BD, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "48248647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3554712103",
+    "boundingbox": [
+      "41.9185474",
+      "41.9186474",
+      "-87.6360077",
+      "-87.6359077"
+    ],
+    "lat": "41.9185974",
+    "lon": "-87.6359577",
+    "display_name": "Siblings, North Lincoln Park West, Belgravia Terrace, Chicago, Cook County, Illinois, 60614, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "45407310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3225856566",
+    "boundingbox": [
+      "51.8430525",
+      "51.8431525",
+      "5.8628466",
+      "5.8629466"
+    ],
+    "lat": "51.8431025",
+    "lon": "5.8628966",
+    "display_name": "Siblings, van Welderenstraat, Stadscentrum, Nijmegen, Nijmegen-Centrum, Nijmegen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6511LX, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "11377396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1080616960",
+    "boundingbox": [
+      "43.5930484",
+      "43.5931484",
+      "-79.6430646",
+      "-79.6429646"
+    ],
+    "lat": "43.5930984",
+    "lon": "-79.6430146",
+    "display_name": "Siblings, 100, City Centre Drive, City Centre, Erindale, Ont., Peel Region, Ontario, L5B 2C9, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "78615113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55857401",
+    "boundingbox": [
+      "52.4389324",
+      "52.4395406",
+      "-1.6773495",
+      "-1.675176"
+    ],
+    "lat": "52.43926365",
+    "lon": "-1.67627253535752",
+    "display_name": "Siblings, Kenilworth Road, Hampton in Arden CP, Hampton-in-Arden, Solihull, West Midlands, England, UK",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11862051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1133372922",
+    "boundingbox": [
+      "43.3937262",
+      "43.3938262",
+      "-80.3199559",
+      "-80.3198559"
+    ],
+    "lat": "43.3937762",
+    "lon": "-80.3199059",
+    "display_name": "Siblings, 355, Hespeler Road, City of Cambridge, Regional Municipality of Waterloo, Ontario, N3H 4Z7, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

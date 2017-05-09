@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "707717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "254348102",
+    "boundingbox": [
+      "51.4476289",
+      "51.4876289",
+      "0.592218",
+      "0.632218"
+    ],
+    "lat": "51.4676289",
+    "lon": "0.612218",
+    "display_name": "Shakespeare, Medway, South East, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1399128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "310162007",
+    "boundingbox": [
+      "43.3494408",
+      "43.3894408",
+      "-80.8568519",
+      "-80.8168519"
+    ],
+    "lat": "43.3694408",
+    "lon": "-80.8368519",
+    "display_name": "Shakespeare, Perth County, Ontario, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22942863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2284209796",
+    "boundingbox": [
+      "3.8527485",
+      "3.8727485",
+      "11.5617392",
+      "11.5817392"
+    ],
+    "lat": "3.8627485",
+    "lon": "11.5717392",
+    "display_name": "Shakespeare, Yaound\u00e9 IV, CUY, Mfoundi, CE, Cameroun",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "356750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151372061",
+    "boundingbox": [
+      "32.3059161",
+      "32.3459161",
+      "-108.7583875",
+      "-108.7183875"
+    ],
+    "lat": "32.3259161",
+    "lon": "-108.7383875",
+    "display_name": "Shakespeare, Hidalgo County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31047074434472,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652462986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329969168",
+    "boundingbox": [
+      "53.7415005",
+      "53.7426817",
+      "-2.6466438",
+      "-2.6434969"
+    ],
+    "lat": "53.74219035",
+    "lon": "-2.64511543727262",
+    "display_name": "Shakespeare, South Ribble, Lancs, North West England, England, UK",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "68579870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23514497",
+    "boundingbox": [
+      "35.1520873",
+      "35.1524551",
+      "33.3406014",
+      "33.3407643"
+    ],
+    "lat": "35.1524551",
+    "lon": "33.3407643",
+    "display_name": "shakespeare, Strovolos, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 2064, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "156864744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "428210806",
+    "boundingbox": [
+      "-34.8255542",
+      "-34.8254938",
+      "-56.2008938",
+      "-56.2004639"
+    ],
+    "lat": "-34.8254938",
+    "lon": "-56.2004639",
+    "display_name": "Shakespeare, Pe\u00f1arol, Montevideo, 12900, Uruguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70994881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28819433",
+    "boundingbox": [
+      "52.0572531",
+      "52.0576552",
+      "-0.0209599",
+      "-0.0202286"
+    ],
+    "lat": "52.0576552",
+    "lon": "-0.0204391",
+    "display_name": "Shakespeare, Royston CP, North Hertfordshire, Hertfordshire, East of England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57179393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4763046",
+    "boundingbox": [
+      "42.4264422",
+      "42.4272987",
+      "-83.610093",
+      "-83.6081114"
+    ],
+    "lat": "42.4265662",
+    "lon": "-83.6091489",
+    "display_name": "Shakespeare, Salem Township, Washtenaw County, Michigan, 48175, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72787859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33418202",
+    "boundingbox": [
+      "19.4325005",
+      "19.4343629",
+      "-99.1771102",
+      "-99.1759855"
+    ],
+    "lat": "19.4330179",
+    "lon": "-99.176809",
+    "display_name": "Shakespeare, Anzures, Chapultepec, Miguel Hidalgo, CDMX, 11300, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

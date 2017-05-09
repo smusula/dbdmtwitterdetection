@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "142729572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351243895",
+    "boundingbox": [
+      "37.7633843",
+      "37.765408",
+      "-122.1488752",
+      "-122.1478365"
+    ],
+    "lat": "37.7642138",
+    "lon": "-122.1480802",
+    "display_name": "Transportation, Oakland, Alameda County, California, 94605, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155614025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422305595",
+    "boundingbox": [
+      "32.8957074",
+      "32.8958574",
+      "-97.5442946",
+      "-97.5439672"
+    ],
+    "lat": "32.89580715",
+    "lon": "-97.5441303015",
+    "display_name": "Transportation, Bank Street, Azle, Tarrant County, Texas, 76020, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "155388352",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421132290",
+    "boundingbox": [
+      "42.9619094",
+      "42.9620769",
+      "-78.4078641",
+      "-78.4074134"
+    ],
+    "lat": "42.96201275",
+    "lon": "-78.4076397317794",
+    "display_name": "Transportation, Alleghany Road, Corfu, Genesee County, New York, 14013, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159563993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443545174",
+    "boundingbox": [
+      "7.985061",
+      "7.9852337",
+      "126.0277375",
+      "126.0278556"
+    ],
+    "lat": "7.9851261",
+    "lon": "126.027783646077",
+    "display_name": "Transportation, Champaca Street, Nahalinan, Santa Isabel, Santa Josefa, Agusan Del Sur, Caraga, 8512, Philippines",
+    "class": "amenity",
+    "type": "parking_space",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80146017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65588336",
+    "boundingbox": [
+      "22.3068556",
+      "22.308214",
+      "39.1215507",
+      "39.1222528"
+    ],
+    "lat": "22.3075807",
+    "lon": "39.1219176274318",
+    "display_name": "Transportation, Bayt Al Hikma Boulevard, \u062b\u0648\u0644, \u0645\u0643\u0629 \u0627\u0644\u0645\u0643\u0631\u0645\u0629, 23955, \u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

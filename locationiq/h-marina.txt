@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160814175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5173237",
+    "boundingbox": [
+      "36.6522697",
+      "36.726957",
+      "-121.8207619",
+      "-121.7450619"
+    ],
+    "lat": "36.6900785",
+    "lon": "-121.800639730262",
+    "display_name": "Marina, Monterey County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45956204117661,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160779630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4467657",
+    "boundingbox": [
+      "18.1951007",
+      "18.2595543",
+      "-65.7298385",
+      "-65.6821611"
+    ],
+    "lat": "18.22734545",
+    "lon": "-65.7107171968595",
+    "display_name": "Marina, Naguabo, Puerto Rico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4191809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "453490889",
+    "boundingbox": [
+      "43.4950685",
+      "43.5350685",
+      "16.0902585",
+      "16.1302585"
+    ],
+    "lat": "43.5150685",
+    "lon": "16.1102585",
+    "display_name": "Marina, Splitsko-Dalmatinska \u017eupanija, Hrvatska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.4277591615107,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6054010",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "612559749",
+    "boundingbox": [
+      "-12.9731323",
+      "-12.9730323",
+      "-38.5145595",
+      "-38.5144595"
+    ],
+    "lat": "-12.9730823",
+    "lon": "-38.5145095",
+    "display_name": "Marina, Salvador, Microrregi\u00e3o de Salvador, Regi\u00e3o Metropolitana de Salvador, Mesorregi\u00e3o do Rec\u00f4ncavo baiano, BA, Regi\u00e3o Nordeste, Brasil",
+    "class": "waterway",
+    "type": "dock",
+    "importance": 0.425
+  },
+  {
+    "place_id": "80760506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "70811418",
+    "boundingbox": [
+      "46.2177496",
+      "46.2192937",
+      "-119.0929386",
+      "-119.0875527"
+    ],
+    "lat": "46.21861815",
+    "lon": "-119.090690887081",
+    "display_name": "Marina, Pasco, Franklin County, Washington, United States of America",
+    "class": "waterway",
+    "type": "dock",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2608906850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1944987966",
+    "boundingbox": [
+      "37.1964704",
+      "37.1965704",
+      "-7.4137334",
+      "-7.4136334"
+    ],
+    "lat": "37.1965204",
+    "lon": "-7.4136834",
+    "display_name": "Marina, Vila Real de Santo Ant\u00f3nio, Faro, Algarve, Portugal",
+    "class": "waterway",
+    "type": "fuel",
+    "importance": 0.425
+  },
+  {
+    "place_id": "218717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "51969870",
+    "boundingbox": [
+      "56.46",
+      "56.54",
+      "-119.2399999",
+      "-119.1599999"
+    ],
+    "lat": "56.5",
+    "lon": "-119.1999999",
+    "display_name": "Marina, Alberta, Canada",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160818651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4851273",
+    "boundingbox": [
+      "-51.6436062",
+      "-51.6364495",
+      "-69.2130271",
+      "-69.1997156"
+    ],
+    "lat": "-51.6411247",
+    "lon": "-69.2073574",
+    "display_name": "Marina, R\u00edo Gallegos, Municipio de R\u00edo Gallegos, G\u00fcer Aike, SC, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "52439898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3961101355",
+    "boundingbox": [
+      "45.2165234",
+      "45.2565234",
+      "12.0555296",
+      "12.0955296"
+    ],
+    "lat": "45.2365234",
+    "lon": "12.0755296",
+    "display_name": "Marina, PD, VEN, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40602849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2977281494",
+    "boundingbox": [
+      "39.0592182",
+      "39.0992182",
+      "17.1129148",
+      "17.1529148"
+    ],
+    "lat": "39.0792182",
+    "lon": "17.1329148",
+    "display_name": "Marina, KR, CAL, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

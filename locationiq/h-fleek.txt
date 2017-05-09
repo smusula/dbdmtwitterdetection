@@ -1,0 +1,146 @@
+[
+  {
+    "place_id": "66148313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19153487",
+    "boundingbox": [
+      "40.053482",
+      "40.055196",
+      "-82.4005299",
+      "-82.3945079"
+    ],
+    "lat": "40.0544389",
+    "lon": "-82.3971384",
+    "display_name": "Fleek Avenue, Hudson Avenue Historic District, Newark, Licking County, Ohio, 43055, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66523261",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19153485",
+    "boundingbox": [
+      "40.055243",
+      "40.055427",
+      "-82.3930279",
+      "-82.3907249"
+    ],
+    "lat": "40.055311",
+    "lon": "-82.3915689",
+    "display_name": "Fleek Avenue, Newark, Licking County, Ohio, 43055, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66121557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19268323",
+    "boundingbox": [
+      "41.260455",
+      "41.261476",
+      "-80.7930889",
+      "-80.7930809"
+    ],
+    "lat": "41.260918",
+    "lon": "-80.7930889",
+    "display_name": "Fleek Street, Brown Corner, Trumbull County, Ohio, 44483, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68880648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24148525",
+    "boundingbox": [
+      "51.6438448",
+      "51.6499428",
+      "9.0546459",
+      "9.0633735"
+    ],
+    "lat": "51.6485368",
+    "lon": "9.058304",
+    "display_name": "Im Fleek, Altenheerse, Willebadessen, Kreis H\u00f6xter, Regierungsbezirk Detmold, Nordrhein-Westfalen, 34439, Deutschland, Europe",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85969393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99730543",
+    "boundingbox": [
+      "51.5524574",
+      "51.5536107",
+      "9.3819585",
+      "9.3843857"
+    ],
+    "lat": "51.5534229",
+    "lon": "9.3831077",
+    "display_name": "Im Fleek, Trendelburg, Landkreis Kassel, Regierungsbezirk Kassel, Hessen, 34388, Deutschland, Europe",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85937101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99730542",
+    "boundingbox": [
+      "51.5534229",
+      "51.5566522",
+      "9.3831077",
+      "9.3894983"
+    ],
+    "lat": "51.5548792",
+    "lon": "9.3859653",
+    "display_name": "Im Fleek, Trendelburg, Landkreis Kassel, Regierungsbezirk Kassel, Hessen, 34388, Deutschland, Europe",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61772608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12202134",
+    "boundingbox": [
+      "21.4895735",
+      "21.4899656",
+      "-158.0311606",
+      "-158.0310513"
+    ],
+    "lat": "21.4898475",
+    "lon": "-158.0311606",
+    "display_name": "Fleek Court, Waipio Acres, Mililani, Honolulu County, Hawaii, 96786, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64177489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15604342",
+    "boundingbox": [
+      "39.4314549",
+      "39.4477585",
+      "-78.8738758",
+      "-78.8542341"
+    ],
+    "lat": "39.4379075",
+    "lon": "-78.8661784",
+    "display_name": "Susan Fleek Road, Reeses Mill, Mineral County, West Virginia, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

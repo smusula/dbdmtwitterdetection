@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160470439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2023145",
+    "boundingbox": [
+      "43.784254",
+      "43.8775906",
+      "-71.1839051",
+      "-70.9891219"
+    ],
+    "lat": "43.812729",
+    "lon": "-71.0362239",
+    "display_name": "Freedom, Carroll County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4447416086303,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160293411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187310",
+    "boundingbox": [
+      "40.674194",
+      "40.69538",
+      "-80.2660809",
+      "-80.2427839"
+    ],
+    "lat": "40.6856221",
+    "lon": "-80.2517276",
+    "display_name": "Freedom, Beaver County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "56662719",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428349177",
+    "boundingbox": [
+      "44.3662491",
+      "44.4062491",
+      "-88.3109939",
+      "-88.2709939"
+    ],
+    "lat": "44.3862491",
+    "lon": "-88.2909939",
+    "display_name": "Freedom, Town of Freedom, Outagamie County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "349610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150981038",
+    "boundingbox": [
+      "36.9181613",
+      "36.9581613",
+      "-121.7929336",
+      "-121.7529336"
+    ],
+    "lat": "36.9381613",
+    "lon": "-121.7729336",
+    "display_name": "Freedom, Colache Town, Santa Cruz County, California, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "80126778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62343807",
+    "boundingbox": [
+      "36.9258632",
+      "36.950429",
+      "-121.809657",
+      "-121.7784906"
+    ],
+    "lat": "36.9381626",
+    "lon": "-121.802056110816",
+    "display_name": "Freedom, Amesti, Santa Cruz County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72708134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33167141",
+    "boundingbox": [
+      "36.9365432",
+      "36.9415868",
+      "-121.7754895",
+      "-121.7703517"
+    ],
+    "lat": "36.9390882",
+    "lon": "-121.771297405573",
+    "display_name": "Freedom, Colache Town, Santa Cruz County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "430160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153958317",
+    "boundingbox": [
+      "41.2161672",
+      "41.2561672",
+      "-81.1689875",
+      "-81.1289875"
+    ],
+    "lat": "41.2361672",
+    "lon": "-81.1489875",
+    "display_name": "Freedom, Freedom Township, Portage County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "476524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158587943",
+    "boundingbox": [
+      "42.4647852",
+      "42.5047852",
+      "-78.3511261",
+      "-78.3111261"
+    ],
+    "lat": "42.4847852",
+    "lon": "-78.3311261",
+    "display_name": "Freedom, Cattaraugus County, New York, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "431023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154014589",
+    "boundingbox": [
+      "45.7161233",
+      "45.7561233",
+      "-84.661156",
+      "-84.621156"
+    ],
+    "lat": "45.7361233",
+    "lon": "-84.641156",
+    "display_name": "Freedom, Cheboygan County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "469264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158575150",
+    "boundingbox": [
+      "39.3895477",
+      "39.4295477",
+      "-76.9922016",
+      "-76.9522016"
+    ],
+    "lat": "39.4095477",
+    "lon": "-76.9722016",
+    "display_name": "Freedom, Carroll County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

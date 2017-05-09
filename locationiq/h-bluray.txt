@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "60837890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10269046",
+    "boundingbox": [
+      "39.033447",
+      "39.034148",
+      "-122.6697669",
+      "-122.6690619"
+    ],
+    "lat": "39.033828",
+    "lon": "-122.6693689",
+    "display_name": "Blueray Court, Clearlake Oaks, Lake County, California, 95423, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "139100757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329987252",
+    "boundingbox": [
+      "34.1968338",
+      "34.1973988",
+      "-78.0968308",
+      "-78.093511"
+    ],
+    "lat": "34.1972931",
+    "lon": "-78.0953668",
+    "display_name": "Blueray Drive, Leland, Brunswick County, North Carolina, 28451, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

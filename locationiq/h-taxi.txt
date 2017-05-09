@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "40867986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3004121839",
+    "boundingbox": [
+      "6.6559777",
+      "6.6959777",
+      "-10.8995777",
+      "-10.8595777"
+    ],
+    "lat": "6.6759777",
+    "lon": "-10.8795777",
+    "display_name": "Taxi, Klay, Bomi County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "119997499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236734942",
+    "boundingbox": [
+      "14.5752783",
+      "14.5755992",
+      "121.1323292",
+      "121.1326931"
+    ],
+    "lat": "14.57540905",
+    "lon": "121.132522574678",
+    "display_name": "taxi, San Isidro, Taytay, Rizal, Calabarzon, 1920, Philippines",
+    "class": "landuse",
+    "type": "garages",
+    "importance": 0.31
+  },
+  {
+    "place_id": "45952775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3252991557",
+    "boundingbox": [
+      "49.4357019",
+      "49.5157019",
+      "126.2052896",
+      "126.2852896"
+    ],
+    "lat": "49.4757019",
+    "lon": "126.2452896",
+    "display_name": "\u5854\u6eaa\u4e61, \u5ae9\u6c5f\u53bf, \u9ed1\u6cb3\u5e02, \u9ed1\u9f99\u6c5f\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "115255247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217994667",
+    "boundingbox": [
+      "47.5538041",
+      "47.5543569",
+      "25.888923",
+      "25.8893667"
+    ],
+    "lat": "47.5539302",
+    "lon": "25.8893667",
+    "display_name": "taxi, Gura Humorului, Suceava, 725300, Rom\u00e2nia",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.185
+  },
+  {
+    "place_id": "122412464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247079314",
+    "boundingbox": [
+      "53.131303",
+      "53.1318946",
+      "23.1356694",
+      "23.1361465"
+    ],
+    "lat": "53.131444",
+    "lon": "23.1357338",
+    "display_name": "Taxi, Osiedle Kopernika, Przydworcowe, Bia\u0142ystok, podlaskie, 15-701, Polska",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "87505185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "106638144",
+    "boundingbox": [
+      "41.1334538",
+      "41.1342257",
+      "16.7628794",
+      "16.7657795"
+    ],
+    "lat": "41.1340325",
+    "lon": "16.7645039",
+    "display_name": "Taxi, Municipio 5, Bari, BA, PUG, 70128, Italia",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "104623500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173104154",
+    "boundingbox": [
+      "36.6760691",
+      "36.6765029",
+      "-4.4904873",
+      "-4.490138"
+    ],
+    "lat": "36.6762027",
+    "lon": "-4.4904499",
+    "display_name": "Taxi, El Olivar, Churriana, M\u00e1laga, Andaluc\u00eda, 29140, Espa\u00f1a",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "88250509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109180854",
+    "boundingbox": [
+      "53.3668961",
+      "53.3670764",
+      "7.2052272",
+      "7.2055354"
+    ],
+    "lat": "53.3669867",
+    "lon": "7.20538113984848",
+    "display_name": "Taxi, Emden, Niedersachsen, 26721, Deutschland",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2654882160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456628535",
+    "boundingbox": [
+      "52.7407571",
+      "52.7412646",
+      "15.2437981",
+      "15.2440075"
+    ],
+    "lat": "52.7411571",
+    "lon": "15.2438131",
+    "display_name": "Taxi, Dolinki, Nowe Miasto, Gorz\u00f3w Wielkopolski, lubuskie, Polska",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "89508754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "113739963",
+    "boundingbox": [
+      "50.9016333",
+      "50.9017195",
+      "7.1830819",
+      "7.1833808"
+    ],
+    "lat": "50.9017161",
+    "lon": "7.183223",
+    "display_name": "Taxi, R\u00f6srath, Rheinisch-Bergischer Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51503, Deutschland",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

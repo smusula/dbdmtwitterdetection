@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "155731462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422791211",
+    "boundingbox": [
+      "47.4786405",
+      "47.4804693",
+      "2.851942",
+      "2.8558447"
+    ],
+    "lat": "47.4798677",
+    "lon": "2.8537832",
+    "display_name": "La Balance, Sury-pr\u00e8s-L\u00e9r\u00e9, Bourges, Cher, Centre-Val de Loire, 18240, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "151719802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400465432",
+    "boundingbox": [
+      "47.3889097",
+      "47.3995608",
+      "2.6613451",
+      "2.6836074"
+    ],
+    "lat": "47.3941774",
+    "lon": "2.6723314",
+    "display_name": "La Balance, Jars, Bourges, Cher, Centre-Val de Loire, 18260, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "53521145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4069110909",
+    "boundingbox": [
+      "47.1941277",
+      "47.2341277",
+      "4.199041",
+      "4.239041"
+    ],
+    "lat": "47.2141277",
+    "lon": "4.219041",
+    "display_name": "La Balance, Ch\u00e2teau-Chinon, Ni\u00e8vre, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45746285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3256963236",
+    "boundingbox": [
+      "47.7677343",
+      "47.7678343",
+      "4.2753409",
+      "4.2754409"
+    ],
+    "lat": "47.7677843",
+    "lon": "4.2753909",
+    "display_name": "La Balance, Jully, Avallon, Yonne, Bourgogne-Franche-Comt\u00e9, 89160, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160395314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1275793",
+    "boundingbox": [
+      "-21.0380184",
+      "-21.0298613",
+      "55.2639714",
+      "55.2703503"
+    ],
+    "lat": "-21.0338744",
+    "lon": "55.2671480269718",
+    "display_name": "La Balance, Carosse, Saint-Paul, La R\u00e9union, 97411;97422;97423;97434;97435;97460, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "90049695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115324651",
+    "boundingbox": [
+      "47.8185058",
+      "47.8187893",
+      "1.9271209",
+      "1.9278192"
+    ],
+    "lat": "47.8185058",
+    "lon": "1.9274649",
+    "display_name": "La Balance, La Source, Orl\u00e9ans, Loiret, Centre-Val de Loire, 45000;45100, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52583192",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3992776350",
+    "boundingbox": [
+      "51.512378",
+      "51.512478",
+      "9.9505451",
+      "9.9506451"
+    ],
+    "lat": "51.512428",
+    "lon": "9.9505951",
+    "display_name": "Balance, 3d, Stadtstieg, Geismar, G\u00f6ttingen, Landkreis G\u00f6ttingen, Niedersachsen, 37083, Deutschland, Europe",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135716169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313558847",
+    "boundingbox": [
+      "50.8397753",
+      "50.8398585",
+      "0.4692434",
+      "0.4693326"
+    ],
+    "lat": "50.8398169",
+    "lon": "0.469287999999999",
+    "display_name": "Balance, 7-9, Wickham Avenue, New Town, Rother, East Sussex, South East, England, TN39 3EU, UK",
+    "class": "shop",
+    "type": "massage",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49124464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3632115825",
+    "boundingbox": [
+      "50.8523571",
+      "50.8524571",
+      "4.4643088",
+      "4.4644088"
+    ],
+    "lat": "50.8524071",
+    "lon": "4.4643588",
+    "display_name": "Balance, Koning Boudewijnplein, Kraainem, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1950, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "46917698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3397862783",
+    "boundingbox": [
+      "35.55168",
+      "35.55178",
+      "139.4403651",
+      "139.4404651"
+    ],
+    "lat": "35.55173",
+    "lon": "139.4404151",
+    "display_name": "Balance, \u6804\u901a\u308a, \u753a\u7530\u5e02, \u6771\u4eac\u90fd, 194-0022, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

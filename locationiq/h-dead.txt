@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "79907587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62194346",
+    "boundingbox": [
+      "-62.224637",
+      "-62.2200211",
+      "-58.4568278",
+      "-58.446275"
+    ],
+    "lat": "-62.2215246",
+    "lon": "-58.4507101",
+    "display_name": "Dead, Antarctica",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "8287207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "895012337",
+    "boundingbox": [
+      "37.1189224",
+      "37.1190224",
+      "-116.0323007",
+      "-116.0322007"
+    ],
+    "lat": "37.1189724",
+    "lon": "-116.0322507",
+    "display_name": "Dead, Mercury Highway, Nye County, Nevada, United States of America",
+    "class": "military",
+    "type": "nuclear_explosion_site",
+    "importance": 0.101
+  }
+]

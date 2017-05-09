@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "2610381706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4504752691",
+    "boundingbox": [
+      "38.003029",
+      "38.003129",
+      "23.8812069",
+      "23.8813069"
+    ],
+    "lat": "38.003079",
+    "lon": "23.8812569",
+    "display_name": "mood, \u03a6\u03b5\u03b9\u03b4\u03b9\u03c0\u03c0\u03af\u03b4\u03bf\u03c5, \u039b\u03b5\u03bf\u03bd\u03c4\u03ac\u03c1\u03b9\u03bf, \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b1\u03bb\u03bb\u03ae\u03bd\u03b7\u03c2, \u03a0.\u0395. \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 15351, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "44837902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3182996148",
+    "boundingbox": [
+      "48.8620561",
+      "48.8621561",
+      "2.3637843",
+      "2.3638843"
+    ],
+    "lat": "48.8621061",
+    "lon": "2.3638343",
+    "display_name": "Mood, Rue de Bretagne, Enfants Rouges, 3e, Paris, \u00cele-de-France, 75003, France",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12693040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1203984719",
+    "boundingbox": [
+      "49.0211435",
+      "49.0212435",
+      "12.0964179",
+      "12.0965179"
+    ],
+    "lat": "49.0211935",
+    "lon": "12.0964679",
+    "display_name": "Mood, 2, Am Wiedfang, Altstadt von Regensburg mit Stadtamhof, Stadtamhof, Rgbg, Regensburg, OPf, Bayern, 93047, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "160302563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "276782",
+    "boundingbox": [
+      "59.3341647",
+      "59.3348163",
+      "18.0679203",
+      "18.0710108"
+    ],
+    "lat": "59.3344889",
+    "lon": "18.0699275898769",
+    "display_name": "MOOD, Klaratunneln, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 111 44, Sverige",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4764922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "516797256",
+    "boundingbox": [
+      "51.4369991",
+      "51.4370991",
+      "5.4761841",
+      "5.4762841"
+    ],
+    "lat": "51.4370491",
+    "lon": "5.4762341",
+    "display_name": "Mood, 6, Keizersgracht, Bergen, Eindhoven, MRE, Noord-Brabant, Nederland, 5611 GD, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "49819997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3691299022",
+    "boundingbox": [
+      "43.6312853",
+      "43.6313853",
+      "1.4843868",
+      "1.4844868"
+    ],
+    "lat": "43.6313353",
+    "lon": "1.4844368",
+    "display_name": "Mood, Rue Henri Jansou, Zone d'Activit\u00e9 Commerciale de Balma-Gramont, Toulouse Est, Toulouse, Haute-Garonne, Occitanie, 31200, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6831834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "705690929",
+    "boundingbox": [
+      "-27.4589407",
+      "-27.4588407",
+      "153.0006896",
+      "153.0007896"
+    ],
+    "lat": "-27.4588907",
+    "lon": "153.0007396",
+    "display_name": "Mood, 50, Latrobe Terrace, Jubilee, Paddington, Brisbane, Brisbane City, QLD, 4064, Australia",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54179528",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4180614692",
+    "boundingbox": [
+      "49.2004157",
+      "49.2005157",
+      "16.6025457",
+      "16.6026457"
+    ],
+    "lat": "49.2004657",
+    "lon": "16.6025957",
+    "display_name": "Mood, Slov\u00e1kova, Veve\u0159\u00ed, Brno, okres Brno-m\u011bsto, Jihomoravsk\u00fd kraj, Jihov\u00fdchod, 60200, \u010cesko",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "47013530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3404727846",
+    "boundingbox": [
+      "40.3461761",
+      "40.3462761",
+      "18.1836836",
+      "18.1837836"
+    ],
+    "lat": "40.3462261",
+    "lon": "18.1837336",
+    "display_name": "Mood, 44, Viale Gioacchino Rossini, Lecce, LE, PUG, 73100, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2655393634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4758761933",
+    "boundingbox": [
+      "24.3264764",
+      "24.3265764",
+      "54.533779",
+      "54.533879"
+    ],
+    "lat": "24.3265264",
+    "lon": "54.533829",
+    "display_name": "Mood, Street 26, ICAD - Industrial City of Abu Dhabi, Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 108100, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "amenity",
+    "type": "car_rental",
+    "importance": 0.101
+  }
+]

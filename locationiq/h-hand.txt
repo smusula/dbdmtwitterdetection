@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160456904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1739818",
+    "boundingbox": [
+      "44.195866",
+      "44.897568",
+      "-99.3132169",
+      "-98.6993869"
+    ],
+    "lat": "44.5405047",
+    "lon": "-99.0053026",
+    "display_name": "Hand County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46590216462374,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "444255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154185092",
+    "boundingbox": [
+      "42.2336495",
+      "42.2736495",
+      "-83.2929843",
+      "-83.2529843"
+    ],
+    "lat": "42.2536495",
+    "lon": "-83.2729843",
+    "display_name": "Hand, Wayne County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "464505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158285408",
+    "boundingbox": [
+      "33.8360051",
+      "33.8760051",
+      "-78.8272445",
+      "-78.7872445"
+    ],
+    "lat": "33.8560051",
+    "lon": "-78.8072445",
+    "display_name": "Hand, Horry County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "495699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158859959",
+    "boundingbox": [
+      "44.8597724",
+      "44.8997724",
+      "-71.1114641",
+      "-71.0714641"
+    ],
+    "lat": "44.8797724",
+    "lon": "-71.0914641",
+    "display_name": "The Hand, Co\u00f6s County, New Hampshire, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4051167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420428655",
+    "boundingbox": [
+      "50.6274443",
+      "50.6474443",
+      "10.6518389",
+      "10.6718389"
+    ],
+    "lat": "50.6374443",
+    "lon": "10.6618389",
+    "display_name": "Hand, Suhl, Th\u00fcringen, Deutschland, Europe",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "159878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29841675",
+    "boundingbox": [
+      "50.9692835",
+      "51.0092835",
+      "7.0701934",
+      "7.1101934"
+    ],
+    "lat": "50.9892835",
+    "lon": "7.0901934",
+    "display_name": "Hand, Bergisch Gladbach, Rheinisch-Bergischer Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, Deutschland",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.34927434823075,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61330965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10977303",
+    "boundingbox": [
+      "30.847743",
+      "30.849393",
+      "-85.8999919",
+      "-85.8946319"
+    ],
+    "lat": "30.848957",
+    "lon": "-85.8967869",
+    "display_name": "Hand, Cerrogordo, Holmes County, Florida, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18887294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1852155598",
+    "boundingbox": [
+      "51.4482582",
+      "51.4483582",
+      "-2.6129864",
+      "-2.6128864"
+    ],
+    "lat": "51.4483082",
+    "lon": "-2.6129364",
+    "display_name": "Hand, Cumberland Close, Spike Island, Bristol, City of Bristol, South West England, England, BS1, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "17693019",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1730814185",
+    "boundingbox": [
+      "51.3930833",
+      "51.3931833",
+      "7.4821248",
+      "7.4822248"
+    ],
+    "lat": "51.3931333",
+    "lon": "7.4821748",
+    "display_name": "Die Hand, Helfer Marktplatz, Helfe, Boele, Hagen Nord, Hagen, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58099, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "48842344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3627625861",
+    "boundingbox": [
+      "53.1755906",
+      "53.1756906",
+      "-1.0348474",
+      "-1.0347474"
+    ],
+    "lat": "53.1756406",
+    "lon": "-1.0347974",
+    "display_name": "The Hand, The Orangery, Rufford CP, Newark and Sherwood, Nottinghamshire, East Midlands, England, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

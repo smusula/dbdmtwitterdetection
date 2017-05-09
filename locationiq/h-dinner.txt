@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "133552216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303545335",
+    "boundingbox": [
+      "44.549563",
+      "44.551154",
+      "-123.5248189",
+      "-123.5210579"
+    ],
+    "lat": "44.550191",
+    "lon": "-123.5230109",
+    "display_name": "Dinner, Alder, Benton County, Oregon, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "21111303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2091308347",
+    "boundingbox": [
+      "59.9137536",
+      "59.9138536",
+      "10.7345982",
+      "10.7346982"
+    ],
+    "lat": "59.9138036",
+    "lon": "10.7346482",
+    "display_name": "Dinner, 22, Stortingsgata, Vika, Sentrum, Oslo, 0161, Norge",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21330944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2112548965",
+    "boundingbox": [
+      "4.676905",
+      "4.677005",
+      "-74.0476035",
+      "-74.0475035"
+    ],
+    "lat": "4.676955",
+    "lon": "-74.0475535",
+    "display_name": "Dinner, Calle 93B, El Nogal, Chapinero, Bogot\u00e1, 110011, Colombia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2646077686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4545856792",
+    "boundingbox": [
+      "37.209526",
+      "37.209626",
+      "127.0620185",
+      "127.0621185"
+    ],
+    "lat": "37.209576",
+    "lon": "127.0620685",
+    "display_name": "Dinner, \ub3d9\ud0c4\uc9c0\uc131\ub85c, \ub2a5\ub3d9, \ud654\uc131\uc2dc (Hwaseong), \uacbd\uae30, 18396, \ub300\ud55c\ubbfc\uad6d",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

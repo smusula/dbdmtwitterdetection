@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "2652309561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4690755310",
+    "boundingbox": [
+      "44.7980166",
+      "44.7981166",
+      "10.3197132",
+      "10.3198132"
+    ],
+    "lat": "44.7980666",
+    "lon": "10.3197632",
+    "display_name": "Knitting, 97/a, Strada Nino Bixio, Parma, PR, EMR, 43125, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2654661177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4747158227",
+    "boundingbox": [
+      "-15.4236862",
+      "-15.4235862",
+      "28.2413789",
+      "28.2414789"
+    ],
+    "lat": "-15.4236362",
+    "lon": "28.2414289",
+    "display_name": "Knitting, Mumbwa Road, John Laing, Lusaka, Lusaka Province, 1010, Zambia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16974889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1587093057",
+    "boundingbox": [
+      "48.3794476",
+      "48.3795476",
+      "10.822639",
+      "10.822739"
+    ],
+    "lat": "48.3794976",
+    "lon": "10.822689",
+    "display_name": "Woll-ke 10 Annekatrin Hingst, 25, H\u00f6henstra\u00dfe, Steppach, Westheim, Neus\u00e4\u00df, Landkreis Augsburg, Schwaben, Bayern, 86356, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

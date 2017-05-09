@@ -1,0 +1,111 @@
+[
+  {
+    "place_id": "25799328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2460907323",
+    "boundingbox": [
+      "3.1284043",
+      "3.1684043",
+      "11.5973066",
+      "11.6373066"
+    ],
+    "lat": "3.1484043",
+    "lon": "11.6173066",
+    "display_name": "Ebay, Mvila, SU, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2649885195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "468844454",
+    "boundingbox": [
+      "34.365013",
+      "34.3679553",
+      "-117.5371055",
+      "-117.5370063"
+    ],
+    "lat": "34.3664941",
+    "lon": "-117.5370412",
+    "display_name": "Ebay, Mountain Top Junction, San Bernardino County, California, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2608837200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4467222870",
+    "boundingbox": [
+      "30.4591144",
+      "30.4592144",
+      "-97.7492045",
+      "-97.7491045"
+    ],
+    "lat": "30.4591644",
+    "lon": "-97.7491545",
+    "display_name": "eBay, 7700, Anderson Mill Road, Jollyville, Austin, Williamson County, Texas, 78750, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54247203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4190985792",
+    "boundingbox": [
+      "47.6141927",
+      "47.6142927",
+      "-122.1969275",
+      "-122.1968275"
+    ],
+    "lat": "47.6142427",
+    "lon": "-122.1968775",
+    "display_name": "Ebay, Northeast 4th Street, Midlakes, Bellevue, King County, Washington, 98004, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "75591186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41452371",
+    "boundingbox": [
+      "40.5338573",
+      "40.5346727",
+      "-111.8959846",
+      "-111.895401"
+    ],
+    "lat": "40.5342748",
+    "lon": "-111.895689478803",
+    "display_name": "eBay, 173, Election Road, Draper, Salt Lake County, Utah, 84020, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52722705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4016209637",
+    "boundingbox": [
+      "56.108739",
+      "56.108839",
+      "10.163159",
+      "10.163259"
+    ],
+    "lat": "56.108789",
+    "lon": "10.163209",
+    "display_name": "eBay, Axel Kiers Vej, Viby J., Holme, Aarhus Kommune, Region Midtjylland, 8260, Danmark",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  }
+]

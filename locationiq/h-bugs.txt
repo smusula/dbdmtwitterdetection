@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "55781244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4340345389",
+    "boundingbox": [
+      "47.6981345",
+      "47.6982345",
+      "15.4733636",
+      "15.4734636"
+    ],
+    "lat": "47.6981845",
+    "lon": "15.4734136",
+    "display_name": "Bugs, Lahnsattel Stra\u00dfe, Gemeinde Neuberg an der M\u00fcrz, Bezirk Bruck-M\u00fcrzzuschlag, Steiermark, 8692, \u00d6sterreich",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "18899370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1823766549",
+    "boundingbox": [
+      "43.9272929",
+      "43.9273929",
+      "4.7901847",
+      "4.7902847"
+    ],
+    "lat": "43.9273429",
+    "lon": "4.7902347",
+    "display_name": "Bug's, Rocade Charles de Gaulle, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84000, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16839751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1566303951",
+    "boundingbox": [
+      "48.3063129",
+      "48.3064129",
+      "14.2866022",
+      "14.2867022"
+    ],
+    "lat": "48.3063629",
+    "lon": "14.2866522",
+    "display_name": "Bug's, 3, Hauptplatz, Altstadtviertel, Linz (Stadt), Ober\u00f6sterreich, 4020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "49381649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3653263047",
+    "boundingbox": [
+      "50.2052826",
+      "50.2053826",
+      "14.8346899",
+      "14.8347899"
+    ],
+    "lat": "50.2053326",
+    "lon": "14.8347399",
+    "display_name": "Broukovi\u0161t\u011b, Ke Sk\u00e1le, Lys\u00e1 nad Labem, okres Nymburk, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, 28922, \u010cesko",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "49274713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3653263046",
+    "boundingbox": [
+      "50.2053015",
+      "50.2054015",
+      "14.8344968",
+      "14.8345968"
+    ],
+    "lat": "50.2053515",
+    "lon": "14.8345468",
+    "display_name": "Broukovi\u0161t\u011b, Ke Sk\u00e1le, Lys\u00e1 nad Labem, okres Nymburk, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, 28922, \u010cesko",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "2653981637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4732285329",
+    "boundingbox": [
+      "-31.5193611",
+      "-31.5192611",
+      "-68.5168299",
+      "-68.5167299"
+    ],
+    "lat": "-31.5193111",
+    "lon": "-68.5167799",
+    "display_name": "Bug's, Av. Guillermo Rawson Norte, Barrio Comandante Cabot, San Juan, Capital, SJ, 5402, Argentina",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.001
+  }
+]

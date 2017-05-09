@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160482375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1990594",
+    "boundingbox": [
+      "48.1650897",
+      "48.2363475",
+      "16.3674575",
+      "16.4984617"
+    ],
+    "lat": "48.2006384",
+    "lon": "16.426895311478",
+    "display_name": "Leopoldstadt, Wien, 1020, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56314544316019,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1901616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "341068674",
+    "boundingbox": [
+      "45.3631119",
+      "45.3632119",
+      "15.0827451",
+      "15.0828451"
+    ],
+    "lat": "45.3631619",
+    "lon": "15.0827951",
+    "display_name": "Vrbovsko, A6, Vrbovsko, Primorsko-Goranska \u017eupanija, 51326, Hrvatska",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.55837881165037
+  },
+  {
+    "place_id": "160326865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "340756",
+    "boundingbox": [
+      "36.4600069",
+      "36.5548315",
+      "-5.014867",
+      "-4.7306586"
+    ],
+    "lat": "36.508976",
+    "lon": "-4.8856199",
+    "display_name": "Marbella, M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "city",
+    "importance": 0.5391957530467,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160572742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2804755",
+    "boundingbox": [
+      "42.4898022",
+      "42.5591974",
+      "1.5460477",
+      "1.7389233"
+    ],
+    "lat": "42.52476365",
+    "lon": "1.63969939001195",
+    "display_name": "Encamp, AD200, Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53456134817454,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160609921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3008998",
+    "boundingbox": [
+      "41.3749043",
+      "41.4120313",
+      "2.1420113",
+      "2.1867757"
+    ],
+    "lat": "41.39335235",
+    "lon": "2.16596708787003",
+    "display_name": "Eixample, Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46897482242346,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6911842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "710888108",
+    "boundingbox": [
+      "48.8670035",
+      "48.8671035",
+      "2.3634321",
+      "2.3635321"
+    ],
+    "lat": "48.8670535",
+    "lon": "2.3634821",
+    "display_name": "R\u00e9publique - sortie 2 rue du Temple, Place de la R\u00e9publique, Enfants Rouges, 3e, Paris, \u00cele-de-France, 75003, France",
+    "class": "railway",
+    "type": "subway_entrance",
+    "importance": 0.45665012921556
+  },
+  {
+    "place_id": "1447028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313715779",
+    "boundingbox": [
+      "5.36",
+      "6.64",
+      "-60.6399999",
+      "-59.3599999"
+    ],
+    "lat": "6",
+    "lon": "-59.9999999",
+    "display_name": "Cuyuni-Mazaruni Region, Guyana",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "28491104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2650205630",
+    "boundingbox": [
+      "35.1143879",
+      "35.1144879",
+      "136.1945611",
+      "136.1946611"
+    ],
+    "lat": "35.1144379",
+    "lon": "136.1946111",
+    "display_name": "\u516b\u65e5\u5e02\u99c52\u756a\u7dda, \u516b\u65e5\u5e02\u505c\u8eca\u5834\u7dda, \u516b\u65e5\u5e02, \u6771\u8fd1\u6c5f\u5e02, \u6ecb\u8cc0\u770c, \u65e5\u672c",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.4447416086303
+  },
+  {
+    "place_id": "5990809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "610687534",
+    "boundingbox": [
+      "19.8259826",
+      "19.8260826",
+      "-155.474711",
+      "-155.474611"
+    ],
+    "lat": "19.8260326",
+    "lon": "-155.474661",
+    "display_name": "Keck I Telescope, Mauna Kea Access Road, Hilo, North Hilo, Hawaii, United States of America",
+    "class": "man_made",
+    "type": "telescope",
+    "importance": 0.44060025734446
+  },
+  {
+    "place_id": "2652290512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4690334996",
+    "boundingbox": [
+      "55.3276371",
+      "55.3277371",
+      "59.4322801",
+      "59.4323801"
+    ],
+    "lat": "55.3276871",
+    "lon": "59.4323301",
+    "display_name": "\u041e\u0442\u0434\u0435\u043b\u0435\u043d\u0438\u0435 \u0441\u0432\u044f\u0437\u0438 \u2116 456941, 10, \u0443\u043b\u0438\u0446\u0430 \u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0430, \u041a\u0443\u0441\u0438\u043d\u0441\u043a\u043e\u0435 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041a\u0443\u0441\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0427\u0435\u043b\u044f\u0431\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 456941, \u0420\u0424",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.43148799146078,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  }
+]

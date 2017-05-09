@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "42502518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3097279529",
+    "boundingbox": [
+      "47.4914327",
+      "47.4915327",
+      "19.0555594",
+      "19.0556594"
+    ],
+    "lat": "47.4914827",
+    "lon": "19.0556094",
+    "display_name": "Gelato, 21-23, Ir\u00e1nyi utca, Belv\u00e1ros, 5. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1053, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11754091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1110003327",
+    "boundingbox": [
+      "43.701963",
+      "43.702063",
+      "-79.3976499",
+      "-79.3975499"
+    ],
+    "lat": "43.702013",
+    "lon": "-79.3975999",
+    "display_name": "Gelato, Yonge Street, Yonge & Eglinton, Old Toronto, Toronto, Ontario, M4S 2A2, Canada",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "3939947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "427539905",
+    "boundingbox": [
+      "50.9383492",
+      "50.9384492",
+      "6.9620868",
+      "6.9621868"
+    ],
+    "lat": "50.9383992",
+    "lon": "6.9621368",
+    "display_name": "Gelato, Fischmarkt, Kunibertsviertel, Altstadt-Nord, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50667, Deutschland",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48330114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3514030923",
+    "boundingbox": [
+      "51.2380121",
+      "51.2381121",
+      "6.7794502",
+      "6.7795502"
+    ],
+    "lat": "51.2380621",
+    "lon": "6.7795002",
+    "display_name": "Il Gelato, 52, Nordstra\u00dfe, Pempelfort, Stadtbezirk 1, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40477, Deutschland",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "104887820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174111157",
+    "boundingbox": [
+      "53.3804359",
+      "53.3805884",
+      "-1.4815776",
+      "-1.4814443"
+    ],
+    "lat": "53.38051215",
+    "lon": "-1.48151095",
+    "display_name": "Gelato, Regent Terrace, Port Mahon, Saint George's, Sheffield, Yorkshire and the Humber, England, S1 4DA, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26254518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2507637064",
+    "boundingbox": [
+      "50.7284672",
+      "50.7285672",
+      "6.1801089",
+      "6.1802089"
+    ],
+    "lat": "50.7285172",
+    "lon": "6.1801589",
+    "display_name": "Il Gelato, 136, Napoleonsberg, Kornelim\u00fcnster, Kornelim\u00fcnster/Walheim, Aachen, St\u00e4dteregion Aachen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52076, Deutschland",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24239343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2357184837",
+    "boundingbox": [
+      "12.9055598",
+      "12.9056598",
+      "77.595069",
+      "77.595169"
+    ],
+    "lat": "12.9056098",
+    "lon": "77.595119",
+    "display_name": "Gelato, 3rd Main Road, Govinda Reddy Layout, J P Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "6613855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "684328711",
+    "boundingbox": [
+      "49.4796955",
+      "49.4797955",
+      "10.9864341",
+      "10.9865341"
+    ],
+    "lat": "49.4797455",
+    "lon": "10.9864841",
+    "display_name": "Il Gelato, 3, Marktplatz, Altstadt, F\u00fcrth, Mittelfranken, Bayern, 90762, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "14093561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1290314885",
+    "boundingbox": [
+      "49.4631155",
+      "49.4632155",
+      "11.0770496",
+      "11.0771496"
+    ],
+    "lat": "49.4631655",
+    "lon": "11.0770996",
+    "display_name": "il gelato, 29, Kaulbachstra\u00dfe, G\u00e4rten hinter der Veste, N\u00fcrnberg, Mittelfranken, Bayern, 90408, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "1426147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313616765",
+    "boundingbox": [
+      "52.4452842",
+      "52.4453842",
+      "-1.9338857",
+      "-1.9337857"
+    ],
+    "lat": "52.4453342",
+    "lon": "-1.9338357",
+    "display_name": "Gelato, 578, Bristol Road, Bournbrook, Selly Oak, West Midlands Combined Authority, West Midlands, England, B29 6AP, UK",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160247631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "41485",
+    "boundingbox": [
+      "41.6556417",
+      "42.1410285",
+      "12.2344669",
+      "12.8557603"
+    ],
+    "lat": "41.8935085",
+    "lon": "12.4825526",
+    "display_name": "Roma, RM, LAZ, Italia",
+    "class": "place",
+    "type": "city",
+    "importance": 0.49166296423106,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160252135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "41313",
+    "boundingbox": [
+      "41.4075808",
+      "42.2969953",
+      "11.7337425",
+      "13.2962768"
+    ],
+    "lat": "41.85233365",
+    "lon": "12.6308541512038",
+    "display_name": "RM, LAZ, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160449123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1783607",
+    "boundingbox": [
+      "25.4444253",
+      "25.4507442",
+      "-101.0247426",
+      "-101.0183457"
+    ],
+    "lat": "25.44751575",
+    "lon": "-101.021695929426",
+    "display_name": "Roma, Saltillo, Coahuila de Zaragoza, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "19243940",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1895756363",
+    "boundingbox": [
+      "-26.6073999",
+      "-26.5273999",
+      "148.74751",
+      "148.82751"
+    ],
+    "lat": "-26.5673999",
+    "lon": "148.78751",
+    "display_name": "Roma, QLD, Australia",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "15184149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1362724382",
+    "boundingbox": [
+      "-29.4934906",
+      "-29.4134906",
+      "27.6737542",
+      "27.7537542"
+    ],
+    "lat": "-29.4534906",
+    "lon": "27.7137542",
+    "display_name": "Roma, Maseru District, Mafeteng, Lesotho",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160264321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "115420",
+    "boundingbox": [
+      "26.39146",
+      "26.451667",
+      "-99.0321214",
+      "-98.9764729"
+    ],
+    "lat": "26.4215485",
+    "lon": "-99.023478671595",
+    "display_name": "Roma, Starr County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.39661565540093,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "336437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150940276",
+    "boundingbox": [
+      "38.1229743",
+      "38.1629743",
+      "-121.2582798",
+      "-121.2182798"
+    ],
+    "lat": "38.1429743",
+    "lon": "-121.2382798",
+    "display_name": "Roma, San Joaquin County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4090650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "434531430",
+    "boundingbox": [
+      "57.5080825",
+      "57.5480825",
+      "18.418052",
+      "18.458052"
+    ],
+    "lat": "57.5280825",
+    "lon": "18.438052",
+    "display_name": "Roma kyrkby, Gotland, Gotlands l\u00e4n, G\u00f6taland, Territorial waters of Gotland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4332242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473381117",
+    "boundingbox": [
+      "19.443889",
+      "19.483889",
+      "-96.8969439",
+      "-96.8569439"
+    ],
+    "lat": "19.463889",
+    "lon": "-96.8769439",
+    "display_name": "Roma, Emiliano Zapata, Veracruz de Ignacio de la Llave, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40524358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2979739453",
+    "boundingbox": [
+      "28.9991198",
+      "29.0391198",
+      "-106.2833336",
+      "-106.2433336"
+    ],
+    "lat": "29.0191198",
+    "lon": "-106.2633336",
+    "display_name": "La Roma, Chihuahua, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

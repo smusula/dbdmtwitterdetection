@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "55482187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4296803727",
+    "boundingbox": [
+      "44.603454",
+      "44.603554",
+      "14.9677816",
+      "14.9678816"
+    ],
+    "lat": "44.603504",
+    "lon": "14.9678316",
+    "display_name": "drinks, D406, Prizna, Li\u010dko-Senjska \u017eupanija, Hrvatska",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "18083462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1750951648",
+    "boundingbox": [
+      "37.3883623",
+      "37.3884623",
+      "-6.0020237",
+      "-6.0019237"
+    ],
+    "lat": "37.3884123",
+    "lon": "-6.0019737",
+    "display_name": "Drinks, Calle Arjona, Museo, Casco Antiguo, Sevilla, Andaluc\u00eda, 41001, Espa\u00f1a",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144718020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "364000899",
+    "boundingbox": [
+      "38.6342555",
+      "38.6343013",
+      "-90.2874132",
+      "-90.2873442"
+    ],
+    "lat": "38.63427845",
+    "lon": "-90.2873787056431",
+    "display_name": "Drinks, Wells Drive, St. Louis, City of St. Louis, Missouri, 63117, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "50458180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3760645310",
+    "boundingbox": [
+      "12.9761547",
+      "12.9762547",
+      "77.6026064",
+      "77.6027064"
+    ],
+    "lat": "12.9762047",
+    "lon": "77.6026564",
+    "display_name": "Drinks, Mahatma Gandhi Road, Tasker Town, Ashok Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "29887453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2722573777",
+    "boundingbox": [
+      "52.2131451",
+      "52.2132451",
+      "-2.1779373",
+      "-2.1778373"
+    ],
+    "lat": "52.2131951",
+    "lon": "-2.1778873",
+    "display_name": "Drinks, Berkeley Way, Warndon CP, Worcester, Worcestershire, West Midlands, England, WR4 9PG, UK",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "50978406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3797398161",
+    "boundingbox": [
+      "51.9376411",
+      "51.9377411",
+      "15.5587678",
+      "15.5588678"
+    ],
+    "lat": "51.9376911",
+    "lon": "15.5588178",
+    "display_name": "Drinks, 7f, Osiedle Pomorskie, Osiedle Kaszubskie, Raculka, Zielona G\u00f3ra, lubuskie, 65-548, Polska",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "54094489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4130369944",
+    "boundingbox": [
+      "53.2132426",
+      "53.2133426",
+      "-1.6768031",
+      "-1.6767031"
+    ],
+    "lat": "53.2132926",
+    "lon": "-1.6767531",
+    "display_name": "Drinks, North Church Street, Bakewell CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE45 1EB, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "53999438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4151970318",
+    "boundingbox": [
+      "53.665474",
+      "53.665574",
+      "17.3532327",
+      "17.3533327"
+    ],
+    "lat": "53.665524",
+    "lon": "17.3532827",
+    "display_name": "Drinks, 10, \u015arednia, Osiedle Waz\u00f3w, Cz\u0142uch\u00f3w, powiat cz\u0142uchowski, pomorskie, 77-300, Polska",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "2647210909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4571256363",
+    "boundingbox": [
+      "35.6393993",
+      "35.6394993",
+      "139.5888478",
+      "139.5889478"
+    ],
+    "lat": "35.6394493",
+    "lon": "139.5888978",
+    "display_name": "Drinks, \u3075\u308c\u3042\u3044\u5074\u9053, \u72db\u6c5f\u5e02, \u6771\u4eac\u90fd, 201-0004, \u65e5\u672c",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18784076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1816567718",
+    "boundingbox": [
+      "40.3319892",
+      "40.3320892",
+      "-75.4844584",
+      "-75.4843584"
+    ],
+    "lat": "40.3320392",
+    "lon": "-75.4844084",
+    "display_name": "Drinks, Snyder Road, Upper Frederick Township, Montgomery County, Pennsylvania, 18074, United States of America",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  }
+]

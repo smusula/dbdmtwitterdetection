@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160452834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1822223",
+    "boundingbox": [
+      "36.15871",
+      "36.506958",
+      "-98.9610599",
+      "-98.1056589"
+    ],
+    "lat": "36.2860458",
+    "lon": "-98.4995601",
+    "display_name": "Major County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46704474917533,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "320745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "128563603",
+    "boundingbox": [
+      "47.3801162",
+      "47.4201162",
+      "24.7231335",
+      "24.7631335"
+    ],
+    "lat": "47.4001162",
+    "lon": "24.7431335",
+    "display_name": "Maieru, Bistri\u021ba-N\u0103s\u0103ud, 427130, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.38151155186229,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "452213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157544081",
+    "boundingbox": [
+      "37.5379152",
+      "37.5779152",
+      "-79.3900325",
+      "-79.3500325"
+    ],
+    "lat": "37.5579152",
+    "lon": "-79.3700325",
+    "display_name": "Major, Bedford County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "413269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153747235",
+    "boundingbox": [
+      "36.060337",
+      "36.100337",
+      "-86.3597137",
+      "-86.3197137"
+    ],
+    "lat": "36.080337",
+    "lon": "-86.3397137",
+    "display_name": "Major, Wilson County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "448339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154207839",
+    "boundingbox": [
+      "33.4334478",
+      "33.4734478",
+      "-84.6763205",
+      "-84.6363205"
+    ],
+    "lat": "33.4534478",
+    "lon": "-84.6563205",
+    "display_name": "Major, Coweta County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "444092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154182764",
+    "boundingbox": [
+      "37.3939774",
+      "37.4339774",
+      "-83.718527",
+      "-83.678527"
+    ],
+    "lat": "37.4139774",
+    "lon": "-83.698527",
+    "display_name": "Major, Owsley County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2609810090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4491227980",
+    "boundingbox": [
+      "18.2539454",
+      "18.2939454",
+      "-73.8822549",
+      "-73.8422549"
+    ],
+    "lat": "18.2739454",
+    "lon": "-73.8622549",
+    "display_name": "Major, Arrondissement des Cayes, D\u00e9partement du Sud, Ayiti",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "317379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150932772",
+    "boundingbox": [
+      "40.9038339",
+      "40.9238339",
+      "-111.8788265",
+      "-111.8588265"
+    ],
+    "lat": "40.9138339",
+    "lon": "-111.8688265",
+    "display_name": "Major, Centerville, Davis County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48685412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3599668560",
+    "boundingbox": [
+      "51.8549057",
+      "51.8949057",
+      "-109.6377728",
+      "-109.5977728"
+    ],
+    "lat": "51.8749057",
+    "lon": "-109.6177728",
+    "display_name": "Major, Saskatchewan, Canada, North America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.32830612824767,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "141878376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "343742795",
+    "boundingbox": [
+      "46.0224936",
+      "46.0243882",
+      "18.4555911",
+      "18.4574417"
+    ],
+    "lat": "46.0233668",
+    "lon": "18.4565170361002",
+    "display_name": "Major, M\u00e1riak\u00e9m\u00e9nd, B\u00f3lyi j\u00e1r\u00e1s, Baranya megye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 7663, Magyarorsz\u00e1g",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.3
+  }
+]

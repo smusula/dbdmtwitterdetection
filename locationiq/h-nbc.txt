@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "76578121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46138198",
+    "boundingbox": [
+      "39.1137763",
+      "39.1142172",
+      "-84.5058164",
+      "-84.5049366"
+    ],
+    "lat": "39.11399695",
+    "lon": "-84.5053653088037",
+    "display_name": "WLWT-TV, Boal Street, Prospect Hill Historic District, Prospect Hill, Cincinnati, Hamilton County, Ohio, 45202, United States of America",
+    "class": "amenity",
+    "type": "studio",
+    "importance": 0.3789518745304
+  },
+  {
+    "place_id": "230798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "48802587",
+    "boundingbox": [
+      "51.4119851",
+      "51.4219851",
+      "-0.0401396",
+      "-0.0301396"
+    ],
+    "lat": "51.4169851",
+    "lon": "-0.0351396",
+    "display_name": "New Beckenham, Pavilion Lane, Beckenham, London Borough of Bromley, London, Greater London, England, SE26, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.22603047907589,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160464936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1775238",
+    "boundingbox": [
+      "55.5534277",
+      "55.5773241",
+      "52.0704663",
+      "52.1164559"
+    ],
+    "lat": "55.56537455",
+    "lon": "52.0992000171857",
+    "display_name": "\u0430\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u0411\u0435\u0433\u0438\u0448\u0435\u0432\u043e, 16\u041a-1570, \u0411\u0438\u043a\u043b\u044f\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0422\u0443\u043a\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 423897, \u0420\u0424",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.19764611922243,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "26510375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2519779898",
+    "boundingbox": [
+      "-3.3552159",
+      "-3.3551159",
+      "37.3392328",
+      "37.3393328"
+    ],
+    "lat": "-3.3551659",
+    "lon": "37.3392828",
+    "display_name": "nbc, Market Street, Moshi, Hai, Kilimanjaro, Northern, 938, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "49769776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3704464049",
+    "boundingbox": [
+      "-6.7932753",
+      "-6.7931753",
+      "39.264502",
+      "39.264602"
+    ],
+    "lat": "-6.7932253",
+    "lon": "39.264552",
+    "display_name": "NBC, Kawawa Road, Mkunguni A, Hananasif, Dar es Salaam, Coastal, 72647, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2651703068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4677811963",
+    "boundingbox": [
+      "-6.7743815",
+      "-6.7742815",
+      "39.2427979",
+      "39.2428979"
+    ],
+    "lat": "-6.7743315",
+    "lon": "39.2428479",
+    "display_name": "NBC, New Bagamoyo Road, Kijitonyama, Dar es Salaam, Coastal, 4023, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "50201716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3738163603",
+    "boundingbox": [
+      "-6.819851",
+      "-6.819751",
+      "39.2746725",
+      "39.2747725"
+    ],
+    "lat": "-6.819801",
+    "lon": "39.2747225",
+    "display_name": "NBC, Tandamti Street, Kariakoo, Dar es Salaam, Coastal, 3918, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "49866514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3706370618",
+    "boundingbox": [
+      "-6.8380596",
+      "-6.8379596",
+      "39.2434966",
+      "39.2435966"
+    ],
+    "lat": "-6.8380096",
+    "lon": "39.2435466",
+    "display_name": "NBC, Nelson Mandela Road, Kisiwani, Buguruni, Dar es Salaam, Coastal, 78492, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "49382630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3674701027",
+    "boundingbox": [
+      "-6.7615262",
+      "-6.7614262",
+      "39.2819425",
+      "39.2820425"
+    ],
+    "lat": "-6.7614762",
+    "lon": "39.2819925",
+    "display_name": "NBC, Lincoln Road, Oysterbay, Msasani, Dar es Salaam, Coastal, 2585, Tanzania",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2648040008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4590769197",
+    "boundingbox": [
+      "-6.1753182",
+      "-6.1752182",
+      "35.7470318",
+      "35.7471318"
+    ],
+    "lat": "-6.1752682",
+    "lon": "35.7470818",
+    "display_name": "NBC, Mwangaza Ave., Madukani, Dodoma, Central, Tanzania",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

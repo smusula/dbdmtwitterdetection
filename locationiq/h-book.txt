@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "382049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151834751",
+    "boundingbox": [
+      "31.3174015",
+      "31.3574015",
+      "-91.8915131",
+      "-91.8515131"
+    ],
+    "lat": "31.3374015",
+    "lon": "-91.8715131",
+    "display_name": "Book, Catahoula Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59214484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7683215",
+    "boundingbox": [
+      "38.8104352",
+      "38.8114623",
+      "-104.1940017",
+      "-104.1939167"
+    ],
+    "lat": "38.8114623",
+    "lon": "-104.1939167",
+    "display_name": "Book, Yoder, El Paso County, Colorado, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54086209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4156525489",
+    "boundingbox": [
+      "33.0066542",
+      "33.0067542",
+      "130.438562",
+      "130.438662"
+    ],
+    "lat": "33.0067042",
+    "lon": "130.438612",
+    "display_name": "book, \u56fd\u9053208\u53f7, \u8352\u5c3e\u5e02, \u7389\u540d\u90e1 (Tamana), \u718a\u672c\u770c, \u65e5\u672c",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.111
+  },
+  {
+    "place_id": "51266695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3812488257",
+    "boundingbox": [
+      "39.4700297",
+      "39.4701297",
+      "-0.3567636",
+      "-0.3566636"
+    ],
+    "lat": "39.4700797",
+    "lon": "-0.3567136",
+    "display_name": "The Book, Carrer d'Antoni Su\u00e1rez, el Pla del Real, vall\u00b4de ebo, Comarca de Val\u00e8ncia, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46021, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "9367428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "954955595",
+    "boundingbox": [
+      "42.3418128",
+      "42.3419128",
+      "-3.7029262",
+      "-3.7028262"
+    ],
+    "lat": "42.3418628",
+    "lon": "-3.7028762",
+    "display_name": "The Book, La Flora, San Juli\u00e1n, Vadillos, Burgos, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "47466874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3442647362",
+    "boundingbox": [
+      "41.1476155",
+      "41.1477155",
+      "-8.6132454",
+      "-8.6131454"
+    ],
+    "lat": "41.1476655",
+    "lon": "-8.6131954",
+    "display_name": "Book, 62, Pra\u00e7a Dona Filipa de Lencastre, Cl\u00e9rigos, Vit\u00f3ria, Cedofeita, Santo Ildefonso, S\u00e9, Miragaia, S\u00e3o Nicolau e Vit\u00f3ria, Porto, \u00c1rea Metropolitana do Porto, Norte, 4000-407, Portugal",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "119058432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232559372",
+    "boundingbox": [
+      "38.8755884",
+      "38.8761735",
+      "121.5812726",
+      "121.582496"
+    ],
+    "lat": "38.87588185",
+    "lon": "121.581889631288",
+    "display_name": "Book, \u661f\u6d77\u5e7f\u573a, \u6c99\u6cb3\u53e3\u533a, \u5927\u8fde\u5e02, \u7518\u4e95\u5b50\u533a / Ganjingzi, \u5927\u8fde\u5e02 / Liaoyuan, \u8fbd\u5b81\u7701, \u4e2d\u56fd",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "49387712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3672074045",
+    "boundingbox": [
+      "-22.5686285",
+      "-22.5685285",
+      "17.0781404",
+      "17.0782404"
+    ],
+    "lat": "-22.5685785",
+    "lon": "17.0781904",
+    "display_name": "The Book Den, Hosea Kutako Drive, Windhoek Central / CBD, Windhoek, Khomas Region, Windhoek, 0000, Namibia",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18552112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1799777869",
+    "boundingbox": [
+      "42.0372224",
+      "42.0373224",
+      "-87.6799363",
+      "-87.6798363"
+    ],
+    "lat": "42.0372724",
+    "lon": "-87.6798863",
+    "display_name": "Book Den, 1043B, Chicago Avenue, South Evanston, Evanston, Cook County, Illinois, 60202, United States of America",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56177379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4360588690",
+    "boundingbox": [
+      "59.9661263",
+      "59.9662263",
+      "30.290962",
+      "30.291062"
+    ],
+    "lat": "59.9661763",
+    "lon": "30.291012",
+    "display_name": "Book, 14, \u041b\u0435\u0432\u0430\u0448\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041f\u0435\u0442\u0440\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u0441\u0442\u043e\u0440\u043e\u043d\u0430, \u043e\u043a\u0440\u0443\u0433 \u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u043e\u0435, \u041f\u0435\u0442\u0440\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

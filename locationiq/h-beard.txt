@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160476179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2066819",
+    "boundingbox": [
+      "46.850761",
+      "46.885884",
+      "3.29785",
+      "3.3491691"
+    ],
+    "lat": "46.8624",
+    "lon": "3.32686",
+    "display_name": "B\u00e9ard, Nevers, Ni\u00e8vre, Bourgogne-Franche-Comt\u00e9, 58160, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51064716465891,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2610158366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154380120",
+    "boundingbox": [
+      "38.0764791",
+      "38.0765791",
+      "-80.2280324",
+      "-80.2279324"
+    ],
+    "lat": "38.0765291",
+    "lon": "-80.2279824",
+    "display_name": "Beard, Denmar, Pocahontas County, West Virginia, United States of America",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.3898123467551
+  },
+  {
+    "place_id": "25341639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2443799542",
+    "boundingbox": [
+      "46.1688056",
+      "46.2088056",
+      "5.5236596",
+      "5.5636596"
+    ],
+    "lat": "46.1888056",
+    "lon": "5.5436596",
+    "display_name": "Beard, Nantua, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "379630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151806973",
+    "boundingbox": [
+      "29.6574586",
+      "29.6974586",
+      "-96.2710749",
+      "-96.2310749"
+    ],
+    "lat": "29.6774586",
+    "lon": "-96.2510749",
+    "display_name": "Beard, Austin County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "443767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154178276",
+    "boundingbox": [
+      "34.1273232",
+      "34.1673232",
+      "-84.0004612",
+      "-83.9604612"
+    ],
+    "lat": "34.1473232",
+    "lon": "-83.9804612",
+    "display_name": "Beard, Hall County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "460495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158408868",
+    "boundingbox": [
+      "35.096553",
+      "35.136553",
+      "-78.8189117",
+      "-78.7789117"
+    ],
+    "lat": "35.116553",
+    "lon": "-78.7989117",
+    "display_name": "Beard, Cumberland County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "411428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153722125",
+    "boundingbox": [
+      "40.3536475",
+      "40.3936475",
+      "-86.4705544",
+      "-86.4305544"
+    ],
+    "lat": "40.3736475",
+    "lon": "-86.4505544",
+    "display_name": "Beard, Clinton County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36123930027934,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160844749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5336210",
+    "boundingbox": [
+      "-35.3453539",
+      "-35.3390413",
+      "149.2041784",
+      "149.21876"
+    ],
+    "lat": "-35.3414167",
+    "lon": "149.2098641",
+    "display_name": "Beard, Jerrabomberra, Australian Capital Territory, 2620, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2646125360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547226620",
+    "boundingbox": [
+      "48.3945653",
+      "48.4145653",
+      "4.5886159",
+      "4.6086159"
+    ],
+    "lat": "48.4045653",
+    "lon": "4.5986159",
+    "display_name": "B\u00e9ard, Crespy-le-Neuf, Bar-sur-Aube, Aube, Grand-Est, 10500, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45187888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3211383596",
+    "boundingbox": [
+      "48.3961489",
+      "48.3962489",
+      "-0.5308472",
+      "-0.5307472"
+    ],
+    "lat": "48.3961989",
+    "lon": "-0.5307972",
+    "display_name": "B\u00e9ard, Montreuil-Poulay, Mayenne, Pays de la Loire, 53640, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  }
+]

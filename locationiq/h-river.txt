@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "76105275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44018928",
+    "boundingbox": [
+      "33.8555263",
+      "33.909831",
+      "-117.2779999",
+      "-117.2438462"
+    ],
+    "lat": "33.8841155",
+    "lon": "-117.254826324302",
+    "display_name": "March Air Reserve Base, Graeber Street, March Field, Riverside County, California, 92518, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.59201107279221,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "160256459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "71236",
+    "boundingbox": [
+      "50.0040513",
+      "51.9520541",
+      "25.083805",
+      "27.7346382"
+    ],
+    "lat": "51.2074112",
+    "lon": "26.5208033",
+    "display_name": "\u0420\u0456\u0432\u043d\u0435\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52143613125302,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160282175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153547",
+    "boundingbox": [
+      "-42.0003898",
+      "-37.5711072",
+      "-71.9103825",
+      "-62.7900709"
+    ],
+    "lat": "-40.4811972",
+    "lon": "-67.614591",
+    "display_name": "RN, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46017083536645,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "154654699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "417322977",
+    "boundingbox": [
+      "10.4669578",
+      "10.4719731",
+      "5.1904033",
+      "5.1945635"
+    ],
+    "lat": "10.4693248",
+    "lon": "5.1925761",
+    "display_name": "river, Magama, Niger, Nigeria",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.435
+  },
+  {
+    "place_id": "144952430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365619059",
+    "boundingbox": [
+      "9.6991451",
+      "9.7012551",
+      "123.8642006",
+      "123.8657217"
+    ],
+    "lat": "9.7002731",
+    "lon": "123.8648734",
+    "display_name": "River, Tagbilaran, Bohol, Central Visayas, Philippines",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "146795986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "373075827",
+    "boundingbox": [
+      "44.1720526",
+      "44.1807204",
+      "-68.8439553",
+      "-68.8411741"
+    ],
+    "lat": "44.1768199",
+    "lon": "-68.8425973",
+    "display_name": "The River, Knox County, Maine, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "122267717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246499069",
+    "boundingbox": [
+      "10.7863369",
+      "10.7947319",
+      "123.1241767",
+      "123.1347636"
+    ],
+    "lat": "10.7904514",
+    "lon": "123.1296309",
+    "display_name": "River, Victorias, Negros Occidental, Negros Island Region, Philippines",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "148839644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383711873",
+    "boundingbox": [
+      "38.6749253",
+      "38.6823912",
+      "-80.5023682",
+      "-80.4681332"
+    ],
+    "lat": "38.6782275",
+    "lon": "-80.4848326",
+    "display_name": "River, Webster County, West Virginia, United States of America",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "123015939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249352436",
+    "boundingbox": [
+      "18.4435684",
+      "18.4486011",
+      "121.4495257",
+      "121.4532573"
+    ],
+    "lat": "18.4464053",
+    "lon": "121.451894",
+    "display_name": "River, Cagayan, Cagayan Valley, Philippines",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "147109928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375036258",
+    "boundingbox": [
+      "10.6322909",
+      "10.6500083",
+      "125.1014475",
+      "125.124059"
+    ],
+    "lat": "10.6391383",
+    "lon": "125.1131727",
+    "display_name": "River, Abuyog, Leyte 5th District, Leyte, Eastern Visayas, 6510, Philippines",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  }
+]

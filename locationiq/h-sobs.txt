@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "28791176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2682035580",
+    "boundingbox": [
+      "47.4699988",
+      "47.4700988",
+      "-0.124344",
+      "-0.124244"
+    ],
+    "lat": "47.4700488",
+    "lon": "-0.124294",
+    "display_name": "Sobs, Brion, Les Bois-d'Anjou, Angers, Maine-et-Loire, Pays de la Loire, 49250, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "6211785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "643079372",
+    "boundingbox": [
+      "50.9360141",
+      "50.9361141",
+      "6.9426145",
+      "6.9427145"
+    ],
+    "lat": "50.9360641",
+    "lon": "6.9426645",
+    "display_name": "Sobs, Benesisstra\u00dfe, Mauritiusviertel, Altstadt-S\u00fcd, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50667, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

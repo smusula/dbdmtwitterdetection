@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "33155708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2783357361",
+    "boundingbox": [
+      "41.6087704",
+      "41.6088704",
+      "1.7868364",
+      "1.7869364"
+    ],
+    "lat": "41.6088204",
+    "lon": "1.7868864",
+    "display_name": "El Dumbo, el Bruc, Anoia, BCN, CAT, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "25589301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2461016166",
+    "boundingbox": [
+      "6.6841861",
+      "6.7241861",
+      "10.4924293",
+      "10.5324293"
+    ],
+    "lat": "6.7041861",
+    "lon": "10.5124293",
+    "display_name": "Dumbo, Donga-Mantung, NW, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11230716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1094242775",
+    "boundingbox": [
+      "-12.5199999",
+      "-12.4799999",
+      "15.513333",
+      "15.553333"
+    ],
+    "lat": "-12.4999999",
+    "lon": "15.533333",
+    "display_name": "Dumbo, Huambo, Angola",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27750847",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2596318431",
+    "boundingbox": [
+      "-10.2598831",
+      "-10.2198831",
+      "16.9315519",
+      "16.9715519"
+    ],
+    "lat": "-10.2398831",
+    "lon": "16.9515519",
+    "display_name": "Dumbo, Malanje, Angola",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "20315574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2019020144",
+    "boundingbox": [
+      "40.7028552",
+      "40.7029552",
+      "-73.9901666",
+      "-73.9900666"
+    ],
+    "lat": "40.7029052",
+    "lon": "-73.9901166",
+    "display_name": "DUMBO, Kings County, NYC, New York, 11201, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "22018746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2181362886",
+    "boundingbox": [
+      "-14.064374",
+      "-14.024374",
+      "17.4217012",
+      "17.4617012"
+    ],
+    "lat": "-14.044374",
+    "lon": "17.4417012",
+    "display_name": "Mandume, Bi\u00e9, Angola",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "82602324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83598875",
+    "boundingbox": [
+      "7.1044739",
+      "7.105385",
+      "125.5121162",
+      "125.5121169"
+    ],
+    "lat": "7.1044739",
+    "lon": "125.5121169",
+    "display_name": "Dumbo, Elenita Heights Subdivision Phase 2, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "122132446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245834291",
+    "boundingbox": [
+      "23.2122662",
+      "23.2125463",
+      "-106.4129567",
+      "-106.4124974"
+    ],
+    "lat": "23.2125463",
+    "lon": "-106.4129567",
+    "display_name": "Dumbo, Montuosa, Centro, Mazatl\u00e1n, Sinaloa, 82000, M\u00e9xico",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "116457642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222968643",
+    "boundingbox": [
+      "41.6150962",
+      "41.6177857",
+      "-71.5853381",
+      "-71.5822093"
+    ],
+    "lat": "41.6164702",
+    "lon": "-71.5832714",
+    "display_name": "Dumbo, Hell's Half Acre, Kent County, Rhode Island, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "799881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "266171137",
+    "boundingbox": [
+      "40.4739208",
+      "40.4740208",
+      "-3.6355523",
+      "-3.6354523"
+    ],
+    "lat": "40.4739708",
+    "lon": "-3.6355023",
+    "display_name": "Dumbo, Calle de Simacota, Hortaleza, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28043, Espa\u00f1a",
+    "class": "amenity",
+    "type": "kindergarten",
+    "importance": 0.101
+  }
+]

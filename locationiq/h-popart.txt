@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "126072769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262778875",
+    "boundingbox": [
+      "46.2753284",
+      "46.2764414",
+      "4.0386877",
+      "4.0388422"
+    ],
+    "lat": "46.2757736",
+    "lon": "4.0387458",
+    "display_name": "Place Ir\u00e8ne Popart, Lotissement le Pont des Beurres, La Marque, Marcigny, Charolles, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71110, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "32475881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2777676791",
+    "boundingbox": [
+      "46.2759985",
+      "46.2760985",
+      "4.0382142",
+      "4.0383142"
+    ],
+    "lat": "46.2760485",
+    "lon": "4.0382642",
+    "display_name": "Place Ir\u00e8ne Popart, Lotissement le Pont des Beurres, La Marque, Marcigny, Charolles, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71110, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "17552282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1695443448",
+    "boundingbox": [
+      "8.6066917",
+      "8.6067917",
+      "-71.1378999",
+      "-71.1377999"
+    ],
+    "lat": "8.6067417",
+    "lon": "-71.1378499",
+    "display_name": "PopArt Caf\u00e9, Av. 2 Lora, Parroquia Milla, Municipio Libertador, M\u00e9rida, 5101, Venezuela",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2652150208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4687654191",
+    "boundingbox": [
+      "9.6680829",
+      "9.6681829",
+      "-85.1900425",
+      "-85.1899425"
+    ],
+    "lat": "9.6681329",
+    "lon": "-85.1899925",
+    "display_name": "PopArt Resto, 160, Bajos de Ario, C\u00f3bano, Cant\u00f3n Puntarenas, Provincia Puntarenas, 60111, Costa Rica",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

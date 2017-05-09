@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "404020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153789280",
+    "boundingbox": [
+      "41.4550307",
+      "41.4950307",
+      "-88.2172838",
+      "-88.1772838"
+    ],
+    "lat": "41.4750307",
+    "lon": "-88.1972838",
+    "display_name": "Birds, Will County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "417605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153898589",
+    "boundingbox": [
+      "32.3207485",
+      "32.3607485",
+      "-81.264",
+      "-81.224"
+    ],
+    "lat": "32.3407485",
+    "lon": "-81.244",
+    "display_name": "Birds, Effingham County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160275231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126969",
+    "boundingbox": [
+      "38.83443",
+      "38.840724",
+      "-87.6747579",
+      "-87.6654039"
+    ],
+    "lat": "38.8369899",
+    "lon": "-87.6678031",
+    "display_name": "Birds, Lawrence County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36650672486204,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "125112557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258323697",
+    "boundingbox": [
+      "51.8262396",
+      "51.8262645",
+      "5.8396469",
+      "5.8396885"
+    ],
+    "lat": "51.82625245",
+    "lon": "5.83966886826706",
+    "display_name": "Birds, Nijmegen, Nijmegen-Midden, Nijmegen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6531MP, Nederland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "125130370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258323693",
+    "boundingbox": [
+      "51.8264361",
+      "51.8265015",
+      "5.8405522",
+      "5.8406849"
+    ],
+    "lat": "51.8264684",
+    "lon": "5.8406191939296",
+    "display_name": "Birds, Nijmegen, Nijmegen-Midden, Nijmegen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6531MN, Nederland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "85833320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99190002",
+    "boundingbox": [
+      "10.3933403",
+      "10.3940496",
+      "123.9780009",
+      "123.9789122"
+    ],
+    "lat": "10.3936379",
+    "lon": "123.9785298",
+    "display_name": "Birds, Verie Hills, Cebu City, Cebu, Central Visayas, 6002, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111449202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202341573",
+    "boundingbox": [
+      "39.7491309",
+      "39.7492129",
+      "-104.9538147",
+      "-104.9536641"
+    ],
+    "lat": "39.7491719",
+    "lon": "-104.953739416935",
+    "display_name": "Birds, East 23rd Avenue, Denver, Denver County, Colorado, 80207, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "79797051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61916950",
+    "boundingbox": [
+      "52.8897685",
+      "52.8898802",
+      "-1.4520341",
+      "-1.4517803"
+    ],
+    "lat": "52.8898247",
+    "lon": "-1.45190726902539",
+    "display_name": "Birds, Osmaston Road, Allenton, Derby, East Midlands, England, DE24, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "15352366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1400429112",
+    "boundingbox": [
+      "52.9203526",
+      "52.9204526",
+      "-1.4039939",
+      "-1.4038939"
+    ],
+    "lat": "52.9204026",
+    "lon": "-1.4039439",
+    "display_name": "Birds, Sitwell Street, Spondon, Derby, East Midlands, England, DE21 7JP, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "2654720849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4747737891",
+    "boundingbox": [
+      "52.9217093",
+      "52.9218093",
+      "-1.4753749",
+      "-1.4752749"
+    ],
+    "lat": "52.9217593",
+    "lon": "-1.4753249",
+    "display_name": "Birds, Albert Street, Saint Peter's Quarter, Little Chester, Derby, East Midlands, England, DE1, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  }
+]

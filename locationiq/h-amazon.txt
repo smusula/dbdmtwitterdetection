@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "161012955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6635233",
+    "boundingbox": [
+      "-17.930926",
+      "8.0437205",
+      "-79.5386671",
+      "-46.3681959"
+    ],
+    "lat": "-5.81236335",
+    "lon": "-64.42188053293",
+    "display_name": "Amaz\u00f4nia, Tapau\u00e1, Microrregi\u00e3o de Purus, Mesorregi\u00e3o Sul Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "place",
+    "type": "region",
+    "importance": 0.65199478914501,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160324818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "332476",
+    "boundingbox": [
+      "-9.8180458",
+      "2.23011",
+      "-73.7984195",
+      "-56.0969999"
+    ],
+    "lat": "-4.4799249",
+    "lon": "-63.5185395",
+    "display_name": "AM, Regi\u00e3o Norte, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56296961455823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "70574631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27912182",
+    "boundingbox": [
+      "-2.5342267",
+      "-2.4681855",
+      "-57.3046072",
+      "-57.1430227"
+    ],
+    "lat": "-2.4681855",
+    "lon": "-57.2189008",
+    "display_name": "Rio Amazonas, Parintins, Microrregi\u00e3o de Parintins, Mesorregi\u00e3o Centro Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "82463528",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83099551",
+    "boundingbox": [
+      "-3.1714591",
+      "-3.0115221",
+      "-58.4108638",
+      "-58.1574841"
+    ],
+    "lat": "-3.0951739",
+    "lon": "-58.2766171",
+    "display_name": "Rio Amazonas, Itacoatiara, Microrregi\u00e3o de Itacoatiara, Mesorregi\u00e3o Centro Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "68440187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23177484",
+    "boundingbox": [
+      "-1.3777638",
+      "-0.6574326",
+      "-51.6435862",
+      "-51.0772342"
+    ],
+    "lat": "-1.1415443",
+    "lon": "-51.2236222",
+    "display_name": "Rio Amazonas, Melga\u00e7o, Microrregi\u00e3o de Portel, Mesorregi\u00e3o de Maraj\u00f3, PA, Regi\u00e3o Norte, Brasil",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "68249022",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22730330",
+    "boundingbox": [
+      "-3.2086101",
+      "-3.0938026",
+      "-59.6063061",
+      "-59.3718824"
+    ],
+    "lat": "-3.1883218",
+    "lon": "-59.517437",
+    "display_name": "Rio Amazonas, Careiro da V\u00e1rzea, Microrregi\u00e3o de Manaus, Mesorregi\u00e3o Centro Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "339752",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150934347",
+    "boundingbox": [
+      "46.300207",
+      "46.340207",
+      "-112.1272223",
+      "-112.0872223"
+    ],
+    "lat": "46.320207",
+    "lon": "-112.1072223",
+    "display_name": "Amazon, Jefferson County, Montana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "247299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "52288699",
+    "boundingbox": [
+      "51.53",
+      "51.57",
+      "-105.4866669",
+      "-105.4466669"
+    ],
+    "lat": "51.55",
+    "lon": "-105.4666669",
+    "display_name": "Amazon, Census Division No. 11, Saskatchewan, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10674359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "982912529",
+    "boundingbox": [
+      "7.3740129",
+      "7.4140129",
+      "-58.6099444",
+      "-58.5699444"
+    ],
+    "lat": "7.3940129",
+    "lon": "-58.5899444",
+    "display_name": "Amazon, Pomeroon-Supenaam Region, Pomeroon-Supenaam, Guyana",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "159560701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443788573",
+    "boundingbox": [
+      "45.5121913",
+      "45.5132638",
+      "9.163358",
+      "9.1641995"
+    ],
+    "lat": "45.51266395",
+    "lon": "9.16369169281768",
+    "display_name": "Amazon, Bovisasca, Milano, MI, LOM, 20161, Italia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  }
+]

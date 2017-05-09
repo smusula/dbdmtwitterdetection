@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "28953506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2697084857",
+    "boundingbox": [
+      "43.46263",
+      "43.46273",
+      "-80.8559073",
+      "-80.8558073"
+    ],
+    "lat": "43.46268",
+    "lon": "-80.8558573",
+    "display_name": "eggs, 47 Line, Stratford, Perth County, Ontario, Canada",
+    "class": "shop",
+    "type": "farm",
+    "importance": 0.111
+  },
+  {
+    "place_id": "153431828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "409581740",
+    "boundingbox": [
+      "1.4315236",
+      "1.4315487",
+      "103.828599",
+      "103.8286311"
+    ],
+    "lat": "1.43153615",
+    "lon": "103.82861505",
+    "display_name": "Eggs, Yishun Ring Road, Yishun, North West Community Development Council, 768928, Singapore",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

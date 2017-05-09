@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "15983023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1460590894",
+    "boundingbox": [
+      "-43.0686114",
+      "-43.0685114",
+      "171.8067974",
+      "171.8068974"
+    ],
+    "lat": "-43.0685614",
+    "lon": "171.8068474",
+    "display_name": "Og, Selwyn District, Canterbury, New Zealand/Aotearoa",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "97205693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143364217",
+    "boundingbox": [
+      "31.7423605",
+      "31.7509013",
+      "35.4869921",
+      "35.4945842"
+    ],
+    "lat": "31.7480279",
+    "lon": "35.4884437",
+    "display_name": "\u05e0\u05d7\u05dc \u05d0\u05d5\u05d2, \u05de\u05d5\u05e2\u05e6\u05d4 \u05d0\u05d6\u05d5\u05e8\u05d9\u05ea \u05de\u05d2\u05d9\u05dc\u05d5\u05ea \u05d9\u05dd \u05d4\u05de\u05dc\u05d7, \u0645\u062d\u0627\u0641\u0638\u0629 \u0623\u0631\u064a\u062d\u0627, Area C, \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d5\u05e9\u05d5\u05de\u05e8\u05d5\u05df, \u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "19680616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1932121784",
+    "boundingbox": [
+      "1.3021372",
+      "1.3022372",
+      "103.8538502",
+      "103.8539502"
+    ],
+    "lat": "1.3021872",
+    "lon": "103.8539002",
+    "display_name": "OG, 60, Albert Street, Clarke Quay, Bugis, Singapore, Central Singapore Community Development Council, 189969, Singapore",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50838045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3800199324",
+    "boundingbox": [
+      "1.2853204",
+      "1.2854204",
+      "103.843123",
+      "103.843223"
+    ],
+    "lat": "1.2853704",
+    "lon": "103.843173",
+    "display_name": "OG, 100, Upper Cross Street, Chinatown, Outram, Singapore, Central Singapore Community Development Council, 058360, Singapore",
+    "class": "amenity",
+    "type": "taxi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652037513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369539166",
+    "boundingbox": [
+      "52.505786",
+      "52.505886",
+      "-2.0202638",
+      "-2.0201638"
+    ],
+    "lat": "52.505836",
+    "lon": "-2.0202138",
+    "display_name": "OG, Dudley Road, Birchfield, Oldbury, Sandwell, West Midlands, England, B69 3HD, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "125914965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261969824",
+    "boundingbox": [
+      "40.8020687",
+      "40.802564",
+      "-77.8554518",
+      "-77.854667"
+    ],
+    "lat": "40.8023308",
+    "lon": "-77.8551460729468",
+    "display_name": "OG, Bigler Road, State College, Centre County, Pennsylvania, 16801, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18728666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1809883250",
+    "boundingbox": [
+      "-32.8944665",
+      "-32.8943665",
+      "-68.8444966",
+      "-68.8443966"
+    ],
+    "lat": "-32.8944165",
+    "lon": "-68.8444466",
+    "display_name": "Og, Patricias Mendocinas, Bombal, Mendoza, Secci\u00f3n 2\u00aa Barrio C\u00edvico, Departamento Capital, Mza., M5500GEE, Argentina",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106874353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182401907",
+    "boundingbox": [
+      "41.378272",
+      "41.3807988",
+      "-83.6393517",
+      "-83.6352158"
+    ],
+    "lat": "41.3794513",
+    "lon": "-83.63724383076",
+    "display_name": "OG, 1220, East Merry Avenue, Athletics District, Bowling Green, Wood County, Ohio, 43402, United States of America",
+    "class": "amenity",
+    "type": "grave_yard",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55514379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4328838390",
+    "boundingbox": [
+      "3.5883409",
+      "3.5884409",
+      "98.6978908",
+      "98.6979908"
+    ],
+    "lat": "3.5883909",
+    "lon": "98.6979408",
+    "display_name": "OG, Jalan Dr. Wahidin, Kampung Madras, Pandau Hulu I, Sumatera Utara, 20214, Indonesia",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "115750565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220228781",
+    "boundingbox": [
+      "53.1098716",
+      "53.1101948",
+      "8.8534158",
+      "8.8541327"
+    ],
+    "lat": "53.1100332",
+    "lon": "8.85377424776422",
+    "display_name": "OEG, 8, Klagenfurter Stra\u00dfe, Lehe, Horn-Lehe, Stadtbezirk Bremen-Ost, Bremen, 28359, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

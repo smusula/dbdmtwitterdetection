@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "427306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154016951",
+    "boundingbox": [
+      "37.1839848",
+      "37.2239848",
+      "-83.1165566",
+      "-83.0765566"
+    ],
+    "lat": "37.2039848",
+    "lon": "-83.0965566",
+    "display_name": "Happy, Perry County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "383381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151893464",
+    "boundingbox": [
+      "34.7236704",
+      "34.7636704",
+      "-101.8746321",
+      "-101.8346321"
+    ],
+    "lat": "34.7436704",
+    "lon": "-101.8546321",
+    "display_name": "Happy, Swisher County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "356710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151371263",
+    "boundingbox": [
+      "35.1453645",
+      "35.1853645",
+      "-91.6643015",
+      "-91.6243015"
+    ],
+    "lat": "35.1653645",
+    "lon": "-91.6443015",
+    "display_name": "Happy, White County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.32830612824767,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "138402368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326381678",
+    "boundingbox": [
+      "47.3975183",
+      "47.4088124",
+      "-115.0277009",
+      "-115.0120355"
+    ],
+    "lat": "47.403082",
+    "lon": "-115.0188882",
+    "display_name": "Happy, Mineral County, Montana, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "115570496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219682692",
+    "boundingbox": [
+      "43.5461456",
+      "43.5481064",
+      "-71.3637543",
+      "-71.3624658"
+    ],
+    "lat": "43.547152",
+    "lon": "-71.363079",
+    "display_name": "Happy, Gilford, Belknap County, New Hampshire, 03249, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103265711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "168227435",
+    "boundingbox": [
+      "7.1128517",
+      "7.1139747",
+      "125.6272508",
+      "125.6278295"
+    ],
+    "lat": "7.1131359",
+    "lon": "125.6277309",
+    "display_name": "Happy, NHA Buhangin, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "51157654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3808366101",
+    "boundingbox": [
+      "42.1566314",
+      "42.1567314",
+      "24.7441247",
+      "24.7442247"
+    ],
+    "lat": "42.1566814",
+    "lon": "24.7441747",
+    "display_name": "Happy, \u0411\u0440\u0435\u0437\u043e\u0432\u0441\u043a\u0430, \u0413\u0435\u0440\u0434\u0436\u0438\u043a\u0430, \u041a\u044a\u0440\u0448\u0438\u044f\u043a\u0430, \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 40003, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "39353757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2920140114",
+    "boundingbox": [
+      "48.7162882",
+      "48.7163882",
+      "2.246967",
+      "2.247067"
+    ],
+    "lat": "48.7163382",
+    "lon": "2.247017",
+    "display_name": "Happy, 53, Rue de Paris, Palaiseau, Essonne, \u00cele-de-France, 91120, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12907476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1228988345",
+    "boundingbox": [
+      "43.3146631",
+      "43.3147631",
+      "26.9234368",
+      "26.9235368"
+    ],
+    "lat": "43.3147131",
+    "lon": "26.9234868",
+    "display_name": "Happy, 2;7, \u0428\u0443\u043c\u0435\u043d, \u041e\u0431\u043b\u0430\u0441\u0442 \u0428\u0443\u043c\u0435\u043d, 9705, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52289335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3941357533",
+    "boundingbox": [
+      "24.6965142",
+      "24.6966142",
+      "84.9895606",
+      "84.9896606"
+    ],
+    "lat": "24.6965642",
+    "lon": "84.9896106",
+    "display_name": "Happy, Birla Dharamshala Road, Bodhgaya, Gay\u0101, Gaya, Bihar, 824231, India",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

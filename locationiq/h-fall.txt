@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "69755372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25922790",
+    "boundingbox": [
+      "54.2090653",
+      "54.2110165",
+      "-2.9655088",
+      "-2.9562238"
+    ],
+    "lat": "54.2098786",
+    "lon": "-2.9608083",
+    "display_name": "Fall, South Lakeland, Cumbria, North West England, England, UK",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2652721131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240031167",
+    "boundingbox": [
+      "48.2961",
+      "48.3361",
+      "14.1419444",
+      "14.1819444"
+    ],
+    "lat": "48.3161",
+    "lon": "14.1619444",
+    "display_name": "Fall, Linz-Land, Ober\u00f6sterreich, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15835040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1444893773",
+    "boundingbox": [
+      "46.761467",
+      "46.781467",
+      "7.833756",
+      "7.853756"
+    ],
+    "lat": "46.771467",
+    "lon": "7.843756",
+    "display_name": "Fall, Eriz, Verwaltungskreis Thun, Verwaltungsregion Oberland, Bern - Berne, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "49696183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3696818369",
+    "boundingbox": [
+      "47.3955383",
+      "47.4155383",
+      "9.5367735",
+      "9.5567735"
+    ],
+    "lat": "47.4055383",
+    "lon": "9.5467735",
+    "display_name": "Fall, Reute (AR), Vorderland, Appenzell Ausserrhoden, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28681243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2670393097",
+    "boundingbox": [
+      "59.1047272",
+      "59.1048272",
+      "15.3553281",
+      "15.3554281"
+    ],
+    "lat": "59.1047772",
+    "lon": "15.3553781",
+    "display_name": "Fall, Sk\u00f6llersta, Hallsberg, Landskapet N\u00e4rke, \u00d6rebro l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "90203051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115794233",
+    "boundingbox": [
+      "47.5675506",
+      "47.5723569",
+      "11.5299738",
+      "11.5348109"
+    ],
+    "lat": "47.56996095",
+    "lon": "11.5323863657338",
+    "display_name": "Fall, Landkreis Bad T\u00f6lz-Wolfratshausen, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "128454150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "277949215",
+    "boundingbox": [
+      "54.228845",
+      "54.2322587",
+      "-2.2003877",
+      "-2.1962261"
+    ],
+    "lat": "54.230615",
+    "lon": "-2.19792888303245",
+    "display_name": "Fall, Oughtershaw, Craven, Yorkshire and the Humber, England, UK",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.3
+  },
+  {
+    "place_id": "111281218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "201588034",
+    "boundingbox": [
+      "46.7506156",
+      "46.7527926",
+      "7.3095926",
+      "7.3123305"
+    ],
+    "lat": "46.7519482",
+    "lon": "7.3112241",
+    "display_name": "Fall, Guggisberg, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3158, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67503173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20967694",
+    "boundingbox": [
+      "32.228365",
+      "32.23052",
+      "-96.0543619",
+      "-96.0534039"
+    ],
+    "lat": "32.228983",
+    "lon": "-96.0538359",
+    "display_name": "Fall, Henderson County, Texas, 75156, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "87163291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104889749",
+    "boundingbox": [
+      "48.3152676",
+      "48.3157999",
+      "14.1618829",
+      "14.1624333"
+    ],
+    "lat": "48.3155534",
+    "lon": "14.162131",
+    "display_name": "Fall, Wilhering, Linz-Land, Ober\u00f6sterreich, 4073, \u00d6sterreich",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

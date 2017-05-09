@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "66808853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20244992",
+    "boundingbox": [
+      "41.065409",
+      "41.065785",
+      "-72.3030609",
+      "-72.3010382"
+    ],
+    "lat": "41.065665",
+    "lon": "-72.3022029",
+    "display_name": "Mashomack Road, Shelter Island, Suffolk County, New York, 11965, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67099420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20245000",
+    "boundingbox": [
+      "41.060965",
+      "41.065785",
+      "-72.3149999",
+      "-72.3030609"
+    ],
+    "lat": "41.06471",
+    "lon": "-72.3089479",
+    "display_name": "Mashomack Road, Shelter Island, Suffolk County, New York, 11964, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "25886151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2494457039",
+    "boundingbox": [
+      "41.0569871",
+      "41.0570871",
+      "-72.3251255",
+      "-72.3250255"
+    ],
+    "lat": "41.0570371",
+    "lon": "-72.3250755",
+    "display_name": "Mashomack Preserve, South Ferry Road, Shelter Island, Suffolk County, New York, 11964, United States of America",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654290861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7074330",
+    "boundingbox": [
+      "41.0440947",
+      "41.0691936",
+      "-72.3257034",
+      "-72.2739629"
+    ],
+    "lat": "41.0569678",
+    "lon": "-72.3008536108304",
+    "display_name": "Mashomack Preserve, Mashomack Road, Shelter Island, Suffolk County, New York, 11964, United States of America",
+    "class": "leisure",
+    "type": "nature_reserve",
+    "importance": 0.101
+  }
+]

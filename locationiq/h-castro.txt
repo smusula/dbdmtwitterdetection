@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "43083699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3111994564",
+    "boundingbox": [
+      "37.7608061",
+      "37.7609061",
+      "-122.4350069",
+      "-122.4349069"
+    ],
+    "lat": "37.7608561",
+    "lon": "-122.4349569",
+    "display_name": "Castro District, SF, California, 94114, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.48528487167148
+  },
+  {
+    "place_id": "160303224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "281516",
+    "boundingbox": [
+      "45.7901456",
+      "45.8107417",
+      "10.0507723",
+      "10.0804138"
+    ],
+    "lat": "45.802987",
+    "lon": "10.06706",
+    "display_name": "Castro, BG, LOM, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47965970416506,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160242793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "40208",
+    "boundingbox": [
+      "39.9939567",
+      "40.0256515",
+      "18.3990489",
+      "18.4359195"
+    ],
+    "lat": "40.007022",
+    "lon": "18.425733",
+    "display_name": "Castro, LE, PUG, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46844616169821,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160304252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "297619",
+    "boundingbox": [
+      "-25.075944",
+      "-24.5407788",
+      "-50.2436258",
+      "-49.4979023"
+    ],
+    "lat": "-24.7940719",
+    "lon": "-49.9972913",
+    "display_name": "Castro, Microrregi\u00e3o de Ponta Grossa, Mesorregi\u00e3o Centro Oriental Paranaense, PR, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44150603185997,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "85303469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96850470",
+    "boundingbox": [
+      "43.4598953",
+      "43.4681493",
+      "11.8701491",
+      "11.8871331"
+    ],
+    "lat": "43.4598953",
+    "lon": "11.8832734",
+    "display_name": "Castro, Arezzo, AR, TOS, Italia",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160595443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3076091",
+    "boundingbox": [
+      "-42.690517",
+      "-42.3518802",
+      "-74.1922899",
+      "-73.3791795"
+    ],
+    "lat": "-42.482321",
+    "lon": "-73.7643785",
+    "display_name": "Castro, Provincia de Chilo\u00e9, X Regi\u00f3n de Los Lagos, Chile",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42356246868834,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "1453305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "316971971",
+    "boundingbox": [
+      "43.3098167",
+      "43.3099167",
+      "-3.730045",
+      "-3.729945"
+    ],
+    "lat": "43.3098667",
+    "lon": "-3.729995",
+    "display_name": "El Castro, Miera, Trasmiera, Cantabria, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "14098992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1260547874",
+    "boundingbox": [
+      "43.2581699",
+      "43.2582699",
+      "-3.7515748",
+      "-3.7514748"
+    ],
+    "lat": "43.2582199",
+    "lon": "-3.7515248",
+    "display_name": "Castro, San Roque de Riomiera, Cantabria, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "13806127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1250032770",
+    "boundingbox": [
+      "42.8849075",
+      "42.8850075",
+      "-5.5885872",
+      "-5.5884872"
+    ],
+    "lat": "42.8849575",
+    "lon": "-5.5885372",
+    "display_name": "El Castro, Vegacervera, Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "13820809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1250030041",
+    "boundingbox": [
+      "42.6209601",
+      "42.6210601",
+      "-6.2891737",
+      "-6.2890737"
+    ],
+    "lat": "42.6210101",
+    "lon": "-6.2891237",
+    "display_name": "El Castro, Torre del Bierzo, El Bierzo, Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

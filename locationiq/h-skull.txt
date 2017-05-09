@@ -1,0 +1,148 @@
+[
+  {
+    "place_id": "2648673190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6876632",
+    "boundingbox": [
+      "51.47142",
+      "51.5567732",
+      "-9.590045",
+      "-9.5004499"
+    ],
+    "lat": "51.53001515",
+    "lon": "-9.56215758234388",
+    "display_name": "Skull, West Cork, County Cork, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160906238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5859723",
+    "boundingbox": [
+      "51.5100107",
+      "51.5296513",
+      "-9.5689992",
+      "-9.5411974"
+    ],
+    "lat": "51.5212412",
+    "lon": "-9.5553593",
+    "display_name": "Skull, West Cork, County Cork, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "90892675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118059536",
+    "boundingbox": [
+      "38.5018458",
+      "38.50667",
+      "-106.022763",
+      "-106.0160965"
+    ],
+    "lat": "38.504906",
+    "lon": "-106.0196349",
+    "display_name": "Skull, Smeltertown, Chaffee County, Colorado, 81201, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "87518009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "106446327",
+    "boundingbox": [
+      "-31.9652166",
+      "-31.960234",
+      "152.4077566",
+      "152.4150193"
+    ],
+    "lat": "-31.9640142",
+    "lon": "152.4106748",
+    "display_name": "Skull, Kiwarrak, Taree, Mid-Coast, NSW, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "149869375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388957952",
+    "boundingbox": [
+      "47.0844039",
+      "47.0868465",
+      "-123.0954221",
+      "-123.0928079"
+    ],
+    "lat": "47.0856344",
+    "lon": "-123.0946685",
+    "display_name": "Skull, Thurston County, Washington, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "149919604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388957951",
+    "boundingbox": [
+      "47.0855105",
+      "47.0879091",
+      "-123.0944192",
+      "-123.0927755"
+    ],
+    "lat": "47.0870485",
+    "lon": "-123.0932087",
+    "display_name": "Skull, New Kamilche, Mason County, Washington, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "88592637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110444263",
+    "boundingbox": [
+      "50.8243354",
+      "50.8244906",
+      "4.3504118",
+      "4.3506445"
+    ],
+    "lat": "50.82441055",
+    "lon": "4.35053529711538",
+    "display_name": "The Skull, 336, Chauss\u00e9e de Waterloo - Waterlose Steenweg, Saint-Gilles - Sint-Gillis, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1060, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160948157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6122199",
+    "boundingbox": [
+      "51.4831405",
+      "51.6371965",
+      "-9.6876824",
+      "-9.37324"
+    ],
+    "lat": "51.5644415",
+    "lon": "-9.55182484694117",
+    "display_name": "Skull, L4412, Caherolikane, Dunbeacon, West Cork, County Cork, Munster, Ireland",
+    "class": "boundary",
+    "type": "civil_parish",
+    "importance": 0.101
+  }
+]

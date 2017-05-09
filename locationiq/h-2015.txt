@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "160329518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "406644",
+    "boundingbox": [
+      "70.2801957",
+      "70.9876804",
+      "21.1759264",
+      "22.899466"
+    ],
+    "lat": "70.6328945",
+    "lon": "22.1157639925451",
+    "display_name": "Hasvik, Finnmark, Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160624134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3296382",
+    "boundingbox": [
+      "53.2273379",
+      "53.2290766",
+      "-0.4402225",
+      "-0.4399522"
+    ],
+    "lat": "53.2279309",
+    "lon": "-0.4401222",
+    "display_name": "Sandhill Beckside West, Lincolnshire, East Midlands, England, UK",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.35
+  },
+  {
+    "place_id": "161045341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "-33.901615525017",
+      "-33.901515525017",
+      "151.19817222991",
+      "151.19827222991"
+    ],
+    "lat": "-33.9015655250174",
+    "lon": "151.19822222991",
+    "display_name": "Alexandria, Sydney, NSW, 2015, Australia",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161047826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "23.7568519",
+      "23.7569519",
+      "90.3947402",
+      "90.3948402"
+    ],
+    "lat": "23.7569019",
+    "lon": "90.3947902",
+    "display_name": "Kalabagan, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 2015, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161121100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "43.3194741",
+      "43.3195741",
+      "-1.95237665",
+      "-1.95227665"
+    ],
+    "lat": "43.3195241",
+    "lon": "-1.95232665",
+    "display_name": "Intxaurrondo Zaharra, Donostia/San Sebasti\u00e1n, Donostialdea/Donostia-San Sebasti\u00e1n, Gipuzkoa, Euskadi, 2015, Espa\u00f1a",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161039118",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "40.79833875",
+      "40.79843875",
+      "44.508596075",
+      "44.508696075"
+    ],
+    "lat": "40.79838875",
+    "lon": "44.508646075",
+    "display_name": "\u054e\u0561\u0576\u0561\u0571\u0578\u0580, \u053c\u0578\u057c\u056b, 2015, \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "2646975023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6810744",
+    "boundingbox": [
+      "47.5891295",
+      "47.6981026",
+      "19.0712456",
+      "19.1242383"
+    ],
+    "lat": "47.6432194",
+    "lon": "19.0976370867169",
+    "display_name": "Szigetmonostor, Szentendrei j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2015, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "postal_code",
+    "importance": 0.335,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161245877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "47.679941174003",
+      "47.680041174003",
+      "19.110387159554",
+      "19.110487159554"
+    ],
+    "lat": "47.6799911740025",
+    "lon": "19.110437159554",
+    "display_name": "Szigetmonostor, Szentendrei j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2015, Magyarorsz\u00e1g",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161288357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "56.975766482721",
+      "56.975866482721",
+      "23.80719942764",
+      "23.80729942764"
+    ],
+    "lat": "56.9758164827212",
+    "lon": "23.8072494276398",
+    "display_name": "Majori, J\u016brmala, Vidzeme, 2015, Latvija",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161841244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "36.8383493",
+      "36.8384493",
+      "10.3190151",
+      "10.3191151"
+    ],
+    "lat": "36.8383993",
+    "lon": "10.3190651",
+    "display_name": "\u0627\u0644\u0643\u0631\u0645, \u0643\u0631\u0645 \u0627\u0644\u0634\u0631\u0642\u064a\u0629, Le Kram, \u062a\u0648\u0646\u0633, 2015, \u062a\u0648\u0646\u0633",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  }
+]

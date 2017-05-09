@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "142208331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "346305634",
+    "boundingbox": [
+      "11.6117273",
+      "11.6153121",
+      "79.4651385",
+      "79.4675022"
+    ],
+    "lat": "11.61309105",
+    "lon": "79.4666688968672",
+    "display_name": "PETS, Neyveli Township, South Arcot, Cuddalore district, Tamil Nadu, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "51120356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3816197382",
+    "boundingbox": [
+      "59.7580521",
+      "59.7581521",
+      "9.9931116",
+      "9.9932116"
+    ],
+    "lat": "59.7581021",
+    "lon": "9.9931616",
+    "display_name": "pets, 283, \u00c5sen, Kj\u00f8ya, Nedre Eiker, Buskerud, 3055, Norge",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.111
+  },
+  {
+    "place_id": "13110703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1213563381",
+    "boundingbox": [
+      "43.665525",
+      "43.665625",
+      "-79.3871759",
+      "-79.3870759"
+    ],
+    "lat": "43.665575",
+    "lon": "-79.3871259",
+    "display_name": "Pets, 1001, Bay Street, Yorkville, Old Toronto, Toronto, Ontario, M5S 2S3, Canada",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610146244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4498800236",
+    "boundingbox": [
+      "42.8502848",
+      "42.8503848",
+      "-2.6818983",
+      "-2.6817983"
+    ],
+    "lat": "42.8503348",
+    "lon": "-2.6818483",
+    "display_name": "Pets, Tomas Zumarraga dohatsuaren kalea/Calle Beato Tom\u00e1s de Zum\u00e1rraga, San Mart\u00edn, Vitoria-Gasteiz, Vitoria-Gasteizko Eskualdea / Cuadrilla de Vitoria, Araba/\u00c1lava, Euskadi, 01009, Espa\u00f1a",
+    "class": "amenity",
+    "type": "veterinary",
+    "importance": 0.101
+  }
+]

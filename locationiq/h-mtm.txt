@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "137690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27470826",
+    "boundingbox": [
+      "51.1656512",
+      "51.1756512",
+      "1.3429616",
+      "1.3529616"
+    ],
+    "lat": "51.1706512",
+    "lon": "1.3479616",
+    "display_name": "Martin Mill, Barley Close, Langdon CP, Dover, Kent, South East, England, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.32876858236251,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "110288360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "197599165",
+    "boundingbox": [
+      "44.7110632",
+      "44.7185813",
+      "76.7192412",
+      "76.7250786"
+    ],
+    "lat": "44.71467395",
+    "lon": "76.7228794810719",
+    "display_name": "MTM, \u0411\u0438\u0440\u043b\u0438\u043a, \u0411\u0430\u043b\u0445\u0430\u0448\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043b\u043c\u0430\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 040308, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "114204264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "212740697",
+    "boundingbox": [
+      "58.0758946",
+      "58.0768071",
+      "55.7920673",
+      "55.7930327"
+    ],
+    "lat": "58.07635085",
+    "lon": "55.7925499751877",
+    "display_name": "\u041c\u0422\u041c, \u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0441\u043a\u043e\u0435 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041a\u0440\u0430\u0441\u043d\u043e\u043a\u0430\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0435\u0440\u043c\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 617062, \u0420\u0424",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "86813133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103441636",
+    "boundingbox": [
+      "51.767286",
+      "51.768853",
+      "57.1414607",
+      "57.1443789"
+    ],
+    "lat": "51.7681293",
+    "lon": "57.1429255482937",
+    "display_name": "\u041c\u0422\u041c, \u0418\u0434\u0435\u043b\u044c\u0431\u0430\u043a\u043e\u0432\u043e, \u0417\u0438\u0430\u043d\u0447\u0443\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116898297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224509161",
+    "boundingbox": [
+      "45.2322823",
+      "45.2344582",
+      "40.9680621",
+      "40.9709481"
+    ],
+    "lat": "45.23328715",
+    "lon": "40.9696996343818",
+    "display_name": "\u041c\u0422\u041c, \u0412\u043e\u0441\u0445\u043e\u0434, \u041d\u043e\u0432\u043e\u043a\u0443\u0431\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352213, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108505046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189838996",
+    "boundingbox": [
+      "45.3656862",
+      "45.3677059",
+      "39.6868775",
+      "39.6918846"
+    ],
+    "lat": "45.3666148",
+    "lon": "39.6890505151179",
+    "display_name": "\u041c\u0422\u041c, \u041a\u0438\u0440\u043f\u0438\u043b\u044c\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352307, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144647523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363815894",
+    "boundingbox": [
+      "45.1172385",
+      "45.1191636",
+      "39.8981673",
+      "39.9008255"
+    ],
+    "lat": "45.11815275",
+    "lon": "39.899487621374",
+    "display_name": "\u041c\u0422\u041c, \u041d\u043e\u0432\u043e\u043b\u0430\u0431\u0438\u043d\u0441\u043a\u0430\u044f, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352302, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101322858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161321327",
+    "boundingbox": [
+      "45.2261385",
+      "45.2285007",
+      "39.6817971",
+      "39.6846269"
+    ],
+    "lat": "45.22736495",
+    "lon": "39.6833083781213",
+    "display_name": "\u041c\u0422\u041c, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u043e\u0435 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352330, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124628252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256193781",
+    "boundingbox": [
+      "45.3231116",
+      "45.3257767",
+      "39.6305145",
+      "39.6332305"
+    ],
+    "lat": "45.3244744",
+    "lon": "39.6318061008138",
+    "display_name": "\u041c\u0422\u041c, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352309, \u0420\u0424",
+    "class": "landuse",
+    "type": "garages",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124623707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256169685",
+    "boundingbox": [
+      "45.3004621",
+      "45.3020638",
+      "39.5606016",
+      "39.5633936"
+    ],
+    "lat": "45.3015121",
+    "lon": "39.5619928444909",
+    "display_name": "\u041c\u0422\u041c, \u0416\u0435\u043b\u0435\u0437\u043d\u044b\u0439, \u0423\u0441\u0442\u044c-\u041b\u0430\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 352305, \u0420\u0424",
+    "class": "landuse",
+    "type": "garages",
+    "importance": 0.2
+  }
+]

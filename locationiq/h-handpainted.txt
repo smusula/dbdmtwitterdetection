@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "20228831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2020149046",
+    "boundingbox": [
+      "40.4142376",
+      "40.4143376",
+      "-3.6974995",
+      "-3.6973995"
+    ],
+    "lat": "40.4142876",
+    "lon": "-3.6974495",
+    "display_name": "Lola Fonseca. Handpainted silk., 20, Calle de Cervantes, Barrio Cortes, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28014, Espa\u00f1a",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25752933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2477259631",
+    "boundingbox": [
+      "34.4576824",
+      "34.4577824",
+      "-104.2016792",
+      "-104.2015792"
+    ],
+    "lat": "34.4577324",
+    "lon": "-104.2016292",
+    "display_name": "Dariland Sign (handpainted, disc-shaped), US 60;US 84, La Lande, De Baca County, New Mexico, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

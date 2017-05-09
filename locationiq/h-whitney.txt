@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "130452683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "288749896",
+    "boundingbox": [
+      "40.739445",
+      "40.739821",
+      "-74.0094547",
+      "-74.0084221"
+    ],
+    "lat": "40.73964505",
+    "lon": "-74.0089208502898",
+    "display_name": "The Whitney, 99, Gansevoort Street, Chelsea, Manhattan, New York County, NYC, New York, 10014, United States of America",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.55533220787025,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "160284525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170052",
+    "boundingbox": [
+      "36.070872",
+      "36.135778",
+      "-115.0643319",
+      "-114.9730259"
+    ],
+    "lat": "36.0885321",
+    "lon": "-115.0372129",
+    "display_name": "Whitney, Clark County, Nevada, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47579531509901,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "326197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141027314",
+    "boundingbox": [
+      "38.8135106",
+      "38.8535106",
+      "-121.3268963",
+      "-121.2868963"
+    ],
+    "lat": "38.8335106",
+    "lon": "-121.3068963",
+    "display_name": "Whitney, Placer County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.43266098988735,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "461696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158463034",
+    "boundingbox": [
+      "40.2334039",
+      "40.2734039",
+      "-79.4303141",
+      "-79.3903141"
+    ],
+    "lat": "40.2534039",
+    "lon": "-79.4103141",
+    "display_name": "Whitney, Westmoreland County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "439233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154078479",
+    "boundingbox": [
+      "28.797211",
+      "28.837211",
+      "-81.9570263",
+      "-81.9170263"
+    ],
+    "lat": "28.817211",
+    "lon": "-81.9370263",
+    "display_name": "Whitney, Lake County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "444154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154318199",
+    "boundingbox": [
+      "39.9931272",
+      "40.0331272",
+      "-80.9487044",
+      "-80.9087044"
+    ],
+    "lat": "40.0131272",
+    "lon": "-80.9287044",
+    "display_name": "Whitney, Belmont County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "394809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153435355",
+    "boundingbox": [
+      "45.802185",
+      "45.842185",
+      "-87.4079102",
+      "-87.3679102"
+    ],
+    "lat": "45.822185",
+    "lon": "-87.3879102",
+    "display_name": "Whitney, Menominee County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7210496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "766220884",
+    "boundingbox": [
+      "45.4731252",
+      "45.5131252",
+      "-78.2586364",
+      "-78.2186364"
+    ],
+    "lat": "45.4931252",
+    "lon": "-78.2386364",
+    "display_name": "Whitney, Ontario, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "398194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153727674",
+    "boundingbox": [
+      "33.8478765",
+      "33.8878765",
+      "-86.311368",
+      "-86.271368"
+    ],
+    "lat": "33.8678765",
+    "lon": "-86.291368",
+    "display_name": "Whitney, St. Clair County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "431513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153974787",
+    "boundingbox": [
+      "33.702338",
+      "33.742338",
+      "-83.7318409",
+      "-83.6918409"
+    ],
+    "lat": "33.722338",
+    "lon": "-83.7118409",
+    "display_name": "Whitney, Walton County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

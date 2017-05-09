@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "352296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151516056",
+    "boundingbox": [
+      "36.5939461",
+      "36.6339461",
+      "-90.5853919",
+      "-90.5453919"
+    ],
+    "lat": "36.6139461",
+    "lon": "-90.5653919",
+    "display_name": "Parks, Butler County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "328530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150961458",
+    "boundingbox": [
+      "35.2405602",
+      "35.2805602",
+      "-111.9687802",
+      "-111.9287802"
+    ],
+    "lat": "35.2605602",
+    "lon": "-111.9487802",
+    "display_name": "Parks, Coconino County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "379240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151799120",
+    "boundingbox": [
+      "30.2015855",
+      "30.2415855",
+      "-91.3367756",
+      "-91.2967756"
+    ],
+    "lat": "30.2215855",
+    "lon": "-91.3167756",
+    "display_name": "The Parks, Iberville Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "378943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153380658",
+    "boundingbox": [
+      "34.4706567",
+      "34.5106567",
+      "-88.8958932",
+      "-88.8558932"
+    ],
+    "lat": "34.4906567",
+    "lon": "-88.8758932",
+    "display_name": "Parks, Union County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6357447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "661184544",
+    "boundingbox": [
+      "52.0913436",
+      "52.1113436",
+      "-1.9368198",
+      "-1.9168198"
+    ],
+    "lat": "52.1013436",
+    "lon": "-1.9268198",
+    "display_name": "The Parks, Wychavon, Worcestershire, West Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160981388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6104381",
+    "boundingbox": [
+      "53.7316318",
+      "53.7480035",
+      "-9.2178602",
+      "-9.1854523"
+    ],
+    "lat": "53.73970185",
+    "lon": "-9.20571340954247",
+    "display_name": "Parks, Rosslee ED, Castlebar, County Mayo, Connacht, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "337687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150937136",
+    "boundingbox": [
+      "41.1232819",
+      "41.1432819",
+      "-112.0555107",
+      "-112.0355107"
+    ],
+    "lat": "41.1332819",
+    "lon": "-112.0455107",
+    "display_name": "Parks, Clinton, Davis County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160808178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4816962",
+    "boundingbox": [
+      "52.6858682",
+      "52.692752",
+      "-7.517953",
+      "-7.5078045"
+    ],
+    "lat": "52.6893725",
+    "lon": "-7.51314611643693",
+    "display_name": "Parks, Tubbridbrittain, Castlecomer Municipal District, County Kilkenny, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160272300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "131918",
+    "boundingbox": [
+      "30.204721",
+      "30.227869",
+      "-91.8377449",
+      "-91.8198829"
+    ],
+    "lat": "30.2143661",
+    "lon": "-91.8320599",
+    "display_name": "Parks, St. Martin Parish, Louisiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.32830612824767,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "159940112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "445848453",
+    "boundingbox": [
+      "47.4036426",
+      "47.4076999",
+      "-122.2796793",
+      "-122.2737489"
+    ],
+    "lat": "47.40580285",
+    "lon": "-122.276886024405",
+    "display_name": "The Parks, Kent, King County, Washington, 98188, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

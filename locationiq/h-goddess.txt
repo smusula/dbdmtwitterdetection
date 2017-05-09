@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "63522580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14317821",
+    "boundingbox": [
+      "36.12677",
+      "36.126773",
+      "-115.2867889",
+      "-115.2861129"
+    ],
+    "lat": "36.126773",
+    "lon": "-115.2867889",
+    "display_name": "Goddess, Spring Valley, Clark County, Nevada, 89117, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "50638415",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3779901398",
+    "boundingbox": [
+      "34.0833022",
+      "34.0834022",
+      "-118.3466289",
+      "-118.3465289"
+    ],
+    "lat": "34.0833522",
+    "lon": "-118.3465789",
+    "display_name": "Goddess, Melrose Avenue, Park La Brea, Hollywood, LA, Los Angeles County, California, 90069, United States of America",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "56888406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4433011991",
+    "boundingbox": [
+      "17.4115415",
+      "17.4116415",
+      "78.489204",
+      "78.489304"
+    ],
+    "lat": "17.4115915",
+    "lon": "78.489254",
+    "display_name": "Goddess, Hebron Church Road, Jawahar Nagar, Hyderabad, Medak, Telangana, 500001, India",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "73192009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34667708",
+    "boundingbox": [
+      "51.9975993",
+      "52.0128021",
+      "4.3238546",
+      "4.3291689"
+    ],
+    "lat": "52.0059122",
+    "lon": "4.326724",
+    "display_name": "Look, Midden-Delfland, MRDH, Zuid-Holland, Nederland",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "211470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "45996276",
+    "boundingbox": [
+      "52.2590326",
+      "52.2990326",
+      "6.4275555",
+      "6.4675555"
+    ],
+    "lat": "52.2790326",
+    "lon": "6.4475555",
+    "display_name": "Look, Regio Twente, Overijssel, Nederland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26852369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2528663709",
+    "boundingbox": [
+      "11.0401",
+      "11.0801",
+      "124.3659",
+      "124.4059"
+    ],
+    "lat": "11.0601",
+    "lon": "124.3859",
+    "display_name": "Look, Palompon, Leyte 4th District, Leyte, Eastern Visayas, 6538, Philippines",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "97074743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143118045",
+    "boundingbox": [
+      "-31.9359888",
+      "-31.9355452",
+      "115.8904895",
+      "115.8910146"
+    ],
+    "lat": "-31.9355452",
+    "lon": "115.8910146",
+    "display_name": "The Look, Maylands, Perth, Western Australia, WA 6051, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58530990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6662051",
+    "boundingbox": [
+      "52.3289645",
+      "52.3297343",
+      "6.9216424",
+      "6.9220365"
+    ],
+    "lat": "52.3289645",
+    "lon": "6.9220365",
+    "display_name": "Look, Oldenzaal, Regio Twente, Overijssel, Nederland, 7577GC, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58377464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6661856",
+    "boundingbox": [
+      "52.3291216",
+      "52.3298693",
+      "6.9225134",
+      "6.9244125"
+    ],
+    "lat": "52.32971",
+    "lon": "6.92403",
+    "display_name": "Look, Oldenzaal, Regio Twente, Overijssel, Nederland, 7577GJ, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58530893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6661853",
+    "boundingbox": [
+      "52.3288192",
+      "52.3297822",
+      "6.9207697",
+      "6.9216424"
+    ],
+    "lat": "52.3291169",
+    "lon": "6.9210193",
+    "display_name": "Look, Oldenzaal, Regio Twente, Overijssel, Nederland, 7577GL, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58302089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6661962",
+    "boundingbox": [
+      "52.3290905",
+      "52.3298803",
+      "6.9216424",
+      "6.9228776"
+    ],
+    "lat": "52.32979",
+    "lon": "6.92255",
+    "display_name": "Look, Oldenzaal, Regio Twente, Overijssel, Nederland, 7577GK, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58797224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7014941",
+    "boundingbox": [
+      "52.30006",
+      "52.3000824",
+      "5.2530086",
+      "5.25385"
+    ],
+    "lat": "52.30008",
+    "lon": "5.25327",
+    "display_name": "Look, Huizermaat West, Huizen, MRA, Noord-Holland, Nederland, 1273CT, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59002415",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7014957",
+    "boundingbox": [
+      "52.3003491",
+      "52.30047",
+      "5.25104",
+      "5.2514708"
+    ],
+    "lat": "52.3003491",
+    "lon": "5.2514708",
+    "display_name": "Look, Huizermaat West, Huizen, MRA, Noord-Holland, Nederland, 1273CS, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  }
+]

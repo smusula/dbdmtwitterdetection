@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "17111408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1617873080",
+    "boundingbox": [
+      "53.7065783",
+      "53.7066783",
+      "-1.6743009",
+      "-1.6742009"
+    ],
+    "lat": "53.7066283",
+    "lon": "-1.6742509",
+    "display_name": "Photoshoot Love Photography, Oldfield Lane, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "shop",
+    "type": "photo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50581440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3756850708",
+    "boundingbox": [
+      "39.363159",
+      "39.363259",
+      "22.9609677",
+      "22.9610677"
+    ],
+    "lat": "39.363209",
+    "lon": "22.9610177",
+    "display_name": "Photoshoot.gr, 110, \u039d\u03b9\u03ba\u03bf\u03c4\u03c3\u03ac\u03c1\u03b1, \u0392\u03cc\u03bb\u03bf\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u0392\u03cc\u03bb\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039c\u03b1\u03b3\u03bd\u03b7\u03c3\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, 38222, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  }
+]

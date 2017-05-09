@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "41741594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3026017635",
+    "boundingbox": [
+      "6.8742943",
+      "6.9142943",
+      "-9.0772251",
+      "-9.0372251"
+    ],
+    "lat": "6.8942943",
+    "lon": "-9.0572251",
+    "display_name": "Wepa, Meinpea-Mahn, Nimba County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18869965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1834663597",
+    "boundingbox": [
+      "51.4097519",
+      "51.4098519",
+      "7.99068",
+      "7.99078"
+    ],
+    "lat": "51.4098019",
+    "lon": "7.99073",
+    "display_name": "WEPA, R\u00f6nkhauser Stra\u00dfe, Wicheln, Arnsberg, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59757, Deutschland",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.2901800738083
+  },
+  {
+    "place_id": "4506143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "475877755",
+    "boundingbox": [
+      "50.0293948",
+      "50.0294948",
+      "8.2318865",
+      "8.2319865"
+    ],
+    "lat": "50.0294448",
+    "lon": "8.2319365",
+    "display_name": "Wepa, Ga\u00dfnerallee, Neustadt, Mainz, Rheinland-Pfalz, 55120, Deutschland",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  }
+]

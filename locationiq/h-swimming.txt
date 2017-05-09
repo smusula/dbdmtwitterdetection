@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "70066266",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26470372",
+    "boundingbox": [
+      "14.5782386",
+      "14.5815974",
+      "121.1243431",
+      "121.125162"
+    ],
+    "lat": "14.5796508",
+    "lon": "121.124666",
+    "display_name": "Swimming, St. Francis Subd., San Juan, Cainta, Rizal, Calabarzon, 1900, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146306158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371404646",
+    "boundingbox": [
+      "41.8708935",
+      "41.8710845",
+      "-87.7879338",
+      "-87.787344"
+    ],
+    "lat": "41.870989",
+    "lon": "-87.7876389",
+    "display_name": "swimming, South Garfield Street, Edmund F Burton Row Houses, Oak Park, Cook County, Illinois, 60304, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "54664488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4223661199",
+    "boundingbox": [
+      "50.6508192",
+      "50.6509192",
+      "-1.1620099",
+      "-1.1619099"
+    ],
+    "lat": "50.6508692",
+    "lon": "-1.1619599",
+    "display_name": "swimming, Lake Hill, Lake, Isle of Wight, South East, England, PO36 9HE, UK",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "112972715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "208046762",
+    "boundingbox": [
+      "-33.9303815",
+      "-33.9301407",
+      "18.3995501",
+      "18.3998173"
+    ],
+    "lat": "-33.9302611",
+    "lon": "18.3996837",
+    "display_name": "Swimming, Upper Albert Road, Tamboerskloof, Cape Town, City of Cape Town, Western Cape, 8001, South Africa",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "44866094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3202694743",
+    "boundingbox": [
+      "30.5190991",
+      "30.5191991",
+      "-84.249269",
+      "-84.249169"
+    ],
+    "lat": "30.5191491",
+    "lon": "-84.249219",
+    "display_name": "Swimming, Maclay St Pk Access Road, Tallahassee, Leon County, Florida, 32312, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "45184367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3212024934",
+    "boundingbox": [
+      "28.0309664",
+      "28.0310664",
+      "-82.823852",
+      "-82.823752"
+    ],
+    "lat": "28.0310164",
+    "lon": "-82.823802",
+    "display_name": "Swimming, Mandalay Point Road, Clearwater, Pinellas County, Florida, 33767, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "10750094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "983298757",
+    "boundingbox": [
+      "61.3349929",
+      "61.3350929",
+      "23.7682989",
+      "23.7683989"
+    ],
+    "lat": "61.3350429",
+    "lon": "23.7683489",
+    "display_name": "Swimming, Kalkkunapolku, Hakkari, Lemp\u00e4\u00e4l\u00e4, Tampereen seutukunta, Pirkanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, 37501, Suomi",
+    "class": "tourism",
+    "type": "Swimming",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45185093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3212106948",
+    "boundingbox": [
+      "26.6884298",
+      "26.6885298",
+      "-82.2584404",
+      "-82.2583404"
+    ],
+    "lat": "26.6884798",
+    "lon": "-82.2583904",
+    "display_name": "Swimming, Campsite Cabin Loop, Port Boca Grande, Lee County, Florida, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "45147511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3208639274",
+    "boundingbox": [
+      "28.945142",
+      "28.945242",
+      "-81.3392171",
+      "-81.3391171"
+    ],
+    "lat": "28.945192",
+    "lon": "-81.3391671",
+    "display_name": "Swimming, Blue Springs Landing, Volusia County, Florida, 32763, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "53667461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4108076935",
+    "boundingbox": [
+      "45.8305209",
+      "45.8306209",
+      "-74.2063822",
+      "-74.2062822"
+    ],
+    "lat": "45.8305709",
+    "lon": "-74.2063322",
+    "display_name": "Swimming, Chemin Tamaracouta, Mille-Isles, Qu\u00e9bec, Canada",
+    "class": "leisure",
+    "type": "swimming",
+    "importance": 0.101
+  }
+]

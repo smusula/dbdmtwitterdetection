@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "446070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154317583",
+    "boundingbox": [
+      "31.2018523",
+      "31.2418523",
+      "-83.7412845",
+      "-83.7012845"
+    ],
+    "lat": "31.2218523",
+    "lon": "-83.7212845",
+    "display_name": "Barbers, Colquitt County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "334054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150938173",
+    "boundingbox": [
+      "40.6664499",
+      "40.6864499",
+      "-111.9500152",
+      "-111.9300152"
+    ],
+    "lat": "40.6764499",
+    "lon": "-111.9400152",
+    "display_name": "Barbers, Taylorsville, Salt Lake County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "62404643",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12968723",
+    "boundingbox": [
+      "35.2580034",
+      "35.2596275",
+      "-91.1927496",
+      "-91.1927404"
+    ],
+    "lat": "35.2580034",
+    "lon": "-91.1927404",
+    "display_name": "Barbers, McCrory, Woodruff County, Arkansas, 72101, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "13032375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1234947697",
+    "boundingbox": [
+      "55.9707574",
+      "55.9708574",
+      "-3.2089642",
+      "-3.2088642"
+    ],
+    "lat": "55.9708074",
+    "lon": "-3.2089142",
+    "display_name": "Barbers, 60B, Inverleith Row, Goldenacre, Inverleith, Edinburgh, City of Edinburgh, Scotland, EH3 5PX, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "56962080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4437835589",
+    "boundingbox": [
+      "54.677958",
+      "54.678058",
+      "25.2915711",
+      "25.2916711"
+    ],
+    "lat": "54.678008",
+    "lon": "25.2916211",
+    "display_name": "Barbers, 19, Bok\u0161to g., Senamies\u010dio seni\u016bnija, Vilnius, Vilniaus miesto savivaldyb\u0117, Vilniaus apskritis, 01126, Lietuva",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136317501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316032176",
+    "boundingbox": [
+      "45.4640641",
+      "45.4642347",
+      "-122.6526925",
+      "-122.6525923"
+    ],
+    "lat": "45.4641494",
+    "lon": "-122.6526424",
+    "display_name": "The Barbers, 8112, Southeast 13th Avenue, Sellwood, Portland, Multnomah County, Oregon, 97202, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "83774073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89960150",
+    "boundingbox": [
+      "52.5574701",
+      "52.557582",
+      "-1.8231187",
+      "-1.8229612"
+    ],
+    "lat": "52.5575369",
+    "lon": "-1.82303354957928",
+    "display_name": "Barbers, 12, Coles Lane, Sutton Coldfield, Maney, Birmingham, West Midlands, England, B72 1NE, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "98842408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151310735",
+    "boundingbox": [
+      "51.8549436",
+      "51.8549895",
+      "0.9589225",
+      "0.9590228"
+    ],
+    "lat": "51.8549673",
+    "lon": "0.958972651462427",
+    "display_name": "The Barbers, 6, High Street, Wivenhoe CP, Colchester, Essex, East of England, England, CO7 9BE, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "13228673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1238783588",
+    "boundingbox": [
+      "51.894728",
+      "51.894828",
+      "0.9277368",
+      "0.9278368"
+    ],
+    "lat": "51.894778",
+    "lon": "0.9277868",
+    "display_name": "The Barbers, Harwich Road, Hythe, Colchester, Essex, East of England, England, CO4 3DF, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "50032981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3727911841",
+    "boundingbox": [
+      "54.2114472",
+      "54.2115472",
+      "-0.2897349",
+      "-0.2896349"
+    ],
+    "lat": "54.2114972",
+    "lon": "-0.2896849",
+    "display_name": "The Barbers, Mitford Street, Filey, Old Town, Scarborough, North Yorkshire, Yorkshire and the Humber, England, YO14 9DX, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

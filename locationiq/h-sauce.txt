@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "50101909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3715423767",
+    "boundingbox": [
+      "13.5088381",
+      "13.8288381",
+      "-87.9586214",
+      "-87.6386214"
+    ],
+    "lat": "13.6688381",
+    "lon": "-87.7986214",
+    "display_name": "El Sauce, Departamento de La Uni\u00f3n, El Salvador",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "126075005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262795597",
+    "boundingbox": [
+      "-34.5665495",
+      "-34.555354",
+      "-56.9830314",
+      "-56.953588"
+    ],
+    "lat": "-34.5628496",
+    "lon": "-56.9691914",
+    "display_name": "Sauce, San Jos\u00e9, Uruguay",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "126086104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262795598",
+    "boundingbox": [
+      "-34.5570278",
+      "-34.5541798",
+      "-57.0039006",
+      "-56.9830314"
+    ],
+    "lat": "-34.5549207",
+    "lon": "-56.9931082",
+    "display_name": "Sauce, San Jos\u00e9, Uruguay",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "126095293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262795599",
+    "boundingbox": [
+      "-34.5656912",
+      "-34.5456726",
+      "-56.953588",
+      "-56.9239089"
+    ],
+    "lat": "-34.5602334",
+    "lon": "-56.9371374",
+    "display_name": "Sauce, San Jos\u00e9, Uruguay",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "115849796",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220386040",
+    "boundingbox": [
+      "-33.1947837",
+      "-33.1748483",
+      "-57.1746131",
+      "-57.1253422"
+    ],
+    "lat": "-33.1843101",
+    "lon": "-57.1428576",
+    "display_name": "Sauce, Flores, Uruguay",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "97698708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145524385",
+    "boundingbox": [
+      "-34.4272059",
+      "-34.2548865",
+      "-57.5274621",
+      "-57.4668949"
+    ],
+    "lat": "-34.3640511",
+    "lon": "-57.5137443",
+    "display_name": "Sauce, Colonia, Uruguay",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121269903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242230830",
+    "boundingbox": [
+      "-33.3390014",
+      "-33.311596",
+      "-54.6100299",
+      "-54.6045137"
+    ],
+    "lat": "-33.3249672",
+    "lon": "-54.6087685",
+    "display_name": "Sauce, Treinta y Tres, Uruguay",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "115753417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220384506",
+    "boundingbox": [
+      "-33.2033386",
+      "-33.1947837",
+      "-57.1255818",
+      "-57.122241"
+    ],
+    "lat": "-33.1987545",
+    "lon": "-57.1236347",
+    "display_name": "Sauce, Flores, Uruguay",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "150284228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391420272",
+    "boundingbox": [
+      "-34.2640786",
+      "-34.2565794",
+      "-56.3007109",
+      "-56.2644673"
+    ],
+    "lat": "-34.2611768",
+    "lon": "-56.2816856",
+    "display_name": "Sauce, Florida, Uruguay",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "9389820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "948549214",
+    "boundingbox": [
+      "42.2774764",
+      "42.2775764",
+      "-3.4657872",
+      "-3.4656872"
+    ],
+    "lat": "42.2775264",
+    "lon": "-3.4657372",
+    "display_name": "Sauce, San Adri\u00e1n de Juarros, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

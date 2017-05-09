@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "16563012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1528662818",
+    "boundingbox": [
+      "48.861293",
+      "48.861393",
+      "2.348701",
+      "2.348801"
+    ],
+    "lat": "48.861343",
+    "lon": "2.348751",
+    "display_name": "Dogs, Rue de la Cossonnerie, Les Halles, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "5168220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "590885191",
+    "boundingbox": [
+      "55.9544714",
+      "55.9545714",
+      "-3.198154",
+      "-3.198054"
+    ],
+    "lat": "55.9545214",
+    "lon": "-3.198104",
+    "display_name": "the dogs, 110, Hanover Street, Bellevue, New Town, Edinburgh, City of Edinburgh, Scotland, EH2 1EL, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55627693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4324585421",
+    "boundingbox": [
+      "29.7606285",
+      "29.7607285",
+      "-95.3719769",
+      "-95.3718769"
+    ],
+    "lat": "29.7606785",
+    "lon": "-95.3719269",
+    "display_name": "Dogs, 1000, Bagby Street, Houston, Harris County, Texas, 77002, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2609246428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154325721",
+    "boundingbox": [
+      "53.7111855",
+      "53.7113887",
+      "-1.5389681",
+      "-1.5385434"
+    ],
+    "lat": "53.7112828",
+    "lon": "-1.53874735885977",
+    "display_name": "Dogs, M1, Leeds, Yorkshire and the Humber, England, WF2 0QD, UK",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "2651515079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4481864726",
+    "boundingbox": [
+      "31.9936912",
+      "31.9937912",
+      "-102.092294",
+      "-102.092194"
+    ],
+    "lat": "31.9937412",
+    "lon": "-102.092244",
+    "display_name": "Dogs, West Missouri Avenue, West End, Midland, Midland County, Texas, 79701, United States of America",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "7300712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "801706939",
+    "boundingbox": [
+      "43.5765485",
+      "43.5766485",
+      "39.7282919",
+      "39.7283919"
+    ],
+    "lat": "43.5765985",
+    "lon": "39.7283419",
+    "display_name": "\u0421\u043e\u0431\u0430\u043a\u0438, \u041a\u0443\u0440\u043e\u0440\u0442\u043d\u044b\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u043e\u0447\u0438, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u043e\u0447\u0438, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 354000, \u0420\u0424",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "160547364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2609869",
+    "boundingbox": [
+      "37.5511961",
+      "37.560954",
+      "8.9474245",
+      "8.9583611"
+    ],
+    "lat": "37.55798545",
+    "lon": "8.95627977988786",
+    "display_name": "Galitons de l'Est, \u0628\u0646\u0632\u0631\u062a, \u062a\u0648\u0646\u0633",
+    "class": "place",
+    "type": "archipelago",
+    "importance": 0.001
+  }
+]

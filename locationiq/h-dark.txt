@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "119403053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234058724",
+    "boundingbox": [
+      "41.2465412",
+      "41.2480821",
+      "-76.0482819",
+      "-76.0461689"
+    ],
+    "lat": "41.247093",
+    "lon": "-76.0472363",
+    "display_name": "Dark, Hughs, Luzerne County, Pennsylvania, 18634, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2648741338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4606474791",
+    "boundingbox": [
+      "-15.8079918",
+      "-15.8078918",
+      "-47.8966639",
+      "-47.8965639"
+    ],
+    "lat": "-15.8079418",
+    "lon": "-47.8966139",
+    "display_name": "The Dark, CLS 304/305, SQS 105, Asa Sul, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70330-400, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "27525731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2598509596",
+    "boundingbox": [
+      "18.7830782",
+      "18.7831782",
+      "98.9919564",
+      "98.9920564"
+    ],
+    "lat": "18.7831282",
+    "lon": "98.9920064",
+    "display_name": "The Dark, \u0e16\u0e19\u0e19\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e0b\u0e2d\u0e22 1, \u0e0a\u0e38\u0e21\u0e0a\u0e19\u0e1f\u0e49\u0e32\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e02\u0e15\u0e54, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 7100, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "83676008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89481391",
+    "boundingbox": [
+      "59.3132236",
+      "59.3230341",
+      "63.4771173",
+      "63.487932"
+    ],
+    "lat": "59.31817305",
+    "lon": "63.4820361246046",
+    "display_name": "\u043e\u0437\u0435\u0440\u043e \u0422\u0435\u043c\u043d\u043e\u0435, \u041a\u0430\u0440\u0433\u0430\u0435\u0432\u0430, \u0413\u0430\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.001
+  }
+]

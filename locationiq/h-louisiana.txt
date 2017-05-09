@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160298319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "224922",
+    "boundingbox": [
+      "28.855127",
+      "33.0194557",
+      "-94.0431469",
+      "-88.7583879"
+    ],
+    "lat": "30.8703881",
+    "lon": "-92.0071259",
+    "display_name": "Louisiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.81544666601754,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160276510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "141368",
+    "boundingbox": [
+      "39.413488",
+      "39.459605",
+      "-91.0951189",
+      "-91.0276029"
+    ],
+    "lat": "39.4492151",
+    "lon": "-91.0465741",
+    "display_name": "Louisiana, Pike County, Missouri, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.39741955987991,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "158323607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "436227052",
+    "boundingbox": [
+      "55.9683102",
+      "55.9702086",
+      "12.5414224",
+      "12.5446163"
+    ],
+    "lat": "55.9693025",
+    "lon": "12.5431692294579",
+    "display_name": "Louisiana Museum of Modern Art, 13, Gammel Strandvej, Krogerup, Fredensborg Kommune, Region Hovedstaden, 3050, Danmark",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "23879338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2347295707",
+    "boundingbox": [
+      "49.8242187",
+      "49.8642187",
+      "14.3690367",
+      "14.4090367"
+    ],
+    "lat": "49.8442187",
+    "lon": "14.3890367",
+    "display_name": "Louisiana, okres Praha-z\u00e1pad, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, \u010cesko",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651280130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4666156669",
+    "boundingbox": [
+      "25.7834132",
+      "25.8234132",
+      "-109.0838907",
+      "-109.0438907"
+    ],
+    "lat": "25.8034132",
+    "lon": "-109.0638907",
+    "display_name": "Louisiana, Ahome, Sinaloa, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26575447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2524356074",
+    "boundingbox": [
+      "5.01285",
+      "5.05285",
+      "-9.0392599",
+      "-8.9992599"
+    ],
+    "lat": "5.03285",
+    "lon": "-9.0192599",
+    "display_name": "Louisiana, Greenville, Sinoe County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41728639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037075518",
+    "boundingbox": [
+      "6.4139307",
+      "6.4539307",
+      "-10.7242727",
+      "-10.6842727"
+    ],
+    "lat": "6.4339307",
+    "lon": "-10.7042727",
+    "display_name": "Louisiana Fendel, Commonwealth, Montserrado County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46292540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3280763751",
+    "boundingbox": [
+      "10.112587",
+      "10.152587",
+      "-83.5484378",
+      "-83.5084378"
+    ],
+    "lat": "10.132587",
+    "lon": "-83.5284378",
+    "display_name": "Louisiana, Cant\u00f3n Siquirres, Provincia Lim\u00f3n, Costa Rica",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "80568228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "69544643",
+    "boundingbox": [
+      "4.6437601",
+      "4.6441184",
+      "-74.1029321",
+      "-74.1025631"
+    ],
+    "lat": "4.64393925",
+    "lon": "-74.1027476",
+    "display_name": "Louisiana, Teusaquillo, Bogot\u00e1, 11001000, Colombia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "25572135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2465069206",
+    "boundingbox": [
+      "54.4042986",
+      "54.4242986",
+      "21.688618",
+      "21.708618"
+    ],
+    "lat": "54.4142986",
+    "lon": "21.698618",
+    "display_name": "\u041c\u0430\u043b\u043e\u0435 \u0411\u0435\u043b\u0430\u0431\u0438\u043d\u043e, \u0410\u0431\u0435\u043b\u0438\u043d\u043e, \u041e\u0437\u0451\u0440\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

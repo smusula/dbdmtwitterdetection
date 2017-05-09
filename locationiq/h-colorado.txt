@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160284082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "161961",
+    "boundingbox": [
+      "36.992426",
+      "41.0034002",
+      "-109.0601878",
+      "-102.0415849"
+    ],
+    "lat": "38.7251776",
+    "lon": "-105.6077166",
+    "display_name": "Colorado, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.81684400394572,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160453316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1837771",
+    "boundingbox": [
+      "29.246952",
+      "29.956831",
+      "-96.8734279",
+      "-96.1750489"
+    ],
+    "lat": "29.6099609",
+    "lon": "-96.5478825",
+    "display_name": "Colorado County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45325924560389,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160877641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5700871",
+    "boundingbox": [
+      "10.2837866",
+      "10.9398513",
+      "-83.8445161",
+      "-83.341891"
+    ],
+    "lat": "10.6113331",
+    "lon": "-83.6876211229502",
+    "display_name": "Colorado, Cant\u00f3n Pococ\u00ed, Provincia Lim\u00f3n, 70206, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160968016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6289989",
+    "boundingbox": [
+      "10.1436782",
+      "10.282834",
+      "-85.2251766",
+      "-85.0260435"
+    ],
+    "lat": "10.1849943",
+    "lon": "-85.1084203",
+    "display_name": "Colorado, Cant\u00f3n Abangares, Provincia Guanacaste, 50704, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2650158824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469468851",
+    "boundingbox": [
+      "-28.3369111",
+      "-28.3337836",
+      "-52.8503894",
+      "-52.8487083"
+    ],
+    "lat": "-28.3356587",
+    "lon": "-52.8494299",
+    "display_name": "Colorado, Carazinho, Microrregi\u00e3o de Carazinho, Mesorregi\u00e3o Noroeste Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "148507912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381893157",
+    "boundingbox": [
+      "21.5693818",
+      "21.5751673",
+      "-104.9600395",
+      "-104.9397946"
+    ],
+    "lat": "21.5738118",
+    "lon": "-104.9484672",
+    "display_name": "El Colorado, Tepic, Nayarit, M\u00e9xico",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "134090644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305970665",
+    "boundingbox": [
+      "-31.7375373",
+      "-31.7355044",
+      "-60.5002646",
+      "-60.4992197"
+    ],
+    "lat": "-31.7367412",
+    "lon": "-60.5000915",
+    "display_name": "Colorado, Paran\u00e1, Municipio de Paran\u00e1, Distrito Sauce, Departamento Paran\u00e1, ER., Argentina",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "98373921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148998807",
+    "boundingbox": [
+      "-35.2175543",
+      "-35.2174778",
+      "-59.7959026",
+      "-59.7957272"
+    ],
+    "lat": "-35.2174778",
+    "lon": "-59.7957272",
+    "display_name": "El Colorado, Partido de Veinticinco de Mayo, Bs. As., Argentina",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "145642417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368775906",
+    "boundingbox": [
+      "20.1735473",
+      "20.2476662",
+      "-97.4336244",
+      "-97.3232395"
+    ],
+    "lat": "20.2171392",
+    "lon": "-97.3828635",
+    "display_name": "El Colorado, Tenampulco, Puebla, M\u00e9xico",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "146295076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371372816",
+    "boundingbox": [
+      "20.0284966",
+      "20.040544",
+      "-97.3525972",
+      "-97.3447879"
+    ],
+    "lat": "20.0338271",
+    "lon": "-97.3491024",
+    "display_name": "EL COLORADO, Hueytamalco, Puebla, M\u00e9xico",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "22660530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2249900377",
+    "boundingbox": [
+      "48.1539383",
+      "48.1939383",
+      "12.6563986",
+      "12.6963986"
+    ],
+    "lat": "48.1739383",
+    "lon": "12.6763986",
+    "display_name": "Graf, Unterneukirchen (VGem), Landkreis Alt\u00f6tting, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "141693776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "342541308",
+    "boundingbox": [
+      "47.1384659",
+      "47.1400941",
+      "10.5294998",
+      "10.5345584"
+    ],
+    "lat": "47.13919",
+    "lon": "10.5314793044013",
+    "display_name": "Graf, Landeck, Tirol, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17087693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1614520220",
+    "boundingbox": [
+      "47.1195746",
+      "47.1595746",
+      "10.5159943",
+      "10.5559943"
+    ],
+    "lat": "47.1395746",
+    "lon": "10.5359943",
+    "display_name": "Graf, Landeck, Tirol, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160276361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "128817",
+    "boundingbox": [
+      "42.491103",
+      "42.497083",
+      "-90.8780889",
+      "-90.8676969"
+    ],
+    "lat": "42.4930565",
+    "lon": "-90.8712405",
+    "display_name": "Graf, Dubuque County, Iowa, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.35552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "48690806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3612483631",
+    "boundingbox": [
+      "46.7442681",
+      "46.7443681",
+      "15.487527",
+      "15.487627"
+    ],
+    "lat": "46.7443181",
+    "lon": "15.487577",
+    "display_name": "Graf, Heimschuh, Leibnitz, Steiermark, 8451, \u00d6sterreich",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "107993025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187294358",
+    "boundingbox": [
+      "47.4270783",
+      "47.4283873",
+      "14.5356715",
+      "14.5370972"
+    ],
+    "lat": "47.42777475",
+    "lon": "14.5362817859694",
+    "display_name": "Graf, Hohentauern, Murtal, Steiermark, 8785, \u00d6sterreich",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "108337379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188896190",
+    "boundingbox": [
+      "47.3142117",
+      "47.3157592",
+      "14.4864493",
+      "14.4888123"
+    ],
+    "lat": "47.3149347",
+    "lon": "14.4875410279432",
+    "display_name": "Graf, D\u00fcrrer, P\u00f6lstal, Murtal, Steiermark, 8763, \u00d6sterreich",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "84659856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93606963",
+    "boundingbox": [
+      "47.3945572",
+      "47.3956824",
+      "15.9350205",
+      "15.9360858"
+    ],
+    "lat": "47.39509785",
+    "lon": "15.9354913222028",
+    "display_name": "Graf, Rohrbach an der Lafnitz, Bezirk Hartberg-F\u00fcrstenfeld, Steiermark, 8234, \u00d6sterreich",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "12966706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1222651480",
+    "boundingbox": [
+      "15.384049",
+      "15.424049",
+      "44.190355",
+      "44.230355"
+    ],
+    "lat": "15.404049",
+    "lon": "44.210355",
+    "display_name": "\u0627\u0644\u062c\u0631\u0627\u0641, \u0642\u0636\u0627\u0621 \u0635\u0646\u0639\u0627\u0621, San\u02bfa\u02be, \u0627\u0644\u064a\u0645\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98588096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149932777",
+    "boundingbox": [
+      "47.1390849",
+      "47.1394469",
+      "10.532878",
+      "10.5331209"
+    ],
+    "lat": "47.1392396",
+    "lon": "10.5330257",
+    "display_name": "Graf, Landeck, Tirol, 6591, \u00d6sterreich",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

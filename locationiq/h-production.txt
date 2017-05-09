@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "75015572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39421257",
+    "boundingbox": [
+      "34.1558413",
+      "34.1564404",
+      "-118.3244822",
+      "-118.3241829"
+    ],
+    "lat": "34.15600015",
+    "lon": "-118.324320693409",
+    "display_name": "Production, Donald Avenue, Burbank, Los Angeles County, California, 91506, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107024136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182913888",
+    "boundingbox": [
+      "43.6147984",
+      "43.6150571",
+      "7.0758419",
+      "7.0762314"
+    ],
+    "lat": "43.61492775",
+    "lon": "7.07603664613053",
+    "display_name": "Production, Route des Colles, Saint-Philippe, Biot, Grasse, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06410, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "78172076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53628551",
+    "boundingbox": [
+      "10.6798015",
+      "10.6803291",
+      "122.9548349",
+      "122.9553551"
+    ],
+    "lat": "10.68006345",
+    "lon": "122.955093067439",
+    "display_name": "Production, 16th St, Bacolod, Negros Occidental, Negros Island Region, 6100, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "117490164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226940965",
+    "boundingbox": [
+      "-0.8466461",
+      "-0.8459298",
+      "122.1779199",
+      "122.1786977"
+    ],
+    "lat": "-0.8462921",
+    "lon": "122.178308597849",
+    "display_name": "Production, Trans Sulawesi, Bunta, Banggai, Sulawesi Tengah, Indonesia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "71761395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30829151",
+    "boundingbox": [
+      "51.0113819",
+      "51.0156277",
+      "6.9590651",
+      "6.9675983"
+    ],
+    "lat": "51.013625",
+    "lon": "6.96332043867693",
+    "display_name": "Fertigung Y.Halle, Nordstra\u00dfe, Ford-Werke GmbH K\u00f6ln-Niehl, Niehl, Nippes, Merkenich, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50735, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

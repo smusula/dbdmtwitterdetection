@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160267292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "122604",
+    "boundingbox": [
+      "41.643919",
+      "42.0230219",
+      "-87.9401009",
+      "-87.523984"
+    ],
+    "lat": "41.8755546",
+    "lon": "-87.6244211",
+    "display_name": "Chicago, Cook County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.88264761048889,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "80420391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68045740",
+    "boundingbox": [
+      "51.1156906",
+      "51.1163375",
+      "-0.54212",
+      "-0.5404786"
+    ],
+    "lat": "51.1163375",
+    "lon": "-0.5411582",
+    "display_name": "Chicago, Dunsfold CP, Waverley, Surrey, South East, England, UK",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.4439472180372
+  },
+  {
+    "place_id": "26618217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2527011332",
+    "boundingbox": [
+      "13.376",
+      "13.416",
+      "121.0784",
+      "121.1184"
+    ],
+    "lat": "13.396",
+    "lon": "121.0984",
+    "display_name": "Chicago, Oriental Mindoro, Mimaropa, Philippines",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22980937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2285155351",
+    "boundingbox": [
+      "17.7949465",
+      "17.8349465",
+      "-88.3315476",
+      "-88.2915476"
+    ],
+    "lat": "17.8149465",
+    "lon": "-88.3115476",
+    "display_name": "Chicago, Belize District, Belize",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7854384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "848723437",
+    "boundingbox": [
+      "49.2538997",
+      "49.2738997",
+      "2.4182392",
+      "2.4382392"
+    ],
+    "lat": "49.2638997",
+    "lon": "2.4282392",
+    "display_name": "Chicago, Montataire, Senlis, Oise, Hauts-de-France, 60160, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13270379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241758108",
+    "boundingbox": [
+      "40.6440094",
+      "40.6640094",
+      "0.7134448",
+      "0.7334448"
+    ],
+    "lat": "40.6540094",
+    "lon": "0.7234448",
+    "display_name": "Chicago, Amposta, Montsi\u00e0, Tarragona, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "80799310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "71150252",
+    "boundingbox": [
+      "48.8485505",
+      "48.8489069",
+      "-3.0019535",
+      "-3.0015814"
+    ],
+    "lat": "48.8487395",
+    "lon": "-3.00178339178006",
+    "display_name": "Chicago, \u00cele-de-Br\u00e9hat, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, 22870, France",
+    "class": "landuse",
+    "type": "landfill",
+    "importance": 0.3
+  },
+  {
+    "place_id": "11098559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1028802194",
+    "boundingbox": [
+      "4.9323871",
+      "4.9324871",
+      "-52.3313739",
+      "-52.3312739"
+    ],
+    "lat": "4.9324371",
+    "lon": "-52.3313239",
+    "display_name": "Chicago, Cayenne, Guyane, 97300, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "78951428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56434779",
+    "boundingbox": [
+      "43.5886145",
+      "43.5897658",
+      "-79.6498228",
+      "-79.6482779"
+    ],
+    "lat": "43.58919945",
+    "lon": "-79.6489755825067",
+    "display_name": "Chicago, Erindale, Ont., Peel Region, Ontario, L4Z3V5, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "44856497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3201711331",
+    "boundingbox": [
+      "18.4171972",
+      "18.4172972",
+      "-68.9757062",
+      "-68.9756062"
+    ],
+    "lat": "18.4172472",
+    "lon": "-68.9756562",
+    "display_name": "Chicago, Buena Vista Norte, La Romana, 22000, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

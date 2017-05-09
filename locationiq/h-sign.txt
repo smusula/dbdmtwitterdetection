@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "53760662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4126185378",
+    "boundingbox": [
+      "46.2879026",
+      "46.3279026",
+      "8.6212635",
+      "8.6612635"
+    ],
+    "lat": "46.3079026",
+    "lon": "8.6412635",
+    "display_name": "Sign, Circolo della Maggia, Distretto di Vallemaggia, Ticino, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "154578119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "416885643",
+    "boundingbox": [
+      "53.4756182",
+      "53.4773969",
+      "-8.4993753",
+      "-8.4961938"
+    ],
+    "lat": "53.4764435",
+    "lon": "-8.4978643",
+    "display_name": "Castlegar River, Ballinasloe Municipal District, County Galway, Connacht, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "68140625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21596037",
+    "boundingbox": [
+      "45.86302",
+      "45.864552",
+      "-90.7069819",
+      "-90.7042649"
+    ],
+    "lat": "45.863917",
+    "lon": "-90.7057459",
+    "display_name": "Sign, Oxbo, Sawyer County, Wisconsin, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130803101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "290377218",
+    "boundingbox": [
+      "19.9549388",
+      "19.9550268",
+      "-155.7902186",
+      "-155.7898832"
+    ],
+    "lat": "19.9550268",
+    "lon": "-155.7898832",
+    "display_name": "Kamakoa Drive, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "144088974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "360489855",
+    "boundingbox": [
+      "19.9520068",
+      "19.9525498",
+      "-155.7862123",
+      "-155.7842313"
+    ],
+    "lat": "19.9520233",
+    "lon": "-155.7852513",
+    "display_name": "Haia Street, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "108051957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187869828",
+    "boundingbox": [
+      "19.9508046",
+      "19.952311",
+      "-155.7842313",
+      "-155.7836859"
+    ],
+    "lat": "19.9515718",
+    "lon": "-155.7837888",
+    "display_name": "Halepua Street, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "108083398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187869830",
+    "boundingbox": [
+      "19.9509578",
+      "19.9524106",
+      "-155.789706",
+      "-155.7882486"
+    ],
+    "lat": "19.9518441",
+    "lon": "-155.7887217",
+    "display_name": "Kaiaulu Place, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.1
+  },
+  {
+    "place_id": "108058541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187869814",
+    "boundingbox": [
+      "19.9514453",
+      "19.9520096",
+      "-155.7897686",
+      "-155.7892023"
+    ],
+    "lat": "19.951719",
+    "lon": "-155.7894769",
+    "display_name": "K\u0101ko\u2018o Street, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.1
+  },
+  {
+    "place_id": "108051961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187869834",
+    "boundingbox": [
+      "19.9508418",
+      "19.9518441",
+      "-155.7887217",
+      "-155.7876988"
+    ],
+    "lat": "19.9513547",
+    "lon": "-155.7880897",
+    "display_name": "P\u0101uma Place, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.1
+  },
+  {
+    "place_id": "108083393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187869818",
+    "boundingbox": [
+      "19.9521193",
+      "19.9525144",
+      "-155.7879158",
+      "-155.78764"
+    ],
+    "lat": "19.9521193",
+    "lon": "-155.7879158",
+    "display_name": "Kaiao Way, Waikoloa Village, Kohala, Hawaii, 96743, United States of America",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.1
+  }
+]

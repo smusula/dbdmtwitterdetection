@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "12221569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1150895900",
+    "boundingbox": [
+      "6.00194",
+      "6.02194",
+      "43.53889",
+      "43.55889"
+    ],
+    "lat": "6.01194",
+    "lon": "43.54889",
+    "display_name": "Cuban, \u130e\u12f4, Unknown, Somali, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51736153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3855512602",
+    "boundingbox": [
+      "52.3615313",
+      "52.3616313",
+      "4.8992424",
+      "4.8993424"
+    ],
+    "lat": "52.3615813",
+    "lon": "4.8992924",
+    "display_name": "The Cuban, 135, Utrechtsestraat, Rivierenbuurt, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017 VM, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "47261073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3435769247",
+    "boundingbox": [
+      "36.1476001",
+      "36.1477001",
+      "-5.3538663",
+      "-5.3537663"
+    ],
+    "lat": "36.1476501",
+    "lon": "-5.3538163",
+    "display_name": "The Cuban, Ocean Village Promenade, Gibraltar, GX11 1AA, Gibraltar",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52197811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3931093526",
+    "boundingbox": [
+      "54.5995957",
+      "54.5996957",
+      "-5.9250629",
+      "-5.9249629"
+    ],
+    "lat": "54.5996457",
+    "lon": "-5.9250129",
+    "display_name": "Cuban, 40, Church Lane, Town Parks, Belfast, County Antrim, Northern Ireland, BT1 4QN, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2610773845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454963911",
+    "boundingbox": [
+      "51.4496858",
+      "51.4498143",
+      "-2.6019889",
+      "-2.6018239"
+    ],
+    "lat": "51.44975",
+    "lon": "-2.60190637293747",
+    "display_name": "The Cuban, Millennium Promenade, Kingsdown, Southville, Bristol, City of Bristol, South West England, England, BS1 5SZ, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2651538887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4674100890",
+    "boundingbox": [
+      "-43.5365597",
+      "-43.5364597",
+      "172.6404483",
+      "172.6405483"
+    ],
+    "lat": "-43.5365097",
+    "lon": "172.6404983",
+    "display_name": "The Cuban, 236, St Asaph Street, Edgeware, Christchurch, Christchurch City, Canterbury, 8104, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "53009688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4026827187",
+    "boundingbox": [
+      "39.5349819",
+      "39.5350819",
+      "2.7186134",
+      "2.7187134"
+    ],
+    "lat": "39.5350319",
+    "lon": "2.7186634",
+    "display_name": "Cuban, carrer dels Palangres, Can Pastilla, Palma, Illes Balears, 07610, 124",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "280170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "75752861",
+    "boundingbox": [
+      "51.2790461",
+      "51.2791461",
+      "1.0795259",
+      "1.0796259"
+    ],
+    "lat": "51.2790961",
+    "lon": "1.0795759",
+    "display_name": "The Cuban, 41B-43, High Street, St. Mildred's, Canterbury, Kent, South East, England, CT1 2SA, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "111884034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203679818",
+    "boundingbox": [
+      "50.1942636",
+      "50.1943448",
+      "-5.4306651",
+      "-5.4305034"
+    ],
+    "lat": "50.1943094",
+    "lon": "-5.4305807557433",
+    "display_name": "The Cuban, C43, Riviere Towans, Hayle, Phillack, Cornwall, South West England, England, TR27 5AT, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12369030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1169109466",
+    "boundingbox": [
+      "51.5189826",
+      "51.5190826",
+      "-0.0899177",
+      "-0.0898177"
+    ],
+    "lat": "51.5190326",
+    "lon": "-0.0898677",
+    "display_name": "The Cuban, West Galleria, CityPoint, City of London, Greater London, England, EC2Y 9AW, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

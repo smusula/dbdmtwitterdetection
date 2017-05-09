@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "70285947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27258668",
+    "boundingbox": [
+      "14.4579134",
+      "14.4596669",
+      "120.9553242",
+      "120.9557146"
+    ],
+    "lat": "14.4587463",
+    "lon": "120.955476",
+    "display_name": "Tuesday, St. Joseph Village, Talaba 1, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84174592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91662166",
+    "boundingbox": [
+      "14.3422873",
+      "14.3429889",
+      "121.0614663",
+      "121.064009"
+    ],
+    "lat": "14.3422977",
+    "lon": "121.0626572",
+    "display_name": "Tuesday, Phase 7B, Pacita I, San Pedro, Laguna, Calabarzon, 4023, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "21624390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2126668755",
+    "boundingbox": [
+      "-17.3733771",
+      "-17.3732771",
+      "-66.1522682",
+      "-66.1521682"
+    ],
+    "lat": "-17.3733271",
+    "lon": "-66.1522182",
+    "display_name": "Tuesday, 752, Avenida Am\u00e9rica, Recoleta, Distrito 12, Adela Zamudio, Cochabamba, Kanata, Cercado, CBA, 1575, Bolivia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

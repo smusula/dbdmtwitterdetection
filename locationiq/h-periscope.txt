@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "121452131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242891377",
+    "boundingbox": [
+      "48.8240052",
+      "48.8245967",
+      "2.3587168",
+      "2.3591414"
+    ],
+    "lat": "48.82423775",
+    "lon": "2.35894625641483",
+    "display_name": "P\u00e9riscope, Rue Auguste Perret, Butte aux Cailles, Maison-Blanche, 13e, Paris, \u00cele-de-France, 75013, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "28140964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2635845815",
+    "boundingbox": [
+      "45.7469357",
+      "45.7470357",
+      "4.827494",
+      "4.827594"
+    ],
+    "lat": "45.7469857",
+    "lon": "4.827544",
+    "display_name": "Le P\u00e9riscope, 13, Rue Delandine, 2e, Lyon 2e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69002, France",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

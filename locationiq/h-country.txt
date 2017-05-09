@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "458942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157645595",
+    "boundingbox": [
+      "36.0262469",
+      "36.0662469",
+      "-79.5378003",
+      "-79.4978003"
+    ],
+    "lat": "36.0462469",
+    "lon": "-79.5178003",
+    "display_name": "The Country, Alamance County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21158274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2099619746",
+    "boundingbox": [
+      "24.0673987",
+      "24.1073987",
+      "55.6187155",
+      "55.6587155"
+    ],
+    "lat": "24.0873987",
+    "lon": "55.6387155",
+    "display_name": "Country, \u0623\u0628\u0648 \u0638\u0628\u064a, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610752830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6727057",
+    "boundingbox": [
+      "-24.950055",
+      "-24.9328436",
+      "-53.4620788",
+      "-53.4413181"
+    ],
+    "lat": "-24.94149545",
+    "lon": "-53.4508668384067",
+    "display_name": "Country, Cascavel, Microrregi\u00e3o Cascavel, Mesorregi\u00e3o Oeste Paranaense, PR, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "31812706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2760002215",
+    "boundingbox": [
+      "-29.7221712",
+      "-29.6821712",
+      "-52.4141313",
+      "-52.3741313"
+    ],
+    "lat": "-29.7021712",
+    "lon": "-52.3941313",
+    "display_name": "Country, Santa Cruz do Sul, Microrregi\u00e3o de Santa Cruz do Sul, Mesorregi\u00e3o Centro-Oriental Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16338987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1527669935",
+    "boundingbox": [
+      "10.3913498",
+      "10.3914498",
+      "-75.4975527",
+      "-75.4974527"
+    ],
+    "lat": "10.3913998",
+    "lon": "-75.4975027",
+    "display_name": "El Country, Cartagena, Cartagena de Indias, Bol\u00edvar, 130013, Colombia",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "99484117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154074387",
+    "boundingbox": [
+      "-31.2548997",
+      "-31.2511792",
+      "-64.2485376",
+      "-64.2449292"
+    ],
+    "lat": "-31.25260675",
+    "lon": "-64.2465660352344",
+    "display_name": "Country, El Talar, Departamento Col\u00f3n, Cba., X5108DQG, Argentina",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "107889161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186892825",
+    "boundingbox": [
+      "53.9068484",
+      "53.9070118",
+      "-1.4916611",
+      "-1.4912374"
+    ],
+    "lat": "53.9068586",
+    "lon": "-1.4914585",
+    "display_name": "Country, Harewood, Leeds, East Riding of Yorkshire, Yorkshire and the Humber, England, UK",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60956519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10407033",
+    "boundingbox": [
+      "35.638094",
+      "35.638977",
+      "-118.2523779",
+      "-118.2523619"
+    ],
+    "lat": "35.638977",
+    "lon": "-118.2523619",
+    "display_name": "Country, Weldon, Kern County, California, 93283, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67166395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20365828",
+    "boundingbox": [
+      "37.477759",
+      "37.478169",
+      "-76.8157259",
+      "-76.8143979"
+    ],
+    "lat": "37.478098",
+    "lon": "-76.8145829",
+    "display_name": "Country, Holly Forks, New Kent County, Virginia, 23011, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59394035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8645515",
+    "boundingbox": [
+      "42.4323099",
+      "42.436775",
+      "-83.974114",
+      "-83.9728539"
+    ],
+    "lat": "42.434506",
+    "lon": "-83.9729109",
+    "display_name": "Country, Putnam Township, Livingston County, Michigan, 48169, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

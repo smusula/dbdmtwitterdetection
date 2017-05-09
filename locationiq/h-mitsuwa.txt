@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "28522868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2655263941",
+    "boundingbox": [
+      "37.3148638",
+      "37.3149638",
+      "-121.9778671",
+      "-121.9777671"
+    ],
+    "lat": "37.3149138",
+    "lon": "-121.9778171",
+    "display_name": "Mitsuwa, 675, Saratoga Avenue, San Jos\u00e9, Santa Clara County, California, 95129, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "100501489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157660770",
+    "boundingbox": [
+      "35.6872665",
+      "35.6874118",
+      "139.6951317",
+      "139.6952759"
+    ],
+    "lat": "35.6873448",
+    "lon": "139.695203793424",
+    "display_name": "MITSUWA, \u7532\u5dde\u8857\u9053, \u65b0\u5bbf\u533a, \u6771\u4eac\u90fd, 163-8677, \u65e5\u672c",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56063384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4353121017",
+    "boundingbox": [
+      "-12.0491975",
+      "-12.0490975",
+      "-77.0277144",
+      "-77.0276144"
+    ],
+    "lat": "-12.0491475",
+    "lon": "-77.0276644",
+    "display_name": "Mitsuwa, Avenida Abancay, Connjunto residencial Martinetti, Lima, 15001, Per\u00fa",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4403249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473807066",
+    "boundingbox": [
+      "33.6815694",
+      "33.6816694",
+      "-117.8841434",
+      "-117.8840434"
+    ],
+    "lat": "33.6816194",
+    "lon": "-117.8840934",
+    "display_name": "Mitsuwa, Paularino Avenue, Costa Mesa, Orange County, California, 92626, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "55799934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4328308389",
+    "boundingbox": [
+      "-12.1005302",
+      "-12.1004302",
+      "-76.9700288",
+      "-76.9699288"
+    ],
+    "lat": "-12.1004802",
+    "lon": "-76.9699788",
+    "display_name": "Mitsuwa, Avenida La Encalada, Residencial Los Alamos de Monterrico, Monterrico, Santiago de Surco, Lima, 33, Per\u00fa",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  }
+]

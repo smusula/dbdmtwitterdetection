@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "10442288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "972107411",
+    "boundingbox": [
+      "34.789906",
+      "34.790006",
+      "-92.2276073",
+      "-92.2275073"
+    ],
+    "lat": "34.789956",
+    "lon": "-92.2275573",
+    "display_name": "NBA, McCain Boulevard, North Little Rock, Pulaski County, Arkansas, 72117, United States of America",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "49384085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3666326934",
+    "boundingbox": [
+      "18.1811824",
+      "18.1812824",
+      "-63.1302815",
+      "-63.1301815"
+    ],
+    "lat": "18.1812324",
+    "lon": "-63.1302315",
+    "display_name": "NBA, Albert Hughes Drive, Long Bay Village, Anguilla",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "49435115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3666125846",
+    "boundingbox": [
+      "18.2029406",
+      "18.2030406",
+      "-63.0711145",
+      "-63.0710145"
+    ],
+    "lat": "18.2029906",
+    "lon": "-63.0710645",
+    "display_name": "NBA, Candace Rey Drive, George Hill, Anguilla",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "144349741",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362275271",
+    "boundingbox": [
+      "18.2029702",
+      "18.2030115",
+      "-63.0710801",
+      "-63.071046"
+    ],
+    "lat": "18.20299085",
+    "lon": "-63.07106305",
+    "display_name": "NBA, Candace Rey Drive, George Hill, Anguilla",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15196175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1389874630",
+    "boundingbox": [
+      "30.3580561",
+      "30.3680561",
+      "76.1421905",
+      "76.1521905"
+    ],
+    "lat": "30.3630561",
+    "lon": "76.1471905",
+    "display_name": "Nabha, State Highway 12A, Nabha, Pati\u0101la, Patiala, Punjab, 147201, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "place_id": "56946144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4439799667",
+    "boundingbox": [
+      "59.6685559",
+      "59.6885559",
+      "8.0304539",
+      "8.0504539"
+    ],
+    "lat": "59.6785559",
+    "lon": "8.0404539",
+    "display_name": "Running, Sk\u00e5lestrondi, Vinje, Telemark, Norge",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "56427880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4406898589",
+    "boundingbox": [
+      "48.8238433",
+      "48.8239433",
+      "2.335774",
+      "2.335874"
+    ],
+    "lat": "48.8238933",
+    "lon": "2.335824",
+    "display_name": "Running, Rue Nansouty, Montsouris, Parc-Montsouris, 14e, Paris, \u00cele-de-France, 75014, France",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51808874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3887073542",
+    "boundingbox": [
+      "34.1662053",
+      "34.1663053",
+      "-118.6218861",
+      "-118.6217861"
+    ],
+    "lat": "34.1662553",
+    "lon": "-118.6218361",
+    "display_name": "Running, Ventura Boulevard, Woodland Hills, LA, Los Angeles County, California, 91367, United States of America",
+    "class": "shop",
+    "type": "run",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651686935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4677438231",
+    "boundingbox": [
+      "-12.9855588",
+      "-12.9854588",
+      "-38.4612361",
+      "-38.4611361"
+    ],
+    "lat": "-12.9855088",
+    "lon": "-38.4611861",
+    "display_name": "Running, Rua V\u00e1rzea de Santo Ant\u00f4nio, Caminho das \u00c1rvores, Salvador, Microrregi\u00e3o de Salvador, Regi\u00e3o Metropolitana de Salvador, Mesorregi\u00e3o do Rec\u00f4ncavo baiano, BA, Regi\u00e3o Nordeste, 41820-680, Brasil",
+    "class": "leisure",
+    "type": "track",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10907792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "993836890",
+    "boundingbox": [
+      "47.9974926",
+      "47.9975926",
+      "7.8177082",
+      "7.8178082"
+    ],
+    "lat": "47.9975426",
+    "lon": "7.8177582",
+    "display_name": "Running das Laufmagazin, Badenweilerstra\u00dfe, Weingarten, Freiburg, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 79115, Deutschland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651594237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4675435948",
+    "boundingbox": [
+      "-34.64998",
+      "-34.64988",
+      "-58.6424343",
+      "-58.6423343"
+    ],
+    "lat": "-34.64993",
+    "lon": "-58.6423843",
+    "display_name": "Running, Carlos Casares, Castelar, Partido de Mor\u00f3n, Bs. As., B1712JOB, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

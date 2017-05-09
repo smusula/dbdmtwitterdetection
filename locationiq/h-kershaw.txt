@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "160536412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2532511",
+    "boundingbox": [
+      "34.067554",
+      "34.616245",
+      "-80.8794249",
+      "-80.2867129"
+    ],
+    "lat": "34.3334398",
+    "lon": "-80.5669894",
+    "display_name": "Kershaw County, South Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46561345354774,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160294887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194094",
+    "boundingbox": [
+      "34.525691",
+      "34.557374",
+      "-80.6042839",
+      "-80.5692869"
+    ],
+    "lat": "34.5517286",
+    "lon": "-80.5832478",
+    "display_name": "Kershaw, Lancaster County, South Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "393368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153556786",
+    "boundingbox": [
+      "33.739828",
+      "33.779828",
+      "-87.1291669",
+      "-87.0891669"
+    ],
+    "lat": "33.759828",
+    "lon": "-87.1091669",
+    "display_name": "Kershaw, Walker County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "476466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158477407",
+    "boundingbox": [
+      "35.0279409",
+      "35.0679409",
+      "-76.7565986",
+      "-76.7165986"
+    ],
+    "lat": "35.0479409",
+    "lon": "-76.7365986",
+    "display_name": "Kershaw, Pamlico County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "339324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150933399",
+    "boundingbox": [
+      "47.793302",
+      "47.833302",
+      "-110.7593829",
+      "-110.7193829"
+    ],
+    "lat": "47.813302",
+    "lon": "-110.7393829",
+    "display_name": "Kershaw, Chouteau County, Montana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

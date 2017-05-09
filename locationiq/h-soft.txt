@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "55116157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4257560397",
+    "boundingbox": [
+      "48.8732559",
+      "48.8733559",
+      "2.3599003",
+      "2.3600003"
+    ],
+    "lat": "48.8733059",
+    "lon": "2.3599503",
+    "display_name": "Soft, Rue des Vinaigriers, Porte-St-Martin, 10e, Paris, \u00cele-de-France, 75010, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "4574233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "497171130",
+    "boundingbox": [
+      "59.3336695",
+      "59.3337695",
+      "18.06638",
+      "18.06648"
+    ],
+    "lat": "59.3337195",
+    "lon": "18.06643",
+    "display_name": "Soft, Klaratunneln, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 111 56, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21519263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2139221300",
+    "boundingbox": [
+      "57.6990856",
+      "57.6991856",
+      "11.9810358",
+      "11.9811358"
+    ],
+    "lat": "57.6991356",
+    "lon": "11.9810858",
+    "display_name": "Soft, 10, S\u00f6dra V\u00e4gen, Heden, Centrum, Gbg, G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 412 54, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "86404997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101605227",
+    "boundingbox": [
+      "49.2220146",
+      "49.2225026",
+      "16.5802902",
+      "16.5808829"
+    ],
+    "lat": "49.22225865",
+    "lon": "16.5805865925243",
+    "display_name": "Y Soft, Technick\u00e1, \u017dabov\u0159esky, Brno, okres Brno-m\u011bsto, Jihomoravsk\u00fd kraj, Jihov\u00fdchod, 61600, \u010cesko",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28406090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2649026770",
+    "boundingbox": [
+      "42.3450069",
+      "42.3451069",
+      "-3.6903538",
+      "-3.6902538"
+    ],
+    "lat": "42.3450569",
+    "lon": "-3.6903038",
+    "display_name": "Soft, Calle Briviesca, San Juli\u00e1n, Villa Pilar, Burgos, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09005, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "15944265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1455303065",
+    "boundingbox": [
+      "49.4064851",
+      "49.4065851",
+      "2.8183494",
+      "2.8184494"
+    ],
+    "lat": "49.4065351",
+    "lon": "2.8183994",
+    "display_name": "Le Soft, Rue des P\u00e8lerins, La Victoire - Les Mar\u00e9chaux, Compi\u00e8gne, Oise, Hauts-de-France, 60200, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "7144466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "739826529",
+    "boundingbox": [
+      "48.3832391",
+      "48.3833391",
+      "-4.4838795",
+      "-4.4837795"
+    ],
+    "lat": "48.3832891",
+    "lon": "-4.4838295",
+    "display_name": "Le Soft, Rue de Narvik, Centre Ville, Brest, Finist\u00e8re, Bretagne, 29200, France",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "17401681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1673437308",
+    "boundingbox": [
+      "48.7292875",
+      "48.7293875",
+      "4.5890309",
+      "4.5891309"
+    ],
+    "lat": "48.7293375",
+    "lon": "4.5890809",
+    "display_name": "Le Soft, Faubourg de Ch\u00e2lons, Vitry-le-Fran\u00e7ois, Marne, Grand-Est, 51300, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "80374923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67758326",
+    "boundingbox": [
+      "43.6394747",
+      "43.6395666",
+      "6.9498298",
+      "6.950008"
+    ],
+    "lat": "43.63952505",
+    "lon": "6.94991935673949",
+    "display_name": "Le Soft, Route de Cannes, Les Chauves, Grasse, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06130;06520, France",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51795364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3885858992",
+    "boundingbox": [
+      "44.4911325",
+      "44.4912325",
+      "4.7512671",
+      "4.7513671"
+    ],
+    "lat": "44.4911825",
+    "lon": "4.7513171",
+    "display_name": "Le Soft, Route de Saint-Paul, Ch\u00e2teauneuf-du-Rh\u00f4ne, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 26780, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

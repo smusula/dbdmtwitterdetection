@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "41933760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3051051566",
+    "boundingbox": [
+      "43.9451043",
+      "43.9851043",
+      "3.5922375",
+      "3.6322375"
+    ],
+    "lat": "43.9651043",
+    "lon": "3.6122375",
+    "display_name": "Loves, Le Vigan, Gard, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "477506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158644402",
+    "boundingbox": [
+      "38.5045665",
+      "38.5445665",
+      "-76.74802",
+      "-76.70802"
+    ],
+    "lat": "38.5245665",
+    "lon": "-76.72802",
+    "display_name": "Loves, Charles County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "117192044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225726411",
+    "boundingbox": [
+      "29.7940456",
+      "29.798066",
+      "-95.3703275",
+      "-95.368774"
+    ],
+    "lat": "29.79535435",
+    "lon": "-95.3693970833843",
+    "display_name": "210, Love's, Houston, Harris County, Texas, 77009, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "123955677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253463413",
+    "boundingbox": [
+      "39.732439",
+      "39.7358709",
+      "-84.2110846",
+      "-84.2076439"
+    ],
+    "lat": "39.7340706",
+    "lon": "-84.2094286739511",
+    "display_name": "Love\u2019s #427 - Dayton, Dayton, Montgomery County, Ohio, 45402, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117194734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225734715",
+    "boundingbox": [
+      "30.0636808",
+      "30.0652647",
+      "-95.9064626",
+      "-95.9043681"
+    ],
+    "lat": "30.06447805",
+    "lon": "-95.9053918453976",
+    "display_name": "Love's, Waller, Harris County, Texas, 77484, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117370044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226286187",
+    "boundingbox": [
+      "36.1627144",
+      "36.1640114",
+      "-95.3437894",
+      "-95.3425017"
+    ],
+    "lat": "36.1631908",
+    "lon": "-95.3431208809558",
+    "display_name": "Love's, Paradise View, Mayes County, Oklahoma, 74337, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654445459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225057377",
+    "boundingbox": [
+      "41.1023963",
+      "41.1027176",
+      "-100.7245015",
+      "-100.7242144"
+    ],
+    "lat": "41.1025555",
+    "lon": "-100.724358203818",
+    "display_name": "Loves', Newberry Access Road, North Platte, Lincoln County, Nebraska, 69101, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "113989622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "211532666",
+    "boundingbox": [
+      "31.8159784",
+      "31.8183808",
+      "-102.3820098",
+      "-102.379045"
+    ],
+    "lat": "31.8171796",
+    "lon": "-102.3805274",
+    "display_name": "Love's Travel Stop, Love's Travel Stop Addition, Odessa, Ector County, Texas, 79769, United States of America",
+    "class": "highway",
+    "type": "services",
+    "importance": 0.1
+  },
+  {
+    "place_id": "148592004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "382733172",
+    "boundingbox": [
+      "42.3611448",
+      "42.363468",
+      "-73.4311937",
+      "-73.4285232"
+    ],
+    "lat": "42.36251135",
+    "lon": "-73.4299979900302",
+    "display_name": "Love's, Flatbrook, Town of Canaan, Columbia County, New York, 12029, United States of America",
+    "class": "highway",
+    "type": "services",
+    "importance": 0.1
+  },
+  {
+    "place_id": "117295697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226290641",
+    "boundingbox": [
+      "35.2232859",
+      "35.2246809",
+      "-99.8709737",
+      "-99.8688071"
+    ],
+    "lat": "35.2241641",
+    "lon": "-99.8701016052646",
+    "display_name": "Love's, Erick, Beckham County, Oklahoma, 73645, United States of America",
+    "class": "highway",
+    "type": "services",
+    "importance": 0.1
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160318904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "349053",
+    "boundingbox": [
+      "40.5230524",
+      "42.8615226",
+      "0.1591812",
+      "3.3323241"
+    ],
+    "lat": "41.8523094",
+    "lon": "1.5745043",
+    "display_name": "CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.84027949732907,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160619313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3285995",
+    "boundingbox": [
+      "35.8869312",
+      "36.3544244",
+      "110.441777",
+      "111.1261518"
+    ],
+    "lat": "36.1587489",
+    "lon": "110.6930115",
+    "display_name": "\u5409\u53bf (Ji), \u4e34\u6c7e\u5e02 / Linfen, \u5c71\u897f\u7701, \u4e2d\u56fd",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41271729740322,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160464853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1774230",
+    "boundingbox": [
+      "38.6367808",
+      "38.7288303",
+      "34.5803537",
+      "34.6913602"
+    ],
+    "lat": "38.6755604",
+    "lon": "34.6552633",
+    "display_name": "\u00c7at, Nev\u015fehir merkez, Nev\u015fehir, \u0130\u00e7 Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161283441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "13.821104783582",
+      "13.821204783582",
+      "-60.896458902267",
+      "-60.896358902267"
+    ],
+    "lat": "13.8211547835823",
+    "lon": "-60.8964089022666",
+    "display_name": "Micoud, cat, Saint Lucia",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "160452992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1832479",
+    "boundingbox": [
+      "39.4076649",
+      "39.7856471",
+      "40.5739218",
+      "41.2723645"
+    ],
+    "lat": "39.59818465",
+    "lon": "40.8696567022528",
+    "display_name": "\u00c7at, Erzurum, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.31673028276881,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "155621258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422233876",
+    "boundingbox": [
+      "48.574824",
+      "48.5768097",
+      "39.4146581",
+      "39.4181549"
+    ],
+    "lat": "48.57579345",
+    "lon": "39.4164077075921",
+    "display_name": "CAT, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 91000-91479, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "156711954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427742250",
+    "boundingbox": [
+      "-0.4261959",
+      "-0.4254072",
+      "-76.9923978",
+      "-76.9910948"
+    ],
+    "lat": "-0.4258839",
+    "lon": "-76.9917232090956",
+    "display_name": "CAT, Puerto Francisco de Orellana, Francisco de Orellana, Orellana, 2201, Ecuador",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1335745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303689267",
+    "boundingbox": [
+      "39.5705894",
+      "39.6505894",
+      "40.9374811",
+      "41.0174811"
+    ],
+    "lat": "39.6105894",
+    "lon": "40.9774811",
+    "display_name": "\u00c7at, Erzurum, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "23251937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2292404835",
+    "boundingbox": [
+      "39.864632",
+      "39.904632",
+      "42.5688097",
+      "42.6088097"
+    ],
+    "lat": "39.884632",
+    "lon": "42.5888097",
+    "display_name": "\u00c7atk\u00f6seda\u011f, Ele\u015fkirt, A\u011fr\u0131, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10920826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1041661913",
+    "boundingbox": [
+      "39.4111591",
+      "39.4511591",
+      "35.9084406",
+      "35.9484406"
+    ],
+    "lat": "39.4311591",
+    "lon": "35.9284406",
+    "display_name": "\u00c7at, Gemerek, Sivas, \u0130\u00e7 Anadolu B\u00f6lgesi, 58840, T\u00fcrkiye",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "69973025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26470410",
+    "boundingbox": [
+      "14.5800965",
+      "14.5805474",
+      "121.1227372",
+      "121.1245271"
+    ],
+    "lat": "14.5800965",
+    "lon": "121.1227372",
+    "display_name": "Chess, St. Francis Subd., San Juan, Cainta, Rizal, Calabarzon, 1900, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "35441743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2825789897",
+    "boundingbox": [
+      "59.3370602",
+      "59.3371602",
+      "18.0767487",
+      "18.0768487"
+    ],
+    "lat": "59.3371102",
+    "lon": "18.0767987",
+    "display_name": "Chess, Grev Turegatan, Villastaden, \u00d6stermalm, \u00d6stermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 114 47, Sverige",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "3895657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "417031850",
+    "boundingbox": [
+      "47.5014687",
+      "47.5015687",
+      "19.0667125",
+      "19.0668125"
+    ],
+    "lat": "47.5015187",
+    "lon": "19.0667625",
+    "display_name": "Chess, Dob utca, Erzs\u00e9betv\u00e1ros, 7. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1073, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "6643241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "679091548",
+    "boundingbox": [
+      "52.387172",
+      "52.387272",
+      "4.6524595",
+      "4.6525595"
+    ],
+    "lat": "52.387222",
+    "lon": "4.6525095",
+    "display_name": "Chess, 1, Lichtfabriekplein, Haarlem, MRA, Noord-Holland, Nederland, 2031TE, Nederland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55902571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4338060789",
+    "boundingbox": [
+      "40.1818647",
+      "40.1819647",
+      "44.5170091",
+      "44.5171091"
+    ],
+    "lat": "40.1819147",
+    "lon": "44.5170591",
+    "display_name": "Chess, \u0531\u0562\u0578\u057e\u0575\u0561\u0576 \u0583\u0578\u0572\u0578\u0581, Kentron, \u0535\u0580\u0587\u0561\u0576, 0010 YEREVAN, \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "6576667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "670670132",
+    "boundingbox": [
+      "46.9917124",
+      "46.9918124",
+      "6.9284486",
+      "6.9285486"
+    ],
+    "lat": "46.9917624",
+    "lon": "6.9284986",
+    "display_name": "Chess, Rue des Moulins, Pr\u00e9 Louiset, Neuch\u00e2tel, District de Neuch\u00e2tel, Neuch\u00e2tel, 2001, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "105952027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178302671",
+    "boundingbox": [
+      "45.2080442",
+      "45.2081255",
+      "13.5903188",
+      "13.5904386"
+    ],
+    "lat": "45.20808485",
+    "lon": "13.5903787",
+    "display_name": "Chess, Plava Laguna, Pore\u010d, Grad Pore\u010d, Istarska \u017eupanija, 52440, Hrvatska",
+    "class": "historic",
+    "type": "battlefield",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106906310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182520211",
+    "boundingbox": [
+      "51.7249656",
+      "51.7251428",
+      "0.4614016",
+      "0.4616876"
+    ],
+    "lat": "51.7250418",
+    "lon": "0.461585863169643",
+    "display_name": "CHESS, 200, New London Road, Widford, Chelmsford town, Chelmsford, Essex, East of England, England, CM2 9AD, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "39905950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2940556706",
+    "boundingbox": [
+      "53.3558773",
+      "53.3559773",
+      "-6.2875172",
+      "-6.2874172"
+    ],
+    "lat": "53.3559273",
+    "lon": "-6.2874672",
+    "display_name": "Chess, Saint Josephs Place, Stoneybatter, Arran Quay B ED, Dublin 7, Dublin, County Dublin, Leinster, D07, Ireland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "8340714",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "895012312",
+    "boundingbox": [
+      "37.1075977",
+      "37.1076977",
+      "-116.0160225",
+      "-116.0159225"
+    ],
+    "lat": "37.1076477",
+    "lon": "-116.0159725",
+    "display_name": "Chess, Mercury Highway, Nye County, Nevada, United States of America",
+    "class": "military",
+    "type": "nuclear_explosion_site",
+    "importance": 0.101
+  }
+]

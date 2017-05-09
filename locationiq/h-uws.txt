@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "160301469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "270059",
+    "boundingbox": [
+      "48.424298",
+      "50.8851",
+      "90.0023",
+      "95.725991"
+    ],
+    "lat": "49.6313887",
+    "lon": "92.9558186",
+    "display_name": "\u0423\u0432\u0441, \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "111515027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202232558",
+    "boundingbox": [
+      "-33.8106846",
+      "-33.8104768",
+      "151.0242016",
+      "151.0246543"
+    ],
+    "lat": "-33.81058675",
+    "lon": "151.024432060908",
+    "display_name": "UWS Shuttle Bus Station, Fifth Street, Parramatta, Sydney, Parramatta, NSW, 2150, Australia",
+    "class": "amenity",
+    "type": "bus_station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_station.p.20.png"
+  },
+  {
+    "place_id": "70008128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25949703",
+    "boundingbox": [
+      "49.3106304",
+      "49.3111282",
+      "6.7360463",
+      "6.7367544"
+    ],
+    "lat": "49.3108796",
+    "lon": "6.73641930735331",
+    "display_name": "UWS, Lilienthalstra\u00dfe, Beaumarais, Saarlouis, Landkreis Saarlouis, Saarland, 66740, Deutschland",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

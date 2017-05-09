@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "465399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158348915",
+    "boundingbox": [
+      "39.0178804",
+      "39.0978804",
+      "-77.0897754",
+      "-77.0097754"
+    ],
+    "lat": "39.0578804",
+    "lon": "-77.0497754",
+    "display_name": "Glenmont, Montgomery County, Maryland, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.41732695533476,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "499917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158915291",
+    "boundingbox": [
+      "42.584802",
+      "42.624802",
+      "-73.7895657",
+      "-73.7495657"
+    ],
+    "lat": "42.604802",
+    "lon": "-73.7695657",
+    "display_name": "Glenmont, Town of Bethlehem, Albany County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "486653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158597667",
+    "boundingbox": [
+      "37.2037484",
+      "37.2437484",
+      "-80.015593",
+      "-79.975593"
+    ],
+    "lat": "37.2237484",
+    "lon": "-79.995593",
+    "display_name": "Glenmont, Roanoke County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160290722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182923",
+    "boundingbox": [
+      "40.51546",
+      "40.524706",
+      "-82.1022259",
+      "-82.0821829"
+    ],
+    "lat": "40.5200635",
+    "lon": "-82.0973747",
+    "display_name": "Glenmont, Holmes County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3713907126481,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "48432771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3538863802",
+    "boundingbox": [
+      "45.1762817",
+      "45.1962817",
+      "-64.5129449",
+      "-64.4929449"
+    ],
+    "lat": "45.1862817",
+    "lon": "-64.5029449",
+    "display_name": "Glenmont, Baxters Harbour, Kings County, Nova Scotia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "480089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158528401",
+    "boundingbox": [
+      "39.3836679",
+      "39.3837679",
+      "-76.5833504",
+      "-76.5832504"
+    ],
+    "lat": "39.3837179",
+    "lon": "-76.5833004",
+    "display_name": "Glenmont, Towson, Baltimore County, Maryland, 21286, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66411884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19152070",
+    "boundingbox": [
+      "41.219142",
+      "41.220896",
+      "-81.8374399",
+      "-81.8374039"
+    ],
+    "lat": "41.219722",
+    "lon": "-81.8374119",
+    "display_name": "Glenmont, Brunswick, Medina County, Ohio, 44212, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "476864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158591453",
+    "boundingbox": [
+      "39.2253344",
+      "39.2254344",
+      "-76.8264124",
+      "-76.8263124"
+    ],
+    "lat": "39.2253844",
+    "lon": "-76.8263624",
+    "display_name": "Glenmont, Bellwart Way, Long Reach, Columbia, Howard County, Maryland, 21045, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.101
+  },
+  {
+    "place_id": "88410912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109819886",
+    "boundingbox": [
+      "40.0455462",
+      "40.0463922",
+      "-83.1610323",
+      "-83.1598629"
+    ],
+    "lat": "40.0459692",
+    "lon": "-83.1605764853897",
+    "display_name": "Glenmont, 4599, Avery Rd, Hilliard, Franklin County, Ohio, 43026, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7001495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "738189379",
+    "boundingbox": [
+      "39.0567838",
+      "39.0667838",
+      "-77.0585573",
+      "-77.0485573"
+    ],
+    "lat": "39.0617838",
+    "lon": "-77.0535573",
+    "display_name": "Glenmont, Georgia Avenue, Glenmont Hills, Wheaton-Glenmont, Montgomery County, Maryland, 20906, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

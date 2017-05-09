@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "49494468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3676917804",
+    "boundingbox": [
+      "59.8286854",
+      "59.8287854",
+      "30.3257961",
+      "30.3258961"
+    ],
+    "lat": "59.8287354",
+    "lon": "30.3258461",
+    "display_name": "Cats, 18, \u041f\u0443\u043b\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u0421\u0440\u0435\u0434\u043d\u044f\u044f \u0420\u043e\u0433\u0430\u0442\u043a\u0430, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "126329484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264085987",
+    "boundingbox": [
+      "51.5682816",
+      "51.5684223",
+      "-0.1106231",
+      "-0.1104035"
+    ],
+    "lat": "51.56834365",
+    "lon": "-0.110528946168995",
+    "display_name": "Cats, 79, Stroud Green Road, Crouch Hall Park, Stroud Green, London Borough of Haringey, London, Greater London, England, N4 4AP, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "81192051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "73586753",
+    "boundingbox": [
+      "35.521156",
+      "35.5213605",
+      "-97.4716856",
+      "-97.4713063"
+    ],
+    "lat": "35.52125735",
+    "lon": "-97.4714963533096",
+    "display_name": "Cats, Asia Exibit, Oklahoma City, Oklahoma County, Oklahoma, 73111, United States of America",
+    "class": "amenity",
+    "type": "animal_shelter",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54916805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4258783530",
+    "boundingbox": [
+      "-0.2028449",
+      "-0.2027449",
+      "-78.4898782",
+      "-78.4897782"
+    ],
+    "lat": "-0.2027949",
+    "lon": "-78.4898282",
+    "display_name": "Cats, Lizardo Garcia, Mariscal Sucre, Quito, Pichincha, 170523, Ecuador",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "17830871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1724554986",
+    "boundingbox": [
+      "46.412918",
+      "46.413018",
+      "30.7238576",
+      "30.7239576"
+    ],
+    "lat": "46.412968",
+    "lon": "30.7239076",
+    "display_name": "Cats, 22, \u0422\u043e\u043f\u043e\u043b\u0435\u0432\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041c\u0456\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d  \u0414-\u0404, \u0420\u0430\u0439\u043e\u043d IV-4  \u0422\u0430\u0457\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439, \u041a\u0438\u0457\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041e\u0434\u0435\u0441\u0430, \u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 65114, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "tourism",
+    "type": "zoo",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_zoo.p.20.png"
+  },
+  {
+    "place_id": "30823363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2742310975",
+    "boundingbox": [
+      "14.6135714",
+      "14.6136714",
+      "-90.5190983",
+      "-90.5189983"
+    ],
+    "lat": "14.6136214",
+    "lon": "-90.5190483",
+    "display_name": "Cats, 2a Calle, Zona 9, Ciudad de Guatemala, Guatemala, Zona 9, Guatemala",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2651419332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472877807",
+    "boundingbox": [
+      "50.7178643",
+      "50.7180189",
+      "-1.1470881",
+      "-1.1467633"
+    ],
+    "lat": "50.71794275",
+    "lon": "-1.14692172705186",
+    "display_name": "(Cats), Long Orchard, Ryde, Isle of Wight, South East, England, PO33 1BU, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "140039194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334356536",
+    "boundingbox": [
+      "50.8002608",
+      "50.8005078",
+      "5.2078727",
+      "5.2082555"
+    ],
+    "lat": "50.8003891",
+    "lon": "5.20806382705891",
+    "display_name": "Cats, 215, Luikersteenweg, Brustem, Sint-Truiden, Hasselt, Limburg, Vlaanderen, 3800, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "brothel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "110374297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "197894345",
+    "boundingbox": [
+      "51.7372717",
+      "51.7374287",
+      "0.6263834",
+      "0.6265789"
+    ],
+    "lat": "51.7373309",
+    "lon": "0.626478836152717",
+    "display_name": "The Cats, Blue Mill Lane, Woodham Walter CP, Maldon, Essex, East of England, England, CM9 6LS, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "14107426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1292029829",
+    "boundingbox": [
+      "37.2148109",
+      "37.2149109",
+      "-121.9886112",
+      "-121.9885112"
+    ],
+    "lat": "37.2148609",
+    "lon": "-121.9885612",
+    "display_name": "The Cats, Santa Cruz Highway, Creekside Village, Santa Clara County, California, 95033, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "2651904726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1216769",
+    "boundingbox": [
+      "25.7090517",
+      "25.8557827",
+      "-80.3197599",
+      "-80.1391569"
+    ],
+    "lat": "25.7742658",
+    "lon": "-80.1936588",
+    "display_name": "Miami, Miami-Dade County, Florida, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.78757737415188,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160374986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070396",
+    "boundingbox": [
+      "38.38879",
+      "38.7385836",
+      "-95.0659046",
+      "-94.6095072"
+    ],
+    "lat": "38.5620514",
+    "lon": "-94.8557401",
+    "display_name": "Miami County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56740567145506,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160362818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "911306",
+    "boundingbox": [
+      "39.8801",
+      "40.199879",
+      "-84.4323429",
+      "-84.0232539"
+    ],
+    "lat": "40.0580258",
+    "lon": "-84.2236523",
+    "display_name": "Miami County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50317778737284,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160448966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1802228",
+    "boundingbox": [
+      "40.563255",
+      "40.999325",
+      "-86.1707459",
+      "-85.8640519"
+    ],
+    "lat": "40.7454905",
+    "lon": "-86.063945",
+    "display_name": "Miami County, Indiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49529223844486,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161032067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6595922",
+    "boundingbox": [
+      "35.68011",
+      "35.701792",
+      "-100.6527859",
+      "-100.6294679"
+    ],
+    "lat": "35.6914327",
+    "lon": "-100.6381932",
+    "display_name": "Miami, Roberts County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.47942458931282,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160290387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "184168",
+    "boundingbox": [
+      "36.83357",
+      "36.92905",
+      "-94.9095199",
+      "-94.8334129"
+    ],
+    "lat": "36.8746177",
+    "lon": "-94.8773739",
+    "display_name": "Miami, Ottawa County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47454060152676,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "77543950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49551273",
+    "boundingbox": [
+      "18.6708581",
+      "18.6880402",
+      "-72.2521519",
+      "-72.2422941"
+    ],
+    "lat": "18.6797164",
+    "lon": "-72.246294",
+    "display_name": "Miami, Commune Croix-des-Bouquets, Arrondissement de Croix-des-Bouquets, D\u00e9partement de l'Ouest, Ayiti",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "446259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154214318",
+    "boundingbox": [
+      "38.1323268",
+      "38.1723268",
+      "-81.4678919",
+      "-81.4278919"
+    ],
+    "lat": "38.1523268",
+    "lon": "-81.4478919",
+    "display_name": "Miami, Kanawha County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40496966945241,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "526342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "185549870",
+    "boundingbox": [
+      "-28.0880038",
+      "-28.0480038",
+      "153.4177915",
+      "153.4577915"
+    ],
+    "lat": "-28.0680038",
+    "lon": "153.4377915",
+    "display_name": "Miami, Gold Coast, Gold Coast City, QLD, 4220, Australia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72646306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33005357",
+    "boundingbox": [
+      "33.381582",
+      "33.404797",
+      "-110.8917799",
+      "-110.8597119"
+    ],
+    "lat": "33.3994776",
+    "lon": "-110.8709499",
+    "display_name": "Miami, Gila County, Arizona, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40279244437698,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

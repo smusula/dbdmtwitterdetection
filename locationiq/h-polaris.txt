@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "326272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141028951",
+    "boundingbox": [
+      "39.3190735",
+      "39.3590735",
+      "-120.1557525",
+      "-120.1157525"
+    ],
+    "lat": "39.3390735",
+    "lon": "-120.1357525",
+    "display_name": "Polaris, Nevada County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.44591584070199,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "346384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150975523",
+    "boundingbox": [
+      "45.3496461",
+      "45.3896461",
+      "-113.139487",
+      "-113.099487"
+    ],
+    "lat": "45.3696461",
+    "lon": "-113.119487",
+    "display_name": "Polaris, Beaverhead County, Montana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31606775332943,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2650485145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470023244",
+    "boundingbox": [
+      "53.228327",
+      "53.2289809",
+      "6.5435894",
+      "6.5443381"
+    ],
+    "lat": "53.22863115",
+    "lon": "6.54397335900297",
+    "display_name": "Polaris, Groningen, Nederland, 9742NG, Nederland",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "158852153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439102804",
+    "boundingbox": [
+      "-6.1253125",
+      "-6.1229527",
+      "106.5225553",
+      "106.5242125"
+    ],
+    "lat": "-6.12409875",
+    "lon": "106.523560711189",
+    "display_name": "Polaris, Rajegmulya, Banten, Indonesia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "108264093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188683684",
+    "boundingbox": [
+      "51.8359636",
+      "51.8364648",
+      "4.1641296",
+      "4.1642473"
+    ],
+    "lat": "51.8363426",
+    "lon": "4.1641834",
+    "display_name": "Polaris, Hellevoetsluis, MRDH, Zuid-Holland, Nederland, 3225GR, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108242341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188683680",
+    "boundingbox": [
+      "51.8365965",
+      "51.8371345",
+      "4.1626401",
+      "4.1634896"
+    ],
+    "lat": "51.836844",
+    "lon": "4.1628764",
+    "display_name": "Polaris, Hellevoetsluis, MRDH, Zuid-Holland, Nederland, 3225GT, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118591071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230681636",
+    "boundingbox": [
+      "52.0352696",
+      "52.0359094",
+      "4.6262065",
+      "4.6272403"
+    ],
+    "lat": "52.0355778",
+    "lon": "4.6267075",
+    "display_name": "Polaris, Zuidplas '90, Waddinxveen, Zuid-Holland, Nederland, 2743MV, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2645857517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "216621447",
+    "boundingbox": [
+      "14.5624837",
+      "14.5625813",
+      "121.0292592",
+      "121.0303712"
+    ],
+    "lat": "14.5625813",
+    "lon": "121.0296749",
+    "display_name": "Polaris, Bel-Air Village Phase I and II, Makati, District I, Makati, Metro Manila, 1200, Philippines",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2645857523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "458057718",
+    "boundingbox": [
+      "14.5624445",
+      "14.562522",
+      "121.0303712",
+      "121.0305485"
+    ],
+    "lat": "14.562522",
+    "lon": "121.0303712",
+    "display_name": "Polaris, Bel-Air Village Phase I and II, Makati, District I, Makati, Metro Manila, 1209, Philippines",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70948713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28535202",
+    "boundingbox": [
+      "14.560927",
+      "14.5622484",
+      "121.030848",
+      "121.0325387"
+    ],
+    "lat": "14.560927",
+    "lon": "121.0325387",
+    "display_name": "Polaris, Bel-Air 1, Bel-Air, Makati, District I, Makati, Metro Manila, 1209, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

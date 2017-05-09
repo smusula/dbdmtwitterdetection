@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "161037978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6610996",
+    "boundingbox": [
+      "6.1554196",
+      "6.1614761",
+      "1.2255757",
+      "1.2341011"
+    ],
+    "lat": "6.1589299",
+    "lon": "1.2298287",
+    "display_name": "Tokoin-Forever, 2e Arr., Lom\u00e9, Togo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "108525156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189973161",
+    "boundingbox": [
+      "41.7796308",
+      "41.7815123",
+      "-88.1271045",
+      "-88.1226978"
+    ],
+    "lat": "41.7805689",
+    "lon": "-88.1248525350845",
+    "display_name": "Forever, DuPage County, Illinois, 60540, United States of America",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "50334078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3752568839",
+    "boundingbox": [
+      "31.2122871",
+      "31.2123871",
+      "121.4532396",
+      "121.4533396"
+    ],
+    "lat": "31.2123371",
+    "lon": "121.4532896",
+    "display_name": "forever, \u8944\u9633\u5357\u8def, \u5f90\u6c47\u533a, \u4e0a\u6d77\u5e02, 200000, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "56873070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4443917144",
+    "boundingbox": [
+      "12.9700716",
+      "12.9701716",
+      "77.6094642",
+      "77.6095642"
+    ],
+    "lat": "12.9701216",
+    "lon": "77.6095142",
+    "display_name": "Forever, Ashoknagar, Magrath Road, Tasker Town, Ashok Nagar, Bengaluru, Bangalore Urban, Karnataka, 560025, India",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "25207753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2436685051",
+    "boundingbox": [
+      "45.4384941",
+      "45.4385941",
+      "4.3900181",
+      "4.3901181"
+    ],
+    "lat": "45.4385441",
+    "lon": "4.3900681",
+    "display_name": "Le Forever, Rue Fran\u00e7ois Gillet, Place Antonin Moine, Saint-\u00c9tienne, Loire, Auvergne-Rh\u00f4ne-Alpes, 42000;42100, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54223034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4186127898",
+    "boundingbox": [
+      "47.7956144",
+      "47.7957144",
+      "3.5679576",
+      "3.5680576"
+    ],
+    "lat": "47.7956644",
+    "lon": "3.5680076",
+    "display_name": "Forever, Place Robillard, Centre-Ville, Vaux, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, 89000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "15827015",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1444978348",
+    "boundingbox": [
+      "43.807658",
+      "43.807758",
+      "-79.4231749",
+      "-79.4230749"
+    ],
+    "lat": "43.807708",
+    "lon": "-79.4231249",
+    "display_name": "Forever, 7368, Yonge Street, Thornhill, Vaughan, York Region, Ontario, L3T2A5, Canada",
+    "class": "shop",
+    "type": "photo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40679575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2968772085",
+    "boundingbox": [
+      "46.8123451",
+      "46.8124451",
+      "0.5491905",
+      "0.5492905"
+    ],
+    "lat": "46.8123951",
+    "lon": "0.5492405",
+    "display_name": "Forever, 72, Rue de la Chevretterie, La Renaitrie, Ch\u00e2tellerault, Vienne, Nouvelle-Aquitaine, 86100, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56210515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405552104",
+    "boundingbox": [
+      "31.2749386",
+      "31.2750386",
+      "121.5198887",
+      "121.5199887"
+    ],
+    "lat": "31.2749886",
+    "lon": "121.5199387",
+    "display_name": "Forever, \u5468\u5bb6\u5634\u8def, \u6768\u6d66\u533a, \u4e94\u89d2\u573a\u8857\u9053, \u6768\u6d66\u533a, \u4e0a\u6d77\u5e02, 200093, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "56000431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4370640272",
+    "boundingbox": [
+      "27.4719194",
+      "27.4720194",
+      "89.6387223",
+      "89.6388223"
+    ],
+    "lat": "27.4719694",
+    "lon": "89.6387723",
+    "display_name": "Forever, Norzin Lam - 2, \u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74, \u0f50\u0f72\u0f58\u0f0b\u0f55\u0f74\u0f0b\u0f62\u0fab\u0f7c\u0f44\u0f0b\u0f41\u0f42\u0f0b, 215, \u0f60\u0f56\u0fb2\u0f74\u0f42\u0f0b\u0f61\u0f74\u0f63\u0f0b",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "115099347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217515495",
+    "boundingbox": [
+      "39.0045163",
+      "39.0053312",
+      "-121.5460998",
+      "-121.546092"
+    ],
+    "lat": "39.0053312",
+    "lon": "-121.5460998",
+    "display_name": "Cookout, Plumas Lake, Yuba County, California, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "16739290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1573466989",
+    "boundingbox": [
+      "33.774217",
+      "33.774317",
+      "-84.3692483",
+      "-84.3691483"
+    ],
+    "lat": "33.774267",
+    "lon": "-84.3691983",
+    "display_name": "Cookout, 544, Ponce de Leon Avenue Northeast, Sweet Auburn, Virginia Highland, Atlanta, Fulton County, Georgia, 30306, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

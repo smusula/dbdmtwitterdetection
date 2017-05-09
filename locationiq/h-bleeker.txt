@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "67060208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20192212",
+    "boundingbox": [
+      "40.949557",
+      "40.950424",
+      "-73.0654069",
+      "-73.0652019"
+    ],
+    "lat": "40.949855",
+    "lon": "-73.0654059",
+    "display_name": "Bleeker, Port Jefferson, Suffolk County, New York, 11777, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "96545553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140334140",
+    "boundingbox": [
+      "51.4963836",
+      "51.4964841",
+      "-0.1447069",
+      "-0.1445768"
+    ],
+    "lat": "51.4964261",
+    "lon": "-0.144636114205661",
+    "display_name": "Bleeker, 205, Victoria Street, St. James's, Victoria, City of Westminster, London, Greater London, England, SW1E 5NE, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "47308151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3431408834",
+    "boundingbox": [
+      "52.6298029",
+      "52.6299029",
+      "4.7499944",
+      "4.7500944"
+    ],
+    "lat": "52.6298529",
+    "lon": "4.7500444",
+    "display_name": "Bleeker, 125, Verdronkenoord, Alkmaar, Noord-Holland, Nederland, 1811BD, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "978617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "290078515",
+    "boundingbox": [
+      "52.9606817",
+      "52.9607817",
+      "5.9222414",
+      "5.9223414"
+    ],
+    "lat": "52.9607317",
+    "lon": "5.9222914",
+    "display_name": "Bleeker, 8, Oude Koemarkt, Heerenveen, Friesland, Nederland, 8441EV, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "15027286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1349023134",
+    "boundingbox": [
+      "53.2693085",
+      "53.2694085",
+      "10.3812164",
+      "10.3813164"
+    ],
+    "lat": "53.2693585",
+    "lon": "10.3812664",
+    "display_name": "Bleeker, 20, Lupmerfeld, Ochtmissen, L\u00fcneburg, Landkreis L\u00fcneburg, Niedersachsen, 21339, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10988913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1056271763",
+    "boundingbox": [
+      "32.867407",
+      "32.867507",
+      "35.2759801",
+      "35.2760801"
+    ],
+    "lat": "32.867457",
+    "lon": "35.2760301",
+    "display_name": "\u05d1\u05dc\u05d9\u05e7\u05e8, \u05d9\u05e8\u05d5\u05e7, \u05d0\u05d6\u05d5\u05e8 \u05ea\u05e2\u05e9\u05d9\u05d4 \u05ea\u05e8\u05d3\u05d9\u05d5\u05df, \u05de\u05d5\u05e2\u05e6\u05d4 \u05d0\u05d6\u05d5\u05e8\u05d9\u05ea \u05de\u05e9\u05d2\u05d1, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 20174, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

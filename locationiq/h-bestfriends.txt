@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "20007148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1962817827",
+    "boundingbox": [
+      "14.6450171",
+      "14.6451171",
+      "120.9837201",
+      "120.9838201"
+    ],
+    "lat": "14.6450671",
+    "lon": "120.9837701",
+    "display_name": "Bestfriends Pares and Catering Services, Rizal Avenue Extension, 113, Caloocan, Metro Manila, 1400, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "23630264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2323846686",
+    "boundingbox": [
+      "14.6573033",
+      "14.6574033",
+      "120.9799076",
+      "120.9800076"
+    ],
+    "lat": "14.6573533",
+    "lon": "120.9799576",
+    "display_name": "Bestfriend's Pares, C-4, University Hills, Caloocan, Metro Manila, 1400, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

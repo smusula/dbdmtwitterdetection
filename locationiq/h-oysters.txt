@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "14463043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1312068474",
+    "boundingbox": [
+      "52.7168026",
+      "52.7169026",
+      "-2.1183169",
+      "-2.1182169"
+    ],
+    "lat": "52.7168526",
+    "lon": "-2.1182669",
+    "display_name": "Oysters, Wolverhampton Road, Penkridge, South Staffordshire, Staffordshire, West Midlands, England, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "40109526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2946730960",
+    "boundingbox": [
+      "52.5860322",
+      "52.5861322",
+      "-1.9784716",
+      "-1.9783716"
+    ],
+    "lat": "52.5860822",
+    "lon": "-1.9784216",
+    "display_name": "Oysters, Lichfield Street, Blakenall, Walsall, West Midlands, England, WS1 1SL, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "141922511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "344037211",
+    "boundingbox": [
+      "51.0999506",
+      "51.1001075",
+      "-0.8757284",
+      "-0.8754391"
+    ],
+    "lat": "51.10002905",
+    "lon": "-0.875583749999992",
+    "display_name": "The Oysters, Drift Road, Selborne, East Hampshire, Hampshire, South East, England, GU35 9DZ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6996018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "711757095",
+    "boundingbox": [
+      "33.6034844",
+      "33.6035844",
+      "-117.8738861",
+      "-117.8737861"
+    ],
+    "lat": "33.6035344",
+    "lon": "-117.8738361",
+    "display_name": "Oysters, Carnation Avenue, Corona del Mar, Newport Beach, Orange County, California, 92625, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "97888847",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "146161170",
+    "boundingbox": [
+      "28.8988828",
+      "28.8990306",
+      "-82.5880253",
+      "-82.5878014"
+    ],
+    "lat": "28.8989929",
+    "lon": "-82.5879504218112",
+    "display_name": "Oysters, Suncoast Boulevard, Crystal River, Citrus County, Florida, 34429, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

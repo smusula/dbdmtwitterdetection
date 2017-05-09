@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "145898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29498430",
+    "boundingbox": [
+      "51.2572851",
+      "51.2972851",
+      "-2.7978851",
+      "-2.7578851"
+    ],
+    "lat": "51.2772851",
+    "lon": "-2.7778851",
+    "display_name": "Cheddar, Somerset, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.5223229732563,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "436884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154377214",
+    "boundingbox": [
+      "34.5581677",
+      "34.5981677",
+      "-82.5162394",
+      "-82.4762394"
+    ],
+    "lat": "34.5781677",
+    "lon": "-82.4962394",
+    "display_name": "Cheddar, Anderson County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7005543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "746931635",
+    "boundingbox": [
+      "51.2754592",
+      "51.2755592",
+      "-2.7780463",
+      "-2.7779463"
+    ],
+    "lat": "51.2755092",
+    "lon": "-2.7779963",
+    "display_name": "Cheddar, Bath Street, Cheddar CP, Sedgemoor District, Somerset, South West England, England, BS27 3AQ, UK",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "15668554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1430816350",
+    "boundingbox": [
+      "51.2752427",
+      "51.2753427",
+      "-2.7843412",
+      "-2.7842412"
+    ],
+    "lat": "51.2752927",
+    "lon": "-2.7842912",
+    "display_name": "Cheddar, Back Lane, Cheddar CP, Sedgemoor District, Somerset, South West England, England, BS27 3EB, UK",
+    "class": "railway",
+    "type": "disused_station",
+    "importance": 0.101
+  }
+]

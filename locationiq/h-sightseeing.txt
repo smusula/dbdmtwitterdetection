@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "133784474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "304542737",
+    "boundingbox": [
+      "36.8042742",
+      "36.8043381",
+      "15.0932051",
+      "15.0932726"
+    ],
+    "lat": "36.80430695",
+    "lon": "15.0932388950758",
+    "display_name": "sightseeing, Strada provinciale Noto-Pachino, Casa Maccari, Noto, SR, SIC, Italia",
+    "class": "leisure",
+    "type": "bird_hide",
+    "importance": 0.111
+  },
+  {
+    "place_id": "17542286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1687509506",
+    "boundingbox": [
+      "43.3512984",
+      "43.3513984",
+      "19.9728708",
+      "19.9729708"
+    ],
+    "lat": "43.3513484",
+    "lon": "19.9729208",
+    "display_name": "\u0432\u0438\u0434\u0438\u043a\u043e\u0432\u0430\u0446, \u0441\u0442\u0430\u0437\u0430 \u043a\u0430 \u0432\u0438\u0434\u0438\u043a\u043e\u0432\u0446\u0443, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0421\u0458\u0435\u043d\u0438\u0446\u0430, \u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  }
+]

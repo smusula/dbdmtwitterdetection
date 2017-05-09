@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "491375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158653309",
+    "boundingbox": [
+      "38.1393008",
+      "38.1793008",
+      "-78.507234",
+      "-78.467234"
+    ],
+    "lat": "38.1593008",
+    "lon": "-78.487234",
+    "display_name": "The Pines, Albemarle County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.44968791288845,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "349875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150981962",
+    "boundingbox": [
+      "37.2996032",
+      "37.3396032",
+      "-119.5722852",
+      "-119.5322852"
+    ],
+    "lat": "37.3196032",
+    "lon": "-119.5522852",
+    "display_name": "The Pines, Madera County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41303438301933,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2601501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356676107",
+    "boundingbox": [
+      "37.0916001",
+      "37.0917001",
+      "-113.0374902",
+      "-113.0373902"
+    ],
+    "lat": "37.0916501",
+    "lon": "-113.0374402",
+    "display_name": "The Pines, Washington County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "19002219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1858228404",
+    "boundingbox": [
+      "33.7625681",
+      "33.8025681",
+      "-118.3269301",
+      "-118.2869301"
+    ],
+    "lat": "33.7825681",
+    "lon": "-118.3069301",
+    "display_name": "Harbor Pines, Los Angeles County, California, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "490975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158628944",
+    "boundingbox": [
+      "40.1251061",
+      "40.1651061",
+      "-75.4312952",
+      "-75.3912952"
+    ],
+    "lat": "40.1451061",
+    "lon": "-75.4112952",
+    "display_name": "The Pines, Montgomery County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "490532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158646217",
+    "boundingbox": [
+      "39.8739851",
+      "39.9139851",
+      "-77.1352594",
+      "-77.0952594"
+    ],
+    "lat": "39.8939851",
+    "lon": "-77.1152594",
+    "display_name": "The Pines, Adams County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "503090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158855469",
+    "boundingbox": [
+      "42.5237047",
+      "42.5637047",
+      "-71.2467234",
+      "-71.2067234"
+    ],
+    "lat": "42.5437047",
+    "lon": "-71.2267234",
+    "display_name": "The Pines, Middlesex County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "448221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154206075",
+    "boundingbox": [
+      "39.0947812",
+      "39.1347812",
+      "-84.6488342",
+      "-84.6088342"
+    ],
+    "lat": "39.1147812",
+    "lon": "-84.6288342",
+    "display_name": "The Pines, Delhi Township, Hamilton County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "405667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153854106",
+    "boundingbox": [
+      "37.2240254",
+      "37.2640254",
+      "-80.0455938",
+      "-80.0055938"
+    ],
+    "lat": "37.2440254",
+    "lon": "-80.0255938",
+    "display_name": "The Pines, Roanoke County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153807372",
+    "boundingbox": [
+      "46.3258333",
+      "46.3658333",
+      "-86.3072221",
+      "-86.2672221"
+    ],
+    "lat": "46.3458333",
+    "lon": "-86.2872221",
+    "display_name": "Pines, Schoolcraft County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

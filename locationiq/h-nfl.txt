@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "194648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "33147208",
+    "boundingbox": [
+      "51.4409342",
+      "51.4509342",
+      "0.3189596",
+      "0.3289596"
+    ],
+    "lat": "51.4459342",
+    "lon": "0.3239596",
+    "display_name": "Northfleet, Railway Street, Gravesham, Kent, South East, England, DA11 9DR, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.32976304828016,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2609046072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4471110004",
+    "boundingbox": [
+      "30.9851649",
+      "31.0251649",
+      "49.6919233",
+      "49.7319233"
+    ],
+    "lat": "31.0051649",
+    "lon": "49.7119233",
+    "display_name": "\u0646\u0641\u0644, \u0628\u062e\u0634 \u062c\u0627\u06cc\u0632\u0627\u0646, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0645\u06cc\u062f\u06cc\u0647, \u0627\u0633\u062a\u0627\u0646 \u062e\u0648\u0632\u0633\u062a\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74009914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36374193",
+    "boundingbox": [
+      "50.6705926",
+      "50.6709378",
+      "10.9867767",
+      "10.9872376"
+    ],
+    "lat": "50.6707908",
+    "lon": "10.9870109583581",
+    "display_name": "NFL, Wilhelm-H\u00f6pflinger-Stra\u00dfe, In den Folgen III, Langewiesen, Ilm-Kreis, Th\u00fcringen, 98704, Deutschland, Europe",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11018491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042045789",
+    "boundingbox": [
+      "39.4130285",
+      "39.4131285",
+      "-118.6926385",
+      "-118.6925385"
+    ],
+    "lat": "39.4130785",
+    "lon": "-118.6925885",
+    "display_name": "Naval Air Station Fallon (Van Voorhis Field), Perimeter Road, Fallon Station, Churchill County, Nevada, 89406, United States of America",
+    "class": "military",
+    "type": "airfield",
+    "importance": 0.001
+  }
+]

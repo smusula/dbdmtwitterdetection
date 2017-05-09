@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "420770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153813165",
+    "boundingbox": [
+      "35.6389574",
+      "35.6789574",
+      "-86.7541646",
+      "-86.7141646"
+    ],
+    "lat": "35.6589574",
+    "lon": "-86.7341646",
+    "display_name": "Thick, Marshall County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50550983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3753315201",
+    "boundingbox": [
+      "45.5208583",
+      "45.5209583",
+      "-122.6806929",
+      "-122.6805929"
+    ],
+    "lat": "45.5209083",
+    "lon": "-122.6806429",
+    "display_name": "Thick, Southwest 9th Avenue, Pearl District, Portland, Multnomah County, Oregon, 97205, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

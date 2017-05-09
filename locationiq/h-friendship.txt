@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "82907579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85699867",
+    "boundingbox": [
+      "6.642741",
+      "6.6659427",
+      "-58.1961733",
+      "-58.1806578"
+    ],
+    "lat": "6.6561163",
+    "lon": "-58.1864605",
+    "display_name": "Friendship, Demerara-Mahaica Region, Demerara-Mahaica, Guyana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "477728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158646760",
+    "boundingbox": [
+      "38.7167839",
+      "38.7567839",
+      "-76.6094036",
+      "-76.5694036"
+    ],
+    "lat": "38.7367839",
+    "lon": "-76.5894036",
+    "display_name": "Friendship, Anne Arundel County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160287684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "176285",
+    "boundingbox": [
+      "42.188852",
+      "42.220012",
+      "-78.1914749",
+      "-78.1118729"
+    ],
+    "lat": "42.2064566",
+    "lon": "-78.1375098",
+    "display_name": "Friendship, Allegany County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39899904973499,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160299559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "242818",
+    "boundingbox": [
+      "43.966835",
+      "43.977726",
+      "-89.8379589",
+      "-89.8074699"
+    ],
+    "lat": "43.9705262",
+    "lon": "-89.8167929",
+    "display_name": "Friendship, Adams County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "441310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157556974",
+    "boundingbox": [
+      "35.6787634",
+      "35.7187634",
+      "-78.9197321",
+      "-78.8797321"
+    ],
+    "lat": "35.6987634",
+    "lon": "-78.8997321",
+    "display_name": "Friendship, Wake County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "488478",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158627683",
+    "boundingbox": [
+      "39.6423192",
+      "39.6823192",
+      "-77.4602656",
+      "-77.4202656"
+    ],
+    "lat": "39.6623192",
+    "lon": "-77.4402656",
+    "display_name": "Friendship, Frederick County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "472137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158597464",
+    "boundingbox": [
+      "39.2870489",
+      "39.3270489",
+      "-77.2172047",
+      "-77.1772047"
+    ],
+    "lat": "39.3070489",
+    "lon": "-77.1972047",
+    "display_name": "Friendship, Montgomery County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "444871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154299085",
+    "boundingbox": [
+      "36.5259461",
+      "36.5659461",
+      "-82.0362355",
+      "-81.9962355"
+    ],
+    "lat": "36.5459461",
+    "lon": "-82.0162355",
+    "display_name": "Friendship, Sullivan County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "505104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158859776",
+    "boundingbox": [
+      "39.850671",
+      "39.890671",
+      "-74.7112692",
+      "-74.6712692"
+    ],
+    "lat": "39.870671",
+    "lon": "-74.6912692",
+    "display_name": "Friendship, Burlington County, New Jersey, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "455999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157572128",
+    "boundingbox": [
+      "39.6023367",
+      "39.6423367",
+      "-75.2024042",
+      "-75.1624042"
+    ],
+    "lat": "39.6223367",
+    "lon": "-75.1824042",
+    "display_name": "Friendship, Salem County, New Jersey, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

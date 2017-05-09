@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160256739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "85832",
+    "boundingbox": [
+      "48.3924673",
+      "48.4347642",
+      "7.3164717",
+      "7.4812455"
+    ],
+    "lat": "48.4088704",
+    "lon": "7.4492808",
+    "display_name": "Barr, S\u00e9lestat-Erstein, Bas-Rhin, Grand-Est, 67140, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58515844751099,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160357366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "575119",
+    "boundingbox": [
+      "46.0335566",
+      "46.076986",
+      "18.688649",
+      "18.7373897"
+    ],
+    "lat": "46.051814",
+    "lon": "18.7172495",
+    "display_name": "B\u00e1r, Moh\u00e1csi j\u00e1r\u00e1s, Baranya megye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57758047647842,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "105399795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "176147615",
+    "boundingbox": [
+      "42.0622348",
+      "42.1180517",
+      "19.0686551",
+      "19.1410381"
+    ],
+    "lat": "42.0979745",
+    "lon": "19.0954528",
+    "display_name": "Bar, Op\u0161tina Bar, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "place",
+    "type": "town",
+    "importance": 0.52343250631412,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160694549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3644702",
+    "boundingbox": [
+      "49.4315184",
+      "49.6974561",
+      "4.8075258",
+      "4.9287228"
+    ],
+    "lat": "49.578469",
+    "lon": "4.8398251",
+    "display_name": "La Bar, Sedan, Ardennes, Grand-Est, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "26429021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2518613922",
+    "boundingbox": [
+      "36.4497198",
+      "36.5297198",
+      "58.6761898",
+      "58.7561898"
+    ],
+    "lat": "36.4897198",
+    "lon": "58.7161898",
+    "display_name": "\u0628\u0627\u0631, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u06cc\u0634\u0627\u0628\u0648\u0631, \u0627\u0633\u062a\u0627\u0646 \u062e\u0631\u0627\u0633\u0627\u0646 \u0631\u0636\u0648\u06cc\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "town",
+    "importance": 0.44674790894764,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160606365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2925080",
+    "boundingbox": [
+      "49.0648837",
+      "49.0911324",
+      "27.64908",
+      "27.701854"
+    ],
+    "lat": "49.0728061",
+    "lon": "27.6731377",
+    "display_name": "\u0411\u0430\u0440, \u0411\u0430\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42781050376192,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "22558660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2229100986",
+    "boundingbox": [
+      "2.202778",
+      "2.242778",
+      "33.043889",
+      "33.083889"
+    ],
+    "lat": "2.222778",
+    "lon": "33.063889",
+    "display_name": "Bar, Erute, Lira, Northern Region, Uganda",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160456525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1683138",
+    "boundingbox": [
+      "47.1508675",
+      "47.2232373",
+      "8.4960226",
+      "8.5777497"
+    ],
+    "lat": "47.1948302",
+    "lon": "8.5256134",
+    "display_name": "Baar, Zug, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36415097256809,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "111307922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "201366404",
+    "boundingbox": [
+      "49.3637313",
+      "49.3700704",
+      "23.4148097",
+      "23.4450076"
+    ],
+    "lat": "49.3666096",
+    "lon": "23.4298719",
+    "display_name": "\u0411\u0430\u0440, \u0423\u043d\u044f\u0442\u0438\u0446\u044c\u043a\u0430 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "115191454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217796919",
+    "boundingbox": [
+      "49.3699739",
+      "49.3791131",
+      "23.4450076",
+      "23.4776145"
+    ],
+    "lat": "49.3764782",
+    "lon": "23.4598459",
+    "display_name": "\u0411\u0430\u0440, \u041b\u0456\u0448\u043d\u044f\u043d\u0441\u044c\u043a\u0430 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u0440\u043e\u0433\u043e\u0431\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "270103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "69504608",
+    "boundingbox": [
+      "42.3538276",
+      "42.3638276",
+      "-71.06226",
+      "-71.05226"
+    ],
+    "lat": "42.3588276",
+    "lon": "-71.05726",
+    "display_name": "State, State Street, Dock Square, Financial District, Boston, Suffolk County, Massachusetts, 02109, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.34054450316591,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "66376569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19611235",
+    "boundingbox": [
+      "35.1184299",
+      "35.1197109",
+      "-89.9389827",
+      "-89.9389558"
+    ],
+    "lat": "35.1184299",
+    "lon": "-89.9389827",
+    "display_name": "State, Memphis, Shelby County, Tennessee, 38111, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58570360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6961296",
+    "boundingbox": [
+      "52.0330678",
+      "52.0330815",
+      "5.573167",
+      "5.5737622"
+    ],
+    "lat": "52.0330815",
+    "lon": "5.573167",
+    "display_name": "State, Veenendaal, Utrecht, Nederland, 3902CR, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58913004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6961204",
+    "boundingbox": [
+      "52.0330811",
+      "52.0331518",
+      "5.5722297",
+      "5.5726166"
+    ],
+    "lat": "52.033123",
+    "lon": "5.5725457",
+    "display_name": "State, Veenendaal, Utrecht, Nederland, 3902CP, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58619446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6961316",
+    "boundingbox": [
+      "52.0330527",
+      "52.0330678",
+      "5.5737622",
+      "5.5744519"
+    ],
+    "lat": "52.0330554",
+    "lon": "5.57433",
+    "display_name": "State, Veenendaal, Utrecht, Nederland, 3902CS, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58570327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6961236",
+    "boundingbox": [
+      "52.0331518",
+      "52.0335256",
+      "5.5721154",
+      "5.5722672"
+    ],
+    "lat": "52.0335134",
+    "lon": "5.5722672",
+    "display_name": "State, Veenendaal, Utrecht, Nederland, 3902CM, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58619396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6961274",
+    "boundingbox": [
+      "52.0330381",
+      "52.0330527",
+      "5.5744519",
+      "5.5748664"
+    ],
+    "lat": "52.0330429",
+    "lon": "5.5747532",
+    "display_name": "State, Veenendaal, Utrecht, Nederland, 3902DJ, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63726185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15402036",
+    "boundingbox": [
+      "29.753294",
+      "29.7535936",
+      "-94.9650779",
+      "-94.9650439"
+    ],
+    "lat": "29.753294",
+    "lon": "-94.9650439",
+    "display_name": "State, Baytown, Harris County, Texas, 77520, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68314433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21877701",
+    "boundingbox": [
+      "30.281628",
+      "30.281635",
+      "-95.1440899",
+      "-95.1411919"
+    ],
+    "lat": "30.281628",
+    "lon": "-95.1440899",
+    "display_name": "State, Montgomery County, Texas, 77328, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67963152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21697852",
+    "boundingbox": [
+      "38.828072",
+      "38.828078",
+      "-89.5367529",
+      "-89.5362879"
+    ],
+    "lat": "38.828078",
+    "lon": "-89.5367529",
+    "display_name": "State, Pocahontas, Bond County, Illinois, 62275, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

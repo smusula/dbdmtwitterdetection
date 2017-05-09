@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "11904116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1141919591",
+    "boundingbox": [
+      "52.2731844",
+      "52.2732844",
+      "8.0439111",
+      "8.0440111"
+    ],
+    "lat": "52.2732344",
+    "lon": "8.0439611",
+    "display_name": "Handsome, An der Katharinenkirche, Altstadt, Innenstadt, Osnabr\u00fcck, Niedersachsen, 49074, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "4075804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "441569104",
+    "boundingbox": [
+      "56.4793941",
+      "56.4794941",
+      "84.8864431",
+      "84.8865431"
+    ],
+    "lat": "56.4794441",
+    "lon": "84.8864931",
+    "display_name": "\u041a\u0440\u0430\u0441\u0430\u0432\u0435\u0446, 9, \u041d\u043e\u0432\u043e\u0442\u0440\u0430\u043a\u0442\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0413\u043e\u0440\u043e\u0434\u043e\u043a, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0438\u043c\u0438\u0440\u044f\u0437\u0435\u0432\u0441\u043a\u043e\u0435, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0422\u043e\u043c\u0441\u043a, \u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, \u0420\u0424",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

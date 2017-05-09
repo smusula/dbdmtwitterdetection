@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "2654777764",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4749285585",
+    "boundingbox": [
+      "1.325992",
+      "1.326092",
+      "103.8483662",
+      "103.8484662"
+    ],
+    "lat": "1.326042",
+    "lon": "103.8484162",
+    "display_name": "Lights, Balestier Road, Balestier, Singapore, Central Singapore Community Development Council, 329816, Singapore",
+    "class": "shop",
+    "type": "lighting",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120531728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239069586",
+    "boundingbox": [
+      "51.2103628",
+      "51.2106871",
+      "-1.4830308",
+      "-1.4822667"
+    ],
+    "lat": "51.21046005",
+    "lon": "-1.48264995053296",
+    "display_name": "The Lights, West Street cycle path, Andover, Test Valley, Hampshire, South East, England, SP10 2BS, UK",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "130943302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "291295868",
+    "boundingbox": [
+      "51.5845605",
+      "51.5847821",
+      "-2.1074484",
+      "-2.1064426"
+    ],
+    "lat": "51.5847063",
+    "lon": "-2.10672320843539",
+    "display_name": "The Lights, Sherston Road, Malmesbury CP, Malmesbury, Wiltshire, South West England, England, SN16 9, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "112344270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205799050",
+    "boundingbox": [
+      "53.7518617",
+      "53.7520547",
+      "9.664734",
+      "9.6652161"
+    ],
+    "lat": "53.7519171",
+    "lon": "9.66505294767344",
+    "display_name": "Lights, 45, Steindamm, Kaltenweide, Elmshorn, Kreis Pinneberg, Schleswig-Holstein, 25337, Deutschland",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55391548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4284824697",
+    "boundingbox": [
+      "49.9244778",
+      "49.9245778",
+      "21.1235185",
+      "21.1236185"
+    ],
+    "lat": "49.9245278",
+    "lon": "21.1235685",
+    "display_name": "Lights, Karpacka, Zalasowa, gmina Ryglice, powiat tarnowski, ma\u0142opolskie, Polska",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

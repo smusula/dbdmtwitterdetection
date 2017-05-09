@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "54278569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4194143070",
+    "boundingbox": [
+      "37.7843113",
+      "37.7844113",
+      "-122.4047933",
+      "-122.4046933"
+    ],
+    "lat": "37.7843613",
+    "lon": "-122.4047433",
+    "display_name": "500 startups, Mission Street, Union Square, SF, California, 94103, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654423055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4741039522",
+    "boundingbox": [
+      "9.641868",
+      "9.641968",
+      "76.6488233",
+      "76.6489233"
+    ],
+    "lat": "9.641918",
+    "lon": "76.6488733",
+    "display_name": "Toms College of Engineering for Startups.Mattakkara, Kozhuvanal Mattakkara Ayarkunnam Road, Kozhuvanal, Kottayam, Kerala, 686564, India",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

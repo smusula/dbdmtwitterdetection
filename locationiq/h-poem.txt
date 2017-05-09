@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160604172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3103093",
+    "boundingbox": [
+      "43.4714779",
+      "43.501266",
+      "-0.5868503",
+      "-0.5225725"
+    ],
+    "lat": "43.4924958",
+    "lon": "-0.5400618",
+    "display_name": "Pomps, Pau, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64370, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56569695182823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2610638760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454601425",
+    "boundingbox": [
+      "-9.4547044",
+      "-9.4260397",
+      "147.2060555",
+      "147.2299311"
+    ],
+    "lat": "-9.44025925",
+    "lon": "147.217122824251",
+    "display_name": "Jacksons International Airport, Morea-Tobo Road, Jacksons, Port Moresby, National Capital District, Papua Region, 111, Papua Niugini",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.3321866047208,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "906934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "282908188",
+    "boundingbox": [
+      "47.806969",
+      "47.846969",
+      "12.8422988",
+      "12.8822988"
+    ],
+    "lat": "47.826969",
+    "lon": "12.8622988",
+    "display_name": "Pom, Landkreis Berchtesgadener Land, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49984555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3719504850",
+    "boundingbox": [
+      "20.535285",
+      "20.575285",
+      "-88.1094403",
+      "-88.0694403"
+    ],
+    "lat": "20.555285",
+    "lon": "-88.0894403",
+    "display_name": "Pom, Valladolid, Yucat\u00e1n, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54340917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4199969508",
+    "boundingbox": [
+      "15.874185",
+      "15.914185",
+      "106.896563",
+      "106.936563"
+    ],
+    "lat": "15.894185",
+    "lon": "106.916563",
+    "display_name": "\u0ec2\u0e9b\u0ea1, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e81\u0eb0\u0ea5\u0eb6\u0ea1, \u0ec0\u0e8a\u0e81\u0ead\u0e87, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651707744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4677942382",
+    "boundingbox": [
+      "20.4138751",
+      "20.4538751",
+      "101.604369",
+      "101.644369"
+    ],
+    "lat": "20.4338751",
+    "lon": "101.624369",
+    "display_name": "\u0e9b\u0ec9\u0ead\u0ea1, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0ec1\u0e9a\u0ec8\u0e87, \u0ead\u0eb8\u0e94\u0ebb\u0ea1\u0ec4\u0e8a, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52763843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4016543960",
+    "boundingbox": [
+      "43.9861307",
+      "44.0061307",
+      "0.345335",
+      "0.365335"
+    ],
+    "lat": "43.9961307",
+    "lon": "0.355335",
+    "display_name": "Pom, Condom, Gers, Occitanie, 32100, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "77179858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48811464",
+    "boundingbox": [
+      "50.2473828",
+      "50.24927",
+      "22.43189",
+      "22.4345335"
+    ],
+    "lat": "50.24831025",
+    "lon": "22.4331918000998",
+    "display_name": "POM, Wierzawice, gmina Le\u017cajsk, powiat le\u017cajski, podkarpackie, Polska",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124396770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255317353",
+    "boundingbox": [
+      "52.233671",
+      "52.2346392",
+      "15.3965913",
+      "15.3990946"
+    ],
+    "lat": "52.2341821",
+    "lon": "15.3976094733184",
+    "display_name": "POM, Bor\u00f3w, gmina \u015awiebodzin, powiat \u015bwiebodzi\u0144ski, lubuskie, Polska",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54303970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4189317019",
+    "boundingbox": [
+      "42.9169747",
+      "42.9170747",
+      "74.5728858",
+      "74.5729858"
+    ],
+    "lat": "42.9170247",
+    "lon": "74.5729358",
+    "display_name": "\u041f\u041e\u041c, \u041c\u0430\u0445\u0430\u0442\u043c\u044b \u0413\u0430\u043d\u0434\u0438 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, \u0413\u0430\u0437 \u0433\u043e\u0440\u043e\u0434\u043e\u043a, \u0411\u0438\u0448\u043a\u0435\u043a, \u0410\u043b\u0430\u043c\u0443\u0434\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0438\u0448\u043a\u0435\u043a, 720054, \u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  }
+]

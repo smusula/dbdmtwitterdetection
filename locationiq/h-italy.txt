@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160323801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "365331",
+    "boundingbox": [
+      "35.2889616",
+      "47.0921462",
+      "6.6272658",
+      "18.7844746"
+    ],
+    "lat": "42.6384261",
+    "lon": "12.674297",
+    "display_name": "Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.91889400458555,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "114475",
+    "boundingbox": [
+      "32.164381",
+      "32.206289",
+      "-96.9079389",
+      "-96.8616689"
+    ],
+    "lat": "32.1840381",
+    "lon": "-96.8847193",
+    "display_name": "Italy, Ellis County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38518118496167,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "42700692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3096734932",
+    "boundingbox": [
+      "28.3676202",
+      "28.3677202",
+      "-81.5482625",
+      "-81.5481625"
+    ],
+    "lat": "28.3676702",
+    "lon": "-81.5482125",
+    "display_name": "Italy, 200, (S)WSC Promenade-South, Bay Lake, Reedy Creek Improvement District, Orange County, Florida, 32830, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "477607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158645542",
+    "boundingbox": [
+      "33.4285003",
+      "33.4685003",
+      "-79.5608963",
+      "-79.5208963"
+    ],
+    "lat": "33.4485003",
+    "lon": "-79.5408963",
+    "display_name": "Italy, Georgetown County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28497623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2669166953",
+    "boundingbox": [
+      "-25.1682379",
+      "-25.1282379",
+      "46.7408897",
+      "46.7808897"
+    ],
+    "lat": "-25.1482379",
+    "lon": "46.7608897",
+    "display_name": "Italy, District de T\u00f4lanaro, Region de Anosy, Province Toliara, Madagasikara",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654591513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87185651",
+    "boundingbox": [
+      "25.2211315",
+      "25.2232352",
+      "55.164445",
+      "55.1659075"
+    ],
+    "lat": "25.22217675",
+    "lon": "55.1653524646692",
+    "display_name": "Italy, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "islet",
+    "importance": 0.35
+  },
+  {
+    "place_id": "478485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158607863",
+    "boundingbox": [
+      "42.591735",
+      "42.631735",
+      "-77.3119245",
+      "-77.2719245"
+    ],
+    "lat": "42.611735",
+    "lon": "-77.2919245",
+    "display_name": "Italy, Yates County, New York, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.33865352680439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "82600759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83630218",
+    "boundingbox": [
+      "7.1444591",
+      "7.145141",
+      "125.6483647",
+      "125.6492443"
+    ],
+    "lat": "7.1447471",
+    "lon": "125.64859",
+    "display_name": "Italy, Vista Verde Phase 2, Lanang, Davao City, Davao, 8001, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101436285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161857684",
+    "boundingbox": [
+      "7.0429779",
+      "7.0437979",
+      "125.5811038",
+      "125.5815916"
+    ],
+    "lat": "7.0433219",
+    "lon": "125.5811147",
+    "display_name": "Italy, Dona Luisa Village Phase 2, Timburana Compound, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57668559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5707242",
+    "boundingbox": [
+      "14.6637841",
+      "14.6641163",
+      "121.1072175",
+      "121.1078355"
+    ],
+    "lat": "14.6637841",
+    "lon": "121.1078355",
+    "display_name": "Italy, Marikina Greenheigts Subdivision, Nangka, Marikina, Metro Manila, 1809, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

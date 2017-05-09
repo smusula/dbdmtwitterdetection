@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "1359876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "316976724",
+    "boundingbox": [
+      "39.9955431",
+      "41.2755431",
+      "-74.5905045",
+      "-73.3105045"
+    ],
+    "lat": "40.6355431",
+    "lon": "-73.9505045",
+    "display_name": "Kings, NYC, New York, United States of America",
+    "class": "place",
+    "type": "county",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160326674",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "396480",
+    "boundingbox": [
+      "35.7886118",
+      "36.4888321",
+      "-120.3151127",
+      "-119.4743754"
+    ],
+    "lat": "36.0784807",
+    "lon": "-119.7956341",
+    "display_name": "Kings County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54419464189333,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "102367611",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164848644",
+    "boundingbox": [
+      "52.2031767",
+      "52.2051422",
+      "0.1142163",
+      "0.1176728"
+    ],
+    "lat": "52.2040925",
+    "lon": "0.115874769321922",
+    "display_name": "King's College (University of Cambridge), Newnham Ward, Cambridge, Cambridgeshire, East of England, England, CB2 1ST, UK",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.48297854395147,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "389347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153578568",
+    "boundingbox": [
+      "41.984195",
+      "42.024195",
+      "-89.1259326",
+      "-89.0859326"
+    ],
+    "lat": "42.004195",
+    "lon": "-89.1059326",
+    "display_name": "Kings, Ogle County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "502309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158853153",
+    "boundingbox": [
+      "43.1309069",
+      "43.1709069",
+      "-73.8742894",
+      "-73.8342894"
+    ],
+    "lat": "43.1509069",
+    "lon": "-73.8542894",
+    "display_name": "Kings, Town of Greenfield, Saratoga County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "400797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153448083",
+    "boundingbox": [
+      "32.1826414",
+      "32.2226414",
+      "-87.0172086",
+      "-86.9772086"
+    ],
+    "lat": "32.2026414",
+    "lon": "-86.9972086",
+    "display_name": "Kings, Dallas County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "359873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151660026",
+    "boundingbox": [
+      "32.3770886",
+      "32.4170886",
+      "-90.8764926",
+      "-90.8364926"
+    ],
+    "lat": "32.3970886",
+    "lon": "-90.8564926",
+    "display_name": "Kings, Warren County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153777703",
+    "boundingbox": [
+      "39.6592014",
+      "39.6992014",
+      "-88.0053121",
+      "-87.9653121"
+    ],
+    "lat": "39.6792014",
+    "lon": "-87.9853121",
+    "display_name": "Kings, Coles County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35844201129513,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "101010876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160041422",
+    "boundingbox": [
+      "35.4824812",
+      "35.4829732",
+      "-97.5280283",
+      "-97.5278348"
+    ],
+    "lat": "35.4827285",
+    "lon": "-97.5279295935827",
+    "display_name": "Kings, Oklahoma City, Oklahoma County, Oklahoma, 73106, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "44676931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3160544506",
+    "boundingbox": [
+      "6.5593",
+      "6.5993",
+      "-8.9376499",
+      "-8.8976499"
+    ],
+    "lat": "6.5793",
+    "lon": "-8.9176499",
+    "display_name": "King's, Doe, Nimba County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "48020631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3504887766",
+    "boundingbox": [
+      "52.9479129",
+      "52.9679129",
+      "0.5322821",
+      "0.5522821"
+    ],
+    "lat": "52.9579129",
+    "lon": "0.5422821",
+    "display_name": "The Square, King's Lynn and West Norfolk, Norfolk, East of England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "135751117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313468731",
+    "boundingbox": [
+      "-25.8384511",
+      "-25.8369992",
+      "28.293864",
+      "28.2952884"
+    ],
+    "lat": "-25.837796",
+    "lon": "28.294631608133",
+    "display_name": "The Square, Tshwane Ward 91, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0044, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "109290213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193149475",
+    "boundingbox": [
+      "48.8952273",
+      "48.8961275",
+      "5.5378295",
+      "5.5381182"
+    ],
+    "lat": "48.89570375",
+    "lon": "5.53798575895753",
+    "display_name": "Square, Saint-Mihiel, Commercy, Meuse, Grand-Est, 55300, France",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "91520218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120140626",
+    "boundingbox": [
+      "47.25156",
+      "47.2520509",
+      "3.6798809",
+      "3.6806816"
+    ],
+    "lat": "47.2517987",
+    "lon": "3.68020004019692",
+    "display_name": "Square, Corbigny, Clamecy, Ni\u00e8vre, Bourgogne-Franche-Comt\u00e9, 58800, France",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "77704314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51360328",
+    "boundingbox": [
+      "50.6607993",
+      "50.6610068",
+      "-3.7653112",
+      "-3.7650055"
+    ],
+    "lat": "50.66086305",
+    "lon": "-3.76515855384615",
+    "display_name": "The Square, Moretonhampstead CP, Teignbridge, Devon, South West England, England, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "135601902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "312652756",
+    "boundingbox": [
+      "35.1338045",
+      "35.1340917",
+      "-120.6384448",
+      "-120.6381014"
+    ],
+    "lat": "35.13394805",
+    "lon": "-120.638273085773",
+    "display_name": "The Square, Pismo Beach, San Luis Obispo County, California, 93449, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "109674673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194826340",
+    "boundingbox": [
+      "53.1977349",
+      "53.1982264",
+      "-8.5725966",
+      "-8.5719385"
+    ],
+    "lat": "53.19799715",
+    "lon": "-8.57227650046327",
+    "display_name": "The Square, Loughrea, Loughrea Urban ED, Loughrea, County Galway, Connacht, H62KD91, Ireland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "106966834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182671368",
+    "boundingbox": [
+      "52.1371773",
+      "52.1380814",
+      "-8.6418854",
+      "-8.6401906"
+    ],
+    "lat": "52.1376283",
+    "lon": "-8.64110333168724",
+    "display_name": "The Square, Mallow, Mallow North Urban, Kanturk - Mallow, County Cork, Munster, Ireland",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "146994453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374571959",
+    "boundingbox": [
+      "51.0456783",
+      "51.0466395",
+      "3.231921",
+      "3.2329161"
+    ],
+    "lat": "51.04599975",
+    "lon": "3.23247797731078",
+    "display_name": "17, Square+, Zwevezele, Tielt, West-Vlaanderen, Vlaanderen, 8750, Belgi\u00eb - Belgique - Belgien",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2653720624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479373113",
+    "boundingbox": [
+      "36.803737",
+      "36.805527",
+      "-98.6684749",
+      "-98.6619045"
+    ],
+    "lat": "36.80461485",
+    "lon": "-98.6651891601816",
+    "display_name": "The Square, Alva, Woods County, Oklahoma, 73717, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  }
+]

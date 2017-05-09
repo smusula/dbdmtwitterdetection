@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "2655180949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "411683170",
+    "boundingbox": [
+      "51.6076087",
+      "51.6077087",
+      "-0.3749377",
+      "-0.3748377"
+    ],
+    "lat": "51.6076587",
+    "lon": "-0.3748877",
+    "display_name": "Partytime, Uxbridge Road, Hatch End, London Borough of Harrow, London, Greater London, England, HA5 4JN, UK",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25507255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2454729080",
+    "boundingbox": [
+      "53.3074585",
+      "53.3075585",
+      "-1.1231855",
+      "-1.1230855"
+    ],
+    "lat": "53.3075085",
+    "lon": "-1.1231355",
+    "display_name": "Partytime, Gateford Road, Worksop (Unparished), Bassetlaw, Nottinghamshire, East Midlands, England, S80 1SZ, UK",
+    "class": "shop",
+    "type": "amusements",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,110 @@
+[
+  {
+    "place_id": "160375375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1075766",
+    "boundingbox": [
+      "47.4604795",
+      "48.7012081",
+      "7.2128895",
+      "7.9338158"
+    ],
+    "lat": "48.0423069",
+    "lon": "7.4178933",
+    "display_name": "L'Ill, Colmar-Ribeauvill\u00e9, Haut-Rhin, Grand-Est, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.47009012684562
+  },
+  {
+    "place_id": "99277935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153003117",
+    "boundingbox": [
+      "48.6031336",
+      "48.6034952",
+      "7.7715661",
+      "7.7720021"
+    ],
+    "lat": "48.6034952",
+    "lon": "7.7715661",
+    "display_name": "L'Ill, Strasbourg, Bas-Rhin, Grand-Est, 67000;67100;67200, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "115814031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220372515",
+    "boundingbox": [
+      "46.9153188",
+      "46.9366495",
+      "10.0517976",
+      "10.0911066"
+    ],
+    "lat": "46.9176755",
+    "lon": "10.0665073",
+    "display_name": "Ill, Gaschurn, Bludenz, Vorarlberg, 6793, \u00d6sterreich",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "74069536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37388278",
+    "boundingbox": [
+      "49.4157761",
+      "49.4162066",
+      "7.0135158",
+      "7.0140405"
+    ],
+    "lat": "49.4158575",
+    "lon": "7.0137",
+    "display_name": "Ill, Eppelborn, Landkreis Neunkirchen, Saarland, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "100652475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158696619",
+    "boundingbox": [
+      "49.4043929",
+      "49.4227493",
+      "7.0750645",
+      "7.0844107"
+    ],
+    "lat": "49.4121711",
+    "lon": "7.0776694",
+    "display_name": "Ill, Marpingen, Landkreis St. Wendel, Saarland, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "100671046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158696612",
+    "boundingbox": [
+      "49.3974529",
+      "49.3979567",
+      "7.0836014",
+      "7.0837097"
+    ],
+    "lat": "49.3974529",
+    "lon": "7.0836014",
+    "display_name": "Ill, Illingen, Landkreis Neunkirchen, Saarland, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

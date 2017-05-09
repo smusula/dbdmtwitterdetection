@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "2651456573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6956667",
+    "boundingbox": [
+      "49.1625179",
+      "49.2621288",
+      "-2.2545119",
+      "-2.0104192"
+    ],
+    "lat": "49.21230655",
+    "lon": "-2.12559985964288",
+    "display_name": "Jersey",
+    "class": "place",
+    "type": "island",
+    "importance": 0.72420304692142
+  },
+  {
+    "place_id": "160322637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "367988",
+    "boundingbox": [
+      "48.8721667",
+      "49.4605",
+      "-2.5591666",
+      "-1.8333332"
+    ],
+    "lat": "49.2214561",
+    "lon": "-2.1358385",
+    "display_name": "Jersey",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72420304692142,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160482047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1800759",
+    "boundingbox": [
+      "38.923429",
+      "39.262501",
+      "-90.6036227",
+      "-90.1460599"
+    ],
+    "lat": "39.0848464",
+    "lon": "-90.3303343",
+    "display_name": "Jersey County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58792787503514,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "18350619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1765767198",
+    "boundingbox": [
+      "48.8927158",
+      "49.5327158",
+      "-2.4526402",
+      "-1.8126402"
+    ],
+    "lat": "49.2127158",
+    "lon": "-2.1326402",
+    "display_name": "Jersey",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "421517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153871946",
+    "boundingbox": [
+      "40.0336746",
+      "40.0736746",
+      "-82.7432265",
+      "-82.7032265"
+    ],
+    "lat": "40.0536746",
+    "lon": "-82.7232265",
+    "display_name": "Jersey, Licking County, Ohio, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "467910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158337170",
+    "boundingbox": [
+      "37.9542275",
+      "37.9942275",
+      "-75.8807243",
+      "-75.8407243"
+    ],
+    "lat": "37.9742275",
+    "lon": "-75.8607243",
+    "display_name": "Jersey, Somerset County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "474249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158418650",
+    "boundingbox": [
+      "38.3545622",
+      "38.3945622",
+      "-75.6246472",
+      "-75.5846472"
+    ],
+    "lat": "38.3745622",
+    "lon": "-75.6046472",
+    "display_name": "Jersey, Wicomico County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153689745",
+    "boundingbox": [
+      "35.0497955",
+      "35.0897955",
+      "-85.2127325",
+      "-85.1727325"
+    ],
+    "lat": "35.0697955",
+    "lon": "-85.1927325",
+    "display_name": "Jersey, Hamilton County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "438947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154182593",
+    "boundingbox": [
+      "35.7109716",
+      "35.7509716",
+      "-80.3353308",
+      "-80.2953308"
+    ],
+    "lat": "35.7309716",
+    "lon": "-80.3153308",
+    "display_name": "Jersey, Davidson County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "470008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158355560",
+    "boundingbox": [
+      "38.1915187",
+      "38.2315187",
+      "-77.1594206",
+      "-77.1194206"
+    ],
+    "lat": "38.2115187",
+    "lon": "-77.1394206",
+    "display_name": "Jersey, King George County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

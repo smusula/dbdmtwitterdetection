@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "4086594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "434127990",
+    "boundingbox": [
+      "45.1306286",
+      "45.1706286",
+      "3.7719251",
+      "3.8119251"
+    ],
+    "lat": "45.1506286",
+    "lon": "3.7919251",
+    "display_name": "Le Monet, Pays du Velay, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41858809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3032504583",
+    "boundingbox": [
+      "44.7152055",
+      "44.7552055",
+      "1.5125614",
+      "1.5525614"
+    ],
+    "lat": "44.7352055",
+    "lon": "1.5325614",
+    "display_name": "Monet, Gourdon, Lot, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "438932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154072911",
+    "boundingbox": [
+      "26.8181164",
+      "26.8581164",
+      "-80.1142088",
+      "-80.0742088"
+    ],
+    "lat": "26.8381164",
+    "lon": "-80.0942088",
+    "display_name": "Monet, Palm Beach County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22646513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2246083718",
+    "boundingbox": [
+      "45.5324605",
+      "45.5724605",
+      "4.7455949",
+      "4.7855949"
+    ],
+    "lat": "45.5524605",
+    "lon": "4.7655949",
+    "display_name": "Le Monet, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45838860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3263847912",
+    "boundingbox": [
+      "44.5198676",
+      "44.5199676",
+      "-0.1207964",
+      "-0.1206964"
+    ],
+    "lat": "44.5199176",
+    "lon": "-0.1207464",
+    "display_name": "Monet, Savignac, Langon, Gironde, Nouvelle-Aquitaine, 33124, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "63584362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15155252",
+    "boundingbox": [
+      "29.615387",
+      "29.616183",
+      "-98.4952559",
+      "-98.4950189"
+    ],
+    "lat": "29.615646",
+    "lon": "-98.4950929",
+    "display_name": "Monet, The Villas of Sonterra, San Antonio, Bexar County, Texas, 78258, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67217741",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20882652",
+    "boundingbox": [
+      "29.586438",
+      "29.5875552",
+      "-95.6161702",
+      "-95.6148313"
+    ],
+    "lat": "29.587268",
+    "lon": "-95.6158119",
+    "display_name": "Monet, Sugar Land, Fort Bend County, Texas, 77479, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "73962983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37070388",
+    "boundingbox": [
+      "7.108322",
+      "7.1088484",
+      "125.5761168",
+      "125.5772294"
+    ],
+    "lat": "7.1085672",
+    "lon": "125.5766368",
+    "display_name": "Monet, Woodridge Park Phase 4, Obrero Compound, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90984883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118617435",
+    "boundingbox": [
+      "44.9501026",
+      "44.9704341",
+      "6.5007729",
+      "6.5107686"
+    ],
+    "lat": "44.9586081",
+    "lon": "6.507212",
+    "display_name": "La Monet', Les Sani\u00e8res, Le Mon\u00eatier-les-Bains, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, 05220, France",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "102966496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166903401",
+    "boundingbox": [
+      "-37.4517871",
+      "-37.4513127",
+      "-72.3316581",
+      "-72.3310434"
+    ],
+    "lat": "-37.4517368",
+    "lon": "-72.3315458",
+    "display_name": "Monet, Villa Parques Nacionales, El Avellano, Los \u00c1ngeles, Provincia de B\u00edo-B\u00edo, VIII Regi\u00f3n del Biob\u00edo, 4440000, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  }
+]

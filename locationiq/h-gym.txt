@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "130397129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "288480097",
+    "boundingbox": [
+      "24.213887",
+      "24.2142361",
+      "83.0386751",
+      "83.0390111"
+    ],
+    "lat": "24.2140561",
+    "lon": "83.0388424111691",
+    "display_name": "Gym, Renukut, Security Men Path Way, Uttar Pradesh, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "108236310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188637660",
+    "boundingbox": [
+      "27.9578754",
+      "27.9802382",
+      "-110.9329989",
+      "-110.9147103"
+    ],
+    "lat": "27.96935015",
+    "lon": "-110.923535216755",
+    "display_name": "Aeropuerto Internacional General Jos\u00e9 Mar\u00eda Y\u00e1\u00f1ez, Antiguo camino a San Jos\u00e9, Lucia Rodriguez Murillo, Guaymas, Sonora, M\u00e9xico",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.20108919297929,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "22224489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2191376210",
+    "boundingbox": [
+      "39.757805",
+      "39.757905",
+      "-8.9299283",
+      "-8.9298283"
+    ],
+    "lat": "39.757855",
+    "lon": "-8.9298783",
+    "display_name": "gym, Rua Dom Jo\u00e3o Pereira Ven\u00e2ncio, Guarda Nova, Marinha Grande, Leiria, Pinhal Litoral, Centro, 2430-313, Portugal",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "3801614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "410140855",
+    "boundingbox": [
+      "7.0411304",
+      "7.0412304",
+      "125.5740309",
+      "125.5741309"
+    ],
+    "lat": "7.0411804",
+    "lon": "125.5740809",
+    "display_name": "Gym, Matina Aplaya Road, Matina Aplaya, Timburana Compound, Davao City, Davao, 8000, Philippines",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73383593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34942944",
+    "boundingbox": [
+      "7.0653657",
+      "7.065962",
+      "125.5949939",
+      "125.5956977"
+    ],
+    "lat": "7.0656681",
+    "lon": "125.595346941043",
+    "display_name": "Gym, East, DBP Village, Timburana Compound, Davao City, Davao, 8000, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646967131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6810248",
+    "boundingbox": [
+      "51.2561591",
+      "51.2573168",
+      "4.5379412",
+      "4.5395451"
+    ],
+    "lat": "51.2566824",
+    "lon": "4.53866735472691",
+    "display_name": "Gym, 2, Alice Nahonlei, Schoten, Antwerpen, Vlaanderen, 2900, Belgi\u00eb - Belgique - Belgien",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "53419325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4072178274",
+    "boundingbox": [
+      "32.9850003",
+      "32.9851003",
+      "-96.7493276",
+      "-96.7492276"
+    ],
+    "lat": "32.9850503",
+    "lon": "-96.7492776",
+    "display_name": "Gym, Loop Road, Richardson, Dallas County, Texas, 75080, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "2648541873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465212607",
+    "boundingbox": [
+      "34.802385",
+      "34.8028227",
+      "-86.9504522",
+      "-86.9498225"
+    ],
+    "lat": "34.8026009",
+    "lon": "-86.9501366968795",
+    "display_name": "Gym, Sam Drive, Athens, Limestone County, Alabama, 35611, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "2650513523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470070976",
+    "boundingbox": [
+      "35.9108983",
+      "35.911243",
+      "-84.8985218",
+      "-84.8981161"
+    ],
+    "lat": "35.9110905",
+    "lon": "-84.8983210919751",
+    "display_name": "Gym, School Road, Crab Orchard, Cumberland County, Tennessee, 37723, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120002153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236957081",
+    "boundingbox": [
+      "13.1507782",
+      "13.1513599",
+      "123.7364654",
+      "123.7369361"
+    ],
+    "lat": "13.15106905",
+    "lon": "123.73670075",
+    "display_name": "Gym, White Street, Legazpi, Albay, Bicol Region, 4500, Philippines",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

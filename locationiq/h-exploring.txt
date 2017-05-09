@@ -1,0 +1,169 @@
+[
+  {
+    "place_id": "48689919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3612215815",
+    "boundingbox": [
+      "50.2164867",
+      "50.2165867",
+      "-123.2338577",
+      "-123.2337577"
+    ],
+    "lat": "50.2165367",
+    "lon": "-123.2338077",
+    "display_name": "Hidden Peak, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "66937783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20490655",
+    "boundingbox": [
+      "37.78709",
+      "37.787652",
+      "-79.3181799",
+      "-79.3175339"
+    ],
+    "lat": "37.787202",
+    "lon": "-79.3177159",
+    "display_name": "Exploring Place Lane, Cornwall, Rockbridge County, Virginia, 24416, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "122017832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245257477",
+    "boundingbox": [
+      "15.1385085",
+      "15.1392459",
+      "145.7293687",
+      "145.7320053"
+    ],
+    "lat": "15.1387996",
+    "lon": "145.731154",
+    "display_name": "Exploring Drive, Saipan, Saipan Municipality, Northern Mariana Islands, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52395636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3936143739",
+    "boundingbox": [
+      "52.8611447",
+      "52.8612447",
+      "-1.1352212",
+      "-1.1351212"
+    ],
+    "lat": "52.8611947",
+    "lon": "-1.1351712",
+    "display_name": "Exploring the Walks around Bunny, Church Street, Bunny, Rushcliffe, Nottinghamshire, East Midlands, England, NG11 6QW, UK",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "56615247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4408608436",
+    "boundingbox": [
+      "52.9385903",
+      "52.9386903",
+      "-2.7377404",
+      "-2.7376404"
+    ],
+    "lat": "52.9386403",
+    "lon": "-2.7376904",
+    "display_name": "Exploring Fenn's Mosses, Whitchurch & Aberystwyth, Bronington, Wrexham, Wales, UK",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "54973200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4241896005",
+    "boundingbox": [
+      "39.3293336",
+      "39.3294336",
+      "-77.7315175",
+      "-77.7314175"
+    ],
+    "lat": "39.3293836",
+    "lon": "-77.7314675",
+    "display_name": "Exploring Maryland Heights, Combined Trail, Pleasantville, Washington County, Maryland, United States of America",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "2654771900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4749214573",
+    "boundingbox": [
+      "-34.3680036",
+      "-34.3679036",
+      "118.2423937",
+      "118.2424937"
+    ],
+    "lat": "-34.3679536",
+    "lon": "118.2424437",
+    "display_name": "Exploring Bluff Kroll, North Isongerup fire break, Western Australia, Australia",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "24690772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2409496073",
+    "boundingbox": [
+      "-17.1818083",
+      "-17.1817083",
+      "-179.0030386",
+      "-179.0029386"
+    ],
+    "lat": "-17.1817583",
+    "lon": "-179.0029886",
+    "display_name": "Royal Exploring Islands Yacht Squadron, Eastern, Viti",
+    "class": "leisure",
+    "type": "marina",
+    "importance": 0.101
+  },
+  {
+    "place_id": "119073626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232604798",
+    "boundingbox": [
+      "-17.18167",
+      "-17.1815742",
+      "-179.002952",
+      "-179.0028518"
+    ],
+    "lat": "-17.1816221",
+    "lon": "-179.0029019",
+    "display_name": "Royal Exploring Islands Yacht Squadron, Eastern, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

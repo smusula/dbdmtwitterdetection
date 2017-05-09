@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "68820309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23712268",
+    "boundingbox": [
+      "50.4312779",
+      "50.4318757",
+      "-3.5754726",
+      "-3.57464"
+    ],
+    "lat": "50.4318757",
+    "lon": "-3.5754726",
+    "display_name": "The Gurneys, St Michaels, Paignton, Torbay, South West England, England, TQ3 3RJ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "56697644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4427740631",
+    "boundingbox": [
+      "52.945651",
+      "52.945751",
+      "0.7258289",
+      "0.7259289"
+    ],
+    "lat": "52.945701",
+    "lon": "0.7258789",
+    "display_name": "Gurneys, Market Place, Sutton Estate, Burnham Market, King's Lynn and West Norfolk, Norfolk, East of England, England, PE31 8HF, UK",
+    "class": "shop",
+    "type": "fishmonger",
+    "importance": 0.101
+  }
+]

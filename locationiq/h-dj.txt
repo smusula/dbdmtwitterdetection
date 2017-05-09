@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160295170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192801",
+    "boundingbox": [
+      "10.9149547",
+      "12.7923081",
+      "41.7713139",
+      "43.6579046"
+    ],
+    "lat": "11.85677545",
+    "lon": "42.7577845199437",
+    "display_name": "Djibouti \u062c\u064a\u0628\u0648\u062a\u064a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76274305521571,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160579525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2871703",
+    "boundingbox": [
+      "53.3257734",
+      "53.3830902",
+      "14.6849958",
+      "14.805414"
+    ],
+    "lat": "53.35445685",
+    "lon": "14.7387526196188",
+    "display_name": "P\u0142onia-\u015amierdnica-Jezierzyce, Prawobrze\u017ce, Szczecin, zachodniopomorskie, Polska",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33634000491239,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "22956226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2277297722",
+    "boundingbox": [
+      "12.5679092",
+      "12.5680092",
+      "-16.2878964",
+      "-16.2877964"
+    ],
+    "lat": "12.5679592",
+    "lon": "-16.2878464",
+    "display_name": "Djiringho, Djibock, Ziguinchor, D\u00e9partement de Ziguinchor, Ziguinchor, 27000, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "24727989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2386189299",
+    "boundingbox": [
+      "12.566617",
+      "12.566717",
+      "-16.2833829",
+      "-16.2832829"
+    ],
+    "lat": "12.566667",
+    "lon": "-16.2833329",
+    "display_name": "Diassi, Djibock, Ziguinchor, D\u00e9partement de Ziguinchor, Ziguinchor, 27000, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "115675451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219960467",
+    "boundingbox": [
+      "44.900042",
+      "44.9008838",
+      "23.8225656",
+      "23.8226591"
+    ],
+    "lat": "44.9004408",
+    "lon": "23.8226069",
+    "display_name": "DJ, Linia, V\u00e2lcea, 247253, Rom\u00e2nia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116622777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "223647892",
+    "boundingbox": [
+      "44.7669905",
+      "44.7812846",
+      "25.545618",
+      "25.5800021"
+    ],
+    "lat": "44.7685576",
+    "lon": "25.5600542",
+    "display_name": "DJ722, Nucet, D\u00e2mbovi\u021ba, 137418, Rom\u00e2nia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118358065",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229787342",
+    "boundingbox": [
+      "44.9851608",
+      "44.9880367",
+      "23.3197531",
+      "23.3203164"
+    ],
+    "lat": "44.9865646",
+    "lon": "23.3201742",
+    "display_name": "DJ, D\u0103ne\u0219ti, Gorj, 217200, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "21310240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117348864",
+    "boundingbox": [
+      "15.2048234",
+      "15.2049234",
+      "120.7072036",
+      "120.7073036"
+    ],
+    "lat": "15.2048734",
+    "lon": "120.7072536",
+    "display_name": "dj, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "68350101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23002728",
+    "boundingbox": [
+      "45.4335404",
+      "45.4337444",
+      "28.0277496",
+      "28.0294079"
+    ],
+    "lat": "45.4336424",
+    "lon": "28.02857875",
+    "display_name": "DJ, 12, Strada Gheorghe Doja, Gala\u021bi, 800373, Rom\u00e2nia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "104132729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171418680",
+    "boundingbox": [
+      "60.3115148",
+      "60.311795",
+      "24.978133",
+      "24.9792309"
+    ],
+    "lat": "60.3117444",
+    "lon": "24.9790325",
+    "display_name": "DJ, Siipitie, Lentokentt\u00e4, Aviapoliksen suuralue, Vantaa, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 01530, Suomi",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  }
+]

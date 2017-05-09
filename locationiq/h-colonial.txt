@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "27102520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2569015936",
+    "boundingbox": [
+      "18.5164512",
+      "18.5564512",
+      "-69.823503",
+      "-69.783503"
+    ],
+    "lat": "18.5364512",
+    "lon": "-69.803503",
+    "display_name": "La Colonial, Santo Domingo Este, Santo Domingo, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160863255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5535309",
+    "boundingbox": [
+      "-19.9048254",
+      "-19.893988",
+      "-44.1076609",
+      "-44.0930426"
+    ],
+    "lat": "-19.8988082",
+    "lon": "-44.1018241",
+    "display_name": "Colonial, Sede, Contagem, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "56298494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4387283669",
+    "boundingbox": [
+      "-28.6672269",
+      "-28.6272269",
+      "-49.4609521",
+      "-49.4209521"
+    ],
+    "lat": "-28.6472269",
+    "lon": "-49.4409521",
+    "display_name": "Colonial, Crici\u00fama, Microrregi\u00e3o de Crici\u00fama, Mesorregi\u00e3o do Sul Catarinense, SC, Regi\u00e3o Sul, Brasil",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160719320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3875288",
+    "boundingbox": [
+      "-26.2482726",
+      "-26.2240105",
+      "-49.4356744",
+      "-49.3967939"
+    ],
+    "lat": "-26.2361799",
+    "lon": "-49.4162259",
+    "display_name": "Colonial, S\u00e3o Bento do Sul, Microrregi\u00e3o de S\u00e3o Bento do Sul, Mesorregi\u00e3o do Norte Catarinense, SC, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "344966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150968008",
+    "boundingbox": [
+      "40.8655008",
+      "40.8855008",
+      "-111.8913264",
+      "-111.8713264"
+    ],
+    "lat": "40.8755008",
+    "lon": "-111.8813264",
+    "display_name": "Colonial, Bountiful, Davis County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55659094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4336881020",
+    "boundingbox": [
+      "-16.4259778",
+      "-16.4258778",
+      "-71.5087125",
+      "-71.5086125"
+    ],
+    "lat": "-16.4259278",
+    "lon": "-71.5086625",
+    "display_name": "La Colonial, Guardia Civil, Paucarpata, Arequipa, 5154, Per\u00fa",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126319526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263934002",
+    "boundingbox": [
+      "-25.3797315",
+      "-25.3777249",
+      "-55.6924975",
+      "-55.6892467"
+    ],
+    "lat": "-25.37863125",
+    "lon": "-55.6908686548263",
+    "display_name": "Colonial, Doctor Juan Eulogio Estigarribia, Caaguaz\u00fa, Regi\u00f3n Oriental, 3660, Paraguay",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "61005806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11033491",
+    "boundingbox": [
+      "26.572515",
+      "26.572557",
+      "-81.5796869",
+      "-81.5765399"
+    ],
+    "lat": "26.572515",
+    "lon": "-81.5796869",
+    "display_name": "Colonial, Lehigh Acres, Lee County, Florida, 33974, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84914598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95228389",
+    "boundingbox": [
+      "-7.1767506",
+      "-7.1754158",
+      "-78.5023745",
+      "-78.500483"
+    ],
+    "lat": "-7.1754158",
+    "lon": "-78.500483",
+    "display_name": "Colonial, Cajamarca, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84147970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91568632",
+    "boundingbox": [
+      "-12.0492251",
+      "-12.0474721",
+      "-77.0730489",
+      "-77.072837"
+    ],
+    "lat": "-12.0484055",
+    "lon": "-77.0729311",
+    "display_name": "Colonial, Urbanizacion Las Brisas, Lima, Lima 15081, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

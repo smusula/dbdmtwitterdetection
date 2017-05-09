@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "47061786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3413034401",
+    "boundingbox": [
+      "50.7733084",
+      "50.7734084",
+      "6.0874163",
+      "6.0875163"
+    ],
+    "lat": "50.7733584",
+    "lon": "6.0874663",
+    "display_name": "Nightlife, 10, Wirichsbongardstra\u00dfe, Marschiertor, Burtscheid, Aachen-Mitte, Aachen, St\u00e4dteregion Aachen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52062, Deutschland",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16515125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1536377737",
+    "boundingbox": [
+      "50.5712549",
+      "50.5713549",
+      "8.6918402",
+      "8.6919402"
+    ],
+    "lat": "50.5713049",
+    "lon": "8.6918902",
+    "display_name": "Nightlife, 115, Schiffenberger Weg, Wieseck, Gie\u00dfen, Landkreis Gie\u00dfen, Regierungsbezirk Gie\u00dfen, Hessen, 35394, Deutschland",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44908579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3192134291",
+    "boundingbox": [
+      "52.4349032",
+      "52.4350032",
+      "7.0709252",
+      "7.0710252"
+    ],
+    "lat": "52.4349532",
+    "lon": "7.0709752",
+    "display_name": "Nightlife, Firnhaberstra\u00dfe, Altendorf, Nordhorn, Landkreis Grafschaft Bentheim, Niedersachsen, 48529, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  }
+]

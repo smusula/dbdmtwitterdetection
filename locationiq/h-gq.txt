@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160294783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192791",
+    "boundingbox": [
+      "-1.6732195",
+      "3.989",
+      "5.4172943",
+      "11.3598628"
+    ],
+    "lat": "1.613172",
+    "lon": "10.5170357",
+    "display_name": "Guinea Ecuatorial",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5691737926341,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "21515281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117842095",
+    "boundingbox": [
+      "15.2053437",
+      "15.2054437",
+      "120.7078071",
+      "120.7079071"
+    ],
+    "lat": "15.2053937",
+    "lon": "120.7078571",
+    "display_name": "gq, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "28670098",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2649921507",
+    "boundingbox": [
+      "14.6090922",
+      "14.6091922",
+      "121.0793245",
+      "121.0794245"
+    ],
+    "lat": "14.6091422",
+    "lon": "121.0793745",
+    "display_name": "GQ, Eastwood Avenue, Eastwood City, Bagumbayan, Quezon City, District III, Quezon City, Metro Manila, 1110, Philippines",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2652545941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4696277161",
+    "boundingbox": [
+      "44.0467679",
+      "44.0468679",
+      "-91.6692416",
+      "-91.6691416"
+    ],
+    "lat": "44.0468179",
+    "lon": "-91.6691916",
+    "display_name": "GQ, Service Drive, Winona, Winona County, Minnesota, 55987, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2654095180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4734160726",
+    "boundingbox": [
+      "40.0927876",
+      "40.0928876",
+      "65.3734989",
+      "65.3735989"
+    ],
+    "lat": "40.0928376",
+    "lon": "65.3735489",
+    "display_name": "GQ, \u0443\u043b\u0438\u0446\u0430 \u041c\u0430\u0442\u0432\u0438\u0435\u043d\u043a\u043e, Navoiy, Navbahor Tumani, Navoiy Viloyati, 210100, O\u02bbzbekiston",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "158737734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438474914",
+    "boundingbox": [
+      "-17.7592707",
+      "-17.7591718",
+      "177.4520965",
+      "177.4522103"
+    ],
+    "lat": "-17.75921655",
+    "lon": "177.452153195326",
+    "display_name": "GQ, Buabua RD, Nadi, Western, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158815504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439086175",
+    "boundingbox": [
+      "-17.7924083",
+      "-17.7922863",
+      "177.4130542",
+      "177.4132297"
+    ],
+    "lat": "-17.7923407",
+    "lon": "177.413145271922",
+    "display_name": "GQ, Queens Road, Nadi, Western, 769, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158580062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437528765",
+    "boundingbox": [
+      "-17.7635164",
+      "-17.7634142",
+      "177.4431862",
+      "177.4433632"
+    ],
+    "lat": "-17.76346915",
+    "lon": "177.443273836828",
+    "display_name": "GQ, Suva Street, Nadi, Western, 769, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158662049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437527335",
+    "boundingbox": [
+      "-17.7631805",
+      "-17.7630193",
+      "177.4434556",
+      "177.4435526"
+    ],
+    "lat": "-17.7630989",
+    "lon": "177.443507725744",
+    "display_name": "GQ, London Avenue, Nadi, Western, 769, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158728023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438475621",
+    "boundingbox": [
+      "-17.7592205",
+      "-17.7591545",
+      "177.450801",
+      "177.4508802"
+    ],
+    "lat": "-17.7591875",
+    "lon": "177.450839339326",
+    "display_name": "GQ, DAKUA RD, Nadi, Western, Viti",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

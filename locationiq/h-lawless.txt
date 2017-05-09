@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "64350251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16357412",
+    "boundingbox": [
+      "36.907909",
+      "36.909683",
+      "-85.1992569",
+      "-85.1950919"
+    ],
+    "lat": "36.909329",
+    "lon": "-85.1984249",
+    "display_name": "Lawless, Bryan, Russell County, Kentucky, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "53861266",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4098328696",
+    "boundingbox": [
+      "18.5032167",
+      "18.5033167",
+      "-69.8955737",
+      "-69.8954737"
+    ],
+    "lat": "18.5032667",
+    "lon": "-69.8955237",
+    "display_name": "Lawless, Avenida Albert Thomas, 27 de Febrero, Don Bosco, Santo Domingo, Distrito Nacional, 10401, Rep\u00fablica Dominicana",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "114776145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "215629970",
+    "boundingbox": [
+      "52.5562307",
+      "52.5564232",
+      "-6.3490697",
+      "-6.3487532"
+    ],
+    "lat": "52.556327",
+    "lon": "-6.34891145486229",
+    "display_name": "Lawless, Meadow Park, Glebe, Monamolin, Gorey Municipal District, County Wexford, Leinster, Ireland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160456412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1682682",
+    "boundingbox": [
+      "46.7094833",
+      "46.7714864",
+      "7.5862023",
+      "7.6902638"
+    ],
+    "lat": "46.7582827",
+    "lon": "7.628086",
+    "display_name": "Thun, Verwaltungskreis Thun, Verwaltungsregion Oberland, Bern - Berne, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51200060814426,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "140656655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "336699790",
+    "boundingbox": [
+      "50.5245274",
+      "50.5251614",
+      "21.6105943",
+      "21.6117699"
+    ],
+    "lat": "50.5250101",
+    "lon": "21.6108631",
+    "display_name": "tunnel, Tarnobrzeg, podkarpackie, Polska",
+    "class": "waterway",
+    "type": "ditch",
+    "importance": 0.435
+  },
+  {
+    "place_id": "2609247449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "450627679",
+    "boundingbox": [
+      "25.1235333",
+      "25.1241222",
+      "-80.4018529",
+      "-80.4017825"
+    ],
+    "lat": "25.1238387",
+    "lon": "-80.4018529",
+    "display_name": "Tunnel, Monroe County, Florida, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160919607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5805833",
+    "boundingbox": [
+      "-11.6133778",
+      "-11.5980791",
+      "27.491658",
+      "27.5058405"
+    ],
+    "lat": "-11.605819",
+    "lon": "27.4975959431742",
+    "display_name": "Tunnel, Hewa Bora, Kampemba, Ville de Lubumbashi, Katanga, Haut-Katanga, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "84783312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94666415",
+    "boundingbox": [
+      "36.8326576",
+      "36.8713062",
+      "10.212232",
+      "10.2514238"
+    ],
+    "lat": "36.8519248",
+    "lon": "10.2291845768029",
+    "display_name": "\u0645\u0637\u0627\u0631 \u062a\u0648\u0646\u0633 \u0642\u0631\u0637\u0627\u062c \u0627\u0644\u062f\u0648\u0644\u064a, \u0627\u0644\u0637\u0631\u064a\u0642 \u0627\u0644\u0648\u0637\u0646\u064a\u0629 \u0631\u0642\u0645 9, \u062d\u064a \u0627\u0644\u0637\u064a\u0628 \u0627\u0644\u0645\u0647\u064a\u0631\u064a, \u0627\u0644\u0639\u0648\u064a\u0646\u0629, La Goulette, \u062a\u0648\u0646\u0633, 2045, \u062a\u0648\u0646\u0633",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.3890616614348,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "14972232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1350622678",
+    "boundingbox": [
+      "48.2658006",
+      "48.3058006",
+      "-4.1488866",
+      "-4.1088866"
+    ],
+    "lat": "48.2858006",
+    "lon": "-4.1288866",
+    "display_name": "Le Tunnel, Ch\u00e2teaulin, Finist\u00e8re, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "487113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158617129",
+    "boundingbox": [
+      "42.1961881",
+      "42.2361881",
+      "-75.7465785",
+      "-75.7065785"
+    ],
+    "lat": "42.2161881",
+    "lon": "-75.7265785",
+    "display_name": "Tunnel, Colesville Town, Broome County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55430016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4290202359",
+    "boundingbox": [
+      "-41.2141399",
+      "-41.1741399",
+      "147.17892",
+      "147.21892"
+    ],
+    "lat": "-41.1941399",
+    "lon": "147.19892",
+    "display_name": "Tunnel, City of Launceston, Tasmania, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653826689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4727741459",
+    "boundingbox": [
+      "47.4541184",
+      "47.4741184",
+      "10.699621",
+      "10.719621"
+    ],
+    "lat": "47.4641184",
+    "lon": "10.709621",
+    "display_name": "Tunnel, Reutte, Reutte (Au\u00dferfern), Tirol, 6600, \u00d6sterreich",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38333907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2884618438",
+    "boundingbox": [
+      "40.4334551",
+      "40.4534551",
+      "-118.782901",
+      "-118.762901"
+    ],
+    "lat": "40.4434551",
+    "lon": "-118.772901",
+    "display_name": "Tunnel, Pershing County, Nevada, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

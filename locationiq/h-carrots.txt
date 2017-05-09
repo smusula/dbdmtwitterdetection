@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "60710096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10587073",
+    "boundingbox": [
+      "14.584651",
+      "14.5869611",
+      "121.0724765",
+      "121.0726636"
+    ],
+    "lat": "14.584651",
+    "lon": "121.0724765",
+    "display_name": "Carrots, Valle Verde 5, Ugong, Pasig, Metro Manila, 1604, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "56241305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4367945691",
+    "boundingbox": [
+      "9.9593032",
+      "9.9594032",
+      "76.3018083",
+      "76.3019083"
+    ],
+    "lat": "9.9593532",
+    "lon": "76.3018583",
+    "display_name": "Carrots, K P Vallon Road, Ravipuram, Elamkulam, Ernakulam, Kerala, 682020, India",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54969426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4262486864",
+    "boundingbox": [
+      "58.5950596",
+      "58.5951596",
+      "-3.5196523",
+      "-3.5195523"
+    ],
+    "lat": "58.5951096",
+    "lon": "-3.5196023",
+    "display_name": "Carrot's, Rotterdam Street, Thurso East, Thurso, Caithness, Scotland, KW14 8ER, UK",
+    "class": "shop",
+    "type": "organic",
+    "importance": 0.001
+  }
+]

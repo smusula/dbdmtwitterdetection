@@ -1,0 +1,116 @@
+[
+  {
+    "place_id": "737546",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "257558042",
+    "boundingbox": [
+      "51.4167393",
+      "51.4567393",
+      "-2.6242196",
+      "-2.5842196"
+    ],
+    "lat": "51.4367393",
+    "lon": "-2.6042196",
+    "display_name": "Bedminster, Bristol, City of Bristol, South West England, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.45892577838734,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "481359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158811892",
+    "boundingbox": [
+      "40.660657",
+      "40.700657",
+      "-74.6654372",
+      "-74.6254372"
+    ],
+    "lat": "40.680657",
+    "lon": "-74.6454372",
+    "display_name": "Bedminster, Somerset County, New Jersey, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.4136646714219,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160654918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3460837",
+    "boundingbox": [
+      "40.3634216",
+      "40.4754894",
+      "-75.2553964",
+      "-75.1164406"
+    ],
+    "lat": "40.41934585",
+    "lon": "-75.1920884350073",
+    "display_name": "Bedminster Township, Bucks County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41239812023006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "482709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158570713",
+    "boundingbox": [
+      "40.4060859",
+      "40.4460859",
+      "-75.1989008",
+      "-75.1589008"
+    ],
+    "lat": "40.4260859",
+    "lon": "-75.1789008",
+    "display_name": "Bedminster, Bucks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "141946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27225052",
+    "boundingbox": [
+      "51.4357892",
+      "51.4457892",
+      "-2.5984965",
+      "-2.5884965"
+    ],
+    "lat": "51.4407892",
+    "lon": "-2.5934965",
+    "display_name": "Bedminster, Whitehouse Lane, Temple, Southville, Bristol, City of Bristol, South West England, England, BS3, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "6053875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "612556611",
+    "boundingbox": [
+      "40.4268156",
+      "40.4269156",
+      "-75.1791598",
+      "-75.1790598"
+    ],
+    "lat": "40.4268656",
+    "lon": "-75.1791098",
+    "display_name": "Bedminster, Bedminster Road, Bedminster Township, Bucks County, Pennsylvania, 18917, United States of America",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  }
+]

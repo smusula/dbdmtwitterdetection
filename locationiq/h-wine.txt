@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "211276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "45825096",
+    "boundingbox": [
+      "52.2147185",
+      "52.2547185",
+      "6.6296763",
+      "6.6696763"
+    ],
+    "lat": "52.2347185",
+    "lon": "6.6496763",
+    "display_name": "Wiene, Regio Twente, Overijssel, Nederland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "58315563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6471481",
+    "boundingbox": [
+      "52.9507511",
+      "52.9509535",
+      "6.0513861",
+      "6.051977"
+    ],
+    "lat": "52.9507511",
+    "lon": "6.0513861",
+    "display_name": "Wine, Nieuwehorne, Heerenveen, Friesland, Nederland, 8414PG, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58396176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6471467",
+    "boundingbox": [
+      "52.9509535",
+      "52.9510305",
+      "6.051977",
+      "6.0520098"
+    ],
+    "lat": "52.9509535",
+    "lon": "6.051977",
+    "display_name": "Wine, Nieuwehorne, Heerenveen, Friesland, Nederland, 8414PD, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "115416216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218717289",
+    "boundingbox": [
+      "51.2180546",
+      "51.2200434",
+      "7.5180312",
+      "7.5204071"
+    ],
+    "lat": "51.21905075",
+    "lon": "7.51905925542677",
+    "display_name": "Wiene, Oberlangenscheid, Halver, M\u00e4rkischer Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58553, Deutschland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58544230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6465939",
+    "boundingbox": [
+      "53.0936815",
+      "53.0946634",
+      "6.1666721",
+      "6.1671012"
+    ],
+    "lat": "53.0939945",
+    "lon": "6.1668285",
+    "display_name": "Wine, Ureterp, Opsterland, Friesland, Nederland, 9247, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "51801891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3892310058",
+    "boundingbox": [
+      "52.371319",
+      "52.371419",
+      "4.624238",
+      "4.624338"
+    ],
+    "lat": "52.371369",
+    "lon": "4.624288",
+    "display_name": "&Wine, 25, Wagenweg, Haarlem, MRA, Noord-Holland, Nederland, 2012 NB, Nederland",
+    "class": "shop",
+    "type": "wine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15057194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1365621226",
+    "boundingbox": [
+      "54.5183295",
+      "54.5184295",
+      "36.2673678",
+      "36.2674678"
+    ],
+    "lat": "54.5183795",
+    "lon": "36.2674178",
+    "display_name": "Wine, \u041f\u0440\u043e\u043b\u0435\u0442\u0430\u0440\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0427\u0435\u0440\u0451\u043c\u0443\u0448\u043a\u0438, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0430\u043b\u0443\u0433\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0430\u043b\u0443\u0433\u0430, \u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 248030, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15809852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1430578200",
+    "boundingbox": [
+      "41.6421284",
+      "41.6422284",
+      "41.6262976",
+      "41.6263976"
+    ],
+    "lat": "41.6421784",
+    "lon": "41.6263476",
+    "display_name": "\u10e6\u10d5\u10d8\u10dc\u10dd (Wine), \u10da\u10d4\u10e0\u10db\u10dd\u10dc\u10d7\u10dd\u10d5\u10d8\u10e1 \u10e5\u10e3\u10e9\u10d0, \u10d1\u10d0\u10d7\u10e3\u10db\u10d8, \u10d0\u10ed\u10d0\u10e0\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0, 6100, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "15932450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1430148831",
+    "boundingbox": [
+      "41.6392697",
+      "41.6393697",
+      "41.6557166",
+      "41.6558166"
+    ],
+    "lat": "41.6393197",
+    "lon": "41.6557666",
+    "display_name": "\u10e6\u10d5\u10d8\u10dc\u10dd (Wine), \u10e1\u10d4\u10e0\u10d2\u10d8 \u10db\u10d4\u10e1\u10ee\u10d8\u10e1 \u10e5\u10e3\u10e9\u10d0, \u10d1\u10d0\u10d7\u10e3\u10db\u10d8, \u10ee\u10d4\u10da\u10d5\u10d0\u10e9\u10d0\u10e3\u10e0\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8, \u10d0\u10ed\u10d0\u10e0\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0, 6006, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "14514866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1296888885",
+    "boundingbox": [
+      "26.2641741",
+      "26.2642741",
+      "73.0354161",
+      "73.0355161"
+    ],
+    "lat": "26.2642241",
+    "lon": "73.0354661",
+    "display_name": "Wine, Residency Road, Jodhpur, Rajasthan, 342011, India",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  }
+]

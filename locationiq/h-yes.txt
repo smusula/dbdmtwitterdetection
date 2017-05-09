@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "2653641386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2652846",
+    "boundingbox": [
+      "45.4340516",
+      "45.7232592",
+      "-76.7339999",
+      "-76.2303262"
+    ],
+    "lat": "45.5786526",
+    "lon": "-76.6713953863816",
+    "display_name": "Ottawa River / Rivi\u00e8re des Outaouais, 301, Qu\u00e9bec, Canada",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.45728017465973
+  },
+  {
+    "place_id": "97088524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143207919",
+    "boundingbox": [
+      "46.4549733",
+      "46.4554946",
+      "13.547334",
+      "13.5480913"
+    ],
+    "lat": "46.4553257",
+    "lon": "13.5477824",
+    "display_name": "yes, Tarvisio, UD, FVG, Italia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  }
+]

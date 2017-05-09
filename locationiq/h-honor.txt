@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160278662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "134901",
+    "boundingbox": [
+      "44.659815",
+      "44.674762",
+      "-86.0347259",
+      "-86.0082819"
+    ],
+    "lat": "44.663889",
+    "lon": "-86.0181449",
+    "display_name": "Honor, Benzie County, Michigan, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81810795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78107141",
+    "boundingbox": [
+      "-34.8438659",
+      "-34.842476",
+      "-56.2434959",
+      "-56.2422712"
+    ],
+    "lat": "-34.8431406",
+    "lon": "-56.2428682",
+    "display_name": "Honor, 19 de Abril, Nuevo Paris, Montevideo, 12900, Uruguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63994053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15320386",
+    "boundingbox": [
+      "30.01114",
+      "30.014338",
+      "-99.1951839",
+      "-99.1882599"
+    ],
+    "lat": "30.011218",
+    "lon": "-99.1923149",
+    "display_name": "Honor, Kerr County, Texas, 78028, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85149226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95951572",
+    "boundingbox": [
+      "-32.9886939",
+      "-32.9865786",
+      "-68.8813215",
+      "-68.8771693"
+    ],
+    "lat": "-32.986754",
+    "lon": "-68.8797233",
+    "display_name": "Honor, Barrio Casa Grande (Ex Barrio Will-Ri), Distrito Vistabla, Departamento Luj\u00e1n de Cuyo, Mza., 5528, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98779394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151000766",
+    "boundingbox": [
+      "-31.9604138",
+      "-31.9577877",
+      "152.4307407",
+      "152.4321086"
+    ],
+    "lat": "-31.9589073",
+    "lon": "152.4320496",
+    "display_name": "Honor, Kiwarrak, Taree, Mid-Coast, NSW, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "7743408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "842127342",
+    "boundingbox": [
+      "48.8694282",
+      "48.8695282",
+      "2.3196302",
+      "2.3197302"
+    ],
+    "lat": "48.8694782",
+    "lon": "2.3196802",
+    "display_name": "Honor, 54, Rue du Faubourg Saint-Honor\u00e9, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48029622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3511373735",
+    "boundingbox": [
+      "39.9417846",
+      "39.9418846",
+      "-75.141476",
+      "-75.141376"
+    ],
+    "lat": "39.9418346",
+    "lon": "-75.141426",
+    "display_name": "Honor, South Columbus Boulevard, Society Hill, Philadelphia, Philadelphia County, Pennsylvania, 19106, United States of America",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2610005122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4496370956",
+    "boundingbox": [
+      "49.4391271",
+      "49.4392271",
+      "18.7878036",
+      "18.7879036"
+    ],
+    "lat": "49.4391771",
+    "lon": "18.7878536",
+    "display_name": "Honor, Mal\u00e1, \u010cadca, \u017dilinsk\u00fd kraj, Stredn\u00e9 Slovensko, 02201, Slovensko",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44321667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3137190666",
+    "boundingbox": [
+      "38.2617954",
+      "38.2618954",
+      "-78.8191392",
+      "-78.8190392"
+    ],
+    "lat": "38.2618454",
+    "lon": "-78.8190892",
+    "display_name": "Honor, Cary Street, Grottoes, Rockingham County, Virginia, 24441, United States of America",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2653976363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4731686685",
+    "boundingbox": [
+      "25.0687822",
+      "25.0688822",
+      "121.6118945",
+      "121.6119945"
+    ],
+    "lat": "25.0688322",
+    "lon": "121.6119445",
+    "display_name": "HONOR, 188, \u5eb7\u5be7\u8def\u4e09\u6bb5, \u5357\u6e56\u91cc, \u4e94\u5206, \u5167\u6e56\u5340, \u81fa\u5317\u5e02, 11486, \u81fa\u7063",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  }
+]

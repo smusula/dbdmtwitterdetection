@@ -1,0 +1,110 @@
+[
+  {
+    "place_id": "61296655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11246759",
+    "boundingbox": [
+      "26.7031473",
+      "26.7032052",
+      "-80.314239",
+      "-80.3120555"
+    ],
+    "lat": "26.7031473",
+    "lon": "-80.3120555",
+    "display_name": "Goldcup Drive West, Boca Raton, Palm Beach County, Florida, 33470, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61153270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11246526",
+    "boundingbox": [
+      "26.702855",
+      "26.702946",
+      "-80.3050869",
+      "-80.3018309"
+    ],
+    "lat": "26.702946",
+    "lon": "-80.3050869",
+    "display_name": "Goldcup Drive East, Boca Raton, Palm Beach County, Florida, 33470, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60842370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10815054",
+    "boundingbox": [
+      "27.014688",
+      "27.014695",
+      "-82.1228949",
+      "-82.1216309"
+    ],
+    "lat": "27.014688",
+    "lon": "-82.1228949",
+    "display_name": "Goldcup Court, Murdock, Charlotte County, Florida, 33954, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67408790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20531445",
+    "boundingbox": [
+      "38.344855",
+      "38.346768",
+      "-77.5292069",
+      "-77.5270839"
+    ],
+    "lat": "38.346337",
+    "lon": "-77.5280489",
+    "display_name": "Goldcup Drive, Berea, Stafford County, Virginia, 22406, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59832511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8826208",
+    "boundingbox": [
+      "38.921428",
+      "38.922663",
+      "-77.3508899",
+      "-77.3503999"
+    ],
+    "lat": "38.922442",
+    "lon": "-77.3504149",
+    "display_name": "Goldcup Lane, Reston, Fairfax County, Virginia, 20191, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59786964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9190969",
+    "boundingbox": [
+      "33.662951",
+      "33.663948",
+      "-84.8120249",
+      "-84.8108069"
+    ],
+    "lat": "33.663948",
+    "lon": "-84.8108069",
+    "display_name": "Goldcup Court, Aberdeen Estates, Seminole Valley, Douglas County, Georgia, 30135, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

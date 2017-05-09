@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "24737557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2412354395",
+    "boundingbox": [
+      "47.9073068",
+      "47.9473068",
+      "3.3342083",
+      "3.3742083"
+    ],
+    "lat": "47.9273068",
+    "lon": "3.3542083",
+    "display_name": "Champvallon, Picnic, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, 89710, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "142785449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351009627",
+    "boundingbox": [
+      "42.5096885",
+      "42.5102007",
+      "-123.6168514",
+      "-123.6157661"
+    ],
+    "lat": "42.5096969",
+    "lon": "-123.6165141",
+    "display_name": "Picnic, Josephine County, Oregon, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129914507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286070487",
+    "boundingbox": [
+      "35.0459134",
+      "35.0474372",
+      "-85.0588355",
+      "-85.0573271"
+    ],
+    "lat": "35.0465614",
+    "lon": "-85.0581615",
+    "display_name": "Picnic, Collegedale, Hamilton County, Tennessee, 37315, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "157280475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "431095595",
+    "boundingbox": [
+      "50.0837008",
+      "50.0837792",
+      "14.4355503",
+      "14.4356422"
+    ],
+    "lat": "50.08373735",
+    "lon": "14.435594303149",
+    "display_name": "picnic, Legerova, Vinohrady, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 12000 Praha 7, \u010cesko",
+    "class": "shop",
+    "type": "kiosk",
+    "importance": 0.111
+  },
+  {
+    "place_id": "84563809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93596120",
+    "boundingbox": [
+      "50.4754927",
+      "50.4755386",
+      "5.6786326",
+      "5.6786598"
+    ],
+    "lat": "50.47551565",
+    "lon": "5.6786462",
+    "display_name": "picnic, Rue de la Heid, Aywaille, Li\u00e8ge, Wallonie, 4920, Belgi\u00eb - Belgique - Belgien",
+    "class": "leisure",
+    "type": "picnic_table",
+    "importance": 0.111
+  },
+  {
+    "place_id": "56594626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4419075791",
+    "boundingbox": [
+      "25.0203065",
+      "25.0204065",
+      "121.5329761",
+      "121.5330761"
+    ],
+    "lat": "25.0203565",
+    "lon": "121.5330261",
+    "display_name": "picnic, \u6eab\u5dde\u8857, \u5927\u5b78\u91cc, \u4e0b\u5167\u57d4, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, Taipei 106, \u81fa\u7063",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "28122450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2629831948",
+    "boundingbox": [
+      "40.4242638",
+      "40.4243638",
+      "-3.7063425",
+      "-3.7062425"
+    ],
+    "lat": "40.4243138",
+    "lon": "-3.7062925",
+    "display_name": "Picnic, 1, Calle de Minas, Barrio Universidad, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28004, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "19775333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1948912981",
+    "boundingbox": [
+      "41.3885558",
+      "41.3886558",
+      "2.181564",
+      "2.181664"
+    ],
+    "lat": "41.3886058",
+    "lon": "2.181614",
+    "display_name": "Picnic, 1, Passeig de Picasso, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, BCN, CAT, 08003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "47298685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3402560499",
+    "boundingbox": [
+      "47.4879143",
+      "47.4880143",
+      "19.0567295",
+      "19.0568295"
+    ],
+    "lat": "47.4879643",
+    "lon": "19.0567795",
+    "display_name": "Picnic, 81, V\u00e1ci utca, Belv\u00e1ros, 5. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1056, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2652427691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4693464167",
+    "boundingbox": [
+      "60.1698708",
+      "60.1699708",
+      "24.9473637",
+      "24.9474637"
+    ],
+    "lat": "60.1699208",
+    "lon": "24.9474137",
+    "display_name": "Picnic, Yliopistonkatu, Keskusta, Kluuvi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 00100, Suomi",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

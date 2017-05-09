@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "131514727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294032205",
+    "boundingbox": [
+      "48.9828244",
+      "49.0305805",
+      "2.4911452",
+      "2.6499404"
+    ],
+    "lat": "49.00665965",
+    "lon": "2.57118515859077",
+    "display_name": "A\u00e9roport Roissy-Charles-de-Gaulle, D\u00e9pose Gare TGV, Le Mesnil-Amelot, Meaux, Seine-et-Marne, \u00cele-de-France, 77990, France",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.47620208673725,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "116896200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224838180",
+    "boundingbox": [
+      "52.9472848",
+      "52.9474776",
+      "-1.1643669",
+      "-1.1641983"
+    ],
+    "lat": "52.947376",
+    "lon": "-1.16428627366026",
+    "display_name": "CDG, 64, Castle Boulevard, Lace Market, The Park, City of Nottingham, East Midlands, England, NG7 1FN, UK",
+    "class": "office",
+    "type": "financial_advisor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2559600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "345195351",
+    "boundingbox": [
+      "30.6971115",
+      "30.7071115",
+      "76.8167564",
+      "76.8267564"
+    ],
+    "lat": "30.7021115",
+    "lon": "76.8217564",
+    "display_name": "Chandigarh, Madhya Marg, Panchkula, Haryana, 160101, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

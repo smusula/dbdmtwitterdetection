@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "46542332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3313321875",
+    "boundingbox": [
+      "35.0861891",
+      "35.0862891",
+      "-80.850393",
+      "-80.850293"
+    ],
+    "lat": "35.0862391",
+    "lon": "-80.850343",
+    "display_name": "HCX The Haircolor Xperts, Carmel Commons Boulevard, Charlotte, Mecklenburg County, North Carolina, 28226, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "130767424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "290286343",
+    "boundingbox": [
+      "45.4796043",
+      "45.4797424",
+      "-122.6939347",
+      "-122.6937701"
+    ],
+    "lat": "45.47967335",
+    "lon": "-122.6938524",
+    "display_name": "Haircolor Salon Dirk, 1517, Southwest Sunset Boulevard, Hillsdale, Portland, Multnomah County, Oregon, 97239, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

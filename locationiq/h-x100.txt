@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "2646578069",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460062771",
+    "boundingbox": [
+      "26.4898028",
+      "26.5116736",
+      "106.7308514",
+      "106.7367015"
+    ],
+    "lat": "26.5005753",
+    "lon": "106.7335454",
+    "display_name": "X100, \u5357\u660e\u533a, \u8d35\u9633\u5e02, \u5357\u660e\u533a / Nanming, \u8d35\u9633\u5e02 / Guiyang, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "88138430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108738002",
+    "boundingbox": [
+      "26.484406",
+      "26.484582",
+      "106.7400493",
+      "106.7400952"
+    ],
+    "lat": "26.484406",
+    "lon": "106.7400952",
+    "display_name": "X100, \u8d35\u9633\u5e02, \u5357\u660e\u533a / Nanming, \u8d35\u9633\u5e02 / Guiyang, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2646578067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460062766",
+    "boundingbox": [
+      "26.4874258",
+      "26.4898028",
+      "106.7366402",
+      "106.7375608"
+    ],
+    "lat": "26.4885409",
+    "lon": "106.7367529",
+    "display_name": "X100, \u5357\u660e\u533a, \u8d35\u9633\u5e02, \u5357\u660e\u533a / Nanming, \u8d35\u9633\u5e02 / Guiyang, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2610622512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454554190",
+    "boundingbox": [
+      "34.9719202",
+      "34.9778966",
+      "105.0716146",
+      "105.1082611"
+    ],
+    "lat": "34.9751428",
+    "lon": "105.0895809",
+    "display_name": "X100, \u80e1\u5bb6\u5c94, \u901a\u6e2d\u53bf (Tongwei), \u5b9a\u897f\u5e02 (Dingxi), \u7518\u8083\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "158573256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437568547",
+    "boundingbox": [
+      "34.9707948",
+      "34.9951112",
+      "105.1082611",
+      "105.1449269"
+    ],
+    "lat": "34.980408",
+    "lon": "105.1319611",
+    "display_name": "X100, \u5e38\u5bb6\u6cb3\u9547, \u901a\u6e2d\u53bf (Tongwei), \u5b9a\u897f\u5e02 (Dingxi), \u7518\u8083\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80438363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66443967",
+    "boundingbox": [
+      "26.3429887",
+      "26.3533529",
+      "106.736809",
+      "106.7408147"
+    ],
+    "lat": "26.347698",
+    "lon": "106.73732",
+    "display_name": "X100, \u9ed4\u9676\u5e03\u4f9d\u65cf\u82d7\u65cf\u4e61, \u82b1\u6eaa\u533a / Huaxi, \u8d35\u9633\u5e02 / Guiyang, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "114747002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "215579860",
+    "boundingbox": [
+      "26.4140746",
+      "26.415838",
+      "106.742935",
+      "106.7449551"
+    ],
+    "lat": "26.4140746",
+    "lon": "106.7449551",
+    "display_name": "X100, \u82b1\u6eaa\u533a / Huaxi, \u8d35\u9633\u5e02 / Guiyang, \u8d35\u5dde\u7701, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647725803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463081834",
+    "boundingbox": [
+      "29.4094317",
+      "29.4180736",
+      "108.0666466",
+      "108.0727244"
+    ],
+    "lat": "29.4130932",
+    "lon": "108.0676779",
+    "display_name": "X100, \u9ad8\u8c37\u9547, Qianjiang Region, \u5f6d\u6c34\u82d7\u65cf\u571f\u5bb6\u65cf\u81ea\u6cbb\u53bf (Pengshu), \u91cd\u5e86\u5e02 (Chongqing), \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647725736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334975366",
+    "boundingbox": [
+      "29.4313965",
+      "29.467162",
+      "108.0885895",
+      "108.1445548"
+    ],
+    "lat": "29.4464548",
+    "lon": "108.117249",
+    "display_name": "X100, \u5408\u6797, Qianjiang Region, \u5f6d\u6c34\u82d7\u65cf\u571f\u5bb6\u65cf\u81ea\u6cbb\u53bf (Pengshu), \u91cd\u5e86\u5e02 (Chongqing), \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647725732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334974661",
+    "boundingbox": [
+      "29.4980139",
+      "29.5094415",
+      "108.1852575",
+      "108.1981938"
+    ],
+    "lat": "29.5023355",
+    "lon": "108.1924753",
+    "display_name": "X100, \u5b66\u5802\u576a, Qianjiang Region, \u5f6d\u6c34\u82d7\u65cf\u571f\u5bb6\u65cf\u81ea\u6cbb\u53bf (Pengshu), \u91cd\u5e86\u5e02 (Chongqing), \u4e2d\u56fd",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  }
+]

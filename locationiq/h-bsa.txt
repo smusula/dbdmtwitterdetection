@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "1341235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313937904",
+    "boundingbox": [
+      "11.2614812",
+      "11.2914812",
+      "49.131801",
+      "49.161801"
+    ],
+    "lat": "11.2764812",
+    "lon": "49.146801",
+    "display_name": "Bender Qassim International Airport, Dan-Wadag, Boosaaso \u0628\u0648\u0635\u0627\u0635\u0648, Bossaso \u0628\u0648\u0635\u0627\u0635\u0648, Bari, Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.22123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "50873228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3786002836",
+    "boundingbox": [
+      "12.9571439",
+      "12.9572439",
+      "77.6999301",
+      "77.7000301"
+    ],
+    "lat": "12.9571939",
+    "lon": "77.6999801",
+    "display_name": "BSA, Varthur Road, Ananda Nagara, Marathahalli, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "22680806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2253037279",
+    "boundingbox": [
+      "43.5344307",
+      "43.5345307",
+      "5.4101265",
+      "5.4102265"
+    ],
+    "lat": "43.5344807",
+    "lon": "5.4101765",
+    "display_name": "BSA, Quick, Jas de Bouffan, Aix-en-Provence, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13090;13100, France",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55421632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4305827081",
+    "boundingbox": [
+      "51.0437965",
+      "51.0438965",
+      "13.7036954",
+      "13.7037954"
+    ],
+    "lat": "51.0438465",
+    "lon": "13.7037454",
+    "display_name": "bsA, 2, Kesselsdorfer Stra\u00dfe, L\u00f6btau-S\u00fcd, L\u00f6btau, Cotta, Dresden, Sachsen, 01159, Deutschland",
+    "class": "shop",
+    "type": "tailor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "148707553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383201454",
+    "boundingbox": [
+      "41.4506077",
+      "41.4508922",
+      "2.2464131",
+      "2.2467413"
+    ],
+    "lat": "41.45075285",
+    "lon": "2.24657739423158",
+    "display_name": "BSA, Carrer de Sant Anastasi, Pep Ventura, Dalt de la Vila, Badalona, BCN, CAT, 08911, Espa\u00f1a",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "897260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "281954296",
+    "boundingbox": [
+      "45.43798",
+      "45.43808",
+      "10.31596",
+      "10.31606"
+    ],
+    "lat": "45.43803",
+    "lon": "10.31601",
+    "display_name": "BSA, SP37, Castenedolo, BS, LOM, 25014, Italia",
+    "class": "man_made",
+    "type": "beacon",
+    "importance": 0.101
+  },
+  {
+    "place_id": "157438632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "432363529",
+    "boundingbox": [
+      "54.9763888",
+      "54.9765214",
+      "-1.4615301",
+      "-1.4613085"
+    ],
+    "lat": "54.9764551",
+    "lon": "-1.4614193",
+    "display_name": "BSA, Bedesway, Brockley Whins, South Tyneside, Tyne and Wear, North East England, England, NE32 3ED, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48679111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3583313314",
+    "boundingbox": [
+      "16.3292424",
+      "16.3293424",
+      "-3.3435797",
+      "-3.3434797"
+    ],
+    "lat": "16.3292924",
+    "lon": "-3.3435297",
+    "display_name": "BSA, Douta, Cercle de Dir\u00e9, Tombouctou, Mali",
+    "class": "amenity",
+    "type": "social_facility",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56683925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4416146512",
+    "boundingbox": [
+      "33.3349208",
+      "33.3350208",
+      "44.3848187",
+      "44.3849187"
+    ],
+    "lat": "33.3349708",
+    "lon": "44.3848687",
+    "display_name": "\u062f\u064a\u0648\u0627\u0646 \u0627\u0644\u0631\u0642\u0627\u0628\u0629 \u0627\u0644\u0645\u0627\u0644\u064a\u0629 \u0627\u0644\u0627\u062a\u062d\u0627\u062f\u064a, Hayfa Street, Salhia, Karkh, \u0628\u063a\u062f\u0627\u062f, \u0627\u0644\u0643\u0631\u062e, \u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u063a\u062f\u0627\u062f, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "office",
+    "type": "government",
+    "importance": 0.001
+  },
+  {
+    "place_id": "93069142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126457325",
+    "boundingbox": [
+      "29.5824917",
+      "29.5829104",
+      "-98.6294175",
+      "-98.6289238"
+    ],
+    "lat": "29.58270105",
+    "lon": "-98.62917065",
+    "display_name": "Business Services Annex, West Campus Road, San Antonio, Bexar County, Texas, 78256, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160303280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "287083",
+    "boundingbox": [
+      "1.1710017",
+      "8.6038842",
+      "-61.4149049",
+      "-56.4689542"
+    ],
+    "lat": "4.8417097",
+    "lon": "-58.641689",
+    "display_name": "Guyana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78666072008119,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "73269216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34928696",
+    "boundingbox": [
+      "-38.7473314",
+      "-38.7466702",
+      "-72.6132505",
+      "-72.6115823"
+    ],
+    "lat": "-38.7470994",
+    "lon": "-72.6119313",
+    "display_name": "Guyana, Villa Las Quilas, Temuco, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, 4811161, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108251549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188539970",
+    "boundingbox": [
+      "-1.2327988",
+      "-1.2323028",
+      "-78.6116886",
+      "-78.6114631"
+    ],
+    "lat": "-1.2326244",
+    "lon": "-78.6116886",
+    "display_name": "Guyana, El Vergel, servicio de torno, Ambato, Tungurahua, 180104, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2608150068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "448189619",
+    "boundingbox": [
+      "-33.4407358",
+      "-33.4405961",
+      "-70.746955",
+      "-70.7430849"
+    ],
+    "lat": "-33.4407341",
+    "lon": "-70.7449653",
+    "display_name": "Guyana, Pudahuel, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9020078, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69428740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25238250",
+    "boundingbox": [
+      "20.6232067",
+      "20.6245276",
+      "-105.223367",
+      "-105.2229404"
+    ],
+    "lat": "20.6245276",
+    "lon": "-105.2229404",
+    "display_name": "Guyana, Pitillal, Puerto Vallarta, Jalisco, 48300, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90373978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "116413061",
+    "boundingbox": [
+      "-27.8262503",
+      "-27.8258998",
+      "-64.2507769",
+      "-64.2490272"
+    ],
+    "lat": "-27.8260646",
+    "lon": "-64.2498499",
+    "display_name": "Guyana, Santiago del Estero, Capital, SDE, 4200, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98313972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148526641",
+    "boundingbox": [
+      "-4.0068351",
+      "-4.0060282",
+      "-79.2085688",
+      "-79.208325"
+    ],
+    "lat": "-4.0062987",
+    "lon": "-79.2083917",
+    "display_name": "Guyana, 10 de Agosto, Loja, 001, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94756267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "132450012",
+    "boundingbox": [
+      "20.6259752",
+      "20.6271062",
+      "-103.3061437",
+      "-103.3061329"
+    ],
+    "lat": "20.6265627",
+    "lon": "-103.3061385",
+    "display_name": "Guyana, San Mart\u00edn de Las Flores, San Pedro Tlaquepaque, Jalisco, 45570, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101885448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163318360",
+    "boundingbox": [
+      "20.5115693",
+      "20.5121207",
+      "-103.3670799",
+      "-103.366706"
+    ],
+    "lat": "20.5121207",
+    "lon": "-103.366706",
+    "display_name": "Guyana, Sendero Real, Valle Dorado Inn, Tlajomulco de Z\u00fa\u00f1iga, Jalisco, 44655, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85622207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98251753",
+    "boundingbox": [
+      "-34.0731899",
+      "-34.0730989",
+      "-60.0942702",
+      "-60.084495"
+    ],
+    "lat": "-34.0731515",
+    "lon": "-60.0886213",
+    "display_name": "Guyana, Arrecifes, Partido de Arrecifes, Bs. As., 2740, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

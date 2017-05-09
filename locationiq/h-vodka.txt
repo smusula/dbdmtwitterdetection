@@ -1,0 +1,172 @@
+[
+  {
+    "place_id": "28590876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2659048022",
+    "boundingbox": [
+      "48.7254844",
+      "48.7454844",
+      "19.3535444",
+      "19.3735444"
+    ],
+    "lat": "48.7354844",
+    "lon": "19.3635444",
+    "display_name": "V\u00f4dka, \u013dubietov\u00e1, okres Bansk\u00e1 Bystrica, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "153608018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "410620978",
+    "boundingbox": [
+      "18.4733499",
+      "18.4733963",
+      "-69.9372844",
+      "-69.9372231"
+    ],
+    "lat": "18.4733731",
+    "lon": "-69.93725375",
+    "display_name": "The Vodka, Calle Federico Geraldino, Julieta Morales, Los Jardines, Santo Domingo, Distrito Nacional, 10127, Rep\u00fablica Dominicana",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "107168157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183555772",
+    "boundingbox": [
+      "51.0631209",
+      "51.0633145",
+      "-1.3134094",
+      "-1.3130281"
+    ],
+    "lat": "51.06319925",
+    "lon": "-1.31315841770249",
+    "display_name": "Vodka, Upper Brook Street, Winchester, Hampshire, South East, England, SO23 8AH, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50171142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3735242353",
+    "boundingbox": [
+      "59.7177935",
+      "59.7178935",
+      "30.3992668",
+      "30.3993668"
+    ],
+    "lat": "59.7178435",
+    "lon": "30.3993168",
+    "display_name": "Vodka, 7, \u041b\u0438\u0446\u0435\u0439\u0441\u043a\u0438\u0439 \u043f\u0435\u0440\u0435\u0443\u043b\u043e\u043a, \u0421\u043e\u0444\u0438\u044f, \u041f\u0443\u0448\u043a\u0438\u043d, \u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "49603144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3668719329",
+    "boundingbox": [
+      "48.0801423",
+      "48.0802423",
+      "38.0775316",
+      "38.0776316"
+    ],
+    "lat": "48.0801923",
+    "lon": "38.0775816",
+    "display_name": "\u0412\u043e\u0434\u043a\u0430, 55, \u041a\u0456\u0440\u043e\u0432\u0430 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0425\u0430\u043d\u0436\u0435\u043d\u043a\u043e\u0432\u043e, \u041c\u0430\u043a\u0456\u0457\u0432\u043a\u0430, \u0421\u043e\u0432\u0454\u0442\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0430\u043a\u0456\u0457\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 86100-86180, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "beverages",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "53126522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4047607878",
+    "boundingbox": [
+      "51.2549937",
+      "51.2550937",
+      "51.4189133",
+      "51.4190133"
+    ],
+    "lat": "51.2550437",
+    "lon": "51.4189633",
+    "display_name": "\u0412\u043e\u0434\u043a\u0430, 52, \u0443\u043b\u0438\u0446\u0430 \u0421\u044b\u0440\u044b\u043c\u0430 \u0414\u0430\u0442\u043e\u0432\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a, \u0423\u0440\u0430\u043b\u044c\u0441\u043a \u0413.\u0410., \u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 090003, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "2650543749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4643639589",
+    "boundingbox": [
+      "40.4338653",
+      "40.4339653",
+      "71.7165721",
+      "71.7166721"
+    ],
+    "lat": "40.4339153",
+    "lon": "71.7166221",
+    "display_name": "\u0412\u043e\u0434\u043a\u0430, Turkiston ko`chasi, Margilon, Toshloq Tumani, Farg'ona Viloyati, 151100, O\u02bbzbekiston",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "18753822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1824070380",
+    "boundingbox": [
+      "49.7008183",
+      "49.7009183",
+      "39.8565483",
+      "39.8566483"
+    ],
+    "lat": "49.7008683",
+    "lon": "39.8565983",
+    "display_name": "\u0412\u043e\u0434\u043a\u0430, 14\u0410, \u0443\u043b\u0438\u0446\u0430 \u041f\u043e\u0431\u0435\u0434\u044b, \u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u043a\u0430, \u041a\u0430\u043d\u0442\u0435\u043c\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 396730, \u0420\u0424",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "55256493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4262899390",
+    "boundingbox": [
+      "-6.1828118",
+      "-6.1827118",
+      "39.2056887",
+      "39.2057887"
+    ],
+    "lat": "-6.1827618",
+    "lon": "39.2057387",
+    "display_name": "\u0412\u043e\u0434\u043a\u0430, Nyrere Road, Kilimani, Unguja Mjini Magharibi, Zanzibar, 71109, Tanzania",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  }
+]

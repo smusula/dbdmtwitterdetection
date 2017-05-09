@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160267111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "123424",
+    "boundingbox": [
+      "42.055227",
+      "42.0626048",
+      "-87.7974005",
+      "-87.7759121"
+    ],
+    "lat": "42.0570448",
+    "lon": "-87.7899875",
+    "display_name": "Golf, Cook County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45463622151278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160838722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5400763",
+    "boundingbox": [
+      "-11.6592642",
+      "-11.6332104",
+      "27.4261232",
+      "27.4629391"
+    ],
+    "lat": "-11.6460621",
+    "lon": "27.4507135221287",
+    "display_name": "Golf, Lubumbashi, Ville de Lubumbashi, Katanga, Haut-Katanga, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160392465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1217276",
+    "boundingbox": [
+      "26.4987354",
+      "26.5134899",
+      "-80.123189",
+      "-80.0961803"
+    ],
+    "lat": "26.5059992",
+    "lon": "-80.1060216860615",
+    "display_name": "Golf, Palm Beach County, Florida, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2647444887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4570541045",
+    "boundingbox": [
+      "42.8843664",
+      "42.8844664",
+      "11.6140814",
+      "11.6141814"
+    ],
+    "lat": "42.8844164",
+    "lon": "11.6141314",
+    "display_name": "Golf, Castel del Piano, GR, TOS, Italia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160858801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5253634",
+    "boundingbox": [
+      "-33.1239791",
+      "-33.1062147",
+      "-64.3816624",
+      "-64.3690371"
+    ],
+    "lat": "-33.115087",
+    "lon": "-64.3759364174213",
+    "display_name": "Golf, R\u00edo Cuarto, Cba., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2647835368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6843524",
+    "boundingbox": [
+      "-31.6512613",
+      "-31.6391854",
+      "-64.4513696",
+      "-64.4334688"
+    ],
+    "lat": "-31.6437904",
+    "lon": "-64.4462954",
+    "display_name": "El Golf, Departamento Santa Mar\u00eda, Cba., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160872403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5503541",
+    "boundingbox": [
+      "-11.7097744",
+      "-11.703938",
+      "27.4723892",
+      "27.4807538"
+    ],
+    "lat": "-11.7069059",
+    "lon": "27.4755874243733",
+    "display_name": "Golf, Bukama, Katuba, Ville de Lubumbashi, Katanga, Haut-Katanga, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "425512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154141794",
+    "boundingbox": [
+      "26.4786834",
+      "26.5186834",
+      "-80.1286542",
+      "-80.0886542"
+    ],
+    "lat": "26.4986834",
+    "lon": "-80.1086542",
+    "display_name": "Golf, Palm Beach County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17222591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1655555467",
+    "boundingbox": [
+      "-8.8820477",
+      "-8.8420477",
+      "13.2367861",
+      "13.2767861"
+    ],
+    "lat": "-8.8620477",
+    "lon": "13.2567861",
+    "display_name": "Golf, Luanda, Angola",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47256975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3424746068",
+    "boundingbox": [
+      "43.2854454",
+      "43.3054454",
+      "-0.4018968",
+      "-0.3818968"
+    ],
+    "lat": "43.2954454",
+    "lon": "-0.3918968",
+    "display_name": "Le Golf, Bill\u00e8re, Pau, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64140, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

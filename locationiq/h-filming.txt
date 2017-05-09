@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "50657199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3764720488",
+    "boundingbox": [
+      "37.7951081",
+      "37.7952081",
+      "-122.4043089",
+      "-122.4042089"
+    ],
+    "lat": "37.7951581",
+    "lon": "-122.4042589",
+    "display_name": "Dirty Harry Filming Location, 750, Kearny Street, Chinatown, SF, California, 94133, United States of America",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "13795680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1257922169",
+    "boundingbox": [
+      "52.5025896",
+      "52.5026896",
+      "13.4821021",
+      "13.4822021"
+    ],
+    "lat": "52.5026396",
+    "lon": "13.4821521",
+    "display_name": "Filming for Change Zentrale, 6, Archibaldweg, Rummelsburg, Lichtenberg, Berlin, 10317, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  }
+]

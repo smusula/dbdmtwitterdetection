@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "346549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150968342",
+    "boundingbox": [
+      "37.9282068",
+      "37.9283068",
+      "-122.0566794",
+      "-122.0565794"
+    ],
+    "lat": "37.9282568",
+    "lon": "-122.0566294",
+    "display_name": "Sparkle, Barclay Drive, Contra Costa Centre, Contra Costa County, California, 94597, United States of America",
+    "class": "historic",
+    "type": "station_site",
+    "importance": 0.43452569928643
+  },
+  {
+    "place_id": "149448406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386590356",
+    "boundingbox": [
+      "22.3325959",
+      "22.3333346",
+      "114.152005",
+      "114.1527865"
+    ],
+    "lat": "22.33296525",
+    "lon": "114.152395741388",
+    "display_name": "500, \u661f\u532f\u5c45 The Sparkle, \u9577\u6c99\u7063 Cheung Sha Wan, \u6df1\u6c34\u57d7\u5340 Sham Shui Po District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "59729350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8694388",
+    "boundingbox": [
+      "42.700206",
+      "42.700899",
+      "-83.1145049",
+      "-83.1142616"
+    ],
+    "lat": "42.700206",
+    "lon": "-83.1145049",
+    "display_name": "Sparkle, Rochester Hills, Oakland County, Michigan, 48307, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52577446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3985385545",
+    "boundingbox": [
+      "43.2551128",
+      "43.2552128",
+      "-79.8641327",
+      "-79.8640327"
+    ],
+    "lat": "43.2551628",
+    "lon": "-79.8640827",
+    "display_name": "sparkle, Mary Street, Beasley, Hamilton, Ontario, L8R 0A1, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "98865776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151190317",
+    "boundingbox": [
+      "41.9529986",
+      "41.9535726",
+      "-87.789779",
+      "-87.7896509"
+    ],
+    "lat": "41.9532861",
+    "lon": "-87.7897072327864",
+    "display_name": "Sparkle, 6520, West Irving Park Road, Dunning, Chicago, Cook County, Illinois, 60634, United States of America",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653975918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4731553451",
+    "boundingbox": [
+      "49.2802882",
+      "49.2803882",
+      "-123.1067922",
+      "-123.1066922"
+    ],
+    "lat": "49.2803382",
+    "lon": "-123.1067422",
+    "display_name": "Sparkle, 88, West Pender Street, Gastown, Vancouver, Greater Vancouver Regional District, British Columbia, V6B1G6, Canada",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "46693525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3349693192",
+    "boundingbox": [
+      "55.9440909",
+      "55.9441909",
+      "-3.2023729",
+      "-3.2022729"
+    ],
+    "lat": "55.9441409",
+    "lon": "-3.2023229",
+    "display_name": "Sparkle, 117, Lauriston Place, Lauriston, Tollcross, Edinburgh, City of Edinburgh, Scotland, EH3 9JB, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135858231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313767016",
+    "boundingbox": [
+      "51.537632",
+      "51.5377368",
+      "0.0787958",
+      "0.079033"
+    ],
+    "lat": "51.537694",
+    "lon": "0.0789151801357221",
+    "display_name": "Sparkle, East Street, Roding Riverside, Thames View, London Borough of Barking and Dagenham, London, Greater London, England, IG11 8EP, UK",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "131507277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294172528",
+    "boundingbox": [
+      "53.7612305",
+      "53.7612995",
+      "-2.4877544",
+      "-2.487573"
+    ],
+    "lat": "53.76126465",
+    "lon": "-2.48766342685574",
+    "display_name": "Sparkle, 240, Shear Brow, Four Lane Ends, Blackburn, Blackburn with Darwen, North West England, England, BB1 8DS, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52652922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3974051475",
+    "boundingbox": [
+      "50.6476643",
+      "50.6477643",
+      "-1.1682244",
+      "-1.1681244"
+    ],
+    "lat": "50.6477143",
+    "lon": "-1.1681744",
+    "display_name": "Sparkle, 26, Sandown Road, Lake, Isle of Wight, South East, England, PO36 9JP, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

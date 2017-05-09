@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "82449851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82783932",
+    "boundingbox": [
+      "45.9456101",
+      "45.948169",
+      "10.6157911",
+      "10.6255179"
+    ],
+    "lat": "45.9471215",
+    "lon": "10.6210857",
+    "display_name": "Daone, Comunit\u00e0 delle Giudicarie, TN, TAA, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.63270207436398,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6827210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "706274730",
+    "boundingbox": [
+      "45.847171",
+      "45.867171",
+      "10.986315",
+      "11.006315"
+    ],
+    "lat": "45.857171",
+    "lon": "10.996315",
+    "display_name": "Daone, Mori, Comunit\u00e0 della Vallagarina, TN, TAA, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

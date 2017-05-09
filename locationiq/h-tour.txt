@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160257574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "76306",
+    "boundingbox": [
+      "47.3489171",
+      "47.4395937",
+      "0.6528317",
+      "0.7373427"
+    ],
+    "lat": "47.3900474",
+    "lon": "0.6889268",
+    "display_name": "Tours, Indre-et-Loire, Centre-Val de Loire, 37000;37100;37200, France",
+    "class": "place",
+    "type": "city",
+    "importance": 0.72442381342598,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2647473324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184302027",
+    "boundingbox": [
+      "48.462492",
+      "48.462654",
+      "1.777748",
+      "1.777952"
+    ],
+    "lat": "48.462573",
+    "lon": "1.77784930075188",
+    "display_name": "Tour, Rue Gambetta, Auneau, Auneau-Bleury-Saint-Symphorien, Chartres, Eure-et-Loir, Centre-Val de Loire, 28700, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.62037721643396
+  },
+  {
+    "place_id": "132767249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "299687859",
+    "boundingbox": [
+      "46.0389251",
+      "46.0390128",
+      "2.2180433",
+      "2.2181871"
+    ],
+    "lat": "46.03896925",
+    "lon": "2.2181142534689",
+    "display_name": "Tour, Rue Principale, Puy-Malsignat, Aubusson, Creuse, Nouvelle-Aquitaine, 23130, France",
+    "class": "historic",
+    "type": "ruins",
+    "importance": 0.58981885139666,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_ruin.p.20.png"
+  },
+  {
+    "place_id": "87513395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "106609195",
+    "boundingbox": [
+      "45.9476448",
+      "45.9477147",
+      "4.5824431",
+      "4.5825433"
+    ],
+    "lat": "45.9476828",
+    "lon": "4.58249367708333",
+    "display_name": "La Tour, Rue Paul Causeret, Oingt, Val d'Oingt, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69620, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.51214111170503
+  },
+  {
+    "place_id": "37470704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2865137030",
+    "boundingbox": [
+      "44.7152085",
+      "44.7153085",
+      "4.2927914",
+      "4.2928914"
+    ],
+    "lat": "44.7152585",
+    "lon": "4.2928414",
+    "display_name": "La Tour, Juvinas, Largenti\u00e8re, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, 07600, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "25101611",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2428079233",
+    "boundingbox": [
+      "45.4401716",
+      "45.4402716",
+      "6.7993984",
+      "6.7994984"
+    ],
+    "lat": "45.4402216",
+    "lon": "6.7994484",
+    "display_name": "La tour, Champagny-en-Vanoise, Albertville, Savoie, Auvergne-Rh\u00f4ne-Alpes, 73350, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "51661808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3871478846",
+    "boundingbox": [
+      "46.3263832",
+      "46.3264832",
+      "6.7804957",
+      "6.7805957"
+    ],
+    "lat": "46.3264332",
+    "lon": "6.7805457",
+    "display_name": "La Tour, La Chapelle-d'Abondance, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74360, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "23379256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2315867137",
+    "boundingbox": [
+      "46.0146669",
+      "46.0147669",
+      "6.4917979",
+      "6.4918979"
+    ],
+    "lat": "46.0147169",
+    "lon": "6.4918479",
+    "display_name": "La Tour, Le Reposoir, Bonneville, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74950, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "24285026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2365398236",
+    "boundingbox": [
+      "-46.4230888",
+      "-46.4229888",
+      "52.1432527",
+      "52.1433527"
+    ],
+    "lat": "-46.4230388",
+    "lon": "52.1433027",
+    "display_name": "La Tour, Archipel des Crozet, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160453726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1561155",
+    "boundingbox": [
+      "43.9250565",
+      "44.0047171",
+      "7.151484",
+      "7.2406776"
+    ],
+    "lat": "43.9464894",
+    "lon": "7.1840182",
+    "display_name": "La Tour, Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06420, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

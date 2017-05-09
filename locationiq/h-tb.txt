@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160490748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1901019",
+    "boundingbox": [
+      "20.148953",
+      "20.7289887",
+      "106.1096698",
+      "106.839657"
+    ],
+    "lat": "20.5326654",
+    "lon": "106.327243",
+    "display_name": "T\u1ec9nh Th\u00e1i B\u00ecnh, Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46475010654705,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17780090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1719422226",
+    "boundingbox": [
+      "26.0098287",
+      "26.0498287",
+      "56.2098094",
+      "56.2498094"
+    ],
+    "lat": "26.0298287",
+    "lon": "56.2298094",
+    "display_name": "\u062a\u0628, \u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0646\u062f\u0645, \u0639\u0645\u0627\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "145334338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367492456",
+    "boundingbox": [
+      "-34.02535",
+      "-34.0252952",
+      "18.6570769",
+      "18.657118"
+    ],
+    "lat": "-34.0253226",
+    "lon": "18.6570974268102",
+    "display_name": "tb, TB, Cwayi Crescent, Cape Town Ward 91, Khayelitsha, City of Cape Town, Western Cape, 7100, South Africa",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "99625249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154133478",
+    "boundingbox": [
+      "52.1789903",
+      "52.179355",
+      "20.9484242",
+      "20.9493565"
+    ],
+    "lat": "52.17915265",
+    "lon": "20.948890298512",
+    "display_name": "TB, Aleja Krakowska, Rak\u00f3w, W\u0142ochy, Warszawa, mazowieckie, 02-180, Polska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106054480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178848388",
+    "boundingbox": [
+      "65.3720633",
+      "65.3722925",
+      "25.8379457",
+      "25.8385491"
+    ],
+    "lat": "65.3721525",
+    "lon": "25.8382210507273",
+    "display_name": "TB, Karjalantie, Oulu, Oulun seutukunta, Pohjois-Pohjanmaa, Pohjois-Suomen aluehallintovirasto, Pohjois-Suomi, Suomi",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "50401687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3740383534",
+    "boundingbox": [
+      "50.8177239",
+      "50.8178239",
+      "8.7748768",
+      "8.7749768"
+    ],
+    "lat": "50.8177739",
+    "lon": "8.7749268",
+    "display_name": "TB - Aral-Tankstelle Bahnhof, Krummbogen, Biegenhausen, Biegenviertel, Marburg, Landkreis Marburg-Biedenkopf, Regierungsbezirk Gie\u00dfen, Hessen, 35039, Deutschland",
+    "class": "amenity",
+    "type": "car_sharing",
+    "importance": 0.101
+  },
+  {
+    "place_id": "58152202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5846991",
+    "boundingbox": [
+      "40.651608",
+      "40.6523321",
+      "-73.7876777",
+      "-73.7871519"
+    ],
+    "lat": "40.6523321",
+    "lon": "-73.7876777",
+    "display_name": "TB, 148th Street, Bayswater, Queens County, NYC, New York, 11430, United States of America",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3505575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369539363",
+    "boundingbox": [
+      "52.5278989",
+      "52.5279989",
+      "-2.0709118",
+      "-2.0708118"
+    ],
+    "lat": "52.5279489",
+    "lon": "-2.0708618",
+    "display_name": "TB, Owen Street, Princes End, Tipton, Sandwell, West Midlands, England, DY4 8HE, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "84893820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95155699",
+    "boundingbox": [
+      "50.588855",
+      "50.589049",
+      "15.168205",
+      "15.1687711"
+    ],
+    "lat": "50.58895275",
+    "lon": "15.1684880213123",
+    "display_name": "TB, 28. \u0159\u00edjna, Turnov, okres Semily, Libereck\u00fd kraj, Severov\u00fdchod, 51101, \u010cesko",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "57213890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4370581",
+    "boundingbox": [
+      "45.7263218",
+      "45.7274667",
+      "4.9402409",
+      "4.9419609"
+    ],
+    "lat": "45.7269012",
+    "lon": "4.9410419",
+    "display_name": "TB, Ancienne Route de Grenoble, Saint-Priest, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69800, France",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  }
+]

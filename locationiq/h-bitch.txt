@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "82296764",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81660779",
+    "boundingbox": [
+      "55.6533051",
+      "55.6542453",
+      "-3.1307273",
+      "-3.1295381"
+    ],
+    "lat": "55.6538948",
+    "lon": "-3.1299738",
+    "display_name": "The bitch, Eshiels, Scottish Borders, Scotland, UK",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "47336029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3417214402",
+    "boundingbox": [
+      "52.5105299",
+      "52.5106299",
+      "-1.9401662",
+      "-1.9400662"
+    ],
+    "lat": "52.5105799",
+    "lon": "-1.9401162",
+    "display_name": "Bitch, Aylesford Road, Handsworth, Hockley Port, Birmingham, West Midlands, England, B21, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

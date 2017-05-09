@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "645503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "245725914",
+    "boundingbox": [
+      "24.7316379",
+      "24.7616379",
+      "84.9291007",
+      "84.9591007"
+    ],
+    "lat": "24.7466379",
+    "lon": "84.9441007",
+    "display_name": "Gaya Airport, Gaya-Sherghati Road, Gaya, Gay\u0101, Gaya, Bihar, 823001, India",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.4653234953358,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "79967694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62997208",
+    "boundingbox": [
+      "43.6108452",
+      "43.6368914",
+      "0.9966278",
+      "1.0340801"
+    ],
+    "lat": "43.6205194",
+    "lon": "1.0101285",
+    "display_name": "Le Gay, Monferran-Sav\u00e8s, Auch, Gers, Occitanie, 32490, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "82225277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80989442",
+    "boundingbox": [
+      "43.6003384",
+      "43.6108452",
+      "1.0340492",
+      "1.0582215"
+    ],
+    "lat": "43.6044399",
+    "lon": "1.0457122",
+    "display_name": "Le Gay, L'Isle-Jourdain, Auch, Gers, Occitanie, 32600, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2654654145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4746100266",
+    "boundingbox": [
+      "15.90674",
+      "15.94674",
+      "-61.334845",
+      "-61.294845"
+    ],
+    "lat": "15.92674",
+    "lon": "-61.314845",
+    "display_name": "Gay, Pointe-\u00e0-Pitre, Guadeloupe, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11254040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1099901693",
+    "boundingbox": [
+      "45.5975624",
+      "45.6375624",
+      "3.6305603",
+      "3.6705603"
+    ],
+    "lat": "45.6175624",
+    "lon": "3.6505603",
+    "display_name": "Le Gay, Ambert, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8903600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "931483321",
+    "boundingbox": [
+      "47.7735538",
+      "47.8135538",
+      "-1.578832",
+      "-1.538832"
+    ],
+    "lat": "47.7935538",
+    "lon": "-1.558832",
+    "display_name": "Le Gay, Redon, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16348220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1504090345",
+    "boundingbox": [
+      "45.0279512",
+      "45.0679512",
+      "3.2286349",
+      "3.2686349"
+    ],
+    "lat": "45.0479512",
+    "lon": "3.2486349",
+    "display_name": "Le Gay, Saint-Flour, Cantal, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45961930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3254492583",
+    "boundingbox": [
+      "44.0586159",
+      "44.0986159",
+      "0.430452",
+      "0.470452"
+    ],
+    "lat": "44.0786159",
+    "lon": "0.450452",
+    "display_name": "Gay, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "380835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151846670",
+    "boundingbox": [
+      "33.9334361",
+      "33.9734361",
+      "-95.6413523",
+      "-95.6013523"
+    ],
+    "lat": "33.9534361",
+    "lon": "-95.6213523",
+    "display_name": "Gay, Choctaw County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "430411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154007755",
+    "boundingbox": [
+      "35.2714879",
+      "35.3114879",
+      "-83.2932045",
+      "-83.2532045"
+    ],
+    "lat": "35.2914879",
+    "lon": "-83.2732045",
+    "display_name": "Gay, Jackson County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

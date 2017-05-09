@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160418665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1373926",
+    "boundingbox": [
+      "47.8599442",
+      "47.9057233",
+      "19.265928",
+      "19.345154"
+    ],
+    "lat": "47.8779897",
+    "lon": "19.3110409",
+    "display_name": "Leg\u00e9nd, R\u00e9ts\u00e1gi j\u00e1r\u00e1s, N\u00f3gr\u00e1d megye, \u00c9szak-Magyarorsz\u00e1g, Alf\u00f6ld \u00e9s \u00c9szak, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40133403241438,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17554978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1684161453",
+    "boundingbox": [
+      "18.7002819",
+      "18.7003819",
+      "98.9455303",
+      "98.9456303"
+    ],
+    "lat": "18.7003319",
+    "lon": "98.9455803",
+    "display_name": "The Legend, \u0e1a\u0e49\u0e32\u0e19\u0e15\u0e49\u0e19\u0e44\u0e2e, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50230, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "119398265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233750823",
+    "boundingbox": [
+      "40.059364",
+      "40.0610768",
+      "-82.867812",
+      "-82.8671489"
+    ],
+    "lat": "40.0601026",
+    "lon": "-82.867158",
+    "display_name": "Legend, Columbus, Franklin County, Ohio, 43230, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126414071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264351814",
+    "boundingbox": [
+      "32.8599892",
+      "32.8617977",
+      "-105.9836949",
+      "-105.9836703"
+    ],
+    "lat": "32.8599892",
+    "lon": "-105.9836949",
+    "display_name": "Legend, Alamogordo, Otero County, New Mexico, 88311, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90895243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118394993",
+    "boundingbox": [
+      "33.1835522",
+      "33.1835609",
+      "-117.0925713",
+      "-117.0917299"
+    ],
+    "lat": "33.1835522",
+    "lon": "-117.0917299",
+    "display_name": "Legend, Jesmond Dene, San Diego County, California, 92026, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59618797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8965034",
+    "boundingbox": [
+      "37.1647689",
+      "37.1655073",
+      "-121.6510532",
+      "-121.649678"
+    ],
+    "lat": "37.1647689",
+    "lon": "-121.649678",
+    "display_name": "Legend, Coyote Estates, Madrone, Santa Clara County, California, 95037, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61198354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11329909",
+    "boundingbox": [
+      "27.051181",
+      "27.051617",
+      "-82.0792309",
+      "-82.0774269"
+    ],
+    "lat": "27.051197",
+    "lon": "-82.0780999",
+    "display_name": "Legend, North Port, Sarasota County, Florida, 33954, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61795404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12272395",
+    "boundingbox": [
+      "38.7112303",
+      "38.7119796",
+      "-90.6530047",
+      "-90.6514598"
+    ],
+    "lat": "38.7112303",
+    "lon": "-90.6530047",
+    "display_name": "Legend, Weldon Spring, St. Charles County, Missouri, 63304, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69643265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25776104",
+    "boundingbox": [
+      "14.5982655",
+      "14.6013428",
+      "121.1213016",
+      "121.1214461"
+    ],
+    "lat": "14.5996494",
+    "lon": "121.1213841",
+    "display_name": "Legend, Village East, Muntindilaw, Rizal, Calabarzon, 1870, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2610254211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453436776",
+    "boundingbox": [
+      "47.4770965",
+      "47.479814",
+      "-121.9063889",
+      "-121.9012705"
+    ],
+    "lat": "47.4772641",
+    "lon": "-121.9037626",
+    "display_name": "The Legend, Upper Preston, King County, Washington, 98050, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

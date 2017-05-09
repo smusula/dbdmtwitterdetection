@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "156505693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426681574",
+    "boundingbox": [
+      "4.8165397",
+      "4.8195875",
+      "-75.6911086",
+      "-75.6871245"
+    ],
+    "lat": "4.81803125",
+    "lon": "-75.6888389028759",
+    "display_name": "America, Pereira, Risaralda, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160411682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1418612",
+    "boundingbox": [
+      "51.418899",
+      "51.471403",
+      "5.9163824",
+      "6.013728"
+    ],
+    "lat": "51.44770365",
+    "lon": "5.96606928205559",
+    "display_name": "America, Horst aan de Maas, Limburg, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39977507250156,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "413157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153670779",
+    "boundingbox": [
+      "40.6592089",
+      "40.6992089",
+      "-85.7219245",
+      "-85.6819245"
+    ],
+    "lat": "40.6792089",
+    "lon": "-85.7019245",
+    "display_name": "America, Wabash County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "397570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153719634",
+    "boundingbox": [
+      "33.717886",
+      "33.757886",
+      "-87.2725023",
+      "-87.2325023"
+    ],
+    "lat": "33.737886",
+    "lon": "-87.2525023",
+    "display_name": "America, Walker County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6876499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703191291",
+    "boundingbox": [
+      "7.2892727",
+      "7.3292727",
+      "-75.5565876",
+      "-75.5165876"
+    ],
+    "lat": "7.3092727",
+    "lon": "-75.5365876",
+    "display_name": "America, Ituango, Antioquia, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6729821",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703191240",
+    "boundingbox": [
+      "7.2742136",
+      "7.3142136",
+      "-75.4569012",
+      "-75.4169012"
+    ],
+    "lat": "7.2942136",
+    "lon": "-75.4369012",
+    "display_name": "La America, Valdivia, Antioquia, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26620106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2531444068",
+    "boundingbox": [
+      "10.8800439",
+      "10.9200439",
+      "124.9272979",
+      "124.9672979"
+    ],
+    "lat": "10.9000439",
+    "lon": "124.9472979",
+    "display_name": "America, La Paz, Leyte 2nd District, Leyte, Eastern Visayas, 6508, Philippines",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49021904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3641152621",
+    "boundingbox": [
+      "-14.487998",
+      "-14.447998",
+      "-70.6727102",
+      "-70.6327102"
+    ],
+    "lat": "-14.467998",
+    "lon": "-70.6527102",
+    "display_name": "America, Melgar, Puno, Per\u00fa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48347920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3523113058",
+    "boundingbox": [
+      "-15.4889277",
+      "-15.4489277",
+      "-74.7400296",
+      "-74.7000296"
+    ],
+    "lat": "-15.4689277",
+    "lon": "-74.7200296",
+    "display_name": "America, Caravel\u00ed, Arequipa, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45494241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3234213228",
+    "boundingbox": [
+      "-12.4061086",
+      "-12.3661086",
+      "-66.1736347",
+      "-66.1336347"
+    ],
+    "lat": "-12.3861086",
+    "lon": "-66.1536347",
+    "display_name": "Canton Exaltaci\u00f3n, America, Provincia de Yacuma, BNI, Bolivia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

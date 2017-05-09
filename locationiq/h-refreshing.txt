@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "22617111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2240666214",
+    "boundingbox": [
+      "30.1261368",
+      "30.1661368",
+      "118.1458724",
+      "118.1858724"
+    ],
+    "lat": "30.1461368",
+    "lon": "118.1658724",
+    "display_name": "\u6e05\u51c9\u53f0, \u9ec4\u5c71\u533a (Huangshan), \u9ec4\u5c71\u5e02 / Huangshan, \u5b89\u5fbd\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "64980260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17368771",
+    "boundingbox": [
+      "39.994237",
+      "39.999771",
+      "-85.9848539",
+      "-85.9824439"
+    ],
+    "lat": "39.99756",
+    "lon": "-85.9824769",
+    "display_name": "Refreshing Garden Lane, Fishers, Hamilton County, Indiana, 46038, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64550742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16627286",
+    "boundingbox": [
+      "35.355866",
+      "35.358718",
+      "-82.3876209",
+      "-82.3876109"
+    ],
+    "lat": "35.355866",
+    "lon": "-82.3876109",
+    "display_name": "Refreshing Ridge, Blue Ridge, Henderson County, North Carolina, 28792, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61691970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11546410",
+    "boundingbox": [
+      "39.5205164",
+      "39.5215441",
+      "-76.9513227",
+      "-76.9510194"
+    ],
+    "lat": "39.5205164",
+    "lon": "-76.9513227",
+    "display_name": "Refreshing Mint, Peppermint Park, Carroll County, Maryland, 21157, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "131661207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294949417",
+    "boundingbox": [
+      "38.9047231",
+      "38.9049506",
+      "-76.9382059",
+      "-76.9379827"
+    ],
+    "lat": "38.90484325",
+    "lon": "-76.9380926678749",
+    "display_name": "Second Refreshing Spring Church, 4407, Lee Street Northeast, Deanwood, Langston, Washington, District of Columbia, 20019, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "2818807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356899851",
+    "boundingbox": [
+      "35.013537",
+      "35.013637",
+      "-90.0258959",
+      "-90.0257959"
+    ],
+    "lat": "35.013587",
+    "lon": "-90.0258459",
+    "display_name": "Refreshing Springs Full Gospel Holiness Church, Elvis Presley Boulevard, Memphis, Shelby County, Tennessee, 38116, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "92968717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125753521",
+    "boundingbox": [
+      "0.2980364",
+      "0.2982635",
+      "32.6135412",
+      "32.6138987"
+    ],
+    "lat": "0.29814995",
+    "lon": "32.61371995",
+    "display_name": "Refreshing Assembly Church, Lubwama Close, Muyenga Tank Hill, Kansanga, Kampala, Central Region, 21912, Uganda",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "52651291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4003590468",
+    "boundingbox": [
+      "0.3152044",
+      "0.3153044",
+      "32.5738539",
+      "32.5739539"
+    ],
+    "lat": "0.3152544",
+    "lon": "32.5739039",
+    "display_name": "Halal Refreshing Joint, Nakivubo Road, Kikuubo, Kisenyi, Kampala, Central Region, 33903, Uganda",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3086796",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358388406",
+    "boundingbox": [
+      "30.460696",
+      "30.460796",
+      "-91.1523787",
+      "-91.1522787"
+    ],
+    "lat": "30.460746",
+    "lon": "-91.1523287",
+    "display_name": "Times of Refreshing Zions Tabernacle, North 38th Street, Baton Rouge, East Baton Rouge Parish, Louisiana, 70805, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "2654259881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473589555",
+    "boundingbox": [
+      "-15.4224916",
+      "-15.4223892",
+      "28.250147",
+      "28.2502253"
+    ],
+    "lat": "-15.4224404",
+    "lon": "28.25018615",
+    "display_name": "Get Up Refreshing Pub, Mumbwa Road, Chibolya, Lusaka, Lusaka Province, 1010, Zambia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

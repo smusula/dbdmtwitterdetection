@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "21586277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2124578865",
+    "boundingbox": [
+      "49.3024192",
+      "49.3025192",
+      "10.5778932",
+      "10.5779932"
+    ],
+    "lat": "49.3024692",
+    "lon": "10.5779432",
+    "display_name": "backstage, Schlo\u00dfplatz, Kammerforst, Ansbach, Mittelfranken, Bayern, 91522, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "47573625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3450964496",
+    "boundingbox": [
+      "48.8393048",
+      "48.8394048",
+      "2.3234006",
+      "2.3235006"
+    ],
+    "lat": "48.8393548",
+    "lon": "2.3234506",
+    "display_name": "Backstage, Rue Larochelle, Montparnasse, 14e, Paris, \u00cele-de-France, 75014, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56706657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428897899",
+    "boundingbox": [
+      "48.8841902",
+      "48.8842902",
+      "2.3320506",
+      "2.3321506"
+    ],
+    "lat": "48.8842402",
+    "lon": "2.3321006",
+    "display_name": "Backstage, 92 bis, Boulevard de Clichy, Grandes-Carri\u00e8res, 18e, Paris, \u00cele-de-France, 75018, France",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "53079382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4043814614",
+    "boundingbox": [
+      "53.572864",
+      "53.572964",
+      "9.9602771",
+      "9.9603771"
+    ],
+    "lat": "53.572914",
+    "lon": "9.9603271",
+    "display_name": "Backstage, 64, Eppendorfer Weg, Eimsb\u00fcttel, Hamburg, 20259, Deutschland",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610524459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4508677538",
+    "boundingbox": [
+      "-34.5552999",
+      "-34.5551999",
+      "-58.4475659",
+      "-58.4474659"
+    ],
+    "lat": "-34.5552499",
+    "lon": "-58.4475159",
+    "display_name": "Backstage, Mendoza, Bajo Belgrano, Belgrano, CABA, Comuna 13, CABA, 7223, Argentina",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "47991369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3499888476",
+    "boundingbox": [
+      "48.1131195",
+      "48.1132195",
+      "-1.6827398",
+      "-1.6826398"
+    ],
+    "lat": "48.1131695",
+    "lon": "-1.6826898",
+    "display_name": "Backstage, Place des Lices, Centre-Ville, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Bretagne, 35000;35200;35700, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "48893930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3608435320",
+    "boundingbox": [
+      "38.1857869",
+      "38.1858869",
+      "15.5539866",
+      "15.5540866"
+    ],
+    "lat": "38.1858369",
+    "lon": "15.5540366",
+    "display_name": "Backstage, 70, Via Risorgimento, IV Circoscrizione, Messina, ME, SIC, 98123, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "74330442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38125168",
+    "boundingbox": [
+      "48.1444604",
+      "48.1452688",
+      "11.521373",
+      "11.5225294"
+    ],
+    "lat": "48.1448707",
+    "lon": "11.5219511901142",
+    "display_name": "Backstage, Reitknechtstra\u00dfe, Bezirksteil Neuhausen, Stadtbezirk 09 Neuhausen-Nymphenburg, M\u00fcnchen, OB, Bayern, 80639, Deutschland",
+    "class": "amenity",
+    "type": "biergarten",
+    "importance": 0.101
+  },
+  {
+    "place_id": "78421628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55091314",
+    "boundingbox": [
+      "48.144747",
+      "48.1451029",
+      "11.5216995",
+      "11.5222882"
+    ],
+    "lat": "48.1449436",
+    "lon": "11.5219968879205",
+    "display_name": "Backstage, 6, Reitknechtstra\u00dfe, Bezirksteil Neuhausen, Stadtbezirk 09 Neuhausen-Nymphenburg, M\u00fcnchen, OB, Bayern, 80639, Deutschland",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "124035150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253640424",
+    "boundingbox": [
+      "48.143888",
+      "48.1443523",
+      "11.5203769",
+      "11.5215218"
+    ],
+    "lat": "48.14400455",
+    "lon": "11.5207081237772",
+    "display_name": "Backstage, Reitknechtstra\u00dfe, Bezirksteil Neuhausen, Stadtbezirk 09 Neuhausen-Nymphenburg, M\u00fcnchen, OB, Bayern, 80639, Deutschland",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160364971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "959213",
+    "boundingbox": [
+      "49.5146137",
+      "49.5613902",
+      "3.2274966",
+      "3.2864581"
+    ],
+    "lat": "49.5404",
+    "lon": "3.25625",
+    "display_name": "Champs, Laon, Aisne, Hauts-de-France, 02670, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55190113611987,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17579894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1709256418",
+    "boundingbox": [
+      "48.56379",
+      "48.60379",
+      "0.53512",
+      "0.57512"
+    ],
+    "lat": "48.58379",
+    "lon": "0.55512",
+    "display_name": "Champs, Mortagne-au-Perche, Orne, Normandie, 61190, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.51822244838976,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22824025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2271475042",
+    "boundingbox": [
+      "45.6655764",
+      "45.7055764",
+      "3.5379027",
+      "3.5779027"
+    ],
+    "lat": "45.6855764",
+    "lon": "3.5579027",
+    "display_name": "Champs, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "751413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "260446085",
+    "boundingbox": [
+      "49.0145885",
+      "49.0545885",
+      "5.8609053",
+      "5.9009053"
+    ],
+    "lat": "49.0345885",
+    "lon": "5.8809053",
+    "display_name": "Champs, Briey, Meurthe-et-Moselle, Grand-Est, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21487707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2112103383",
+    "boundingbox": [
+      "45.6358779",
+      "45.6758779",
+      "1.6433266",
+      "1.6833266"
+    ],
+    "lat": "45.6558779",
+    "lon": "1.6633266",
+    "display_name": "Champs, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19952883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1950474105",
+    "boundingbox": [
+      "45.9911471",
+      "46.0311471",
+      "2.0075857",
+      "2.0475857"
+    ],
+    "lat": "46.0111471",
+    "lon": "2.0275857",
+    "display_name": "Champs, Aubusson, Creuse, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19066306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1857772339",
+    "boundingbox": [
+      "45.6331684",
+      "45.6731684",
+      "4.0947977",
+      "4.1347977"
+    ],
+    "lat": "45.6531684",
+    "lon": "4.1147977",
+    "display_name": "Champs, Montbrison, Loire, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12383773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1179241067",
+    "boundingbox": [
+      "47.1465734",
+      "47.1865734",
+      "2.0731809",
+      "2.1131809"
+    ],
+    "lat": "47.1665734",
+    "lon": "2.0931809",
+    "display_name": "Champs, Vierzon, Cher, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55982487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4341640936",
+    "boundingbox": [
+      "50.4096105",
+      "50.4496105",
+      "4.7703818",
+      "4.8103818"
+    ],
+    "lat": "50.4296105",
+    "lon": "4.7903818",
+    "display_name": "Malonne, Champs, Namur, Wallonie, 5020, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4421728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "477433522",
+    "boundingbox": [
+      "50.0188681",
+      "50.0588681",
+      "5.6492743",
+      "5.6892743"
+    ],
+    "lat": "50.0388681",
+    "lon": "5.6692743",
+    "display_name": "Champs, Bastogne, Luxembourg, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "61230840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10885888",
+    "boundingbox": [
+      "30.196726",
+      "30.197119",
+      "-81.7908439",
+      "-81.7908249"
+    ],
+    "lat": "30.196726",
+    "lon": "-81.7908439",
+    "display_name": "Catskills Court, Jacksonville, Duval County, Florida, 32244, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67556179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21332672",
+    "boundingbox": [
+      "33.858628",
+      "33.862318",
+      "-98.5750319",
+      "-98.5697378"
+    ],
+    "lat": "33.861243",
+    "lon": "-98.5733159",
+    "display_name": "Catskills Drive, Wichita Falls, Wichita County, Texas, 76310, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75313897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40497297",
+    "boundingbox": [
+      "34.1183528",
+      "34.1187763",
+      "-117.638737",
+      "-117.6387313"
+    ],
+    "lat": "34.1187763",
+    "lon": "-117.638737",
+    "display_name": "Catskills Circle, Upland, San Bernardino County, California, 91786, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62672685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13390685",
+    "boundingbox": [
+      "34.439011",
+      "34.4394374",
+      "-118.3872007",
+      "-118.3863464"
+    ],
+    "lat": "34.4392681",
+    "lon": "-118.3867831",
+    "display_name": "Catskills Court, Sand Canyon, Santa Clarita, Los Angeles County, California, 91387, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126493423",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264669304",
+    "boundingbox": [
+      "42.0821005",
+      "42.0823161",
+      "-74.0016076",
+      "-74.0013373"
+    ],
+    "lat": "42.0822083",
+    "lon": "-74.0014724251399",
+    "display_name": "Smoke House of the Catskills, 724, Saugerties-Woodstock Road, Veteran, Town of Saugerties, Ulster County, New York, 12477, United States of America",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  }
+]

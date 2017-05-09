@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "463471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158309879",
+    "boundingbox": [
+      "35.2259951",
+      "35.2659951",
+      "-77.2744004",
+      "-77.2344004"
+    ],
+    "lat": "35.2459951",
+    "lon": "-77.2544004",
+    "display_name": "Perfection, Craven County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55886402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4350081889",
+    "boundingbox": [
+      "45.4193497",
+      "45.4194497",
+      "-75.6975333",
+      "-75.6974333"
+    ],
+    "lat": "45.4193997",
+    "lon": "-75.6974833",
+    "display_name": "Perfection, Laurier Avenue West, Chinatown, Centretown, Somerset, Ottawa, Ontario, K1P 5J9, Canada",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "3994447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420752250",
+    "boundingbox": [
+      "51.40615",
+      "51.40625",
+      "0.0129612",
+      "0.0130612"
+    ],
+    "lat": "51.4062",
+    "lon": "0.0130112",
+    "display_name": "Perfection, High Street, Hayes, London Borough of Bromley, London, Greater London, England, BR1 1NZ, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "129870523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "285592722",
+    "boundingbox": [
+      "51.4480054",
+      "51.4480889",
+      "-0.3287751",
+      "-0.3285867"
+    ],
+    "lat": "51.44804715",
+    "lon": "-0.3286809",
+    "display_name": "Perfection, 40, London Road, Cole Park, Twickenham, London Borough of Richmond upon Thames, London, Greater London, England, TW1 3RR, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "19885645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1969963010",
+    "boundingbox": [
+      "52.1927701",
+      "52.1928701",
+      "0.1389635",
+      "0.1390635"
+    ],
+    "lat": "52.1928201",
+    "lon": "0.1390135",
+    "display_name": "Perfection, 42, Clifton Road, Clifton Road Industrial Estate, Coleridge Ward, Cambridge, Cambridgeshire, East of England, England, CB1 7ED, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107334138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184278861",
+    "boundingbox": [
+      "50.9018365",
+      "50.9019478",
+      "-1.4014058",
+      "-1.4013108"
+    ],
+    "lat": "50.9018778",
+    "lon": "-1.40135737009174",
+    "display_name": "Perfection, East Street, St Mary's, Southampton, South East, England, SO14 3HB, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28454300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2632432737",
+    "boundingbox": [
+      "21.14272",
+      "21.14282",
+      "-86.8270624",
+      "-86.8269624"
+    ],
+    "lat": "21.14277",
+    "lon": "-86.8270124",
+    "display_name": "Perfection, 80, Av. Holbox, Smz 16, Canc\u00fan, Benito Ju\u00e1rez, Quintana Roo, 77500, M\u00e9xico",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "122337169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247149228",
+    "boundingbox": [
+      "-38.1385045",
+      "-38.1384554",
+      "144.3488643",
+      "144.3489437"
+    ],
+    "lat": "-38.13848125",
+    "lon": "144.348903926751",
+    "display_name": "Perfection, Pakington Street, Geelong West, Geelong, City of Greater Geelong, Barwon South West, Victoria, 3218, Australia",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22831904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2264572248",
+    "boundingbox": [
+      "19.6394317",
+      "19.6395317",
+      "-71.956971",
+      "-71.956871"
+    ],
+    "lat": "19.6394817",
+    "lon": "-71.956921",
+    "display_name": "La perfection, Rue Ti Soeurca, carrefour landjez, 1re Fond Blanc, Commune Terrier Rouge, Arrondissement Trou-Du-Nord, D\u00e9partement du Nord-Est, Ayiti",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "48721250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3577607703",
+    "boundingbox": [
+      "40.5510314",
+      "40.5511314",
+      "-74.4316721",
+      "-74.4315721"
+    ],
+    "lat": "40.5510814",
+    "lon": "-74.4316221",
+    "display_name": "Nails & Spa, Stelton Road, South Plainfield, Middlesex County, New Jersey, 08854, United States of America",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.001
+  }
+]

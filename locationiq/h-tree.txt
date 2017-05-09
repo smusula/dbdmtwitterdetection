@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "16998442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1615260871",
+    "boundingbox": [
+      "50.8626313",
+      "50.8826313",
+      "-3.7057486",
+      "-3.6857486"
+    ],
+    "lat": "50.8726313",
+    "lon": "-3.6957486",
+    "display_name": "Tree, Mid Devon, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "159765243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444908026",
+    "boundingbox": [
+      "-16.5723267",
+      "-16.572211",
+      "34.9367958",
+      "34.9369191"
+    ],
+    "lat": "-16.57226365",
+    "lon": "34.9368581617799",
+    "display_name": "tree, Southern Region, Malawi",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.31
+  },
+  {
+    "place_id": "156516368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426718288",
+    "boundingbox": [
+      "-0.9144896",
+      "-0.9144052",
+      "-80.2062603",
+      "-80.2061759"
+    ],
+    "lat": "-0.91445085",
+    "lon": "-80.2062178936413",
+    "display_name": "Tree, Jun\u00edn, Cant\u00f3n Jun\u00edn, Manab\u00ed, Ecuador",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.3
+  },
+  {
+    "place_id": "45957474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3253735233",
+    "boundingbox": [
+      "47.6471733",
+      "47.6472733",
+      "3.0133969",
+      "3.0134969"
+    ],
+    "lat": "47.6472233",
+    "lon": "3.0134469",
+    "display_name": "La Tr\u00e9e, Saint-Martin-des-Champs, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, 89170, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "2610030625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4496846795",
+    "boundingbox": [
+      "46.7766749",
+      "46.7966749",
+      "-0.9132009",
+      "-0.8932009"
+    ],
+    "lat": "46.7866749",
+    "lon": "-0.9032009",
+    "display_name": "Tr\u00e9e, Le Boup\u00e8re, Fontenay-le-Comte, Vend\u00e9e, Pays de la Loire, 85510, France",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.25
+  }
+]

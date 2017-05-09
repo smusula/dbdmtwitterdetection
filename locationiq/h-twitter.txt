@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "19655023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1924024333",
+    "boundingbox": [
+      "37.7767317",
+      "37.7768317",
+      "-122.4168422",
+      "-122.4167422"
+    ],
+    "lat": "37.7767817",
+    "lon": "-122.4167922",
+    "display_name": "Twitter, 1355, Market Street, Civic Center, SF, California, CA:94103, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.80083704535748
+  },
+  {
+    "place_id": "47983897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3515284051",
+    "boundingbox": [
+      "43.6418123",
+      "43.6419123",
+      "-79.4113941",
+      "-79.4112941"
+    ],
+    "lat": "43.6418623",
+    "lon": "-79.4113441",
+    "display_name": "Twitter, 901, King Street West, Liberty Village, Old Toronto, Toronto, Ontario, M6K 1E4, Canada",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73446454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35111958",
+    "boundingbox": [
+      "37.7758709",
+      "37.776671",
+      "-122.4168131",
+      "-122.4158003"
+    ],
+    "lat": "37.77627095",
+    "lon": "-122.416306714121",
+    "display_name": "Twitter, Stevenson Street, Civic Center, SF, California, CA:94103, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

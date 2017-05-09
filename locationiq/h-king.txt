@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160385064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1153346",
+    "boundingbox": [
+      "47.0844647",
+      "47.7803281",
+      "-122.5431458",
+      "-121.0657089"
+    ],
+    "lat": "47.4873376",
+    "lon": "-121.8622121",
+    "display_name": "King County, Washington, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57002127073114,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160538944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2407380",
+    "boundingbox": [
+      "43.8744029",
+      "44.1504955",
+      "-79.7755049",
+      "-79.4777613"
+    ],
+    "lat": "44.01247015",
+    "lon": "-79.5852649282252",
+    "display_name": "King, York Region, Ontario, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160289742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "180091",
+    "boundingbox": [
+      "36.246108",
+      "36.317939",
+      "-80.3873029",
+      "-80.3207699"
+    ],
+    "lat": "36.280694",
+    "lon": "-80.3592196",
+    "display_name": "King, Stokes County, North Carolina, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42926765694173,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "202141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "34710076",
+    "boundingbox": [
+      "43.6441905",
+      "43.6541905",
+      "-79.3828583",
+      "-79.3728583"
+    ],
+    "lat": "43.6491905",
+    "lon": "-79.3778583",
+    "display_name": "King, King Street East, St. Lawrence, Old Toronto, Toronto, Ontario, M5H 1A1, Canada",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160462364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1810978",
+    "boundingbox": [
+      "33.396557",
+      "33.8361119",
+      "-100.5206149",
+      "-99.991024"
+    ],
+    "lat": "33.588178",
+    "lon": "-100.2178971",
+    "display_name": "King County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39497837370268,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "379755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153399234",
+    "boundingbox": [
+      "44.3175628",
+      "44.3575628",
+      "-89.1618116",
+      "-89.1218116"
+    ],
+    "lat": "44.3375628",
+    "lon": "-89.1418116",
+    "display_name": "King, Town of Farmington, Waupaca County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "455052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158339206",
+    "boundingbox": [
+      "40.2239663",
+      "40.2639663",
+      "-78.4841817",
+      "-78.4441817"
+    ],
+    "lat": "40.2439663",
+    "lon": "-78.4641817",
+    "display_name": "King, Bedford County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "348296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151324885",
+    "boundingbox": [
+      "31.3596092",
+      "31.3996092",
+      "-97.9347483",
+      "-97.8947483"
+    ],
+    "lat": "31.3796092",
+    "lon": "-97.9147483",
+    "display_name": "King, Coryell County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "384494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151781079",
+    "boundingbox": [
+      "35.8844827",
+      "35.9244827",
+      "-102.7390919",
+      "-102.6990919"
+    ],
+    "lat": "35.9044827",
+    "lon": "-102.7190919",
+    "display_name": "King, Hartley County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "350398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151470132",
+    "boundingbox": [
+      "39.2108809",
+      "39.2508809",
+      "-90.5990101",
+      "-90.5590101"
+    ],
+    "lat": "39.2308809",
+    "lon": "-90.5790101",
+    "display_name": "King, Greene County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "53489150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4080385488",
+    "boundingbox": [
+      "47.9243643",
+      "47.9643643",
+      "-3.6795412",
+      "-3.6395412"
+    ],
+    "lat": "47.9443643",
+    "lon": "-3.6595412",
+    "display_name": "Gamer, Quimper, Finist\u00e8re, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14310317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308722387",
+    "boundingbox": [
+      "-6.9156621",
+      "-6.8756621",
+      "109.7065195",
+      "109.7465195"
+    ],
+    "lat": "-6.8956621",
+    "lon": "109.7265195",
+    "display_name": "Gamer, Jawa Tengah, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "78574356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55533325",
+    "boundingbox": [
+      "52.933271",
+      "52.9333284",
+      "-3.1837394",
+      "-3.1824124"
+    ],
+    "lat": "52.9333092",
+    "lon": "-3.1828068",
+    "display_name": "Y Gamer, Glyn Ceiriog, Wrexham, Wales, LL20 7HH, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52423181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3961234544",
+    "boundingbox": [
+      "51.5228948",
+      "51.5229948",
+      "46.0091824",
+      "46.0092824"
+    ],
+    "lat": "51.5229448",
+    "lon": "46.0092324",
+    "display_name": "Gamer, \u0428\u0435\u043b\u043a\u043e\u0432\u0438\u0447\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0418\u043b\u044c\u0438\u043d\u0441\u043a\u0430\u044f \u043f\u043b\u043e\u0449\u0430\u0434\u044c, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u0440\u0430\u0442\u043e\u0432, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u0430\u0440\u0430\u0442\u043e\u0432, \u0421\u0430\u0440\u0430\u0442\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 410000, \u0420\u0424",
+    "class": "leisure",
+    "type": "adult_gaming_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55887800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4363337142",
+    "boundingbox": [
+      "-32.9275202",
+      "-32.9274202",
+      "-68.8458965",
+      "-68.8457965"
+    ],
+    "lat": "-32.9274702",
+    "lon": "-68.8458465",
+    "display_name": "El Gamer, Col\u00f3n, Laprida, City Father, Godoy Cruz, Distrito Ciudad de Godoy Cruz, Departamento Godoy Cruz, Mza., M5504GRQ, Argentina",
+    "class": "shop",
+    "type": "video_games",
+    "importance": 0.101
+  }
+]

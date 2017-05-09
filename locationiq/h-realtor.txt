@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "139404587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331353654",
+    "boundingbox": [
+      "43.4682021",
+      "43.4717989",
+      "5.3330899",
+      "5.339448"
+    ],
+    "lat": "43.4697768",
+    "lon": "5.33664248701187",
+    "display_name": "Le R\u00e9altor, La Foraine, Cabri\u00e8s, Aix-en-Provence, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13480, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72923454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33849251",
+    "boundingbox": [
+      "43.7490633",
+      "43.7497635",
+      "-79.3482197",
+      "-79.3469643"
+    ],
+    "lat": "43.7495173",
+    "lon": "-79.347641586837",
+    "display_name": "REALTOR, 1400, Don Mills Road, Parkway West, North York, Toronto, Ontario, M3B 1S8, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134821588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "309083734",
+    "boundingbox": [
+      "36.3165798",
+      "36.3167209",
+      "-86.8657219",
+      "-86.8655893"
+    ],
+    "lat": "36.31665035",
+    "lon": "-86.8656556221146",
+    "display_name": "Realtor, Whites Creek Pike, Nashville-Davidson, Davidson County, Tennessee, 37080, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

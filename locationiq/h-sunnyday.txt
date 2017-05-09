@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "64635395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16787437",
+    "boundingbox": [
+      "36.316003",
+      "36.320099",
+      "-80.7005809",
+      "-80.6949549"
+    ],
+    "lat": "36.3184",
+    "lon": "-80.6977179",
+    "display_name": "Sunnyday Acres Lane, Fairview, Surry County, North Carolina, 27017, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138709277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "328082388",
+    "boundingbox": [
+      "51.7542614",
+      "51.7543315",
+      "-0.3354099",
+      "-0.3353261"
+    ],
+    "lat": "51.75429705",
+    "lon": "-0.335367603777912",
+    "display_name": "Sunnyday Blinds, 14, Hatfield Road, Bernards Heath, St Albans, Hertfordshire, East of England, England, AL1 3RP, UK",
+    "class": "shop",
+    "type": "window_blind",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56266219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4388632291",
+    "boundingbox": [
+      "35.6268152",
+      "35.6269152",
+      "-0.5199705",
+      "-0.5198705"
+    ],
+    "lat": "35.6268652",
+    "lon": "-0.5199205",
+    "display_name": "SunnyDay pizzeria & fast food, Rue Lahmar Djelloul, Villa Abed Tlamsani, El Braya, Da\u00efra Oued Tlelat, Oran - \u0648\u0647\u0631\u0627\u0646, 31070, RADP",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

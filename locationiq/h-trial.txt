@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "7152392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "772150109",
+    "boundingbox": [
+      "44.0117109",
+      "44.0517109",
+      "3.9771976",
+      "4.0171976"
+    ],
+    "lat": "44.0317109",
+    "lon": "3.9971976",
+    "display_name": "Le Trial, Al\u00e8s, Gard, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13374509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241764460",
+    "boundingbox": [
+      "41.8588341",
+      "41.8788341",
+      "-6.4035974",
+      "-6.3835974"
+    ],
+    "lat": "41.8688341",
+    "lon": "-6.3935974",
+    "display_name": "El Trial, Mahide, Zamora, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647827558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463336652",
+    "boundingbox": [
+      "52.8745163",
+      "52.874654",
+      "-3.8711396",
+      "-3.8707999"
+    ],
+    "lat": "52.87459535",
+    "lon": "-3.87096524076989",
+    "display_name": "Trial, Bronaber, Gwynedd, Wales, UK",
+    "class": "landuse",
+    "type": "quarry",
+    "importance": 0.3
+  },
+  {
+    "place_id": "115044064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217460873",
+    "boundingbox": [
+      "41.5564159",
+      "41.5573434",
+      "2.3554486",
+      "2.3559453"
+    ],
+    "lat": "41.5568977",
+    "lon": "2.3556834669429",
+    "display_name": "trial, \u00d2rrius, Maresme, BCN, CAT, 08348, Espa\u00f1a",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.21
+  },
+  {
+    "place_id": "2654823600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481957868",
+    "boundingbox": [
+      "18.4239233",
+      "18.4245566",
+      "73.7579884",
+      "73.7582505"
+    ],
+    "lat": "18.4242762",
+    "lon": "73.7581225386922",
+    "display_name": "trial, Gorhe, Pune, Maharashtra, India",
+    "class": "highway",
+    "type": "corridor",
+    "importance": 0.21
+  },
+  {
+    "place_id": "104678838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173223931",
+    "boundingbox": [
+      "-39.7917836",
+      "-39.7916959",
+      "-73.2166978",
+      "-73.2164236"
+    ],
+    "lat": "-39.7917836",
+    "lon": "-73.2164236",
+    "display_name": "Trial, Villa Los Torreones, Las \u00c1nimas, Valdivia, Provincia de Valdivia, XIV Regi\u00f3n de Los R\u00edos, 5110244, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130533322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289057645",
+    "boundingbox": [
+      "43.6907589",
+      "43.690809",
+      "12.7542516",
+      "12.7543422"
+    ],
+    "lat": "43.6907759",
+    "lon": "12.7542951",
+    "display_name": "Trial, Fossombrone, PU, MAR, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103223917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167949876",
+    "boundingbox": [
+      "48.2769653",
+      "48.278608",
+      "17.2094941",
+      "17.2204291"
+    ],
+    "lat": "48.2783211",
+    "lon": "17.2141217",
+    "display_name": "Trial, Grinava, Pezinok, okres Pezinok, Bratislavsk\u00fd kraj, 902 03, Slovensko",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2650459801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469978528",
+    "boundingbox": [
+      "38.1586634",
+      "38.1603935",
+      "-122.2623079",
+      "-122.2608058"
+    ],
+    "lat": "38.15926495",
+    "lon": "-122.261551498016",
+    "display_name": "trial, American Canyon, Napa County, California, 94503, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "125412381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "259527746",
+    "boundingbox": [
+      "43.6849629",
+      "43.6883474",
+      "12.7561416",
+      "12.7581475"
+    ],
+    "lat": "43.6868515",
+    "lon": "12.7573201",
+    "display_name": "Trial, Fossombrone, PU, MAR, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

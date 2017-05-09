@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "2989854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357928912",
+    "boundingbox": [
+      "48.4454721",
+      "48.4455721",
+      "-113.3818154",
+      "-113.3817154"
+    ],
+    "lat": "48.4455221",
+    "lon": "-113.3817654",
+    "display_name": "Never Laughs Mountain, Glacier County, Montana, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "116890191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224895883",
+    "boundingbox": [
+      "52.1874371",
+      "52.1883202",
+      "-1.5906641",
+      "-1.5894465"
+    ],
+    "lat": "52.18806045",
+    "lon": "-1.59003762498572",
+    "display_name": "Laughs Buildings, Wellesbourne CP, Stratford-on-Avon, Warwickshire, West Midlands, England, CV35, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "65185622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17727517",
+    "boundingbox": [
+      "46.729752",
+      "46.733506",
+      "-88.3605359",
+      "-88.3591879"
+    ],
+    "lat": "46.731445",
+    "lon": "-88.3605019",
+    "display_name": "Laughs Lake Road, Baraga County, Michigan, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49201965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3656696903",
+    "boundingbox": [
+      "51.4496938",
+      "51.4497938",
+      "-2.6017999",
+      "-2.6016999"
+    ],
+    "lat": "51.4497438",
+    "lon": "-2.6017499",
+    "display_name": "Laughs Comedy Club, Canons Way, Kingsdown, Southville, Bristol, City of Bristol, South West England, England, BS1, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46677112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3382505785",
+    "boundingbox": [
+      "38.5809521",
+      "38.5810521",
+      "-121.5063778",
+      "-121.5062778"
+    ],
+    "lat": "38.5810021",
+    "lon": "-121.5063278",
+    "display_name": "Laughs Unlimited Comedy Club and Lounge, 1207, Front Street, Sacramento, Sacramento County, California, 95814, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "26869730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2542406810",
+    "boundingbox": [
+      "43.6133397",
+      "43.6134397",
+      "-116.2063717",
+      "-116.2062717"
+    ],
+    "lat": "43.6133897",
+    "lon": "-116.2063217",
+    "display_name": "Liquid Laughs Comedy Club, 405, South 8th Street, Boise City, Ada County, Idaho, 83702, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "55139380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4269043565",
+    "boundingbox": [
+      "38.9328149",
+      "38.9329149",
+      "-74.9228257",
+      "-74.9227257"
+    ],
+    "lat": "38.9328649",
+    "lon": "-74.9227757",
+    "display_name": "Just for Laughs, Washington Street, Washington Street Mall, Cape May, Cape May County, New Jersey, 08204, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "18842897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1825438358",
+    "boundingbox": [
+      "6.8495101",
+      "6.8496101",
+      "79.8777389",
+      "79.8778389"
+    ],
+    "lat": "6.8495601",
+    "lon": "79.8777889",
+    "display_name": "Laughs Supermarket, Dehiwela-Maharagama Road, Bellantota Junction, Mirihana WP, Sri Jayewardenepura, \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba, Western Province, 10370, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

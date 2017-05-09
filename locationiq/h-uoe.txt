@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "6995872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "711628695",
+    "boundingbox": [
+      "26.3490728",
+      "26.3790728",
+      "126.6994245",
+      "126.7294245"
+    ],
+    "lat": "26.3640728",
+    "lon": "126.7144245",
+    "display_name": "\u4e45\u7c73\u5cf6\u7a7a\u6e2f, \u4e45\u7c73\u5cf6\u7a7a\u6e2f\u771f\u6cca\u7dda, \u4e45\u7c73\u5cf6\u753a, \u5cf6\u5c3b\u90e1, \u6c96\u7e04\u770c, \u65e5\u672c",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.39978690376117,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "112913706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "207793358",
+    "boundingbox": [
+      "59.8577598",
+      "59.8579427",
+      "17.6492874",
+      "17.6496227"
+    ],
+    "lat": "59.85783195",
+    "lon": "17.6494888735479",
+    "display_name": "Uppsala \u00d6stra, Stationsgatan, Kungs\u00e4ngen, F\u00e5lhagen, Uppsala, Landskapet Uppland, Uppsala l\u00e4n, Svealand, 75319, Sverige",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.16095925177046,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "27266487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584038637",
+    "boundingbox": [
+      "55.9373532",
+      "55.9374532",
+      "-3.1712011",
+      "-3.1711011"
+    ],
+    "lat": "55.9374032",
+    "lon": "-3.1711511",
+    "display_name": "257, Romero Place, St Leonards, Southside, Edinburgh, City of Edinburgh, Scotland, EH16 5HW, UK",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "48409202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3572529335",
+    "boundingbox": [
+      "12.3762101",
+      "12.3763101",
+      "-1.4981253",
+      "-1.4980253"
+    ],
+    "lat": "12.3762601",
+    "lon": "-1.4980753",
+    "display_name": "UO, Boulevard Charles de Gaulle, Ouagadougou, Kalgodin, Ouaga, Kadiogo, Centre, 13, Burkina Faso",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "5076012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "571141432",
+    "boundingbox": [
+      "58.3502498",
+      "58.3503498",
+      "11.9450097",
+      "11.9451097"
+    ],
+    "lat": "58.3502998",
+    "lon": "11.9450597",
+    "display_name": "Uddevalla \u00d6stra, Klintv\u00e4gen, V\u00e4nnerberg, Uddevalla, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 45130, Sverige",
+    "class": "railway",
+    "type": "halt",
+    "importance": 0.001
+  },
+  {
+    "place_id": "55929694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4369176792",
+    "boundingbox": [
+      "50.461157",
+      "50.461257",
+      "30.592703",
+      "30.592803"
+    ],
+    "lat": "50.461207",
+    "lon": "30.592753",
+    "display_name": "Uo, \u0427\u0435\u043b\u044f\u0431\u0456\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, 3-\u0439 \u043c\u0456\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u044c\u043a\u043e\u0433\u043e \u043c\u0430\u0441\u0438\u0432\u0443, \u041b\u0456\u0432\u043e\u0431\u0435\u0440\u0435\u0436\u043d\u0438\u0439 \u043c\u0430\u0441\u0438\u0432, \u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 02002, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.001
+  },
+  {
+    "place_id": "55278122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4297380374",
+    "boundingbox": [
+      "41.3049809",
+      "41.3050809",
+      "-73.8281924",
+      "-73.8280924"
+    ],
+    "lat": "41.3050309",
+    "lon": "-73.8281424",
+    "display_name": "UO, P Trail, Shrub Oak, Town of Yorktown, Westchester County, New York, 10547, United States of America",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  }
+]

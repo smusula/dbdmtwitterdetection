@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160004176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "446304213",
+    "boundingbox": [
+      "-27.7213353",
+      "-27.7143843",
+      "152.4075164",
+      "152.4143721"
+    ],
+    "lat": "-27.7184838",
+    "lon": "152.4113784",
+    "display_name": "Gorgeous, Ipswich City, QLD, Australia",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "23348984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2298215001",
+    "boundingbox": [
+      "55.9597511",
+      "55.9598511",
+      "-3.2067372",
+      "-3.2066372"
+    ],
+    "lat": "55.9598011",
+    "lon": "-3.2066872",
+    "display_name": "Gorgeous, 29-35, Hamilton Place, Silvermills, Stockbridge, Edinburgh, City of Edinburgh, Scotland, EH3 5AX, UK",
+    "class": "shop",
+    "type": "hairdresser;beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646700813",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460379441",
+    "boundingbox": [
+      "51.5339854",
+      "51.5341667",
+      "-0.220111",
+      "-0.2200135"
+    ],
+    "lat": "51.5340724",
+    "lon": "-0.220061347056592",
+    "display_name": "Gorgeous, 12, Station Terrace, Willesden, London Borough of Brent, London, Greater London, England, NW10 3ND, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28241281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2642605247",
+    "boundingbox": [
+      "52.4773881",
+      "52.4774881",
+      "-1.9162496",
+      "-1.9161496"
+    ],
+    "lat": "52.4774381",
+    "lon": "-1.9161996",
+    "display_name": "Gorgeous, 36;37, Sheepcote Street, Ladywood, Park Central, Birmingham, West Midlands, England, B16, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "92208440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123041809",
+    "boundingbox": [
+      "51.7598948",
+      "51.7599755",
+      "-0.0119347",
+      "-0.0118166"
+    ],
+    "lat": "51.7599352",
+    "lon": "-0.0118756432703699",
+    "display_name": "Gorgeous, 78, High Street, Broxbourne, Hertfordshire, East of England, England, EN11 8ET, UK",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101135970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160433276",
+    "boundingbox": [
+      "51.6870279",
+      "51.687194",
+      "0.755761",
+      "0.7559281"
+    ],
+    "lat": "51.68711095",
+    "lon": "0.755844527052116",
+    "display_name": "Gorgeous, Imperial Avenue, Mayland CP, Maldon, Essex, East of England, England, CM3 6AH, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2648843116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465936968",
+    "boundingbox": [
+      "51.7611466",
+      "51.761284",
+      "-0.5676377",
+      "-0.5674595"
+    ],
+    "lat": "51.7612153",
+    "lon": "-0.567548599999997",
+    "display_name": "Gorgeous, High Street, Berkhamsted CP, Dacorum, Hertfordshire, East of England, England, HP4 3AP, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "16895230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1582056848",
+    "boundingbox": [
+      "19.2514883",
+      "19.2515883",
+      "72.9805057",
+      "72.9806057"
+    ],
+    "lat": "19.2515383",
+    "lon": "72.9805557",
+    "display_name": "Gorgeous, Central Avenue, Hiranandani Estate, Brahmand Nagar, Thane, Greater Bombay, Maharashtra, 400607, India",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "1489803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "318401887",
+    "boundingbox": [
+      "-25.8847499",
+      "-25.8846499",
+      "28.20429",
+      "28.20439"
+    ],
+    "lat": "-25.8846999",
+    "lon": "28.20434",
+    "display_name": "Gorgeous, Karee Street, Tshwane Ward 65, Irene, City of Tshwane Metropolitan Municipality, Gauteng, 0046, South Africa",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "1261924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303800658",
+    "boundingbox": [
+      "-25.8765459",
+      "-25.8764459",
+      "28.1749212",
+      "28.1750212"
+    ],
+    "lat": "-25.8764959",
+    "lon": "28.1749712",
+    "display_name": "Gorgeous, Witch-Hazel Avenue, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0169, South Africa",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

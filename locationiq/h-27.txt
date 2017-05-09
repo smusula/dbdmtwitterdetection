@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160236329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7435",
+    "boundingbox": [
+      "48.6664173",
+      "49.4848243",
+      "0.2961628",
+      "1.8028556"
+    ],
+    "lat": "49.0756358",
+    "lon": "0.96520259447748",
+    "display_name": "Eure, Normandie, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.63411025542067,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160298091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "223139",
+    "boundingbox": [
+      "36.7091221",
+      "37.5270811",
+      "36.4428239",
+      "38.0810748"
+    ],
+    "lat": "36.9666307",
+    "lon": "37.4074178",
+    "display_name": "Gaziantep, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4858857051307,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "102533156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165372867",
+    "boundingbox": [
+      "2.7860588",
+      "2.7897492",
+      "101.6816247",
+      "101.7009711"
+    ],
+    "lat": "2.7896132",
+    "lon": "101.6910961",
+    "display_name": "Jalan Pekeliling KLIA, Taman Ixora, Kampung Baru Lanjut, Selangor, 42700, Malaysia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.48571516302754
+  },
+  {
+    "place_id": "90830437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118112789",
+    "boundingbox": [
+      "52.3858037",
+      "52.3865113",
+      "9.7221895",
+      "9.7228898"
+    ],
+    "lat": "52.3862513",
+    "lon": "9.7225149995311",
+    "display_name": "LUH, Am Kleinen Felde, Nordstadt, Nord, Hannover, Region Hannover, Niedersachsen, 30167, Deutschland",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.45410474104228,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "160354071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "554405",
+    "boundingbox": [
+      "38.5005311",
+      "39.2732231",
+      "21.8259578",
+      "23.466225"
+    ],
+    "lat": "38.88734025",
+    "lon": "22.3680300846069",
+    "display_name": "\u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a6\u03b8\u03b9\u03ce\u03c4\u03b9\u03b4\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187882",
+    "boundingbox": [
+      "60.2107429",
+      "60.2176407",
+      "24.9709018",
+      "24.987202"
+    ],
+    "lat": "60.2159613",
+    "lon": "24.9780635",
+    "display_name": "Vanhakaupunki, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, Suomi",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42500346529015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160435702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1675837",
+    "boundingbox": [
+      "46.0369456",
+      "46.1809496",
+      "14.0178279",
+      "14.2279643"
+    ],
+    "lat": "46.10873735",
+    "lon": "14.1268461059665",
+    "display_name": "Gorenja vas-Poljane, Gorenjska, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42119479171338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "102492306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165372862",
+    "boundingbox": [
+      "2.7771522",
+      "2.7867049",
+      "101.7021179",
+      "101.7132674"
+    ],
+    "lat": "2.7825651",
+    "lon": "101.7086334",
+    "display_name": "Jalan Pekeliling KLIA, Taman Ixora, Kampung Baru Lanjut, Selangor, 43900, Malaysia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.38571516302754
+  },
+  {
+    "place_id": "68402449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23098160",
+    "boundingbox": [
+      "2.727255",
+      "2.7763724",
+      "101.7138572",
+      "101.7331209"
+    ],
+    "lat": "2.7517707",
+    "lon": "101.727087",
+    "display_name": "Jalan Pekeliling KLIA, Sepang, Selangor, Malaysia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.38571516302754
+  },
+  {
+    "place_id": "3392510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "367305352",
+    "boundingbox": [
+      "38.212319",
+      "38.212419",
+      "140.8044962",
+      "140.8045962"
+    ],
+    "lat": "38.212369",
+    "lon": "140.8045462",
+    "display_name": "\u4ed9\u53f0\u5357\uff29\uff23\uff0f\uff2a\uff23\uff34, \u6771\u5317\u81ea\u52d5\u8eca\u9053, \u592a\u767d\u533a, \u4ed9\u53f0\u5e02, \u4f0a\u5177\u90e1, \u5bae\u57ce\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.38241866325719
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "52721919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3985130973",
+    "boundingbox": [
+      "48.8720063",
+      "48.8721063",
+      "2.3125743",
+      "2.3126743"
+    ],
+    "lat": "48.8720563",
+    "lon": "2.3126243",
+    "display_name": "Sothebys, Rue du Faubourg Saint-Honor\u00e9, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150863066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395687640",
+    "boundingbox": [
+      "48.8703816",
+      "48.8706666",
+      "2.3175704",
+      "2.3179794"
+    ],
+    "lat": "48.87052365",
+    "lon": "2.31776906634994",
+    "display_name": "Sothebys, Rue de Duras, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "5038554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "565765981",
+    "boundingbox": [
+      "51.034081",
+      "51.034181",
+      "-0.4432671",
+      "-0.4431671"
+    ],
+    "lat": "51.034131",
+    "lon": "-0.4432171",
+    "display_name": "Sothebys, Stane Street, Billingshurst CP, Horsham, West Sussex, South East, England, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "36946983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2852249666",
+    "boundingbox": [
+      "59.3385403",
+      "59.3386403",
+      "18.0867436",
+      "18.0868436"
+    ],
+    "lat": "59.3385903",
+    "lon": "18.0867936",
+    "display_name": "Sotheby's, Karlav\u00e4gen, Villastaden, \u00d6stermalm, \u00d6stermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 11531, Sverige",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.001
+  },
+  {
+    "place_id": "12675168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1203428135",
+    "boundingbox": [
+      "49.269528",
+      "49.269628",
+      "-123.1425439",
+      "-123.1424439"
+    ],
+    "lat": "49.269578",
+    "lon": "-123.1424939",
+    "display_name": "Sotheby's, 1672, West 2nd Avenue, Kitsilano, Vancouver, Greater Vancouver Regional District, British Columbia, V6J, Canada",
+    "class": "shop",
+    "type": "estate_agent",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_estateagent2.p.20.png"
+  },
+  {
+    "place_id": "46150812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3301075757",
+    "boundingbox": [
+      "55.9557767",
+      "55.9558767",
+      "-3.2017433",
+      "-3.2016433"
+    ],
+    "lat": "55.9558267",
+    "lon": "-3.2016933",
+    "display_name": "Sotheby's, 7, Howe Street, New Town, Edinburgh, City of Edinburgh, Scotland, EH3 6JG, UK",
+    "class": "office",
+    "type": "company",
+    "importance": 0.001
+  },
+  {
+    "place_id": "5164171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "593891886",
+    "boundingbox": [
+      "53.9370799",
+      "53.9371799",
+      "27.6051369",
+      "27.6052369"
+    ],
+    "lat": "53.9371299",
+    "lon": "27.6051869",
+    "display_name": "Sotheby's, 50, \u0443\u043b\u0438\u0446\u0430 \u042f\u043a\u0443\u0431\u0430 \u041a\u043e\u043b\u0430\u0441\u0430, \u041f\u0435\u0440\u0432\u043e\u043c\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a, 220000, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "shop",
+    "type": "dishware",
+    "importance": 0.001
+  },
+  {
+    "place_id": "141196566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "338545419",
+    "boundingbox": [
+      "51.5117659",
+      "51.5119863",
+      "-0.1438373",
+      "-0.1434388"
+    ],
+    "lat": "51.51188515",
+    "lon": "-0.143602132066877",
+    "display_name": "Sotheby's, New Bond Street, St. James's, Mayfair, City of Westminster, London, Greater London, England, W1S 1DX, UK",
+    "class": "shop",
+    "type": "auction",
+    "importance": 0.001
+  },
+  {
+    "place_id": "46550451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3328444468",
+    "boundingbox": [
+      "51.5452229",
+      "51.5453229",
+      "-0.3516457",
+      "-0.3515457"
+    ],
+    "lat": "51.5452729",
+    "lon": "-0.3515957",
+    "display_name": "Sotheby's, 13, Ockham Drive, Greenford Park, Greenford, London Borough of Ealing, London, Greater London, England, W13, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.001
+  },
+  {
+    "place_id": "29004558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2688093370",
+    "boundingbox": [
+      "-33.9190076",
+      "-33.9189076",
+      "18.386275",
+      "18.386375"
+    ],
+    "lat": "-33.9189576",
+    "lon": "18.386325",
+    "display_name": "Sotheby's, Church Road, Sea Point, Cape Town, City of Cape Town, Western Cape, 8005, South Africa",
+    "class": "shop",
+    "type": "estate_agent",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_estateagent2.p.20.png"
+  }
+]

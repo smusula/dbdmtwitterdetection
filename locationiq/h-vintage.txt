@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "471508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158584200",
+    "boundingbox": [
+      "39.9809348",
+      "40.0209348",
+      "-76.0996757",
+      "-76.0596757"
+    ],
+    "lat": "40.0009348",
+    "lon": "-76.0796757",
+    "display_name": "Vintage, Lancaster County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "80561068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "69338683",
+    "boundingbox": [
+      "33.4697575",
+      "33.4746903",
+      "-117.0758098",
+      "-117.0714196"
+    ],
+    "lat": "33.47236745",
+    "lon": "-117.074464290659",
+    "display_name": "Vintage, Temecula, Riverside County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "149788157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388511464",
+    "boundingbox": [
+      "43.6239212",
+      "43.6247797",
+      "3.899663",
+      "3.900585"
+    ],
+    "lat": "43.62437065",
+    "lon": "3.90026829886683",
+    "display_name": "Vintage, Le Martinet, Castelnau-le-Lez, Montpellier, H\u00e9rault, Occitanie, 34170, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "113171002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "209091055",
+    "boundingbox": [
+      "33.4804161",
+      "33.4838063",
+      "-117.0623668",
+      "-117.0582381"
+    ],
+    "lat": "33.4820327",
+    "lon": "-117.060519",
+    "display_name": "Vintage, Morgan Hill, Pechanga, Riverside County, California, 92592, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "29079817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2693878663",
+    "boundingbox": [
+      "33.4720025",
+      "33.4721025",
+      "-117.0739249",
+      "-117.0738249"
+    ],
+    "lat": "33.4720525",
+    "lon": "-117.0738749",
+    "display_name": "Vintage, Vail Ranch, Temecula, Riverside County, California, 92592, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "151906872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401461873",
+    "boundingbox": [
+      "33.8506986",
+      "33.8561401",
+      "-112.1100596",
+      "-112.1049694"
+    ],
+    "lat": "33.85344845",
+    "lon": "-112.108347401226",
+    "display_name": "Vintage, Anthem, New River, Maricopa County, Arizona, 85086, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "152749226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "405548404",
+    "boundingbox": [
+      "33.7014357",
+      "33.7035153",
+      "-117.7525415",
+      "-117.7504031"
+    ],
+    "lat": "33.7017268",
+    "lon": "-117.7522509",
+    "display_name": "Vintage, Woodbury, Irvine, Orange County, California, 92620, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "152722537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "405548401",
+    "boundingbox": [
+      "33.7030504",
+      "33.7035153",
+      "-117.7507842",
+      "-117.7504031"
+    ],
+    "lat": "33.7033873",
+    "lon": "-117.750452",
+    "display_name": "Vintage, Woodbury, Irvine, Orange County, California, 92618:92705, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62187746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12266913",
+    "boundingbox": [
+      "38.7731532",
+      "38.7739545",
+      "-90.566317",
+      "-90.56522"
+    ],
+    "lat": "38.7739545",
+    "lon": "-90.56522",
+    "display_name": "Vintage, St. Peters, St. Charles County, Missouri, 63376, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75117751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40721116",
+    "boundingbox": [
+      "-34.1691358",
+      "-34.1615579",
+      "150.5642815",
+      "150.5766814"
+    ],
+    "lat": "-34.1687387",
+    "lon": "150.5704614",
+    "display_name": "The Vintage, Nangarin Vineyard Estate, Picton, Thirlmere, Wollondilly, NSW, 2572, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

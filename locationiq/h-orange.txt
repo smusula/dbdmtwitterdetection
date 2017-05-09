@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160345047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "396466",
+    "boundingbox": [
+      "33.333992",
+      "33.9476346",
+      "-118.1259059",
+      "-117.4128742"
+    ],
+    "lat": "33.7500378",
+    "lon": "-117.870493",
+    "display_name": "Orange County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.64539505063198,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160463844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1835362",
+    "boundingbox": [
+      "41.142883",
+      "41.6327701",
+      "-74.7626229",
+      "-73.9472939"
+    ],
+    "lat": "41.3873306",
+    "lon": "-74.2507286",
+    "display_name": "Orange County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57951691523362,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187038",
+    "boundingbox": [
+      "44.0647104",
+      "44.187834",
+      "4.7278251",
+      "4.8786989"
+    ],
+    "lat": "44.1371311",
+    "lon": "4.8078783",
+    "display_name": "Orange, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84100, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56727854031538,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112972",
+    "boundingbox": [
+      "33.7680869",
+      "33.8471815",
+      "-117.904736",
+      "-117.7297705"
+    ],
+    "lat": "33.7872568",
+    "lon": "-117.8503087",
+    "display_name": "Orange, Orange County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.55953120427441,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160325120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "389011",
+    "boundingbox": [
+      "28.346742",
+      "28.786278",
+      "-81.6586189",
+      "-80.8631552"
+    ],
+    "lat": "28.495156",
+    "lon": "-81.3111657",
+    "display_name": "Orange County, Florida, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55387207106344,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160984806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6427044",
+    "boundingbox": [
+      "-33.4392454",
+      "-33.2173771",
+      "149.0094472",
+      "149.2364535"
+    ],
+    "lat": "-33.32924165",
+    "lon": "149.10814660899",
+    "display_name": "Orange, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "53408910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4070641337",
+    "boundingbox": [
+      "49.442288",
+      "49.442388",
+      "1.0908767",
+      "1.0909767"
+    ],
+    "lat": "49.442338",
+    "lon": "1.0909267",
+    "display_name": "Orange, 62, Rue Jeanne d'Arc, Vieux-March\u00e9-Cath\u00e9drale, Quartier Vieux-March\u00e9 Cath\u00e9drale, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.52559802384235
+  },
+  {
+    "place_id": "23377981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2313646086",
+    "boundingbox": [
+      "44.8962124",
+      "44.8963124",
+      "6.6353109",
+      "6.6354109"
+    ],
+    "lat": "44.8962624",
+    "lon": "6.6353609",
+    "display_name": "Orange, 12, Rue Centrale, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, 05100, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.52559802384235
+  },
+  {
+    "place_id": "160971363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6058037",
+    "boundingbox": [
+      "-33.3379134",
+      "-33.1641714",
+      "148.9657804",
+      "149.1577538"
+    ],
+    "lat": "-33.2820462",
+    "lon": "149.0971567",
+    "display_name": "Orange, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51607425797099,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160548963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2528730",
+    "boundingbox": [
+      "35.861107",
+      "36.2438733",
+      "-79.268356",
+      "-78.9507369"
+    ],
+    "lat": "36.0605095",
+    "lon": "-79.1172678",
+    "display_name": "Orange County, North Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51286057434489,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

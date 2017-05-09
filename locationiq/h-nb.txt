@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160253830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "68942",
+    "boundingbox": [
+      "44.5561189",
+      "48.0893391",
+      "-69.0534662",
+      "-63.6147115"
+    ],
+    "lat": "46.5",
+    "lon": "-66.7499999",
+    "display_name": "New Brunswick, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.63431662377098,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160242406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "17593",
+    "boundingbox": [
+      "48.2066557",
+      "49.1736238",
+      "11.5948606",
+      "13.8396373"
+    ],
+    "lat": "48.6901483",
+    "lon": "12.747690588622",
+    "display_name": "NB, Bayern, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.60446917039989,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160249731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "47696",
+    "boundingbox": [
+      "51.2209094",
+      "51.830751",
+      "4.1901242",
+      "6.0481208"
+    ],
+    "lat": "51.6017723",
+    "lon": "5.4441391",
+    "display_name": "Noord-Brabant, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59083089196133,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160458760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1900963",
+    "boundingbox": [
+      "19.6931063",
+      "20.4547086",
+      "105.5416957",
+      "106.2736845"
+    ],
+    "lat": "20.1844832",
+    "lon": "105.9802529",
+    "display_name": "T\u1ec9nh Ninh B\u00ecnh, Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48501204566083,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "46795597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3376383962",
+    "boundingbox": [
+      "46.9413182",
+      "46.9414182",
+      "7.4496427",
+      "7.4497427"
+    ],
+    "lat": "46.9413682",
+    "lon": "7.4496927",
+    "display_name": "NB, 15, Hallwylstrasse, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "library",
+    "importance": 0.45730822489547,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_library.p.20.png"
+  },
+  {
+    "place_id": "75168763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40859920",
+    "boundingbox": [
+      "46.9410579",
+      "46.9416118",
+      "7.448872",
+      "7.4506274"
+    ],
+    "lat": "46.94130705",
+    "lon": "7.44992172620896",
+    "display_name": "NB, 15, Hallwylstrasse, Kirchenfeld, Stadtteil IV, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3005, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.45730822489547
+  },
+  {
+    "place_id": "160425963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1615622",
+    "boundingbox": [
+      "-9.309844",
+      "-6.7458824",
+      "115.5700063",
+      "119.5015499"
+    ],
+    "lat": "-8.7892854",
+    "lon": "117.146169",
+    "display_name": "Nusa Tenggara Barat, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39027480086994,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1488617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "321446195",
+    "boundingbox": [
+      "9.3966972",
+      "14.5166972",
+      "31.562894",
+      "36.682894"
+    ],
+    "lat": "11.9566972",
+    "lon": "34.122894",
+    "display_name": "\u0627\u0644\u0646\u064a\u0644 \u0627\u0644\u0623\u0632\u0631\u0642 Blue Nile State, Sudan \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "class": "place",
+    "type": "state",
+    "importance": 0.32516713207519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146437891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371931662",
+    "boundingbox": [
+      "61.8119511",
+      "61.8161063",
+      "50.7101798",
+      "50.7163583"
+    ],
+    "lat": "61.81421385",
+    "lon": "50.7128075805966",
+    "display_name": "\u041d\u0411, \u042d\u0436\u0432\u0438\u043d\u0441\u043a\u0438\u0439, \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u044b\u043a\u0442\u044b\u0432\u043a\u0430\u0440, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 167000, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "39845718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2937924966",
+    "boundingbox": [
+      "41.1514836",
+      "41.1515836",
+      "-8.606588",
+      "-8.606488"
+    ],
+    "lat": "41.1515336",
+    "lon": "-8.606538",
+    "display_name": "NB, Rua de S\u00e1 da Bandeira, Bolh\u00e3o, Santo Ildefonso, Cedofeita, Santo Ildefonso, S\u00e9, Miragaia, S\u00e3o Nicolau e Vit\u00f3ria, Porto, \u00c1rea Metropolitana do Porto, Norte, 4000-452, Portugal",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

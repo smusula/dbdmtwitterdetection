@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160273955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "133524",
+    "boundingbox": [
+      "38.718211",
+      "38.78122",
+      "-76.9938129",
+      "-76.9352519"
+    ],
+    "lat": "38.751781",
+    "lon": "-76.9785859",
+    "display_name": "Friendly, Prince George's County, Maryland, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42926765694173,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "652114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "245980436",
+    "boundingbox": [
+      "53.6952887",
+      "53.7352887",
+      "-1.9397539",
+      "-1.8997539"
+    ],
+    "lat": "53.7152887",
+    "lon": "-1.9197539",
+    "display_name": "Friendly, Calderdale, Yorkshire and the Humber, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160299536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "239881",
+    "boundingbox": [
+      "39.510151",
+      "39.517224",
+      "-81.0661299",
+      "-81.0571959"
+    ],
+    "lat": "39.5159085",
+    "lon": "-81.0592765",
+    "display_name": "Friendly, Tyler County, West Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33865352680439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "121361299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242519605",
+    "boundingbox": [
+      "39.8490803",
+      "39.8491043",
+      "-89.5902878",
+      "-89.5878648"
+    ],
+    "lat": "39.8490803",
+    "lon": "-89.5902878",
+    "display_name": "Friendly, Springfield, Sangamon County, Illinois, 54843, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64495653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16459685",
+    "boundingbox": [
+      "36.307177",
+      "36.311571",
+      "-79.4719819",
+      "-79.4664069"
+    ],
+    "lat": "36.308092",
+    "lon": "-79.4684439",
+    "display_name": "Friendly, Cherry Grove, Caswell County, North Carolina, 27320, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67568426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20764599",
+    "boundingbox": [
+      "26.1381763",
+      "26.139234",
+      "-97.6751058",
+      "-97.6720382"
+    ],
+    "lat": "26.1389355",
+    "lon": "-97.6729371",
+    "display_name": "Friendly, San Benito, Cameron County, Texas, 78586, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "1291897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "302092682",
+    "boundingbox": [
+      "-25.6802799",
+      "-25.6801799",
+      "28.21723",
+      "28.21733"
+    ],
+    "lat": "-25.6802299",
+    "lon": "28.21728",
+    "display_name": "Friendly, Sefako Makgatho Drive, Tshwane Ward 50, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0150, South Africa",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "128621901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278834140",
+    "boundingbox": [
+      "34.9573909",
+      "34.9577768",
+      "135.7608597",
+      "135.7612914"
+    ],
+    "lat": "34.9576272",
+    "lon": "135.761078343927",
+    "display_name": "FRIENDLY, \u7af9\u7530\u8857\u9053, \u4f0f\u898b\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 60181140, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22875113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2269390908",
+    "boundingbox": [
+      "34.9872182",
+      "34.9873182",
+      "135.7327093",
+      "135.7328093"
+    ],
+    "lat": "34.9872682",
+    "lon": "135.7327593",
+    "display_name": "FRIENDLY, \u897f\u5927\u8def\u901a;\u4eac\u90fd\u5e02\u9053181\u53f7\u4eac\u90fd\u74b0\u72b6\u7dda, \u4e0b\u4eac\u533a, \u4eac\u90fd\u5e02, \u4e0e\u8b1d\u90e1, \u4eac\u90fd\u5e9c, 6018436, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "41489660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3016844620",
+    "boundingbox": [
+      "47.2278284",
+      "47.2279284",
+      "39.7084725",
+      "39.7085725"
+    ],
+    "lat": "47.2278784",
+    "lon": "39.7085225",
+    "display_name": "Friendly, \u0443\u043b\u0438\u0446\u0430 \u0413\u043e\u0440\u043e\u0434\u0430 \u0412\u043e\u043b\u043e\u0441, \u0420\u0430\u0431\u043e\u0447\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u043e\u043a, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0420\u043e\u0441\u0442\u043e\u0432-\u043d\u0430-\u0414\u043e\u043d\u0443, \u0420\u041e\u0421, \u042e\u0424\u041e, 344008, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

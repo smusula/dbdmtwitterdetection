@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160297245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "207002",
+    "boundingbox": [
+      "36.70461",
+      "36.722821",
+      "-80.9884359",
+      "-80.9620109"
+    ],
+    "lat": "36.7162368",
+    "lon": "-80.9786922",
+    "display_name": "Fries, Grayson County, Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46235286804561,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6031285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "624640277",
+    "boundingbox": [
+      "52.2250891",
+      "52.2450891",
+      "13.3986545",
+      "13.4186545"
+    ],
+    "lat": "52.2350891",
+    "lon": "13.4086545",
+    "display_name": "Fries, Glienick, Zossen, Landkreis Teltow-Fl\u00e4ming, Brandenburg, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45907118",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3258215692",
+    "boundingbox": [
+      "43.4043589",
+      "43.4443589",
+      "-5.1026014",
+      "-5.0626014"
+    ],
+    "lat": "43.4243589",
+    "lon": "-5.0826014",
+    "display_name": "Fr\u00edes, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13444194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242836214",
+    "boundingbox": [
+      "43.403082",
+      "43.423082",
+      "-5.0986302",
+      "-5.0786302"
+    ],
+    "lat": "43.413082",
+    "lon": "-5.0886302",
+    "display_name": "Fr\u00edes, Cangas de On\u00eds, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "58618976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6890437",
+    "boundingbox": [
+      "51.8640067",
+      "51.8641505",
+      "5.7623259",
+      "5.7624971"
+    ],
+    "lat": "51.8640067",
+    "lon": "5.7623259",
+    "display_name": "Fries, Beuningen Gld, Beuningen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6641NS, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58618997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6890473",
+    "boundingbox": [
+      "51.86351",
+      "51.8640067",
+      "5.76216",
+      "5.7623259"
+    ],
+    "lat": "51.86379",
+    "lon": "5.76216",
+    "display_name": "Fries, Beuningen Gld, Beuningen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6641NE, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72887297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33764690",
+    "boundingbox": [
+      "53.5733271",
+      "53.5737168",
+      "9.9221832",
+      "9.9227784"
+    ],
+    "lat": "53.57352195",
+    "lon": "9.9224808",
+    "display_name": "Fries, 11-17, Rondenbarg, Bahrenfeld, Altona, Hamburg, 22525, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56159655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4361816715",
+    "boundingbox": [
+      "50.5656644",
+      "50.5657644",
+      "10.4153202",
+      "10.4154202"
+    ],
+    "lat": "50.5657144",
+    "lon": "10.4153702",
+    "display_name": "Fries, Schwabenberg, Meiningen, Landkreis Schmalkalden-Meiningen, Th\u00fcringen, 98617, Deutschland, Europe",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "85932982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99426812",
+    "boundingbox": [
+      "55.7009534",
+      "55.7020206",
+      "13.215188",
+      "13.2165893"
+    ],
+    "lat": "55.70150765",
+    "lon": "13.2158620675676",
+    "display_name": "Fries, Dalins v\u00e4g, Galjev\u00e5ngen, Tuna, \u00d6ster, Lund, Sk\u00e5ne, G\u00f6taland, 224 60, Sverige",
+    "class": "place",
+    "type": "city_block",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116983784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224832290",
+    "boundingbox": [
+      "52.5772853",
+      "52.5775784",
+      "13.3260384",
+      "13.326423"
+    ],
+    "lat": "52.57744625",
+    "lon": "13.3262304427076",
+    "display_name": "Fries, 16, Waldstra\u00dfe, Reinickendorf, Berlin, 13403, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

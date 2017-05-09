@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "69587618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25576362",
+    "boundingbox": [
+      "-45.9757376",
+      "-45.9740632",
+      "50.389627",
+      "50.3915292"
+    ],
+    "lat": "-45.97488115",
+    "lon": "50.390529183468",
+    "display_name": "Rocher Perc\u00e9, Archipel des Crozet, France",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "106703877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "181607633",
+    "boundingbox": [
+      "-33.9195935",
+      "-33.9127014",
+      "115.0665655",
+      "115.0666952"
+    ],
+    "lat": "-33.9161481",
+    "lon": "115.0666952",
+    "display_name": "I'm bored, Margaret River, Western Australia, 6285, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144427277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362678185",
+    "boundingbox": [
+      "-33.9127014",
+      "-33.8979141",
+      "115.0631773",
+      "115.0666572"
+    ],
+    "lat": "-33.9063768",
+    "lon": "115.0640706",
+    "display_name": "I'm still bored, Margaret River, Western Australia, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144437953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362678186",
+    "boundingbox": [
+      "-33.9023217",
+      "-33.8963701",
+      "115.0727908",
+      "115.0774702"
+    ],
+    "lat": "-33.90054",
+    "lon": "115.0750041",
+    "display_name": "Yep, still bored...., Western Australia, Australia",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "46755605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3357036310",
+    "boundingbox": [
+      "50.7879202",
+      "50.7880202",
+      "-1.0818309",
+      "-1.0817309"
+    ],
+    "lat": "50.7879702",
+    "lon": "-1.0817809",
+    "display_name": "Bored of Southsea, Albert Road, Southsea, Portsmouth, South East, England, PO5 2SL, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55914595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4352574805",
+    "boundingbox": [
+      "50.7877096",
+      "50.7878096",
+      "-1.0819941",
+      "-1.0818941"
+    ],
+    "lat": "50.7877596",
+    "lon": "-1.0819441",
+    "display_name": "Bored of Southsea, 2c, Albert Road, Southsea, Portsmouth, South East, England, PO5 2SL, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2649777800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4630871036",
+    "boundingbox": [
+      "57.5949561",
+      "57.5950561",
+      "-4.4257555",
+      "-4.4256555"
+    ],
+    "lat": "57.5950061",
+    "lon": "-4.4257055",
+    "display_name": "Ironing Bored, Hill Street, Dingwall, Highland, Scotland, IV15 9JP, UK",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  },
+  {
+    "place_id": "7835967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "847367287",
+    "boundingbox": [
+      "40.9770021",
+      "40.9771021",
+      "-80.1367866",
+      "-80.1366866"
+    ],
+    "lat": "40.9770521",
+    "lon": "-80.1367366",
+    "display_name": "The bored housewife, 205, Currie Road, Worth Township, Butler County, Pennsylvania, 16057, United States of America",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "126093615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262788393",
+    "boundingbox": [
+      "40.518684",
+      "40.518901",
+      "-80.0305487",
+      "-80.0303887"
+    ],
+    "lat": "40.51876735",
+    "lon": "-80.030472968437",
+    "display_name": "Wash Bored, 638, Center Avenue, West View, Allegheny County, Pennsylvania, 15229, United States of America",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  },
+  {
+    "place_id": "6843324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "708306425",
+    "boundingbox": [
+      "-33.3427072",
+      "-33.3426072",
+      "115.9937564",
+      "115.9938564"
+    ],
+    "lat": "-33.3426572",
+    "lon": "115.9938064",
+    "display_name": "Bored Stump, Pipeline Road, Worsley, Western Australia, Australia",
+    "class": "historic",
+    "type": "ruins",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_ruin.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "11510717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1124322108",
+    "boundingbox": [
+      "33.4419526",
+      "33.4420526",
+      "-118.5710795",
+      "-118.5709795"
+    ],
+    "lat": "33.4420026",
+    "lon": "-118.5710295",
+    "display_name": "Fish, Los Angeles County, California, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "25267403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2436834992",
+    "boundingbox": [
+      "52.4329967",
+      "52.4729967",
+      "-2.9092147",
+      "-2.8692147"
+    ],
+    "lat": "52.4529967",
+    "lon": "-2.8892147",
+    "display_name": "The Fish, Shropshire, West Midlands, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "380291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153411288",
+    "boundingbox": [
+      "33.9787118",
+      "34.0187118",
+      "-85.1607821",
+      "-85.1207821"
+    ],
+    "lat": "33.9987118",
+    "lon": "-85.1407821",
+    "display_name": "Fish, Polk County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41266803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3010802196",
+    "boundingbox": [
+      "6.52484",
+      "6.56484",
+      "-10.9863199",
+      "-10.9463199"
+    ],
+    "lat": "6.54484",
+    "lon": "-10.9663199",
+    "display_name": "Fish, Dowein, Bomi County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "67975662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21717988",
+    "boundingbox": [
+      "39.168694",
+      "39.170177",
+      "-87.6430179",
+      "-87.6402609"
+    ],
+    "lat": "39.169216",
+    "lon": "-87.6411949",
+    "display_name": "Fish, York, Clark County, Illinois, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61568380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11327715",
+    "boundingbox": [
+      "27.052524",
+      "27.05271",
+      "-82.0879379",
+      "-82.0874449"
+    ],
+    "lat": "27.052535",
+    "lon": "-82.0876679",
+    "display_name": "Fish, North Port, Sarasota County, Florida, 33954, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103932130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170528244",
+    "boundingbox": [
+      "41.1271856",
+      "41.1318459",
+      "-74.3367904",
+      "-74.3340867"
+    ],
+    "lat": "41.1293029",
+    "lon": "-74.33546",
+    "display_name": "Fish, West Milford, Passaic County, New Jersey, 07421, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2608554391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4460866049",
+    "boundingbox": [
+      "40.4631448",
+      "40.4632448",
+      "-80.0370799",
+      "-80.0369799"
+    ],
+    "lat": "40.4631948",
+    "lon": "-80.0370299",
+    "display_name": "fish, Chateau Trail, Marshall Shadeland, Marshall-Shadeland, PGH, Allegheny County, Pennsylvania, 15233, United States of America",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.111
+  },
+  {
+    "place_id": "156989064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "429402998",
+    "boundingbox": [
+      "45.3943045",
+      "45.3961447",
+      "-75.7314579",
+      "-75.7296665"
+    ],
+    "lat": "45.39477045",
+    "lon": "-75.7307879700907",
+    "display_name": "Fisher Park Public School/Summit Alternate School, 250, Holland Avenue, Hintonburg, Kitchissippi, Ottawa, Ontario, K1Y 0Y5, Canada",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "53391484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4069912898",
+    "boundingbox": [
+      "54.3690723",
+      "54.3691723",
+      "48.5869524",
+      "48.5870524"
+    ],
+    "lat": "54.3691223",
+    "lon": "48.5870024",
+    "display_name": "FISH, 1, \u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041d\u043e\u0432\u044b\u0439 \u0413\u043e\u0440\u043e\u0434, \u0417\u0430\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a, \u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 432059, \u0420\u0424",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

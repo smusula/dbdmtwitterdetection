@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "151895187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401345927",
+    "boundingbox": [
+      "28.4166387",
+      "28.4206884",
+      "-81.5807723",
+      "-81.5766981"
+    ],
+    "lat": "28.4186533",
+    "lon": "-81.5791496697037",
+    "display_name": "Tomorrowland, Bay Lake, Reedy Creek Improvement District, Orange County, Florida, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.52017579344753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53428462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4072448990",
+    "boundingbox": [
+      "31.1338376",
+      "31.1538376",
+      "121.6431728",
+      "121.6631728"
+    ],
+    "lat": "31.1438376",
+    "lon": "121.6531728",
+    "display_name": "\u660e\u65e5\u4e16\u754c Tomorrowland, \u5eb7\u6865\u9547, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, \u4e2d\u56fd",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651881682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4681994493",
+    "boundingbox": [
+      "37.9159405",
+      "37.9160405",
+      "139.0538509",
+      "139.0539509"
+    ],
+    "lat": "37.9159905",
+    "lon": "139.0539009",
+    "display_name": "TOMORROWLAND, \u6771\u6e2f\u7dda (Tohkoh sen), \u4e2d\u592e\u533a, \u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, 9518063, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "57058048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4437321772",
+    "boundingbox": [
+      "36.7000816",
+      "36.7001816",
+      "137.213989",
+      "137.214089"
+    ],
+    "lat": "36.7001316",
+    "lon": "137.214039",
+    "display_name": "TOMORROWLAND, \u5bcc\u5c71\u505c\u8eca\u5834\u7dda, \u5bcc\u5c71\u5e02, \u4e2d\u65b0\u5ddd\u90e1, \u5bcc\u5c71\u770c, 930-0018, \u65e5\u672c",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55329806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4269557398",
+    "boundingbox": [
+      "35.608258",
+      "35.608358",
+      "139.66639",
+      "139.66649"
+    ],
+    "lat": "35.608308",
+    "lon": "139.66644",
+    "display_name": "Tomorrowland, \u30e1\u30fc\u30d7\u30eb\u901a\u308a, \u76ee\u9ed2\u533a, \u6771\u4eac\u90fd, 152-0035, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

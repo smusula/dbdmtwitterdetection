@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "101770870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "162931439",
+    "boundingbox": [
+      "42.243253",
+      "42.244698",
+      "-82.9754617",
+      "-82.9747905"
+    ],
+    "lat": "42.244698",
+    "lon": "-82.9747905",
+    "display_name": "Whiskey, Pelton, Windsor, Essex, Ontario, N9G 3E5, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62108759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12133395",
+    "boundingbox": [
+      "33.007455",
+      "33.0116913",
+      "-79.9625571",
+      "-79.9614429"
+    ],
+    "lat": "33.0093205",
+    "lon": "-79.9624142",
+    "display_name": "Whiskey, Goose Creek, Berkeley County, South Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126545769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265149703",
+    "boundingbox": [
+      "49.0440238",
+      "49.0568828",
+      "-117.7963295",
+      "-117.7897762"
+    ],
+    "lat": "49.0501488",
+    "lon": "-117.7916345",
+    "display_name": "Whiskey, Trail, Regional District of Kootenay Boundary, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "57213219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4368895",
+    "boundingbox": [
+      "41.981651",
+      "41.9816617",
+      "-87.9206876",
+      "-87.9139232"
+    ],
+    "lat": "41.9816575",
+    "lon": "-87.9177082",
+    "display_name": "WHISKEY, O'Hare Commercial Arrivals, Chicago, Cook County, Illinois, 60666, United States of America",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  },
+  {
+    "place_id": "57235885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4359647",
+    "boundingbox": [
+      "-31.9309586",
+      "-31.9270102",
+      "115.9599143",
+      "115.9786736"
+    ],
+    "lat": "-31.9287972",
+    "lon": "115.9684061",
+    "display_name": "Whiskey, Valentine Road, South Guildford, Perth, Western Australia, 6104, Australia",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1382267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "308273123",
+    "boundingbox": [
+      "52.2808396",
+      "52.2809396",
+      "8.0432742",
+      "8.0433742"
+    ],
+    "lat": "52.2808896",
+    "lon": "8.0433242",
+    "display_name": "The Whiskey, Vitihof, Altstadt, Innenstadt, Osnabr\u00fcck, Niedersachsen, 49074, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2645125538",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456223504",
+    "boundingbox": [
+      "45.3567738",
+      "45.3569214",
+      "36.4668395",
+      "36.4669806"
+    ],
+    "lat": "45.3568476",
+    "lon": "36.4669100250509",
+    "display_name": "Whiskey, \u0443\u043b\u0438\u0446\u0430 \u0421\u0430\u043c\u043e\u0439\u043b\u0435\u043d\u043a\u043e, \u041a\u0435\u0440\u0447\u044c, \u041a\u0435\u0440\u0447\u0435\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0441\u043e\u0432\u0435\u0442, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "96813843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "141473050",
+    "boundingbox": [
+      "47.4472415",
+      "47.449458",
+      "8.5486969",
+      "8.5516503"
+    ],
+    "lat": "47.44816015",
+    "lon": "8.55018782414632",
+    "display_name": "Whiskey, Umfahrungsstrasse Standpl\u00e4tze W, Kloten, Bezirk B\u00fclach, Z\u00fcrich, 8302, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "aeroway",
+    "type": "apron",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52300966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3947202758",
+    "boundingbox": [
+      "14.5576791",
+      "14.5577791",
+      "-90.7330961",
+      "-90.7329961"
+    ],
+    "lat": "14.5577291",
+    "lon": "-90.7330461",
+    "display_name": "Whiskey Den, 3, 4a Avenida Norte, Santa Isabel, El Calvario, Antigua, Antigua Guatemala, Sacatep\u00e9quez, 03001, Guatemala",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "69968513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26560718",
+    "boundingbox": [
+      "22.3060471",
+      "22.306288",
+      "113.9234529",
+      "113.9240194"
+    ],
+    "lat": "22.3062679",
+    "lon": "113.9237269",
+    "display_name": "Whiskey, \u4e2d\u7fd4\u8def Chung Cheung Road, \u7530\u5fc3 Tin Sam, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  }
+]

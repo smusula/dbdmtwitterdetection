@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "52235790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3907124980",
+    "boundingbox": [
+      "43.308392",
+      "43.328392",
+      "6.6557239",
+      "6.6757239"
+    ],
+    "lat": "43.318392",
+    "lon": "6.6657239",
+    "display_name": "Le Club, Sainte-Maxime, Draguignan, Var, Provence-Alpes-C\u00f4te d'Azur, 83120, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "88076076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108350175",
+    "boundingbox": [
+      "44.5807847",
+      "44.5820258",
+      "11.504185",
+      "11.505794"
+    ],
+    "lat": "44.5813724",
+    "lon": "11.5049966714782",
+    "display_name": "Club, Budrio, BO, EMR, 40054, Italia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "86632235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "102791096",
+    "boundingbox": [
+      "38.7664871",
+      "38.7767342",
+      "-121.3662375",
+      "-121.3588284"
+    ],
+    "lat": "38.77158785",
+    "lon": "-121.361692343594",
+    "display_name": "The Club, Roseville, Placer County, California, 95747, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157975356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "434686090",
+    "boundingbox": [
+      "45.5344433",
+      "45.5373124",
+      "-122.8739958",
+      "-122.8702883"
+    ],
+    "lat": "45.53593525",
+    "lon": "-122.872486426377",
+    "display_name": "The Club, Tanasbourne, Hillsboro, Washington County, Oregon, 97006, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "80459443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68421457",
+    "boundingbox": [
+      "4.6897046",
+      "4.6915899",
+      "-74.0656678",
+      "-74.0635837"
+    ],
+    "lat": "4.6904109",
+    "lon": "-74.0645825183878",
+    "display_name": "Club, Suba, Bogot\u00e1, 11121, Colombia",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102324819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164638350",
+    "boundingbox": [
+      "9.2096763",
+      "9.2112543",
+      "-79.396859",
+      "-79.3950029"
+    ],
+    "lat": "9.2105236",
+    "lon": "-79.3963333",
+    "display_name": "The Club, Ciudad de Panam\u00e1, Provincia de Panam\u00e1, Panam\u00e1",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60864088",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10851270",
+    "boundingbox": [
+      "26.230615",
+      "26.231073",
+      "-81.8055129",
+      "-81.8049529"
+    ],
+    "lat": "26.230615",
+    "lon": "-81.8049529",
+    "display_name": "The Club, Pelican Bay, Collier County, Florida, 34108, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65392702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17972174",
+    "boundingbox": [
+      "43.217992",
+      "43.218669",
+      "-82.5307599",
+      "-82.5304879"
+    ],
+    "lat": "43.218306",
+    "lon": "-82.5307599",
+    "display_name": "Club, Great Lakes Beach, Sanilac County, Michigan, 48450, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105807861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177720136",
+    "boundingbox": [
+      "10.5201654",
+      "10.5229964",
+      "-66.9423096",
+      "-66.9417044"
+    ],
+    "lat": "10.5216362",
+    "lon": "-66.9421264",
+    "display_name": "El Club, Altavista, Catia, Parroquia Sucre, Municipio Libertador, Distrito Capital, Regi\u00f3n Capital, 1030, Venezuela",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67002354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20109604",
+    "boundingbox": [
+      "44.339567",
+      "44.340402",
+      "-75.9381609",
+      "-75.9362949"
+    ],
+    "lat": "44.340184",
+    "lon": "-75.9367869",
+    "display_name": "Club, Westminster Park, Jefferson County, New York, 13640, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

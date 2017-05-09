@@ -1,0 +1,129 @@
+[
+  {
+    "place_id": "72929016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33860291",
+    "boundingbox": [
+      "37.3144849",
+      "37.3150002",
+      "-121.9302066",
+      "-121.9295433"
+    ],
+    "lat": "37.3148509",
+    "lon": "-121.930068345779",
+    "display_name": "Cosmetology, Laswell Avenue, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95128, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654250508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234457529",
+    "boundingbox": [
+      "33.96932",
+      "33.969778",
+      "-117.3778771",
+      "-117.3773341"
+    ],
+    "lat": "33.9695381",
+    "lon": "-117.377568924545",
+    "display_name": "Cosmetology, Olivewood Avenue, Lower Campus, Riverside, Riverside County, California, 92506, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "85086270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95908136",
+    "boundingbox": [
+      "34.8246072",
+      "34.8251309",
+      "-82.3728715",
+      "-82.3725515"
+    ],
+    "lat": "34.82492395",
+    "lon": "-82.372714153314",
+    "display_name": "Cosmetology, Douglas W Brister Boulevard, Nicholtown Green at Heritage, Greenville, Greenville County, South Carolina, 29605, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80553668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "69283435",
+    "boundingbox": [
+      "29.2006818",
+      "29.2010765",
+      "-81.0515423",
+      "-81.0511377"
+    ],
+    "lat": "29.20087915",
+    "lon": "-81.05134",
+    "display_name": "Cosmetology, Hilton Avenue, Daytona Beach, Volusia County, Florida, 32114, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70758993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28128708",
+    "boundingbox": [
+      "36.9743994",
+      "36.974748",
+      "-121.5711511",
+      "-121.570672"
+    ],
+    "lat": "36.9745737",
+    "lon": "-121.57091155",
+    "display_name": "Cosmetology, Nicole Way, Gilroy, Santa Clara County, California, 95020, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106362220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180202660",
+    "boundingbox": [
+      "31.868187",
+      "31.8685591",
+      "-102.3818136",
+      "-102.381432"
+    ],
+    "lat": "31.86835125",
+    "lon": "-102.381617557751",
+    "display_name": "Cosmetology, Halley Avenue, Douthit, Odessa, Ector County, Texas, 79764, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "145892326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369745764",
+    "boundingbox": [
+      "47.1744817",
+      "47.175274",
+      "-122.4937067",
+      "-122.4931051"
+    ],
+    "lat": "47.17486805",
+    "lon": "-122.493431905707",
+    "display_name": "Cosmetology, Market Street Southwest, Lakewood, Pierce County, Washington, 98499, United States of America",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

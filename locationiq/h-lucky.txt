@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "466068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158289477",
+    "boundingbox": [
+      "39.8837116",
+      "39.9237116",
+      "-76.4655188",
+      "-76.4255188"
+    ],
+    "lat": "39.9037116",
+    "lon": "-76.4455188",
+    "display_name": "Lucky, York County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153781558",
+    "boundingbox": [
+      "35.7775683",
+      "35.8175683",
+      "-85.8627625",
+      "-85.8227625"
+    ],
+    "lat": "35.7975683",
+    "lon": "-85.8427625",
+    "display_name": "Lucky, Warren County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "427885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154022891",
+    "boundingbox": [
+      "36.7170288",
+      "36.7570288",
+      "-84.0921535",
+      "-84.0521535"
+    ],
+    "lat": "36.7370288",
+    "lon": "-84.0721535",
+    "display_name": "Lucky, Whitley County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11014660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1008991262",
+    "boundingbox": [
+      "48.5442219",
+      "48.5642219",
+      "21.9567147",
+      "21.9767147"
+    ],
+    "lat": "48.5542219",
+    "lon": "21.9667147",
+    "display_name": "Lucky, I\u017ekovce, okres Michalovce, Ko\u0161ick\u00fd kraj, V\u00fdchodn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "122827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26036150",
+    "boundingbox": [
+      "48.7491107",
+      "48.7891107",
+      "22.0217814",
+      "22.0617814"
+    ],
+    "lat": "48.7691107",
+    "lon": "22.0417814",
+    "display_name": "L\u00fa\u010dky, Ko\u0161ick\u00fd kraj, V\u00fdchodn\u00e9 Slovensko, 072 34, Slovensko",
+    "class": "place",
+    "type": "village",
+    "importance": 0.34552670789228,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160535846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2261486",
+    "boundingbox": [
+      "48.6772445",
+      "48.7226555",
+      "18.8562499",
+      "18.9084687"
+    ],
+    "lat": "48.69997465",
+    "lon": "18.887715702053",
+    "display_name": "L\u00fa\u010dky, okres \u017diar nad Hronom, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, Slovensko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160541534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2386546",
+    "boundingbox": [
+      "48.7510588",
+      "48.7927733",
+      "22.0167999",
+      "22.0525651"
+    ],
+    "lat": "48.7723213",
+    "lon": "22.0380283993477",
+    "display_name": "L\u00fa\u010dky, okres Michalovce, Ko\u0161ick\u00fd kraj, V\u00fdchodn\u00e9 Slovensko, Slovensko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160502439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2168206",
+    "boundingbox": [
+      "49.1162268",
+      "49.17703",
+      "19.3433755",
+      "19.4215888"
+    ],
+    "lat": "49.14659675",
+    "lon": "19.3731580020127",
+    "display_name": "L\u00fa\u010dky, okres Ru\u017eomberok, \u017dilinsk\u00fd kraj, Stredn\u00e9 Slovensko, Slovensko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4495477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "490734860",
+    "boundingbox": [
+      "48.676201",
+      "48.716201",
+      "18.8746181",
+      "18.9146181"
+    ],
+    "lat": "48.696201",
+    "lon": "18.8946181",
+    "display_name": "L\u00fa\u010dky, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, 967 01, Slovensko",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2459215",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "347681832",
+    "boundingbox": [
+      "49.1080526",
+      "49.1480526",
+      "19.3836357",
+      "19.4236357"
+    ],
+    "lat": "49.1280526",
+    "lon": "19.4036357",
+    "display_name": "L\u00fa\u010dky, \u017dilinsk\u00fd kraj, Stredn\u00e9 Slovensko, 03482, Slovensko",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

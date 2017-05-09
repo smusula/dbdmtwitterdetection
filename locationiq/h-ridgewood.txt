@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160284783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170646",
+    "boundingbox": [
+      "40.955272",
+      "41.007844",
+      "-74.1490879",
+      "-74.0775589"
+    ],
+    "lat": "40.9791864",
+    "lon": "-74.1165756",
+    "display_name": "Ridgewood, Bergen County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51067863072538,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "467140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158382383",
+    "boundingbox": [
+      "39.7467801",
+      "39.7867801",
+      "-75.5321426",
+      "-75.4921426"
+    ],
+    "lat": "39.7667801",
+    "lon": "-75.5121426",
+    "display_name": "Ridgewood, New Castle County, Delaware, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42191850354092,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "443400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157548432",
+    "boundingbox": [
+      "43.2303348",
+      "43.2703348",
+      "-78.6672535",
+      "-78.6272535"
+    ],
+    "lat": "43.2503348",
+    "lon": "-78.6472535",
+    "display_name": "Ridgewood, Newfane Town, Niagara County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "460166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158222258",
+    "boundingbox": [
+      "40.2809259",
+      "40.3209259",
+      "-75.9179831",
+      "-75.8779831"
+    ],
+    "lat": "40.3009259",
+    "lon": "-75.8979831",
+    "display_name": "Ridgewood, Berks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "459730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158411554",
+    "boundingbox": [
+      "41.2573032",
+      "41.2973032",
+      "-75.8326942",
+      "-75.7926942"
+    ],
+    "lat": "41.2773032",
+    "lon": "-75.8126942",
+    "display_name": "Ridgewood, Luzerne County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "432424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154307650",
+    "boundingbox": [
+      "27.871415",
+      "27.911415",
+      "-81.933694",
+      "-81.893694"
+    ],
+    "lat": "27.891415",
+    "lon": "-81.913694",
+    "display_name": "Ridgewood, Polk County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "436414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154078591",
+    "boundingbox": [
+      "30.1189035",
+      "30.1589035",
+      "-81.8042222",
+      "-81.7642222"
+    ],
+    "lat": "30.1389035",
+    "lon": "-81.7842222",
+    "display_name": "Ridgewood, Clay County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "428942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153970550",
+    "boundingbox": [
+      "39.9300599",
+      "39.9700599",
+      "-83.8343731",
+      "-83.7943731"
+    ],
+    "lat": "39.9500599",
+    "lon": "-83.8143731",
+    "display_name": "Ridgewood, Clark County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "461270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158454832",
+    "boundingbox": [
+      "38.3198493",
+      "38.3598493",
+      "-76.7794111",
+      "-76.7394111"
+    ],
+    "lat": "38.3398493",
+    "lon": "-76.7594111",
+    "display_name": "Ridgewood, Saint Mary's County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "428539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153965402",
+    "boundingbox": [
+      "35.2003506",
+      "35.2403506",
+      "-84.9188351",
+      "-84.8788351"
+    ],
+    "lat": "35.2203506",
+    "lon": "-84.8988351",
+    "display_name": "Ridgewood, Bradley County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

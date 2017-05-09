@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "58844042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6861100",
+    "boundingbox": [
+      "51.9624748",
+      "51.9635196",
+      "6.0259127",
+      "6.0286015"
+    ],
+    "lat": "51.9632597",
+    "lon": "6.0270357",
+    "display_name": "Marketing, Centerpoort-Noord, Duiven, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6921RE, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "121830481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244501627",
+    "boundingbox": [
+      "35.5959164",
+      "35.5960607",
+      "-120.692935",
+      "-120.6926436"
+    ],
+    "lat": "35.59598855",
+    "lon": "-120.6927893",
+    "display_name": "Marketing, Vendels Circle, El Paso de Robles (Paso Robles), San Luis Obispo County, California, 93446, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17794356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1720707486",
+    "boundingbox": [
+      "51.963525",
+      "51.963625",
+      "6.0254803",
+      "6.0255803"
+    ],
+    "lat": "51.963575",
+    "lon": "6.0255303",
+    "display_name": "Marketing, Impact, Centerpoort-Noord, Duiven, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6921RE, Nederland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

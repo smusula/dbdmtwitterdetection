@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "981544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "292827671",
+    "boundingbox": [
+      "55.9155637",
+      "55.9156637",
+      "-3.1964806",
+      "-3.1963806"
+    ],
+    "lat": "55.9156137",
+    "lon": "-3.1964306",
+    "display_name": "The Braids, Edinburgh, City of Edinburgh, Scotland, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "104691710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173291041",
+    "boundingbox": [
+      "53.3570769",
+      "53.3571717",
+      "-1.4838398",
+      "-1.4836511"
+    ],
+    "lat": "53.3571344",
+    "lon": "-1.48375054050075",
+    "display_name": "Braids, 526, Abbeydale Road, Little Sheffield, Nether Edge, Sheffield, Yorkshire and the Humber, England, S7 1TD, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "49832085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3705983208",
+    "boundingbox": [
+      "18.0245626",
+      "18.0246626",
+      "-63.04885",
+      "-63.04875"
+    ],
+    "lat": "18.0246126",
+    "lon": "-63.0488",
+    "display_name": "Braids, Front Street, Saunders, Philipsburg, Sint Maarten, 1721, Nederland",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

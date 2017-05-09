@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "5103243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "573543277",
+    "boundingbox": [
+      "35.34995",
+      "35.35005",
+      "39.2332833",
+      "39.2333833"
+    ],
+    "lat": "35.35",
+    "lon": "39.2333333",
+    "display_name": "\u062a\u0644\u062a\u0629 \u0648\u0627\u062a\u0629, Ar-Raqqah, \u0633\u0648\u0631\u064a\u0627",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "70044945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26754470",
+    "boundingbox": [
+      "20.2623243",
+      "20.26873",
+      "85.8109567",
+      "85.81724"
+    ],
+    "lat": "20.265205",
+    "lon": "85.8145566889831",
+    "display_name": "OUAT Campus, Sabarsahi Road, Unit-7, Bhubaneshwar, Khordha, Odisha, 751003, India",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  }
+]

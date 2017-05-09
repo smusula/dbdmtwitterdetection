@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "11352237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1078624918",
+    "boundingbox": [
+      "35.6696339",
+      "35.6697339",
+      "140.0379371",
+      "140.0380371"
+    ],
+    "lat": "35.6696839",
+    "lon": "140.0379871",
+    "display_name": "\u5e55\u5f35, \u4eac\u8449\u9053\u8def, \u82b1\u898b\u5ddd\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.59702909537602
+  },
+  {
+    "place_id": "16479762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1531034761",
+    "boundingbox": [
+      "35.6693795",
+      "35.6694795",
+      "140.0306541",
+      "140.0307541"
+    ],
+    "lat": "35.6694295",
+    "lon": "140.0307041",
+    "display_name": "\u5e55\u5f35, \u4eac\u8449\u9053\u8def, \u7fd2\u5fd7\u91ce\u5e02, \u5343\u8449\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.59702909537602
+  },
+  {
+    "place_id": "160528213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2424085",
+    "boundingbox": [
+      "32.2966291",
+      "33.8317562",
+      "-9.0593228",
+      "-6.7569359"
+    ],
+    "lat": "33.2627128",
+    "lon": "-7.9639027",
+    "display_name": "Casablanca-Settat \u2d5c\u2d49\u2d33\u2d4e\u2d49 \u2d5c\u2d53\u2d4e\u2d4d\u2d49\u2d4d\u2d5c-\u2d59\u2d5f\u2d5f\u2d30\u2d5c \u0627\u0644\u062f\u0627\u0631 \u0627\u0644\u0628\u064a\u0636\u0627\u0621-\u0633\u0637\u0627\u062a, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160467239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1990595",
+    "boundingbox": [
+      "48.1883152",
+      "48.2026474",
+      "16.3373251",
+      "16.366009"
+    ],
+    "lat": "48.1954752",
+    "lon": "16.3470234253365",
+    "display_name": "Mariahilf, Wien, 1060, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53487139593911,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160455534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1675776",
+    "boundingbox": [
+      "46.2659927",
+      "46.4467062",
+      "13.3996666",
+      "13.8365548"
+    ],
+    "lat": "46.3385467",
+    "lon": "13.5525933",
+    "display_name": "Bovec, Gori\u0161ka, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50620153033171,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160567298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2804759",
+    "boundingbox": [
+      "42.4288238",
+      "42.5044741",
+      "1.4173887",
+      "1.5611409"
+    ],
+    "lat": "42.46671695",
+    "lon": "1.49634497744565",
+    "display_name": "Sant Juli\u00e0 de L\u00f2ria, AD600, Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46355694018077,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "83847327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "90230616",
+    "boundingbox": [
+      "60.8863144",
+      "60.8873689",
+      "26.7739271",
+      "26.794219"
+    ],
+    "lat": "60.8872416",
+    "lon": "26.7845185",
+    "display_name": "Kuutostie, Tykkim\u00e4ki, Kouvola, Kouvolan seutukunta, Kymenlaakso, Etel\u00e4-Suomi, 46710, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.4629576038627
+  },
+  {
+    "place_id": "115578535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219401025",
+    "boundingbox": [
+      "60.8865103",
+      "60.8867762",
+      "26.7999523",
+      "26.8034574"
+    ],
+    "lat": "60.8866114",
+    "lon": "26.8018366",
+    "display_name": "Kuutostie, Kullasvaara, Kouvola, Kouvolan seutukunta, Kymenlaakso, Etel\u00e4-Suomi, 46710, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.4629576038627
+  },
+  {
+    "place_id": "160716912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3773080",
+    "boundingbox": [
+      "41.3955716",
+      "41.4248921",
+      "2.1296449",
+      "2.172089"
+    ],
+    "lat": "41.4101737",
+    "lon": "2.15514236973765",
+    "display_name": "Gr\u00e0cia, Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42618736232234,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2654563591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "270893792",
+    "boundingbox": [
+      "35.6425438",
+      "35.6426438",
+      "139.264145",
+      "139.264245"
+    ],
+    "lat": "35.6425938",
+    "lon": "139.264195",
+    "display_name": "\u516b\u738b\u5b50\uff2a\uff23\uff34, \u4e2d\u592e\u81ea\u52d5\u8eca\u9053, \u516b\u738b\u5b50\u5e02, \u6771\u4eac\u90fd, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.37918864804464
+  }
+]

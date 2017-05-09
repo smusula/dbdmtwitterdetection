@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "484936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158801321",
+    "boundingbox": [
+      "40.7153302",
+      "40.7154302",
+      "-74.0093562",
+      "-74.0092562"
+    ],
+    "lat": "40.7153802",
+    "lon": "-74.0093062",
+    "display_name": "Tribeca, Manhattan, New York, NYC, New York, 10007, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.54614043673213
+  },
+  {
+    "place_id": "104422265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172367145",
+    "boundingbox": [
+      "1.2905902",
+      "1.2916003",
+      "103.8341267",
+      "103.8349356"
+    ],
+    "lat": "1.29085475",
+    "lon": "103.834592543637",
+    "display_name": "Tribeca, Outram, Singapore, Central Singapore Community Development Council, Singapore",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "146664186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372930326",
+    "boundingbox": [
+      "29.4195753",
+      "29.4195775",
+      "-98.7704405",
+      "-98.7694413"
+    ],
+    "lat": "29.4195775",
+    "lon": "-98.7694413",
+    "display_name": "Tribeca, San Antonio, Bexar County, Texas, 78253, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "141346775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "339831449",
+    "boundingbox": [
+      "40.7164699",
+      "40.7169865",
+      "-74.0926002",
+      "-74.0921078"
+    ],
+    "lat": "40.7169865",
+    "lon": "-74.0921078",
+    "display_name": "Tribeca, Jersey City, Hudson County, New Jersey, 07305, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "1468960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "322684264",
+    "boundingbox": [
+      "48.856762",
+      "48.856862",
+      "2.3061805",
+      "2.3062805"
+    ],
+    "lat": "48.856812",
+    "lon": "2.3062305",
+    "display_name": "Tribeca, Rue Cler, Gros-Caillou, 7e, Paris, \u00cele-de-France, 75007, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "40767526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2992594073",
+    "boundingbox": [
+      "47.49387",
+      "47.49397",
+      "19.0665856",
+      "19.0666856"
+    ],
+    "lat": "47.49392",
+    "lon": "19.0666356",
+    "display_name": "Tribeca, 12, Vas utca, Palotanegyed, 8. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1088, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "14259780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1295097468",
+    "boundingbox": [
+      "53.4762781",
+      "53.4763781",
+      "-2.2363138",
+      "-2.2362138"
+    ],
+    "lat": "53.4763281",
+    "lon": "-2.2362638",
+    "display_name": "Tribeca, Sackville Street, Smithfield Gardens, Central Manchester, Manchester, Greater Manchester, North West England, England, M1 3WF, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "103186795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167815887",
+    "boundingbox": [
+      "45.4187607",
+      "45.41928",
+      "-75.6937363",
+      "-75.6927877"
+    ],
+    "lat": "45.4190178",
+    "lon": "-75.693266926595",
+    "display_name": "Tribeca, 91, Nepean Street, Chinatown, Centretown, Somerset, Ottawa, Ontario, K2P 0B4, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650948844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "471520058",
+    "boundingbox": [
+      "-34.6255958",
+      "-34.6254575",
+      "-58.5129235",
+      "-58.5127084"
+    ],
+    "lat": "-34.6255442",
+    "lon": "-58.5128159551731",
+    "display_name": "Tribeca, Avenida \u00c1lvarez Jonte, Villa Real, CABA, Comuna 10, CABA, C1408AKG, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45109721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3210640361",
+    "boundingbox": [
+      "46.5225418",
+      "46.5226418",
+      "6.6324639",
+      "6.6325639"
+    ],
+    "lat": "46.5225918",
+    "lon": "6.6325139",
+    "display_name": "Tribeca, Place Ren\u00e9 Auberjonois, Lausanne, District de Lausanne, Vaud, 1003, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,171 @@
+[
+  {
+    "place_id": "160272292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "122559",
+    "boundingbox": [
+      "44.5762166",
+      "44.6291666",
+      "1.8537766",
+      "1.9156663"
+    ],
+    "lat": "44.6075157",
+    "lon": "1.8957344",
+    "display_name": "Corn, Figeac, Lot, Occitanie, 46100, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57490847309574,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "47415187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3425203846",
+    "boundingbox": [
+      "46.4685093",
+      "46.4686093",
+      "9.8601454",
+      "9.8602454"
+    ],
+    "lat": "46.4685593",
+    "lon": "9.8601954",
+    "display_name": "Il Corn, St. Moritz, Maloja, Graub\u00fcnden - Grigioni - Grischun, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "17149004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1628956884",
+    "boundingbox": [
+      "46.7049851",
+      "46.7050851",
+      "11.8972084",
+      "11.8973084"
+    ],
+    "lat": "46.7050351",
+    "lon": "11.8972584",
+    "display_name": "Corn, San Martin de Tor - San Martino in Badia - St. Martin in Thurn, Pustertal - Val Pusteria, BZ, TAA, 39030, Italia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "50313390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3732066442",
+    "boundingbox": [
+      "46.5598604",
+      "46.5599604",
+      "9.9921656",
+      "9.9922656"
+    ],
+    "lat": "46.5599104",
+    "lon": "9.9922156",
+    "display_name": "Il Corn, S-chanf, Maloja, Graub\u00fcnden - Grigioni - Grischun, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "13590418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242141225",
+    "boundingbox": [
+      "38.7790699",
+      "38.7990699",
+      "0.0218631",
+      "0.0418631"
+    ],
+    "lat": "38.7890699",
+    "lon": "0.0318631",
+    "display_name": "Corn, Pedreguer, Marina Alta, Alicante/Alacant, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160291787",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "185179",
+    "boundingbox": [
+      "35.374116",
+      "35.384959",
+      "-98.7886149",
+      "-98.7734659"
+    ],
+    "lat": "35.3781092",
+    "lon": "-98.7820173",
+    "display_name": "Corn, Washita County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "150310154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391681648",
+    "boundingbox": [
+      "41.7484076",
+      "41.7495466",
+      "-73.0554821",
+      "-73.0541297"
+    ],
+    "lat": "41.74901355",
+    "lon": "-73.0548203138522",
+    "display_name": "corn, Harwinton, Litchfield County, Connecticut, 06791, United States of America",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.31
+  },
+  {
+    "place_id": "60039945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9086254",
+    "boundingbox": [
+      "30.525473",
+      "30.526193",
+      "-82.0392859",
+      "-82.0320049"
+    ],
+    "lat": "30.525881",
+    "lon": "-82.0352449",
+    "display_name": "Corn, Saint George, Charlton County, Georgia, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "27967311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2614525453",
+    "boundingbox": [
+      "11.5571382",
+      "11.5572382",
+      "104.9315256",
+      "104.9316256"
+    ],
+    "lat": "11.5571882",
+    "lon": "104.9315756",
+    "display_name": "The Corn, \u1798\u17a0\u17b6\u179c\u17b7\u1790\u17b8 \u1796\u17d2\u179a\u17c7\u179f\u17bb\u179a\u17b6\u1798\u17d2\u179a\u17b9\u178f (\u17e2\u17e6\u17e8), \u1780\u17c4\u17c7\u1796\u17c1\u1787\u17d2\u179a, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12130, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

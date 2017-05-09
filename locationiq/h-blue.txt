@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160304143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "296522",
+    "boundingbox": [
+      "-27.1319999",
+      "-26.612734",
+      "-49.2007157",
+      "-49.0096551"
+    ],
+    "lat": "-26.9195566",
+    "lon": "-49.0658024",
+    "display_name": "Blumenau, Microrregi\u00e3o de Blumenau, Mesorregi\u00e3o do Vale do Itaja\u00ed, SC, Regi\u00e3o Sul, Brasil",
+    "class": "place",
+    "type": "city",
+    "importance": 0.53117229610454,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "55099657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4255521429",
+    "boundingbox": [
+      "43.2709754",
+      "43.2710754",
+      "-124.086527",
+      "-124.086427"
+    ],
+    "lat": "43.2710254",
+    "lon": "-124.086477",
+    "display_name": "Blue, Coos County, Oregon, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "359298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151337295",
+    "boundingbox": [
+      "30.3718751",
+      "30.4118751",
+      "-97.167489",
+      "-97.127489"
+    ],
+    "lat": "30.3918751",
+    "lon": "-97.147489",
+    "display_name": "Blue, Lee County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "404057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153607919",
+    "boundingbox": [
+      "38.9050593",
+      "38.9450593",
+      "-85.0246738",
+      "-84.9846738"
+    ],
+    "lat": "38.9250593",
+    "lon": "-85.0046738",
+    "display_name": "Blue, Ohio County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "417457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153992236",
+    "boundingbox": [
+      "39.4276933",
+      "39.4676933",
+      "-80.8452876",
+      "-80.8052876"
+    ],
+    "lat": "39.4476933",
+    "lon": "-80.8252876",
+    "display_name": "Blue, Tyler County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "365445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151500896",
+    "boundingbox": [
+      "33.9764854",
+      "34.0164854",
+      "-96.2499869",
+      "-96.2099869"
+    ],
+    "lat": "33.9964854",
+    "lon": "-96.2299869",
+    "display_name": "Blue, Bryan County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.33865352680439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "155491748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421594448",
+    "boundingbox": [
+      "70.1101011",
+      "70.1101678",
+      "29.3697078",
+      "29.3699061"
+    ],
+    "lat": "70.1101345",
+    "lon": "29.369806942544",
+    "display_name": "Blue, Kariel, Vads\u00f8, Finnmark, 9802, Norge",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "359970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151661226",
+    "boundingbox": [
+      "33.5900552",
+      "33.6300552",
+      "-109.1267395",
+      "-109.0867395"
+    ],
+    "lat": "33.6100552",
+    "lon": "-109.1067395",
+    "display_name": "Blue, Greenlee County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.27217279423731,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "79581393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60775706",
+    "boundingbox": [
+      "51.4542633",
+      "51.4604328",
+      "-2.6458697",
+      "-2.6407733"
+    ],
+    "lat": "51.4578418",
+    "lon": "-2.6423515",
+    "display_name": "Blue, Abbots Leigh CP, Abbots Leigh, North Somerset, South West England, England, BS8 3, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100485880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158127223",
+    "boundingbox": [
+      "39.9056651",
+      "39.9070436",
+      "-75.4793195",
+      "-75.4778472"
+    ],
+    "lat": "39.9061424",
+    "lon": "-75.47866",
+    "display_name": "Blue, Thornbury Township, Delaware County, Pennsylvania, 19017, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

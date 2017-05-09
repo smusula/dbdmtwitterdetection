@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "63701882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15372726",
+    "boundingbox": [
+      "29.930766",
+      "29.931318",
+      "-95.0870559",
+      "-95.0851849"
+    ],
+    "lat": "29.930784",
+    "lon": "-95.0860969",
+    "display_name": "Flying, Newport, Crosby, Harris County, Texas, 77532, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "3393109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "365317923",
+    "boundingbox": [
+      "32.730932",
+      "32.731032",
+      "-117.2242189",
+      "-117.2241189"
+    ],
+    "lat": "32.730982",
+    "lon": "-117.2241689",
+    "display_name": "Fling, Poe Street, Old Town, San Diego, San Diego County, California, 92107, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

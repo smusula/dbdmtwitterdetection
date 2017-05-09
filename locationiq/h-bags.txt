@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "15443651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1400763968",
+    "boundingbox": [
+      "52.1486944",
+      "52.1487944",
+      "21.736781",
+      "21.736881"
+    ],
+    "lat": "52.1487444",
+    "lon": "21.736831",
+    "display_name": "BAGS, Miko\u0142aja Reja, Ceg\u0142\u00f3w, gmina Ceg\u0142\u00f3w, powiat mi\u0144ski, mazowieckie, 05-319, Polska",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "1304886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303800498",
+    "boundingbox": [
+      "-25.8789799",
+      "-25.8788799",
+      "28.1625",
+      "28.1626"
+    ],
+    "lat": "-25.8789299",
+    "lon": "28.16255",
+    "display_name": "Bags, Old Johannesburg Road, Tshwane Ward 78, Simarlo AH, City of Tshwane Metropolitan Municipality, Gauteng, 0157, South Africa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

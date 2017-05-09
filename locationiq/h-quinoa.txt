@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "97613628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "144821940",
+    "boundingbox": [
+      "-22.4812677",
+      "-22.4810718",
+      "-68.9349098",
+      "-68.9342386"
+    ],
+    "lat": "-22.4811261",
+    "lon": "-68.9344228",
+    "display_name": "Quinoa, Nu\u00f1es, Calama, Provincia de El Loa, II Regi\u00f3n de Antofagasta, 1395584, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69084304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24547595",
+    "boundingbox": [
+      "-41.460537",
+      "-41.4588385",
+      "-72.9272463",
+      "-72.9237442"
+    ],
+    "lat": "-41.459334",
+    "lon": "-72.9258601",
+    "display_name": "Quinoa, Poblaci\u00f3n Antonio Varas Norte, Villa La Paloma, Puerto Montt, Provincia de Llanquihue, X Regi\u00f3n de Los Lagos, 5503778, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155389855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421142736",
+    "boundingbox": [
+      "-41.4604858",
+      "-41.4602679",
+      "-72.9237452",
+      "-72.9237442"
+    ],
+    "lat": "-41.4604858",
+    "lon": "-72.9237442",
+    "display_name": "Quinoa, Poblaci\u00f3n Antonio Varas Norte, Sol de Oriente, Puerto Montt, Provincia de Llanquihue, X Regi\u00f3n de Los Lagos, 5503778, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "23777179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2335097768",
+    "boundingbox": [
+      "37.4025241",
+      "37.4026241",
+      "-6.0090937",
+      "-6.0089937"
+    ],
+    "lat": "37.4025741",
+    "lon": "-6.0090437",
+    "display_name": "Quinoa, 5, Calle Am\u00e9rico Vespucio, Parque Tecnol\u00f3gico Cartuja 93, Triana, Sevilla, Andaluc\u00eda, 41092, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52180363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3926132713",
+    "boundingbox": [
+      "49.1129431",
+      "49.1130431",
+      "9.7341266",
+      "9.7342266"
+    ],
+    "lat": "49.1129931",
+    "lon": "9.7341766",
+    "display_name": "Quinoa, 27, Neue Stra\u00dfe, Altstadt, Tullauer H\u00f6he, Schw\u00e4bisch Hall, Verwaltungsgemeinschaft Schw\u00e4bisch Hall, Landkreis Schw\u00e4bisch Hall, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 74523, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "160161488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447273387",
+    "boundingbox": [
+      "-33.3951773",
+      "-33.3950134",
+      "-70.5820804",
+      "-70.5818727"
+    ],
+    "lat": "-33.3950954",
+    "lon": "-70.5819765435871",
+    "display_name": "Quinoa, Avenida Luis Pasteur, Vitacura, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 7640639, Chile",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654664522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4747554921",
+    "boundingbox": [
+      "38.5789673",
+      "38.5790673",
+      "-0.1012264",
+      "-0.1011264"
+    ],
+    "lat": "38.5790173",
+    "lon": "-0.1011764",
+    "display_name": "Quinoa, Carrer Gabriel Mir\u00f3, La Foia Blanca, l'Alf\u00e0s del Pi, Marina Baja, Alicante/Alacant, Comunitat Valenciana, 03580, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2653271028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1105062208",
+    "boundingbox": [
+      "42.1634784",
+      "42.1635784",
+      "-8.6218437",
+      "-8.6217437"
+    ],
+    "lat": "42.1635284",
+    "lon": "-8.6217937",
+    "display_name": "Quinoa, 14, R\u00faa Estaci\u00f3n, Aloques, Atios, O Porri\u00f1o, Pontevedra, Galicia, 36400, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "112327488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205562568",
+    "boundingbox": [
+      "51.4928678",
+      "51.4930336",
+      "-0.2676153",
+      "-0.2675067"
+    ],
+    "lat": "51.49291925",
+    "lon": "-0.267561022835269",
+    "display_name": "Superclean, Chiswick High Road, London Borough of Hounslow, London, Greater London, England, W4 4HH, UK",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  },
+  {
+    "place_id": "27358856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2590640042",
+    "boundingbox": [
+      "-17.3837523",
+      "-17.3836523",
+      "-66.1470425",
+      "-66.1469425"
+    ],
+    "lat": "-17.3837023",
+    "lon": "-66.1469925",
+    "display_name": "Superclean, Avenida Papa Paulo, San Luis, Distrito 11, Adela Zamudio, Cochabamba, Kanata, Cercado, CBA, 6759, Bolivia",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  }
+]

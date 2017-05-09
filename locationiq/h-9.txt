@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "158221605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "435592011",
+    "boundingbox": [
+      "35.5167455",
+      "35.5191007",
+      "134.0569032",
+      "134.0682798"
+    ],
+    "lat": "35.5188219",
+    "lon": "134.0626905",
+    "display_name": "\u56fd\u90539\u53f7, \u9ce5\u53d6\u5e02, \u5ca9\u7f8e\u90e1, \u9ce5\u53d6\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.5563881320077
+  },
+  {
+    "place_id": "160540721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2424036",
+    "boundingbox": [
+      "28.3110599",
+      "31.166586",
+      "-10.0103813",
+      "-6.353651"
+    ],
+    "lat": "30.187722",
+    "lon": "-8.6322497",
+    "display_name": "Souss-Massa \u2d59\u2d53\u2d59\u2d59-\u2d4e\u2d30\u2d59\u2d59\u2d30 \u0633\u0648\u0633-\u0645\u0627\u0633\u0629, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160486810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1990590",
+    "boundingbox": [
+      "48.2138145",
+      "48.236309",
+      "16.3408703",
+      "16.370149"
+    ],
+    "lat": "48.22507335",
+    "lon": "16.3583975990458",
+    "display_name": "Alsergrund, Wien, 1090, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54978806119802,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "94620694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131829246",
+    "boundingbox": [
+      "35.5189392",
+      "35.52264",
+      "134.0159005",
+      "134.0212536"
+    ],
+    "lat": "35.5197244",
+    "lon": "134.0172617",
+    "display_name": "\u56fd\u90539\u53f7;\u5c71\u9670\u81ea\u52d5\u8eca\u9053, \u9ce5\u53d6\u5e02, \u5ca9\u7f8e\u90e1, \u9ce5\u53d6\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.52343250631412
+  },
+  {
+    "place_id": "160438526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1685719",
+    "boundingbox": [
+      "45.8204166",
+      "46.0548687",
+      "15.4907324",
+      "15.7324872"
+    ],
+    "lat": "45.9051384",
+    "lon": "15.5947076",
+    "display_name": "Bre\u017eice, Lower Sava Statistical Region, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51630416937681,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "158184780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "435592012",
+    "boundingbox": [
+      "35.5184053",
+      "35.5185161",
+      "134.055995",
+      "134.0569032"
+    ],
+    "lat": "35.5185161",
+    "lon": "134.0569032",
+    "display_name": "\u6d5c\u6751\u6a4b, \u9ce5\u53d6\u5e02, \u5ca9\u7f8e\u90e1, \u9ce5\u53d6\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.4563881320077
+  },
+  {
+    "place_id": "158221624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "435592089",
+    "boundingbox": [
+      "35.5179181",
+      "35.5179382",
+      "134.0444574",
+      "134.0452748"
+    ],
+    "lat": "35.5179181",
+    "lon": "134.0444574",
+    "display_name": "\u6c38\u6c5f\u5ddd\u6a4b, \u9ce5\u53d6\u5e02, \u5ca9\u7f8e\u90e1, \u9ce5\u53d6\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.4563881320077
+  },
+  {
+    "place_id": "1426715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313715705",
+    "boundingbox": [
+      "4.86",
+      "6.14",
+      "-58.9733329",
+      "-57.6933329"
+    ],
+    "lat": "5.5",
+    "lon": "-58.3333329",
+    "display_name": "Upper Demerara-Berbice Region, Guyana",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "12960198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1226724504",
+    "boundingbox": [
+      "36.543075",
+      "36.543175",
+      "139.8001546",
+      "139.8002546"
+    ],
+    "lat": "36.543125",
+    "lon": "139.8002046",
+    "display_name": "\u9e7f\u6cbc\uff29\uff23, \u6771\u5317\u81ea\u52d5\u8eca\u9053, \u9e7f\u6cbc\u5e02, \u90a3\u9808\u90e1, \u6803\u6728\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.37504530481938
+  },
+  {
+    "place_id": "1016155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "294353395",
+    "boundingbox": [
+      "36.082141",
+      "36.082241",
+      "136.278706",
+      "136.278806"
+    ],
+    "lat": "36.082191",
+    "lon": "136.278756",
+    "display_name": "\u798f\u4e95\u5317\uff2a\uff23\uff34, \u5317\u9678\u81ea\u52d5\u8eca\u9053, \u798f\u4e95\u5e02, \u798f\u4e95\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.36174263455481
+  }
+]

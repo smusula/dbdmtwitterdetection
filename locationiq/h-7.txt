@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160556041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2424086",
+    "boundingbox": [
+      "30.78595",
+      "32.8142451",
+      "-9.8425108",
+      "-7.0020697"
+    ],
+    "lat": "31.6048574",
+    "lon": "-8.3654031",
+    "display_name": "Marrakech-Safi \u2d4e\u2d55\u2d55\u2d30\u2d3d\u2d5b-\u2d30\u2d59\u2d3c\u2d49 \u0645\u0631\u0627\u0643\u0634-\u0623\u0633\u0641\u064a, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160593481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2804756",
+    "boundingbox": [
+      "42.449886",
+      "42.5237965",
+      "1.5215088",
+      "1.6632892"
+    ],
+    "lat": "42.48657685",
+    "lon": "1.60726464381319",
+    "display_name": "Escaldes-Engordany, AD700, Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53916488073453,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160469702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1990597",
+    "boundingbox": [
+      "48.1958746",
+      "48.2085779",
+      "16.3368956",
+      "16.3615382"
+    ],
+    "lat": "48.20226365",
+    "lon": "16.3491228903589",
+    "display_name": "Neubau, Wien, 1070, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52950710347042,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160433508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1675784",
+    "boundingbox": [
+      "45.96478",
+      "46.0676098",
+      "13.4761639",
+      "13.6323958"
+    ],
+    "lat": "46.0162019",
+    "lon": "13.5489102336195",
+    "display_name": "Brda, Gori\u0161ka, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44508609220215,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11645320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1108318088",
+    "boundingbox": [
+      "55.896596",
+      "55.896696",
+      "37.5865253",
+      "37.5866253"
+    ],
+    "lat": "55.896646",
+    "lon": "37.5865753",
+    "display_name": "\u0410\u043b\u0442\u0443\u0444\u044c\u0435\u0432\u043e, \u0410\u043b\u0442\u0443\u0444\u044c\u0435\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u041b\u0438\u0430\u043d\u043e\u0437\u043e\u0432\u043e, \u0440\u0430\u0439\u043e\u043d \u041b\u0438\u0430\u043d\u043e\u0437\u043e\u0432\u043e, \u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 127349, \u0420\u0424",
+    "class": "railway",
+    "type": "subway_entrance",
+    "importance": 0.4340643557406
+  },
+  {
+    "place_id": "2651926633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "474309307",
+    "boundingbox": [
+      "48.3217016",
+      "48.3239341",
+      "5.9310965",
+      "5.9342971"
+    ],
+    "lat": "48.3229249",
+    "lon": "5.932641",
+    "display_name": "Foss\u00e9 de Hauzauvois, Morelmaison, Neufch\u00e2teau, Vosges, Grand-Est, 88170, France",
+    "class": "waterway",
+    "type": "ditch",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160717106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3773133",
+    "boundingbox": [
+      "41.4069301",
+      "41.4507081",
+      "2.1204278",
+      "2.18084"
+    ],
+    "lat": "41.42853965",
+    "lon": "2.14359654810671",
+    "display_name": "Horta-Guinard\u00f3, Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4226948590922,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2608864815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1786910641",
+    "boundingbox": [
+      "36.2890536",
+      "36.2891536",
+      "139.6182298",
+      "139.6183298"
+    ],
+    "lat": "36.2891036",
+    "lon": "139.6182798",
+    "display_name": "\u4f50\u91ce\u85e4\u5ca1\uff29\uff23, \u6771\u5317\u81ea\u52d5\u8eca\u9053, \u6803\u6728\u5e02, \u6803\u6728\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.37775531483082
+  },
+  {
+    "place_id": "4919942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "539697643",
+    "boundingbox": [
+      "36.2942185",
+      "36.2943185",
+      "139.618879",
+      "139.618979"
+    ],
+    "lat": "36.2942685",
+    "lon": "139.618929",
+    "display_name": "\u4f50\u91ce\u85e4\u5ca1\uff29\uff23, \u6771\u5317\u81ea\u52d5\u8eca\u9053, \u4f50\u91ce\u5e02, \u6803\u6728\u770c, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.37775531483082
+  },
+  {
+    "place_id": "160325388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "389898",
+    "boundingbox": [
+      "-27.5991894",
+      "-26.092162",
+      "-56.6584027",
+      "-54.6488009"
+    ],
+    "lat": "-26.8333329",
+    "lon": "-55.8333329",
+    "display_name": "Itap\u00faa, Regi\u00f3n Oriental, Paraguay",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37248296236047,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

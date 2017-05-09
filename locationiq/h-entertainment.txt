@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "158156820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "435595544",
+    "boundingbox": [
+      "33.6774799",
+      "33.6778544",
+      "-117.6671127",
+      "-117.6656894"
+    ],
+    "lat": "33.677756",
+    "lon": "-117.6663841",
+    "display_name": "Entertainment, Foothill Ranch Towne Center, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2654857769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4750977765",
+    "boundingbox": [
+      "-15.4311748",
+      "-15.4310748",
+      "28.2366722",
+      "28.2367722"
+    ],
+    "lat": "-15.4311248",
+    "lon": "28.2367222",
+    "display_name": "Entertainment, 43/03, Masauko Road, Kanyama, Lusaka, Lusaka Province, 1010, Zambia",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "87916258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107896948",
+    "boundingbox": [
+      "56.6627362",
+      "56.6633899",
+      "36.6861706",
+      "36.68706"
+    ],
+    "lat": "56.6630621",
+    "lon": "36.6866825633343",
+    "display_name": "\u0420\u0430\u0437\u0432\u043b\u0435\u043a\u0430\u0442\u0435\u043b\u044c\u043d\u044b\u0439 \u0446\u0435\u043d\u0442\u0440, 28\u041d-0780, \u0412\u0430\u0445\u043e\u043d\u0438\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041a\u043e\u043d\u0430\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 171286, \u0420\u0424",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

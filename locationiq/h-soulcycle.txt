@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "25175905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2432310211",
+    "boundingbox": [
+      "40.7164167",
+      "40.7165167",
+      "-74.0127186",
+      "-74.0126186"
+    ],
+    "lat": "40.7164667",
+    "lon": "-74.0126686",
+    "display_name": "Soulcycle, 103, Warren Street, Tribeca, Manhattan, New York County, NYC, New York, 10007, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52694214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4001664955",
+    "boundingbox": [
+      "37.7622292",
+      "37.7623292",
+      "-122.4353762",
+      "-122.4352762"
+    ],
+    "lat": "37.7622792",
+    "lon": "-122.4353262",
+    "display_name": "SoulCycle, 400, Castro Street, Castro District, SF, California, 94114, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

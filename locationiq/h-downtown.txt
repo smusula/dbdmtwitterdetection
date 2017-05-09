@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "12792043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1214036345",
+    "boundingbox": [
+      "37.8035795",
+      "37.8036795",
+      "-122.2715743",
+      "-122.2714743"
+    ],
+    "lat": "37.8036295",
+    "lon": "-122.2715243",
+    "display_name": "Downtown, Oakland, Alameda County, California, 94612, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.41908579539046
+  },
+  {
+    "place_id": "23879073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2333079471",
+    "boundingbox": [
+      "43.0478243",
+      "43.0479243",
+      "-76.1499791",
+      "-76.1498791"
+    ],
+    "lat": "43.0478743",
+    "lon": "-76.1499291",
+    "display_name": "Downtown, Syracuse, Onondaga County, New York, 13202, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.41732695533476
+  },
+  {
+    "place_id": "7702715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "833661553",
+    "boundingbox": [
+      "21.308895",
+      "21.308995",
+      "-157.8613911",
+      "-157.8612911"
+    ],
+    "lat": "21.308945",
+    "lon": "-157.8613411",
+    "display_name": "Downtown, Chinatown, Honolulu, Honolulu County, Hawaii, 96850, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.41673028276881
+  },
+  {
+    "place_id": "160734389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4018451",
+    "boundingbox": [
+      "40.433983",
+      "40.4471118",
+      "-80.0132623",
+      "-79.9849873"
+    ],
+    "lat": "40.4404399",
+    "lon": "-80.0058065",
+    "display_name": "Downtown, PGH, Allegheny County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3642217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "370462905",
+    "boundingbox": [
+      "49.8745569",
+      "49.9145569",
+      "-97.1601094",
+      "-97.1201094"
+    ],
+    "lat": "49.8945569",
+    "lon": "-97.1401094",
+    "display_name": "Downtown, Fort Rouge\u2013East Fort Garry, Winnipeg, Manitoba, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23740272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2331554150",
+    "boundingbox": [
+      "43.6384418",
+      "43.6784418",
+      "-70.2784298",
+      "-70.2384298"
+    ],
+    "lat": "43.6584418",
+    "lon": "-70.2584298",
+    "display_name": "Downtown, Cumberland County, Maine, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50377890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3736867761",
+    "boundingbox": [
+      "49.263393",
+      "49.303393",
+      "-123.1374562",
+      "-123.0974562"
+    ],
+    "lat": "49.283393",
+    "lon": "-123.1174562",
+    "display_name": "Downtown, Vancouver, Greater Vancouver Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "37874151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2877242682",
+    "boundingbox": [
+      "41.0621071",
+      "41.1021071",
+      "-81.5375239",
+      "-81.4975239"
+    ],
+    "lat": "41.0821071",
+    "lon": "-81.5175239",
+    "display_name": "Downtown, Akron, Summit County, Ohio, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160652306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3431131",
+    "boundingbox": [
+      "48.4198901",
+      "48.4319421",
+      "-123.3713945",
+      "-123.3602099"
+    ],
+    "lat": "48.42594525",
+    "lon": "-123.365690203721",
+    "display_name": "Downtown, Victoria, Capital Regional District, British Columbia, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "24370971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2375023414",
+    "boundingbox": [
+      "10.6311474",
+      "10.6711474",
+      "-61.530901",
+      "-61.490901"
+    ],
+    "lat": "10.6511474",
+    "lon": "-61.510901",
+    "display_name": "Downtown, Port of Spain, Trinidad and Tobago",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160297826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "214665",
+    "boundingbox": [
+      "40.5686476",
+      "55.4804002",
+      "46.492161",
+      "87.3156316"
+    ],
+    "lat": "47.2286086",
+    "lon": "65.2093197",
+    "display_name": "\u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76640029043361,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "21201087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117754215",
+    "boundingbox": [
+      "15.2042359",
+      "15.2043359",
+      "120.7086412",
+      "120.7087412"
+    ],
+    "lat": "15.2042859",
+    "lon": "120.7086912",
+    "display_name": "kz, Old Trail to Mt Arayat North Peak, Baluga Village, Pampanga, Central Luzon, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "56432335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4389995655",
+    "boundingbox": [
+      "23.7191945",
+      "23.7192945",
+      "90.4162811",
+      "90.4163811"
+    ],
+    "lat": "23.7192445",
+    "lon": "90.4163311",
+    "display_name": "KZ, Rankin Street, Gopibag, Hatkhola, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1203, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "40882336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2998255856",
+    "boundingbox": [
+      "50.9191982",
+      "50.9192982",
+      "13.3561413",
+      "13.3562413"
+    ],
+    "lat": "50.9192482",
+    "lon": "13.3561913",
+    "display_name": "KZ, Himmelfahrtsgasse, Himmelfahrter Revier, Freiberg Ost, Freiberg, Landkreis Mittelsachsen, Sachsen, 09599, Deutschland",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "899211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "282173831",
+    "boundingbox": [
+      "46.3375474",
+      "46.3376474",
+      "13.5515444",
+      "13.5516444"
+    ],
+    "lat": "46.3375974",
+    "lon": "13.5515944",
+    "display_name": "KZ, Trg golobarskih \u017ertev, Bovec, Gori\u0161ka, 5230, Slovenija",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "22593125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2239384291",
+    "boundingbox": [
+      "42.3193604",
+      "42.3194604",
+      "69.6290839",
+      "69.6291839"
+    ],
+    "lat": "42.3194104",
+    "lon": "69.6291339",
+    "display_name": "KZ, \u0443\u043b\u0438\u0446\u0430 \u0422\u043e\u0440\u0435\u043a\u0443\u043b\u043e\u0432\u0430, \u0428\u044b\u043c\u043a\u0435\u043d\u0442, \u0428\u044b\u043c\u043a\u0435\u043d\u0442 \u0413.\u0410., \u042e\u0436\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 160009, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "151240636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "397757660",
+    "boundingbox": [
+      "46.48493",
+      "46.4851912",
+      "15.9705592",
+      "15.970872"
+    ],
+    "lat": "46.48505995",
+    "lon": "15.9707162688031",
+    "display_name": "KZ, 9a, Jur\u0161inci, Podravska, 2256, Slovenija",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51750438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3884836973",
+    "boundingbox": [
+      "45.8066435",
+      "45.8067435",
+      "9.2201435",
+      "9.2202435"
+    ],
+    "lat": "45.8066935",
+    "lon": "9.2201935",
+    "display_name": "KZ, 34, Via Cesare Battisti, Lo Zoccolo, Erba, CO, LOM, 22036, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "148740443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383359002",
+    "boundingbox": [
+      "51.2908291",
+      "51.2910175",
+      "4.7013221",
+      "4.7016615"
+    ],
+    "lat": "51.2909233",
+    "lon": "4.70149180409357",
+    "display_name": "KZ, 87, Zoerselbaan, Westmalle, Malle, Antwerpen, Vlaanderen, 2390, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "23169978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2294097746",
+    "boundingbox": [
+      "52.3183094",
+      "52.3184094",
+      "12.7374019",
+      "12.7375019"
+    ],
+    "lat": "52.3183594",
+    "lon": "12.7374519",
+    "display_name": "KZ, Kaltenhausen, Lehnin, Kloster Lehnin, Landkreis Potsdam-Mittelmark, Brandenburg, 14797, Deutschland",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  }
+]

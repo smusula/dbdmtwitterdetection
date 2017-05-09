@@ -1,0 +1,149 @@
+[
+  {
+    "place_id": "48756307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3584005077",
+    "boundingbox": [
+      "48.8833215",
+      "48.8834215",
+      "2.3022431",
+      "2.3023431"
+    ],
+    "lat": "48.8833715",
+    "lon": "2.3022931",
+    "display_name": "Facebook France, 108-112, Avenue de Wagram, Plaine-Monceau, 17e, Paris, \u00cele-de-France, 75017, France",
+    "class": "office",
+    "type": "company;research",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50460296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3763350319",
+    "boundingbox": [
+      "51.5256252",
+      "51.5257252",
+      "-0.1398332",
+      "-0.1397332"
+    ],
+    "lat": "51.5256752",
+    "lon": "-0.1397832",
+    "display_name": "Facebook, 10, Brock Street, Somers Town, London Borough of Camden, London, Greater London, England, NW1 3FG, UK",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48044708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3479423301",
+    "boundingbox": [
+      "27.7094084",
+      "27.7095084",
+      "85.3145495",
+      "85.3146495"
+    ],
+    "lat": "27.7094584",
+    "lon": "85.3145995",
+    "display_name": "Facebook, Kanti Path, Kamalachi, Baghbazaar, Kathmandu, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, Ward no 30, \u0928\u0947\u092a\u093e\u0932",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "116278747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222483199",
+    "boundingbox": [
+      "65.616928",
+      "65.6177472",
+      "22.1183239",
+      "22.1204273"
+    ],
+    "lat": "65.61733765",
+    "lon": "22.119375588329",
+    "display_name": "Facebook, Datav\u00e4gen, Tuna, Mj\u00f6lkudden, Lule\u00e5, Norrbotten, Norrbottens l\u00e4n, Norrland, 97342, Sverige",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144458322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362919857",
+    "boundingbox": [
+      "-6.8103066",
+      "-6.8101718",
+      "39.2297861",
+      "39.2299654"
+    ],
+    "lat": "-6.81025135",
+    "lon": "39.2298810424913",
+    "display_name": "Facebook, Banda Road, Jitegemee, Mabibo, Dar es Salaam, Coastal, 21493, Tanzania",
+    "class": "amenity",
+    "type": "parking_space",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40280635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2963757515",
+    "boundingbox": [
+      "17.4367254",
+      "17.4368254",
+      "78.3840415",
+      "78.3841415"
+    ],
+    "lat": "17.4367754",
+    "lon": "78.3840915",
+    "display_name": "Facebook, Raheja Mindspace, Inorbit Mall Road, Kavuri Hills, Madhapur, Hyderabad, Medak, Telangana, 500081, India",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44895901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3204219079",
+    "boundingbox": [
+      "5.3022359",
+      "5.3023359",
+      "-3.9794882",
+      "-3.9793882"
+    ],
+    "lat": "5.3022859",
+    "lon": "-3.9794382",
+    "display_name": "Facebook, Rue F118, Cit\u00e9 Hibiscus, Zone\u00a04, Marcory, Abidjan, 11, C\u00f4te d\u2019Ivoire",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2610782053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4514644005",
+    "boundingbox": [
+      "8.422418",
+      "8.422518",
+      "-9.7528368",
+      "-9.7527368"
+    ],
+    "lat": "8.422468",
+    "lon": "-9.7527868",
+    "display_name": "Facebook, Mr. W. M. K. Bazzie's Village, Guworma, Voinjama, Lofa County, Liberia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

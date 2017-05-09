@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "26667820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2531909257",
+    "boundingbox": [
+      "41.5610875",
+      "41.6010875",
+      "1.4136301",
+      "1.4536301"
+    ],
+    "lat": "41.5810875",
+    "lon": "1.4336301",
+    "display_name": "Contrast, Anoia, BCN, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653572716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246113268",
+    "boundingbox": [
+      "41.5807391",
+      "41.5814767",
+      "1.4328696",
+      "1.4344379"
+    ],
+    "lat": "41.5811201",
+    "lon": "1.43356173143441",
+    "display_name": "CONTRAST, Cal Manel, Argen\u00e7ola, Anoia, BCN, CAT, Espa\u00f1a",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "14282072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1300487494",
+    "boundingbox": [
+      "48.1281706",
+      "48.1282706",
+      "11.6005953",
+      "11.6006953"
+    ],
+    "lat": "48.1282206",
+    "lon": "11.6006453",
+    "display_name": "contrast, 36, Wei\u00dfenburger Stra\u00dfe, Bezirksteil Haidhausen S\u00fcd, Stadtbezirk 05 Au-Haidhausen, M\u00fcnchen, OB, Bayern, 81667, Deutschland",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "52350853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3950816257",
+    "boundingbox": [
+      "49.4501489",
+      "49.4502489",
+      "11.0532402",
+      "11.0533402"
+    ],
+    "lat": "49.4501989",
+    "lon": "11.0532902",
+    "display_name": "contrast, 6, Adam-Klein-Stra\u00dfe, Gostenhof, N\u00fcrnberg, Mittelfranken, Bayern, 90429, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "14757497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1322657395",
+    "boundingbox": [
+      "49.4487722",
+      "49.4488722",
+      "11.0854516",
+      "11.0855516"
+    ],
+    "lat": "49.4488222",
+    "lon": "11.0855016",
+    "display_name": "contrast, 8, Marienstra\u00dfe, Tafelhof, N\u00fcrnberg, Mittelfranken, Bayern, 90402, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "18295214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1763570911",
+    "boundingbox": [
+      "52.0883054",
+      "52.0884054",
+      "5.1215467",
+      "5.1216467"
+    ],
+    "lat": "52.0883554",
+    "lon": "5.1215967",
+    "display_name": "Contrast, 220A, Oudegracht aan de Werf, Lombok, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3511NT, Nederland",
+    "class": "office",
+    "type": "art_dealer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16347024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1497171824",
+    "boundingbox": [
+      "55.687422",
+      "55.687522",
+      "12.59068",
+      "12.59078"
+    ],
+    "lat": "55.687472",
+    "lon": "12.59073",
+    "display_name": "Contrast, Esplanaden, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1266, Danmark",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "12953718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1209368840",
+    "boundingbox": [
+      "51.0572428",
+      "51.0573428",
+      "3.7244118",
+      "3.7245118"
+    ],
+    "lat": "51.0572928",
+    "lon": "3.7244618",
+    "display_name": "Contrast, 5, Grootkanonplein, Patershol, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "133359738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "302869343",
+    "boundingbox": [
+      "43.7166515",
+      "43.7167288",
+      "10.4067279",
+      "10.4069926"
+    ],
+    "lat": "43.7166813",
+    "lon": "10.406867674359",
+    "display_name": "CONTRAST, 5;7, Via Ettore Sighieri, San Francesco, Pisa, PI, TOS, 56127, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47059540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3388071454",
+    "boundingbox": [
+      "41.983585",
+      "41.983685",
+      "2.8231311",
+      "2.8232311"
+    ],
+    "lat": "41.983635",
+    "lon": "2.8231811",
+    "display_name": "Contrast, Carrer de Santa Clara, el Mercadal, GRN, Girona, CAT, 17004, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

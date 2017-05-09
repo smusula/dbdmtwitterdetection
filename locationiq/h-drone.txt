@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "419399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153838190",
+    "boundingbox": [
+      "33.0354285",
+      "33.0754285",
+      "-82.1787321",
+      "-82.1387321"
+    ],
+    "lat": "33.0554285",
+    "lon": "-82.1587321",
+    "display_name": "Drone, Burke County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160880481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5465176",
+    "boundingbox": [
+      "54.4255385",
+      "54.4357787",
+      "-6.9955013",
+      "-6.97823"
+    ],
+    "lat": "54.4305924",
+    "lon": "-6.98775778891653",
+    "display_name": "Drone, Aughnacloy, County Tyrone, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "48767634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3585723399",
+    "boundingbox": [
+      "46.2406",
+      "46.2806",
+      "7.3472415",
+      "7.3872415"
+    ],
+    "lat": "46.2606",
+    "lon": "7.3672415",
+    "display_name": "Dr\u00f4ne, Sion, Valais - Wallis, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16724496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1584391960",
+    "boundingbox": [
+      "55.6971917",
+      "55.6972917",
+      "12.5445662",
+      "12.5446662"
+    ],
+    "lat": "55.6972417",
+    "lon": "12.5446162",
+    "display_name": "DRONE, 184, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "140234280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "335317685",
+    "boundingbox": [
+      "30.5272832",
+      "30.5273596",
+      "114.0802155",
+      "114.0803089"
+    ],
+    "lat": "30.5273234",
+    "lon": "114.080263436518",
+    "display_name": "Drone, \u5357\u6e56\u5927\u6865, \u6587\u5cad\u529e\u4e8b\u5904, \u8521\u7538\u533a (Caidian), \u6b66\u6c49\u5e02 / Wuhan, \u6e56\u5317\u7701, 430101, \u4e2d\u56fd",
+    "class": "aeroway",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15063416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1366692286",
+    "boundingbox": [
+      "46.2610486",
+      "46.2611486",
+      "7.3670228",
+      "7.3671228"
+    ],
+    "lat": "46.2610986",
+    "lon": "7.3670728",
+    "display_name": "Dr\u00f4ne, Chemin du Cr\u00eatelet, Savi\u00e8se, Sion, Valais - Wallis, 1965, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  }
+]

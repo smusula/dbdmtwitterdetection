@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "79054820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58640869",
+    "boundingbox": [
+      "51.4571445",
+      "51.4572323",
+      "-0.0677971",
+      "-0.0676135"
+    ],
+    "lat": "51.4571885",
+    "lon": "-0.0677053035976043",
+    "display_name": "Homemade, 44, Barry Road, East Dulwich, London Borough of Southwark, London, Greater London, England, SE22 0HU, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "19292293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1905981083",
+    "boundingbox": [
+      "52.5107231",
+      "52.5108231",
+      "13.4563098",
+      "13.4564098"
+    ],
+    "lat": "52.5107731",
+    "lon": "13.4563598",
+    "display_name": "Homemade, 10, Simon-Dach-Stra\u00dfe, Fhain, Friedrichshain-Kreuzberg, Berlin, 10245, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "23167881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2296747918",
+    "boundingbox": [
+      "52.9535309",
+      "52.9536309",
+      "-1.1467043",
+      "-1.1466043"
+    ],
+    "lat": "52.9535809",
+    "lon": "-1.1466543",
+    "display_name": "Homemade, 20, Pelham Street, Lace Market, St Ann's, City of Nottingham, East Midlands, England, NG1 2EG, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2651157160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2778797429",
+    "boundingbox": [
+      "53.1499565",
+      "53.1500565",
+      "6.4469799",
+      "6.4470799"
+    ],
+    "lat": "53.1500065",
+    "lon": "6.4470299",
+    "display_name": "HomeMade, 23, Dwazziewegen, Roden, Noordenveld, Drenthe, Nederland, 9301ZR, Nederland",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158529891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437237678",
+    "boundingbox": [
+      "13.8965784",
+      "13.8973068",
+      "101.6002427",
+      "101.6008647"
+    ],
+    "lat": "13.8969426",
+    "lon": "101.6005537",
+    "display_name": "HomeMade, 304, \u0e27\u0e31\u0e07\u0e19\u0e49\u0e33\u0e40\u0e02\u0e35\u0e22\u0e27, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e1b\u0e23\u0e32\u0e08\u0e35\u0e19\u0e1a\u0e38\u0e23\u0e35, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  }
+]

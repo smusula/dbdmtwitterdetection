@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "77881733",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51982231",
+    "boundingbox": [
+      "51.798867",
+      "51.8007931",
+      "6.4155379",
+      "6.4213522"
+    ],
+    "lat": "51.79978385",
+    "lon": "6.41844032974555",
+    "display_name": "Wwe.Th.H\u00f6velmann Spedition, Rees, Kreis Kleve, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 46459, Deutschland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2647084470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4568541330",
+    "boundingbox": [
+      "52.3938389",
+      "52.3939389",
+      "22.0085611",
+      "22.0086611"
+    ],
+    "lat": "52.3938889",
+    "lon": "22.0086111",
+    "display_name": "WWE 01, Berka Joselewicza, B\u0142onie, W\u0119gr\u00f3w, powiat w\u0119growski, mazowieckie, 07-100, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "72456679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32319696",
+    "boundingbox": [
+      "48.7099349",
+      "48.7107433",
+      "9.5725781",
+      "9.5735586"
+    ],
+    "lat": "48.710327",
+    "lon": "9.57300157729514",
+    "display_name": "Wackler Wwe.Nachf.GmbH, 139, Stuttgarter Stra\u00dfe, Holzhausen, Uhingen, Vereinbarte Verwaltungsgemeinschaft der Stadt Uhingen, Landkreis G\u00f6ppingen, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 73066, Deutschland",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  },
+  {
+    "place_id": "108711618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "190713189",
+    "boundingbox": [
+      "51.7996496",
+      "51.8006643",
+      "6.4195739",
+      "6.4211871"
+    ],
+    "lat": "51.8001654",
+    "lon": "6.42037559233893",
+    "display_name": "Wwe.Th.H\u00f6velmann GmbH & Co. KG, Schwarzer Weg, Rees, Kreis Kleve, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 46459, Deutschland",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27224852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081378",
+    "boundingbox": [
+      "52.5241898",
+      "52.5242898",
+      "21.6898634",
+      "21.6899634"
+    ],
+    "lat": "52.5242398",
+    "lon": "21.6899134",
+    "display_name": "WWE 5, aleja W\u0119growska, \u0141och\u00f3w-Wie\u015b, \u0141och\u00f3w, gmina \u0141och\u00f3w, powiat w\u0119growski, mazowieckie, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27267921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081417",
+    "boundingbox": [
+      "52.6355056",
+      "52.6356056",
+      "21.8482833",
+      "21.8483833"
+    ],
+    "lat": "52.6355556",
+    "lon": "21.8483333",
+    "display_name": "WWE 7, Jana Kili\u0144skiego, Zieleniec, Sadowne, gmina Sadowne, powiat w\u0119growski, mazowieckie, 07-140, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27092755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081157",
+    "boundingbox": [
+      "52.4110611",
+      "52.4111611",
+      "21.8532833",
+      "21.8533833"
+    ],
+    "lat": "52.4111111",
+    "lon": "21.8533333",
+    "display_name": "WWE 3, Szkolna, Kietlanka, Korytnica, gmina Korytnica, powiat w\u0119growski, mazowieckie, 07-120, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27267870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081255",
+    "boundingbox": [
+      "52.4571722",
+      "52.4572722",
+      "21.9538389",
+      "21.9539389"
+    ],
+    "lat": "52.4572222",
+    "lon": "21.9538889",
+    "display_name": "WWE 4a, Szkolna, Nowa To\u0144cza, gmina Liw, powiat w\u0119growski, mazowieckie, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27224860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081390",
+    "boundingbox": [
+      "52.54245",
+      "52.54255",
+      "21.9118944",
+      "21.9119944"
+    ],
+    "lat": "52.5425",
+    "lon": "21.9119444",
+    "display_name": "WWE 8, Ogrodowa, Lubierz-Le\u015bnicz\u00f3wka, Stoczek, gmina Stoczek, powiat w\u0119growski, mazowieckie, 07-104, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27494842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584081167",
+    "boundingbox": [
+      "52.4218944",
+      "52.4219944",
+      "22.0916167",
+      "22.0917167"
+    ],
+    "lat": "52.4219444",
+    "lon": "22.0916667",
+    "display_name": "WWE 4, 62, D\u0105browa, gmina Soko\u0142\u00f3w Podlaski, powiat soko\u0142owski, mazowieckie, 08-300, Polska",
+    "class": "emergency",
+    "type": "landing_site",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160404606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1344500",
+    "boundingbox": [
+      "5.5030656",
+      "5.6512623",
+      "-73.2482386",
+      "-73.0799257"
+    ],
+    "lat": "5.5771231",
+    "lon": "-73.1684499204949",
+    "display_name": "Toca, Boyac\u00e1, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48173948152676,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4067455",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "426329491",
+    "boundingbox": [
+      "5.5252133",
+      "5.6052133",
+      "-73.2245176",
+      "-73.1445176"
+    ],
+    "lat": "5.5652133",
+    "lon": "-73.1845176",
+    "display_name": "Toca, Boyac\u00e1, Colombia",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "16739230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1549515531",
+    "boundingbox": [
+      "42.7011492",
+      "42.7411492",
+      "-7.2928601",
+      "-7.2528601"
+    ],
+    "lat": "42.7211492",
+    "lon": "-7.2728601",
+    "display_name": "Toca, Lugo, Galicia, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "393605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153412519",
+    "boundingbox": [
+      "29.8465946",
+      "29.8865946",
+      "-89.8564528",
+      "-89.8164528"
+    ],
+    "lat": "29.8665946",
+    "lon": "-89.8364528",
+    "display_name": "Toca, Saint Bernard Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48278676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3548174249",
+    "boundingbox": [
+      "-22.3202905",
+      "-22.2802905",
+      "-45.2154461",
+      "-45.1754461"
+    ],
+    "lat": "-22.3002905",
+    "lon": "-45.1954461",
+    "display_name": "Pintos Negreiros, Toca, Microrregi\u00e3o de Itajub\u00e1, Mesorregi\u00e3o Sul/Sudoeste de Minas, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51975188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3902820530",
+    "boundingbox": [
+      "-27.0785708",
+      "-27.0385708",
+      "-48.6807632",
+      "-48.6407632"
+    ],
+    "lat": "-27.0585708",
+    "lon": "-48.6607632",
+    "display_name": "Toca, Microrregi\u00e3o de Itaja\u00ed, Mesorregi\u00e3o do Vale do Itaja\u00ed, SC, Regi\u00e3o Sul, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49174821",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3643522634",
+    "boundingbox": [
+      "-23.1569498",
+      "-23.1169498",
+      "-46.847624",
+      "-46.807624"
+    ],
+    "lat": "-23.1369498",
+    "lon": "-46.827624",
+    "display_name": "Toca, Jundia\u00ed, Microrregi\u00e3o de Jundia\u00ed, Mesorregi\u00e3o Macro Metropolitana Paulista, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13268373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242415571",
+    "boundingbox": [
+      "42.6586191",
+      "42.6786191",
+      "-4.0549858",
+      "-4.0349858"
+    ],
+    "lat": "42.6686191",
+    "lon": "-4.0449858",
+    "display_name": "La Toca, Humada, P\u00e1ramos, Burgos, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23142577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2293609224",
+    "boundingbox": [
+      "-20.2463363",
+      "-20.2063363",
+      "-44.1449812",
+      "-44.1049812"
+    ],
+    "lat": "-20.2263363",
+    "lon": "-44.1249812",
+    "display_name": "Toca, Brumadinho, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13390325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242585636",
+    "boundingbox": [
+      "41.3455377",
+      "41.3655377",
+      "-4.5518296",
+      "-4.5318296"
+    ],
+    "lat": "41.3555377",
+    "lon": "-4.5418296",
+    "display_name": "La Toca, \u00cdscar, Valladolid, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

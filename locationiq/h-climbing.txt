@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "48698300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3574339293",
+    "boundingbox": [
+      "44.1630064",
+      "44.1631064",
+      "8.3232493",
+      "8.3233493"
+    ],
+    "lat": "44.1630564",
+    "lon": "8.3232993",
+    "display_name": "climbing, Strada Napoleonica, Poggio, Borgio Verezzi, SV, LIG, 17027, Italia",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "56798385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4425581367",
+    "boundingbox": [
+      "51.5624553",
+      "51.5625553",
+      "-0.0500892",
+      "-0.0499892"
+    ],
+    "lat": "51.5625053",
+    "lon": "-0.0500392",
+    "display_name": "Climbing, Southwold Road, Lower Clapton, London Borough of Hackney, London, Greater London, England, E5 9PB, UK",
+    "class": "leisure",
+    "type": "fitness_station",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648192533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4594155559",
+    "boundingbox": [
+      "46.2910938",
+      "46.2911938",
+      "11.4699679",
+      "11.4700679"
+    ],
+    "lat": "46.2911438",
+    "lon": "11.4700179",
+    "display_name": "Climbing, Strada Statale delle Dolomiti, Cavalese, Comunit\u00e0 territoriale della Val di Fiemme, TN, TAA, 38033, Italia",
+    "class": "natural",
+    "type": "cliff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648192573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95143233",
+    "boundingbox": [
+      "46.291167",
+      "46.2912111",
+      "11.4696506",
+      "11.4702993"
+    ],
+    "lat": "46.291167",
+    "lon": "11.4700441",
+    "display_name": "Climbing, Strada Statale delle Dolomiti, Cavalese, Comunit\u00e0 territoriale della Val di Fiemme, TN, TAA, 38033, Italia",
+    "class": "natural",
+    "type": "cliff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648192567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464281319",
+    "boundingbox": [
+      "46.2917031",
+      "46.2918143",
+      "11.4661674",
+      "11.4665483"
+    ],
+    "lat": "46.2918143",
+    "lon": "11.4661674",
+    "display_name": "Climbing, Passeggiata Montebello, Cavalese, Comunit\u00e0 territoriale della Val di Fiemme, TN, TAA, 38033, Italia",
+    "class": "natural",
+    "type": "cliff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648129369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4592769329",
+    "boundingbox": [
+      "46.291677",
+      "46.291777",
+      "11.4662509",
+      "11.4663509"
+    ],
+    "lat": "46.291727",
+    "lon": "11.4663009",
+    "display_name": "Climbing, Passeggiata Montebello, Cavalese, Comunit\u00e0 territoriale della Val di Fiemme, TN, TAA, 38033, Italia",
+    "class": "natural",
+    "type": "cliff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "153941121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412967843",
+    "boundingbox": [
+      "42.4992529",
+      "42.499464",
+      "-71.2650764",
+      "-71.2649094"
+    ],
+    "lat": "42.49935675",
+    "lon": "-71.2650006079208",
+    "display_name": "Climbing, Springs Brook Park Trail, Bedford, Middlesex County, Massachusetts, 01730, United States of America",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44051196",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3129427062",
+    "boundingbox": [
+      "39.6244047",
+      "39.6245047",
+      "-79.8370017",
+      "-79.8369017"
+    ],
+    "lat": "39.6244547",
+    "lon": "-79.8369517",
+    "display_name": "Climbing, Ridge Trail, Tyrone, Monongalia County, West Virginia, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "56724560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4430900993",
+    "boundingbox": [
+      "44.3351416",
+      "44.3352416",
+      "16.8951046",
+      "16.8952046"
+    ],
+    "lat": "44.3351916",
+    "lon": "16.8951546",
+    "display_name": "Climbing, M-15, Donja Podgorja, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041c\u0440\u043a\u043e\u045a\u0438\u045b \u0413\u0440\u0430\u0434 / Op\u0161tina Mrkonji\u0107 Grad, Republika Srpska, Bosna i Hercegovina",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "47600040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3456896904",
+    "boundingbox": [
+      "41.3552923",
+      "41.3553923",
+      "69.3433045",
+      "69.3434045"
+    ],
+    "lat": "41.3553423",
+    "lon": "69.3433545",
+    "display_name": "\u0421\u043a\u0430\u043b\u043e\u0434\u0440\u043e\u043c, 66, \u0443\u043b\u0438\u0446\u0430 \u041d\u0435\u044a\u043c\u0430\u0442\u0430, Mirzo Ulug\u2018bek Tumani, Toshkent, 100000, O\u02bbzbekiston",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

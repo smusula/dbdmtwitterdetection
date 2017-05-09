@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "6227822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "648531080",
+    "boundingbox": [
+      "45.2339613",
+      "45.2739613",
+      "5.9311886",
+      "5.9711886"
+    ],
+    "lat": "45.2539613",
+    "lon": "5.9511886",
+    "display_name": "Le Carnival, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63409852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14301454",
+    "boundingbox": [
+      "36.04446",
+      "36.044505",
+      "-115.1440269",
+      "-115.1411789"
+    ],
+    "lat": "36.04446",
+    "lon": "-115.1440269",
+    "display_name": "Carnival, Paradise, Clark County, Nevada, 89123, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "132605494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "299176144",
+    "boundingbox": [
+      "44.6334349",
+      "44.6354992",
+      "-123.3424993",
+      "-123.3414786"
+    ],
+    "lat": "44.634602",
+    "lon": "-123.3420204",
+    "display_name": "Carnival, Benton County, Oregon, 97330, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2653447579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4717614090",
+    "boundingbox": [
+      "34.756949",
+      "34.757049",
+      "135.4957039",
+      "135.4958039"
+    ],
+    "lat": "34.756999",
+    "lon": "135.4957539",
+    "display_name": "carnival, \u56fd\u9053479\u53f7\u7dda, \u5439\u7530\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 564-0053, \u65e5\u672c",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.111
+  },
+  {
+    "place_id": "41031082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2990422065",
+    "boundingbox": [
+      "9.7856336",
+      "9.7857336",
+      "76.4528394",
+      "76.4529394"
+    ],
+    "lat": "9.7856836",
+    "lon": "76.4528894",
+    "display_name": "carnival, Thalayolaparambu - Peruva - Koothattukulam Road, Peruva, Kottayam, Kerala, India",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "27953778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2613107611",
+    "boundingbox": [
+      "47.0647784",
+      "47.0648784",
+      "21.937532",
+      "21.937632"
+    ],
+    "lat": "47.0648284",
+    "lon": "21.937582",
+    "display_name": "Carnival, 55A, Strada Republicii, Ora\u0219ul Nou, Oradea, Bihor, 410167, Rom\u00e2nia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "20501338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2049615732",
+    "boundingbox": [
+      "6.9104245",
+      "6.9105245",
+      "79.849999",
+      "79.850099"
+    ],
+    "lat": "6.9104745",
+    "lon": "79.850049",
+    "display_name": "Carnival, Galle Road, Liberty Circle, Kollupitiya, Colombo, \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba, Western Province, 00300, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "142372970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "347940244",
+    "boundingbox": [
+      "34.9793592",
+      "34.9795309",
+      "135.7001725",
+      "135.7002155"
+    ],
+    "lat": "34.9794451",
+    "lon": "135.700194000757",
+    "display_name": "Carnival, \u4eac\u90fd\u5e9c\u9053142\u53f7\u6c93\u639b\u897f\u5927\u8def\u4e94\u6761\u7dda, \u897f\u4eac\u533a, \u4eac\u90fd\u5e02, \u4e0e\u8b1d\u90e1, \u4eac\u90fd\u5e9c, 6158281, \u65e5\u672c",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "131385883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293513368",
+    "boundingbox": [
+      "34.9311404",
+      "34.9312199",
+      "135.7237811",
+      "135.7241768"
+    ],
+    "lat": "34.9311696",
+    "lon": "135.723979172096",
+    "display_name": "Carnival, \u4eac\u90fd\u5e9c\u9053203\u53f7\u5fd7\u6c34\u897f\u5411\u65e5\u505c\u8eca\u5834\u7dda, \u4f0f\u898b\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6170006, \u65e5\u672c",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48118620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3531508747",
+    "boundingbox": [
+      "0.3453921",
+      "0.3454921",
+      "32.6103226",
+      "32.6104226"
+    ],
+    "lat": "0.3454421",
+    "lon": "32.6103726",
+    "display_name": "Carnival, Lower Naguru East Road, Kabira, Naguru, Kampala, Central Region, 24144, Uganda",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

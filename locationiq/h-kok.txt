@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "3812768",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "415525373",
+    "boundingbox": [
+      "63.7046488",
+      "63.7346488",
+      "23.1257646",
+      "23.1557646"
+    ],
+    "lat": "63.7196488",
+    "lon": "23.1407646",
+    "display_name": "Kokkola-Pietarsaaren lentoasema, Lent\u00e4j\u00e4ntie, Kronoby, Pietarsaaren seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, Suomi",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.40054222624232,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "16695633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1554850712",
+    "boundingbox": [
+      "46.6606167",
+      "46.6607167",
+      "13.4659778",
+      "13.4660778"
+    ],
+    "lat": "46.6606667",
+    "lon": "13.4660278",
+    "display_name": "Kok, Gemeinde Sankt Stefan im Gailtal, Hermagor, K\u00e4rnten, \u00d6sterreich",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160298463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "228028",
+    "boundingbox": [
+      "19.9120686",
+      "20.5512649",
+      "99.2574816",
+      "100.1440934"
+    ],
+    "lat": "20.0244536",
+    "lon": "99.5981832",
+    "display_name": "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e01\u0e01, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e23\u0e32\u0e22, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.35
+  },
+  {
+    "place_id": "12060550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1150925220",
+    "boundingbox": [
+      "11.1240145",
+      "11.1440145",
+      "38.631061",
+      "38.651061"
+    ],
+    "lat": "11.1340145",
+    "lon": "38.641061",
+    "display_name": "Kok, South Wollo, \u12a0\u121b\u122b, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "91590239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120393670",
+    "boundingbox": [
+      "52.0636669",
+      "52.1434949",
+      "87.9631191",
+      "88.0176846"
+    ],
+    "lat": "52.1037607",
+    "lon": "87.9937977",
+    "display_name": "\u041a\u043e\u043a, \u0411\u0438\u0439\u043a\u0438\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0422\u0443\u0440\u043e\u0447\u0430\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0410\u043b\u0442\u0430\u0439, \u0421\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "121524411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243159223",
+    "boundingbox": [
+      "20.0578515",
+      "20.0592875",
+      "99.4336168",
+      "99.4391385"
+    ],
+    "lat": "20.0589973",
+    "lon": "99.4358336",
+    "display_name": "\u0e41\u0e21\u0e48\u0e19\u0e49\u0e33\u0e01\u0e01, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "16609553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1554850711",
+    "boundingbox": [
+      "46.5496499",
+      "46.5497499",
+      "13.4428361",
+      "13.4429361"
+    ],
+    "lat": "46.5496999",
+    "lon": "13.4428861",
+    "display_name": "Monte Cocco, Malborghetto Valbruna, UD, FVG, Italia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "13018105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1233725976",
+    "boundingbox": [
+      "47.7824843",
+      "47.8224843",
+      "12.6904887",
+      "12.7304887"
+    ],
+    "lat": "47.8024843",
+    "lon": "12.7104887",
+    "display_name": "K\u00f6k, Bayern, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652765457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4701953057",
+    "boundingbox": [
+      "16.8656661",
+      "16.9056661",
+      "106.4391642",
+      "106.4791642"
+    ],
+    "lat": "16.8856661",
+    "lon": "106.4591642",
+    "display_name": "dJvd, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0ec0\u0e8a\u0ec2\u0e9b\u0e99, \u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5849048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "600408407",
+    "boundingbox": [
+      "14.5486569",
+      "14.5686569",
+      "-60.898498",
+      "-60.878498"
+    ],
+    "lat": "14.5586569",
+    "lon": "-60.888498",
+    "display_name": "Coq, Le Vauclin, Le Marin, Martinique, 97280, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

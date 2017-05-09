@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "131552485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294341965",
+    "boundingbox": [
+      "54.623306",
+      "54.6234134",
+      "-3.5653656",
+      "-3.5651767"
+    ],
+    "lat": "54.6233635",
+    "lon": "-3.56526863745584",
+    "display_name": "Sunnies Takeaway, Salterbeck Terrace, Workington, Salterbeck, Allerdale, Cumbria, North West England, England, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49437985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3676669697",
+    "boundingbox": [
+      "14.5509913",
+      "14.5510913",
+      "121.0503906",
+      "121.0504906"
+    ],
+    "lat": "14.5510413",
+    "lon": "121.0504406",
+    "display_name": "Sunnies Cafe (u.c.), 9th Avenue, Bonifacio High Street, Fort Bonifacio, Taguig, Metro Manila, 1634, Philippines",
+    "class": "shop",
+    "type": "vacant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "128057260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "275133698",
+    "boundingbox": [
+      "51.4682346",
+      "51.4683819",
+      "-2.5744655",
+      "-2.5741782"
+    ],
+    "lat": "51.4683237",
+    "lon": "-2.57430701596011",
+    "display_name": "Sunnis Food & Wines, 46, Mina Road, St Werburgh's, Bristol, City of Bristol, South West England, England, BS2 9XJ, UK",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "16544922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1542869887",
+    "boundingbox": [
+      "46.8666477",
+      "46.8667477",
+      "8.2379145",
+      "8.2380145"
+    ],
+    "lat": "46.8666977",
+    "lon": "8.2379645",
+    "display_name": "Sunnis B\u00e4ckerei, Edisriederstrasse, Sachseln, Obwalden, 6072, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "6526072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "669015862",
+    "boundingbox": [
+      "46.7824206",
+      "46.7825206",
+      "8.1520184",
+      "8.1521184"
+    ],
+    "lat": "46.7824706",
+    "lon": "8.1520684",
+    "display_name": "Sunnis B\u00e4ckerei-Konditorei, Driangelgasse, Lungern, Obwalden, 6078, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "7773994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "829497195",
+    "boundingbox": [
+      "46.7848779",
+      "46.7849779",
+      "8.1593043",
+      "8.1594043"
+    ],
+    "lat": "46.7849279",
+    "lon": "8.1593543",
+    "display_name": "Sunnis B\u00e4ckerei-Konditorei, Br\u00fcnigstrasse, Lungern, Obwalden, 6078, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "342812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151367568",
+    "boundingbox": [
+      "31.2093476",
+      "31.2493476",
+      "-96.1510731",
+      "-96.1110731"
+    ],
+    "lat": "31.2293476",
+    "lon": "-96.1310731",
+    "display_name": "Margie, Leon County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44275364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3133566432",
+    "boundingbox": [
+      "55.424562",
+      "55.444562",
+      "-111.3458818",
+      "-111.3258818"
+    ],
+    "lat": "55.434562",
+    "lon": "-111.3358818",
+    "display_name": "Margie, Alberta, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "352067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151334336",
+    "boundingbox": [
+      "48.0752308",
+      "48.1152308",
+      "-93.959916",
+      "-93.919916"
+    ],
+    "lat": "48.0952308",
+    "lon": "-93.939916",
+    "display_name": "Margie, Koochiching County, Minnesota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3187004523946,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69327156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25104785",
+    "boundingbox": [
+      "52.72837",
+      "52.73128",
+      "29.46585",
+      "29.47967"
+    ],
+    "lat": "52.72983",
+    "lon": "29.47289",
+    "display_name": "\u0415\u043b\u044c\u043d\u0438\u0447\u043a\u0438, \u0421\u0432\u0435\u0442\u043b\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31110721079729,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69349657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25097988",
+    "boundingbox": [
+      "54.6169398",
+      "54.6223917",
+      "29.8510576",
+      "29.8600391"
+    ],
+    "lat": "54.61956",
+    "lon": "29.85466",
+    "display_name": "\u041c\u0430\u0440\u0433\u0438, \u0422\u043e\u043b\u043e\u0447\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161023984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6447478",
+    "boundingbox": [
+      "55.152554",
+      "55.1567069",
+      "28.0567974",
+      "28.0637975"
+    ],
+    "lat": "55.1534846",
+    "lon": "28.0602866",
+    "display_name": "\u041c\u043e\u0440\u0433\u0438, \u0413\u043b\u0443\u0431\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "86694584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103093388",
+    "boundingbox": [
+      "54.569136",
+      "54.5714846",
+      "26.7134945",
+      "26.7189408"
+    ],
+    "lat": "54.5703837",
+    "lon": "26.7161578",
+    "display_name": "\u041c\u043e\u0440\u0433\u0438, \u0412\u0438\u043b\u0435\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69345101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25131299",
+    "boundingbox": [
+      "54.68247",
+      "54.68822",
+      "27.06842",
+      "27.08036"
+    ],
+    "lat": "54.6867212",
+    "lon": "27.0766705",
+    "display_name": "\u041c\u043e\u0440\u0433\u0438, \u041c\u044f\u0434\u0435\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69353537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25125542",
+    "boundingbox": [
+      "53.5459009",
+      "53.5503653",
+      "27.9861273",
+      "27.9933722"
+    ],
+    "lat": "53.5483656",
+    "lon": "27.9886832",
+    "display_name": "\u041c\u043e\u0440\u0433\u0438, \u041f\u0443\u0445\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2650197743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6785504",
+    "boundingbox": [
+      "55.38019",
+      "55.385",
+      "29.46962",
+      "29.48293"
+    ],
+    "lat": "55.38259",
+    "lon": "29.47606",
+    "display_name": "\u041c\u043e\u0440\u0433\u0438, \u0428\u0443\u043c\u0438\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "6912047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703470129",
+    "boundingbox": [
+      "10.3105368",
+      "10.3305368",
+      "-74.6854399",
+      "-74.6654399"
+    ],
+    "lat": "10.3205368",
+    "lon": "-74.6754399",
+    "display_name": "El Orgullo, LAS PAVITAS, El Pi\u00f1\u00f3n, Magdalena, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6752446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703316808",
+    "boundingbox": [
+      "8.7156875",
+      "8.7356875",
+      "-75.6781486",
+      "-75.6581486"
+    ],
+    "lat": "8.7256875",
+    "lon": "-75.6681486",
+    "display_name": "El Orgullo, Caser\u00edo Flecha, San Carlos, C\u00f3rdoba, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646356134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4553136043",
+    "boundingbox": [
+      "-34.8948199",
+      "-34.8947199",
+      "-57.987696",
+      "-57.987596"
+    ],
+    "lat": "-34.8947699",
+    "lon": "-57.987646",
+    "display_name": "El Orgullo, Av. 520, Tolosa, Partido de La Plata, Bs. As., 1901, Argentina",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  }
+]

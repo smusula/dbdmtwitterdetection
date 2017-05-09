@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "4811092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "535038515",
+    "boundingbox": [
+      "40.2819824",
+      "40.2919824",
+      "-80.0256393",
+      "-80.0156393"
+    ],
+    "lat": "40.2869824",
+    "lon": "-80.0206393",
+    "display_name": "Library, Brownsville Road, South Park Township, Allegheny County, Pennsylvania, 15129, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.35985522605481,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "752187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "258940057",
+    "boundingbox": [
+      "41.8718929",
+      "41.8818929",
+      "-87.6337029",
+      "-87.6237029"
+    ],
+    "lat": "41.8768929",
+    "lon": "-87.6287029",
+    "display_name": "Harold Washington Library-State/Van Buren, West Van Buren Street, Printer's Row, Chicago, Cook County, Illinois, 60604, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.31606775332943,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "37865568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2871752728",
+    "boundingbox": [
+      "33.9166943",
+      "33.9167943",
+      "-117.5700026",
+      "-117.5699026"
+    ],
+    "lat": "33.9167443",
+    "lon": "-117.5699526",
+    "display_name": "LIBR, 2001, 3rd Street, Norco, Riverside County, California, 92860, United States of America",
+    "class": "amenity",
+    "type": "library",
+    "importance": 0.30707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_library.p.20.png"
+  },
+  {
+    "place_id": "79291923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59691908",
+    "boundingbox": [
+      "51.5778862",
+      "51.5784145",
+      "-1.3120275",
+      "-1.3109429"
+    ],
+    "lat": "51.57815205",
+    "lon": "-1.31138364135982",
+    "display_name": "The Library, Harwell, Vale of White Horse, Oxon, South East, England, OX11, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "139922463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "333751496",
+    "boundingbox": [
+      "-32.2647277",
+      "-32.264608",
+      "28.5010348",
+      "28.5012949"
+    ],
+    "lat": "-32.26467535",
+    "lon": "28.5011666922421",
+    "display_name": "Library, Mbhashe Ward 25, Mbhashe Local Municipality, Amathole District Municipality, Eastern Cape, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "438280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154357188",
+    "boundingbox": [
+      "40.2697921",
+      "40.3097921",
+      "-80.0297742",
+      "-79.9897742"
+    ],
+    "lat": "40.2897921",
+    "lon": "-80.0097742",
+    "display_name": "Library, Allegheny County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.27217279423731,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59610152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8691041",
+    "boundingbox": [
+      "42.6822818",
+      "42.683746",
+      "-83.1288117",
+      "-83.128811"
+    ],
+    "lat": "42.6822818",
+    "lon": "-83.1288117",
+    "display_name": "Library, Rochester, Oakland County, Michigan, 48307, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66204988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18671643",
+    "boundingbox": [
+      "39.4414735",
+      "39.4417544",
+      "-92.5427466",
+      "-92.5423285"
+    ],
+    "lat": "39.4414735",
+    "lon": "-92.5423285",
+    "display_name": "Library, Huntsville, Randolph County, Missouri, 65259, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2648121337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464103049",
+    "boundingbox": [
+      "42.1704493",
+      "42.1722297",
+      "-83.1962245",
+      "-83.1942386"
+    ],
+    "lat": "42.1712997",
+    "lon": "-83.1952675741059",
+    "display_name": "Library, Riverview, Wayne County, Michigan, 48193, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "139384292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331240578",
+    "boundingbox": [
+      "6.0661774",
+      "6.0665976",
+      "125.1281435",
+      "125.128219"
+    ],
+    "lat": "6.0661774",
+    "lon": "125.128219",
+    "display_name": "Library, General Santos, South Cotabato, Soccsksargen, 9500, Philippines",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  }
+]

@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "273255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "66503023",
+    "boundingbox": [
+      "46.015615",
+      "46.055615",
+      "12.471111",
+      "12.511111"
+    ],
+    "lat": "46.035615",
+    "lon": "12.491111",
+    "display_name": "Coltura, PN, FVG, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51809172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3887161496",
+    "boundingbox": [
+      "40.6723054",
+      "40.6724054",
+      "-73.9835225",
+      "-73.9834225"
+    ],
+    "lat": "40.6723554",
+    "lon": "-73.9834725",
+    "display_name": "Culture, 331, 5th Avenue, Park Slope, BK, Kings County, NYC, New York, 11209, United States of America",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50780004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3793402267",
+    "boundingbox": [
+      "39.5175781",
+      "39.5176781",
+      "-119.8093175",
+      "-119.8092175"
+    ],
+    "lat": "39.5176281",
+    "lon": "-119.8092675",
+    "display_name": "Culture, 737, South Virginia Street, Midtown, Reno, Washoe County, Nevada, 89509, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "80053199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64478491",
+    "boundingbox": [
+      "47.0092309",
+      "47.009342",
+      "0.0858282",
+      "0.0859074"
+    ],
+    "lat": "47.00929415",
+    "lon": "0.0858758275",
+    "display_name": "Culture+, Rue de la Porte de Chinon, La Cocharderie, Loudun, Ch\u00e2tellerault, Vienne, Nouvelle-Aquitaine, 86200, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

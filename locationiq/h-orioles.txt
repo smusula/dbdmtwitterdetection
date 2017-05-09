@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "117400826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226399377",
+    "boundingbox": [
+      "25.5678671",
+      "25.5679809",
+      "-103.4446387",
+      "-103.4440525"
+    ],
+    "lat": "25.5678998",
+    "lon": "-103.4443679",
+    "display_name": "Orioles, Torre\u00f3n, Coahuila de Zaragoza, 27140, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116999246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225126449",
+    "boundingbox": [
+      "19.5601645",
+      "19.5617817",
+      "-99.2297608",
+      "-99.2259776"
+    ],
+    "lat": "19.5613509",
+    "lon": "-99.2277722",
+    "display_name": "Orioles, Ciudad L\u00f3pez Mateos, Atizap\u00e1n de Zaragoza, M\u00e9xico, 52940, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103896039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170426669",
+    "boundingbox": [
+      "25.757019",
+      "25.757443",
+      "-100.2631972",
+      "-100.2618481"
+    ],
+    "lat": "25.757443",
+    "lon": "-100.2618481",
+    "display_name": "Orioles, San Nicol\u00e1s de los Garza, Nuevo Le\u00f3n, 66636, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

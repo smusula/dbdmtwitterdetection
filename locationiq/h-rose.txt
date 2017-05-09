@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "133028062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300973155",
+    "boundingbox": [
+      "43.7798886",
+      "43.8902435",
+      "25.9135572",
+      "26.0672878"
+    ],
+    "lat": "43.8480413",
+    "lon": "25.9542057",
+    "display_name": "\u0420\u0443\u0441\u0435, \u041e\u0431\u043b\u0430\u0441\u0442 \u0420\u0443\u0441\u0435, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "place",
+    "type": "city",
+    "importance": 0.55103337918246,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160243208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "39918",
+    "boundingbox": [
+      "39.3743411",
+      "39.4234551",
+      "16.25546",
+      "16.4056168"
+    ],
+    "lat": "39.398495",
+    "lon": "16.287193",
+    "display_name": "Rose, CS, CAL, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48946848220542,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7274953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "794330707",
+    "boundingbox": [
+      "51.4084089",
+      "51.4085089",
+      "-0.3073662",
+      "-0.3072662"
+    ],
+    "lat": "51.4084589",
+    "lon": "-0.3073162",
+    "display_name": "The Rose, Wadbrook Street, Seething Wells, Royal Borough of Kingston upon Thames, London, Greater London, England, KT1 1HL, UK",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.44513530607377,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "105352908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "175925713",
+    "boundingbox": [
+      "48.9002839",
+      "48.9796854",
+      "6.8363441",
+      "7.0053855"
+    ],
+    "lat": "48.9165913",
+    "lon": "6.9378598",
+    "display_name": "La Rose, Vibersviller, Sarrebourg-Ch\u00e2teau-Salins, Moselle, Grand-Est, 57670, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "95714486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136896797",
+    "boundingbox": [
+      "16.1170648",
+      "16.1499038",
+      "-61.655095",
+      "-61.5761994"
+    ],
+    "lat": "16.1389955",
+    "lon": "-61.617041",
+    "display_name": "La Rose, Goyave, Basse-Terre, Guadeloupe, 97128, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "149922039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "389257518",
+    "boundingbox": [
+      "53.0773786",
+      "53.0773979",
+      "11.9102403",
+      "11.9142824"
+    ],
+    "lat": "53.077385",
+    "lon": "11.9121474",
+    "display_name": "Rose, Perleberg, Landkreis Prignitz, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "85822554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99045659",
+    "boundingbox": [
+      "51.021075",
+      "51.0281056",
+      "7.8016447",
+      "7.8154722"
+    ],
+    "lat": "51.0237278",
+    "lon": "7.8086417",
+    "display_name": "Rose, Drolshagen, Kreis Olpe, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "433549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154046485",
+    "boundingbox": [
+      "30.3293693",
+      "30.3693693",
+      "-84.1535039",
+      "-84.1135039"
+    ],
+    "lat": "30.3493693",
+    "lon": "-84.1335039",
+    "display_name": "Rose, Leon County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "413436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153966270",
+    "boundingbox": [
+      "32.9626539",
+      "33.0026539",
+      "-82.6765218",
+      "-82.6365218"
+    ],
+    "lat": "32.9826539",
+    "lon": "-82.6565218",
+    "display_name": "Rose, Washington County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "88183124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108949879",
+    "boundingbox": [
+      "43.2561997",
+      "43.2754144",
+      "1.3306158",
+      "1.3534956"
+    ],
+    "lat": "43.2706914",
+    "lon": "1.3372334",
+    "display_name": "Le Ros\u00e9, L\u00e9zat-sur-L\u00e8ze, Pamiers, Ari\u00e8ge, Occitanie, 09210, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  }
+]

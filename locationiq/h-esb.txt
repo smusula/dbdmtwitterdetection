@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "133373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26608881",
+    "boundingbox": [
+      "40.1118945",
+      "40.1418945",
+      "32.9827878",
+      "33.0127878"
+    ],
+    "lat": "40.1268945",
+    "lon": "32.9977878",
+    "display_name": "Esenbo\u011fa Uluslararas\u0131 Havaliman\u0131, Ankara - \u00c7ubuk Yolu, Esenbo\u011fa, \u00c7ubuk, Ankara, \u0130\u00e7 Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.34857837983063,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "159455052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443088847",
+    "boundingbox": [
+      "53.3392738",
+      "53.3405198",
+      "-6.2038636",
+      "-6.201211"
+    ],
+    "lat": "53.3397911",
+    "lon": "-6.20226742244987",
+    "display_name": "ESB, Pembroke East A ED, Dublin 4, Dublin, County Dublin, Leinster, D01, Ireland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159472785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443088846",
+    "boundingbox": [
+      "53.3550912",
+      "53.3567661",
+      "-6.2309942",
+      "-6.2286643"
+    ],
+    "lat": "53.3559986",
+    "lon": "-6.23023457850578",
+    "display_name": "ESB, North Dock, North Dock B ED, Dublin 3, Dublin, County Dublin, Leinster, D01, Ireland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1433253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "318450104",
+    "boundingbox": [
+      "52.1140511",
+      "52.1440511",
+      "5.258006",
+      "5.288006"
+    ],
+    "lat": "52.1290511",
+    "lon": "5.273006",
+    "display_name": "Soesterberg, Camp New Amsterdam, Huis ter Heide, Zeist, Bestuur Regio Utrecht, Utrecht, Nederland, 3712BV, Nederland",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.29414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "151095507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396678457",
+    "boundingbox": [
+      "43.9842626",
+      "43.986934",
+      "43.7672718",
+      "43.7701662"
+    ],
+    "lat": "43.98561875",
+    "lon": "43.7687653652551",
+    "display_name": "\u042d\u0421\u0411, \u041e\u0440\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0441\u0435\u043b\u044c\u0441\u043e\u0432\u0435\u0442, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0442\u0430\u0432\u0440\u043e\u043f\u043e\u043b\u044c\u0435, \u0421\u041a\u0424\u041e, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77640361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51060516",
+    "boundingbox": [
+      "53.5279428",
+      "53.5282473",
+      "-113.5244192",
+      "-113.5225631"
+    ],
+    "lat": "53.5281034",
+    "lon": "-113.523492314118",
+    "display_name": "ESB, Saskatchewan Drive NW, Old Strathcona, Edmonton, Alberta, T6G 2E9, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10871100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1031607377",
+    "boundingbox": [
+      "48.8323262",
+      "48.8324262",
+      "12.9565517",
+      "12.9566517"
+    ],
+    "lat": "48.8323762",
+    "lon": "12.9566017",
+    "display_name": "ESB, Wiesenstra\u00dfe, Schaching, Fischerdorf, Deggendorf, Landkreis Deggendorf, NB, Bayern, 94469, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "83533499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "88847128",
+    "boundingbox": [
+      "48.2120136",
+      "48.2127254",
+      "12.4109282",
+      "12.4122737"
+    ],
+    "lat": "48.21237385",
+    "lon": "12.4115828363461",
+    "display_name": "ESB, 30, Geretsrieder Stra\u00dfe, Industriegebiet, Holzhausen, Waldkraiburg, Landkreis M\u00fchldorf am Inn, OB, Bayern, 84478, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "91417128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120328973",
+    "boundingbox": [
+      "51.3529009",
+      "51.3530403",
+      "7.4221864",
+      "7.4223078"
+    ],
+    "lat": "51.35294295",
+    "lon": "7.42224700675023",
+    "display_name": "ESB, 5, Im Lindental, Haspe, B\u00fcdding, Hagen, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58135, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "126843371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "266527012",
+    "boundingbox": [
+      "48.5610265",
+      "48.5612704",
+      "12.8050133",
+      "12.8053935"
+    ],
+    "lat": "48.5611484",
+    "lon": "12.8052033953994",
+    "display_name": "ESB, 2, Eckerfeld, N\u00f6mer, Arnstorf, Landkreis Rottal-Inn, NB, Bayern, 94424, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

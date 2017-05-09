@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "82552772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83344890",
+    "boundingbox": [
+      "48.3878291",
+      "48.3881406",
+      "-4.4844639",
+      "-4.4840306"
+    ],
+    "lat": "48.3880039",
+    "lon": "-4.48416096509079",
+    "display_name": "Skatepark, Centre Ville, Brest, Finist\u00e8re, Bretagne, 29200, France",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "151942464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401698987",
+    "boundingbox": [
+      "51.937774",
+      "51.9380154",
+      "15.5497105",
+      "15.5502497"
+    ],
+    "lat": "51.93789225",
+    "lon": "15.549990647621",
+    "display_name": "Skatepark, Raculka, Zielona G\u00f3ra, lubuskie, Polska",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "90663760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117530851",
+    "boundingbox": [
+      "44.5496158",
+      "44.5499752",
+      "-0.2518082",
+      "-0.25148"
+    ],
+    "lat": "44.54978495",
+    "lon": "-0.251622267778883",
+    "display_name": "Skatepark, Le Village Sauzet, Langon, Gironde, Nouvelle-Aquitaine, 33210, France",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118592404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231005023",
+    "boundingbox": [
+      "-33.5713574",
+      "-33.570278",
+      "-70.5980667",
+      "-70.5973345"
+    ],
+    "lat": "-33.57082105",
+    "lon": "-70.5976467794669",
+    "display_name": "Skatepark, Puente Alto, Provincia de Cordillera, Regi\u00f3n Metropolitana de Santiago, 8150513, Chile",
+    "class": "landuse",
+    "type": "village_green",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118935384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232375271",
+    "boundingbox": [
+      "52.9081803",
+      "52.9088079",
+      "12.7999499",
+      "12.8010089"
+    ],
+    "lat": "52.90847125",
+    "lon": "12.8004197191649",
+    "display_name": "Skatepark, Treskow, Neuruppin, Landkreis Ostprignitz-Ruppin, Brandenburg, 16816, Deutschland",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609299272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6685749",
+    "boundingbox": [
+      "41.9263644",
+      "41.926971",
+      "12.4602298",
+      "12.4609687"
+    ],
+    "lat": "41.9265983",
+    "lon": "12.4606148964196",
+    "display_name": "Skatepark, Municipio Roma II, Roma, RM, LAZ, 00196, Italia",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94856163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133051249",
+    "boundingbox": [
+      "51.9606508",
+      "51.9607771",
+      "19.7196612",
+      "19.7211665"
+    ],
+    "lat": "51.9606844",
+    "lon": "19.7200667",
+    "display_name": "Skatepark, Genera\u0142a W\u0142adys\u0142awa Sikorskiego, G\u0142owno, powiat zgierski, \u0142\u00f3dzkie, Polska",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "103668363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169666288",
+    "boundingbox": [
+      "53.8662885",
+      "53.8665823",
+      "10.7185397",
+      "10.7195185"
+    ],
+    "lat": "53.86638785",
+    "lon": "10.719036234414",
+    "display_name": "skatepark, Meesenplatz, Marli / Brandenbaum, Sankt Gertrud, Marli, L\u00fcbeck, Schleswig-Holstein, 23566, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.111
+  },
+  {
+    "place_id": "142733319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351522168",
+    "boundingbox": [
+      "40.3590505",
+      "40.3595297",
+      "18.1524632",
+      "18.1531146"
+    ],
+    "lat": "40.3592696",
+    "lon": "18.1527744212604",
+    "display_name": "Skatepark, Via delle Medaglie d'oro, Lecce, LE, PUG, 73100, Italia",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "117461171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226571211",
+    "boundingbox": [
+      "49.0501941",
+      "49.0503945",
+      "-1.4541409",
+      "-1.4536796"
+    ],
+    "lat": "49.05029255",
+    "lon": "-1.453910963899",
+    "display_name": "Skatepark, Rue de Saint-Mal\u00f4, La Godefrairie, Coutances, Manche, Normandie, 50200, France",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

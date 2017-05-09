@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "466380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158308819",
+    "boundingbox": [
+      "38.2567917",
+      "38.2967917",
+      "-76.4885637",
+      "-76.4485637"
+    ],
+    "lat": "38.2767917",
+    "lon": "-76.4685637",
+    "display_name": "Discovery, Saint Mary's County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "465114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158286445",
+    "boundingbox": [
+      "39.4453795",
+      "39.4853795",
+      "-77.3808175",
+      "-77.3408175"
+    ],
+    "lat": "39.4653795",
+    "lon": "-77.3608175",
+    "display_name": "Discovery, Frederick County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "333511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150921257",
+    "boundingbox": [
+      "62.4325",
+      "62.4725",
+      "-157.9538888",
+      "-157.9138888"
+    ],
+    "lat": "62.4525",
+    "lon": "-157.9338888",
+    "display_name": "Discovery, Yukon-Koyukuk, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "772610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "262705111",
+    "boundingbox": [
+      "-26.1805555",
+      "-26.1405555",
+      "27.8725",
+      "27.9125"
+    ],
+    "lat": "-26.1605555",
+    "lon": "27.8925",
+    "display_name": "Discovery, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "151465289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398933738",
+    "boundingbox": [
+      "32.0498535",
+      "32.0516617",
+      "-102.1257133",
+      "-102.1240997"
+    ],
+    "lat": "32.05073485",
+    "lon": "-102.124741142898",
+    "display_name": "Discovery, Midland, Midland County, Texas, 79705, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "77087793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48245239",
+    "boundingbox": [
+      "38.274898",
+      "38.2779638",
+      "-76.4701705",
+      "-76.4661794"
+    ],
+    "lat": "38.2764899",
+    "lon": "-76.4685377132936",
+    "display_name": "Discovery, Lexington Park, Saint Mary's County, Maryland, 20653, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "79482211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60502940",
+    "boundingbox": [
+      "33.6603687",
+      "33.6643973",
+      "-117.7606525",
+      "-117.7571934"
+    ],
+    "lat": "33.6629028",
+    "lon": "-117.7586779",
+    "display_name": "Discovery, El Camino Real, Irvine, Orange County, California, 92618, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62885807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13318593",
+    "boundingbox": [
+      "33.6583527",
+      "33.6588124",
+      "-117.5634242",
+      "-117.5631707"
+    ],
+    "lat": "33.6585184",
+    "lon": "-117.5633586",
+    "display_name": "Discovery, Robinson Ranch, Rancho Santa Margarita, Orange County, California, 92679, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92233217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122859798",
+    "boundingbox": [
+      "29.9698294",
+      "29.9726557",
+      "-97.8672994",
+      "-97.8638974"
+    ],
+    "lat": "29.9714137",
+    "lon": "-97.8652468",
+    "display_name": "Discovery, Post Oak, Kyle, Hays County, Texas, 78640, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138352276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326220555",
+    "boundingbox": [
+      "48.1118427",
+      "48.1148631",
+      "-122.3238157",
+      "-122.3228024"
+    ],
+    "lat": "48.1137463",
+    "lon": "-122.3228746",
+    "display_name": "Discovery, Weallup Lake, Snohomish County, Washington, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

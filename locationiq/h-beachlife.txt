@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "18789823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1823938495",
+    "boundingbox": [
+      "-33.950826",
+      "-33.950726",
+      "115.0740309",
+      "115.0741309"
+    ],
+    "lat": "-33.950776",
+    "lon": "115.0740809",
+    "display_name": "Beachlife Surf Shop, Bussell Highway, Margaret River, Western Australia, 6285, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54704356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4226196289",
+    "boundingbox": [
+      "13.4943679",
+      "13.4944679",
+      "-89.3840724",
+      "-89.3839724"
+    ],
+    "lat": "13.4944179",
+    "lon": "-89.3840224",
+    "display_name": "Beachlife caf\u00e9, Carretera el Litoral, El Tunco, Departamento de La Libertad, El Salvador",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

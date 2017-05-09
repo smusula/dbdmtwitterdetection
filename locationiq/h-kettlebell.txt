@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "19653104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1944383628",
+    "boundingbox": [
+      "57.7180157",
+      "57.7181157",
+      "12.0140251",
+      "12.0141251"
+    ],
+    "lat": "57.7180657",
+    "lon": "12.0140751",
+    "display_name": "Kettlebell Center, Landerigatan, Redbergslid, \u00d6rgryte-H\u00e4rlanda, Gbg, G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 416 72, Sverige",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "46284920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3279578913",
+    "boundingbox": [
+      "37.8326122",
+      "37.8327122",
+      "-122.2527265",
+      "-122.2526265"
+    ],
+    "lat": "37.8326622",
+    "lon": "-122.2526765",
+    "display_name": "The Orange Kettlebell Club, 293, Whitmore Street, Piedmont Avenue, Oakland, Alameda County, California, 94611, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26506982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2521733521",
+    "boundingbox": [
+      "52.9487435",
+      "52.9488435",
+      "-1.1513812",
+      "-1.1512812"
+    ],
+    "lat": "52.9487935",
+    "lon": "-1.1513312",
+    "display_name": "Kettlebell Nottingham, 4, Castle Boulevard, Lace Market, The Meadows, City of Nottingham, East Midlands, England, NG7 1FB, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55942255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4341704973",
+    "boundingbox": [
+      "45.5516785",
+      "45.5517785",
+      "-94.1973568",
+      "-94.1972568"
+    ],
+    "lat": "45.5517285",
+    "lon": "-94.1973068",
+    "display_name": "Minnesota Kettlebell, 32nd Avenue South, St. Cloud, Stearns County, Minnesota, 56301, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "53705918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4120167512",
+    "boundingbox": [
+      "11.5393594",
+      "11.5394594",
+      "104.9177217",
+      "104.9178217"
+    ],
+    "lat": "11.5394094",
+    "lon": "104.9177717",
+    "display_name": "Kettlebell Cafe, 45A, \u1795\u17d2\u179b\u17bc\u179c \u17e4\u17e5\u17e4, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1791\u17bd\u179b\u1791\u17c6\u1796\u17bc\u1784\u1791\u17b8 \u17e1, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12311, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "52208657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3933172724",
+    "boundingbox": [
+      "14.562494",
+      "14.562594",
+      "-90.4649262",
+      "-90.4648262"
+    ],
+    "lat": "14.562544",
+    "lon": "-90.4648762",
+    "display_name": "Boom Kettlebell Gym, Km 14.1, Carretera a El Salvador, La Luz, Puerta Parada, Guatemala, 1051, Guatemala",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

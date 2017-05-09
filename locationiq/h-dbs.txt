@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "2608893965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2486472611",
+    "boundingbox": [
+      "35.633925",
+      "35.713925",
+      "44.034351",
+      "44.114351"
+    ],
+    "lat": "35.673925",
+    "lon": "44.074351",
+    "display_name": "\u062f\u0628\u0633, \u0643\u0631\u0643\u0648\u0643, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "7204386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "767966072",
+    "boundingbox": [
+      "22.1475285",
+      "22.1675285",
+      "29.4436621",
+      "29.4636621"
+    ],
+    "lat": "22.1575285",
+    "lon": "29.4536621",
+    "display_name": "\u062f\u0628\u0633, \u0627\u0644\u0648\u0627\u062f\u064a \u0627\u0644\u062c\u062f\u064a\u062f, \u0645\u0635\u0631",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654303684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4738733372",
+    "boundingbox": [
+      "1.2842725",
+      "1.2843725",
+      "103.8462509",
+      "103.8463509"
+    ],
+    "lat": "1.2843225",
+    "lon": "103.8463009",
+    "display_name": "DBS, South Bridge Road, Chinatown, Raffles Place, Singapore, Central Singapore Community Development Council, 058727, Singapore",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "18617209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1829431121",
+    "boundingbox": [
+      "1.2755477",
+      "1.2756477",
+      "103.84303",
+      "103.84313"
+    ],
+    "lat": "1.2755977",
+    "lon": "103.84308",
+    "display_name": "DBS, 1, Tanjong Pagar Road, Chinatown, Tanjong Pagar, Singapore, Central Singapore Community Development Council, 082001, Singapore",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "41402024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009713259",
+    "boundingbox": [
+      "1.2999811",
+      "1.3000811",
+      "103.8447253",
+      "103.8448253"
+    ],
+    "lat": "1.3000311",
+    "lon": "103.8447753",
+    "display_name": "DBS, 68, Orchard Road, Clarke Quay, Selegie, Singapore, Central Singapore Community Development Council, 238826, Singapore",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "2646726686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4560997429",
+    "boundingbox": [
+      "1.2951005",
+      "1.2952005",
+      "103.8598241",
+      "103.8599241"
+    ],
+    "lat": "1.2951505",
+    "lon": "103.8598741",
+    "display_name": "DBS, 3, Temasek Boulevard, Clarke Quay, Suntec City, Singapore, Central Singapore Community Development Council, 038983, Singapore",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "24849185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2402545442",
+    "boundingbox": [
+      "1.3025946",
+      "1.3026946",
+      "103.8529847",
+      "103.8530847"
+    ],
+    "lat": "1.3026446",
+    "lon": "103.8530347",
+    "display_name": "DBS, 1, Rochor Canal Road, Clarke Quay, Selegie, Singapore, Central Singapore Community Development Council, 188504, Singapore",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2646661458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4559461779",
+    "boundingbox": [
+      "1.2759405",
+      "1.2760405",
+      "103.8430928",
+      "103.8431928"
+    ],
+    "lat": "1.2759905",
+    "lon": "103.8431428",
+    "display_name": "DBS, 1, Tanjong Pagar Road, Chinatown, Tanjong Pagar, Singapore, Central Singapore Community Development Council, 082001, Singapore",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "14264849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1275651356",
+    "boundingbox": [
+      "1.3019981",
+      "1.3020981",
+      "103.8536186",
+      "103.8537186"
+    ],
+    "lat": "1.3020481",
+    "lon": "103.8536686",
+    "display_name": "DBS, Albert Street, Clarke Quay, Bugis, Singapore, Central Singapore Community Development Council, 189969, Singapore",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "2609578275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4485271439",
+    "boundingbox": [
+      "1.3000453",
+      "1.3001453",
+      "103.8545099",
+      "103.8546099"
+    ],
+    "lat": "1.3000953",
+    "lon": "103.8545599",
+    "display_name": "DBS, Cheng Yan Place, Clarke Quay, Bugis, Singapore, Central Singapore Community Development Council, 187965, Singapore",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  }
+]

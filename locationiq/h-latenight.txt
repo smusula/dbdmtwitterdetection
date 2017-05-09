@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2645561455",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "457048406",
+    "boundingbox": [
+      "36.024447",
+      "36.0267388",
+      "-115.4390472",
+      "-115.4342715"
+    ],
+    "lat": "36.0255686",
+    "lon": "-115.4367674",
+    "display_name": "Inner Loop (Easy);Latenight Loop (Easy), Bonnie Springs, Clark County, Nevada, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "81274835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74170787",
+    "boundingbox": [
+      "36.0227938",
+      "36.0349498",
+      "-115.4553251",
+      "-115.4480796"
+    ],
+    "lat": "36.0289545",
+    "lon": "-115.4541771",
+    "display_name": "Latenight Loop (Moderate), Bonnie Springs, Clark County, Nevada, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "10896003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "991750714",
+    "boundingbox": [
+      "52.4938239",
+      "52.4939239",
+      "13.4217437",
+      "13.4218437"
+    ],
+    "lat": "52.4938739",
+    "lon": "13.4217937",
+    "display_name": "latenight shop, Kottbusser Damm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "25412333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2452132375",
+    "boundingbox": [
+      "48.5152297",
+      "48.5552297",
+      "-2.0684201",
+      "-2.0284201"
+    ],
+    "lat": "48.5352297",
+    "lon": "-2.0484201",
+    "display_name": "Le Gallery, Dinan, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28634335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2643403551",
+    "boundingbox": [
+      "20.0717419",
+      "20.1117419",
+      "84.5484372",
+      "84.5884372"
+    ],
+    "lat": "20.0917419",
+    "lon": "84.5684372",
+    "display_name": "Gallery, Ganj\u0101m, Odisha, 761141, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160866024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5326888",
+    "boundingbox": [
+      "34.8459524",
+      "34.8499494",
+      "-82.3423878",
+      "-82.3384699"
+    ],
+    "lat": "34.84812855",
+    "lon": "-82.3404399755429",
+    "display_name": "The Gallery, Greenville, Greenville County, South Carolina, 29607, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "94374996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130912135",
+    "boundingbox": [
+      "51.5426294",
+      "51.5435451",
+      "-0.007943",
+      "-0.0063481"
+    ],
+    "lat": "51.5430857",
+    "lon": "-0.00717763083247353",
+    "display_name": "The Gallery, Stratford Marsh, London Borough of Newham, London, Greater London, England, E15 2EE, UK",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "133623670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303862415",
+    "boundingbox": [
+      "51.3154739",
+      "51.3157441",
+      "3.1288694",
+      "3.1293776"
+    ],
+    "lat": "51.3155848",
+    "lon": "3.1291272",
+    "display_name": "The Gallery, Blankenberge, Brugge, West-Vlaanderen, Vlaanderen, 8370, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76869342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47215327",
+    "boundingbox": [
+      "52.3966125",
+      "52.3984636",
+      "0.2618729",
+      "0.262325"
+    ],
+    "lat": "52.3975241",
+    "lon": "0.2621042",
+    "display_name": "The Gallery, Ely CP (E Cambs), Ely, Cambridgeshire, East of England, England, CB7 4JF, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84242464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91941856",
+    "boundingbox": [
+      "51.9798789",
+      "51.9799772",
+      "-0.2260207",
+      "-0.2257133"
+    ],
+    "lat": "51.9798789",
+    "lon": "-0.2260207",
+    "display_name": "The Gallery, Phoenix Park Estate, Jackmans Estate, North Hertfordshire, Hertfordshire, East of England, England, SG6 3WA, UK",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84194996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91941980",
+    "boundingbox": [
+      "51.97972",
+      "51.9803003",
+      "-0.2262541",
+      "-0.2260207"
+    ],
+    "lat": "51.9800695",
+    "lon": "-0.2261782",
+    "display_name": "The Gallery, The Grange Estate, Jackmans Estate, North Hertfordshire, Hertfordshire, East of England, England, SG6 3WA, UK",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92620359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "124535035",
+    "boundingbox": [
+      "53.0174677",
+      "53.0176626",
+      "-1.7329643",
+      "-1.7321902"
+    ],
+    "lat": "53.0176626",
+    "lon": "-1.7324512",
+    "display_name": "The Gallery, Ashbourne CP, Derbyshire Dales, Derbyshire, East Midlands, England, DE6 1GG, UK",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62683655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13127470",
+    "boundingbox": [
+      "38.858057",
+      "38.859806",
+      "-94.7495729",
+      "-94.7465919"
+    ],
+    "lat": "38.858624",
+    "lon": "-94.7477479",
+    "display_name": "Gallery, Olathe, Johnson County, Kansas, 66062, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

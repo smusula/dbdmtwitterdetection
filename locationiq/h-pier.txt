@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "98043849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "147251518",
+    "boundingbox": [
+      "14.8095186",
+      "14.8096856",
+      "120.2958068",
+      "120.2958931"
+    ],
+    "lat": "14.8096594",
+    "lon": "120.2958204",
+    "display_name": "Pier, Olongapo, Bataan, Central Luzon, 2200, Philippines",
+    "class": "waterway",
+    "type": "dock",
+    "importance": 0.425
+  },
+  {
+    "place_id": "10933561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1027298989",
+    "boundingbox": [
+      "-9.6260965",
+      "-9.6259965",
+      "-37.7542643",
+      "-37.7541643"
+    ],
+    "lat": "-9.6260465",
+    "lon": "-37.7542143",
+    "display_name": "Pier, Piranhas, Microrregi\u00e3o Alagoana do Sert\u00e3o do S\u00e3o Francisco, Mesorregi\u00e3o do Sert\u00e3o Alagoano, AL, Regi\u00e3o Nordeste, Brasil",
+    "class": "waterway",
+    "type": "dock",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160387924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1225919",
+    "boundingbox": [
+      "51.0549941",
+      "51.1894997",
+      "5.3892422",
+      "5.54762"
+    ],
+    "lat": "51.1319137",
+    "lon": "5.4546268",
+    "display_name": "Peer, Maaseik, Limburg, Vlaanderen, 3990, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42144714246806,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81708011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75512337",
+    "boundingbox": [
+      "47.444764",
+      "47.468276",
+      "22.35635",
+      "22.388472"
+    ],
+    "lat": "47.4565455",
+    "lon": "22.3774773280215",
+    "display_name": "Pir, Satu Mare, Rom\u00e2nia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36676092117661,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6149234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "637639507",
+    "boundingbox": [
+      "45.2380053",
+      "45.2580053",
+      "4.1553835",
+      "4.1753835"
+    ],
+    "lat": "45.2480053",
+    "lon": "4.1653835",
+    "display_name": "Le Pier, Les Villettes, Yssingeaux, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, 43600, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4315583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "463186950",
+    "boundingbox": [
+      "47.4396763",
+      "47.4796763",
+      "22.3527534",
+      "22.3927534"
+    ],
+    "lat": "47.4596763",
+    "lon": "22.3727534",
+    "display_name": "Pir, Satu Mare, 447245, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.33854102903848,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4749483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "518937754",
+    "boundingbox": [
+      "48.8512518",
+      "48.8912518",
+      "-0.754204",
+      "-0.714204"
+    ],
+    "lat": "48.8712518",
+    "lon": "-0.734204",
+    "display_name": "Pierres, Vire, Calvados, Normandie, 14410, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.33263829078643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "95614201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136250938",
+    "boundingbox": [
+      "49.5199742",
+      "49.5627483",
+      "137.8070197",
+      "137.9893053"
+    ],
+    "lat": "49.5390267",
+    "lon": "137.8919733",
+    "display_name": "\u041f\u0438\u0440, \u041d\u0430\u043d\u0430\u0439\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "933636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "287228194",
+    "boundingbox": [
+      "50.7880835",
+      "50.8280835",
+      "6.358868",
+      "6.398868"
+    ],
+    "lat": "50.8080835",
+    "lon": "6.378868",
+    "display_name": "Pier, Kreis D\u00fcren, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52379, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "124054226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253719106",
+    "boundingbox": [
+      "-35.3115797",
+      "-35.3106521",
+      "149.1463162",
+      "149.148181"
+    ],
+    "lat": "-35.31090265",
+    "lon": "149.14754328246",
+    "display_name": "The Pier, Kingston, Canberra, Canberra Central, Australian Capital Territory, 2604, Australia",
+    "class": "landuse",
+    "type": "greenfield",
+    "importance": 0.3
+  }
+]

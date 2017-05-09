@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "44498450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3153311714",
+    "boundingbox": [
+      "48.8695666",
+      "48.8696666",
+      "-121.8483995",
+      "-121.8482995"
+    ],
+    "lat": "48.8696166",
+    "lon": "-121.8483495",
+    "display_name": "Skyline, Whatcom County, Washington, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "424544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154117152",
+    "boundingbox": [
+      "33.5681726",
+      "33.6081726",
+      "-83.7754556",
+      "-83.7354556"
+    ],
+    "lat": "33.5881726",
+    "lon": "-83.7554556",
+    "display_name": "Skyline, Newton County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153979476",
+    "boundingbox": [
+      "37.0559274",
+      "37.0959274",
+      "-83.0015508",
+      "-82.9615508"
+    ],
+    "lat": "37.0759274",
+    "lon": "-82.9815508",
+    "display_name": "Skyline, Letcher County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "341489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150959803",
+    "boundingbox": [
+      "46.6310463",
+      "46.6710463",
+      "-112.3052916",
+      "-112.2652916"
+    ],
+    "lat": "46.6510463",
+    "lon": "-112.2852916",
+    "display_name": "Skyline, Lewis and Clark County, Montana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "392938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153544216",
+    "boundingbox": [
+      "34.2437174",
+      "34.2837174",
+      "-88.6611623",
+      "-88.6211623"
+    ],
+    "lat": "34.2637174",
+    "lon": "-88.6411623",
+    "display_name": "Skyline, Lee County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160279093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "136581",
+    "boundingbox": [
+      "44.137521",
+      "44.145182",
+      "-94.0402539",
+      "-94.0286839"
+    ],
+    "lat": "44.1421882",
+    "lon": "-94.0307891",
+    "display_name": "Skyline, Blue Earth County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "471553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158380111",
+    "boundingbox": [
+      "39.303712",
+      "39.343712",
+      "-79.1492003",
+      "-79.1092003"
+    ],
+    "lat": "39.323712",
+    "lon": "-79.1292003",
+    "display_name": "Skyline, Mineral County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "358130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151421824",
+    "boundingbox": [
+      "41.2328285",
+      "41.2728285",
+      "-96.2722339",
+      "-96.2322339"
+    ],
+    "lat": "41.2528285",
+    "lon": "-96.2522339",
+    "display_name": "Skyline, Omaha, Douglas County, Nebraska, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72961245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33005151",
+    "boundingbox": [
+      "34.750842",
+      "34.844939",
+      "-86.1636369",
+      "-86.1032979"
+    ],
+    "lat": "34.8139739",
+    "lon": "-86.1152602",
+    "display_name": "Skyline, Jackson County, Alabama, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.34761685113657,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "85476056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97576435",
+    "boundingbox": [
+      "32.7413935",
+      "32.742036",
+      "-116.9528497",
+      "-116.9520348"
+    ],
+    "lat": "32.74171485",
+    "lon": "-116.952441320736",
+    "display_name": "Skyline, Campo Road, Jamacha Junction, San Diego County, California, 91978, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.30108919297929,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  }
+]

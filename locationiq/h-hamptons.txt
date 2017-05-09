@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "2651406598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4258632605",
+    "boundingbox": [
+      "53.4895145",
+      "53.4896145",
+      "-113.678499",
+      "-113.678399"
+    ],
+    "lat": "53.4895645",
+    "lon": "-113.678449",
+    "display_name": "The Hamptons, The Grange, Edmonton, Alberta, T6M2Z7, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.47727065408496
+  },
+  {
+    "place_id": "284322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "106963332",
+    "boundingbox": [
+      "51.1256691",
+      "51.1656691",
+      "-114.1740177",
+      "-114.1340177"
+    ],
+    "lat": "51.1456691",
+    "lon": "-114.1540177",
+    "display_name": "Hamptons, Calgary, Alberta, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.45325924560389,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12154874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1143192152",
+    "boundingbox": [
+      "51.3654486",
+      "51.4054486",
+      "-0.2579295",
+      "-0.2179295"
+    ],
+    "lat": "51.3854486",
+    "lon": "-0.2379295",
+    "display_name": "The Hamptons, London, Greater London, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2649276509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "467164793",
+    "boundingbox": [
+      "-33.8104996",
+      "-33.8086118",
+      "18.5150968",
+      "18.5168769"
+    ],
+    "lat": "-33.80958625",
+    "lon": "18.5159910787278",
+    "display_name": "The Hamptons, Parklands, Cape Town, City of Cape Town, Western Cape, 7441, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2609619333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "451755582",
+    "boundingbox": [
+      "-33.9806031",
+      "-33.9783778",
+      "25.5109023",
+      "25.5130452"
+    ],
+    "lat": "-33.9794904",
+    "lon": "25.511977771499",
+    "display_name": "The Hamptons, Nelson Mandela Bay Ward 8, Port Elizabeth, Nelson Mandela Bay Metropolitan Municipality, Eastern Cape, 6070, South Africa",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "74582593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38745775",
+    "boundingbox": [
+      "37.3310082",
+      "37.334099",
+      "-122.0141225",
+      "-122.0114457"
+    ],
+    "lat": "37.3326216",
+    "lon": "-122.012943097433",
+    "display_name": "The Hamptons, Cupertino, Santa Clara County, California, 95014, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126515953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264951420",
+    "boundingbox": [
+      "26.1328119",
+      "26.1352252",
+      "-81.750188",
+      "-81.7460804"
+    ],
+    "lat": "26.1340234",
+    "lon": "-81.7484936169507",
+    "display_name": "The Hamptons, East Naples, Collier County, Florida, 34112, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160479595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2052871",
+    "boundingbox": [
+      "28.522888",
+      "28.5300929",
+      "-81.5005636",
+      "-81.4963299"
+    ],
+    "lat": "28.52826015",
+    "lon": "-81.4984714332661",
+    "display_name": "The Hamptons, Orlando, Orange County, Florida, 32835, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "56157408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4374900935",
+    "boundingbox": [
+      "41.5390677",
+      "41.5391677",
+      "-87.4745789",
+      "-87.4744789"
+    ],
+    "lat": "41.5391177",
+    "lon": "-87.4745289",
+    "display_name": "Hamptons, Highland, Lake County, Indiana, 46322, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157062961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "429448059",
+    "boundingbox": [
+      "22.3425899",
+      "22.3431513",
+      "114.1747162",
+      "114.1753427"
+    ],
+    "lat": "22.3428559",
+    "lon": "114.175026348929",
+    "display_name": "45, \u9d3b\u5716\u53f0 The Hamptons, \u4e5d\u9f8d\u5858 Kowloon Tong, \u4e5d\u9f8d Kowloon, \u4e5d\u9f8d\u57ce\u5340 Kowloon City District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "52492514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3971304164",
+    "boundingbox": [
+      "40.7432173",
+      "40.7433173",
+      "-73.9890132",
+      "-73.9889132"
+    ],
+    "lat": "40.7432673",
+    "lon": "-73.9889632",
+    "display_name": "Memories, 1126, Broadway, Flatiron, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44980648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3211765135",
+    "boundingbox": [
+      "47.521433",
+      "47.521533",
+      "-122.2705829",
+      "-122.2704829"
+    ],
+    "lat": "47.521483",
+    "lon": "-122.2705329",
+    "display_name": "Memories, 9125, Rainier Avenue South, Rainier Valley, Seattle, King County, Washington, 98118, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "7994054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "861295684",
+    "boundingbox": [
+      "45.4281626",
+      "45.4282626",
+      "-75.6953002",
+      "-75.6952002"
+    ],
+    "lat": "45.4282126",
+    "lon": "-75.6952502",
+    "display_name": "Memories, 3, Clarence Street, Byward Market, Lowertown, Rideau-Vanier, Ottawa, Ontario, K1N 5S7, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2646728288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4561050338",
+    "boundingbox": [
+      "45.4291272",
+      "45.4292272",
+      "-75.6959735",
+      "-75.6958735"
+    ],
+    "lat": "45.4291772",
+    "lon": "-75.6959235",
+    "display_name": "Memories, Saint Patrick Street, Byward Market, Lowertown, Rideau-Vanier, Ottawa, Ontario, K1N 5H5, Canada",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "147005587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374627957",
+    "boundingbox": [
+      "12.1057753",
+      "12.1059084",
+      "-68.9325512",
+      "-68.9323753"
+    ],
+    "lat": "12.1058445",
+    "lon": "-68.9324632133953",
+    "display_name": "Memories, Caprileskade, Marichi, Punda, Willemstad, Cura\u00e7ao, 0000NA, Nederland",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6723918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "692992984",
+    "boundingbox": [
+      "48.593721",
+      "48.593821",
+      "17.8234507",
+      "17.8235507"
+    ],
+    "lat": "48.593771",
+    "lon": "17.8235007",
+    "display_name": "Memories, Bratislavsk\u00e1, Pie\u0161\u0165any, Trnavsk\u00fd kraj, Z\u00e1padn\u00e9 Slovensko, 921 01, Slovensko",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "135240964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311174089",
+    "boundingbox": [
+      "54.2837226",
+      "54.2838496",
+      "-0.3946056",
+      "-0.3944126"
+    ],
+    "lat": "54.28379495",
+    "lon": "-0.39452324888975",
+    "display_name": "Memories, 40A, Eastborough, The Old Town, Scarborough, North Yorkshire, Yorkshire and the Humber, England, YO11 1NT, UK",
+    "class": "shop",
+    "type": "antiques",
+    "importance": 0.101
+  },
+  {
+    "place_id": "83956158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "90802314",
+    "boundingbox": [
+      "51.9895415",
+      "51.9898537",
+      "0.5854972",
+      "0.5860259"
+    ],
+    "lat": "51.98972235",
+    "lon": "0.585775691887601",
+    "display_name": "Memories, Nunnery Street, Castle Hedingham CP, Braintree, Essex, East of England, England, CO9 3QH, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106275706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "179854090",
+    "boundingbox": [
+      "51.8696445",
+      "51.8698233",
+      "1.0337968",
+      "1.0339621"
+    ],
+    "lat": "51.86972055",
+    "lon": "1.03387944485222",
+    "display_name": "Memories, Haggars Lane, Frating Civil Parish, Tendring, Essex, East of England, England, CO7 7DN, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84115058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "90802317",
+    "boundingbox": [
+      "51.9890971",
+      "51.9899419",
+      "0.5850816",
+      "0.5864178"
+    ],
+    "lat": "51.9895305",
+    "lon": "0.58573622736245",
+    "display_name": "Memories, Nunnery Street, Castle Hedingham CP, Braintree, Essex, East of England, England, CO9 3QH, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

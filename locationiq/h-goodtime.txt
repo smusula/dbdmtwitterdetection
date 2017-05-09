@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "6092259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "619526702",
+    "boundingbox": [
+      "52.51266",
+      "52.51276",
+      "13.396995",
+      "13.397095"
+    ],
+    "lat": "52.51271",
+    "lon": "13.397045",
+    "display_name": "Goodtime, 11a, Hausvogteiplatz, Scheunenviertel, Mitte, Berlin, 10117, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "106566428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180817818",
+    "boundingbox": [
+      "50.0594623",
+      "50.059606",
+      "36.2031658",
+      "36.2034122"
+    ],
+    "lat": "50.0595443",
+    "lon": "36.2032770246702",
+    "display_name": "Goodtime, 62\u0436, \u041f\u0435\u0440\u0435\u043c\u043e\u0433\u0438 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041e\u043b\u0435\u043a\u0441\u0456\u0457\u0432\u043a\u0430, \u0425\u0430\u0440\u043a\u0456\u0432, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 61174, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "11452758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1096737562",
+    "boundingbox": [
+      "52.4297265",
+      "52.4298265",
+      "13.2592798",
+      "13.2593798"
+    ],
+    "lat": "52.4297765",
+    "lon": "13.2593298",
+    "display_name": "Goodtime, Teltower Damm, Zehlendorf, Steglitz-Zehlendorf, Berlin, 14167, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

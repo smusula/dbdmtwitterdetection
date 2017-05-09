@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "25372726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2440949036",
+    "boundingbox": [
+      "45.5285045",
+      "45.5286045",
+      "25.8806109",
+      "25.8807109"
+    ],
+    "lat": "45.5285545",
+    "lon": "25.8806609",
+    "display_name": "Tesla, Bra\u0219ov, Rom\u00e2nia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "422040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153957749",
+    "boundingbox": [
+      "38.582046",
+      "38.622046",
+      "-80.7234295",
+      "-80.6834295"
+    ],
+    "lat": "38.602046",
+    "lon": "-80.7034295",
+    "display_name": "Tesla, Braxton County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7192293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "763044640",
+    "boundingbox": [
+      "48.5717801",
+      "48.6117801",
+      "17.7852119",
+      "17.8252119"
+    ],
+    "lat": "48.5917801",
+    "lon": "17.8052119",
+    "display_name": "Tesla, Pie\u0161\u0165any, Trnavsk\u00fd kraj, Z\u00e1padn\u00e9 Slovensko, 921 01, Slovensko",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "145070154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366111146",
+    "boundingbox": [
+      "50.1011586",
+      "50.1035868",
+      "14.5198194",
+      "14.5265908"
+    ],
+    "lat": "50.10227885",
+    "lon": "14.5229568949147",
+    "display_name": "TESLA, Hloub\u011bt\u00edn, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 19400, \u010cesko",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "58080040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6050383",
+    "boundingbox": [
+      "32.793411",
+      "32.793755",
+      "-117.1983799",
+      "-117.1983409"
+    ],
+    "lat": "32.793411",
+    "lon": "-117.1983799",
+    "display_name": "Tesla, Old Town, San Diego, San Diego County, California, 92117, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103167626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167645394",
+    "boundingbox": [
+      "-32.95178",
+      "-32.9505161",
+      "-60.6962149",
+      "-60.6961498"
+    ],
+    "lat": "-32.9505161",
+    "lon": "-60.6962149",
+    "display_name": "Tesla, Villa Urquiza, Distrito Oeste, Rosario, Municipio de Rosario, Departamento Rosario, Sta. Fe, S2000, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92338243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123623395",
+    "boundingbox": [
+      "-23.6253026",
+      "-23.6249818",
+      "-70.3800344",
+      "-70.3788112"
+    ],
+    "lat": "-23.6253026",
+    "lon": "-70.3794359",
+    "display_name": "Tesla, Antofagasta, Provincia de Antofagasta, II Regi\u00f3n de Antofagasta, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84873804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95139804",
+    "boundingbox": [
+      "-23.6251803",
+      "-23.6250254",
+      "-70.3804708",
+      "-70.3801796"
+    ],
+    "lat": "-23.6250254",
+    "lon": "-70.3804708",
+    "display_name": "Tesla, Antofagasta, Provincia de Antofagasta, II Regi\u00f3n de Antofagasta, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92920821",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125263554",
+    "boundingbox": [
+      "33.6308977",
+      "33.6346277",
+      "-117.7397861",
+      "-117.7352925"
+    ],
+    "lat": "33.6329549",
+    "lon": "-117.7375944",
+    "display_name": "Tesla, Irvine, Orange County, California, 92637, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89800096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114538904",
+    "boundingbox": [
+      "49.8256224",
+      "49.8256471",
+      "18.3674438",
+      "18.3674719"
+    ],
+    "lat": "49.8256224",
+    "lon": "18.3674719",
+    "display_name": "Tesla, Pet\u0159vald u Karvin\u00e9, Pet\u0159vald, okres Karvin\u00e1, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 73541, \u010cesko",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

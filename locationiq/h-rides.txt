@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "120838475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240351420",
+    "boundingbox": [
+      "52.1644647",
+      "52.170859",
+      "-1.5535515",
+      "-1.5431002"
+    ],
+    "lat": "52.1675861",
+    "lon": "-1.54817353625929",
+    "display_name": "The Rides, Compton Verney CP, Stratford-on-Avon, Warwickshire, West Midlands, England, CV35, UK",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.3
+  },
+  {
+    "place_id": "79071487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58760318",
+    "boundingbox": [
+      "52.6959305",
+      "52.6980372",
+      "-0.3392486",
+      "-0.338004"
+    ],
+    "lat": "52.6968538",
+    "lon": "-0.3390125",
+    "display_name": "The Rides, Langtoft CP, South Kesteven, Lincolnshire, East Midlands, England, PE6 9NB, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "121708483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243931163",
+    "boundingbox": [
+      "53.4650903",
+      "53.4652165",
+      "-2.6703181",
+      "-2.6694523"
+    ],
+    "lat": "53.4650903",
+    "lon": "-2.669978",
+    "display_name": "The Rides, Newton Common, St Helens, North West England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

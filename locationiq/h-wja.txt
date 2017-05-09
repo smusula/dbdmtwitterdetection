@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "10929008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042047911",
+    "boundingbox": [
+      "7.4373501",
+      "7.4673501",
+      "168.537002",
+      "168.567002"
+    ],
+    "lat": "7.4523501",
+    "lon": "168.552002",
+    "display_name": "Woja Airport, Ael\u014dn\u0304\u013cap\u013cap, Ael\u014dn\u0304 in M\u0327aje\u013c",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.13061965013967,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "16504906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1519998102",
+    "boundingbox": [
+      "35.8662785",
+      "35.8663785",
+      "14.5172441",
+      "14.5173441"
+    ],
+    "lat": "35.8663285",
+    "lon": "14.5172941",
+    "display_name": "WJA, Triq Id-Dejma, Tarxien, Malta, FGR1017, Malta",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  }
+]

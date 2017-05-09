@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "67786863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21689041",
+    "boundingbox": [
+      "44.5192905",
+      "44.5204376",
+      "-67.7600119",
+      "-67.7582245"
+    ],
+    "lat": "44.51980405",
+    "lon": "-67.759127020171",
+    "display_name": "Nightcap, Washington County, Maine, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160940546",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6070050",
+    "boundingbox": [
+      "-28.604176",
+      "-28.5158298",
+      "153.2099405",
+      "153.3479909"
+    ],
+    "lat": "-28.55982685",
+    "lon": "153.320206097747",
+    "display_name": "Nightcap, Lismore, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "141081231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "338548477",
+    "boundingbox": [
+      "53.4465409",
+      "53.4485508",
+      "-2.8217792",
+      "-2.8196583"
+    ],
+    "lat": "53.44757185",
+    "lon": "-2.8206187424307",
+    "display_name": "The Nightcap, Safari Drive, Mosscroft, Knowsley, North West England, England, UK",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  },
+  {
+    "place_id": "18745819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1822423440",
+    "boundingbox": [
+      "44.9207781",
+      "44.9208781",
+      "-62.0333063",
+      "-62.0332063"
+    ],
+    "lat": "44.9208281",
+    "lon": "-62.0332563",
+    "display_name": "The Nightcap, St. Mary's District Municipality, Guysborough County, Nova Scotia, Canada",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  }
+]

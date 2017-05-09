@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "22630008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2242467522",
+    "boundingbox": [
+      "46.5224462",
+      "46.5424462",
+      "1.3630418",
+      "1.3830418"
+    ],
+    "lat": "46.5324462",
+    "lon": "1.3730418",
+    "display_name": "La Blonde, Luzeret, Le Blanc, Indre, Centre-Val de Loire, 36800, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18080134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1758440711",
+    "boundingbox": [
+      "46.6199078",
+      "46.6200078",
+      "4.3365619",
+      "4.3366619"
+    ],
+    "lat": "46.6199578",
+    "lon": "4.3366119",
+    "display_name": "La Blonde, Pouilloux, Charolles, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71230, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "79732315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61397178",
+    "boundingbox": [
+      "43.753945",
+      "43.757842",
+      "6.7683471",
+      "6.7741408"
+    ],
+    "lat": "43.7566091",
+    "lon": "6.7725002",
+    "display_name": "La Blonde, Caille, Grasse, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06750, France",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "4735420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "504331543",
+    "boundingbox": [
+      "55.9424532",
+      "55.9425532",
+      "-3.1794579",
+      "-3.1793579"
+    ],
+    "lat": "55.9425032",
+    "lon": "-3.1794079",
+    "display_name": "Blonde, 71-75, St Leonard's Street, St Leonards, Southside, Edinburgh, City of Edinburgh, Scotland, EH8 9QR, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2649925157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4633818926",
+    "boundingbox": [
+      "47.612349",
+      "47.612449",
+      "-122.3425638",
+      "-122.3424638"
+    ],
+    "lat": "47.612399",
+    "lon": "-122.3425138",
+    "display_name": "Blonde, 211, Lenora Street, Belltown, Seattle, King County, Washington, 98121, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "23309177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2311043278",
+    "boundingbox": [
+      "51.0341417",
+      "51.0342417",
+      "2.3371806",
+      "2.3372806"
+    ],
+    "lat": "51.0341917",
+    "lon": "2.3372306",
+    "display_name": "Blonde, Rue Delporte, La Cit\u00e9 des Cheminots, Saint-Pol-sur-Mer, Dunkerque, Nord, Hauts-de-France, 59140;59240;59640, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "19273796",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1902343163",
+    "boundingbox": [
+      "53.080002",
+      "53.080102",
+      "8.8292642",
+      "8.8293642"
+    ],
+    "lat": "53.080052",
+    "lon": "8.8293142",
+    "display_name": "La Blonde, Uhlandstra\u00dfe, Gete, Schwachhausen, Stadtbezirk Bremen-Ost, Bremen, 28211, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "30852077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2742501958",
+    "boundingbox": [
+      "49.886163",
+      "49.886263",
+      "-119.4969275",
+      "-119.4968275"
+    ],
+    "lat": "49.886213",
+    "lon": "-119.4968775",
+    "display_name": "Blonde, 293, Bernard Avenue, North Kelowna, Kelowna, Regional District of Central Okanagan, British Columbia, V1Y 2A7, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "48407685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3534313396",
+    "boundingbox": [
+      "49.9145671",
+      "49.9146671",
+      "-6.3128894",
+      "-6.3127894"
+    ],
+    "lat": "49.9146171",
+    "lon": "-6.3128394",
+    "display_name": "Blonde, Church Street, St Mary's, Hugh Town, Isles of Scilly, South West England, England, TR21 0JT, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "8978709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "941633219",
+    "boundingbox": [
+      "46.2156522",
+      "46.2157522",
+      "6.1949437",
+      "6.1950437"
+    ],
+    "lat": "46.2157022",
+    "lon": "6.1949937",
+    "display_name": "La Blonde, Route de Vandoeuvres, Vandoeuvres, Gen\u00e8ve, 1253, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

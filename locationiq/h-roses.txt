@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160314531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "344928",
+    "boundingbox": [
+      "42.2322568",
+      "42.3073937",
+      "3.1313803",
+      "3.2666178"
+    ],
+    "lat": "42.2632018",
+    "lon": "3.1755328",
+    "display_name": "Roses, Alt Empord\u00e0, Girona, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5900458560827,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652527223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4695839497",
+    "boundingbox": [
+      "43.7338922",
+      "43.7738922",
+      "0.4405449",
+      "0.4805449"
+    ],
+    "lat": "43.7538922",
+    "lon": "0.4605449",
+    "display_name": "Roses, Auch, Gers, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "488758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158616519",
+    "boundingbox": [
+      "41.434507",
+      "41.474507",
+      "-79.1764295",
+      "-79.1364295"
+    ],
+    "lat": "41.454507",
+    "lon": "-79.1564295",
+    "display_name": "Roses, Forest County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "683227",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249597193",
+    "boundingbox": [
+      "-4.0199999",
+      "-3.9799999",
+      "-79.8533329",
+      "-79.8133329"
+    ],
+    "lat": "-3.9999999",
+    "lon": "-79.8333329",
+    "display_name": "Roses, Cant\u00f3n Paltas, Loja, Ecuador",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "100968716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159974817",
+    "boundingbox": [
+      "50.969873",
+      "50.9702991",
+      "9.4799432",
+      "9.4809322"
+    ],
+    "lat": "50.97019215",
+    "lon": "9.4805017046875",
+    "display_name": "Roses, V\u00f6lkershain, Kn\u00fcllwald, Schwalm-Eder-Kreis, Regierungsbezirk Kassel, Hessen, 34593, Deutschland, Europe",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "45719474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3253512816",
+    "boundingbox": [
+      "42.9869945",
+      "43.0069945",
+      "1.1157316",
+      "1.1357316"
+    ],
+    "lat": "42.9969945",
+    "lon": "1.1257316",
+    "display_name": "Ros\u00e9s, Saint-Lizier, Saint-Girons, Ari\u00e8ge, Occitanie, 09190, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55828339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4342580513",
+    "boundingbox": [
+      "44.1986402",
+      "44.2186402",
+      "-0.1190073",
+      "-0.0990073"
+    ],
+    "lat": "44.2086402",
+    "lon": "-0.1090073",
+    "display_name": "Ros\u00e9s, Allons, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47420, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "68387280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23070050",
+    "boundingbox": [
+      "51.603203",
+      "51.6037337",
+      "0.0177547",
+      "0.0184507"
+    ],
+    "lat": "51.603476",
+    "lon": "0.0180146",
+    "display_name": "The Roses, Snaresbrook, London Borough of Redbridge, London, Greater London, England, IG8 9HQ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "83063832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85373067",
+    "boundingbox": [
+      "36.8497215",
+      "36.8502594",
+      "10.3101027",
+      "10.311245"
+    ],
+    "lat": "36.8500031",
+    "lon": "10.3107015",
+    "display_name": "Roses, \u0642\u0631\u0637\u0627\u062c, Carthage, \u062a\u0648\u0646\u0633, 2025, \u062a\u0648\u0646\u0633",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111439285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202086215",
+    "boundingbox": [
+      "46.4006459",
+      "46.4011786",
+      "6.5120071",
+      "6.5123336"
+    ],
+    "lat": "46.4011786",
+    "lon": "6.5120071",
+    "display_name": "Roses, Saint-Disdille, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74200, France",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

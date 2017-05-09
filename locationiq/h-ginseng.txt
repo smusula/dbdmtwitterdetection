@@ -1,0 +1,171 @@
+[
+  {
+    "place_id": "401443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153559814",
+    "boundingbox": [
+      "37.4847837",
+      "37.5247837",
+      "-85.6010754",
+      "-85.5610754"
+    ],
+    "lat": "37.5047837",
+    "lon": "-85.5810754",
+    "display_name": "Ginseng, Larue County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "65804111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18771511",
+    "boundingbox": [
+      "38.8293364",
+      "38.830085",
+      "-91.4143079",
+      "-91.4124703"
+    ],
+    "lat": "38.8296632",
+    "lon": "-91.4129203",
+    "display_name": "Ginseng, Warren County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85953379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99471184",
+    "boundingbox": [
+      "24.8637289",
+      "24.8653587",
+      "-99.5870216",
+      "-99.5867996"
+    ],
+    "lat": "24.8645058",
+    "lon": "-99.5869158",
+    "display_name": "Ginseng, Linares, Nuevo Le\u00f3n, 67700, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "6474034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "663651452",
+    "boundingbox": [
+      "51.3694302",
+      "51.3695302",
+      "12.3650868",
+      "12.3651868"
+    ],
+    "lat": "51.3694802",
+    "lon": "12.3651368",
+    "display_name": "Ginseng, 1, Stauffenbergstra\u00dfe, Gohlis-Mitte, Nord, Leipzig, Sachsen, 04157, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22875060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2268370124",
+    "boundingbox": [
+      "43.2923558",
+      "43.2924558",
+      "5.372824",
+      "5.372924"
+    ],
+    "lat": "43.2924058",
+    "lon": "5.372874",
+    "display_name": "Ginseng, Cours Honor\u00e9 d'Estienne d'Orves, Op\u00e9ra, Marseille 1er Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13001, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "143281616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "355240064",
+    "boundingbox": [
+      "53.3792277",
+      "53.3793918",
+      "-1.4804329",
+      "-1.480278"
+    ],
+    "lat": "53.3793011",
+    "lon": "-1.48035508397998",
+    "display_name": "Ginseng, West One Plaza, Moorfoot, Saint George's, Sheffield, Yorkshire and the Humber, England, S3 7RX, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21673998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2161378451",
+    "boundingbox": [
+      "45.4284641",
+      "45.4285641",
+      "28.0475632",
+      "28.0476632"
+    ],
+    "lat": "45.4285141",
+    "lon": "28.0476132",
+    "display_name": "Ginseng, Strada Ro\u0219iori, Gala\u021bi, 800055, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "3513451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "370202183",
+    "boundingbox": [
+      "51.2712175",
+      "51.2713175",
+      "0.1916451",
+      "0.1917451"
+    ],
+    "lat": "51.2712675",
+    "lon": "0.1916951",
+    "display_name": "Ginseng, Well Court, Sevenoaks, Kent, South East, England, TN13 1UN, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22461307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2199903063",
+    "boundingbox": [
+      "37.3898866",
+      "37.3899866",
+      "-122.082569",
+      "-122.082469"
+    ],
+    "lat": "37.3899366",
+    "lon": "-122.082519",
+    "display_name": "Ginseng, 475, Mercy Street, Mountain View, Santa Clara County, California, 94041, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "161015241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6424088",
+    "boundingbox": [
+      "40.8644069",
+      "40.8652281",
+      "-73.9322417",
+      "-73.9313659"
+    ],
+    "lat": "40.8648281",
+    "lon": "-73.9317282103395",
+    "display_name": "The Cloisters, West Terrace, Inwood, Manhattan, New York County, NYC, New York, 10040, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.4466874034691,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "484993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158582967",
+    "boundingbox": [
+      "38.9306662",
+      "38.9706662",
+      "-77.2002577",
+      "-77.1602577"
+    ],
+    "lat": "38.9506662",
+    "lon": "-77.1802577",
+    "display_name": "The Cloisters, Fairfax County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "449128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154285287",
+    "boundingbox": [
+      "35.1395891",
+      "35.1795891",
+      "-80.8239596",
+      "-80.7839596"
+    ],
+    "lat": "35.1595891",
+    "lon": "-80.8039596",
+    "display_name": "The Cloisters, Mecklenburg County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "429522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153979274",
+    "boundingbox": [
+      "34.6790358",
+      "34.7190358",
+      "-80.8295154",
+      "-80.7895154"
+    ],
+    "lat": "34.6990358",
+    "lon": "-80.8095154",
+    "display_name": "Cloisters, Lancaster County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "477493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158470610",
+    "boundingbox": [
+      "34.1329343",
+      "34.1729343",
+      "-79.8000636",
+      "-79.7600636"
+    ],
+    "lat": "34.1529343",
+    "lon": "-79.7800636",
+    "display_name": "Cloisters, Florence County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "97869700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "146574160",
+    "boundingbox": [
+      "51.7497867",
+      "51.7500006",
+      "-1.2549937",
+      "-1.2548172"
+    ],
+    "lat": "51.749927",
+    "lon": "-1.25490189181499",
+    "display_name": "Cloisters, Grandpont, Oxford, Oxon, South East, England, UK",
+    "class": "landuse",
+    "type": "churchyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "125368292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "259376719",
+    "boundingbox": [
+      "50.927237",
+      "50.9280541",
+      "-1.4407712",
+      "-1.4393996"
+    ],
+    "lat": "50.92760235",
+    "lon": "-1.44008275241635",
+    "display_name": "The Cloisters, Shirley Warren, Southampton, South East, England, SO15, UK",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "117567453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227235091",
+    "boundingbox": [
+      "51.0642564",
+      "51.0646475",
+      "-1.7981476",
+      "-1.797531"
+    ],
+    "lat": "51.06445455",
+    "lon": "-1.79784119834066",
+    "display_name": "The Cloisters, Salisbury, Wiltshire, South West England, England, UK",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "145974985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369842871",
+    "boundingbox": [
+      "51.4918259",
+      "51.4920435",
+      "-0.607792",
+      "-0.6074473"
+    ],
+    "lat": "51.49195465",
+    "lon": "-0.607616077192891",
+    "display_name": "The Cloisters, Eton CP, Eton, Windsor and Maidenhead, South East, England, UK",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "155813825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422991519",
+    "boundingbox": [
+      "56.3395295",
+      "56.3398774",
+      "-2.7883407",
+      "-2.7876857"
+    ],
+    "lat": "56.3397045",
+    "lon": "-2.78801039466843",
+    "display_name": "Cloisters, Carngour, St Andrews, Fife, Scotland, KY16, UK",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160286394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "166713",
+    "boundingbox": [
+      "43.4498733",
+      "43.5188846",
+      "-1.5048437",
+      "-1.4172609"
+    ],
+    "lat": "43.4933379",
+    "lon": "-1.4750989",
+    "display_name": "Bayonne, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64100, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71096463176605,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160285908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170504",
+    "boundingbox": [
+      "40.642149",
+      "40.701072",
+      "-74.1613739",
+      "-74.0495939"
+    ],
+    "lat": "40.6687141",
+    "lon": "-74.114309",
+    "display_name": "Bayonne, Hudson County, New Jersey, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.54878989824505,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160569315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2770753",
+    "boundingbox": [
+      "43.0076101",
+      "43.5474276",
+      "-1.7910226",
+      "-0.8628909"
+    ],
+    "lat": "43.2775332",
+    "lon": "-1.20871100347587",
+    "display_name": "Bayonne, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.447828369551,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3584067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "387616223",
+    "boundingbox": [
+      "43.492103",
+      "43.502103",
+      "-1.4753152",
+      "-1.4653152"
+    ],
+    "lat": "43.497103",
+    "lon": "-1.4703152",
+    "display_name": "Bayonne, Place Pereire, Saint-Esprit, Bayonne, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64100, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "18732871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1846698959",
+    "boundingbox": [
+      "44.418205",
+      "44.458205",
+      "4.8683211",
+      "4.9083211"
+    ],
+    "lat": "44.438205",
+    "lon": "4.8883211",
+    "display_name": "Bayonne, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56589738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4407040041",
+    "boundingbox": [
+      "44.6219992",
+      "44.6619992",
+      "0.7385094",
+      "0.7785094"
+    ],
+    "lat": "44.6419992",
+    "lon": "0.7585094",
+    "display_name": "Bayonne, Villeneuve-sur-Lot, Lot-et-Garonne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24528950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2387259037",
+    "boundingbox": [
+      "43.8709989",
+      "43.9109989",
+      "2.0901285",
+      "2.1301285"
+    ],
+    "lat": "43.8909989",
+    "lon": "2.1101285",
+    "display_name": "Bayonne, Albi, Tarn, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "384580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151892641",
+    "boundingbox": [
+      "42.7655546",
+      "42.8055546",
+      "-101.99766",
+      "-101.95766"
+    ],
+    "lat": "42.7855546",
+    "lon": "-101.97766",
+    "display_name": "Bayonne, Cherry County, Nebraska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44422348",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3150806585",
+    "boundingbox": [
+      "44.8268314",
+      "44.8269314",
+      "-0.3649807",
+      "-0.3648807"
+    ],
+    "lat": "44.8268814",
+    "lon": "-0.3649307",
+    "display_name": "Bayonne, Camarsac, Bordeaux, Gironde, Nouvelle-Aquitaine, 33750, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2644768706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4515733483",
+    "boundingbox": [
+      "44.3277351",
+      "44.3477351",
+      "-0.0078972",
+      "0.0121028"
+    ],
+    "lat": "44.3377351",
+    "lon": "0.0021028",
+    "display_name": "Bayonne, Saint-Martin-Curton, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47700, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

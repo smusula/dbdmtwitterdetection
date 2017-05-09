@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "22768946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2265879916",
+    "boundingbox": [
+      "51.2055727",
+      "51.2056727",
+      "6.7611082",
+      "6.7612082"
+    ],
+    "lat": "51.2056227",
+    "lon": "6.7611582",
+    "display_name": "KBB Krankenbef\u00f6rderung GmbH, 86a, Volmerswerther Stra\u00dfe, Bilk, Stadtbezirk 3, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40221, Deutschland",
+    "class": "amenity",
+    "type": "social_facility",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18993811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1836631449",
+    "boundingbox": [
+      "53.8284148",
+      "53.8285148",
+      "87.1659929",
+      "87.1660929"
+    ],
+    "lat": "53.8284648",
+    "lon": "87.1660429",
+    "display_name": "\u041a\u0411\u0411, 24, \u0443\u043b\u0438\u0446\u0430 \u041c\u043e\u0440\u0438\u0441\u0430 \u0422\u043e\u0440\u0435\u0437\u0430, \u0417\u0430\u0432\u043e\u0434\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a, \u041d\u043e\u0432\u043e\u043a\u0443\u0437\u043d\u0435\u0446\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 654038, \u0420\u0424",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "286147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "86109911",
+    "boundingbox": [
+      "65.7984382",
+      "65.7985382",
+      "23.2847467",
+      "23.2848467"
+    ],
+    "lat": "65.7984882",
+    "lon": "23.2847967",
+    "display_name": "Karlsborgsbruk, BD 709, Karlsborg, Kalix, Norrbotten, Norrbottens l\u00e4n, Norrland, Sverige",
+    "class": "railway",
+    "type": "technical_station",
+    "importance": 0.001
+  },
+  {
+    "place_id": "11027053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042094341",
+    "boundingbox": [
+      "-17.7941995",
+      "-17.7641995",
+      "129.1950067",
+      "129.2250067"
+    ],
+    "lat": "-17.7791995",
+    "lon": "129.2100067",
+    "display_name": "Kirkimbie Station Airport, Victoria-Daly Region, Northern Territory, Australia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

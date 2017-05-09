@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160589214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2829664",
+    "boundingbox": [
+      "42.6218045",
+      "42.6588107",
+      "2.1219562",
+      "2.1768107"
+    ],
+    "lat": "42.6308814",
+    "lon": "2.133015",
+    "display_name": "R\u00e9al, Prades, Pyr\u00e9n\u00e9es-Orientales, Occitanie, 66210, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48035994322717,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160779932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4467897",
+    "boundingbox": [
+      "18.0502315",
+      "18.1158066",
+      "-66.5822295",
+      "-66.5438747"
+    ],
+    "lat": "18.08298175",
+    "lon": "-66.5623375388308",
+    "display_name": "Real, Ponce, Puerto Rico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160968129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6021194",
+    "boundingbox": [
+      "40.9622588",
+      "41.0385156",
+      "-8.3241037",
+      "-8.2341227"
+    ],
+    "lat": "41.0028714",
+    "lon": "-8.2698371",
+    "display_name": "Real, Castelo de Paiva, Aveiro, T\u00e2mega e Sousa, Norte, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161022342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6436576",
+    "boundingbox": [
+      "40.6241783",
+      "40.6489926",
+      "-7.698019",
+      "-7.662266"
+    ],
+    "lat": "40.6428386",
+    "lon": "-7.6774878",
+    "display_name": "Real, Penalva do Castelo, Viseu, Viseu D\u00e3o-Laf\u00f5es, Centro, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160901879",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5830083",
+    "boundingbox": [
+      "41.2332098",
+      "41.2608932",
+      "-8.1926725",
+      "-8.1443851"
+    ],
+    "lat": "41.2472875",
+    "lon": "-8.17205015744594",
+    "display_name": "Real, Vila Me\u00e3, Amarante, Porto, T\u00e2mega e Sousa, Norte, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "51405406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3843271813",
+    "boundingbox": [
+      "8.3956615",
+      "8.4756615",
+      "-70.0365458",
+      "-69.9565458"
+    ],
+    "lat": "8.4356615",
+    "lon": "-69.9965458",
+    "display_name": "El Real, Distrito Obispos, Barinas, Venezuela",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "529107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198495534",
+    "boundingbox": [
+      "14.6255471",
+      "14.7055471",
+      "121.5636811",
+      "121.6436811"
+    ],
+    "lat": "14.6655471",
+    "lon": "121.6036811",
+    "display_name": "Real, Quezon, Calabarzon, 4335, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.39580200638804,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160314046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "342345",
+    "boundingbox": [
+      "39.2912802",
+      "39.3436043",
+      "-0.6816144",
+      "-0.5809078"
+    ],
+    "lat": "39.3342846",
+    "lon": "-0.6083919",
+    "display_name": "Real, Ribera Alta, Valencia/Val\u00e8ncia, Comunitat Valenciana, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160752058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4140539",
+    "boundingbox": [
+      "41.5491385",
+      "41.5638057",
+      "-8.4512644",
+      "-8.430695"
+    ],
+    "lat": "41.5564188",
+    "lon": "-8.44065152449542",
+    "display_name": "Real, Real, Dume e Semelhe, Braga, C\u00e1vado, Norte, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39244504582027,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "44492513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3152614076",
+    "boundingbox": [
+      "41.5400708",
+      "41.5800708",
+      "-8.4589249",
+      "-8.4189249"
+    ],
+    "lat": "41.5600708",
+    "lon": "-8.4389249",
+    "display_name": "Real, Braga, C\u00e1vado, Norte, Portugal",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39244504582027,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

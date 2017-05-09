@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160322861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307828",
+    "boundingbox": [
+      "17.2701708",
+      "21.303433",
+      "-72.0574705",
+      "-68.1101462"
+    ],
+    "lat": "19.0974031",
+    "lon": "-70.3028025",
+    "display_name": "Rep\u00fablica Dominicana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.61082982708051,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "116348954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222763783",
+    "boundingbox": [
+      "-23.9436418",
+      "-23.9431348",
+      "-46.3788643",
+      "-46.3777052"
+    ],
+    "lat": "-23.9433413",
+    "lon": "-46.378017",
+    "display_name": "Avenida Dominicano Jaime de Barros C\u00e2mara, Chico de Paula, Santos, Microrregi\u00e3o de Santos, Regi\u00e3o Metropolitana da Baixada Santista, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, 11087200, Brasil",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70819792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28265116",
+    "boundingbox": [
+      "18.4574903",
+      "18.4589341",
+      "-69.9558781",
+      "-69.9550611"
+    ],
+    "lat": "18.4579217",
+    "lon": "-69.9552695",
+    "display_name": "Calle Museo del Hombre Dominicano, Mirador Norte, Los Jardines, Santo Domingo, Distrito Nacional, 10149, Rep\u00fablica Dominicana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "139186481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "330251145",
+    "boundingbox": [
+      "37.3120709",
+      "37.3144171",
+      "-6.8530064",
+      "-6.849143"
+    ],
+    "lat": "37.3132535",
+    "lon": "-6.8511491972983",
+    "display_name": "Pol\u00edgono Domincano, San Juan del Puerto, Huelva, Andaluc\u00eda, 21610, Espa\u00f1a",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "156367352",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426146947",
+    "boundingbox": [
+      "20.4397113",
+      "20.4485519",
+      "-103.2353736",
+      "-103.2322103"
+    ],
+    "lat": "20.4443166",
+    "lon": "-103.2338759",
+    "display_name": "Olivo Dominicano, Fraccionamiento Las Carretas, Valle de Los Olivos, Ixtlahuac\u00e1n de los Membrillos, Jalisco, 45870, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2651269420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4665843593",
+    "boundingbox": [
+      "18.4476685",
+      "18.4477685",
+      "-69.9290723",
+      "-69.9289723"
+    ],
+    "lat": "18.4477185",
+    "lon": "-69.9290223",
+    "display_name": "Instituto postal Dominicano, Calle Heroes de Luper\u00f3n, Ensanche La Paz, Miraflores, Santo Domingo, Distrito Nacional, 10102, Rep\u00fablica Dominicana",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "2648297483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "397646813",
+    "boundingbox": [
+      "18.4501214",
+      "18.4505107",
+      "-69.9728485",
+      "-69.9717436"
+    ],
+    "lat": "18.450308",
+    "lon": "-69.9726070026214",
+    "display_name": "Instituto Agrario Dominicano - IAD, Avenida 27 de Febrero, Renacimiento, Los Jardines, Santo Domingo, Distrito Nacional, 11108, Rep\u00fablica Dominicana",
+    "class": "office",
+    "type": "government",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647844104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463370214",
+    "boundingbox": [
+      "18.4460289",
+      "18.4469798",
+      "-69.9283702",
+      "-69.926802"
+    ],
+    "lat": "18.446384",
+    "lon": "-69.9275995864509",
+    "display_name": "Instituto Posal Dominicano (INPOSDOM), Calle Rafael Damiron, Costa Brava, Miraflores, Santo Domingo, Distrito Nacional, 10102, Rep\u00fablica Dominicana",
+    "class": "office",
+    "type": "government",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150420380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391976419",
+    "boundingbox": [
+      "18.4767425",
+      "18.477045",
+      "-69.9356719",
+      "-69.9354177"
+    ],
+    "lat": "18.4769245",
+    "lon": "-69.9355448005118",
+    "display_name": "Ballet Concierto Dominicano, Calle Filomena Gomez de Cova, Residencial Aurora, Los Jardines, Santo Domingo, Distrito Nacional, 10148, Rep\u00fablica Dominicana",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "132875028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300559499",
+    "boundingbox": [
+      "18.4799511",
+      "18.4803099",
+      "-69.9390809",
+      "-69.9386571"
+    ],
+    "lat": "18.48013045",
+    "lon": "-69.9388690027816",
+    "display_name": "Instituto Dominicano de Las Telecomunicaciones, 962, Avenida Abraham Lincoln, Naco, Los Jardines, Santo Domingo, Distrito Nacional, 10148, Rep\u00fablica Dominicana",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

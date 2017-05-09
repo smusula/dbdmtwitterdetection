@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160247930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "41977",
+    "boundingbox": [
+      "42.237615",
+      "44.4725962",
+      "9.6868046",
+      "12.3713544"
+    ],
+    "lat": "43.4586541",
+    "lon": "11.1389204",
+    "display_name": "TOS, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68988153272353,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "284765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "82264731",
+    "boundingbox": [
+      "51.1053802",
+      "51.1453802",
+      "-114.2648424",
+      "-114.2248424"
+    ],
+    "lat": "51.1253802",
+    "lon": "-114.2448424",
+    "display_name": "Tuscany, Calgary, Alberta, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.45429461659391,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "130437061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "288499932",
+    "boundingbox": [
+      "28.8952493",
+      "28.8981706",
+      "-97.0030503",
+      "-96.9999861"
+    ],
+    "lat": "28.89677185",
+    "lon": "-97.0015151342707",
+    "display_name": "Tuscany, Victoria County, Texas, 77904, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2652694248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "476399505",
+    "boundingbox": [
+      "29.9740006",
+      "29.9814214",
+      "-95.6141583",
+      "-95.6063281"
+    ],
+    "lat": "29.97838815",
+    "lon": "-95.6095550938294",
+    "display_name": "Tuscany, Kohrville, Harris County, Texas, 77070, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160504936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2052872",
+    "boundingbox": [
+      "28.585911",
+      "28.590358",
+      "-81.5663549",
+      "-81.5615759"
+    ],
+    "lat": "28.5881927",
+    "lon": "-81.563673325",
+    "display_name": "Tuscany, Winter Garden, Orange County, Florida, 34761, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "142067210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "345273798",
+    "boundingbox": [
+      "35.6751571",
+      "35.6775074",
+      "-78.8051141",
+      "-78.8010765"
+    ],
+    "lat": "35.67634305",
+    "lon": "-78.8030468146652",
+    "display_name": "Tuscany, Feltonville, Wake County, North Carolina, 27539, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "89315248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "113044449",
+    "boundingbox": [
+      "47.7060768",
+      "47.7176984",
+      "-122.0837219",
+      "-122.0672358"
+    ],
+    "lat": "47.712464",
+    "lon": "-122.075617028367",
+    "display_name": "Tuscany, Union Hill-Novelty Hill, White, King County, Washington, 98052, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2608696182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4464109075",
+    "boundingbox": [
+      "33.7363184",
+      "33.7364184",
+      "-78.9539167",
+      "-78.9538167"
+    ],
+    "lat": "33.7363684",
+    "lon": "-78.9538667",
+    "display_name": "Tuscany, Forestbrook, Horry County, South Carolina, 29579, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "111832601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203922267",
+    "boundingbox": [
+      "31.871759",
+      "31.871987",
+      "-106.5416859",
+      "-106.5363329"
+    ],
+    "lat": "31.87181",
+    "lon": "-106.5390019",
+    "display_name": "Tuscany, El Paso City, El Paso County, Texas, 79913, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138890343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329038180",
+    "boundingbox": [
+      "30.163253",
+      "30.1633422",
+      "-93.2425615",
+      "-93.2401992"
+    ],
+    "lat": "30.163253",
+    "lon": "-93.2421895",
+    "display_name": "Tuscany, Lake Charles, Calcasieu Parish, Louisiana, 70605, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

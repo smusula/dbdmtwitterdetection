@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "160298336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "224951",
+    "boundingbox": [
+      "38.7911303",
+      "41.357757",
+      "-75.5633859",
+      "-73.8940325"
+    ],
+    "lat": "40.0757384",
+    "lon": "-74.4041621",
+    "display_name": "New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7149971156187,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161906857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "40.85993731579",
+      "40.86003731579",
+      "-74.276626776401",
+      "-74.276526776401"
+    ],
+    "lat": "40.8599873157899",
+    "lon": "-74.2765767764014",
+    "display_name": "West Caldwell, Essex County, New Jersey, NJ, United States of America",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.325
+  },
+  {
+    "place_id": "56480627",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4395808611",
+    "boundingbox": [
+      "36.1543962",
+      "36.1943962",
+      "51.9827971",
+      "52.0227971"
+    ],
+    "lat": "36.1743962",
+    "lon": "52.0027971",
+    "display_name": "\u0646\u062c, \u0628\u062e\u0634 \u0628\u0644\u062f\u0647, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0646\u0648\u0631, \u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28130865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2627330126",
+    "boundingbox": [
+      "57.6495678",
+      "57.6496678",
+      "14.6966859",
+      "14.6967859"
+    ],
+    "lat": "57.6496178",
+    "lon": "14.6967359",
+    "display_name": "N\u00e4ssj\u00f6 J\u00e4rnv\u00e4gsmuseum, 10, Brogatan, \u00c5ker, Norrboda, N\u00e4ssj\u00f6, J\u00f6nk\u00f6pings l\u00e4n, G\u00f6taland, 57134, Sverige",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.10803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "88299993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109496101",
+    "boundingbox": [
+      "29.9903072",
+      "29.9917767",
+      "-95.3398206",
+      "-95.3393887"
+    ],
+    "lat": "29.9911494",
+    "lon": "-95.3398186",
+    "display_name": "NJ, North Terminal Road, Houston, Harris County, Texas, 77205, United States of America",
+    "class": "aeroway",
+    "type": "taxiway",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652031024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "367684470",
+    "boundingbox": [
+      "52.4159446",
+      "52.4160446",
+      "-1.9704671",
+      "-1.9703671"
+    ],
+    "lat": "52.4159946",
+    "lon": "-1.9704171",
+    "display_name": "NJ, Bristol Road South, Bournbrook, Northfield, West Midlands Combined Authority, West Midlands, England, B31 2NR, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

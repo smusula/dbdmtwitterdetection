@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "54080610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4155433189",
+    "boundingbox": [
+      "42.2814183",
+      "42.2815183",
+      "1.5088274",
+      "1.5089274"
+    ],
+    "lat": "42.2814683",
+    "lon": "1.5088774",
+    "display_name": "la Mua, la Vansa i F\u00f3rnols, Alt Urgell, Lleida, CAT, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "4604861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501413994",
+    "boundingbox": [
+      "8.752947",
+      "8.792947",
+      "3.2199544",
+      "3.2599544"
+    ],
+    "lat": "8.772947",
+    "lon": "3.2399544",
+    "display_name": "Mua, Saki West, Oyo, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "862167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "273915157",
+    "boundingbox": [
+      "-14.3036582",
+      "-14.2636582",
+      "34.4910091",
+      "34.5310091"
+    ],
+    "lat": "-14.2836582",
+    "lon": "34.5110091",
+    "display_name": "Mua, Central Region, Malawi",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "20671393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2036188647",
+    "boundingbox": [
+      "45.4459678",
+      "45.4460678",
+      "7.2045235",
+      "7.2046235"
+    ],
+    "lat": "45.4460178",
+    "lon": "7.2045735",
+    "display_name": "Mua, Ceresole Reale, TO, PIE, Italia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "13193226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241631649",
+    "boundingbox": [
+      "42.2713873",
+      "42.2913873",
+      "1.4992681",
+      "1.5192681"
+    ],
+    "lat": "42.2813873",
+    "lon": "1.5092681",
+    "display_name": "la Mua, la Vansa i F\u00f3rnols, Alt Urgell, Lleida, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25657793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2467814286",
+    "boundingbox": [
+      "4.1503879",
+      "4.1903879",
+      "9.2871177",
+      "9.3271177"
+    ],
+    "lat": "4.1703879",
+    "lon": "9.3071177",
+    "display_name": "Muea, Fako, SW, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45553177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3255868009",
+    "boundingbox": [
+      "-21.2042074",
+      "-21.1642074",
+      "-175.1421712",
+      "-175.1021712"
+    ],
+    "lat": "-21.1842074",
+    "lon": "-175.1221712",
+    "display_name": "Mu'a, Vahe Tatakamotonga, Tongatapu, Tonga",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42227994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3074745323",
+    "boundingbox": [
+      "-15.6235216",
+      "-15.5835216",
+      "-175.6286815",
+      "-175.5886815"
+    ],
+    "lat": "-15.6035216",
+    "lon": "-175.6086815",
+    "display_name": "Mu'a, Vahe Niuafo'ou, Ongo Niua, Tonga",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45435067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3215509575",
+    "boundingbox": [
+      "-21.4021713",
+      "-21.3621713",
+      "-174.9742166",
+      "-174.9342166"
+    ],
+    "lat": "-21.3821713",
+    "lon": "-174.9542166",
+    "display_name": "Mu'a, Vahe 'Eua, Tongatapu, Tonga",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13622614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242918632",
+    "boundingbox": [
+      "43.1085345",
+      "43.1285345",
+      "-5.4818599",
+      "-5.4618599"
+    ],
+    "lat": "43.1185345",
+    "lon": "-5.4718599",
+    "display_name": "La M\u00faa, Aller, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

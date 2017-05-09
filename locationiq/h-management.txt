@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "108209554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188356601",
+    "boundingbox": [
+      "-29.2915148",
+      "-29.291349",
+      "30.3661026",
+      "30.3663963"
+    ],
+    "lat": "-29.29139585",
+    "lon": "30.3662498709226",
+    "display_name": "Management, Holbeck Road, uMshwathi Ward 1, uMshwathi Local Municipality, uMgungundlovu District Municipality, KwaZulu-Natal, South Africa",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111926138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204256047",
+    "boundingbox": [
+      "-20.1962998",
+      "-20.1961374",
+      "57.778029",
+      "57.7783102"
+    ],
+    "lat": "-20.1961983",
+    "lon": "57.7781682168871",
+    "display_name": "Management, B59, Belle Mare, Flacq, Mauritius",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  },
+  {
+    "place_id": "152004164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402109954",
+    "boundingbox": [
+      "11.482709",
+      "11.4843794",
+      "75.7852276",
+      "75.7874832"
+    ],
+    "lat": "11.48358085",
+    "lon": "75.7867309996611",
+    "display_name": "Naduvannur Higher Secondary School, Vakayad, High School Road, Naduvannur, Kozhikode, Kerala, 673614, India",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "39951870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2947903133",
+    "boundingbox": [
+      "30.862972",
+      "30.863072",
+      "75.860164",
+      "75.860264"
+    ],
+    "lat": "30.863022",
+    "lon": "75.860214",
+    "display_name": "Hostel No 4 (Girls), Gill Road, gill village, Ludhiana, Punjab, 141006, India",
+    "class": "tourism",
+    "type": "hostel",
+    "importance": 0.001
+  }
+]

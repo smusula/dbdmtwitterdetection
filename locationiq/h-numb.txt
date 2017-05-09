@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2609837605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "452374182",
+    "boundingbox": [
+      "50.1611691",
+      "50.1696053",
+      "-122.8885754",
+      "-122.8794731"
+    ],
+    "lat": "50.1659664",
+    "lon": "-122.8839672",
+    "display_name": "Comfortably Numb/Secret Trail, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "110313079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "197621872",
+    "boundingbox": [
+      "50.1324624",
+      "50.1536505",
+      "-122.9413028",
+      "-122.8988088"
+    ],
+    "lat": "50.1426479",
+    "lon": "-122.9199888",
+    "display_name": "Comfortably Numb/Secret Trail, Alpine Meadows, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, V0N1B6, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "104094260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171243397",
+    "boundingbox": [
+      "52.6308107",
+      "52.63095",
+      "1.2908404",
+      "1.2909718"
+    ],
+    "lat": "52.6308726",
+    "lon": "1.29090649611899",
+    "display_name": "The Rocks Music Bar & Lounge, 13, Saint Benedicts Street, Heigham Grove, Norwich, Norfolk, East of England, England, NR2 4PE, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

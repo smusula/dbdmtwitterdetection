@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "156302884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "425693226",
+    "boundingbox": [
+      "41.8011792",
+      "41.8015031",
+      "-71.4016678",
+      "-71.4012588"
+    ],
+    "lat": "41.8013296",
+    "lon": "-71.4014120794643",
+    "display_name": "Amazing, Thurbers Avenue, Providence, Providence County, Rhode Island, 02905, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44409531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149560829",
+    "boundingbox": [
+      "-37.9651651",
+      "-37.9650651",
+      "-57.5539886",
+      "-57.5538886"
+    ],
+    "lat": "-37.9651151",
+    "lon": "-57.5539386",
+    "display_name": "Amazing, Avenida Constituci\u00f3n, Nueva Pompeya, Mar del Plata, Partido de General Pueyrred\u00f3n, Bs. As., 7600, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "24800043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2405876785",
+    "boundingbox": [
+      "35.67901",
+      "35.67911",
+      "139.396691",
+      "139.396791"
+    ],
+    "lat": "35.67906",
+    "lon": "139.396741",
+    "display_name": "Amazing, \u5e02\u5f79\u6240\u901a\u308a, \u65e5\u91ce\u5e02, \u6771\u4eac\u90fd, 191-0016, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "7891048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "850896457",
+    "boundingbox": [
+      "-29.7239835",
+      "-29.7238835",
+      "31.0671171",
+      "31.0672171"
+    ],
+    "lat": "-29.7239335",
+    "lon": "31.0671671",
+    "display_name": "Amazing, Palm Boulavard, eThekwini Ward 35, Umhlanga Rocks, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4321, South Africa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56169649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4389949724",
+    "boundingbox": [
+      "-17.7818519",
+      "-17.7817519",
+      "-63.2040824",
+      "-63.2039824"
+    ],
+    "lat": "-17.7818019",
+    "lon": "-63.2040324",
+    "display_name": "Amazing, Tercer Anillo Interno, Villa San Luis, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "8764195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "920067412",
+    "boundingbox": [
+      "20.6611716",
+      "20.6612716",
+      "96.9336367",
+      "96.9337367"
+    ],
+    "lat": "20.6612216",
+    "lon": "96.9336867",
+    "display_name": "Amazing, Yone Gyi Street, \u100a\u1031\u102c\u1004\u103a\u101b\u103d\u103e\u1031, Taunggyi, Shan State (South), Shan State, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

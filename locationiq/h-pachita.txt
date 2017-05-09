@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "6766565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703470750",
+    "boundingbox": [
+      "10.4088785",
+      "10.4288785",
+      "-74.330801",
+      "-74.310801"
+    ],
+    "lat": "10.4188785",
+    "lon": "-74.320801",
+    "display_name": "Pachita, Magdalena, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "152738636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "405596322",
+    "boundingbox": [
+      "23.0348078",
+      "23.0349618",
+      "-81.5552361",
+      "-81.5550285"
+    ],
+    "lat": "23.03488475",
+    "lon": "-81.5551322977131",
+    "display_name": "La Pachita, General Betancourt, Pe\u00f1as Altas, La Playa, Matanzas, 40100, Cuba",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15084775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1344109244",
+    "boundingbox": [
+      "-34.9247656",
+      "-34.9246656",
+      "-71.3160811",
+      "-71.3159811"
+    ],
+    "lat": "-34.9247156",
+    "lon": "-71.3160311",
+    "display_name": "La Pachita, Cruce J-60 (Rauco) - Cruce J-40 (Escuela El Plumero), Padres Trapenses, Rauco, Provincia de Curic\u00f3, VII Regi\u00f3n del Maule, Chile",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "110585372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198597589",
+    "boundingbox": [
+      "40.7650072",
+      "40.7860333",
+      "-73.8892648",
+      "-73.8512234"
+    ],
+    "lat": "40.77550135",
+    "lon": "-73.8730603792763",
+    "display_name": "LaGuardia Airport, D4 Jetway, North Beach, Queens County, NYC, New York, 11369, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.44743549725619,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2608463085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "448920554",
+    "boundingbox": [
+      "-12.2793314",
+      "-12.2791773",
+      "49.2910562",
+      "49.2911783"
+    ],
+    "lat": "-12.27925435",
+    "lon": "49.2911172713994",
+    "display_name": "LGA, Rue Lavigerie, Villa Basse, Antsiranana, R\u00e9gion de Diana, Province d'Antsiranana, 201, Madagasikara",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "123875543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253110253",
+    "boundingbox": [
+      "-34.9265581",
+      "-34.9261724",
+      "138.6083482",
+      "138.6087379"
+    ],
+    "lat": "-34.9263653",
+    "lon": "138.608543075503",
+    "display_name": "LGA, 148, Frome Street, Adelaide, 5000, City of Adelaide, South Australia, 5000, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

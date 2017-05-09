@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "17523198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1678716237",
+    "boundingbox": [
+      "48.392939",
+      "48.432939",
+      "-4.4462694",
+      "-4.4062694"
+    ],
+    "lat": "48.412939",
+    "lon": "-4.4262694",
+    "display_name": "Le Candy, Brest, Finist\u00e8re, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18740580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1821355728",
+    "boundingbox": [
+      "44.5061104",
+      "44.5461104",
+      "5.1419676",
+      "5.1819676"
+    ],
+    "lat": "44.5261104",
+    "lon": "5.1619676",
+    "display_name": "Candy, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14989297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1353508522",
+    "boundingbox": [
+      "47.2529854",
+      "47.2929854",
+      "0.8315991",
+      "0.8715991"
+    ],
+    "lat": "47.2729854",
+    "lon": "0.8515991",
+    "display_name": "Candy, Tours, Indre-et-Loire, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "76717273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46864985",
+    "boundingbox": [
+      "48.4233785",
+      "48.4254409",
+      "-4.5438496",
+      "-4.5433877"
+    ],
+    "lat": "48.4246407",
+    "lon": "-4.5434132",
+    "display_name": "Candy, Guilers, Brest, Finist\u00e8re, Bretagne, 29820, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65383629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17939388",
+    "boundingbox": [
+      "44.93006",
+      "44.930646",
+      "-84.4049929",
+      "-84.4049169"
+    ],
+    "lat": "44.93006",
+    "lon": "-84.4049169",
+    "display_name": "Candy, Otsego County, Michigan, 49751, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67390665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20779150",
+    "boundingbox": [
+      "26.1376143",
+      "26.138239",
+      "-97.6743092",
+      "-97.6727506"
+    ],
+    "lat": "26.1376143",
+    "lon": "-97.6743092",
+    "display_name": "Candy, San Benito, Cameron County, Texas, 78586, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "129845100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "285595981",
+    "boundingbox": [
+      "-27.5516808",
+      "-27.5478043",
+      "153.2383195",
+      "153.2422882"
+    ],
+    "lat": "-27.5499603",
+    "lon": "153.2405669",
+    "display_name": "Candy, Thornlands, Redland City, QLD, 4164, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "137445771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321362411",
+    "boundingbox": [
+      "48.726778",
+      "48.729075",
+      "-122.4178969",
+      "-122.4110699"
+    ],
+    "lat": "48.72825",
+    "lon": "-122.4134499",
+    "display_name": "Candy, Larson Mill, Whatcom County, Washington, 98229, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "18558341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1808488582",
+    "boundingbox": [
+      "50.2577225",
+      "50.2578225",
+      "3.6342556",
+      "3.6343556"
+    ],
+    "lat": "50.2577725",
+    "lon": "3.6343056",
+    "display_name": "candy, Route de Valenciennes, Le Quesnoy, Avesnes-sur-Helpe, Nord, Hauts-de-France, 59530, France",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "100833330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159441799",
+    "boundingbox": [
+      "49.2388083",
+      "49.2392283",
+      "3.1028153",
+      "3.1033331"
+    ],
+    "lat": "49.2390186",
+    "lon": "3.10307422974703",
+    "display_name": "Candy, Rue de la Queue d'Oigny, Pisseleux, Villers-Cotter\u00eats, Soissons, Aisne, Hauts-de-France, 02600, France",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

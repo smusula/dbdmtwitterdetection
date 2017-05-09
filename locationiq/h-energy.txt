@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "412440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153922192",
+    "boundingbox": [
+      "40.9095069",
+      "40.9495069",
+      "-80.2847844",
+      "-80.2447844"
+    ],
+    "lat": "40.9295069",
+    "lon": "-80.2647844",
+    "display_name": "Energy, Lawrence County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "394907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151966035",
+    "boundingbox": [
+      "31.7430207",
+      "31.7830207",
+      "-98.3889051",
+      "-98.3489051"
+    ],
+    "lat": "31.7630207",
+    "lon": "-98.3689051",
+    "display_name": "Energy, Comanche County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "386269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151895999",
+    "boundingbox": [
+      "40.3842001",
+      "40.4242001",
+      "-92.365742",
+      "-92.325742"
+    ],
+    "lat": "40.4042001",
+    "lon": "-92.345742",
+    "display_name": "Energy, Scotland County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "418718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153779913",
+    "boundingbox": [
+      "32.1595904",
+      "32.1995904",
+      "-88.5697598",
+      "-88.5297598"
+    ],
+    "lat": "32.1795904",
+    "lon": "-88.5497598",
+    "display_name": "Energy, Clarke County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160267256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "123008",
+    "boundingbox": [
+      "37.756404",
+      "37.78599",
+      "-89.0402019",
+      "-89.0133999"
+    ],
+    "lat": "37.7740055",
+    "lon": "-89.0266268",
+    "display_name": "Energy, Williamson County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37255813723317,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "61253950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11419087",
+    "boundingbox": [
+      "46.93304",
+      "46.933501",
+      "-67.8910079",
+      "-67.8903949"
+    ],
+    "lat": "46.933171",
+    "lon": "-67.8906099",
+    "display_name": "Energy, Loring Commerce Center, Aroostook County, Maine, 04750, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "109699809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "195038064",
+    "boundingbox": [
+      "14.2323044",
+      "14.2357021",
+      "121.1027261",
+      "121.1034212"
+    ],
+    "lat": "14.2355957",
+    "lon": "121.1027749",
+    "display_name": "Energy, Light Industry and Science Park, Diezmo, Cabuyao, Laguna, Calabarzon, 4025, Philippines",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "50577828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3757007475",
+    "boundingbox": [
+      "40.9626243",
+      "40.9627243",
+      "-5.6622787",
+      "-5.6621787"
+    ],
+    "lat": "40.9626743",
+    "lon": "-5.6622287",
+    "display_name": "Energy, 66, Calle Gran V\u00eda, Salamanca, Centro, Salamanca, Campo de Salamanca, Salamanca, Castilla y Le\u00f3n, 37001, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2654261974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477166930",
+    "boundingbox": [
+      "48.9424718",
+      "48.9426157",
+      "4.3862493",
+      "4.3863824"
+    ],
+    "lat": "48.9425532",
+    "lon": "4.38631582009251",
+    "display_name": "Energy, Avenue du Pr\u00e9sident Roosevelt, Ch\u00e2lons-en-Champagne, Marne, Grand-Est, 51000, France",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53897104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4133984099",
+    "boundingbox": [
+      "49.4376851",
+      "49.4377851",
+      "11.0909941",
+      "11.0910941"
+    ],
+    "lat": "49.4377351",
+    "lon": "11.0910441",
+    "display_name": "Energy, Allersberger Stra\u00dfe, Hummelstein, N\u00fcrnberg, Mittelfranken, Bayern, 90461, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

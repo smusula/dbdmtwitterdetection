@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "27313166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2588247518",
+    "boundingbox": [
+      "34.0906922",
+      "34.0907922",
+      "-118.3305811",
+      "-118.3304811"
+    ],
+    "lat": "34.0907422",
+    "lon": "-118.3305311",
+    "display_name": "Improv-LA, 6472, Santa Monica Boulevard, Hollywood, LA, Los Angeles County, California, 90038, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47001053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3402729552",
+    "boundingbox": [
+      "55.603227",
+      "55.603327",
+      "13.005041",
+      "13.005141"
+    ],
+    "lat": "55.603277",
+    "lon": "13.005091",
+    "display_name": "Improv!, B, Gamla Staden, Norr, Malm\u00f6, Sk\u00e5ne, G\u00f6taland, 211 36, Sverige",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "28304727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2640988380",
+    "boundingbox": [
+      "27.960394",
+      "27.960494",
+      "-82.4415175",
+      "-82.4414175"
+    ],
+    "lat": "27.960444",
+    "lon": "-82.4414675",
+    "display_name": "Improv, East 7th Avenue, Ybor City, Tampa, Hillsborough County, Florida, 33605, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "2476363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "351262217",
+    "boundingbox": [
+      "42.0456561",
+      "42.0457561",
+      "-88.0374181",
+      "-88.0373181"
+    ],
+    "lat": "42.0457061",
+    "lon": "-88.0373681",
+    "display_name": "The Improv, Perimeter Drive, Schaumburg, Cook County, Illinois, 60173, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "13910150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1246876076",
+    "boundingbox": [
+      "56.4742982",
+      "56.4743982",
+      "84.9810159",
+      "84.9811159"
+    ],
+    "lat": "56.4743482",
+    "lon": "84.9810659",
+    "display_name": "\u0418\u043c\u043f\u0440\u043eV, 59, \u041a\u043e\u043c\u0441\u043e\u043c\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u043e\u043c\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0422\u043e\u043c\u0441\u043a, \u0422\u043e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 634000, \u0420\u0424",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

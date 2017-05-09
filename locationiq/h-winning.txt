@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "3938050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "415875021",
+    "boundingbox": [
+      "48.0276205",
+      "48.0676205",
+      "11.6055246",
+      "11.6455246"
+    ],
+    "lat": "48.0476205",
+    "lon": "11.6255246",
+    "display_name": "Winning, Bayern, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14039916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1271812462",
+    "boundingbox": [
+      "-5.3867717",
+      "-5.3467717",
+      "122.8429067",
+      "122.8829067"
+    ],
+    "lat": "-5.3667717",
+    "lon": "122.8629067",
+    "display_name": "Winning, Sulawesi Tenggara, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11922042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1143862439",
+    "boundingbox": [
+      "54.5393715",
+      "54.5394715",
+      "9.612687",
+      "9.612787"
+    ],
+    "lat": "54.5394215",
+    "lon": "9.612737",
+    "display_name": "Winning, Radwanderweg Kreisbahntrasse Schleswig-S\u00fcderbrarup, Schaalby, S\u00fcdangeln, Kreis Schleswig-Flensburg, Schleswig-Holstein, 24882, Deutschland",
+    "class": "amenity",
+    "type": "shelter",
+    "importance": 0.101
+  }
+]

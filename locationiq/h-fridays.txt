@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "27989989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2605472193",
+    "boundingbox": [
+      "46.9791903",
+      "46.9991903",
+      "-80.0384239",
+      "-80.0184239"
+    ],
+    "lat": "46.9891903",
+    "lon": "-80.0284239",
+    "display_name": "Fridays, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "57631984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4926897",
+    "boundingbox": [
+      "-51.0567299",
+      "-51.0499399",
+      "-60.98235",
+      "-60.9762585"
+    ],
+    "lat": "-51.053425",
+    "lon": "-60.9805539983089",
+    "display_name": "The Fridays, Falkland Islands",
+    "class": "place",
+    "type": "islet",
+    "importance": 0.35
+  },
+  {
+    "place_id": "10903698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "983878766",
+    "boundingbox": [
+      "40.4520881",
+      "40.4521881",
+      "-3.686475",
+      "-3.686375"
+    ],
+    "lat": "40.4521381",
+    "lon": "-3.686425",
+    "display_name": "Fridays, Avenida de Concha Espina, Chamart\u00edn, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28036, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26441964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2519320984",
+    "boundingbox": [
+      "52.4803744",
+      "52.4804744",
+      "-1.895353",
+      "-1.895253"
+    ],
+    "lat": "52.4804244",
+    "lon": "-1.895303",
+    "display_name": "Fridays, Martineau Way, Digbeth, Attwood Green, Birmingham, West Midlands, England, B2 4UN, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "158506369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437066048",
+    "boundingbox": [
+      "51.1439491",
+      "51.1441623",
+      "-0.3552285",
+      "-0.3546598"
+    ],
+    "lat": "51.1440717",
+    "lon": "-0.354753215630913",
+    "display_name": "Fridays, Friday Street, Ockley CP, Mole Valley, Surrey, South East, England, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55700992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4347027366",
+    "boundingbox": [
+      "54.9981727",
+      "54.9982727",
+      "-1.4332939",
+      "-1.4331939"
+    ],
+    "lat": "54.9982227",
+    "lon": "-1.4332439",
+    "display_name": "Fridays, Smithy Street, Cleadon Park, South Tyneside, Tyne and Wear, North East England, England, NE33 1AW, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "26561765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2526007873",
+    "boundingbox": [
+      "39.7107012",
+      "39.7108012",
+      "-104.8236968",
+      "-104.8235968"
+    ],
+    "lat": "39.7107512",
+    "lon": "-104.8236468",
+    "display_name": "TGI Fridays, 14150, East Alameda Avenue, Aurora, Arapahoe County, Colorado, 80012, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "119666381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "235170148",
+    "boundingbox": [
+      "39.0900069",
+      "39.0902383",
+      "-76.8594665",
+      "-76.8590828"
+    ],
+    "lat": "39.0901226",
+    "lon": "-76.85927465",
+    "display_name": "Fridays, 14600, Baltimore Avenue, Oak Crest, Contee, Prince George's County, Maryland, 20707, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "76673742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45610947",
+    "boundingbox": [
+      "39.9143137",
+      "39.9146033",
+      "-104.9719845",
+      "-104.9717517"
+    ],
+    "lat": "39.9144642",
+    "lon": "-104.971864544008",
+    "display_name": "Fridays, 1251, East 120th Avenue, Northglenn, Adams County, Colorado, 80241, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26048832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2494671082",
+    "boundingbox": [
+      "25.0545243",
+      "25.0546243",
+      "121.5485021",
+      "121.5486021"
+    ],
+    "lat": "25.0545743",
+    "lon": "121.5485521",
+    "display_name": "Fridays, \u9577\u6625\u8def, \u677e\u57fa\u91cc, \u4e2d\u5d19, \u677e\u5c71\u5340, \u81fa\u5317\u5e02, 10551, \u81fa\u7063",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

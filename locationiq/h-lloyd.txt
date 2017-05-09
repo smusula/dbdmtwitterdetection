@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "489585",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158877448",
+    "boundingbox": [
+      "41.6962044",
+      "41.7762044",
+      "-74.0454175",
+      "-73.9654175"
+    ],
+    "lat": "41.7362044",
+    "lon": "-74.0054175",
+    "display_name": "Lloyd, Town of Lloyd, Ulster County, New York, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.41673028276881,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "7511219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "821499803",
+    "boundingbox": [
+      "52.8745815",
+      "52.9145815",
+      "-2.4393001",
+      "-2.3993001"
+    ],
+    "lat": "52.8945815",
+    "lon": "-2.4193001",
+    "display_name": "The Lloyd, Staffordshire, West Midlands, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "425567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154142562",
+    "boundingbox": [
+      "41.0525576",
+      "41.0925576",
+      "-81.0423153",
+      "-81.0023153"
+    ],
+    "lat": "41.0725576",
+    "lon": "-81.0223153",
+    "display_name": "Lloyd, Palmyra Township, Portage County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "354794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151565646",
+    "boundingbox": [
+      "33.2795622",
+      "33.3195622",
+      "-91.5340101",
+      "-91.4940101"
+    ],
+    "lat": "33.2995622",
+    "lon": "-91.5140101",
+    "display_name": "Lloyd, Ashley County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "418628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153909893",
+    "boundingbox": [
+      "30.4574243",
+      "30.4974243",
+      "-84.0418348",
+      "-84.0018348"
+    ],
+    "lat": "30.4774243",
+    "lon": "-84.0218348",
+    "display_name": "Lloyd, Jefferson County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160948005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5914466",
+    "boundingbox": [
+      "-35.1611822",
+      "-35.1340645",
+      "147.3066774",
+      "147.3425688"
+    ],
+    "lat": "-35.1499851",
+    "lon": "147.3354583",
+    "display_name": "Lloyd, Frog Hollow, Wagga Wagga, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35401456808503,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "431176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154066487",
+    "boundingbox": [
+      "38.6000785",
+      "38.6400785",
+      "-82.8846135",
+      "-82.8446135"
+    ],
+    "lat": "38.6200785",
+    "lon": "-82.8646135",
+    "display_name": "Lloyd, Greenup County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "104231147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171775320",
+    "boundingbox": [
+      "-35.3525495",
+      "-35.352059",
+      "149.0600887",
+      "149.0607542"
+    ],
+    "lat": "-35.3523424",
+    "lon": "149.060421531564",
+    "display_name": "93, The Lloyd, Waramanga, Weston Creek, Australian Capital Territory, 2611, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "40962726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2995981054",
+    "boundingbox": [
+      "6.1162591",
+      "6.1562591",
+      "-10.2367054",
+      "-10.1967054"
+    ],
+    "lat": "6.1362591",
+    "lon": "-10.2167054",
+    "display_name": "Boique, District # 1, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63744582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15384266",
+    "boundingbox": [
+      "29.8661103",
+      "29.8723747",
+      "-95.0642339",
+      "-95.0622439"
+    ],
+    "lat": "29.8694365",
+    "lon": "-95.0633324",
+    "display_name": "Lloyd, Barrett, Harris County, Texas, 77532, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

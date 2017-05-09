@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "91278290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119803613",
+    "boundingbox": [
+      "52.2698518",
+      "52.2702242",
+      "8.0525341",
+      "8.0535219"
+    ],
+    "lat": "52.27004445",
+    "lon": "8.05305922226039",
+    "display_name": "CKO, 1, Johannisfreiheit, Neustadt, Innenstadt, Osnabr\u00fcck, Niedersachsen, 49074, Deutschland",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "11162989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042081610",
+    "boundingbox": [
+      "-23.1675001",
+      "-23.1375001",
+      "-50.6175008",
+      "-50.5875008"
+    ],
+    "lat": "-23.1525001",
+    "lon": "-50.6025008",
+    "display_name": "Corn\u00e9lio Proc\u00f3pio Airport, Rodovia Melo Peixoto, Santa Mariana, Microrregi\u00e3o de Corn\u00e9lio Proc\u00f3pio, Mesorregi\u00e3o Norte Pioneiro Paranaense, PR, Regi\u00e3o Sul, Brasil",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

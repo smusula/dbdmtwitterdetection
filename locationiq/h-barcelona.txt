@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160330005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "347950",
+    "boundingbox": [
+      "41.3174426",
+      "41.468252",
+      "2.0524977",
+      "2.2283555"
+    ],
+    "lat": "41.3825596",
+    "lon": "2.1771353",
+    "display_name": "Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "city",
+    "importance": 0.8655299073009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160318003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "349035",
+    "boundingbox": [
+      "41.1927078",
+      "42.3233011",
+      "1.3603839",
+      "2.7776432"
+    ],
+    "lat": "41.75786995",
+    "lon": "2.03118203615985",
+    "display_name": "BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45757490717139,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1554282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "333655403",
+    "boundingbox": [
+      "9.9773006",
+      "10.2973006",
+      "-64.8462531",
+      "-64.5262531"
+    ],
+    "lat": "10.1373006",
+    "lon": "-64.6862531",
+    "display_name": "Barcelona, Distrito Bol\u00edvar, Anzo\u00e1tegui, Venezuela",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45185343041668,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160998353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6246017",
+    "boundingbox": [
+      "-6.0693893",
+      "-5.893258",
+      "-36.0318319",
+      "-35.8347724"
+    ],
+    "lat": "-5.981453",
+    "lon": "-35.9305498137983",
+    "display_name": "Barcelona, Microrregi\u00e3o de Borborema Potiguar, Mesorregi\u00e3o do Agreste Potiguar, RN, Regi\u00e3o Nordeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160306068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "301130",
+    "boundingbox": [
+      "-6.0693893",
+      "-5.893258",
+      "-36.0318319",
+      "-35.8347724"
+    ],
+    "lat": "-5.950982",
+    "lon": "-35.92647",
+    "display_name": "Barcelona, Microrregi\u00e3o de Borborema Potiguar, Mesorregi\u00e3o do Agreste Potiguar, RN, Regi\u00e3o Nordeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2651484416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "415521376",
+    "boundingbox": [
+      "-5.9914917",
+      "-5.9114917",
+      "-35.9660283",
+      "-35.8860283"
+    ],
+    "lat": "-5.9514917",
+    "lon": "-35.9260283",
+    "display_name": "Barcelona, Microrregi\u00e3o de Borborema Potiguar, Mesorregi\u00e3o do Agreste Potiguar, RN, Regi\u00e3o Nordeste, Brasil",
+    "class": "place",
+    "type": "town",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "450806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158272816",
+    "boundingbox": [
+      "42.3203356",
+      "42.3603356",
+      "-79.6158807",
+      "-79.5758807"
+    ],
+    "lat": "42.3403356",
+    "lon": "-79.5958807",
+    "display_name": "Barcelona, Chautauqua County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "383900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151859651",
+    "boundingbox": [
+      "31.832661",
+      "31.872661",
+      "-91.4428948",
+      "-91.4028948"
+    ],
+    "lat": "31.852661",
+    "lon": "-91.4228948",
+    "display_name": "Barcelona, Tensas Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "357974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151393571",
+    "boundingbox": [
+      "35.6006416",
+      "35.6406416",
+      "-94.4760486",
+      "-94.4360486"
+    ],
+    "lat": "35.6206416",
+    "lon": "-94.4560486",
+    "display_name": "Barcelona, Crawford County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10722103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "976340236",
+    "boundingbox": [
+      "4.2712662",
+      "4.3112662",
+      "-74.4094851",
+      "-74.3694851"
+    ],
+    "lat": "4.2912662",
+    "lon": "-74.3894851",
+    "display_name": "Barcelona, Fusagasug\u00e1, Cundinamarca, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

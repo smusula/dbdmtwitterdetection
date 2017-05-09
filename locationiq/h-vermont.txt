@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160257623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "60759",
+    "boundingbox": [
+      "42.7269329",
+      "45.016665",
+      "-73.4377399",
+      "-71.4653566"
+    ],
+    "lat": "44.5990718",
+    "lon": "-72.5002607",
+    "display_name": "Vermont, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78413819904292,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160258421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "87702",
+    "boundingbox": [
+      "48.3782805",
+      "48.398865",
+      "7.0407742",
+      "7.0932316"
+    ],
+    "lat": "48.3872227",
+    "lon": "7.0577162",
+    "display_name": "Le Vermont, Saint-Di\u00e9-des-Vosges, Vosges, Grand-Est, 88210, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52207389979172,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160268790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126182",
+    "boundingbox": [
+      "40.28343",
+      "40.305813",
+      "-90.4399029",
+      "-90.4164779"
+    ],
+    "lat": "40.2942106",
+    "lon": "-90.4279032",
+    "display_name": "Vermont, Fulton County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40425174579944,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "54356883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4161522946",
+    "boundingbox": [
+      "46.2366432",
+      "46.2766432",
+      "5.2063236",
+      "5.2463236"
+    ],
+    "lat": "46.2566432",
+    "lon": "5.2263236",
+    "display_name": "Vermont, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50515689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3767240466",
+    "boundingbox": [
+      "46.1997113",
+      "46.2397113",
+      "4.1374223",
+      "4.1774223"
+    ],
+    "lat": "46.2197113",
+    "lon": "4.1574223",
+    "display_name": "Vermont, Charolles, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "781878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "262722405",
+    "boundingbox": [
+      "-34.4383332",
+      "-34.3983332",
+      "19.1327778",
+      "19.1727778"
+    ],
+    "lat": "-34.4183332",
+    "lon": "19.1527778",
+    "display_name": "Vermont, Overberg District Municipality, Western Cape, South Africa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.36123930027934,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23897811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2350033894",
+    "boundingbox": [
+      "49.1394145",
+      "49.1594145",
+      "6.0832615",
+      "6.1032615"
+    ],
+    "lat": "49.1494145",
+    "lon": "6.0932615",
+    "display_name": "Vermont, Saulny, Metz, Moselle, Grand-Est, 57140, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45253091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3215362646",
+    "boundingbox": [
+      "49.1858486",
+      "49.2058486",
+      "5.7468013",
+      "5.7668013"
+    ],
+    "lat": "49.1958486",
+    "lon": "5.7568013",
+    "display_name": "Vermont, Saint-Jean-l\u00e8s-Buzy, Verdun, Meuse, Grand-Est, 55400, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18252446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1749004167",
+    "boundingbox": [
+      "46.1627003",
+      "46.1827003",
+      "4.6375503",
+      "4.6575503"
+    ],
+    "lat": "46.1727003",
+    "lon": "4.6475503",
+    "display_name": "Vermont, Villi\u00e9-Morgon, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69910, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46735491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3354856090",
+    "boundingbox": [
+      "48.3740311",
+      "48.3741311",
+      "0.0986056",
+      "0.0987056"
+    ],
+    "lat": "48.3740811",
+    "lon": "0.0986556",
+    "display_name": "Vermont, B\u00e9thon, Mamers, Sarthe, Pays de la Loire, 72610, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "147132756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375135544",
+    "boundingbox": [
+      "49.855659",
+      "49.856104",
+      "-119.6631775",
+      "-119.6625889"
+    ],
+    "lat": "49.8560175",
+    "lon": "-119.6629358",
+    "display_name": "Warmup, Glenrosa, West Kelowna, Regional District of Central Okanagan, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "3357804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "365500600",
+    "boundingbox": [
+      "48.7787269",
+      "48.7788269",
+      "2.0081989",
+      "2.0082989"
+    ],
+    "lat": "48.7787769",
+    "lon": "2.0082489",
+    "display_name": "Warm\u2019Up, Chemin de Paris, Trappes, Versailles, Yvelines, \u00cele-de-France, 78190, France",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

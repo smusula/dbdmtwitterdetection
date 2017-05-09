@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "7065846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "741125072",
+    "boundingbox": [
+      "48.8391375",
+      "48.8392375",
+      "2.339753",
+      "2.339853"
+    ],
+    "lat": "48.8391875",
+    "lon": "2.339803",
+    "display_name": "Cymbeline, 348, Rue Saint-Jacques, Val-de-Gr\u00e2ce, 5e, Paris, \u00cele-de-France, 75005, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12797182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1215374627",
+    "boundingbox": [
+      "48.8420628",
+      "48.8421628",
+      "2.3011479",
+      "2.3012479"
+    ],
+    "lat": "48.8421128",
+    "lon": "2.3011979",
+    "display_name": "Cymbeline, 127, Rue Lecourbe, St-Lambert, 15e, Paris, \u00cele-de-France, 75015, France",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23911079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2360290277",
+    "boundingbox": [
+      "45.1918982",
+      "45.1919982",
+      "5.7219343",
+      "5.7220343"
+    ],
+    "lat": "45.1919482",
+    "lon": "5.7219843",
+    "display_name": "Cymbeline, 8, Boulevard \u00c9douard Rey, Hyper Centre, Secteur 2, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38000, France",
+    "class": "shop",
+    "type": "tailor",
+    "importance": 0.101
+  }
+]

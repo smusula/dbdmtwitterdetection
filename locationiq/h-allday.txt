@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "6660212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "683251102",
+    "boundingbox": [
+      "14.4503607",
+      "14.4504607",
+      "120.9783271",
+      "120.9784271"
+    ],
+    "lat": "14.4504107",
+    "lon": "120.9783771",
+    "display_name": "AllDay, C.V. Starr Avenue, Pamplona Dos, Las Pi\u00f1as, District 1, Las Pi\u00f1as, Metro Manila, 1742, Philippines",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "17743431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1728914824",
+    "boundingbox": [
+      "14.4387982",
+      "14.4388982",
+      "120.990987",
+      "120.991087"
+    ],
+    "lat": "14.4388482",
+    "lon": "120.991037",
+    "display_name": "AllDay, BF Resort Drive, BF Vista Grande, Talon Dos, Las Pi\u00f1as, District 2, Las Pi\u00f1as, Metro Manila, 1740, Philippines",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "12759002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1202984179",
+    "boundingbox": [
+      "14.3989032",
+      "14.3990032",
+      "120.9614387",
+      "120.9615387"
+    ],
+    "lat": "14.3989532",
+    "lon": "120.9614887",
+    "display_name": "AllDay, Buhay Na Tubig, Summer Pointe Country Homes, Imus, Cavite, Calabarzon, 4103, Philippines",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

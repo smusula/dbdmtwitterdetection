@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "31798971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2760565733",
+    "boundingbox": [
+      "28.1990451",
+      "28.1991451",
+      "113.0051873",
+      "113.0052873"
+    ],
+    "lat": "28.1990951",
+    "lon": "113.0052373",
+    "display_name": "Le Teen, \u8f66\u7ad9\u5317\u8def, \u8299\u84c9\u533a (Furong), \u957f\u6c99\u5e02 / Changsha, \u6e56\u5357\u7701, 410000, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.101
+  },
+  {
+    "place_id": "59456404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8044913",
+    "boundingbox": [
+      "59.0912781",
+      "59.1275787",
+      "14.6507111",
+      "14.6883078"
+    ],
+    "lat": "59.10935785",
+    "lon": "14.6679460377147",
+    "display_name": "Teen, T 511, B\u00e4ckatorp, Mullhyttan, Lekeberg, Landskapet N\u00e4rke, \u00d6rebro l\u00e4n, Svealand, Sverige",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47512893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3437150002",
+    "boundingbox": [
+      "48.127406",
+      "48.127506",
+      "20.654585",
+      "20.654685"
+    ],
+    "lat": "48.127456",
+    "lon": "20.654635",
+    "display_name": "Teh\u00e9n, K\u00f6p\u00fcs-v\u00f6lgy, Csanyikv\u00f6lgy, Miskolc, Miskolci j\u00e1r\u00e1s, Borsod-Aba\u00faj-Zempl\u00e9n megye, \u00c9szak-Magyarorsz\u00e1g, Alf\u00f6ld \u00e9s \u00c9szak, 3535, Magyarorsz\u00e1g",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

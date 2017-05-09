@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "26543573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2523807499",
+    "boundingbox": [
+      "52.4819721",
+      "52.4820721",
+      "-1.895331",
+      "-1.895231"
+    ],
+    "lat": "52.4820221",
+    "lon": "-1.895281",
+    "display_name": "Designer, Minories Shopping Arcade, Digbeth, Attwood Green, Birmingham, West Midlands, England, B4 6PH, UK",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1560216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "339790638",
+    "boundingbox": [
+      "51.3799345",
+      "51.3800345",
+      "1.3549354",
+      "1.3550354"
+    ],
+    "lat": "51.3799845",
+    "lon": "1.3549854",
+    "display_name": "DeSigner, 174, Canterbury Road, Garlinge, Thanet, Kent, South East, England, CT9 5JP, UK",
+    "class": "shop",
+    "type": "signwriter",
+    "importance": 0.101
+  },
+  {
+    "place_id": "157267808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "431084340",
+    "boundingbox": [
+      "-2.1476766",
+      "-2.1475606",
+      "-79.8649446",
+      "-79.8647485"
+    ],
+    "lat": "-2.14761855",
+    "lon": "-79.8648465472358",
+    "display_name": "Designer, Avenida Primera, Samborond\u00f3n, Samborondon, Samborond\u00f3n, Guayas, 90112, Ecuador",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17186216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1672432865",
+    "boundingbox": [
+      "19.1118417",
+      "19.1119417",
+      "-72.6996224",
+      "-72.6995224"
+    ],
+    "lat": "19.1118917",
+    "lon": "-72.6995724",
+    "display_name": "Designer, Rue Savannah, 5e Bocozelle, Commune de Saint-Marc, Arrondissement de Saint-Marc, D\u00e9partement de l'Artibonite, HT4310, Ayiti",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

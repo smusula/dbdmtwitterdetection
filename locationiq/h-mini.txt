@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160727279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4018266",
+    "boundingbox": [
+      "34.081746",
+      "34.336731",
+      "131.082447",
+      "131.409617"
+    ],
+    "lat": "34.166854",
+    "lon": "131.203899",
+    "display_name": "\u7f8e\u7962\u5e02, \u963f\u6b66\u90e1, \u5c71\u53e3\u770c, \u65e5\u672c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42144714246806,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "14284207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308650939",
+    "boundingbox": [
+      "2.7426502",
+      "2.7826502",
+      "125.3619901",
+      "125.4019901"
+    ],
+    "lat": "2.7626502",
+    "lon": "125.3819901",
+    "display_name": "Mini, Batu Tikus, Sulawesi Utara, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2649611380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4625854868",
+    "boundingbox": [
+      "7.506225",
+      "7.546225",
+      "15.5221508",
+      "15.5621508"
+    ],
+    "lat": "7.526225",
+    "lon": "15.5421508",
+    "display_name": "Mini, Logone Oriental \u0644\u0648\u0642\u0648\u0646 \u0627\u0644\u0634\u0631\u0642\u064a\u0629, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4347620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "462048693",
+    "boundingbox": [
+      "10.3954175",
+      "10.4354175",
+      "-9.0364833",
+      "-8.9964833"
+    ],
+    "lat": "10.4154175",
+    "lon": "-9.0164833",
+    "display_name": "Mini, Kankan, Guin\u00e9e",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21899739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2173259628",
+    "boundingbox": [
+      "45.4757979",
+      "45.5557979",
+      "124.4344982",
+      "124.5144982"
+    ],
+    "lat": "45.5157979",
+    "lon": "124.4744982",
+    "display_name": "\u6c11\u610f\u4e61, \u8087\u6e90\u53bf, \u5927\u5e86\u5e02, \u9ed1\u9f99\u6c5f\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "46014656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3300967687",
+    "boundingbox": [
+      "-3.5301182",
+      "-3.4901182",
+      "14.504935",
+      "14.544935"
+    ],
+    "lat": "-3.5101182",
+    "lon": "14.524935",
+    "display_name": "Mi\u00e9ni, Pool, R\u00e9publique du Congo",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81802271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78119394",
+    "boundingbox": [
+      "-34.9106596",
+      "-34.9105574",
+      "-56.1988228",
+      "-56.1976779"
+    ],
+    "lat": "-34.9106596",
+    "lon": "-56.1988228",
+    "display_name": "Mini, Barrio Sur, Montevideo, 0053, Uruguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654569401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4744278221",
+    "boundingbox": [
+      "21.0070194",
+      "21.0071194",
+      "105.8112955",
+      "105.8113955"
+    ],
+    "lat": "21.0070694",
+    "lon": "105.8113455",
+    "display_name": "mini, 8, Ho\u00e0ng Ng\u00e2n, H\u00e0 N\u1ed9i, 1000001, Vi\u1ec7t Nam",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "18277856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1761920587",
+    "boundingbox": [
+      "53.8482904",
+      "53.8483904",
+      "10.6826172",
+      "10.6827172"
+    ],
+    "lat": "53.8483404",
+    "lon": "10.6826672",
+    "display_name": "Mini, Berliner Stra\u00dfe, H\u00fcxtertor / M\u00fchlentor / G\u00e4rtnergasse, Sankt J\u00fcrgen, L\u00fcbeck, Schleswig-Holstein, 23560, Deutschland",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "19212181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1879134738",
+    "boundingbox": [
+      "54.8638993",
+      "54.8639993",
+      "23.8865108",
+      "23.8866108"
+    ],
+    "lat": "54.8639493",
+    "lon": "23.8865608",
+    "display_name": "MINI, 150, Veiveri\u0173 g., Aleksoto seni\u016bnija, Kaunas, Kauno miesto savivaldyb\u0117, Kauno apskritis, 46391, Lietuva",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  }
+]

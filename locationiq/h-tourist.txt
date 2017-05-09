@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160829268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4763428",
+    "boundingbox": [
+      "50.7720858",
+      "50.7726268",
+      "25.3561564",
+      "25.3568604"
+    ],
+    "lat": "50.77233815",
+    "lon": "25.356486856169",
+    "display_name": "\u0422\u0443\u0440\u0438\u0441\u0442, \u0417\u0430\u0432\u043e\u043a\u0437\u0430\u043b\u044c\u043d\u0438\u0439, \u041b\u0443\u0446\u044c\u043a, \u041b\u0443\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0412\u043e\u043b\u0438\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 43023, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "landuse",
+    "type": "garages",
+    "importance": 0.2
+  },
+  {
+    "place_id": "24574851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2390402278",
+    "boundingbox": [
+      "50.1046799",
+      "50.1047799",
+      "8.664376",
+      "8.664476"
+    ],
+    "lat": "50.1047299",
+    "lon": "8.664426",
+    "display_name": "Tourist, 23, Baseler Stra\u00dfe, Gutleutviertel, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60329, Deutschland",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "46319654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3283274181",
+    "boundingbox": [
+      "36.8437604",
+      "36.8438604",
+      "-76.2914003",
+      "-76.2913003"
+    ],
+    "lat": "36.8438104",
+    "lon": "-76.2913503",
+    "display_name": "The Tourist, Waterside Drive, Berkley, Norfolk, Virginia, 23510, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2646823748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4563329192",
+    "boundingbox": [
+      "15.2691887",
+      "15.2692887",
+      "73.9627602",
+      "73.9628602"
+    ],
+    "lat": "15.2692387",
+    "lon": "73.9628102",
+    "display_name": "Tourist, NH66, Aquem, Fatorda, Margao, South Goa, Goa, 403600, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28025801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2617125332",
+    "boundingbox": [
+      "46.913973",
+      "46.914073",
+      "8.6235395",
+      "8.6236395"
+    ],
+    "lat": "46.914023",
+    "lon": "8.6235895",
+    "display_name": "Tourist, Axenstrasse, Ober Frimseli, Fl\u00fcelen, Uri, 6454, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "8106166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "861602625",
+    "boundingbox": [
+      "46.3153996",
+      "46.3154996",
+      "7.7440554",
+      "7.7441554"
+    ],
+    "lat": "46.3154496",
+    "lon": "7.7441054",
+    "display_name": "Tourist, Bahnhofstrasse, Gampel, Gampel-Bratsch, Leuk, Valais - Wallis, 3940, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56428310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4389449008",
+    "boundingbox": [
+      "6.170296",
+      "6.170396",
+      "1.1989842",
+      "1.1990842"
+    ],
+    "lat": "6.170346",
+    "lon": "1.1990342",
+    "display_name": "Tourist, Rue 99.AFG, Aflao-Gakli, 5e Arr., Lom\u00e9, 12050, Togo",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610186617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4499886692",
+    "boundingbox": [
+      "8.7478816",
+      "8.7479816",
+      "38.9790918",
+      "38.9791918"
+    ],
+    "lat": "8.7479316",
+    "lon": "38.9791418",
+    "display_name": "Tourist, 4, \u12f0\u1265\u1228 \u12d8\u12ed\u1275 / Debre Zeit, East Shewa, Oromia, 19, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "2609934748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "452675478",
+    "boundingbox": [
+      "-7.6644909",
+      "-7.663525",
+      "34.9404884",
+      "34.9420681"
+    ],
+    "lat": "-7.66387235",
+    "lon": "34.941693575",
+    "display_name": "Tourist, Park HQ, Iringa, Southern Highlands, Tanzania",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "24417869",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2378707912",
+    "boundingbox": [
+      "16.4919418",
+      "16.4920418",
+      "97.6186265",
+      "97.6187265"
+    ],
+    "lat": "16.4919918",
+    "lon": "97.6186765",
+    "display_name": "Tourist, \u1021\u1031\u102c\u1000\u103a\u101c\u1019\u103a\u1038\u1019\u1000\u103c\u102e\u1038, \u1019\u1031\u102c\u103a\u101c\u1019\u103c\u102d\u102f\u1004\u103a, Mawlamyine, Mon, 0000004, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  }
+]

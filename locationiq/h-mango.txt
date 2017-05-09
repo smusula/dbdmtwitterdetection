@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160247236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "43434",
+    "boundingbox": [
+      "44.645501",
+      "44.7193748",
+      "8.1300957",
+      "8.1899658"
+    ],
+    "lat": "44.686443",
+    "lon": "8.150239",
+    "display_name": "Mango, CN, PIE, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52132108567667,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "135067670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310498281",
+    "boundingbox": [
+      "-3.5550058",
+      "-3.5187844",
+      "33.9403947",
+      "33.9722476"
+    ],
+    "lat": "-3.5388334",
+    "lon": "33.952602",
+    "display_name": "Mango, Kishapu, Shinyanga, Lake, Tanzania",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "42347251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3087309473",
+    "boundingbox": [
+      "-20.3274665",
+      "-20.3273665",
+      "-174.7108821",
+      "-174.7107821"
+    ],
+    "lat": "-20.3274165",
+    "lon": "-174.7108321",
+    "display_name": "Mango, Vahe Mu'omu'a, Ha\u02bbapai, Tonga",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "426457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154149184",
+    "boundingbox": [
+      "27.9597439",
+      "27.9997439",
+      "-82.3264807",
+      "-82.2864807"
+    ],
+    "lat": "27.9797439",
+    "lon": "-82.3064807",
+    "display_name": "Mango, Hillsborough County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.390701435537,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72834639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33613820",
+    "boundingbox": [
+      "27.9728456",
+      "28.012211",
+      "-82.3272949",
+      "-82.2777309"
+    ],
+    "lat": "27.992482",
+    "lon": "-82.308313184726",
+    "display_name": "Mango, Kennedy Hill, Hillsborough County, Florida, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.390701435537,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4329483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473374175",
+    "boundingbox": [
+      "19.302222",
+      "19.342222",
+      "-96.4066669",
+      "-96.3666669"
+    ],
+    "lat": "19.322222",
+    "lon": "-96.3866669",
+    "display_name": "El Mango, Paso de Ovejas, Veracruz de Ignacio de la Llave, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25563687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2463903814",
+    "boundingbox": [
+      "2.310099",
+      "2.350099",
+      "-77.2551166",
+      "-77.2151166"
+    ],
+    "lat": "2.330099",
+    "lon": "-77.2351166",
+    "display_name": "El Mango, Argelia, Cauca, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44793575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3179545704",
+    "boundingbox": [
+      "7.9341347",
+      "7.9741347",
+      "-72.2957967",
+      "-72.2557967"
+    ],
+    "lat": "7.9541347",
+    "lon": "-72.2757967",
+    "display_name": "El Mango, Municipio Lobatera, T\u00e1chira, Venezuela",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16629319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1540694732",
+    "boundingbox": [
+      "22.1220572",
+      "22.1620572",
+      "-79.8487723",
+      "-79.8087723"
+    ],
+    "lat": "22.1420572",
+    "lon": "-79.8287723",
+    "display_name": "El Mango, Manicaragua, Villa Clara, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48889597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3598690851",
+    "boundingbox": [
+      "20.535502",
+      "20.575502",
+      "-77.0077647",
+      "-76.9677647"
+    ],
+    "lat": "20.555502",
+    "lon": "-76.9877647",
+    "display_name": "El Mango, R\u00edo Cauto, Granma, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

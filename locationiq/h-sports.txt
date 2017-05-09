@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "67409560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21186647",
+    "boundingbox": [
+      "30.872398",
+      "30.87287",
+      "-95.0829417",
+      "-95.0815143"
+    ],
+    "lat": "30.872398",
+    "lon": "-95.0829417",
+    "display_name": "Sports, Polk County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100089062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156276139",
+    "boundingbox": [
+      "14.4601824",
+      "14.4627035",
+      "121.0333485",
+      "121.0342454"
+    ],
+    "lat": "14.461319",
+    "lon": "121.0336275",
+    "display_name": "Sports, St. Martin Village, San Antonio, Para\u00f1aque, Metro Manila, 1719, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57301170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4645633",
+    "boundingbox": [
+      "-4.3475653",
+      "-4.345555",
+      "15.3178394",
+      "15.3182871"
+    ],
+    "lat": "-4.3459823",
+    "lon": "15.3180635",
+    "display_name": "Sports, Matonge, Kauka, Kalamu, Kinshasa, 243, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "23937793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2351723995",
+    "boundingbox": [
+      "47.5993318",
+      "47.5994318",
+      "-122.334429",
+      "-122.334329"
+    ],
+    "lat": "47.5993818",
+    "lon": "-122.334379",
+    "display_name": "Sports Den, 319, 1st Avenue South, International District/Chinatown, Seattle, King County, Washington, 98104, United States of America",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23884460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2341505168",
+    "boundingbox": [
+      "40.7402125",
+      "40.7403125",
+      "-111.8271785",
+      "-111.8270785"
+    ],
+    "lat": "40.7402625",
+    "lon": "-111.8271285",
+    "display_name": "Sports Den, Foothill Drive, Sunnyside East, Salt Lake City, Salt Lake County, Utah, 84108, United States of America",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "109590052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194512600",
+    "boundingbox": [
+      "50.4729643",
+      "50.4732755",
+      "2.9935482",
+      "2.9938838"
+    ],
+    "lat": "50.4731073",
+    "lon": "2.9937098535176",
+    "display_name": "Sports, R\u00e9sidence Jean Moulin, Oignies, Lens, Pas-de-Calais, Hauts-de-France, 62590, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11839413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1126471478",
+    "boundingbox": [
+      "48.5641577",
+      "48.5642577",
+      "7.6936904",
+      "7.6937904"
+    ],
+    "lat": "48.5642077",
+    "lon": "7.6937404",
+    "display_name": "Sports, Rue Molkenbronn, Lingolsheim, Strasbourg, Bas-Rhin, Grand-Est, 67380, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "55073769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4271064294",
+    "boundingbox": [
+      "45.4854585",
+      "45.4855585",
+      "15.5529599",
+      "15.5530599"
+    ],
+    "lat": "45.4855085",
+    "lon": "15.5530099",
+    "display_name": "Sports, Prilaz Ve\u0107eslava Holjevca, Turanj, Karlovac, Karlova\u010dka \u017eupanija, 47108, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "5912060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "599239615",
+    "boundingbox": [
+      "62.6036765",
+      "62.6037765",
+      "29.7627474",
+      "29.7628474"
+    ],
+    "lat": "62.6037265",
+    "lon": "29.7627974",
+    "display_name": "ET-Sports, Yl\u00e4satamakatu, Kanervala, Joensuu, Joensuun seutukunta, Pohjois-Karjala, It\u00e4-Suomen aluehallintovirasto, It\u00e4-Suomi, 80100, Suomi",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "965669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "293237898",
+    "boundingbox": [
+      "44.2308513",
+      "44.2309513",
+      "-76.4838555",
+      "-76.4837555"
+    ],
+    "lat": "44.2309013",
+    "lon": "-76.4838055",
+    "display_name": "The Sports, 125, Brock Street, Sydenham, Kingston, Ontario, K7L 1D7, Canada",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

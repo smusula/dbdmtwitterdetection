@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "16391429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1529040334",
+    "boundingbox": [
+      "51.2890622",
+      "51.9290622",
+      "-55.7441141",
+      "-55.1041141"
+    ],
+    "lat": "51.6090622",
+    "lon": "-55.4241141",
+    "display_name": "Lighthouse, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "41612097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3019438029",
+    "boundingbox": [
+      "-26.0848299",
+      "-26.0847299",
+      "149.12312",
+      "149.12322"
+    ],
+    "lat": "-26.0847799",
+    "lon": "149.12317",
+    "display_name": "The Lighthouse, QLD, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "52730896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3987371499",
+    "boundingbox": [
+      "-35.6297082",
+      "-35.6097082",
+      "149.3796939",
+      "149.3996939"
+    ],
+    "lat": "-35.6197082",
+    "lon": "149.3896939",
+    "display_name": "Lighthouse, Queanbeyan, Queanbeyan-Palerang, NSW, Australia",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "92333073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123585871",
+    "boundingbox": [
+      "50.7183041",
+      "50.7189398",
+      "-1.9781116",
+      "-1.9770252"
+    ],
+    "lat": "50.71856605",
+    "lon": "-1.97756838624964",
+    "display_name": "The Lighthouse, Kingland Road, Longfleet, Poole, South West England, England, BH15 1XU, UK",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.33470384519613,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "92191288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122644904",
+    "boundingbox": [
+      "52.9848183",
+      "52.9850699",
+      "-1.9859101",
+      "-1.9855499"
+    ],
+    "lat": "52.9848592",
+    "lon": "-1.9858726",
+    "display_name": "The Lighthouse, Cheadle, Staffordshire Moorlands, Staffordshire, West Midlands, England, ST10 1ES, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71053105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28917746",
+    "boundingbox": [
+      "37.9964204",
+      "37.9968973",
+      "-123.0209864",
+      "-123.0190007"
+    ],
+    "lat": "37.9965853",
+    "lon": "-123.0198354",
+    "display_name": "Lighthouse, Marin County, California, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2653581437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465136066",
+    "boundingbox": [
+      "1.292046",
+      "1.2921692",
+      "103.8477046",
+      "103.8478276"
+    ],
+    "lat": "1.29211085",
+    "lon": "103.847766272498",
+    "display_name": "The Lighthouse, Clarke Quay, City Hall, Singapore, Central Singapore Community Development Council, 179806, Singapore",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "121214852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "241882747",
+    "boundingbox": [
+      "48.477261",
+      "48.481064",
+      "-123.4986369",
+      "-123.4923549"
+    ],
+    "lat": "48.480541",
+    "lon": "-123.4957729",
+    "display_name": "Lighthouse, View Royal, Capital Regional District, British Columbia, V9B4H2, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "4078126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "427966551",
+    "boundingbox": [
+      "-35.5090258",
+      "-35.5089258",
+      "139.19092",
+      "139.19102"
+    ],
+    "lat": "-35.5089758",
+    "lon": "139.19097",
+    "display_name": "lighthouse, Poltalloch Road, Poltalloch, Narrung, Coorong District Council, South Australia, 5259, Australia",
+    "class": "man_made",
+    "type": "lighthouse",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2648241338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464453192",
+    "boundingbox": [
+      "35.5810105",
+      "35.5823627",
+      "-97.5790327",
+      "-97.5775014"
+    ],
+    "lat": "35.5816569",
+    "lon": "-97.5779338801101",
+    "display_name": "The Lighthouse, Green Wing Court, Oklahoma City, Oklahoma County, Oklahoma, 73120, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  }
+]

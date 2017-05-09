@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "47794032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3475291254",
+    "boundingbox": [
+      "44.4130162",
+      "44.4131162",
+      "8.9372812",
+      "8.9373812"
+    ],
+    "lat": "44.4130662",
+    "lon": "8.9373312",
+    "display_name": "#StreetArt, Via Agostino Bertani, Carmine, Centro Est, Genova, GE, LIG, 16125, Italia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2651310568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4666682990",
+    "boundingbox": [
+      "-35.2788752",
+      "-35.2787752",
+      "149.1323652",
+      "149.1324652"
+    ],
+    "lat": "-35.2788252",
+    "lon": "149.1324152",
+    "display_name": "Streetart, Tocumwal Lane, North Canberra, City, Canberra, Canberra Central, Australian Capital Territory, 2601, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "2649807437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4631432990",
+    "boundingbox": [
+      "4.5958212",
+      "4.5959212",
+      "101.07876",
+      "101.07886"
+    ],
+    "lat": "4.5958712",
+    "lon": "101.07881",
+    "display_name": "Streetart #5, Jalan Bijih Timah (Treacher Street), Taman Lim, Fair Park, Ipoh, PRK, 30300, Malaysia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "54563249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4218548390",
+    "boundingbox": [
+      "6.1268851",
+      "6.1269851",
+      "102.2382328",
+      "102.2383328"
+    ],
+    "lat": "6.1269351",
+    "lon": "102.2382828",
+    "display_name": "Streetart, Jalan Ismail, Penambang, Kota Bharu, Kelantan, 15050, Malaysia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

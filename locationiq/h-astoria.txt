@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160292609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186203",
+    "boundingbox": [
+      "46.170132",
+      "46.212905",
+      "-123.8913309",
+      "-123.7384949"
+    ],
+    "lat": "46.187885",
+    "lon": "-123.8312559",
+    "display_name": "Astoria, Clatsop County, Oregon, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.56280625486047,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "501695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158862559",
+    "boundingbox": [
+      "40.7719645",
+      "40.7720645",
+      "-73.9303172",
+      "-73.9302172"
+    ],
+    "lat": "40.7720145",
+    "lon": "-73.9302672",
+    "display_name": "Astoria, Queens County, NYC, New York, 11102, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.52257112592963
+  },
+  {
+    "place_id": "858831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "276538320",
+    "boundingbox": [
+      "47.4945683",
+      "47.4946683",
+      "19.0605642",
+      "19.0606642"
+    ],
+    "lat": "47.4946183",
+    "lon": "19.0606142",
+    "display_name": "Astoria, R\u00e1k\u00f3czi \u00fat, J\u00f3zsefv\u00e1ros, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1075, Magyarorsz\u00e1g",
+    "class": "railway",
+    "type": "halt",
+    "importance": 0.42023326301932
+  },
+  {
+    "place_id": "160268146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126197",
+    "boundingbox": [
+      "40.222389",
+      "40.233007",
+      "-90.3663209",
+      "-90.3444279"
+    ],
+    "lat": "40.227545",
+    "lon": "-90.3595682",
+    "display_name": "Astoria, Fulton County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "431968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153979929",
+    "boundingbox": [
+      "39.539223",
+      "39.579223",
+      "-84.4866124",
+      "-84.4466124"
+    ],
+    "lat": "39.559223",
+    "lon": "-84.4666124",
+    "display_name": "Astoria, Madison Township, Butler County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "382391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151738941",
+    "boundingbox": [
+      "37.3597697",
+      "37.3997697",
+      "-92.3087739",
+      "-92.2687739"
+    ],
+    "lat": "37.3797697",
+    "lon": "-92.2887739",
+    "display_name": "Astoria, Wright County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "438368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154099892",
+    "boundingbox": [
+      "31.1285746",
+      "31.1685746",
+      "-82.3117425",
+      "-82.2717425"
+    ],
+    "lat": "31.1485746",
+    "lon": "-82.2917425",
+    "display_name": "Astoria, Ware County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "96201665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138949125",
+    "boundingbox": [
+      "22.3235527",
+      "22.3243679",
+      "114.1839097",
+      "114.1849404"
+    ],
+    "lat": "22.32395255",
+    "lon": "114.18442545703",
+    "display_name": "198, \u96c5\u58eb\u82b1\u5712 The Astoria, \u99ac\u982d\u570d Ma Tau Wai, \u4e5d\u9f8d Kowloon, \u4e5d\u9f8d\u57ce\u5340 Kowloon City District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160295408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194915",
+    "boundingbox": [
+      "44.555392",
+      "44.560136",
+      "-96.5515519",
+      "-96.5413549"
+    ],
+    "lat": "44.557887",
+    "lon": "-96.5452799",
+    "display_name": "Astoria, Deuel County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.29401684500863,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "69737011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25657228",
+    "boundingbox": [
+      "55.6730029",
+      "55.6737887",
+      "12.5628123",
+      "12.563424"
+    ],
+    "lat": "55.67336825",
+    "lon": "12.5631589321487",
+    "display_name": "Astoria, Baneg\u00e5rdspladsen, K\u00f8dbyen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1570, Danmark",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.20803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "77493275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50465102",
+    "boundingbox": [
+      "-33.0855112",
+      "-33.0847099",
+      "18.04957",
+      "18.05002"
+    ],
+    "lat": "-33.0849299",
+    "lon": "18.04983",
+    "display_name": "Peaceful, Saldanha Bay Ward 6, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67153617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20780705",
+    "boundingbox": [
+      "26.1404098",
+      "26.1423586",
+      "-97.6756453",
+      "-97.6706675"
+    ],
+    "lat": "26.1417356",
+    "lon": "-97.6724998",
+    "display_name": "Peaceful, San Benito, Cameron County, Texas, 78586, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "45700809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3233845251",
+    "boundingbox": [
+      "35.1418289",
+      "35.1419289",
+      "136.8254881",
+      "136.8255881"
+    ],
+    "lat": "35.1418789",
+    "lon": "136.8255381",
+    "display_name": "Peaceful, \u540d\u53e4\u5c4b\u4e2d\u74b0\u72b6\u7dda, \u897f\u30ce\u5207, \u4e2d\u5ddd\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 454-0947, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

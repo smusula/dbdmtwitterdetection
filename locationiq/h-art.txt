@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "392134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153525238",
+    "boundingbox": [
+      "39.3828185",
+      "39.4228185",
+      "-87.1752928",
+      "-87.1352928"
+    ],
+    "lat": "39.4028185",
+    "lon": "-87.1552928",
+    "display_name": "Art, Clay County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10743383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "993424463",
+    "boundingbox": [
+      "48.6479166",
+      "48.6679166",
+      "7.8258872",
+      "7.8458872"
+    ],
+    "lat": "48.6579166",
+    "lon": "7.8358872",
+    "display_name": "Arth, La Wantzenau, Strasbourg, Bas-Rhin, Grand-Est, 67610, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "380146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151826942",
+    "boundingbox": [
+      "30.7185109",
+      "30.7585109",
+      "-99.1314415",
+      "-99.0914415"
+    ],
+    "lat": "30.7385109",
+    "lon": "-99.1114415",
+    "display_name": "Art, Mason County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "141756882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "341981547",
+    "boundingbox": [
+      "27.8455848",
+      "27.8459678",
+      "85.2730988",
+      "85.2735762"
+    ],
+    "lat": "27.8457775",
+    "lon": "85.2733411057278",
+    "display_name": "art?, Th\u0101p\u0101g\u0101on, \u0928\u0941\u0935\u093e\u0915\u094b\u091f (Nuwakot), \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0928\u0947\u092a\u093e\u0932",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.3
+  },
+  {
+    "place_id": "3595233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369045061",
+    "boundingbox": [
+      "43.9785082",
+      "44.0085082",
+      "-76.036474",
+      "-76.006474"
+    ],
+    "lat": "43.9935082",
+    "lon": "-76.021474",
+    "display_name": "Watertown International Airport, NY 12F, Paddy Hill, Jefferson County, New York, 13615, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.23050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "995789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "295657862",
+    "boundingbox": [
+      "49.2041085",
+      "49.2042085",
+      "16.6033424",
+      "16.6034424"
+    ],
+    "lat": "49.2041585",
+    "lon": "16.6033924",
+    "display_name": "Art, 19, Cihl\u00e1\u0159sk\u00e1, Veve\u0159\u00ed, Brno, okres Brno-m\u011bsto, Jihomoravsk\u00fd kraj, Jihov\u00fdchod, 60200, \u010cesko",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.14652765815729,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "118370846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230057843",
+    "boundingbox": [
+      "51.776012",
+      "51.7762278",
+      "-1.2589623",
+      "-1.2586446"
+    ],
+    "lat": "51.7761392",
+    "lon": "-1.25880273671608",
+    "display_name": "Art, Marston Ferry Road, Summertown, Oxford, Oxon, South East, England, OX2 7EE, UK",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "90879680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118020734",
+    "boundingbox": [
+      "51.7560635",
+      "51.7562851",
+      "-1.2296988",
+      "-1.2292715"
+    ],
+    "lat": "51.75616405",
+    "lon": "-1.22948515052667",
+    "display_name": "Art, Cuckoo Lane, New Marston, Oxford, Oxon, South East, England, OX3 0BX, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19414763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1878839313",
+    "boundingbox": [
+      "40.3730116",
+      "40.3731116",
+      "49.8435669",
+      "49.8436669"
+    ],
+    "lat": "40.3730616",
+    "lon": "49.8436169",
+    "display_name": "Art, Xaqani k\u00fc\u00e7\u0259si, Montin, Bak\u0131, Bak\u0131 \u0130nzibati \u018frazisi, 1009, Az\u0259rbaycan",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "73720361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36412172",
+    "boundingbox": [
+      "-32.0083977",
+      "-32.0083185",
+      "115.8941908",
+      "115.8948509"
+    ],
+    "lat": "-32.00836015",
+    "lon": "115.894534944981",
+    "display_name": "202 Art, 202, Brand Drive, Waterford, Perth, Western Australia, 6102, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

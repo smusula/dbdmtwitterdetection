@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "147604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27467067",
+    "boundingbox": [
+      "51.4675417",
+      "51.5075417",
+      "-0.1882204",
+      "-0.1482204"
+    ],
+    "lat": "51.4875417",
+    "lon": "-0.1682204",
+    "display_name": "Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.6100778777502,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160554971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2362263",
+    "boundingbox": [
+      "42.3840806",
+      "42.4145455",
+      "-71.0555269",
+      "-71.008977"
+    ],
+    "lat": "42.3917638",
+    "lon": "-71.0328283",
+    "display_name": "Chelsea, Suffolk County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52606990783623,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2653614029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7045744",
+    "boundingbox": [
+      "45.4587046",
+      "45.6158599",
+      "-75.9295006",
+      "-75.7436002"
+    ],
+    "lat": "45.53693855",
+    "lon": "-75.8581493354424",
+    "display_name": "Chelsea, Les Collines-de-l'Outaouais, Qu\u00e9bec, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160291781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "184077",
+    "boundingbox": [
+      "36.51739",
+      "36.548221",
+      "-95.4535689",
+      "-95.4163479"
+    ],
+    "lat": "36.535647",
+    "lon": "-95.4324739",
+    "display_name": "Chelsea, Rogers County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42621598500338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160273226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135131",
+    "boundingbox": [
+      "42.294531",
+      "42.333093",
+      "-84.0392299",
+      "-83.9974389"
+    ],
+    "lat": "42.3180163",
+    "lon": "-84.0202239",
+    "display_name": "Chelsea, Washtenaw County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42410162999415,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "505134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158859884",
+    "boundingbox": [
+      "41.5337048",
+      "41.5737048",
+      "-73.9868052",
+      "-73.9468052"
+    ],
+    "lat": "41.5537048",
+    "lon": "-73.9668052",
+    "display_name": "Chelsea, Town of Wappinger, Dutchess County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39661565540093,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "495620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158806995",
+    "boundingbox": [
+      "43.968862",
+      "44.008862",
+      "-72.4686539",
+      "-72.4286539"
+    ],
+    "lat": "43.988862",
+    "lon": "-72.4486539",
+    "display_name": "Chelsea, Orange County, Vermont, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.37810883699101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "467505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158532540",
+    "boundingbox": [
+      "39.8470561",
+      "39.8870561",
+      "-75.4879755",
+      "-75.4479755"
+    ],
+    "lat": "39.8670561",
+    "lon": "-75.4679755",
+    "display_name": "Chelsea, Delaware County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "487177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158617471",
+    "boundingbox": [
+      "37.6851458",
+      "37.7251458",
+      "-77.8766618",
+      "-77.8366618"
+    ],
+    "lat": "37.7051458",
+    "lon": "-77.8566618",
+    "display_name": "Chelsea, Goochland County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "443293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157546560",
+    "boundingbox": [
+      "39.3995536",
+      "39.4395536",
+      "-76.2427323",
+      "-76.2027323"
+    ],
+    "lat": "39.4195536",
+    "lon": "-76.2227323",
+    "display_name": "Chelsea, Harford County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

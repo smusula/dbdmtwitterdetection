@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "28599027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2664069763",
+    "boundingbox": [
+      "18.4663716",
+      "18.4664716",
+      "-66.1129288",
+      "-66.1128288"
+    ],
+    "lat": "18.4664216",
+    "lon": "-66.1128788",
+    "display_name": "Blessed, 353, Calle San Francisco, La Perla, San Juan Antiguo, San Juan, Puerto Rico, 00901, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "53324190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4041740092",
+    "boundingbox": [
+      "0.468927",
+      "0.469027",
+      "33.2126774",
+      "33.2127774"
+    ],
+    "lat": "0.468977",
+    "lon": "33.2127274",
+    "display_name": "Blessed, Jinja Kamuli Road, Njereka, Jinja, Eastern Region, Uganda",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  }
+]

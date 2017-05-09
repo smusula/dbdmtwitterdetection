@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "11116037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042049770",
+    "boundingbox": [
+      "3.07083",
+      "3.10083",
+      "172.7960046",
+      "172.8260046"
+    ],
+    "lat": "3.08583",
+    "lon": "172.8110046",
+    "display_name": "Butaritari Atoll Airport, Butaritari, Kiribati",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.21332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "26145237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2497353746",
+    "boundingbox": [
+      "52.328943",
+      "52.329043",
+      "10.2072272",
+      "10.2073272"
+    ],
+    "lat": "52.328993",
+    "lon": "10.2072772",
+    "display_name": "BBG, 30, V\u00f6hrumer Stra\u00dfe, Peine Kernstadt, Peine, Landkreis Peine, Niedersachsen, 31228, Deutschland",
+    "class": "amenity",
+    "type": "social_facility",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146134197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370381989",
+    "boundingbox": [
+      "45.5130684",
+      "45.5131758",
+      "-122.687604",
+      "-122.6873964"
+    ],
+    "lat": "45.5131221",
+    "lon": "-122.6875002",
+    "display_name": "Blumel Bike Garage, Southwest Montgomery Street, University District, Portland, Multnomah County, Oregon, 97201, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.001
+  }
+]

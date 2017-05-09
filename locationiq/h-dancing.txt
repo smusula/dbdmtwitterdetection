@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "98687609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150421225",
+    "boundingbox": [
+      "49.267867",
+      "49.26812",
+      "1.767973",
+      "1.768396"
+    ],
+    "lat": "49.2679785",
+    "lon": "1.76819244072948",
+    "display_name": "Dancing, Rue Pierre Durand, Gisors, Les Andelys, Eure, Normandie, 27140, France",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135757435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313498965",
+    "boundingbox": [
+      "4.2754243",
+      "4.2755764",
+      "-54.3833796",
+      "-54.3832335"
+    ],
+    "lat": "4.27550035",
+    "lon": "-54.38330655",
+    "display_name": "Dancing, rue ANELLI Tamaa, Flavien Kampoe, Grand-Santi, Saint-Laurent-du-Maroni, Guyane, 97340, France",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134053356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305582158",
+    "boundingbox": [
+      "-32.6977786",
+      "-32.6976663",
+      "-62.1052711",
+      "-62.1050287"
+    ],
+    "lat": "-32.6977224",
+    "lon": "-62.1051498971552",
+    "display_name": "Dancing, Italia, Marcos Ju\u00e1rez, Departamento Marcos Ju\u00e1rez, Cba., X2580ATE, Argentina",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4468287",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "478914048",
+    "boundingbox": [
+      "22.7831285",
+      "22.7832285",
+      "-81.9141834",
+      "-81.9140834"
+    ],
+    "lat": "22.7831785",
+    "lon": "-81.9141334",
+    "display_name": "Dancing, Calle 42, San Nicol\u00e1s de Bari, San Nicol\u00e1s, Mayabeque, Cuba",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "40294030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2964366833",
+    "boundingbox": [
+      "16.5000283",
+      "16.5001283",
+      "-15.8084322",
+      "-15.8083322"
+    ],
+    "lat": "16.5000783",
+    "lon": "-15.8083822",
+    "display_name": "Dancing, TAH 1, M\u00e9dine, Ronkh, Ndiaye, Dagana, Saint-Louis, S\u00e9n\u00e9gal",
+    "class": "amenity",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

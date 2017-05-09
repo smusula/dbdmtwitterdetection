@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "14041764",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1286378183",
+    "boundingbox": [
+      "43.9270679",
+      "43.9670679",
+      "10.68707",
+      "10.72707"
+    ],
+    "lat": "43.9470679",
+    "lon": "10.70707",
+    "display_name": "Calamari, PT, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44946660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3178251573",
+    "boundingbox": [
+      "2.9704447",
+      "2.9705447",
+      "-75.2963912",
+      "-75.2962912"
+    ],
+    "lat": "2.9704947",
+    "lon": "-75.2963412",
+    "display_name": "Calamar\u00ed, Comuna Noroccidental, Neiva, Huila, Colombia",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "28392161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2638822520",
+    "boundingbox": [
+      "15.506033",
+      "15.506133",
+      "73.7666666",
+      "73.7667666"
+    ],
+    "lat": "15.506083",
+    "lon": "73.7667166",
+    "display_name": "Calamari, Fort Aguada Road, Sinquerim, North Goa, Goa, 403515, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18722025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1809108170",
+    "boundingbox": [
+      "35.3507026",
+      "35.3508026",
+      "33.1758823",
+      "33.1759823"
+    ],
+    "lat": "35.3507526",
+    "lon": "33.1759323",
+    "display_name": "Calamari, Ankara Street, Lapta, Girne - \u039a\u03b5\u03c1\u03cd\u03bd\u03b5\u03b9\u03b1, Kuzey K\u0131br\u0131s, 99350, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

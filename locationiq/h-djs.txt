@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "78929187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56216667",
+    "boundingbox": [
+      "48.8513366",
+      "48.8517909",
+      "2.3650224",
+      "2.3658499"
+    ],
+    "lat": "48.8515541",
+    "lon": "2.36527756034207",
+    "display_name": "DJS, Boulevard Henri IV, Arsenal, 4e, Paris, \u00cele-de-France, 75004, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "124435809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255457069",
+    "boundingbox": [
+      "34.6647491",
+      "34.6649687",
+      "3.2764533",
+      "3.2768506"
+    ],
+    "lat": "34.6648536",
+    "lon": "3.27673447680296",
+    "display_name": "DJS, RUE 5 juillet, \u0627\u0644\u0632\u0631\u064a\u0639\u0629, Djelfa, da\u00efra Djelfa, Djelfa, 17000, RADP",
+    "class": "office",
+    "type": "administrative",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56372038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4382827852",
+    "boundingbox": [
+      "36.4569528",
+      "36.4570528",
+      "6.2646197",
+      "6.2647197"
+    ],
+    "lat": "36.4570028",
+    "lon": "6.2646697",
+    "display_name": "DJS, Rue Zerouki Houssine, Mila, Da\u00efra Mila, Mila - \u0645\u064a\u0644\u0629, 4300, RADP",
+    "class": "office",
+    "type": "government",
+    "importance": 0.101
+  },
+  {
+    "place_id": "108674925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "190374029",
+    "boundingbox": [
+      "36.2607508",
+      "36.2609606",
+      "2.7554361",
+      "2.7557097"
+    ],
+    "lat": "36.26083965",
+    "lon": "2.7555694099632",
+    "display_name": "DJS, CW 88, Draa Esmar, Da\u00efra de M\u00e9d\u00e9a, M\u00e9d\u00e9a - \u0627\u0644\u0645\u062f\u064a\u0629, 2600, RADP",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135168665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310964799",
+    "boundingbox": [
+      "35.8766834",
+      "35.8772691",
+      "7.1083177",
+      "7.1089393"
+    ],
+    "lat": "35.87697625",
+    "lon": "7.10862847896637",
+    "display_name": "DJS, RN 10, Oum El Bouaghi, Da\u00efra Oum El Bouaghi, Oum El Bouaghi - \u0623\u0645 \u0627\u0644\u0640\u0628\u0640\u0648\u0627\u0642\u064a, 04000, RADP",
+    "class": "tourism",
+    "type": "hostel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7616092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "817549245",
+    "boundingbox": [
+      "47.073088",
+      "47.073188",
+      "15.4333886",
+      "15.4334886"
+    ],
+    "lat": "47.073138",
+    "lon": "15.4334386",
+    "display_name": "The Pub, 20, Mariahilferplatz, Lend, Graz, Steiermark, 8020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "4937721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "560139251",
+    "boundingbox": [
+      "52.1394911",
+      "52.1395911",
+      "4.4098664",
+      "4.4099664"
+    ],
+    "lat": "52.1395411",
+    "lon": "4.4099164",
+    "display_name": "DJ's, Rijksstraatweg, Den Deijl, Wassenaar, MRDH, Zuid-Holland, Nederland, 2242AB, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "26125145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2509685105",
+    "boundingbox": [
+      "44.2493607",
+      "44.2494607",
+      "-72.5662355",
+      "-72.5661355"
+    ],
+    "lat": "44.2494107",
+    "lon": "-72.5661855",
+    "display_name": "DJ's, 56, River Street, Montpelier, Washington County, Vermont, 05602, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "54984996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4231334992",
+    "boundingbox": [
+      "-6.7090101",
+      "-6.7089101",
+      "39.2269149",
+      "39.2270149"
+    ],
+    "lat": "-6.7089601",
+    "lon": "39.2269649",
+    "display_name": "DJ's, Kanisa Road, Mbezi, Kawe, Dar es Salaam, Coastal, Tanzania",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "19159330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1872604422",
+    "boundingbox": [
+      "50.5951978",
+      "50.5952978",
+      "-1.2059437",
+      "-1.2058437"
+    ],
+    "lat": "50.5952478",
+    "lon": "-1.2058937",
+    "display_name": "DJ's, High Street, Ventnor, Isle of Wight, South East, England, PO38 1ST, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

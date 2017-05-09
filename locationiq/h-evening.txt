@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "10385604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "967981693",
+    "boundingbox": [
+      "51.4548869",
+      "51.4549869",
+      "-2.5828364",
+      "-2.5827364"
+    ],
+    "lat": "51.4549369",
+    "lon": "-2.5827864",
+    "display_name": "Bristol Evening Post, 1, Temple Way, Temple, Old Market, Bristol, City of Bristol, South West England, England, BS2, UK",
+    "class": "office",
+    "type": "newspaper",
+    "importance": 0.47062928815144
+  },
+  {
+    "place_id": "5149067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "583394433",
+    "boundingbox": [
+      "50.8276426",
+      "50.8277426",
+      "-0.1422007",
+      "-0.1421007"
+    ],
+    "lat": "50.8276926",
+    "lon": "-0.1421507",
+    "display_name": "The Evening Star, 55-56, Surrey Street, Round Hill, Brighton, Brighton and Hove, South East, England, BN1 3PB, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.44109039448439,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "8761842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "914761808",
+    "boundingbox": [
+      "41.8249385",
+      "42.4649385",
+      "-88.1079453",
+      "-87.4679453"
+    ],
+    "lat": "42.1449385",
+    "lon": "-87.7879453",
+    "display_name": "Evening Island, Chicago, Cook County, Illinois, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3083860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358392316",
+    "boundingbox": [
+      "32.5567674",
+      "32.5568674",
+      "-93.9502324",
+      "-93.9501324"
+    ],
+    "lat": "32.5568174",
+    "lon": "-93.9501824",
+    "display_name": "Evening Star Lake Dam, Shreveport, Caddo Parish, Louisiana, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "20035456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1989914887",
+    "boundingbox": [
+      "51.9466377",
+      "52.5866377",
+      "-128.6442653",
+      "-128.0042653"
+    ],
+    "lat": "52.2666377",
+    "lon": "-128.3242653",
+    "display_name": "Evening Islets, Central Coast Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "107470432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184858864",
+    "boundingbox": [
+      "53.5794812",
+      "53.5837362",
+      "-66.3225031",
+      "-66.2922726"
+    ],
+    "lat": "53.5827743",
+    "lon": "-66.3077098",
+    "display_name": "Evening River, Newfoundland and Labrador, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "44265258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149913067",
+    "boundingbox": [
+      "50.206157",
+      "50.206257",
+      "-125.046299",
+      "-125.046199"
+    ],
+    "lat": "50.206207",
+    "lon": "-125.046249",
+    "display_name": "Evening Mountain, Campbell River, Strathcona Regional District, British Columbia, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2610086504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4497792663",
+    "boundingbox": [
+      "49.8139302",
+      "49.8140302",
+      "-117.1034822",
+      "-117.1033822"
+    ],
+    "lat": "49.8139802",
+    "lon": "-117.1034322",
+    "display_name": "Evening Star Peak, Regional District of Central Kootenay, British Columbia, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "374276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151578003",
+    "boundingbox": [
+      "37.5555991",
+      "37.5955991",
+      "-92.1615504",
+      "-92.1215504"
+    ],
+    "lat": "37.5755991",
+    "lon": "-92.1415504",
+    "display_name": "Evening Shade, Texas County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "379860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151690635",
+    "boundingbox": [
+      "36.0089619",
+      "36.0489619",
+      "-92.5659954",
+      "-92.5259954"
+    ],
+    "lat": "36.0289619",
+    "lon": "-92.5459954",
+    "display_name": "Evening Star, Searcy County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

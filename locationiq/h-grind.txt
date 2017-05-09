@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "4187321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "445063356",
+    "boundingbox": [
+      "58.5520531",
+      "58.5920531",
+      "11.458215",
+      "11.498215"
+    ],
+    "lat": "58.5720531",
+    "lon": "11.478215",
+    "display_name": "Grind, Tanum, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, Sverige",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47345306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3434222558",
+    "boundingbox": [
+      "57.4503196",
+      "57.4903196",
+      "12.7382251",
+      "12.7782251"
+    ],
+    "lat": "57.4703196",
+    "lon": "12.7582251",
+    "display_name": "Grind, Mark, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, Sverige",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7390510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "803582236",
+    "boundingbox": [
+      "59.7466774",
+      "59.7866774",
+      "18.703321",
+      "18.743321"
+    ],
+    "lat": "59.7666774",
+    "lon": "18.723321",
+    "display_name": "Grind, Kvisthamra, Norrt\u00e4lje, Landskapet Uppland, Stockholms l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41678634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3044147269",
+    "boundingbox": [
+      "60.8351",
+      "60.8551",
+      "7.3178",
+      "7.3378"
+    ],
+    "lat": "60.8451",
+    "lon": "7.3278",
+    "display_name": "Grind, \u00d8yo, Aurland, Sogn og Fjordane, Norge",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "777739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "263828126",
+    "boundingbox": [
+      "45.8928677",
+      "45.9328677",
+      "22.4822646",
+      "22.5222646"
+    ],
+    "lat": "45.9128677",
+    "lon": "22.5022646",
+    "display_name": "Grind, Hunedoara, 337284, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.34054450316591,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "108191377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188412753",
+    "boundingbox": [
+      "53.2494897",
+      "53.2551854",
+      "5.2450651",
+      "5.2692919"
+    ],
+    "lat": "53.25233485",
+    "lon": "5.25880366935182",
+    "display_name": "Griend, Terschelling, Friesland, Nederland",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "160569727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2540289",
+    "boundingbox": [
+      "53.2477101",
+      "53.2556218",
+      "5.2431808",
+      "5.2694809"
+    ],
+    "lat": "53.2524669",
+    "lon": "5.25865935717507",
+    "display_name": "Griend, Terschelling, Friesland, Nederland",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "68425930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23209559",
+    "boundingbox": [
+      "52.4979198",
+      "52.5016861",
+      "5.4814618",
+      "5.494013"
+    ],
+    "lat": "52.49993615",
+    "lon": "5.48781498442968",
+    "display_name": "Griend, Lelystad, MRA, Flevoland, Nederland, 8225SW, Nederland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101800955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "162795240",
+    "boundingbox": [
+      "51.1593003",
+      "51.1593574",
+      "6.8497493",
+      "6.8511212"
+    ],
+    "lat": "51.1593574",
+    "lon": "6.850623",
+    "display_name": "Grind, St\u00fcrzelberg, Dormagen, Rhein-Kreis Neuss, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 41541, Deutschland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "73046603",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33886480",
+    "boundingbox": [
+      "51.1569217",
+      "51.1584429",
+      "6.8534009",
+      "6.854204"
+    ],
+    "lat": "51.1576705",
+    "lon": "6.8538077",
+    "display_name": "Grind, St\u00fcrzelberg, Dormagen, Rhein-Kreis Neuss, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 41541, Deutschland",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

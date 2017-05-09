@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "45585990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3242848841",
+    "boundingbox": [
+      "51.5151329",
+      "51.5152329",
+      "-0.0786526",
+      "-0.0785526"
+    ],
+    "lat": "51.5151829",
+    "lon": "-0.0786026",
+    "display_name": "DX Delivered Exactly, Houndsditch, City of London, Greater London, England, EC3A 7BD, UK",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "141656320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "341504906",
+    "boundingbox": [
+      "54.1137028",
+      "54.1138444",
+      "-3.2240906",
+      "-3.2238018"
+    ],
+    "lat": "54.11377365",
+    "lon": "-3.22394618284523",
+    "display_name": "Crellin Street Launderette, Crellin Street, Hindpool, Barrow-in-Furness, Cumbria, North West England, England, LA14 1DU, UK",
+    "class": "shop",
+    "type": "laundry",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_laundrette.p.20.png"
+  }
+]

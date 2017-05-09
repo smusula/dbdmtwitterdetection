@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160711662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3722481",
+    "boundingbox": [
+      "9.5237497",
+      "9.676203",
+      "9.6959009",
+      "9.8134575"
+    ],
+    "lat": "9.60035045",
+    "lon": "9.7584917567031",
+    "display_name": "Project, Bogoro, Bauchi, Nigeria",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "117135262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225639436",
+    "boundingbox": [
+      "24.2631014",
+      "24.2730948",
+      "55.6705499",
+      "55.7115107"
+    ],
+    "lat": "24.2728077",
+    "lon": "55.7099965",
+    "display_name": "Project, \u200fAl Ain, \u0623\u0628\u0648 \u0638\u0628\u064a, 0000, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "highway",
+    "type": "construction",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2655057968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "478453636",
+    "boundingbox": [
+      "44.6612872",
+      "44.6628999",
+      "4.3772223",
+      "4.3801848"
+    ],
+    "lat": "44.6621165",
+    "lon": "4.3784691",
+    "display_name": "(project), Saint-Julien-du-Serre, Largenti\u00e8re, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, 07200, France",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2655057967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "478453635",
+    "boundingbox": [
+      "44.6652479",
+      "44.6664218",
+      "4.3751706",
+      "4.3768987"
+    ],
+    "lat": "44.6661606",
+    "lon": "4.3762587",
+    "display_name": "(project), Vals-les-Bains, Largenti\u00e8re, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, 07600, France",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55342982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4295529389",
+    "boundingbox": [
+      "31.0440761",
+      "31.0441761",
+      "120.8438511",
+      "120.8439511"
+    ],
+    "lat": "31.0441261",
+    "lon": "120.8439011",
+    "display_name": "project, \u6caa\u6e1d\u9ad8\u901f, \u82a6\u589f\u9547, \u5434\u6c5f\u533a (Wujiang), \u82cf\u5dde\u5e02 / Suzhou, \u6c5f\u82cf\u7701, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.111
+  },
+  {
+    "place_id": "3611473",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "373252128",
+    "boundingbox": [
+      "47.2682049",
+      "47.2683049",
+      "11.4023088",
+      "11.4024088"
+    ],
+    "lat": "47.2682549",
+    "lon": "11.4023588",
+    "display_name": "Project, Ing.-Etzel-Stra\u00dfe, Tivoli, Dreiheiligen, Innsbruck, Innsbruck-Stadt, Tirol, 6020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "52646344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4002991907",
+    "boundingbox": [
+      "45.5226369",
+      "45.5227369",
+      "-122.6845415",
+      "-122.6844415"
+    ],
+    "lat": "45.5226869",
+    "lon": "-122.6844915",
+    "display_name": "Project^, 413, Southwest 13th Avenue, Pearl District, Portland, Multnomah County, Oregon, 97205, United States of America",
+    "class": "office",
+    "type": "architect",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27322078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2563887555",
+    "boundingbox": [
+      "46.0722842",
+      "46.0723842",
+      "11.127998",
+      "11.128098"
+    ],
+    "lat": "46.0723342",
+    "lon": "11.128048",
+    "display_name": "Project, 57, Via della Cervara, San Martino, Trento, Territorio Val d'Adige, TN, TAA, 38121, Italia",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49574230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3682596830",
+    "boundingbox": [
+      "53.9609765",
+      "53.9610765",
+      "-2.0150928",
+      "-2.0149928"
+    ],
+    "lat": "53.9610265",
+    "lon": "-2.0150428",
+    "display_name": "Project, 1, Court Lane, Skipton, Craven, Yorkshire and the Humber, England, BD23 1DD, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "100822484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159385559",
+    "boundingbox": [
+      "51.9217086",
+      "51.9218744",
+      "0.973399",
+      "0.9736521"
+    ],
+    "lat": "51.92178075",
+    "lon": "0.973524800950374",
+    "display_name": "The Project, Green Lane, Ardleigh Civil Parish, Tendring, Essex, East of England, England, CO7 7PE, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

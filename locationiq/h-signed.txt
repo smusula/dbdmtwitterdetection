@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "52785103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3994474083",
+    "boundingbox": [
+      "49.267894",
+      "49.267994",
+      "-123.149946",
+      "-123.149846"
+    ],
+    "lat": "49.267944",
+    "lon": "-123.149896",
+    "display_name": "Signed Sealed, 1988, West 4th Avenue, Kitsilano, Vancouver, Greater Vancouver Regional District, British Columbia, V6J, Canada",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22679565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2268894563",
+    "boundingbox": [
+      "47.667057",
+      "47.667157",
+      "-122.3985399",
+      "-122.3984399"
+    ],
+    "lat": "47.667107",
+    "lon": "-122.3984899",
+    "display_name": "Cam At Hiram Chittenden Locks at gate signed  Private Residence, 3015, Northwest 54th Street, Magnolia Manor, Ballard, Seattle, King County, Washington, 98107, United States of America",
+    "class": "man_made",
+    "type": "surveillance",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40289249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2960378468",
+    "boundingbox": [
+      "52.9543528",
+      "52.9544528",
+      "-1.1533934",
+      "-1.1532934"
+    ],
+    "lat": "52.9544028",
+    "lon": "-1.1533434",
+    "display_name": "Hand Signed, Upper Parliament Street, Lace Market, The Park, City of Nottingham, East Midlands, England, NG1 6JZ, UK",
+    "class": "shop",
+    "type": "autograph",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55004041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4245123381",
+    "boundingbox": [
+      "41.0366423",
+      "41.0367423",
+      "-83.646509",
+      "-83.646409"
+    ],
+    "lat": "41.0366923",
+    "lon": "-83.646459",
+    "display_name": "Signed by Josette, East Sandusky Street, Findlay Downtown Historic District, Findlay, Hancock County, Ohio, 45840, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12951523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1225340875",
+    "boundingbox": [
+      "-35.2659487",
+      "-35.2658487",
+      "174.0808774",
+      "174.0809774"
+    ],
+    "lat": "-35.2658987",
+    "lon": "174.0809274",
+    "display_name": "Treaty of Waitangi signed 1840, Tau Henare Drive, Waitangi, Far North District, Northland, 0252, New Zealand/Aotearoa",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "119301553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233565272",
+    "boundingbox": [
+      "51.5688982",
+      "51.5697766",
+      "-0.2948113",
+      "-0.2944921"
+    ],
+    "lat": "51.5688982",
+    "lon": "-0.2948113",
+    "display_name": "Preston Road, Preston, London Borough of Brent, London, Greater London, England, HA9 8NE, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "109183555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192679113",
+    "boundingbox": [
+      "51.050085",
+      "51.0501079",
+      "-1.3044711",
+      "-1.3042285"
+    ],
+    "lat": "51.050085",
+    "lon": "-1.3044711",
+    "display_name": "Garnier Road, Winchester, Hampshire, South East, England, SO21, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.1
+  },
+  {
+    "place_id": "75732199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42701041",
+    "boundingbox": [
+      "33.18869",
+      "33.1889226",
+      "-102.8348626",
+      "-102.8345058"
+    ],
+    "lat": "33.1888532",
+    "lon": "-102.8346018",
+    "display_name": "US 82, Plains, Yoakum County, Texas, 79355, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "67592877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21387452",
+    "boundingbox": [
+      "33.0893017",
+      "33.1887046",
+      "-103.0628405",
+      "-102.8348626"
+    ],
+    "lat": "33.1461875",
+    "lon": "-102.9470707",
+    "display_name": "US 82, Yoakum County, Texas, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "145796927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369321846",
+    "boundingbox": [
+      "41.182305",
+      "41.1838726",
+      "-122.9468027",
+      "-122.943926"
+    ],
+    "lat": "41.1829939",
+    "lon": "-122.9455232",
+    "display_name": "9W16, Siskiyou County, California, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.075
+  }
+]

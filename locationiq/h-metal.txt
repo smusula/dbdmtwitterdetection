@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "458000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158376514",
+    "boundingbox": [
+      "39.993977",
+      "40.033977",
+      "-77.8988864",
+      "-77.8588864"
+    ],
+    "lat": "40.013977",
+    "lon": "-77.8788864",
+    "display_name": "Metal, Franklin County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13454688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242819535",
+    "boundingbox": [
+      "43.4807454",
+      "43.5007454",
+      "-5.2925533",
+      "-5.2725533"
+    ],
+    "lat": "43.4907454",
+    "lon": "-5.2825533",
+    "display_name": "El Metal, Colunga, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "87739805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107237009",
+    "boundingbox": [
+      "52.6694587",
+      "52.6714747",
+      "14.8866462",
+      "14.8886455"
+    ],
+    "lat": "52.67041815",
+    "lon": "14.8876496949166",
+    "display_name": "Metal, Witnica, gmina Witnica, powiat gorzowski, lubuskie, Polska",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "93857412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "128933431",
+    "boundingbox": [
+      "45.1428525",
+      "45.1457",
+      "17.2554918",
+      "17.2602232"
+    ],
+    "lat": "45.14427935",
+    "lon": "17.2576736676887",
+    "display_name": "Metal, Kro\u0161nja, Bosanska Gradi\u0161ka / \u0411\u043e\u0441\u0430\u043d\u0441\u043a\u0430 \u0413\u0440\u0430\u0434\u0438\u0448\u043a\u0430, Op\u0161tina Gradi\u0161ka, Republika Srpska, 7800, Bosna i Hercegovina",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "75559087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42092550",
+    "boundingbox": [
+      "43.3756877",
+      "43.3758071",
+      "-8.4256385",
+      "-8.4253216"
+    ],
+    "lat": "43.3758071",
+    "lon": "-8.4256385",
+    "display_name": "Metal, Laba\u00f1ou - San Roque, A Coru\u00f1a, Galicia, 15011, Espa\u00f1a",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "153897698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412826690",
+    "boundingbox": [
+      "-16.4985289",
+      "-16.4984321",
+      "37.1836032",
+      "37.1836814"
+    ],
+    "lat": "-16.49847895",
+    "lon": "37.1836410858489",
+    "display_name": "metal, N1, Tapua, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "156951688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "428738613",
+    "boundingbox": [
+      "-16.6861077",
+      "-16.6860423",
+      "37.4020414",
+      "37.4021021"
+    ],
+    "lat": "-16.686075",
+    "lon": "37.4020717250767",
+    "display_name": "metal, R651, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "153068147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "407031711",
+    "boundingbox": [
+      "-16.3928388",
+      "-16.3927861",
+      "37.2679019",
+      "37.2679556"
+    ],
+    "lat": "-16.39281415",
+    "lon": "37.2679293768415",
+    "display_name": "Metal, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "153886183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412814988",
+    "boundingbox": [
+      "-16.4429341",
+      "-16.4428343",
+      "37.1790652",
+      "37.1791846"
+    ],
+    "lat": "-16.4428842",
+    "lon": "37.1791249",
+    "display_name": "Metal, N1, Tapua, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "153885195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412808527",
+    "boundingbox": [
+      "-16.3980381",
+      "-16.3979872",
+      "37.2077078",
+      "37.2077609"
+    ],
+    "lat": "-16.3980137",
+    "lon": "37.2077342224244",
+    "display_name": "Metal, N1, Lipugure, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

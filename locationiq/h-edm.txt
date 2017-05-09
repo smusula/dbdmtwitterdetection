@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160401639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1376489",
+    "boundingbox": [
+      "18.3669429",
+      "20.2858667",
+      "-100.6130909",
+      "-98.5968665"
+    ],
+    "lat": "19.4839446",
+    "lon": "-99.6899715",
+    "display_name": "M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50834046215725,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "129592472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "284350914",
+    "boundingbox": [
+      "47.8109111",
+      "47.8112177",
+      "-122.3845519",
+      "-122.384109"
+    ],
+    "lat": "47.81106355",
+    "lon": "-122.384332796263",
+    "display_name": "Edmonds Station, Railroad Avenue, Edmonds, Snohomish County, Washington, 98020, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "81620084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "76702382",
+    "boundingbox": [
+      "28.6406351",
+      "28.6418785",
+      "77.3163182",
+      "77.3179203"
+    ],
+    "lat": "28.6417836",
+    "lon": "77.3168927",
+    "display_name": "EDM, East Delhi Mall, Kaushambi, Noida, Ghaziabad, Uttar Pradesh, 201301, India",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2645548162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "457008057",
+    "boundingbox": [
+      "43.5746873",
+      "43.5749254",
+      "3.9380776",
+      "3.9384265"
+    ],
+    "lat": "43.5748063",
+    "lon": "3.93825205023923",
+    "display_name": "EDM, All\u00e9e de la Bouvine, ZAE Fenouillet, P\u00e9rols, Montpellier, H\u00e9rault, Occitanie, 34470, France",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650683198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4646803594",
+    "boundingbox": [
+      "-12.7609111",
+      "-12.7608111",
+      "45.2260344",
+      "45.2261344"
+    ],
+    "lat": "-12.7608611",
+    "lon": "45.2260844",
+    "display_name": "EDM, N1, Mamoudzou, Mayotte, 97600, France",
+    "class": "office",
+    "type": "government",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107484906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184936132",
+    "boundingbox": [
+      "52.8811609",
+      "52.8818157",
+      "-1.547724",
+      "-1.5467784"
+    ],
+    "lat": "52.8815166",
+    "lon": "-1.54722344659407",
+    "display_name": "EDM, Burton Road, Findern CP, South Derbyshire, Derbyshire, East Midlands, England, DE65, UK",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "74748759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38590359",
+    "boundingbox": [
+      "50.9310208",
+      "50.9314598",
+      "5.395214",
+      "5.3959951"
+    ],
+    "lat": "50.93124",
+    "lon": "5.39565520117398",
+    "display_name": "EDM, 2, Wetenschapspark, Diepenbeek, Hasselt, Limburg, Vlaanderen, 3590, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74481877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38590368",
+    "boundingbox": [
+      "50.9310183",
+      "50.9313887",
+      "5.395999",
+      "5.3966029"
+    ],
+    "lat": "50.93120345",
+    "lon": "5.39630095431076",
+    "display_name": "EDM, Wetenschapspark, Diepenbeek, Hasselt, Limburg, Vlaanderen, 3590, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "153316432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "408812868",
+    "boundingbox": [
+      "12.4811829",
+      "12.4814524",
+      "-7.9377673",
+      "-7.9374664"
+    ],
+    "lat": "12.48131675",
+    "lon": "-7.93761846179149",
+    "display_name": "EDM, Trans-Sahelian Highway, District de Bamako, Mali",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645819992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4540135559",
+    "boundingbox": [
+      "-17.8777857",
+      "-17.8776857",
+      "36.8827579",
+      "36.8828579"
+    ],
+    "lat": "-17.8777357",
+    "lon": "36.8828079",
+    "display_name": "EDM, Avenida 7 de Julho, Quelimane, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "160333314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "422606",
+    "boundingbox": [
+      "-17.438843",
+      "-15.1450004",
+      "13.1350002",
+      "17.4191666"
+    ],
+    "lat": "-16.5568535",
+    "lon": "15.7867319",
+    "display_name": "Cunene, Angola",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4743381619192,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146472622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372073039",
+    "boundingbox": [
+      "51.5482259",
+      "51.5488141",
+      "-0.0941025",
+      "-0.0920266"
+    ],
+    "lat": "51.5485245",
+    "lon": "-0.0929832911099161",
+    "display_name": "Canonbury, Wallace Road, Mildmay Park, Canonbury, London Borough of Islington, London, Greater London, England, N1 2PG, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.34857837983063,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "883332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "280068108",
+    "boundingbox": [
+      "56.894082",
+      "56.924082",
+      "124.8860341",
+      "124.9160341"
+    ],
+    "lat": "56.909082",
+    "lon": "124.9010341",
+    "display_name": "\u0410\u044d\u0440\u043e\u043f\u043e\u0440\u0442 \u041d\u0435\u0440\u044e\u043d\u0433\u0440\u0438, \u0427\u043a\u0430\u043b\u043e\u0432\u0430, \u043f\u043e\u0441. \u042e\u043a\u043e\u0432\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0427\u0443\u043b\u044c\u043c\u0430\u043d, \u041d\u0435\u0440\u044e\u043d\u0433\u0440\u0438\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.33634000491239,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "155818598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "423247007",
+    "boundingbox": [
+      "34.0974783",
+      "34.0978548",
+      "-118.3301926",
+      "-118.3296692"
+    ],
+    "lat": "34.09765625",
+    "lon": "-118.329931109017",
+    "display_name": "CNN, West Sunset Boulevard, Hollywood, LA, Los Angeles County, California, 90028, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "122036830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245311511",
+    "boundingbox": [
+      "48.9405292",
+      "48.9418241",
+      "2.3463751",
+      "2.3476372"
+    ],
+    "lat": "48.941085",
+    "lon": "2.34690765933693",
+    "display_name": "CNN, Rue Maurice Thorez, Saint-Denis, Seine-Saint-Denis, \u00cele-de-France, 93200;93210, France",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "56869617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4431501226",
+    "boundingbox": [
+      "-33.3912439",
+      "-33.3911439",
+      "-70.6139153",
+      "-70.6138153"
+    ],
+    "lat": "-33.3911939",
+    "lon": "-70.6138653",
+    "display_name": "CNN, 765, Avenida del Valle, Ciudad Empresarial, Huechuraba, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 7630391, Chile",
+    "class": "office",
+    "type": "telecommunication",
+    "importance": 0.101
+  }
+]

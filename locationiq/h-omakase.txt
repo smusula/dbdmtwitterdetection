@@ -1,0 +1,116 @@
+[
+  {
+    "place_id": "44597167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3151614340",
+    "boundingbox": [
+      "55.6703763",
+      "55.6704763",
+      "12.5353092",
+      "12.5354092"
+    ],
+    "lat": "55.6704263",
+    "lon": "12.5353592",
+    "display_name": "Omakase, 171, Vesterbrogade, Sorte Hest, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1800, Danmark",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48682465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3570918495",
+    "boundingbox": [
+      "37.7706128",
+      "37.7707128",
+      "-122.4029441",
+      "-122.4028441"
+    ],
+    "lat": "37.7706628",
+    "lon": "-122.4028941",
+    "display_name": "Omakase, Townsend Street, West SoMa, SF, California, 94107, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "11021592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1068757289",
+    "boundingbox": [
+      "14.5562206",
+      "14.5563206",
+      "121.0242052",
+      "121.0243052"
+    ],
+    "lat": "14.5562706",
+    "lon": "121.0242552",
+    "display_name": "Omakase, Makati Avenue, Salcedo, Bel-Air, Makati, District I, Makati, Metro Manila, 1226, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18402020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1774335468",
+    "boundingbox": [
+      "14.4246156",
+      "14.4247156",
+      "121.0269529",
+      "121.0270529"
+    ],
+    "lat": "14.4246656",
+    "lon": "121.0270029",
+    "display_name": "Omakase, Madrigal Avenue, Ayala Alabang, Muntinlupa, Metro Manila, 1751, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "14088992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1271278999",
+    "boundingbox": [
+      "14.6004175",
+      "14.6005175",
+      "121.0501834",
+      "121.0502834"
+    ],
+    "lat": "14.6004675",
+    "lon": "121.0502334",
+    "display_name": "Omakase, exit, Greenhills Shopping Center, Greenhills, Addition Hills, District 2, San Juan, Metro Manila, 1502, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "27454951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2580372159",
+    "boundingbox": [
+      "33.5828218",
+      "33.5829218",
+      "130.3584457",
+      "130.3585457"
+    ],
+    "lat": "33.5828718",
+    "lon": "130.3584957",
+    "display_name": "\u304a\u307e\u304b\u305b, \u30cf\u30c8\u30e4\u65b0\u9053\u5546\u5e97\u8857, \u65e9\u826f\u533a, \u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, 814-0003, \u65e5\u672c",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

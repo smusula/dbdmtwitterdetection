@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "419570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153841136",
+    "boundingbox": [
+      "40.5958849",
+      "40.6358849",
+      "-83.8143799",
+      "-83.7743799"
+    ],
+    "lat": "40.6158849",
+    "lon": "-83.7943799",
+    "display_name": "Jump, Hardin County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1615758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "340146628",
+    "boundingbox": [
+      "53.4862822",
+      "53.5262822",
+      "-1.4485043",
+      "-1.4085043"
+    ],
+    "lat": "53.5062822",
+    "lon": "-1.4285043",
+    "display_name": "Jump, Yorkshire and the Humber, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "106701063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "181397796",
+    "boundingbox": [
+      "45.5926719",
+      "45.5928897",
+      "10.0678705",
+      "10.068893"
+    ],
+    "lat": "45.592736",
+    "lon": "10.0684181",
+    "display_name": "jump!, Passirano, BS, LOM, 25100, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "131676443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294957398",
+    "boundingbox": [
+      "35.992775",
+      "35.9949904",
+      "-84.1617853",
+      "-84.1589139"
+    ],
+    "lat": "35.993893",
+    "lon": "-84.160132675",
+    "display_name": "Jump, Oak Ridge, Anderson County, Tennessee, 37931, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "110301899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "197815869",
+    "boundingbox": [
+      "44.2463944",
+      "44.2508",
+      "9.5781718",
+      "9.5836618"
+    ],
+    "lat": "44.2480376",
+    "lon": "9.5808074",
+    "display_name": "Jump, Miniera, Deiva Marina, SP, LIG, 19013, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "28006434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2626189056",
+    "boundingbox": [
+      "43.6478841",
+      "43.6479841",
+      "-79.3784636",
+      "-79.3783636"
+    ],
+    "lat": "43.6479341",
+    "lon": "-79.3784136",
+    "display_name": "jump, PATH, Brookfield Place, Old Toronto, Toronto, Ontario, M5J 2S1, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54606425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4195883572",
+    "boundingbox": [
+      "51.562722",
+      "51.562822",
+      "-0.037515",
+      "-0.037415"
+    ],
+    "lat": "51.562772",
+    "lon": "-0.037465",
+    "display_name": "The Jump, Friends Bridge, Clapton Park, London Borough of Hackney, London, Greater London, England, E10 7NU, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "52798601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4016950459",
+    "boundingbox": [
+      "51.5255989",
+      "51.5256989",
+      "-3.1927364",
+      "-3.1926364"
+    ],
+    "lat": "51.5256489",
+    "lon": "-3.1926864",
+    "display_name": "Jump, Parc T\u0177 Glas, Llanishen, Cardiff, Wales, CF, UK",
+    "class": "leisure",
+    "type": "indoor_play",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3942675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "418888214",
+    "boundingbox": [
+      "42.3427828",
+      "42.3428828",
+      "-3.7026557",
+      "-3.7025557"
+    ],
+    "lat": "42.3428328",
+    "lon": "-3.7026057",
+    "display_name": "Jump, Calle Fern\u00e1n Gonz\u00e1lez, San Juli\u00e1n, Vadillos, Burgos, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "120832454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240138267",
+    "boundingbox": [
+      "50.4157732",
+      "50.4162582",
+      "-4.135361",
+      "-4.1345591"
+    ],
+    "lat": "50.41600805",
+    "lon": "-4.13493754069857",
+    "display_name": "Jump, Tamerton Foliot Road, Southway, Plymouth, South West England, England, UK",
+    "class": "leisure",
+    "type": "indoor_play",
+    "importance": 0.101
+  }
+]

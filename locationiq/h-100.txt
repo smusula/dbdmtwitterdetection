@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "68743252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23894159",
+    "boundingbox": [
+      "-36.8517777",
+      "-36.8484899",
+      "174.7687363",
+      "174.7718813"
+    ],
+    "lat": "-36.850071",
+    "lon": "174.770558634248",
+    "display_name": "University of Auckland, Waterloo Quadrant, Auckland Central, Waitemata, Auckland, 1001, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.58665285887146,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "160435789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1676335",
+    "boundingbox": [
+      "46.5828842",
+      "46.6578794",
+      "15.995083",
+      "16.10878"
+    ],
+    "lat": "46.6408144",
+    "lon": "16.0406849",
+    "display_name": "Radenci, Pomurska, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50402900343453,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652650127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4698658091",
+    "boundingbox": [
+      "54.3552751",
+      "54.3553751",
+      "48.8532812",
+      "48.8533812"
+    ],
+    "lat": "54.3553251",
+    "lon": "48.8533312",
+    "display_name": "\u0422-54, \u0443\u043b\u0438\u0446\u0430 50 \u043b\u0435\u0442 \u0412\u041b\u041a\u0421\u041c, \u0427\u0435\u0440\u0434\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u043e\u0435 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0427\u0435\u0440\u0434\u0430\u043a\u043b\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0423\u043b\u044c\u044f\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 433400, \u0420\u0424",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.49417659032044,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "22680893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2252796794",
+    "boundingbox": [
+      "51.8883789",
+      "51.8884789",
+      "14.0176454",
+      "14.0177454"
+    ],
+    "lat": "51.8884289",
+    "lon": "14.0176954",
+    "display_name": "Schleusen- und Wehranlage Gro\u00dfes Flie\u00df (Nr. 100), L\u00fcbbenau/Spreewald, Landkreis Oberspreewald-Lausitz, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "lock_gate",
+    "importance": 0.425
+  },
+  {
+    "place_id": "46807868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3379453914",
+    "boundingbox": [
+      "47.9985821",
+      "47.9986821",
+      "37.9465858",
+      "37.9466858"
+    ],
+    "lat": "47.9986321",
+    "lon": "37.9466358",
+    "display_name": "100, \u0413\u0456\u0440\u043d\u0438\u0446\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0430\u043a\u0456\u0457\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 86100-86180, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.41,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2645648822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4535258897",
+    "boundingbox": [
+      "68.7481577",
+      "68.7482577",
+      "33.1772248",
+      "33.1773248"
+    ],
+    "lat": "68.7482077",
+    "lon": "33.1772748",
+    "display_name": "100, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u041a\u0438\u043b\u044c\u0434\u0438\u043d\u0441\u0442\u0440\u043e\u0439, \u041a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.41,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "49012818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3632162138",
+    "boundingbox": [
+      "53.3466967",
+      "53.3566967",
+      "-6.2539306",
+      "-6.2439306"
+    ],
+    "lat": "53.3516967",
+    "lon": "-6.2489306",
+    "display_name": "Dublin Connolly, Amiens Street, Docklands, Dublin 1, Dublin, County Dublin, Leinster, D01 V6V6, Ireland",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.33940162059147,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2551062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "354969806",
+    "boundingbox": [
+      "44.192669",
+      "44.212669",
+      "7.1400964",
+      "7.1600964"
+    ],
+    "lat": "44.202669",
+    "lon": "7.1500964",
+    "display_name": "Col de la Lombarde, Vinadio, CN, PIE, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.33543898169688,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18467871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1800406156",
+    "boundingbox": [
+      "44.2025954",
+      "44.2026954",
+      "7.1501961",
+      "7.1502961"
+    ],
+    "lat": "44.2026454",
+    "lon": "7.1502461",
+    "display_name": "Col de la Lombarde, SP255, Vinadio, CN, PIE, Italia",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.33543898169688,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "160609070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3134149",
+    "boundingbox": [
+      "50.8669327",
+      "51.1610295",
+      "6.9882129",
+      "7.3986669"
+    ],
+    "lat": "51.0139774",
+    "lon": "7.17155790728242",
+    "display_name": "Rheinisch-Bergischer Kreis, Alte Wipperf\u00fcrther Stra\u00dfe, Altehufe, Oberschallemich, Odenthal, Rheinisch-Bergischer Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51519, Deutschland",
+    "class": "boundary",
+    "type": "political",
+    "importance": 0.30707848858916
+  }
+]

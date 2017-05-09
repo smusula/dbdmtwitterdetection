@@ -1,0 +1,180 @@
+[
+  {
+    "place_id": "161290285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "-20.2946679",
+      "-20.2945679",
+      "57.364728",
+      "57.364828"
+    ],
+    "lat": "-20.2946179",
+    "lon": "57.364778",
+    "display_name": "Flic en Flac, Black River, 00, Mauritius",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "103041976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167318618",
+    "boundingbox": [
+      "43.9788738",
+      "43.9794856",
+      "11.5763847",
+      "11.582194"
+    ],
+    "lat": "43.9794856",
+    "lon": "11.5795058",
+    "display_name": "00, Pian degli Arali, Vicchio, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "103944742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170578674",
+    "boundingbox": [
+      "44.093934",
+      "44.0939809",
+      "11.2761433",
+      "11.276365"
+    ],
+    "lat": "44.0939633",
+    "lon": "11.2762358",
+    "display_name": "00, Il Castello, Firenzuola, FI, TOS, Italia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "73933020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37134230",
+    "boundingbox": [
+      "43.7957787",
+      "43.7997619",
+      "10.9751637",
+      "10.9784324"
+    ],
+    "lat": "43.7977126",
+    "lon": "10.9769501",
+    "display_name": "00, Villa, Vinci, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "71725617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30741113",
+    "boundingbox": [
+      "44.082458",
+      "44.0941733",
+      "11.2267876",
+      "11.2750859"
+    ],
+    "lat": "44.087303",
+    "lon": "11.25077",
+    "display_name": "00, Ripanaio, Barberino di Mugello, FI, TOS, Italia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "112099797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204591482",
+    "boundingbox": [
+      "43.9588809",
+      "43.9641885",
+      "11.62023",
+      "11.6304284"
+    ],
+    "lat": "43.960801",
+    "lon": "11.6254656",
+    "display_name": "00, Casa Val Capriglia, San Godenzo, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "74072238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37607855",
+    "boundingbox": [
+      "43.9372981",
+      "43.9429004",
+      "11.2345494",
+      "11.2389572"
+    ],
+    "lat": "43.9405385",
+    "lon": "11.2376592",
+    "display_name": "Via delle Magliane, Colle, Calenzano, FI, TOS, 50038, Italia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "112008964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204591477",
+    "boundingbox": [
+      "43.9747777",
+      "43.9774187",
+      "11.5873423",
+      "11.5932794"
+    ],
+    "lat": "43.9759254",
+    "lon": "11.5906031",
+    "display_name": "CAI 00, Pian degli Arali, Vicchio, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75148464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39869469",
+    "boundingbox": [
+      "44.0853378",
+      "44.0936962",
+      "11.2789203",
+      "11.2964645"
+    ],
+    "lat": "44.0895408",
+    "lon": "11.2875556",
+    "display_name": "00 - Via degli Dei, Il Castello, Firenzuola, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103077177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167316966",
+    "boundingbox": [
+      "44.0446727",
+      "44.0547996",
+      "11.3918293",
+      "11.4202593"
+    ],
+    "lat": "44.0477369",
+    "lon": "11.4086967",
+    "display_name": "Sentiero 00 Colla-Giogo, Pratelle, Firenzuola, FI, TOS, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "14485850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1315380228",
+    "boundingbox": [
+      "51.1033959",
+      "51.1034959",
+      "6.9487808",
+      "6.9488808"
+    ],
+    "lat": "51.1034459",
+    "lon": "6.9488308",
+    "display_name": "Hieke, Montessoristra\u00dfe, Immigrath, Langenfeld, Kreis Mettmann, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40764, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "14625734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1315377554",
+    "boundingbox": [
+      "51.103449",
+      "51.103549",
+      "6.9487862",
+      "6.9488862"
+    ],
+    "lat": "51.103499",
+    "lon": "6.9488362",
+    "display_name": "Hieke, Montessoristra\u00dfe, Immigrath, Langenfeld, Kreis Mettmann, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40764, Deutschland",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.001
+  }
+]

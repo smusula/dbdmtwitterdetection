@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "2652073075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4686081365",
+    "boundingbox": [
+      "-23.5598191",
+      "-23.5597191",
+      "-46.7221243",
+      "-46.7220243"
+    ],
+    "lat": "-23.5597691",
+    "lon": "-46.7220743",
+    "display_name": "MAC, Rua do Anfiteatro, Butant\u00e3, SP, Microrregi\u00e3o de S\u00e3o Paulo, RMSP, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, 05508-060, Brasil",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.51729106268039,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "40854667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2994597330",
+    "boundingbox": [
+      "50.0836536",
+      "50.0837536",
+      "14.423676",
+      "14.423776"
+    ],
+    "lat": "50.0837036",
+    "lon": "14.423726",
+    "display_name": "MAC Cosmetics, 4, V\u00e1clavsk\u00e9 n\u00e1m\u011bst\u00ed, Nov\u00e9 M\u011bsto, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 11000, \u010cesko",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.46415097256809
+  },
+  {
+    "place_id": "66892798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19910836",
+    "boundingbox": [
+      "45.5073842",
+      "45.5082081",
+      "-73.5678157",
+      "-73.566281"
+    ],
+    "lat": "45.50777385",
+    "lon": "-73.5667766132359",
+    "display_name": "MAC, Rue Jeanne-Mance, Quartier des Spectacles, Centre-Ville, Ville-Marie, Montr\u00e9al, Montr\u00e9al (06), Qu\u00e9bec, H5B 1E5, Canada",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.45113932557876,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "483627",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158571429",
+    "boundingbox": [
+      "41.7875747",
+      "41.8275747",
+      "-76.6030023",
+      "-76.5630023"
+    ],
+    "lat": "41.8075747",
+    "lon": "-76.5830023",
+    "display_name": "Mac, Bradford County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "398845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153693964",
+    "boundingbox": [
+      "37.3800614",
+      "37.4200614",
+      "-85.5305216",
+      "-85.4905216"
+    ],
+    "lat": "37.4000614",
+    "lon": "-85.5105216",
+    "display_name": "Mac, Taylor County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "79972970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62414004",
+    "boundingbox": [
+      "48.7764542",
+      "48.7773057",
+      "2.4539525",
+      "2.4548716"
+    ],
+    "lat": "48.77686045",
+    "lon": "2.45443712718305",
+    "display_name": "Maison des Arts et de la Culture de Cr\u00e9teil, Quai de la Croisette, Cr\u00e9teil, Val-de-Marne, \u00cele-de-France, 94000, France",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.31045232539126,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "71985961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31441925",
+    "boundingbox": [
+      "32.8165318",
+      "32.8285086",
+      "-83.5711971",
+      "-83.5549514"
+    ],
+    "lat": "32.82263265",
+    "lon": "-83.5636712580051",
+    "display_name": "Herbert Smart Downtown Airport, Hubbard Road, Macon, Bibb County, Georgia, 31295, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.29764611922243,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "51366570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3839782255",
+    "boundingbox": [
+      "48.1090018",
+      "48.1290018",
+      "19.4356808",
+      "19.4556808"
+    ],
+    "lat": "48.1190018",
+    "lon": "19.4456808",
+    "display_name": "M\u00e1\u010d, Kov\u00e1\u010dovce, okres Ve\u013ek\u00fd Krt\u00ed\u0161, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52548187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980067643",
+    "boundingbox": [
+      "48.8591671",
+      "48.8592671",
+      "2.3455833",
+      "2.3456833"
+    ],
+    "lat": "48.8592171",
+    "lon": "2.3456333",
+    "display_name": "MAC, Rue de Rivoli, Quartier des Halles, Les Halles, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44413079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3133041039",
+    "boundingbox": [
+      "45.4722639",
+      "45.4723639",
+      "9.18718",
+      "9.18728"
+    ],
+    "lat": "45.4723139",
+    "lon": "9.18723",
+    "display_name": "MAC, 12, Via Fiori Chiari, Brera, Municipio 1, Milano, MI, LOM, 20121, Italia",
+    "class": "shop",
+    "type": "chemist",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy.p.20.png"
+  }
+]

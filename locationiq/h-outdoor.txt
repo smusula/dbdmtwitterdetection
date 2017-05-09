@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "1285951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "301590296",
+    "boundingbox": [
+      "52.3744496",
+      "52.3745496",
+      "9.7136961",
+      "9.7137961"
+    ],
+    "lat": "52.3744996",
+    "lon": "9.7137461",
+    "display_name": "outdoor, Kochstra\u00dfe, Linden-Nord, Linden-Limmer, Hannover, Region Hannover, Niedersachsen, 30451, Deutschland",
+    "class": "man_made",
+    "type": "surveillance",
+    "importance": 0.111
+  },
+  {
+    "place_id": "3765785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "401547333",
+    "boundingbox": [
+      "52.2528481",
+      "52.2529481",
+      "12.3099593",
+      "12.3100593"
+    ],
+    "lat": "52.2528981",
+    "lon": "12.3100093",
+    "display_name": "outdoor, Buckautal, K\u00f6pernitz, Ziesar, Landkreis Potsdam-Mittelmark, Brandenburg, 14793, Deutschland",
+    "class": "man_made",
+    "type": "surveillance",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2654761078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4749088158",
+    "boundingbox": [
+      "33.9850477",
+      "33.9851477",
+      "35.6194442",
+      "35.6195442"
+    ],
+    "lat": "33.9850977",
+    "lon": "35.6194942",
+    "display_name": "outdoor, sea road zouk, \u062c\u0648\u0646\u064a\u0647, \u0642\u0636\u0627\u0621 \u0643\u0633\u0631\u0648\u0627\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, 1818, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16047284",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1472367064",
+    "boundingbox": [
+      "16.1742262",
+      "16.1743262",
+      "75.6596024",
+      "75.6597024"
+    ],
+    "lat": "16.1742762",
+    "lon": "75.6596524",
+    "display_name": "outdoor, Bahanpur - Gadankeri Highway, Vidyagiri, Bagalakote, Bagalakote taluk, Bagalkote district, Karnataka, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "1609604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "339429898",
+    "boundingbox": [
+      "53.3761431",
+      "53.3762431",
+      "9.8036696",
+      "9.8037696"
+    ],
+    "lat": "53.3761931",
+    "lon": "9.8037196",
+    "display_name": "outdoor, Soltauer Stra\u00dfe, Neu Wulmstorf, Landkreis Harburg, Niedersachsen, 21629, Deutschland",
+    "class": "man_made",
+    "type": "surveillance",
+    "importance": 0.111
+  },
+  {
+    "place_id": "6953727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "722152586",
+    "boundingbox": [
+      "53.3775786",
+      "53.3776786",
+      "9.8034511",
+      "9.8035511"
+    ],
+    "lat": "53.3776286",
+    "lon": "9.8035011",
+    "display_name": "outdoor, Soltauer Stra\u00dfe, Neu Wulmstorf, Landkreis Harburg, Niedersachsen, 21629, Deutschland",
+    "class": "highway",
+    "type": "speed_camera",
+    "importance": 0.111
+  },
+  {
+    "place_id": "103073494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167395703",
+    "boundingbox": [
+      "45.7639054",
+      "45.7639447",
+      "4.8660148",
+      "4.8660497"
+    ],
+    "lat": "45.76392555",
+    "lon": "4.86603311357143",
+    "display_name": "outdoor, Rue d'Inkermann, Charmettes, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69006, France",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.111
+  },
+  {
+    "place_id": "49793492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3707904125",
+    "boundingbox": [
+      "33.9223222",
+      "33.9224222",
+      "35.5892379",
+      "35.5893379"
+    ],
+    "lat": "33.9223722",
+    "lon": "35.5892879",
+    "display_name": "outdoor, \u0637\u0631\u064a\u0642 \u0636\u0628\u064a\u0629 \u0627\u0644\u0642\u062f\u064a\u0645, \u0627\u0644\u062f\u0648\u0631\u0629, Antelias, \u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, 0001, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "45636939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3235964302",
+    "boundingbox": [
+      "40.4096739",
+      "40.4097739",
+      "-3.7072302",
+      "-3.7071302"
+    ],
+    "lat": "40.4097239",
+    "lon": "-3.7071802",
+    "display_name": "Outdoor, 1, Calle Ribera de Curtidores, Barrio Embajadores, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28005, Espa\u00f1a",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25324069",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2457712091",
+    "boundingbox": [
+      "45.7657886",
+      "45.7658886",
+      "4.8366042",
+      "4.8367042"
+    ],
+    "lat": "45.7658386",
+    "lon": "4.8366542",
+    "display_name": "Outdoor, Rue Mulet, Clos-Jouve, 1er, Lyon 1er Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69001, France",
+    "class": "man_made",
+    "type": "surveillance",
+    "importance": 0.101
+  }
+]

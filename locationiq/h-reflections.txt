@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "11460324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1088580608",
+    "boundingbox": [
+      "28.1260756",
+      "28.1460756",
+      "-82.5328039",
+      "-82.5128039"
+    ],
+    "lat": "28.1360756",
+    "lon": "-82.5228039",
+    "display_name": "Reflections, Cheval, Hillsborough County, Florida, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654263868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "480520670",
+    "boundingbox": [
+      "29.7361046",
+      "29.7436334",
+      "-95.6210278",
+      "-95.6172354"
+    ],
+    "lat": "29.73937945",
+    "lon": "-95.6191336295769",
+    "display_name": "Reflections, Houston, Harris County, Texas, 77077, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "86637723",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "102657399",
+    "boundingbox": [
+      "49.2142373",
+      "49.2150569",
+      "-122.9579993",
+      "-122.9567056"
+    ],
+    "lat": "49.21464715",
+    "lon": "-122.957352436436",
+    "display_name": "Reflections, Middlegate, Burnaby, Greater Vancouver Regional District, British Columbia, V3M4X1, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "111612367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202631846",
+    "boundingbox": [
+      "36.0128417",
+      "36.0160305",
+      "-115.0755349",
+      "-115.0710222"
+    ],
+    "lat": "36.0142554",
+    "lon": "-115.07358673637",
+    "display_name": "Reflections, Green Valley Ranch, Henderson, Clark County, Nevada, 89012, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "148335606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381382919",
+    "boundingbox": [
+      "41.4228525",
+      "41.4257568",
+      "-88.2751216",
+      "-88.2707672"
+    ],
+    "lat": "41.4243338",
+    "lon": "-88.2731592536132",
+    "display_name": "Reflections, Minooka, Grundy County, Illinois, 60447, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160504145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2046308",
+    "boundingbox": [
+      "28.5795408",
+      "28.5869983",
+      "-81.5202",
+      "-81.5133987"
+    ],
+    "lat": "28.5831197",
+    "lon": "-81.5159252184645",
+    "display_name": "Reflections, Ocoee, Orange County, Florida, 34761, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102951629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166798117",
+    "boundingbox": [
+      "-37.8479374",
+      "-37.8411662",
+      "144.678485",
+      "144.6888652"
+    ],
+    "lat": "-37.84481975",
+    "lon": "144.683899375916",
+    "display_name": "Reflections, Tarneit, City of Wyndham, Greater Melbourne, Victoria, 3029, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "151471103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398970968",
+    "boundingbox": [
+      "51.4819737",
+      "51.4820432",
+      "-2.5250002",
+      "-2.5248341"
+    ],
+    "lat": "51.48200505",
+    "lon": "-2.52491452373247",
+    "display_name": "Reflections, Vassall Crescent, Fishponds, Bristol, City of Bristol, South West England, England, BS16, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2647132410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249628896",
+    "boundingbox": [
+      "51.4562766",
+      "51.4563906",
+      "-2.606755",
+      "-2.6065887"
+    ],
+    "lat": "51.4563327",
+    "lon": "-2.60667227584306",
+    "display_name": "Reflections, 53, Queen's Road, Kingsdown, Spike Island, Bristol, City of Bristol, South West England, England, BS8 1QQ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136685734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "317697262",
+    "boundingbox": [
+      "52.4587154",
+      "52.458895",
+      "-1.9495803",
+      "-1.9493663"
+    ],
+    "lat": "52.4588052",
+    "lon": "-1.9494733",
+    "display_name": "Reflections, High Street, Bournbrook, Harborne, Birmingham, West Midlands, England, B17, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "211205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "36966057",
+    "boundingbox": [
+      "1.9999503",
+      "2.0000503",
+      "15.9999497",
+      "16.0000497"
+    ],
+    "lat": "2.0000003",
+    "lon": "15.9999997",
+    "display_name": "Africa",
+    "class": "place",
+    "type": "continent",
+    "importance": 0.92642029859355
+  },
+  {
+    "place_id": "383039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153465528",
+    "boundingbox": [
+      "37.8203271",
+      "37.8603271",
+      "-87.0927744",
+      "-87.0527744"
+    ],
+    "lat": "37.8403271",
+    "lon": "-87.0727744",
+    "display_name": "Africa, Spencer County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6770264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703218625",
+    "boundingbox": [
+      "3.3210972",
+      "3.3610972",
+      "-75.7337173",
+      "-75.6937173"
+    ],
+    "lat": "3.3410972",
+    "lon": "-75.7137173",
+    "display_name": "Africa, Ataco, Tolima, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "685057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249600446",
+    "boundingbox": [
+      "1.0569962",
+      "1.0969962",
+      "-79.3058995",
+      "-79.2658995"
+    ],
+    "lat": "1.0769962",
+    "lon": "-79.2858995",
+    "display_name": "Africa, R\u00edo Verde, Esmeraldas, Ecuador",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25021901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2416054964",
+    "boundingbox": [
+      "9.1274847",
+      "9.1674847",
+      "-82.3449533",
+      "-82.3049533"
+    ],
+    "lat": "9.1474847",
+    "lon": "-82.3249533",
+    "display_name": "Africa, Provincia de Bocas del Toro, Panam\u00e1",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53368613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4066989955",
+    "boundingbox": [
+      "12.7829335",
+      "12.8229335",
+      "14.8677155",
+      "14.9077155"
+    ],
+    "lat": "12.8029335",
+    "lon": "14.8877155",
+    "display_name": "Africa, Hadjer-Lamis \u062d\u062c\u0631 \u0644\u0645\u064a\u0633, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "419170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153916949",
+    "boundingbox": [
+      "40.1622849",
+      "40.2022849",
+      "-82.9771264",
+      "-82.9371264"
+    ],
+    "lat": "40.1822849",
+    "lon": "-82.9571264",
+    "display_name": "Africa, Delaware County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6758545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703342763",
+    "boundingbox": [
+      "5.1949585",
+      "5.2149585",
+      "-74.2708023",
+      "-74.2508023"
+    ],
+    "lat": "5.2049585",
+    "lon": "-74.2608023",
+    "display_name": "Africa, El Mortino, Cundinamarca, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6827549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703229500",
+    "boundingbox": [
+      "5.9778652",
+      "5.9978652",
+      "-74.3393175",
+      "-74.3193175"
+    ],
+    "lat": "5.9878652",
+    "lon": "-74.3293175",
+    "display_name": "Africa, Ca\u00f1o Negro, Puerto Boyac\u00e1, Boyac\u00e1, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6769861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703216513",
+    "boundingbox": [
+      "5.5475137",
+      "5.5675137",
+      "-74.7599966",
+      "-74.7399966"
+    ],
+    "lat": "5.5575137",
+    "lon": "-74.7499966",
+    "display_name": "Africa, Victoria, Magdalena Caldense, Caldas, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

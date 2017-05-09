@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "15606890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1427040166",
+    "boundingbox": [
+      "48.8365801",
+      "48.8565801",
+      "17.2596109",
+      "17.2796109"
+    ],
+    "lat": "48.8465801",
+    "lon": "17.2696109",
+    "display_name": "Movis, Skalica, okres Skalica, Trnavsk\u00fd kraj, Z\u00e1padn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "92689753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "124769665",
+    "boundingbox": [
+      "37.4149352",
+      "37.4155629",
+      "-122.0804526",
+      "-122.0779909"
+    ],
+    "lat": "37.4153833",
+    "lon": "-122.0792725",
+    "display_name": "Movies, Mountain View, Santa Clara County, California, 94043, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "17236069",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1643073420",
+    "boundingbox": [
+      "49.6058928",
+      "49.6059928",
+      "11.0046122",
+      "11.0047122"
+    ],
+    "lat": "49.6059428",
+    "lon": "11.0046622",
+    "display_name": "movies, 24, Bayreuther Stra\u00dfe, Burgberg, Erlangen, Mittelfranken, Bayern, 91054, Deutschland",
+    "class": "shop",
+    "type": "video",
+    "importance": 0.111
+  },
+  {
+    "place_id": "697726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "252123878",
+    "boundingbox": [
+      "52.3839623",
+      "52.3840623",
+      "4.8845573",
+      "4.8846573"
+    ],
+    "lat": "52.3840123",
+    "lon": "4.8846073",
+    "display_name": "The Movies, 161, Haarlemmerdijk, Haarlemmerbuurt, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1013 KH, Nederland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "6362886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "662613233",
+    "boundingbox": [
+      "51.4406414",
+      "51.4407414",
+      "5.4802406",
+      "5.4803406"
+    ],
+    "lat": "51.4406914",
+    "lon": "5.4802906",
+    "display_name": "Movies, Dommelstraat, Fellenoord, Eindhoven, MRE, Noord-Brabant, Nederland, 5611CL, Nederland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "25629874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2445875451",
+    "boundingbox": [
+      "51.8143082",
+      "51.8144082",
+      "4.6703692",
+      "4.6704692"
+    ],
+    "lat": "51.8143582",
+    "lon": "4.6704192",
+    "display_name": "The Movies, Nieuwstraat, Dordrecht Centrum, Dordrecht, Zuid-Holland, Nederland, 3311XR, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18768276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1804223553",
+    "boundingbox": [
+      "51.048474",
+      "51.048574",
+      "3.7271879",
+      "3.7272879"
+    ],
+    "lat": "51.048524",
+    "lon": "3.7272379",
+    "display_name": "Movies, 5, Sint-Pietersnieuwstraat, Zuid, Gent, Oost-Vlaanderen, Vlaanderen, 9000, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "50011623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3706942677",
+    "boundingbox": [
+      "42.2845336",
+      "42.2846336",
+      "-3.7157078",
+      "-3.7156078"
+    ],
+    "lat": "42.2845836",
+    "lon": "-3.7156578",
+    "display_name": "Movies, 20, Calle R\u00edo Duero, Pol\u00edgono El Clavillo, Villariezo, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09195, Espa\u00f1a",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19655747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1905872175",
+    "boundingbox": [
+      "42.6047318",
+      "42.6048318",
+      "0.5233931",
+      "0.5234931"
+    ],
+    "lat": "42.6047818",
+    "lon": "0.5234431",
+    "display_name": "Movies, Calle San Marcial, Benasque, La Ribagorza, Huesca, Arag\u00f3n, 22440, Espa\u00f1a",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14209996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1288840332",
+    "boundingbox": [
+      "48.0653872",
+      "48.0654872",
+      "11.5516128",
+      "11.5517128"
+    ],
+    "lat": "48.0654372",
+    "lon": "11.5516628",
+    "display_name": "Movies, 7, Bavariafilmplatz, Bavaria Film, Gr\u00fcnwald, Landkreis M\u00fcnchen, OB, Bayern, 82031, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

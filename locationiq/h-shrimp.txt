@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "67234909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20902625",
+    "boundingbox": [
+      "29.460195",
+      "29.460402",
+      "-94.6223339",
+      "-94.6217258"
+    ],
+    "lat": "29.460402",
+    "lon": "-94.6217258",
+    "display_name": "Shrimp, Crystal Beach, Galveston County, Texas, 77650, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "14682450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1319170072",
+    "boundingbox": [
+      "35.1486992",
+      "35.1487992",
+      "137.0144987",
+      "137.0145987"
+    ],
+    "lat": "35.1487492",
+    "lon": "137.0145487",
+    "display_name": "Shrimp, \u5ca9\u85e4\u540d\u53e4\u5c4b\u7dda, \u540d\u6771\u533a, \u540d\u53e4\u5c4b\u5e02, \u4e39\u7fbd\u90e1, \u611b\u77e5\u770c, 465-0065, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

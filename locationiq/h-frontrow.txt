@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "14358667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1278936225",
+    "boundingbox": [
+      "33.4460734",
+      "33.4461734",
+      "-112.0679591",
+      "-112.0678591"
+    ],
+    "lat": "33.4461234",
+    "lon": "-112.0679091",
+    "display_name": "TGFI Friday's Frontrow, Suite 1400, East Jefferson Street, Central City, Phoenix, Maricopa County, Arizona, 85004, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2645501059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4530467692",
+    "boundingbox": [
+      "14.6401258",
+      "14.6402258",
+      "121.0314507",
+      "121.0315507"
+    ],
+    "lat": "14.6401758",
+    "lon": "121.0315007",
+    "display_name": "FrontRow International, Quezon Avenue, South Triangle, Quezon City, District IV, Quezon City, Metro Manila, 1103, Philippines",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  }
+]

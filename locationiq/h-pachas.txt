@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "14286704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308656465",
+    "boundingbox": [
+      "-7.2532073",
+      "-7.2132073",
+      "140.2994655",
+      "140.3394655"
+    ],
+    "lat": "-7.2332073",
+    "lon": "140.3194655",
+    "display_name": "Pachas, Papua, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652846412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2784102922",
+    "boundingbox": [
+      "-9.7269273",
+      "-9.6869273",
+      "-76.7914469",
+      "-76.7514469"
+    ],
+    "lat": "-9.7069273",
+    "lon": "-76.7714469",
+    "display_name": "Pachas, Dos de Mayo, Hu\u00e1nuco, Per\u00fa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "34009360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2802021895",
+    "boundingbox": [
+      "-16.4867619",
+      "-16.4467619",
+      "-70.7360599",
+      "-70.6960599"
+    ],
+    "lat": "-16.4667619",
+    "lon": "-70.7160599",
+    "display_name": "Pachas, General S\u00e1nchez Cerro, Moquegua, Per\u00fa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46979271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3404431961",
+    "boundingbox": [
+      "-16.8303499",
+      "-16.7903499",
+      "-70.9093499",
+      "-70.8693499"
+    ],
+    "lat": "-16.8103499",
+    "lon": "-70.8893499",
+    "display_name": "Pachas, Mariscal Nieto, Moquegua, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54636742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4220202443",
+    "boundingbox": [
+      "44.0852897",
+      "44.0853897",
+      "0.5812722",
+      "0.5813722"
+    ],
+    "lat": "44.0853397",
+    "lon": "0.5813222",
+    "display_name": "Pachas, Marmont-Pachas, Agen, Lot-et-Garonne, Nouvelle-Aquitaine, 47220, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160465257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1954549",
+    "boundingbox": [
+      "-9.8234843",
+      "-9.5873495",
+      "-76.947828",
+      "-76.7168026"
+    ],
+    "lat": "-9.7075565",
+    "lon": "-76.7722837",
+    "display_name": "Pachas, Dos de Mayo, Hu\u00e1nuco, Per\u00fa",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.22027225158296,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "87019999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104273073",
+    "boundingbox": [
+      "-13.4283879",
+      "-13.4282259",
+      "-76.1292369",
+      "-76.1284879"
+    ],
+    "lat": "-13.4282259",
+    "lon": "-76.1292369",
+    "display_name": "Pachas, Condorillo Bajo, Chincha Alta, Chincha, Ica, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "86998273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104274287",
+    "boundingbox": [
+      "-13.4235209",
+      "-13.4232159",
+      "-76.1245699",
+      "-76.1241939"
+    ],
+    "lat": "-13.4232159",
+    "lon": "-76.1245699",
+    "display_name": "Pachas, Cruz Blanca, Chincha Alta, Chincha, Ica, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "984903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "290719561",
+    "boundingbox": [
+      "-25.7792476",
+      "-25.7791476",
+      "28.2602187",
+      "28.2603187"
+    ],
+    "lat": "-25.7791976",
+    "lon": "28.2602687",
+    "display_name": "Pachas, Maroelana Street, Tshwane Ward 82, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0800, South Africa",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18621133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1791532383",
+    "boundingbox": [
+      "37.993609",
+      "37.993709",
+      "-0.6791281",
+      "-0.6790281"
+    ],
+    "lat": "37.993659",
+    "lon": "-0.6790781",
+    "display_name": "Pachas, Obenque, Pol\u00edgono Casa Grande, La Mata, Torrevieja, Vega Baja del Segura, Alicante/Alacant, Comunitat Valenciana, 00383, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

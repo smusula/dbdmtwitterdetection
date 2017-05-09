@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "54945943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4258845392",
+    "boundingbox": [
+      "35.1633134",
+      "35.1634134",
+      "33.3632267",
+      "33.3633267"
+    ],
+    "lat": "35.1633634",
+    "lon": "33.3632767",
+    "display_name": "Artwork, Chytron, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 1075, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "44535671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3154230684",
+    "boundingbox": [
+      "52.4652006",
+      "52.4653006",
+      "-1.9140109",
+      "-1.9139109"
+    ],
+    "lat": "52.4652506",
+    "lon": "-1.9139609",
+    "display_name": "Artwork, Melton Drive, Edgbaston, Park Central, West Midlands Combined Authority, West Midlands, England, B15, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "41032339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2990497353",
+    "boundingbox": [
+      "51.6901974",
+      "51.6902974",
+      "3.735271",
+      "3.735371"
+    ],
+    "lat": "51.6902474",
+    "lon": "3.735321",
+    "display_name": "Artwork, Weeldeweg, Burgh-Haamstede, Schouwen-Duiveland, Zeeland, Nederland, 4328NB, Nederland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

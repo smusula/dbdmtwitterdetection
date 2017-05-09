@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "160253410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "61320",
+    "boundingbox": [
+      "40.477399",
+      "45.0158611",
+      "-79.7619439",
+      "-71.7955693"
+    ],
+    "lat": "43.1561681",
+    "lon": "-75.8449945",
+    "display_name": "New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7704572196627,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6663161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "697214214",
+    "boundingbox": [
+      "50.2656114",
+      "50.3056114",
+      "5.4615277",
+      "5.5015277"
+    ],
+    "lat": "50.2856114",
+    "lon": "5.4815277",
+    "display_name": "Ny, Marche-en-Famenne, Luxembourg, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654591474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87184265",
+    "boundingbox": [
+      "25.2132886",
+      "25.2149304",
+      "55.149089",
+      "55.1522432"
+    ],
+    "lat": "25.21410395",
+    "lon": "55.150851022481",
+    "display_name": "NY, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "islet",
+    "importance": 0.35
+  },
+  {
+    "place_id": "4027223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "432464464",
+    "boundingbox": [
+      "35.4675417",
+      "35.5075417",
+      "46.1066788",
+      "46.1466788"
+    ],
+    "lat": "35.4875417",
+    "lon": "46.1266788",
+    "display_name": "\u0646\u06cc, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0645\u0631\u06cc\u0648\u0627\u0646, \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u062f\u0633\u062a\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "80502859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68808066",
+    "boundingbox": [
+      "63.8465886",
+      "63.8477911",
+      "-22.4341572",
+      "-22.427493"
+    ],
+    "lat": "63.8468189",
+    "lon": "-22.4306654",
+    "display_name": "Ny, Grindav\u00edk, Su\u00f0urnes, 240, \u00cdsland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "19331432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1882067156",
+    "boundingbox": [
+      "52.4998238",
+      "52.4999238",
+      "13.3142214",
+      "13.3143214"
+    ],
+    "lat": "52.4998738",
+    "lon": "13.3142714",
+    "display_name": "ny, 15, Olivaer Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10707, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54384104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4196783273",
+    "boundingbox": [
+      "12.9347349",
+      "12.9348349",
+      "100.8837347",
+      "100.8838347"
+    ],
+    "lat": "12.9347849",
+    "lon": "100.8837847",
+    "display_name": "NY LA, \u0e1e\u0e31\u0e17\u0e22\u0e32 9, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20210, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "7786483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "845426285",
+    "boundingbox": [
+      "62.8921844",
+      "62.8922844",
+      "15.6137725",
+      "15.6138725"
+    ],
+    "lat": "62.8922344",
+    "lon": "15.6138225",
+    "display_name": "Nyhem, 323, Br\u00e4cke, J\u00e4mtlands l\u00e4n, Norrland, Sverige",
+    "class": "railway",
+    "type": "technical_station",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56413425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4415768186",
+    "boundingbox": [
+      "51.3923276",
+      "51.3924276",
+      "-0.3117635",
+      "-0.3116635"
+    ],
+    "lat": "51.3923776",
+    "lon": "-0.3117135",
+    "display_name": "Brighton Road, Seething Wells, Surbiton, Royal Borough of Kingston upon Thames, London, Greater London, England, KT6 4EB, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

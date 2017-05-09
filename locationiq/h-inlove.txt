@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "52602567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3989611027",
+    "boundingbox": [
+      "53.5623252",
+      "53.5624252",
+      "9.9655518",
+      "9.9656518"
+    ],
+    "lat": "53.5623752",
+    "lon": "9.9656018",
+    "display_name": "InLove, 79, Schanzenstra\u00dfe, Sternschanze, Altona, Hamburg, 20357, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55215810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4267995189",
+    "boundingbox": [
+      "16.5680291",
+      "16.5681291",
+      "105.926019",
+      "105.926119"
+    ],
+    "lat": "16.5680791",
+    "lon": "105.926069",
+    "display_name": "INLOVE, 9E, \u0ec0\u0ea1\u0eb7\u0ead\u0e87 \u0e9e\u0eb5\u0e99, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e9e\u0eb5\u0e99, \u0eaa\u0eb0\u0eab\u0ea7\u0eb1\u0e99\u0e99\u0eb0\u0ec0\u0e82\u0e94, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2645971161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4543725927",
+    "boundingbox": [
+      "39.747322",
+      "39.747422",
+      "37.0126675",
+      "37.0127675"
+    ],
+    "lat": "39.747372",
+    "lon": "37.0127175",
+    "display_name": "InLove, Hoca Ahmet Yesevi Caddesi, Sivas, Cami-i Kebir Mahallesi, Sivas Belediyesi, Sivas merkez, Sivas, \u0130\u00e7 Anadolu B\u00f6lgesi, 58070, T\u00fcrkiye",
+    "class": "shop",
+    "type": "Jwelery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21689957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2163841967",
+    "boundingbox": [
+      "42.666356",
+      "42.666456",
+      "21.1664178",
+      "21.1665178"
+    ],
+    "lat": "42.666406",
+    "lon": "21.1664678",
+    "display_name": "InLove, Ibrahim Lutfiu, Gjinaj, Prishtin\u00eb, Komuna e Prishtin\u00ebs, Rrafsh i Kosov\u00ebs, Rajoni i Prishtin\u00ebs (01), 10000, \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  }
+]

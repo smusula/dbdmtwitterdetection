@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "5091599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "573420800",
+    "boundingbox": [
+      "51.7064876",
+      "51.7464876",
+      "-3.1028005",
+      "-3.0628005"
+    ],
+    "lat": "51.7264876",
+    "lon": "-3.0828005",
+    "display_name": "British, Varteg, Torfaen, Wales, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160763961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4200357",
+    "boundingbox": [
+      "54.655602",
+      "54.6706215",
+      "-6.2628004",
+      "-6.2021625"
+    ],
+    "lat": "54.6631376",
+    "lon": "-6.22819883455051",
+    "display_name": "British, Crumlin, County Antrim, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "70929463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27997575",
+    "boundingbox": [
+      "51.5517193",
+      "51.5529556",
+      "-2.4357346",
+      "-2.4346233"
+    ],
+    "lat": "51.5517625",
+    "lon": "-2.4347461",
+    "display_name": "The British, Iron Acton, Rangeworthy, South Gloucestershire, South West England, England, BS37, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "22710637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2258104219",
+    "boundingbox": [
+      "-34.8438242",
+      "-34.8437242",
+      "138.5018381",
+      "138.5019381"
+    ],
+    "lat": "-34.8437742",
+    "lon": "138.5018881",
+    "display_name": "The British, Nelson Street, Port Adelaide, Adelaide, South Australia, 5000, Australia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "26495092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2523081094",
+    "boundingbox": [
+      "50.6071085",
+      "50.6072085",
+      "3.3933775",
+      "3.3934775"
+    ],
+    "lat": "50.6071585",
+    "lon": "3.3934275",
+    "display_name": "The british, Rue des Campeaux, Les Chaufours, Tournai, Hainaut, Wallonie, 7500, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "41786339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3029433837",
+    "boundingbox": [
+      "39.0770749",
+      "39.0771749",
+      "17.126134",
+      "17.126234"
+    ],
+    "lat": "39.0771249",
+    "lon": "17.126184",
+    "display_name": "British, Via Firenze, Passovecchio, Crotone, KR, CAL, 88048, Italia",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "38263331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2887024320",
+    "boundingbox": [
+      "43.8523205",
+      "43.8524205",
+      "18.3934923",
+      "18.3935923"
+    ],
+    "lat": "43.8523705",
+    "lon": "18.3935423",
+    "display_name": "British, Aleja Lipa, Grbavica II, Op\u0107ina Novo Sarajevo, Grad Sarajevo, Kanton/\u017dupanija Sarajevo, Federacija Bosne i Hercegovine, 71000 Sarajevo, Bosna i Hercegovina",
+    "class": "amenity",
+    "type": "embassy",
+    "importance": 0.101
+  },
+  {
+    "place_id": "82165028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "79143093",
+    "boundingbox": [
+      "54.1478156",
+      "54.1479626",
+      "-4.4794832",
+      "-4.4791836"
+    ],
+    "lat": "54.14787175",
+    "lon": "-4.4793333985184",
+    "display_name": "The British, North Quay, Douglas, Middle, IM1 5AY, Isle of Man",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "110978366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200090995",
+    "boundingbox": [
+      "-34.9099281",
+      "-34.9096049",
+      "138.6046732",
+      "138.6049995"
+    ],
+    "lat": "-34.90975915",
+    "lon": "138.604833950107",
+    "display_name": "The British, Finniss Street, North Adelaide, 5006, City of Adelaide, South Australia, 5006, Australia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "4451218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "483740854",
+    "boundingbox": [
+      "-33.421171",
+      "-33.421071",
+      "-70.5979836",
+      "-70.5978836"
+    ],
+    "lat": "-33.421121",
+    "lon": "-70.5979336",
+    "display_name": "British, Avenida Tobalaba, Providencia, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 7500000, Chile",
+    "class": "amenity",
+    "type": "fire_station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_firestation3.p.20.png"
+  }
+]

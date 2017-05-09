@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "135167820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311181726",
+    "boundingbox": [
+      "38.888783",
+      "38.8892078",
+      "-77.0095231",
+      "-77.0085636"
+    ],
+    "lat": "38.88900875",
+    "lon": "-77.0090433259771",
+    "display_name": "United States House of Representatives, West Terraces and Steps, Capitol Hill, Washington, District of Columbia, 20540, United States of America",
+    "class": "office",
+    "type": "government",
+    "importance": 0.77522085089177
+  },
+  {
+    "place_id": "619461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244080772",
+    "boundingbox": [
+      "33.3895173",
+      "34.6695173",
+      "107.9582966",
+      "109.2382966"
+    ],
+    "lat": "34.0295173",
+    "lon": "108.5982966",
+    "display_name": "\u6237\u53bf, \u897f\u5b89\u5e02 / Xi'an, \u4e2d\u56fd",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "647315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244085031",
+    "boundingbox": [
+      "22.5314086",
+      "22.5714086",
+      "114.1060302",
+      "114.1460302"
+    ],
+    "lat": "22.5514086",
+    "lon": "114.1260302",
+    "display_name": "\u7f57\u6e56\u533a Luohu, \u65b0\u6e56\u6751, \u7f57\u6e56\u533a (Luohu), \u6df1\u5733\u5e02 / Shenzhen, \u5e7f\u4e1c\u7701, 518000, \u4e2d\u56fd",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.4416336961452,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4670570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "512530445",
+    "boundingbox": [
+      "25.1598095",
+      "30.2798095",
+      "53.775807",
+      "58.895807"
+    ],
+    "lat": "27.7198095",
+    "lon": "56.335807",
+    "display_name": "\u0647\u0631\u0645\u0632\u06af\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "state",
+    "importance": 0.43858202420685,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160262035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "105949",
+    "boundingbox": [
+      "48.5612153",
+      "48.8982463",
+      "15.4241706",
+      "15.9409385"
+    ],
+    "lat": "48.7296109",
+    "lon": "15.6446483653352",
+    "display_name": "Horn, Nieder\u00f6sterreich, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35256001822201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2646809945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "434449745",
+    "boundingbox": [
+      "6.5726598",
+      "6.6526598",
+      "0.4288932",
+      "0.5088932"
+    ],
+    "lat": "6.6126598",
+    "lon": "0.4688932",
+    "display_name": "Ho, Volta Region, Ghana",
+    "class": "place",
+    "type": "town",
+    "importance": 0.33940162059147,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "100774375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158863428",
+    "boundingbox": [
+      "51.3121659",
+      "51.3121918",
+      "-0.5108471",
+      "-0.5106649"
+    ],
+    "lat": "51.3121659",
+    "lon": "-0.5106649",
+    "display_name": "Hoe, Guildford, Surrey, South East, England, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "79871296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62184005",
+    "boundingbox": [
+      "51.2932639",
+      "51.2988891",
+      "-0.5798716",
+      "-0.569804"
+    ],
+    "lat": "51.293828",
+    "lon": "-0.5735911",
+    "display_name": "Hoe, Woking, Surrey, South East, England, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "68294619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21841839",
+    "boundingbox": [
+      "51.2768664",
+      "51.2786491",
+      "-0.6314908",
+      "-0.6296242"
+    ],
+    "lat": "51.278205",
+    "lon": "-0.6309224",
+    "display_name": "Hoe, Guildford, Surrey, South East, England, UK",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "81637007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "76800422",
+    "boundingbox": [
+      "-21.1851653",
+      "-21.1542674",
+      "165.5160577",
+      "165.5421066"
+    ],
+    "lat": "-21.1716096",
+    "lon": "165.5299408",
+    "display_name": "La H\u00f4, Houa\u00eflou, Province Nord, Nouvelle-Cal\u00e9donie, 98816, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "24698802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2396791178",
+    "boundingbox": [
+      "54.3121371",
+      "54.3122371",
+      "13.0887191",
+      "13.0888191"
+    ],
+    "lat": "54.3121871",
+    "lon": "13.0887691",
+    "display_name": "Traffic, 17, Apollonienmarkt, Altstadt, Stralsund, Landkreis Vorpommern-R\u00fcgen, Mecklenburg-Vorpommern, 18439, Deutschland",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16954271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1608006889",
+    "boundingbox": [
+      "49.0489374",
+      "49.0490374",
+      "-1.4444776",
+      "-1.4443776"
+    ],
+    "lat": "49.0489874",
+    "lon": "-1.4444276",
+    "display_name": "Traffic, Rue Saint-Dominique, Le Vaudon, La Godefrairie, Coutances, Manche, Normandie, 50200, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "17568779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1704161161",
+    "boundingbox": [
+      "50.3971878",
+      "50.3972878",
+      "3.6414027",
+      "3.6415027"
+    ],
+    "lat": "50.3972378",
+    "lon": "3.6414527",
+    "display_name": "Traffic, Rue Jean Jaur\u00e8s, Quarouble, Valenciennes, Nord, Hauts-de-France, 59243, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "9082235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "941919766",
+    "boundingbox": [
+      "50.4531572",
+      "50.4532572",
+      "4.8732173",
+      "4.8733173"
+    ],
+    "lat": "50.4532072",
+    "lon": "4.8732673",
+    "display_name": "Traffic, Parc Astrid, Velaine, Jambes, Namur, Wallonie, 5100, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "6028560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "611360852",
+    "boundingbox": [
+      "51.8714606",
+      "51.8715606",
+      "0.3636066",
+      "0.3637066"
+    ],
+    "lat": "51.8715106",
+    "lon": "0.3636566",
+    "display_name": "Traffic, High Street, Great Dunmow CP, Uttlesford, Essex, East of England, England, CM6 1BD, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "4105682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "444549214",
+    "boundingbox": [
+      "45.6190435",
+      "45.6191435",
+      "9.9263568",
+      "9.9264568"
+    ],
+    "lat": "45.6190935",
+    "lon": "9.9264068",
+    "display_name": "Traffic, Via Carlo Cattaneo, Capriolo, BS, LOM, 25031, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "12099768",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1143439222",
+    "boundingbox": [
+      "51.464885",
+      "51.464985",
+      "-0.6497309",
+      "-0.6496309"
+    ],
+    "lat": "51.464935",
+    "lon": "-0.6496809",
+    "display_name": "Traffic, Legoland Windsor, Rose Cottages, Oakley Green, Windsor and Maidenhead, South East, England, SL4 4AY, UK",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "52837206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4022485633",
+    "boundingbox": [
+      "50.5584194",
+      "50.5585194",
+      "4.08116",
+      "4.08126"
+    ],
+    "lat": "50.5584694",
+    "lon": "4.08121",
+    "display_name": "Traffic, Chemin Mitoyen, Carri\u00e8res, Soignies, Hainaut, Wallonie, 7062, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25571497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2464924564",
+    "boundingbox": [
+      "-37.7889898",
+      "-37.7888898",
+      "175.2824456",
+      "175.2825456"
+    ],
+    "lat": "-37.7889398",
+    "lon": "175.2824956",
+    "display_name": "Traffic, 113, Alexandra Street, Claudelands, Hamilton, Hamilton City, Waikato, 3204, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2608445878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4458434195",
+    "boundingbox": [
+      "9.0531855",
+      "9.0532855",
+      "-79.4522749",
+      "-79.4521749"
+    ],
+    "lat": "9.0532355",
+    "lon": "-79.4522249",
+    "display_name": "Traffic, Avenida Domingo D\u00edaz, Llano Bonito, Ciudad de Panam\u00e1, Provincia de Panam\u00e1, 00000, Panam\u00e1",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

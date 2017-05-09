@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "152263343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402788162",
+    "boundingbox": [
+      "53.7188744",
+      "53.7197918",
+      "-1.6893302",
+      "-1.6874473"
+    ],
+    "lat": "53.7193236",
+    "lon": "-1.68848225481387",
+    "display_name": "Listing Mill Farm, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "92161954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122757405",
+    "boundingbox": [
+      "53.7136045",
+      "53.7232566",
+      "-1.6909238",
+      "-1.6844774"
+    ],
+    "lat": "53.7177045",
+    "lon": "-1.686589",
+    "display_name": "Listing Lane, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84462420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93236899",
+    "boundingbox": [
+      "53.7133583",
+      "53.71381",
+      "-1.6875226",
+      "-1.6868831"
+    ],
+    "lat": "53.7133583",
+    "lon": "-1.6875226",
+    "display_name": "Listing Court, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84462378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93236395",
+    "boundingbox": [
+      "53.7121582",
+      "53.71419",
+      "-1.6897596",
+      "-1.6856129"
+    ],
+    "lat": "53.7139011",
+    "lon": "-1.6872329",
+    "display_name": "Listing Drive, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84446847",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93236681",
+    "boundingbox": [
+      "53.7127467",
+      "53.7131392",
+      "-1.6868896",
+      "-1.6858857"
+    ],
+    "lat": "53.7127467",
+    "lon": "-1.6858857",
+    "display_name": "Listing Avenue, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61903924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12447650",
+    "boundingbox": [
+      "34.653581",
+      "34.653835",
+      "-80.7657259",
+      "-80.7640349"
+    ],
+    "lat": "34.653581",
+    "lon": "-80.7650749",
+    "display_name": "Listing Lane, Jones Crossroads, Lancaster County, South Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18424559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1764088695",
+    "boundingbox": [
+      "52.1329763",
+      "52.1330763",
+      "11.612298",
+      "11.612398"
+    ],
+    "lat": "52.1330263",
+    "lon": "11.612348",
+    "display_name": "Dipl. med. C. Listing, 43, Goethestra\u00dfe, Stadtfeld Ost, Magdeburg, Sachsen-Anhalt, 39108, Deutschland",
+    "class": "amenity",
+    "type": "doctors",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_doctors.p.20.png"
+  },
+  {
+    "place_id": "4519676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "496723178",
+    "boundingbox": [
+      "53.7220674",
+      "53.7221674",
+      "-1.6846615",
+      "-1.6845615"
+    ],
+    "lat": "53.7221174",
+    "lon": "-1.6846115",
+    "display_name": "Listing Lane California Lane, Listing Lane, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "4523440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "496723180",
+    "boundingbox": [
+      "53.719257",
+      "53.719357",
+      "-1.6857887",
+      "-1.6856887"
+    ],
+    "lat": "53.719307",
+    "lon": "-1.6857387",
+    "display_name": "Listing Lane Castle Hill Road, Listing Lane, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "4594780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "496723177",
+    "boundingbox": [
+      "53.7230378",
+      "53.7231378",
+      "-1.684533",
+      "-1.684433"
+    ],
+    "lat": "53.7230878",
+    "lon": "-1.684483",
+    "display_name": "Listing Lane Lower Lane, Listing Lane, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

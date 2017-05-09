@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "152919804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "406223259",
+    "boundingbox": [
+      "-22.2054071",
+      "-22.2049304",
+      "-47.8761577",
+      "-47.8757547"
+    ],
+    "lat": "-22.20514975",
+    "lon": "-47.8760062486603",
+    "display_name": "N\u00e1utica, Itirapina, Microrregi\u00e3o de Rio Claro, Mesorregi\u00e3o de Piracicaba, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "waterway",
+    "type": "boatyard",
+    "importance": 0.325
+  },
+  {
+    "place_id": "70280071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27245147",
+    "boundingbox": [
+      "-33.000116",
+      "-32.9991399",
+      "-71.4943551",
+      "-71.4929855"
+    ],
+    "lat": "-32.9996792",
+    "lon": "-71.4937422",
+    "display_name": "Nautica, Villa Santa Julia, Vi\u00f1a del Mar, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, 2562126, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89008827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "111926629",
+    "boundingbox": [
+      "-12.395259",
+      "-12.3947391",
+      "-76.7790012",
+      "-76.7785964"
+    ],
+    "lat": "-12.3951301",
+    "lon": "-76.7786282",
+    "display_name": "Nautica, Urbanizaci\u00f3n San Jos\u00e9 I Etapa, San Bartolo, Lima, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "6804252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "701676542",
+    "boundingbox": [
+      "39.3588597",
+      "39.3589597",
+      "-74.4352628",
+      "-74.4351628"
+    ],
+    "lat": "39.3589097",
+    "lon": "-74.4352128",
+    "display_name": "Nautica, South Michigan Avenue, Atlantic City, Atlantic County, New Jersey, 08401, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "14899682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1351573547",
+    "boundingbox": [
+      "51.6757283",
+      "51.6758283",
+      "-0.6078392",
+      "-0.6077392"
+    ],
+    "lat": "51.6757783",
+    "lon": "-0.6077892",
+    "display_name": "Nautica, Hill Avenue, Amersham-on-the-hill, Amersham CP, Chiltern, Buckinghamshire, South East, England, HP6 5FG, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "27789891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2609918340",
+    "boundingbox": [
+      "41.1399455",
+      "41.1400455",
+      "-80.1580758",
+      "-80.1579758"
+    ],
+    "lat": "41.1399955",
+    "lon": "-80.1580258",
+    "display_name": "Nautica, I 79, London, Mercer County, Pennsylvania, 16156, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "44815408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3197167021",
+    "boundingbox": [
+      "15.4963398",
+      "15.4964398",
+      "-88.0369643",
+      "-88.0368643"
+    ],
+    "lat": "15.4963898",
+    "lon": "-88.0369143",
+    "display_name": "Nautica, 12 Calle B SO, Villas del Sol, San Pedro Sula, Cort\u00e9s, 21104, Honduras",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "15375124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1389420440",
+    "boundingbox": [
+      "43.1153548",
+      "43.1154548",
+      "-70.7277936",
+      "-70.7276936"
+    ],
+    "lat": "43.1154048",
+    "lon": "-70.7277436",
+    "display_name": "Nautica, 360, US 1, Kittery, York County, Maine, 03904, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "12203665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1165752527",
+    "boundingbox": [
+      "37.3194828",
+      "37.3195828",
+      "-76.7363251",
+      "-76.7362251"
+    ],
+    "lat": "37.3195328",
+    "lon": "-76.7362751",
+    "display_name": "Nautica, Richmond Road, The Hamlet, Ewell Hall, James City County, Virginia, 23188, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "52348977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3928029639",
+    "boundingbox": [
+      "43.2466371",
+      "43.2467371",
+      "-83.7799058",
+      "-83.7798058"
+    ],
+    "lat": "43.2466871",
+    "lon": "-83.7798558",
+    "display_name": "Nautica, Marketplace Drive, Birch Run Premium Outlets, Village of Birch Run, Birch Run Township, Saginaw County, Michigan, 48415, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

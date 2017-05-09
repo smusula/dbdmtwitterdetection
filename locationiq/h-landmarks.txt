@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "401954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153749398",
+    "boundingbox": [
+      "32.3584718",
+      "32.3984718",
+      "-86.21441",
+      "-86.17441"
+    ],
+    "lat": "32.3784718",
+    "lon": "-86.19441",
+    "display_name": "Landmarks, Montgomery County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50349426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3752111749",
+    "boundingbox": [
+      "51.8697095",
+      "51.8698095",
+      "4.4272278",
+      "4.4273278"
+    ],
+    "lat": "51.8697595",
+    "lon": "4.4272778",
+    "display_name": "Landmarks, Reeweg, Distripark Eemhaven, Rotterdam-Albrandswaard, Albrandswaard, MRDH, Zuid-Holland, Nederland, 3088GD, Nederland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

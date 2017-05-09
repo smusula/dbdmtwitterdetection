@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "118574254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230871719",
+    "boundingbox": [
+      "51.0966739",
+      "51.0989348",
+      "9.4222801",
+      "9.4258999"
+    ],
+    "lat": "51.097907",
+    "lon": "9.42325398035513",
+    "display_name": "Ki\u00df, Felsberg, Schwalm-Eder-Kreis, Regierungsbezirk Kassel, Hessen, 34587, Deutschland, Europe",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55270142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4288759615",
+    "boundingbox": [
+      "53.4978796",
+      "53.4979796",
+      "10.0099674",
+      "10.0100674"
+    ],
+    "lat": "53.4979296",
+    "lon": "10.0100174",
+    "display_name": "Kiss, Berta-Kr\u00f6ger-Platz, Wilhelmsburg, Hamburg-Mitte, Hamburg, 21109, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "20230001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2009791544",
+    "boundingbox": [
+      "50.9352438",
+      "50.9353438",
+      "6.9436209",
+      "6.9437209"
+    ],
+    "lat": "50.9352938",
+    "lon": "6.9436709",
+    "display_name": "KISS, 6, Marsilstein, Mauritiusviertel, Altstadt-S\u00fcd, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50676, Deutschland",
+    "class": "amenity",
+    "type": "social_facility",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23235002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2300814928",
+    "boundingbox": [
+      "45.8019159",
+      "45.8020159",
+      "15.9974438",
+      "15.9975438"
+    ],
+    "lat": "45.8019659",
+    "lon": "15.9974938",
+    "display_name": "Kiss, Ulica \u0160i\u0161ka Men\u010deti\u0107a, Zavrtnica, Trnje, Zagreb, Grad Zagreb, 10113, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "52275786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3949256357",
+    "boundingbox": [
+      "53.8602513",
+      "53.8603513",
+      "27.4780688",
+      "27.4781688"
+    ],
+    "lat": "53.8603013",
+    "lon": "27.4781188",
+    "display_name": "Kiss, 104, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0414\u0437\u0435\u0440\u0436\u0438\u043d\u0441\u043a\u043e\u0433\u043e, \u042e\u0433\u043e-\u0417\u0430\u043f\u0430\u0434, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a, 220000, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2654577793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4745248599",
+    "boundingbox": [
+      "43.2589877",
+      "43.2590877",
+      "-2.9325722",
+      "-2.9324722"
+    ],
+    "lat": "43.2590377",
+    "lon": "-2.9325222",
+    "display_name": "Kiss, Elcano kalea, San Frantzizko, Zabalburu, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "9506711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "954995954",
+    "boundingbox": [
+      "42.3423546",
+      "42.3424546",
+      "-3.7028054",
+      "-3.7027054"
+    ],
+    "lat": "42.3424046",
+    "lon": "-3.7027554",
+    "display_name": "Kiss, La Flora, San Juli\u00e1n, Vadillos, Burgos, Alfoz de Burgos, Burgos, Castilla y Le\u00f3n, 09003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "13922594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1254524641",
+    "boundingbox": [
+      "45.5644065",
+      "45.5645065",
+      "5.9229014",
+      "5.9230014"
+    ],
+    "lat": "45.5644565",
+    "lon": "5.9229514",
+    "display_name": "Kiss, Rue Croix-d'Or, Centre-Ville, Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, 73000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "12967828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1210562000",
+    "boundingbox": [
+      "50.464721",
+      "50.464821",
+      "4.8648329",
+      "4.8649329"
+    ],
+    "lat": "50.464771",
+    "lon": "4.8648829",
+    "display_name": "KISS, Rue de l'Ange, Bomel, Salzinnes, Namur, Wallonie, 5000, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "156947724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "428906254",
+    "boundingbox": [
+      "12.9537587",
+      "12.9538713",
+      "100.8899459",
+      "100.8900734"
+    ],
+    "lat": "12.95381505",
+    "lon": "100.890009649786",
+    "display_name": "The Kiss, \u0e19\u0e32\u0e40\u0e01\u0e25\u0e37\u0e2d 29/1, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20150, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

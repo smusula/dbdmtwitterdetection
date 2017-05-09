@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "56807713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4426447431",
+    "boundingbox": [
+      "51.9076796",
+      "51.9077796",
+      "4.477437",
+      "4.477537"
+    ],
+    "lat": "51.9077296",
+    "lon": "4.477487",
+    "display_name": "dock artgallery, Veerhaven, Nieuwe Werk, Rotterdam, MRDH, Zuid-Holland, Nederland, 3016CJ, Nederland",
+    "class": "tourism",
+    "type": "gallery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7660680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "832508999",
+    "boundingbox": [
+      "-38.4595885",
+      "-38.4594885",
+      "144.1069139",
+      "144.1070139"
+    ],
+    "lat": "-38.4595385",
+    "lon": "144.1069639",
+    "display_name": "Eagles Nest Fine ArtGallery, Albert Avenue, Aireys Inlet, Surf Coast Shire, Barwon South West, Victoria, 3231, Australia",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "51110361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3820338233",
+    "boundingbox": [
+      "41.5510024",
+      "41.5511024",
+      "2.107597",
+      "2.107697"
+    ],
+    "lat": "41.5510524",
+    "lon": "2.107647",
+    "display_name": "Impaktes Visuals, 15, Carrer de Sant Francesc, Torre-Romeu, Ca n'Ustrell, Sabadell, Vall\u00e8s Occidental, BCN, CAT, 08202, Espa\u00f1a",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.001
+  }
+]

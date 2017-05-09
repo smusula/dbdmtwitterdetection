@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "160464350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1839154",
+    "boundingbox": [
+      "42.2231102",
+      "42.2919073",
+      "-72.7368285",
+      "-72.6132473"
+    ],
+    "lat": "42.266757",
+    "lon": "-72.6689799",
+    "display_name": "Easthampton, Hampshire County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51497381985549,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11282269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1052015715",
+    "boundingbox": [
+      "42.0600894",
+      "42.1000894",
+      "-88.4414433",
+      "-88.4014433"
+    ],
+    "lat": "42.0800894",
+    "lon": "-88.4214433",
+    "display_name": "Easthampton, Kane County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "119317405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233582128",
+    "boundingbox": [
+      "37.7256602",
+      "37.7290701",
+      "-121.9339405",
+      "-121.9296526"
+    ],
+    "lat": "37.7275779",
+    "lon": "-121.932046813416",
+    "display_name": "Easthampton, San Ramon, Contra Costa County, California, 94568, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

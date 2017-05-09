@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "91567120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120498582",
+    "boundingbox": [
+      "52.7480219",
+      "52.7532924",
+      "0.4005492",
+      "0.4103676"
+    ],
+    "lat": "52.7506765",
+    "lon": "0.405816837959603",
+    "display_name": "The Walks, Broad Walk (Extension Walk), North Lynn, King's Lynn and West Norfolk, Norfolk, East of England, England, UK",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.20803387666472
+  },
+  {
+    "place_id": "57129778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4089271",
+    "boundingbox": [
+      "51.593446",
+      "51.5937868",
+      "-0.1711011",
+      "-0.1706147"
+    ],
+    "lat": "51.5934982",
+    "lon": "-0.1706892",
+    "display_name": "The Walks, East Finchley, London Borough of Barnet, London, Greater London, England, N2 8EQ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85868082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99056127",
+    "boundingbox": [
+      "51.118006",
+      "51.118215",
+      "0.184765",
+      "0.1854502"
+    ],
+    "lat": "51.1181206",
+    "lon": "0.1851096",
+    "display_name": "The Walks, Speldhurst CP, Tunbridge Wells, Kent, South East, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71489365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29285727",
+    "boundingbox": [
+      "52.5301866",
+      "52.5303833",
+      "1.480757",
+      "1.4807734"
+    ],
+    "lat": "52.5301866",
+    "lon": "1.4807734",
+    "display_name": "The Walks, Loddon, South Norfolk District, Norfolk, East of England, England, NR14 6ET, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74471865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38730101",
+    "boundingbox": [
+      "53.1023771",
+      "53.1031683",
+      "-2.0342673",
+      "-2.0328853"
+    ],
+    "lat": "53.1027399",
+    "lon": "-2.0336333",
+    "display_name": "The Walks, Leek, Staffordshire Moorlands, Staffordshire, West Midlands, England, ST13 8DH, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80671858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68237067",
+    "boundingbox": [
+      "52.4860736",
+      "52.4908577",
+      "1.6076306",
+      "1.6110512"
+    ],
+    "lat": "52.4884239",
+    "lon": "1.609738",
+    "display_name": "The Walks, Aldeby, South Norfolk District, Norfolk, East of England, England, NR34 0BJ, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78199736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52743429",
+    "boundingbox": [
+      "52.9865588",
+      "52.9869796",
+      "-3.0412454",
+      "-3.0411067"
+    ],
+    "lat": "52.9865588",
+    "lon": "-3.0411067",
+    "display_name": "The Walks, Ruabon, Wrexham, Wales, LL14 6ND, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85693613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98527052",
+    "boundingbox": [
+      "52.6128137",
+      "52.6134492",
+      "-0.532574",
+      "-0.5307938"
+    ],
+    "lat": "52.6130813",
+    "lon": "-0.5318964",
+    "display_name": "The Walks, Collyweston, East Northamptonshire, Northamptonshire, East Midlands, England, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "91160480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119046750",
+    "boundingbox": [
+      "53.1031683",
+      "53.103861",
+      "-2.0328853",
+      "-2.031308"
+    ],
+    "lat": "53.1033437",
+    "lon": "-2.0323195",
+    "display_name": "The Walks, Leek, Staffordshire Moorlands, Staffordshire, West Midlands, England, ST13 8DH, UK",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "95642452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136240639",
+    "boundingbox": [
+      "53.1996311",
+      "53.1997298",
+      "-8.5710953",
+      "-8.5656225"
+    ],
+    "lat": "53.1997089",
+    "lon": "-8.5685609",
+    "display_name": "The Walks, Loughrea, Loughrea Urban ED, Loughrea, County Galway, Connacht, H62KD91, Ireland",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "95981933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138141251",
+    "boundingbox": [
+      "40.7498531",
+      "40.751161",
+      "-73.9944445",
+      "-73.9925923"
+    ],
+    "lat": "40.7505247",
+    "lon": "-73.9935501780078",
+    "display_name": "MSG, 46, West 31 Street, Koreatown, Manhattan, New York County, NYC, New York, NY 10001, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.5696462138632,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "160425158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1425484",
+    "boundingbox": [
+      "41.221054",
+      "42.009472",
+      "-102.6792139",
+      "-101.9853359"
+    ],
+    "lat": "41.6440533",
+    "lon": "-102.3392805",
+    "display_name": "Garden County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46415097256809,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2608841199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2034621",
+    "boundingbox": [
+      "-33.9456143",
+      "-33.9256869",
+      "18.395095",
+      "18.4262922"
+    ],
+    "lat": "-33.9327777",
+    "lon": "18.4097222",
+    "display_name": "Gardens, Cape Town, City of Cape Town, Western Cape, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.41791837080539,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "428250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154177750",
+    "boundingbox": [
+      "41.5842185",
+      "41.6242185",
+      "-83.8163283",
+      "-83.7763283"
+    ],
+    "lat": "41.6042185",
+    "lon": "-83.7963283",
+    "display_name": "Garden, Lucas County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "436859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154143635",
+    "boundingbox": [
+      "39.1878535",
+      "39.2278535",
+      "-81.9962506",
+      "-81.9562506"
+    ],
+    "lat": "39.2078535",
+    "lon": "-81.9762506",
+    "display_name": "Garden, Athens County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "449117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154285119",
+    "boundingbox": [
+      "37.0945554",
+      "37.1345554",
+      "-82.0173494",
+      "-81.9773494"
+    ],
+    "lat": "37.1145554",
+    "lon": "-81.9973494",
+    "display_name": "Garden, Russell County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153765679",
+    "boundingbox": [
+      "33.1367901",
+      "33.1767901",
+      "-88.2033626",
+      "-88.1633626"
+    ],
+    "lat": "33.1567901",
+    "lon": "-88.1833626",
+    "display_name": "Garden, Pickens County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55219981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4290202346",
+    "boundingbox": [
+      "-41.1869596",
+      "-41.1469596",
+      "148.2629525",
+      "148.3029525"
+    ],
+    "lat": "-41.1669596",
+    "lon": "148.2829525",
+    "display_name": "The Gardens, Break O'Day, Tasmania, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3803642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "412086474",
+    "boundingbox": [
+      "53.6679774",
+      "53.7079774",
+      "12.0292478",
+      "12.0692478"
+    ],
+    "lat": "53.6879774",
+    "lon": "12.0492478",
+    "display_name": "Garden, G\u00fcstrow-Land, Landkreis Rostock, Mecklenburg-Vorpommern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149245143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "384912315",
+    "boundingbox": [
+      "13.204468",
+      "13.2137905",
+      "-59.6409871",
+      "-59.6362277"
+    ],
+    "lat": "13.20811",
+    "lon": "-59.6386346",
+    "display_name": "The Garden, Saint James, Barbados",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "2650878534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4654704181",
+    "boundingbox": [
+      "-34.6196089",
+      "-34.6195089",
+      "-58.5051219",
+      "-58.5050219"
+    ],
+    "lat": "-34.6195589",
+    "lon": "-58.5050719",
+    "display_name": "Puravida, Avenida \u00c1lvarez Jonte, Monte Castro, CABA, Comuna 10, CABA, C1407GPB, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651749974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4679137688",
+    "boundingbox": [
+      "-34.6308135",
+      "-34.6307135",
+      "-58.5032402",
+      "-58.5031402"
+    ],
+    "lat": "-34.6307635",
+    "lon": "-58.5031902",
+    "display_name": "Puravida, Avenida Lope de Vega, Liniers, CABA, Comuna 10, CABA, C1407FBF, Argentina",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150273461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391421776",
+    "boundingbox": [
+      "10.4464126",
+      "10.4465131",
+      "-85.7706792",
+      "-85.7705767"
+    ],
+    "lat": "10.4464628",
+    "lon": "-85.7706279508943",
+    "display_name": "Puravida, 911, Surf Side, Tempate, Cant\u00f3n Santa Cruz, Provincia Guanacaste, 50304, Costa Rica",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

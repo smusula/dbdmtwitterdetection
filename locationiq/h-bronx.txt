@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160567587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2552450",
+    "boundingbox": [
+      "40.7853322",
+      "40.9161785",
+      "-73.9336519",
+      "-73.7480599"
+    ],
+    "lat": "40.85703325",
+    "lon": "-73.8366960598775",
+    "display_name": "Bronx County, NYC, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71462618737429,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "347421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150981259",
+    "boundingbox": [
+      "48.3318699",
+      "48.3718699",
+      "-116.5674159",
+      "-116.5274159"
+    ],
+    "lat": "48.3518699",
+    "lon": "-116.5474159",
+    "display_name": "Bronx, Bonner County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "319998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150938394",
+    "boundingbox": [
+      "42.972718",
+      "43.012718",
+      "-110.1357197",
+      "-110.0957197"
+    ],
+    "lat": "42.992718",
+    "lon": "-110.1157197",
+    "display_name": "Bronx, Sublette County, Wyoming, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "499317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158903369",
+    "boundingbox": [
+      "40.8301002",
+      "40.8701002",
+      "-73.8862463",
+      "-73.8462463"
+    ],
+    "lat": "40.8501002",
+    "lon": "-73.8662463",
+    "display_name": "Bronx, New York, NYC, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "66545441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19780712",
+    "boundingbox": [
+      "14.7164833",
+      "14.7164974",
+      "121.0612161",
+      "121.0651297"
+    ],
+    "lat": "14.7164833",
+    "lon": "121.0632698",
+    "display_name": "Bronx, Fairville Homes, North Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72591652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32116743",
+    "boundingbox": [
+      "18.3950154",
+      "18.4009632",
+      "-70.1094058",
+      "-70.1041893"
+    ],
+    "lat": "18.3989491",
+    "lon": "-70.1079072",
+    "display_name": "Bronx, Jeringa, San Crist\u00f3bal, Rep\u00fablica Dominicana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "91803555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "121260270",
+    "boundingbox": [
+      "19.4814639",
+      "19.4820994",
+      "-70.786445",
+      "-70.7855109"
+    ],
+    "lat": "19.48185",
+    "lon": "-70.7860499",
+    "display_name": "Bronx, Questarena, Batey Uno, Municipio La Canela, Santiago, 51103, Rep\u00fablica Dominicana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "17128341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1662996377",
+    "boundingbox": [
+      "55.6936563",
+      "55.6937563",
+      "12.5500005",
+      "12.5501005"
+    ],
+    "lat": "55.6937063",
+    "lon": "12.5500505",
+    "display_name": "The Bronx, N\u00f8rrebrogade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2652698845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4700029921",
+    "boundingbox": [
+      "-34.6116509",
+      "-34.6115509",
+      "-58.4388223",
+      "-58.4387223"
+    ],
+    "lat": "-34.6116009",
+    "lon": "-58.4387723",
+    "display_name": "Bronx, Avenida Acoyte, Caballito, CABA, Comuna 6, CABA, 1405, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "39466716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2927815267",
+    "boundingbox": [
+      "43.520256",
+      "43.520356",
+      "16.4666085",
+      "16.4667085"
+    ],
+    "lat": "43.520306",
+    "lon": "16.4666585",
+    "display_name": "Bronx, 114. brigade, Smrde\u010dac, Ravne njive, Split, Splitsko-Dalmatinska \u017eupanija, 21110, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

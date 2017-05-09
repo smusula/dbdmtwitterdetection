@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "2609212795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "450547753",
+    "boundingbox": [
+      "41.6459717",
+      "41.6468536",
+      "13.2925877",
+      "13.292931"
+    ],
+    "lat": "41.6468536",
+    "lon": "13.2925877",
+    "display_name": "helicopter, Via Le Noci, Corso Lazio, Frosinone, FR, LAZ, 03100, Italia",
+    "class": "aeroway",
+    "type": "runway",
+    "importance": 0.111
+  },
+  {
+    "place_id": "26212288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2501764814",
+    "boundingbox": [
+      "59.3328753",
+      "59.3329753",
+      "18.1192135",
+      "18.1193135"
+    ],
+    "lat": "59.3329253",
+    "lon": "18.1192635",
+    "display_name": "Helicopter, Djurg\u00e5rdsbrunnsv\u00e4gen, Hjorthagen, \u00d6stermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 115 27, Sverige",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "42630300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3094544890",
+    "boundingbox": [
+      "49.8896437",
+      "49.8897437",
+      "-97.2375859",
+      "-97.2374859"
+    ],
+    "lat": "49.8896937",
+    "lon": "-97.2375359",
+    "display_name": "Helicopter, Air Force Way, Deer Lodge, St. James\u2013Brooklands\u2013Weston, Winnipeg, Manitoba, R3J, Canada",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "135835001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313830711",
+    "boundingbox": [
+      "12.6875143",
+      "12.6881879",
+      "-7.9325598",
+      "-7.9318238"
+    ],
+    "lat": "12.68782095",
+    "lon": "-7.9322018214418",
+    "display_name": "Helicopter, Rue 451, Bamako, District de Bamako, Mali",
+    "class": "leisure",
+    "type": "common",
+    "importance": 0.101
+  },
+  {
+    "place_id": "93210923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126454004",
+    "boundingbox": [
+      "31.6014993",
+      "31.6018515",
+      "-8.019768",
+      "-8.019466"
+    ],
+    "lat": "31.6016754",
+    "lon": "-8.019617",
+    "display_name": "Helicopter, Avenue Guemassa, Rue Bata, arrondissement de Menara \u0627\u0644\u0645\u0646\u0627\u0631\u0629, Marrakech \u2d4e\u2d55\u2d55\u2d30\u2d3d\u2d6f\u2d5b \u0645\u0631\u0627\u0643\u0634, Pachalik de Marrakech, Pr\u00e9fecture de Marrakech \u0639\u0645\u0627\u0644\u0629 \u0645\u0631\u0627\u0643\u0634, Marrakech-Safi \u2d4e\u2d55\u2d55\u2d30\u2d3d\u2d5b-\u2d30\u2d59\u2d3c\u2d49 \u0645\u0631\u0627\u0643\u0634-\u0623\u0633\u0641\u064a, 40054, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "117215658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226067135",
+    "boundingbox": [
+      "52.1215895",
+      "52.1216409",
+      "8.6682527",
+      "8.6683497"
+    ],
+    "lat": "52.1216152",
+    "lon": "8.6683012",
+    "display_name": "Helicopter, Goebenstra\u00dfe, MARTa-Viertel, Herford-Stadt, Herford, Kreis Herford, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32052, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "126432125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264541836",
+    "boundingbox": [
+      "36.6382503",
+      "36.6384655",
+      "-93.275754",
+      "-93.2754009"
+    ],
+    "lat": "36.6383482",
+    "lon": "-93.2755820690033",
+    "display_name": "Helicopter, West 76 Country Boulevard, Branson, Taney County, Missouri, 65616, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "37146937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2859349488",
+    "boundingbox": [
+      "15.1622356",
+      "15.1623356",
+      "120.577052",
+      "120.577152"
+    ],
+    "lat": "15.1622856",
+    "lon": "120.577102",
+    "display_name": "Helicopter, Sarmiento Street, Manuela Compound, Dau, Angeles, Pampanga, Central Luzon, 2010, Philippines",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "23251930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2298501182",
+    "boundingbox": [
+      "37.1629856",
+      "37.1630856",
+      "-3.6015386",
+      "-3.6014386"
+    ],
+    "lat": "37.1630356",
+    "lon": "-3.6014886",
+    "display_name": "Helic\u00f3ptero, Glorieta de la Aviaci\u00f3n Espa\u00f1ola, F\u00edgares, Granada, Andaluc\u00eda, 18006, Espa\u00f1a",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "2377580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "343644512",
+    "boundingbox": [
+      "45.0196179",
+      "45.0197179",
+      "38.9535379",
+      "38.9536379"
+    ],
+    "lat": "45.0196679",
+    "lon": "38.9535879",
+    "display_name": "\u0412\u0435\u0440\u0442\u043e\u043b\u0435\u0442, \u041c\u0443\u0437\u0435\u0439 \u0432\u043e\u0435\u043d\u043d\u043e\u0439 \u0442\u0435\u0445\u043d\u0438\u043a\u0438, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 350000, \u0420\u0424",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  }
+]

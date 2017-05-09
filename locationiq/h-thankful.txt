@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "435631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154359310",
+    "boundingbox": [
+      "36.026242",
+      "36.066242",
+      "-81.3114776",
+      "-81.2714776"
+    ],
+    "lat": "36.046242",
+    "lon": "-81.2914776",
+    "display_name": "Thankful, Wilkes County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "64555718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16633898",
+    "boundingbox": [
+      "35.110754",
+      "35.111371",
+      "-83.0905699",
+      "-83.0898949"
+    ],
+    "lat": "35.110905",
+    "lon": "-83.0902699",
+    "display_name": "Thankful, Cashiers, Jackson County, North Carolina, 28717, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "146494540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372152663",
+    "boundingbox": [
+      "19.887068",
+      "19.8889261",
+      "75.3655328",
+      "75.3675003"
+    ],
+    "lat": "19.88799605",
+    "lon": "75.3665132486377",
+    "display_name": "workhard company, Cidco, Aurangabad, Maharashtra, 431002, India",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "49663430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3679586404",
+    "boundingbox": [
+      "41.3043133",
+      "41.3044133",
+      "-72.9305966",
+      "-72.9304966"
+    ],
+    "lat": "41.3043633",
+    "lon": "-72.9305466",
+    "display_name": "WorkHard DressRight, 127, College Street, Downtown, New Haven, New Haven County, Connecticut, 06511, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

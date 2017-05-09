@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "116568517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "223482209",
+    "boundingbox": [
+      "14.7642266",
+      "14.7649179",
+      "121.0031003",
+      "121.0035597"
+    ],
+    "lat": "14.7642266",
+    "lon": "121.0035597",
+    "display_name": "History, Phase III, Meycauayan, Bulacan, Central Luzon, 3020, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "14981818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1341417426",
+    "boundingbox": [
+      "50.0720574",
+      "50.0721574",
+      "14.4699457",
+      "14.4700457"
+    ],
+    "lat": "50.0721074",
+    "lon": "14.4699957",
+    "display_name": "History, 28. pluku, Vr\u0161ovice, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 10042, \u010cesko",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "21682725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2135138139",
+    "boundingbox": [
+      "45.8173103",
+      "45.8174103",
+      "15.9763164",
+      "15.9764164"
+    ],
+    "lat": "45.8173603",
+    "lon": "15.9763664",
+    "display_name": "History, 68, Ulica Ivana Tkal\u010di\u0107a, Gornji Grad, Gornji Grad - Medve\u0161\u010dak, Zagreb, Grad Zagreb, 10103, Hrvatska",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "133015896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301067870",
+    "boundingbox": [
+      "50.1065955",
+      "50.1068807",
+      "8.631401",
+      "8.6316509"
+    ],
+    "lat": "50.10673815",
+    "lon": "8.63152594747849",
+    "display_name": "History, 12, Altenhainer Stra\u00dfe, Europaviertel, Gallus, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60326, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7601023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "815622207",
+    "boundingbox": [
+      "49.2320999",
+      "49.2321999",
+      "6.9983144",
+      "6.9984144"
+    ],
+    "lat": "49.2321499",
+    "lon": "6.9983644",
+    "display_name": "History, 10, Obertorstra\u00dfe, Sankt Johann, Bezirk Mitte, Saarbr\u00fccken, Regionalverband Saarbr\u00fccken, Saarland, 66111, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "82231155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81523009",
+    "boundingbox": [
+      "54.7743952",
+      "54.77454",
+      "-1.5748339",
+      "-1.5747084"
+    ],
+    "lat": "54.774445",
+    "lon": "-1.57477406966292",
+    "display_name": "History, North Bailey, Aykley Heads, Durham, County Durham, North East England, England, DH1 3EP, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "142083262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "345301745",
+    "boundingbox": [
+      "41.9443124",
+      "41.9445689",
+      "25.5402147",
+      "25.5405889"
+    ],
+    "lat": "41.9444439",
+    "lon": "25.5403755067381",
+    "display_name": "History, 703.238, \u041f\u043e\u043b\u043a\u043e\u0432\u043d\u0438\u043a \u0412\u0435\u0441\u0435\u043b\u0438\u043d \u0412\u044a\u043b\u043a\u043e\u0432, \u0416.\u041a. \u0411\u0430\u0434\u0435\u043c\u0430, \u0425\u0430\u0441\u043a\u043e\u0432\u043e, \u041e\u0431\u043b\u0430\u0441\u0442 \u0425\u0430\u0441\u043a\u043e\u0432\u043e, 3, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "51264984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3812290035",
+    "boundingbox": [
+      "41.9488969",
+      "41.9489969",
+      "24.9572148",
+      "24.9573148"
+    ],
+    "lat": "41.9489469",
+    "lon": "24.9572648",
+    "display_name": "History, 58, \u0410\u0441\u0435\u043d\u043e\u0432\u0433\u0440\u0430\u0434, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55832509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4328152294",
+    "boundingbox": [
+      "59.449087",
+      "59.449187",
+      "-135.3187256",
+      "-135.3186256"
+    ],
+    "lat": "59.449137",
+    "lon": "-135.3186756",
+    "display_name": "History, Congress Way, Skagway, Alaska, 99840, United States of America",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "7801501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "847093133",
+    "boundingbox": [
+      "49.4683469",
+      "49.4684469",
+      "7.1699638",
+      "7.1700638"
+    ],
+    "lat": "49.4683969",
+    "lon": "7.1700138",
+    "display_name": "History, 2, Luisenstra\u00dfe, Sankt Wendel, Landkreis St. Wendel, Saarland, 66606, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

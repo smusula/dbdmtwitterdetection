@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "350927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151345303",
+    "boundingbox": [
+      "33.8584148",
+      "33.8984148",
+      "-100.2434429",
+      "-100.2034429"
+    ],
+    "lat": "33.8784148",
+    "lon": "-100.2234429",
+    "display_name": "Chalk, Cottle County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "676298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249491525",
+    "boundingbox": [
+      "51.4121057",
+      "51.4521057",
+      "0.3793639",
+      "0.4193639"
+    ],
+    "lat": "51.4321057",
+    "lon": "0.3993639",
+    "display_name": "Chalk, Kent, South East, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.32123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98890753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151338118",
+    "boundingbox": [
+      "50.6481672",
+      "50.6502869",
+      "-1.3537271",
+      "-1.3519676"
+    ],
+    "lat": "50.64928355",
+    "lon": "-1.35256670821362",
+    "display_name": "Chalk, Shorwell, Isle of Wight, South East, England, UK",
+    "class": "landuse",
+    "type": "quarry",
+    "importance": 0.3
+  },
+  {
+    "place_id": "82530726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81574629",
+    "boundingbox": [
+      "50.9280868",
+      "50.9284655",
+      "-2.190575",
+      "-2.1904999"
+    ],
+    "lat": "50.9282694",
+    "lon": "-2.1905643",
+    "display_name": "The Chalk, Iwerne Minster Civil Parish, North Dorset, Dorset, South West England, England, DT11 8NA, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65362154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17928776",
+    "boundingbox": [
+      "46.8604401",
+      "46.8604699",
+      "-89.3136656",
+      "-89.3126059"
+    ],
+    "lat": "46.8604506",
+    "lon": "-89.3131545",
+    "display_name": "Chalk, Ontonagon, Ontonagon County, Michigan, 49953, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2653122740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477815890",
+    "boundingbox": [
+      "51.6390496",
+      "51.6391317",
+      "-0.9900544",
+      "-0.9899308"
+    ],
+    "lat": "51.6390906",
+    "lon": "-0.989992617526127",
+    "display_name": "Chalk, Hill Road, Watlington, South Oxfordshire, Oxon, South East, England, UK",
+    "class": "natural",
+    "type": "bare_rock",
+    "importance": 0.101
+  }
+]

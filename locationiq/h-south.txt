@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160322807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307756",
+    "boundingbox": [
+      "32.87788",
+      "38.623477",
+      "124.354847",
+      "132.1483256"
+    ],
+    "lat": "35.3985008",
+    "lon": "127.937111",
+    "display_name": "\ub300\ud55c\ubbfc\uad6d",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7508769242016,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160541492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2316596",
+    "boundingbox": [
+      "-38.2743037",
+      "-25.9963914",
+      "128.9999711",
+      "141.0029525"
+    ],
+    "lat": "-30.5343664",
+    "lon": "135.6301212",
+    "display_name": "South Australia, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72407393035718,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160308167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307584",
+    "boundingbox": [
+      "16.29",
+      "32.2305891",
+      "34.4970153",
+      "55.6666985"
+    ],
+    "lat": "25.6242618",
+    "lon": "42.3528328",
+    "display_name": "\u0627\u0644\u0633\u0639\u0648\u062f\u064a\u0629",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.69908657040147,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160512939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2135966",
+    "boundingbox": [
+      "47.7512144",
+      "47.8543955",
+      "12.9856256",
+      "13.1272799"
+    ],
+    "lat": "47.7981346",
+    "lon": "13.0464806",
+    "display_name": "Salzburg, 5020, \u00d6sterreich",
+    "class": "place",
+    "type": "city",
+    "importance": 0.66155292860282,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160258309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "86538",
+    "boundingbox": [
+      "47.7512144",
+      "47.8543955",
+      "12.9856256",
+      "13.1272799"
+    ],
+    "lat": "47.80284255",
+    "lon": "13.057940657453",
+    "display_name": "Salzburg, 5020, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.66155292860282,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "164404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "31219396",
+    "boundingbox": [
+      "29.4968869",
+      "29.8168869",
+      "90.9714249",
+      "91.2914249"
+    ],
+    "lat": "29.6568869",
+    "lon": "91.1314249",
+    "display_name": "\u0f63\u0fb7\u0f0b\u0f66\u0f0d (\u62c9\u8428\u5e02), \u0f41\u0fb2\u0f72\u0f53\u0f0b\u0f40\u0f7c\u0f53\u0f0b\u0f46\u0f74\u0f66\u0f0b / \u57ce\u5173\u533a / Chengguan, \u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0b / \u62c9\u8428\u5e02 / Lhasa, \u897f\u85cf\u81ea\u6cbb\u533a (\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0b), \u4e2d\u56fd",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57607161702434,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160577548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2745046",
+    "boundingbox": [
+      "29.2406502",
+      "31.0575304",
+      "89.7590258",
+      "92.6245268"
+    ],
+    "lat": "30.15062315",
+    "lon": "91.3884824834502",
+    "display_name": "\u0f63\u0fb7\u0f0b\u0f66\u0f0b\u0f42\u0fb2\u0f7c\u0f44\u0f0b\u0f41\u0fb1\u0f7a\u0f62\u0f0b / \u62c9\u8428\u5e02 / Lhasa, \u897f\u85cf\u81ea\u6cbb\u533a (\u0f56\u0f7c\u0f51\u0f0b\u0f62\u0f44\u0f0b\u0f66\u0f90\u0fb1\u0f7c\u0f44\u0f0b\u0f63\u0f97\u0f7c\u0f44\u0f66\u0f0b), \u4e2d\u56fd",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57607161702434,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2653865483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7062712",
+    "boundingbox": [
+      "51.389297",
+      "53.2344129",
+      "-10.6618692",
+      "-5.9975808"
+    ],
+    "lat": "52.34106825",
+    "lon": "-8.14501517662338",
+    "display_name": "South, Mitchelstown Bypass, Toor Beg, Burncourt, Clonmel, County Tipperary, Munster, Ireland",
+    "class": "boundary",
+    "type": "political",
+    "importance": 0.56494801889196
+  },
+  {
+    "place_id": "160302887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "280441",
+    "boundingbox": [
+      "49.2482316",
+      "49.2971821",
+      "-0.8867826",
+      "-0.8448188"
+    ],
+    "lat": "49.2702199",
+    "lon": "-0.858564",
+    "display_name": "Saon, Bayeux, Calvados, Normandie, 14330, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56494380647134,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160537411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2388666",
+    "boundingbox": [
+      "-0.5534118",
+      "5.7639518",
+      "123.1123245",
+      "127.805486"
+    ],
+    "lat": "0.6555692",
+    "lon": "124.090151",
+    "display_name": "Sulawesi Utara, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

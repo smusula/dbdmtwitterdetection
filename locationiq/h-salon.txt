@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160388237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1207459",
+    "boundingbox": [
+      "47.5345486",
+      "47.8366106",
+      "5.4405707",
+      "5.6938117"
+    ],
+    "lat": "47.6435866",
+    "lon": "5.515971",
+    "display_name": "Le Salon, Vesoul, Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "81842453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78610327",
+    "boundingbox": [
+      "47.5567818",
+      "47.5571814",
+      "5.6740187",
+      "5.6752366"
+    ],
+    "lat": "47.5571098",
+    "lon": "5.6746473",
+    "display_name": "Le Salon, Dampierre-sur-Salon, Vesoul, Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, 70180, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "83432561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87521361",
+    "boundingbox": [
+      "47.6113394",
+      "47.6122833",
+      "5.5240601",
+      "5.5242869"
+    ],
+    "lat": "47.6113394",
+    "lon": "5.5242869",
+    "display_name": "Le Salon, Champlitte, Vesoul, Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, 70600, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "82112929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78489693",
+    "boundingbox": [
+      "47.5737347",
+      "47.5741981",
+      "5.6433976",
+      "5.6446054"
+    ],
+    "lat": "47.5740448",
+    "lon": "5.6438119",
+    "display_name": "Le Salon, Den\u00e8vre, Vesoul, Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, 70180, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "81988295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "79617702",
+    "boundingbox": [
+      "47.5735376",
+      "47.574926",
+      "5.634566",
+      "5.6369984"
+    ],
+    "lat": "47.5747714",
+    "lon": "5.6354789",
+    "display_name": "Le Salon, Delain, Vesoul, Haute-Sa\u00f4ne, Bourgogne-Franche-Comt\u00e9, 70180, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "20002209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1996872420",
+    "boundingbox": [
+      "44.9753023",
+      "45.0153023",
+      "1.1047696",
+      "1.1447696"
+    ],
+    "lat": "44.9953023",
+    "lon": "1.1247696",
+    "display_name": "Salon, Sarlat-la-Can\u00e9da, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16567068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1569895115",
+    "boundingbox": [
+      "45.1692544",
+      "45.2092544",
+      "11.9291317",
+      "11.9691317"
+    ],
+    "lat": "45.1892544",
+    "lon": "11.9491317",
+    "display_name": "Salon, PD, VEN, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45758015",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3273985867",
+    "boundingbox": [
+      "22.2275641",
+      "22.2675641",
+      "-102.0229672",
+      "-101.9829672"
+    ],
+    "lat": "22.2475641",
+    "lon": "-102.0029672",
+    "display_name": "El Salon, Loreto, Zacatecas, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41451935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3024079223",
+    "boundingbox": [
+      "8.019879",
+      "8.059879",
+      "-10.6459173",
+      "-10.6059173"
+    ],
+    "lat": "8.039879",
+    "lon": "-10.6259173",
+    "display_name": "Salon, Kailahun District, Eastern Province, Sierra Leone",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51112357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3803954680",
+    "boundingbox": [
+      "45.975622",
+      "45.975722",
+      "3.6381063",
+      "3.6382063"
+    ],
+    "lat": "45.975672",
+    "lon": "3.6381563",
+    "display_name": "Salon, La Guillermie, Vichy, Allier, Auvergne-Rh\u00f4ne-Alpes, 03250, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

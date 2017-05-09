@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "66988572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20087626",
+    "boundingbox": [
+      "44.321713",
+      "44.327405",
+      "-74.1757439",
+      "-74.1708419"
+    ],
+    "lat": "44.322882",
+    "lon": "-74.1746399",
+    "display_name": "Guggenheim, Lake Colby, Franklin County, New York, 12983, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "5138305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "582037359",
+    "boundingbox": [
+      "43.2685989",
+      "43.2686989",
+      "-2.9367199",
+      "-2.9366199"
+    ],
+    "lat": "43.2686489",
+    "lon": "-2.9366699",
+    "display_name": "Guggenheim, Abandoibarra hiribidea, Abandoibarra, Deusto, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "railway",
+    "type": "tram_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_tram_stop.p.20.png"
+  },
+  {
+    "place_id": "856444",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "275809908",
+    "boundingbox": [
+      "43.2682352",
+      "43.2683352",
+      "-2.9349885",
+      "-2.9348885"
+    ],
+    "lat": "43.2682852",
+    "lon": "-2.9349385",
+    "display_name": "Guggenheim, Guggenheim Enparantza, Abandoibarra, Ciudad Jard\u00edn - Loruri, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76217950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44635061",
+    "boundingbox": [
+      "34.1364247",
+      "34.13671",
+      "-118.1248955",
+      "-118.1241954"
+    ],
+    "lat": "34.136559",
+    "lon": "-118.124473295899",
+    "display_name": "Guggenheim, Olive Walk, Pasadena, Los Angeles County, California, 91125, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

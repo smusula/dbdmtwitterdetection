@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160285550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "165789",
+    "boundingbox": [
+      "41.6961536",
+      "48.306063",
+      "-90.4186201",
+      "-82.1228055"
+    ],
+    "lat": "43.6211955",
+    "lon": "-84.6824345",
+    "display_name": "Michigan, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.85014237728546,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "491789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158842877",
+    "boundingbox": [
+      "43.7695101",
+      "43.8095101",
+      "-72.9048294",
+      "-72.8648294"
+    ],
+    "lat": "43.7895101",
+    "lon": "-72.8848294",
+    "display_name": "Michigan, Rutland County, Vermont, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654591543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87186589",
+    "boundingbox": [
+      "25.2116172",
+      "25.2135688",
+      "55.1469284",
+      "55.1492198"
+    ],
+    "lat": "25.2126277",
+    "lon": "55.1480820343413",
+    "display_name": "Michigan, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "islet",
+    "importance": 0.35
+  },
+  {
+    "place_id": "362534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151454135",
+    "boundingbox": [
+      "48.0049959",
+      "48.0449959",
+      "-98.1370453",
+      "-98.0970453"
+    ],
+    "lat": "48.0249959",
+    "lon": "-98.1170453",
+    "display_name": "Michigan, Nelson County, North Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "64100172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16026858",
+    "boundingbox": [
+      "41.564656",
+      "41.5666074",
+      "-90.6264439",
+      "-90.6261359"
+    ],
+    "lat": "41.5656217",
+    "lon": "-90.6261372",
+    "display_name": "Michigan, Davenport, Scott County, Iowa, 52806, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85785944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98867126",
+    "boundingbox": [
+      "52.3679187",
+      "52.3705618",
+      "-0.2224035",
+      "-0.2190034"
+    ],
+    "lat": "52.3691745",
+    "lon": "-0.2213461",
+    "display_name": "Michigan, The Stukeleys CP (Hunts), Huntingdonshire, Cambridgeshire, East of England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63687772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15031763",
+    "boundingbox": [
+      "40.1991009",
+      "40.1994504",
+      "-79.9306032",
+      "-79.9301367"
+    ],
+    "lat": "40.1992229",
+    "lon": "-79.9304502",
+    "display_name": "Michigan, Monongahela, Washington County, Pennsylvania, 15063, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63969100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15273094",
+    "boundingbox": [
+      "26.2059257",
+      "26.2066342",
+      "-98.120882",
+      "-98.1207704"
+    ],
+    "lat": "26.2059257",
+    "lon": "-98.120882",
+    "display_name": "Michigan, Campo Alto, Hidalgo County, Texas, 78516, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61025635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11053256",
+    "boundingbox": [
+      "26.711616",
+      "26.711712",
+      "-81.8243579",
+      "-81.8231609"
+    ],
+    "lat": "26.711652",
+    "lon": "-81.8237899",
+    "display_name": "Michigan, Tice, Sunburst RV Resort, Lee County, Florida, 33917, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "139923601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "333485833",
+    "boundingbox": [
+      "27.2056308",
+      "27.2061399",
+      "-80.8264739",
+      "-80.8245522"
+    ],
+    "lat": "27.2059261",
+    "lon": "-80.8253628",
+    "display_name": "Michigan, Taylor Creek, Okeechobee County, Florida, 34974, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

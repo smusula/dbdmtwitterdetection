@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160288851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "178389",
+    "boundingbox": [
+      "39.9132396",
+      "40.276996",
+      "-82.782452",
+      "-82.1828427"
+    ],
+    "lat": "40.1318041",
+    "lon": "-82.4627855",
+    "display_name": "Licking County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51413648814526,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "485798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158842914",
+    "boundingbox": [
+      "40.7454816",
+      "40.7455816",
+      "-73.9485494",
+      "-73.9484494"
+    ],
+    "lat": "40.7455316",
+    "lon": "-73.9484994",
+    "display_name": "LIC, Queens County, NYC, New York, 11120, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.49529223844486
+  },
+  {
+    "place_id": "45769963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3258068082",
+    "boundingbox": [
+      "44.9856051",
+      "44.9857051",
+      "3.7915255",
+      "3.7916255"
+    ],
+    "lat": "44.9856551",
+    "lon": "3.7915755",
+    "display_name": "Lic, Saint-Christophe-sur-Dolaison, Pays du Velay, Haute-Loire, Auvergne-Rh\u00f4ne-Alpes, 43370, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160373550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1075407",
+    "boundingbox": [
+      "48.6004916",
+      "48.6040475",
+      "-2.8595088",
+      "-2.8283038"
+    ],
+    "lat": "48.6025143",
+    "lon": "-2.8434354",
+    "display_name": "L'Ic, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.35
+  },
+  {
+    "place_id": "90207110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115715088",
+    "boundingbox": [
+      "48.568645",
+      "48.589993",
+      "-2.9032399",
+      "-2.8646953"
+    ],
+    "lat": "48.5830998",
+    "lon": "-2.8869625",
+    "display_name": "L'Ic, Tr\u00e9gomeur, Guingamp, C\u00f4tes-d'Armor, Bretagne, 22590, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "137990071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "324099275",
+    "boundingbox": [
+      "48.6009886",
+      "48.6011101",
+      "-2.8283038",
+      "-2.8269791"
+    ],
+    "lat": "48.6009886",
+    "lon": "-2.8269791",
+    "display_name": "L'Ic, Binic-\u00c9tables-sur-Mer, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "152666707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "405141212",
+    "boundingbox": [
+      "12.9735389",
+      "12.9740894",
+      "77.579809",
+      "77.5803189"
+    ],
+    "lat": "12.9738101",
+    "lon": "77.5800623481972",
+    "display_name": "LIC, Gandhinagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "152272221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402904990",
+    "boundingbox": [
+      "17.7215579",
+      "17.7232211",
+      "83.3032617",
+      "83.304474"
+    ],
+    "lat": "17.72234865",
+    "lon": "83.303721993973",
+    "display_name": "LIC, MVP Colony, Visakhapatnam, Vishakhapatnam, Andhra Pradesh, 530001, India",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "80667076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68169867",
+    "boundingbox": [
+      "17.2561311",
+      "17.256661",
+      "80.1466408",
+      "80.1470619"
+    ],
+    "lat": "17.2563615",
+    "lon": "80.1468517945367",
+    "display_name": "LIC, Lenin Nagar, Khammam, Telangana, 507002, India",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "14583790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1305138375",
+    "boundingbox": [
+      "45.2599499",
+      "45.2999499",
+      "14.6987538",
+      "14.7387538"
+    ],
+    "lat": "45.2799499",
+    "lon": "14.7187538",
+    "display_name": "Li\u010d, Primorsko-Goranska \u017eupanija, Hrvatska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "102479208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165179001",
+    "boundingbox": [
+      "43.9112394",
+      "43.9113045",
+      "15.4934963",
+      "15.4935688"
+    ],
+    "lat": "43.91127195",
+    "lon": "15.49353255",
+    "display_name": "sailing, Brune Bu\u0161i\u0107a, Pako\u0161tane, Zadarska \u017eupanija, 23211, Hrvatska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "52344507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3949990675",
+    "boundingbox": [
+      "38.027869",
+      "38.027969",
+      "12.8829541",
+      "12.8830541"
+    ],
+    "lat": "38.027919",
+    "lon": "12.8830041",
+    "display_name": "Sailing, Via Marina di Petrolo, Castellammare del Golfo, TP, SIC, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18443343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1775354120",
+    "boundingbox": [
+      "-39.2789751",
+      "-39.2788751",
+      "-71.9797388",
+      "-71.9796388"
+    ],
+    "lat": "-39.2789251",
+    "lon": "-71.9796888",
+    "display_name": "Sailing, Costanera Roberto Geiss, Pen\u00ednsula de Puc\u00f3n, Puc\u00f3n, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, 492000, Chile",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "39007260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2909356901",
+    "boundingbox": [
+      "36.5094988",
+      "36.5095988",
+      "22.9797856",
+      "22.9798856"
+    ],
+    "lat": "36.5095488",
+    "lon": "22.9798356",
+    "display_name": "Sailing, \u0394\u03ae\u03bc\u03bf\u03c2 \u0395\u03bb\u03b1\u03c6\u03bf\u03bd\u03ae\u03c3\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

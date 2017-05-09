@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "156788491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427986719",
+    "boundingbox": [
+      "40.9414696",
+      "40.9444717",
+      "9.4476723",
+      "9.4480382"
+    ],
+    "lat": "40.9428733",
+    "lon": "9.4476795",
+    "display_name": "Via Giardinos, Terranoa/Olbia, SS, SAR, 07026, Italia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69041636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24457601",
+    "boundingbox": [
+      "40.9386981",
+      "40.9412591",
+      "9.44947",
+      "9.4565682"
+    ],
+    "lat": "40.9411294",
+    "lon": "9.4525685",
+    "display_name": "Via Giardinos, Terranoa/Olbia, SS, SAR, 07026, Italia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609239978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4467333395",
+    "boundingbox": [
+      "41.6548378",
+      "41.6549378",
+      "-70.254643",
+      "-70.254543"
+    ],
+    "lat": "41.6548878",
+    "lon": "-70.254593",
+    "display_name": "Giardino's Family Restaurant, 242, Main Street, Yarmouth, Barnstable County, Massachusetts, 02673, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

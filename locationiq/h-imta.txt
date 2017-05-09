@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "17030449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1647124745",
+    "boundingbox": [
+      "50.5639137",
+      "50.5640137",
+      "18.8867699",
+      "18.8868699"
+    ],
+    "lat": "50.5639637",
+    "lon": "18.8868199",
+    "display_name": "Sklep Motoryzacyjno-Rowerowy IMTA S.C., 5, 1 Maja, Osiedle Segenau, Kalety, powiat tarnog\u00f3rski, \u015bl\u0105skie, Polska",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "17256233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1647124770",
+    "boundingbox": [
+      "50.563828",
+      "50.563928",
+      "18.8867977",
+      "18.8868977"
+    ],
+    "lat": "50.563878",
+    "lon": "18.8868477",
+    "display_name": "Sklep Motoryzacyjno-Rowerowy IMTA S.C., 5, 1 Maja, Osiedle Segenau, Kalety, powiat tarnog\u00f3rski, \u015bl\u0105skie, Polska",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  }
+]

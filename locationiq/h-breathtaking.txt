@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "85389611",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97190360",
+    "boundingbox": [
+      "36.2956421",
+      "36.29604",
+      "-115.2944287",
+      "-115.294426"
+    ],
+    "lat": "36.29604",
+    "lon": "-115.2944287",
+    "display_name": "Breathtaking Court, Tule Springs, Las Vegas, Clark County, Nevada, 89143, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142094658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "345395332",
+    "boundingbox": [
+      "35.0756762",
+      "35.0778011",
+      "-88.2055139",
+      "-88.201685"
+    ],
+    "lat": "35.0767289",
+    "lon": "-88.2036749316092",
+    "display_name": "Breathtaking Loop, Bruton Branch, Hardin County, Tennessee, 38365, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63897306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15598747",
+    "boundingbox": [
+      "37.4538968",
+      "37.4576537",
+      "-81.1297908",
+      "-81.1287816"
+    ],
+    "lat": "37.4557407",
+    "lon": "-81.1293482",
+    "display_name": "Breathtaking Way, Spanishburg, Mercer County, West Virginia, 25922, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "103301360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "168366155",
+    "boundingbox": [
+      "39.4608603",
+      "39.4665509",
+      "-78.3400853",
+      "-78.33792"
+    ],
+    "lat": "39.4639875",
+    "lon": "-78.339332",
+    "display_name": "Breathtaking Way, Largent, Morgan County, West Virginia, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

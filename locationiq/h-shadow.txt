@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "349582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150960597",
+    "boundingbox": [
+      "48.1270308",
+      "48.1670308",
+      "-123.8777016",
+      "-123.8377016"
+    ],
+    "lat": "48.1470308",
+    "lon": "-123.8577016",
+    "display_name": "Shadow, Clallam County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "466344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158505966",
+    "boundingbox": [
+      "37.3293043",
+      "37.3693043",
+      "-76.3166083",
+      "-76.2766083"
+    ],
+    "lat": "37.3493043",
+    "lon": "-76.2966083",
+    "display_name": "Shadow, Mathews County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35401456808503,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "62617547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13323767",
+    "boundingbox": [
+      "33.7601785",
+      "33.7604647",
+      "-117.9083325",
+      "-117.9083297"
+    ],
+    "lat": "33.7601785",
+    "lon": "-117.9083297",
+    "display_name": "Shadow, Garden Grove, Orange County, California, 92703, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68318177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21881757",
+    "boundingbox": [
+      "30.115812",
+      "30.115825",
+      "-95.2156169",
+      "-95.2151079"
+    ],
+    "lat": "30.115825",
+    "lon": "-95.2154329",
+    "display_name": "Shadow, Porter, Montgomery County, Texas, 77365, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61507975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11276224",
+    "boundingbox": [
+      "29.581827",
+      "29.5821243",
+      "-81.6050058",
+      "-81.6028556"
+    ],
+    "lat": "29.581827",
+    "lon": "-81.6050058",
+    "display_name": "Shadow, Sutherlands Still, Putnam County, Florida, 32187, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138414459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326458994",
+    "boundingbox": [
+      "29.8635028",
+      "29.8650834",
+      "-90.031792",
+      "-90.0292907"
+    ],
+    "lat": "29.8647715",
+    "lon": "-90.0308989",
+    "display_name": "Shadow, Farmington Place, Jefferson Parish, Louisiana, 70059, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111123652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200775544",
+    "boundingbox": [
+      "45.4649035",
+      "45.4651593",
+      "9.0948383",
+      "9.0950378"
+    ],
+    "lat": "45.46501255",
+    "lon": "9.09496805541384",
+    "display_name": "Shadow Archry Team, Via Bonaventura Broggini, Quartiere degli Olmi, Municipio 7, Milano, MI, LOM, 20153, Italia",
+    "class": "amenity",
+    "type": "hunting_stand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6953031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "736620018",
+    "boundingbox": [
+      "46.7714072",
+      "46.7715072",
+      "23.5875004",
+      "23.5876004"
+    ],
+    "lat": "46.7714572",
+    "lon": "23.5875504",
+    "display_name": "Shadow, Strada Vasile Goldi\u0219, Gruia, Cluj-Napoca, Cluj, 400112, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "6183502",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "645552655",
+    "boundingbox": [
+      "51.0315502",
+      "51.0316502",
+      "6.988514",
+      "6.988614"
+    ],
+    "lat": "51.0316002",
+    "lon": "6.988564",
+    "display_name": "Shadow, 5o, Friedrich-Ebert-Platz, Gallier-Dorf, Wiesdorf, Leverkusen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51373, Deutschland",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41190839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3015672691",
+    "boundingbox": [
+      "41.5840386",
+      "41.5841386",
+      "-93.6817429",
+      "-93.6816429"
+    ],
+    "lat": "41.5840886",
+    "lon": "-93.6816929",
+    "display_name": "Shadow, Grand Avenue, Des Moines, Polk County, Iowa, 50312, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

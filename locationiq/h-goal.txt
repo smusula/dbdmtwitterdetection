@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "25930299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2471316519",
+    "boundingbox": [
+      "56.7589289",
+      "56.7590289",
+      "-3.0388064",
+      "-3.0387064"
+    ],
+    "lat": "56.7589789",
+    "lon": "-3.0387564",
+    "display_name": "The Goal, Angus, Scotland, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "14652023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308651525",
+    "boundingbox": [
+      "1.3096407",
+      "1.3496407",
+      "127.5892523",
+      "127.6292523"
+    ],
+    "lat": "1.3296407",
+    "lon": "127.6092523",
+    "display_name": "Goal, Maluku Utara, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "83672524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89535155",
+    "boundingbox": [
+      "48.8775117",
+      "48.8787101",
+      "10.3928333",
+      "10.3942171"
+    ],
+    "lat": "48.8780147",
+    "lon": "10.3934172",
+    "display_name": "Goal, Kirchheim am Ries, Verwaltungsgemeinschaft Bopfingen, Ostalbkreis, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 73467, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49611645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3675205882",
+    "boundingbox": [
+      "45.4276255",
+      "45.4277255",
+      "13.5228513",
+      "13.5229513"
+    ],
+    "lat": "45.4276755",
+    "lon": "13.5229013",
+    "display_name": "GOAL, 7, Ulica Line Marianija, Moela, Umag, Grad Umag, Istarska \u017eupanija, 52470, Hrvatska",
+    "class": "office",
+    "type": "accountant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "112727257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "207257297",
+    "boundingbox": [
+      "4.8620634",
+      "4.8622082",
+      "31.5821322",
+      "31.582317"
+    ],
+    "lat": "4.8621188",
+    "lon": "31.5822246012305",
+    "display_name": "GOAL, Bilpam Road, Hai Kuweit, Juba, Central Equatoria, South Sudan",
+    "class": "office",
+    "type": "ngo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18293254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1774697482",
+    "boundingbox": [
+      "47.2415188",
+      "47.2416188",
+      "9.5884789",
+      "9.5885789"
+    ],
+    "lat": "47.2415688",
+    "lon": "9.5885289",
+    "display_name": "Goal, 4, Am Breiten Wasen, Tosters, Feldkirch, Vorarlberg, 6800, \u00d6sterreich",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "79036507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58648460",
+    "boundingbox": [
+      "53.2950528",
+      "53.2952036",
+      "-6.1443989",
+      "-6.1441064"
+    ],
+    "lat": "53.2951282",
+    "lon": "-6.14425262704448",
+    "display_name": "Goal, 12-13, Cumberland Street, Dunleary, Dun Laoghaire-Salthill ED, D\u00fan Laoghaire, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, D18, Ireland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15760914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1421246925",
+    "boundingbox": [
+      "41.9299158",
+      "41.9300158",
+      "12.4696725",
+      "12.4697725"
+    ],
+    "lat": "41.9299658",
+    "lon": "12.4697225",
+    "display_name": "Goal, Via Nedo Nadi, Municipio Roma II, Roma, RM, LAZ, 00196, Italia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "102264601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164340726",
+    "boundingbox": [
+      "49.5971802",
+      "49.5973798",
+      "6.1174464",
+      "6.1175882"
+    ],
+    "lat": "49.5972878",
+    "lon": "6.11751741672024",
+    "display_name": "Goal, Route d'Esch, Hollerich, Luxembourg, Canton Luxembourg, 1470;1471, L\u00ebtzebuerg",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "128493129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278181853",
+    "boundingbox": [
+      "10.4233275",
+      "10.4234781",
+      "32.2588316",
+      "32.2589655"
+    ],
+    "lat": "10.4234028",
+    "lon": "32.25889855",
+    "display_name": "GOAL Health Center, Renk-Melut East, Melut, Upper Nile State, South Sudan",
+    "class": "amenity",
+    "type": "doctors",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_doctors.p.20.png"
+  }
+]

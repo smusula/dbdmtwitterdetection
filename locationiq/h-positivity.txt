@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "73962725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37079680",
+    "boundingbox": [
+      "52.9374268",
+      "52.9379779",
+      "-1.1590629",
+      "-1.1582122"
+    ],
+    "lat": "52.93770235",
+    "lon": "-1.15863753587891",
+    "display_name": "Channeling Positivity, Riverside Way, The Meadows, City of Nottingham, East Midlands, England, NG2 1DP, UK",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "51815420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3873345903",
+    "boundingbox": [
+      "11.8012071",
+      "11.8013071",
+      "124.8652204",
+      "124.8653204"
+    ],
+    "lat": "11.8012571",
+    "lon": "124.8652704",
+    "display_name": "How does electricity and electronegativity or positivity flow in a chip? you programmers?, Maharlika Highway, Payao, Catbalogan, Samar, Eastern Visayas, 6700, Philippines",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  }
+]

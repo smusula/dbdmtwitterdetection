@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "65205919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17752693",
+    "boundingbox": [
+      "45.32033",
+      "45.3241357",
+      "-85.1866929",
+      "-85.1844079"
+    ],
+    "lat": "45.322708",
+    "lon": "-85.1860199",
+    "display_name": "Susan Smores Drive, Burgess, Charlevoix County, Michigan, 49720, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62197843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12280401",
+    "boundingbox": [
+      "38.8435937",
+      "38.8444979",
+      "-90.9274905",
+      "-90.9271639"
+    ],
+    "lat": "38.8444979",
+    "lon": "-90.9271639",
+    "display_name": "Smores Court, St. Charles County, Missouri, 63348, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "3957143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "419914238",
+    "boundingbox": [
+      "43.7232779",
+      "43.7233779",
+      "-72.2643404",
+      "-72.2642404"
+    ],
+    "lat": "43.7233279",
+    "lon": "-72.2642904",
+    "display_name": "Storrs Smores snack bar, Town Road, Hanover, Grafton County, New Hampshire, 03755, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "26504339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2523649642",
+    "boundingbox": [
+      "46.5147759",
+      "46.5148759",
+      "-122.4056381",
+      "-122.4055381"
+    ],
+    "lat": "46.5148259",
+    "lon": "-122.4055881",
+    "display_name": "S'mores Loop, McDougall Drive, Swofford, Lewis County, Washington, 98564, United States of America",
+    "class": "tourism",
+    "type": "camp_site",
+    "importance": 0.001
+  }
+]

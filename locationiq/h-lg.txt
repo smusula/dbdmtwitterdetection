@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160372984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070367",
+    "boundingbox": [
+      "38.700092",
+      "39.134636",
+      "-101.4849849",
+      "-100.8120879"
+    ],
+    "lat": "38.9058216",
+    "lon": "-101.155238",
+    "display_name": "Logan County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46136264606735,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652181134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475004185",
+    "boundingbox": [
+      "12.6042959",
+      "12.6052109",
+      "-8.0129684",
+      "-8.0118937"
+    ],
+    "lat": "12.6047454",
+    "lon": "-8.01250887634443",
+    "display_name": "LG, Torokorobougou, Bamako, District de Bamako, 00223, Mali",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "155828871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "423245350",
+    "boundingbox": [
+      "19.6774608",
+      "19.6786092",
+      "-99.2009046",
+      "-99.1993923"
+    ],
+    "lat": "19.678035",
+    "lon": "-99.2001570598513",
+    "display_name": "LG, Cuautitl\u00e1n Izcalli, M\u00e9xico, 54715, M\u00e9xico",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "73660055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36110795",
+    "boundingbox": [
+      "56.4168623",
+      "56.4170294",
+      "24.2136358",
+      "24.2139672"
+    ],
+    "lat": "56.4169475",
+    "lon": "24.2138013484655",
+    "display_name": "LG, Balo\u017ei, Janeikas, Bauskas novads, Zemgale, Latvija",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "82315077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82173469",
+    "boundingbox": [
+      "52.3262018",
+      "52.3289855",
+      "10.505325",
+      "10.5086349"
+    ],
+    "lat": "52.32755655",
+    "lon": "10.507073321364",
+    "display_name": "LG, 20, Heideblick, Wenden, Wenden-Thune-Harxb\u00fcttel, Braunschweig, Niedersachsen, 38110, Deutschland",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.254561534822,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "110110056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "196971981",
+    "boundingbox": [
+      "51.0229619",
+      "51.0244168",
+      "16.8802822",
+      "16.8814453"
+    ],
+    "lat": "51.0234415",
+    "lon": "16.8806486",
+    "display_name": "LG, Biskupice Podg\u00f3rne, gmina Kobierzyce, powiat wroc\u0142awski, dolno\u015bl\u0105skie, Polska",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76552839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45980831",
+    "boundingbox": [
+      "51.0158153",
+      "51.0178384",
+      "16.8764978",
+      "16.8876675"
+    ],
+    "lat": "51.0165075",
+    "lon": "16.8838341",
+    "display_name": "LG, Tarnobrzeska SSE Wis\u0142osan - Podstrefa Kobierzyce, Biskupice Podg\u00f3rne, gmina Kobierzyce, powiat wroc\u0142awski, dolno\u015bl\u0105skie, Polska",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142836628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "352212508",
+    "boundingbox": [
+      "51.0146487",
+      "51.0147114",
+      "16.8936914",
+      "16.8940752"
+    ],
+    "lat": "51.0146749",
+    "lon": "16.8939185",
+    "display_name": "LG, Tarnobrzeska SSE Wis\u0142osan - Podstrefa Kobierzyce, Biskupice Podg\u00f3rne, gmina Kobierzyce, powiat wroc\u0142awski, dolno\u015bl\u0105skie, Polska",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "50383182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3756298381",
+    "boundingbox": [
+      "-8.8196107",
+      "-8.8195107",
+      "13.2387518",
+      "13.2388518"
+    ],
+    "lat": "-8.8195607",
+    "lon": "13.2388018",
+    "display_name": "LG, Rua M. Luther King, Maculusso, Maianga, Luanda, 927, Angola",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47062467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3404235338",
+    "boundingbox": [
+      "35.2901271",
+      "35.2902271",
+      "-1.1368018",
+      "-1.1367018"
+    ],
+    "lat": "35.2901771",
+    "lon": "-1.1367518",
+    "display_name": "LG, Boulevard de la r\u00e9volution, \u0627\u0644\u0632\u064a\u062a\u0648\u0646, Ain Temouchent, Da\u00efra Ain Temouchent, A\u00efn T\u00e9mouchent - \u0639\u064a\u0646 \u062a\u0645\u0648\u0634\u0646\u062a, 46000, RADP",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  }
+]

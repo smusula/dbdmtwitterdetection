@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160266412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "113133",
+    "boundingbox": [
+      "48.4256102",
+      "48.4695243",
+      "6.6976495",
+      "6.7895303"
+    ],
+    "lat": "48.4474",
+    "lon": "6.73981",
+    "display_name": "Baccarat, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54120, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.60208753799827,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "53713753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4112466025",
+    "boundingbox": [
+      "48.8701522",
+      "48.8702522",
+      "2.331864",
+      "2.331964"
+    ],
+    "lat": "48.8702022",
+    "lon": "2.331914",
+    "display_name": "Baccarat, 17, Rue de la Paix, Gaillon, 2e, Paris, \u00cele-de-France, 75002, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.45565072780129,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "9503171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "953075504",
+    "boundingbox": [
+      "48.870291",
+      "48.870391",
+      "2.3236125",
+      "2.3237125"
+    ],
+    "lat": "48.870341",
+    "lon": "2.3236625",
+    "display_name": "Baccarat, Place de la Madeleine, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.36650672486204,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "160815819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4613098",
+    "boundingbox": [
+      "48.389516",
+      "48.770185",
+      "6.4373283",
+      "7.1232205"
+    ],
+    "lat": "48.57981245",
+    "lon": "6.80156384340923",
+    "display_name": "Baccarat, Rue de Dom\u00e8vre, Verdenal, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54450, France",
+    "class": "boundary",
+    "type": "political",
+    "importance": 0.33470384519613
+  },
+  {
+    "place_id": "63579781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15148016",
+    "boundingbox": [
+      "29.612908",
+      "29.613144",
+      "-98.5179469",
+      "-98.5169009"
+    ],
+    "lat": "29.612964",
+    "lon": "-98.5174559",
+    "display_name": "Baccarat, San Antonio, Bexar County, Texas, 78248, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52617222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3991869871",
+    "boundingbox": [
+      "48.8715618",
+      "48.8716618",
+      "2.314248",
+      "2.314348"
+    ],
+    "lat": "48.8716118",
+    "lon": "2.314298",
+    "display_name": "Baccarat, Rue du Faubourg Saint-Honor\u00e9, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "39456937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2923583376",
+    "boundingbox": [
+      "44.8421331",
+      "44.8422331",
+      "-0.5751365",
+      "-0.5750365"
+    ],
+    "lat": "44.8421831",
+    "lon": "-0.5750865",
+    "display_name": "Baccarat, Cours de l'Intendance, Centre ville, Bordeaux, Gironde, Nouvelle-Aquitaine, 33000, France",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45499640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3234870366",
+    "boundingbox": [
+      "48.6928064",
+      "48.6929064",
+      "6.1826966",
+      "6.1827966"
+    ],
+    "lat": "48.6928564",
+    "lon": "6.1827466",
+    "display_name": "Baccarat, Rue des Dominicains, Nancy, Meurthe-et-Moselle, Grand-Est, 54000, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "2649430838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6897158",
+    "boundingbox": [
+      "33.5620107",
+      "33.5622505",
+      "-101.883207",
+      "-101.8824675"
+    ],
+    "lat": "33.56207885",
+    "lon": "-101.88283735",
+    "display_name": "Baccarat, 35th Street, Lubbock, Lubbock County, Texas, 79413, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56503025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4398588069",
+    "boundingbox": [
+      "48.4471748",
+      "48.4571748",
+      "6.7391483",
+      "6.7491483"
+    ],
+    "lat": "48.4521748",
+    "lon": "6.7441483",
+    "display_name": "Baccarat, Rue du Vingti\u00e8me Bataillon, Baccarat, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54120, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

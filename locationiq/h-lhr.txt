@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "107681909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "185882029",
+    "boundingbox": [
+      "51.4560987",
+      "51.4794056",
+      "-0.4943775",
+      "-0.4151696"
+    ],
+    "lat": "51.467772",
+    "lon": "-0.459093681628075",
+    "display_name": "Heathrow, Airside Road Tunnel, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, TW6 1BP, UK",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.53320434987888,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "55322859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4309441890",
+    "boundingbox": [
+      "11.5223839",
+      "11.5224839",
+      "104.8882076",
+      "104.8883076"
+    ],
+    "lat": "11.5224339",
+    "lon": "104.8882576",
+    "display_name": "lhr, \u1795\u17d2\u179b\u17bc\u179c \u1785\u17c6\u1780\u17b6\u179a\u178a\u17bc\u1784 (\u17e2\u17e1\u17e7), \u1781\u178e\u17d2\u178c\u178a\u1784\u17d2\u1780\u17c4, \u1797\u17bc\u1798\u17b7\u1790\u17d2\u1798\u17b8, \u1781\u178e\u17d2\u178c\u178a\u1784\u17d2\u1780\u17c4, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12352, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "22246044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2197914178",
+    "boundingbox": [
+      "13.0969985",
+      "13.0970985",
+      "103.2015488",
+      "103.2016488"
+    ],
+    "lat": "13.0970485",
+    "lon": "103.2015988",
+    "display_name": "LHR, Street 207, \u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784, \u1781\u17c1\u178f\u17d2\u178f\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784, 02360, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "22432221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2240575295",
+    "boundingbox": [
+      "13.1060538",
+      "13.1061538",
+      "103.1674024",
+      "103.1675024"
+    ],
+    "lat": "13.1061038",
+    "lon": "103.1674524",
+    "display_name": "LHR, \u1795\u17d2\u179b\u17bc\u179c\u200b\u1787\u17b6\u178f\u17b7\u200b\u179b\u17c1\u1781\u200b\u17e5, \u1780\u17d2\u179a\u17bb\u1784\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784, \u1781\u17c1\u178f\u17d2\u178f\u1794\u17b6\u178f\u17cb\u178a\u17c6\u1794\u1784, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "17731669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1712767752",
+    "boundingbox": [
+      "13.5717972",
+      "13.5718972",
+      "102.982809",
+      "102.982909"
+    ],
+    "lat": "13.5718472",
+    "lon": "102.982859",
+    "display_name": "LHR, 5, \u1780\u17d2\u179a\u17bb\u1784\u179f\u17b7\u179a\u17b8\u179f\u17c4\u1797\u17d0\u178e, \u1781\u17c1\u178f\u17d2\u178f\u1794\u1793\u17d2\u1791\u17b6\u1799\u1798\u17b6\u1793\u1787\u17d0\u1799, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "55330114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4269599290",
+    "boundingbox": [
+      "11.5311253",
+      "11.5312253",
+      "104.8592987",
+      "104.8593987"
+    ],
+    "lat": "11.5311753",
+    "lon": "104.8593487",
+    "display_name": "LHR, \u1798\u17a0\u17b6\u179c\u17b7\u1790\u17b8 \u179c\u17c1\u1784\u200b\u179f\u17d2\u179a\u17c1\u1784, \u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799, \u1797\u17bc\u1798\u17b7\u178f\u17d2\u179a\u1796\u17b6\u17c6\u1784\u1790\u17d2\u179b\u17b9\u1784, \u1781\u178e\u17d2\u178c\u1796\u17c4\u1792\u17b7\u17cd\u179f\u17c2\u1793\u1787\u17d0\u1799, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12352, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "2654500474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4743043521",
+    "boundingbox": [
+      "13.4647805",
+      "13.4648805",
+      "106.0369416",
+      "106.0370416"
+    ],
+    "lat": "13.4648305",
+    "lon": "106.0369916",
+    "display_name": "LHR, \u1795\u17d2\u179b\u17bc\u179c\u1787\u17b6\u178f\u17b7\u179b\u17c1\u1781\u17e7, \u1780\u17d2\u179a\u17bb\u1784\u179f\u17d2\u1791\u17b9\u1784\u178f\u17d2\u179a\u17c2\u1784, \u1781\u17c1\u178f\u17d2\u178f\u179f\u17d2\u1791\u17b9\u1784\u178f\u17d2\u179a\u17c2\u1784, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "49638583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3691853659",
+    "boundingbox": [
+      "10.7077586",
+      "10.7078586",
+      "103.817896",
+      "103.817996"
+    ],
+    "lat": "10.7078086",
+    "lon": "103.817946",
+    "display_name": "LHR, \u1795\u17d2\u179b\u17bc\u179c\u1787\u17b6\u178f\u17b7\u179b\u17c1\u1781\u17e4, \u1783\u17bb\u17c6\u200b\u179c\u17b6\u179b\u179a\u17c1\u1789, \u1780\u17d2\u179a\u17bb\u1784\u1796\u17d2\u179a\u17c7\u179f\u17b8\u17a0\u1793\u17bb, \u1781\u17c1\u178f\u17d2\u178f\u1796\u17d2\u179a\u17c7\u179f\u17b8\u17a0\u1793\u17bb, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "28138332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2627913386",
+    "boundingbox": [
+      "12.4540254",
+      "12.4541254",
+      "107.1921653",
+      "107.1922653"
+    ],
+    "lat": "12.4540754",
+    "lon": "107.1922153",
+    "display_name": "LHR, 76, \u1780\u17d2\u179a\u17bb\u1784\u179f\u17c2\u1793\u1798\u1793\u17c4\u179a\u1798\u17d2\u1799, \u1781\u17c1\u178f\u17d2\u178f\u1798\u178e\u17d2\u178c\u179b\u1782\u17b7\u179a\u17b8, 1105, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "47221264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3394735869",
+    "boundingbox": [
+      "13.599369",
+      "13.599469",
+      "105.9259893",
+      "105.9260893"
+    ],
+    "lat": "13.599419",
+    "lon": "105.9260393",
+    "display_name": "LHR, \u1795\u17d2\u179b\u17bc\u179c\u1787\u17b6\u178f\u17b7\u179b\u17c1\u1781\u17e9, \u1781\u17c1\u178f\u17d2\u178f\u1796\u17d2\u179a\u17c7\u179c\u17b7\u17a0\u17b6\u179a, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

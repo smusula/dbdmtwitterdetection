@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160763228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4193739",
+    "boundingbox": [
+      "53.3419243",
+      "53.3518298",
+      "-7.210954",
+      "-7.1982685"
+    ],
+    "lat": "53.34690225",
+    "lon": "-7.20479357650218",
+    "display_name": "Road, Ballyburly ED, Edenderry Municipal District, County Offaly, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "89122293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "112444556",
+    "boundingbox": [
+      "3.2019883",
+      "3.2021821",
+      "101.6190822",
+      "101.6192166"
+    ],
+    "lat": "3.2019883",
+    "lon": "101.6190822",
+    "display_name": "road, Bandar Sri Damansara, Sri Aman Heights, Kepong, Selangor, 52200, Malaysia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "2648708522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465648651",
+    "boundingbox": [
+      "15.9091438",
+      "15.9104645",
+      "-90.4797891",
+      "-90.4606488"
+    ],
+    "lat": "15.9104645",
+    "lon": "-90.470691",
+    "display_name": "road, Cob\u00e1n, Alta Verapaz, Guatemala",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "2610626890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453021755",
+    "boundingbox": [
+      "-2.12707",
+      "-2.1100228",
+      "33.5704354",
+      "33.5784707"
+    ],
+    "lat": "-2.1194299",
+    "lon": "33.5735767",
+    "display_name": "road, Bunda, Mara, Lake, Tanzania",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "2654282852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "480664911",
+    "boundingbox": [
+      "-12.1090304",
+      "-12.108851",
+      "33.4445545",
+      "33.4454275"
+    ],
+    "lat": "-12.1090304",
+    "lon": "33.4451775",
+    "display_name": "road, Embangweni, Northern Region, Malawi",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "62516258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13158497",
+    "boundingbox": [
+      "38.361501",
+      "38.408483",
+      "-95.9690919",
+      "-95.9686949"
+    ],
+    "lat": "38.384649",
+    "lon": "-95.9688379",
+    "display_name": "Road Y, Lyon County, Kansas, 66864, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118310595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229671814",
+    "boundingbox": [
+      "-41.5499616",
+      "-41.5254394",
+      "146.3579326",
+      "146.3788324"
+    ],
+    "lat": "-41.5369779",
+    "lon": "146.3678305",
+    "display_name": "Den Road, Ugbrook, Meander Valley, Tasmania, Australia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130695751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289834016",
+    "boundingbox": [
+      "23.79068",
+      "23.7928987",
+      "78.1261422",
+      "78.1271936"
+    ],
+    "lat": "23.79192725",
+    "lon": "78.1265595091242",
+    "display_name": "rd, Vidisha, Madhya Pradesh, India",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654271303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "480577334",
+    "boundingbox": [
+      "-0.7026262",
+      "-0.696896",
+      "119.7328239",
+      "119.7549402"
+    ],
+    "lat": "-0.7018738",
+    "lon": "119.7448402",
+    "display_name": "Road, Ampera, Sulawesi Tengah, Indonesia",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142654043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "350025939",
+    "boundingbox": [
+      "-1.1822384",
+      "-0.6697215",
+      "119.3827525",
+      "119.7443295"
+    ],
+    "lat": "-0.8994672",
+    "lon": "119.5415075",
+    "display_name": "Road, Letawa, Sulawesi Barat, Indonesia",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  }
+]

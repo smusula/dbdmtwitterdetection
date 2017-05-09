@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "9018104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "930836756",
+    "boundingbox": [
+      "60.2645023",
+      "60.2845023",
+      "15.0176518",
+      "15.0376518"
+    ],
+    "lat": "60.2745023",
+    "lon": "15.0276518",
+    "display_name": "L\u00e4nsmans holme, P\u00e4llby, Ludvika, Dalarna, Svealand, Sverige",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "75138233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40691928",
+    "boundingbox": [
+      "59.2779483",
+      "59.2811252",
+      "18.1192183",
+      "18.1229342"
+    ],
+    "lat": "59.2801489",
+    "lon": "18.1199595",
+    "display_name": "L\u00e4nsmansv\u00e4gen, K\u00e4rrtorp, Skarpn\u00e4cks stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 12156, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "70167631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26939425",
+    "boundingbox": [
+      "63.817498",
+      "63.8190333",
+      "20.2515736",
+      "20.2560724"
+    ],
+    "lat": "63.8182882",
+    "lon": "20.2543099",
+    "display_name": "L\u00e4nsmansv\u00e4gen, \u00d6st-Teg, Teg, Ume\u00e5, V\u00e4sterbotten, V\u00e4sterbottens l\u00e4n, Norrland, 90420, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "73107081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34028923",
+    "boundingbox": [
+      "63.6623032",
+      "63.6631235",
+      "22.7047085",
+      "22.7059393"
+    ],
+    "lat": "63.6630399",
+    "lon": "22.7054362",
+    "display_name": "L\u00e4nsmansstigen, Centrum, Pietarsaari, Pietarsaaren seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, 68600, Suomi",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "74721777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39221851",
+    "boundingbox": [
+      "67.1321351",
+      "67.132714",
+      "20.6613158",
+      "20.6614288"
+    ],
+    "lat": "67.132555",
+    "lon": "20.6613158",
+    "display_name": "L\u00e4nsmansgatan, Fj\u00e4lln\u00e4s, Malmsta, G\u00e4llivare, Norrbottens l\u00e4n, Norrland, 98232, Sverige",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "132384947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298488653",
+    "boundingbox": [
+      "67.1301726",
+      "67.1321351",
+      "20.6614283",
+      "20.6623463"
+    ],
+    "lat": "67.1310278",
+    "lon": "20.661952",
+    "display_name": "L\u00e4nsmansgatan, Fj\u00e4lln\u00e4s, Malmsta, G\u00e4llivare, Norrbottens l\u00e4n, Norrland, 98232, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "81668814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "77230398",
+    "boundingbox": [
+      "64.600342",
+      "64.60536",
+      "18.7010027",
+      "18.7071839"
+    ],
+    "lat": "64.6004874",
+    "lon": "18.7051498",
+    "display_name": "L\u00e4nsmansv\u00e4gen, Norrmalm, Lycksele, V\u00e4sterbottens l\u00e4n, Norrland, 92146, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "135288967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311221702",
+    "boundingbox": [
+      "58.8929068",
+      "58.8938477",
+      "17.540959",
+      "17.5420031"
+    ],
+    "lat": "58.8935467",
+    "lon": "17.5416489",
+    "display_name": "L\u00e4nsmansgatan, Ny\u00e4ngen, Trosa, Landskapet S\u00f6dermanland, S\u00f6dermanlands l\u00e4n, Svealand, 61935, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "58004075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5939635",
+    "boundingbox": [
+      "59.1954289",
+      "59.1972236",
+      "17.8286797",
+      "17.8330177"
+    ],
+    "lat": "59.1963205",
+    "lon": "17.8312424",
+    "display_name": "L\u00e4nsmansv\u00e4gen, Tuna, Tumba, Botkyrka, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 147 53, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "98780326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150407220",
+    "boundingbox": [
+      "58.9452642",
+      "58.9462872",
+      "17.5019281",
+      "17.509183"
+    ],
+    "lat": "58.9454151",
+    "lon": "17.5053054",
+    "display_name": "L\u00e4nsmansv\u00e4gen, Vagnh\u00e4rad, Trosa, Landskapet S\u00f6dermanland, S\u00f6dermanlands l\u00e4n, Svealand, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

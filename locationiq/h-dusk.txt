@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "421745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154078320",
+    "boundingbox": [
+      "38.8439831",
+      "38.8839831",
+      "-80.7712107",
+      "-80.7312107"
+    ],
+    "lat": "38.8639831",
+    "lon": "-80.7512107",
+    "display_name": "Dusk, Gilmer County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "67566533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21066232",
+    "boundingbox": [
+      "31.057844",
+      "31.058977",
+      "-96.1839699",
+      "-96.1809409"
+    ],
+    "lat": "31.057877",
+    "lon": "-96.1829989",
+    "display_name": "Dusk, Hilltop Lakes, Leon County, Texas, 77871, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "47362583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3435808604",
+    "boundingbox": [
+      "36.1482821",
+      "36.1483821",
+      "-5.3543571",
+      "-5.3542571"
+    ],
+    "lat": "36.1483321",
+    "lon": "-5.3543071",
+    "display_name": "Dusk, Ocean Village Promenade, Gibraltar, GX11 1AA, Gibraltar",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "4976378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "558807421",
+    "boundingbox": [
+      "53.9595053",
+      "53.9596053",
+      "-1.083707",
+      "-1.083607"
+    ],
+    "lat": "53.9595553",
+    "lon": "-1.083657",
+    "display_name": "Dusk, 8, New Street, The Groves, Fishergate, York, Yorkshire and the Humber, England, YO1 8RA, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "14037947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1252994408",
+    "boundingbox": [
+      "56.1195093",
+      "56.1196093",
+      "-3.9387663",
+      "-3.9386663"
+    ],
+    "lat": "56.1195593",
+    "lon": "-3.9387163",
+    "display_name": "Dusk, Dalgleish Court, Cornton, Stirling, Scotland, FK8 2BX, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "25723631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2454646485",
+    "boundingbox": [
+      "53.305375",
+      "53.305475",
+      "-1.1244167",
+      "-1.1243167"
+    ],
+    "lat": "53.305425",
+    "lon": "-1.1243667",
+    "display_name": "Dusk, Bridge Place, Worksop (Unparished), Bassetlaw, Nottinghamshire, East Midlands, England, S80 1JN, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648858040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4608731788",
+    "boundingbox": [
+      "50.6101664",
+      "50.6102664",
+      "-2.4531481",
+      "-2.4530481"
+    ],
+    "lat": "50.6102164",
+    "lon": "-2.4530981",
+    "display_name": "Dusk, The Esplanade, Rodwell, Weymouth and Portland, Dorset, South West England, England, DT4 8DE, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

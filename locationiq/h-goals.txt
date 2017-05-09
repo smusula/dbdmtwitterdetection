@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "69235238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24525328",
+    "boundingbox": [
+      "51.3744996",
+      "51.3748425",
+      "-0.2235198",
+      "-0.2228932"
+    ],
+    "lat": "51.37466835",
+    "lon": "-0.223205294507113",
+    "display_name": "goals, London Road, Worcester Park, London Borough of Sutton, London, Greater London, England, SM3 9DL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "94337244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130877937",
+    "boundingbox": [
+      "51.6066024",
+      "51.6069272",
+      "-0.0198619",
+      "-0.0194072"
+    ],
+    "lat": "51.6067669",
+    "lon": "-0.0196338746787485",
+    "display_name": "Goals, Morrison Avenue, Chapel End, Chingford, London Borough of Waltham Forest, London, Greater London, England, E4, UK",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "79954703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62458292",
+    "boundingbox": [
+      "51.4948255",
+      "51.4962232",
+      "-0.4389695",
+      "-0.4375592"
+    ],
+    "lat": "51.49549375",
+    "lon": "-0.438281075052514",
+    "display_name": "Goals, Shepiston Lane, West Drayton, London Borough of Hillingdon, London, Greater London, England, UK",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "96525398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "139707570",
+    "boundingbox": [
+      "51.5095839",
+      "51.5100213",
+      "-0.3997135",
+      "-0.3992739"
+    ],
+    "lat": "51.50980495",
+    "lon": "-0.399490737907195",
+    "display_name": "Goals, Springfield Road, Yeading, London Borough of Hillingdon, London, Greater London, England, UB4 0JT, UK",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "147172765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375360695",
+    "boundingbox": [
+      "51.3978768",
+      "51.3990647",
+      "-0.0516152",
+      "-0.0498772"
+    ],
+    "lat": "51.3984637",
+    "lon": "-0.0506651098685979",
+    "display_name": "Goals, Elmers End Road, Elmers End, London Borough of Bromley, London, Greater London, England, SE20, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80614695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67707945",
+    "boundingbox": [
+      "51.5325171",
+      "51.5336233",
+      "0.1310869",
+      "0.1331468"
+    ],
+    "lat": "51.53306435",
+    "lon": "0.132126506916545",
+    "display_name": "Goals, Goresbrook Road, Scrattons Farm, London Borough of Barking and Dagenham, London, Greater London, England, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "151759012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400675236",
+    "boundingbox": [
+      "51.3985811",
+      "51.3988816",
+      "-0.0502192",
+      "-0.0496962"
+    ],
+    "lat": "51.3987313",
+    "lon": "-0.049957686242895",
+    "display_name": "Goals, Elmers End Road, Elmers End, London Borough of Bromley, London, Greater London, England, SE20, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "98666230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149922738",
+    "boundingbox": [
+      "51.421079",
+      "51.4213944",
+      "-0.0309735",
+      "-0.0304711"
+    ],
+    "lat": "51.4212367",
+    "lon": "-0.0307223000000055",
+    "display_name": "Goals, Copers Cope Road, Beckenham, London Borough of Bromley, London, Greater London, England, BR3 1RL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107110561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183353303",
+    "boundingbox": [
+      "51.3987346",
+      "51.3993396",
+      "-0.0510184",
+      "-0.0496019"
+    ],
+    "lat": "51.3990006",
+    "lon": "-0.050403069034857",
+    "display_name": "Goals, Elmers End Road, Elmers End, London Borough of Bromley, London, Greater London, England, SE20, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "513994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "181294961",
+    "boundingbox": [
+      "52.6274027",
+      "52.6275027",
+      "-1.088374",
+      "-1.088274"
+    ],
+    "lat": "52.6274527",
+    "lon": "-1.088324",
+    "display_name": "Goals, Wakerley Road, New Humberstone, Crown Hills, Leicester, City of Leicester, East Midlands, England, LE2 2, UK",
+    "class": "leisure",
+    "type": "football",
+    "importance": 0.101
+  }
+]

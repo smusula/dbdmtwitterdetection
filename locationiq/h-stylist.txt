@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "24657046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2380050831",
+    "boundingbox": [
+      "-8.3548612",
+      "-8.3547612",
+      "116.0425246",
+      "116.0426246"
+    ],
+    "lat": "-8.3548112",
+    "lon": "116.0425746",
+    "display_name": "Stylist, Jalan Cumi-Cumi, Lombok Utara, Kec. Ampenan, Nusa Tenggara Barat, 83552, Indonesia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "156768234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427926263",
+    "boundingbox": [
+      "-6.2390291",
+      "-6.2388876",
+      "106.8075353",
+      "106.8076934"
+    ],
+    "lat": "-6.23895835",
+    "lon": "106.80761435",
+    "display_name": "Stylist, TransJakarta Busway Koridor 13, RT 15, RW 06, Petogogan, Kebayoran Baru, Jakarta Selatan, Daerah Khusus Ibukota Jakarta, 12180, Indonesia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

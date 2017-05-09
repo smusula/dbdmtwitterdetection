@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "4274181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "463185172",
+    "boundingbox": [
+      "47.0152199",
+      "47.0552199",
+      "23.3792046",
+      "23.4192046"
+    ],
+    "lat": "47.0352199",
+    "lon": "23.3992046",
+    "display_name": "Dragu, S\u0103laj, 457130, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.50030658549253,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "9278062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "947886786",
+    "boundingbox": [
+      "56.7594334",
+      "56.7994334",
+      "16.4002633",
+      "16.4402633"
+    ],
+    "lat": "56.7794334",
+    "lon": "16.4202633",
+    "display_name": "Drag, Kalmar, Kalmar l\u00e4n, G\u00f6taland, Sverige",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5055200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "568847250",
+    "boundingbox": [
+      "68.0263616",
+      "68.0663616",
+      "16.0626824",
+      "16.1026824"
+    ],
+    "lat": "68.0463616",
+    "lon": "16.0826824",
+    "display_name": "Drag, Tysfjord, Nordland, Norge",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35699840250201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63879169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15147046",
+    "boundingbox": [
+      "29.5746942",
+      "29.5771999",
+      "-98.6265329",
+      "-98.6264871"
+    ],
+    "lat": "29.5761188",
+    "lon": "-98.6265131",
+    "display_name": "The Drag, San Antonio, Bexar County, Texas, 78249, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "943482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "289928706",
+    "boundingbox": [
+      "48.1509017",
+      "48.1510017",
+      "17.0672132",
+      "17.0673132"
+    ],
+    "lat": "48.1509517",
+    "lon": "17.0672632",
+    "display_name": "Drag, 64, Star\u00e9 grunty, \u0160v\u00e9dske domky, Mlynsk\u00e1 dolina, Karlova Ves, Bratislava, Bratislavsk\u00fd kraj, 841 04, Slovensko",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "93628398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "128208741",
+    "boundingbox": [
+      "30.2897525",
+      "30.2898673",
+      "-97.7414143",
+      "-97.7414004"
+    ],
+    "lat": "30.2898673",
+    "lon": "-97.7414004",
+    "display_name": "Guadalupe Street, Austin, Travis County, Texas, 78705, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "145074897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366244289",
+    "boundingbox": [
+      "30.2822195",
+      "30.2838034",
+      "-97.742081",
+      "-97.7419439"
+    ],
+    "lat": "30.2826519",
+    "lon": "-97.7420531",
+    "display_name": "Guadalupe Street, Austin, Travis County, Texas, 78705-5609, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  }
+]

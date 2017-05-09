@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "437633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154055121",
+    "boundingbox": [
+      "39.4722918",
+      "39.5122918",
+      "-82.2307039",
+      "-82.1907039"
+    ],
+    "lat": "39.4922918",
+    "lon": "-82.2107039",
+    "display_name": "Monday, Hocking County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "359463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151409489",
+    "boundingbox": [
+      "38.1967165",
+      "38.2367165",
+      "-91.0412505",
+      "-91.0012505"
+    ],
+    "lat": "38.2167165",
+    "lon": "-91.0212505",
+    "display_name": "Monday, Franklin County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45805401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3260432970",
+    "boundingbox": [
+      "-15.4105491",
+      "-15.3705491",
+      "-66.774367",
+      "-66.734367"
+    ],
+    "lat": "-15.3905491",
+    "lon": "-66.754367",
+    "display_name": "Canton San Borja, Monday, Provincia del General Jos\u00e9 Ballivi\u00e1n Segurola, BNI, Bolivia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "118835534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231957803",
+    "boundingbox": [
+      "-25.5136436",
+      "-25.5110932",
+      "-54.6505444",
+      "-54.649565"
+    ],
+    "lat": "-25.5127389",
+    "lon": "-54.6501968",
+    "display_name": "Monday, Area 1, Ciudad del Este, Alto Paran\u00e1, Regi\u00f3n Oriental, 7000, Paraguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99994279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "155926913",
+    "boundingbox": [
+      "14.4580455",
+      "14.4597445",
+      "120.9557921",
+      "120.9561297"
+    ],
+    "lat": "14.4588722",
+    "lon": "120.9559166",
+    "display_name": "Monday, St. Joseph Village, Talaba 1, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "107384142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184421406",
+    "boundingbox": [
+      "-25.3113629",
+      "-25.310995",
+      "-57.5470366",
+      "-57.5462057"
+    ],
+    "lat": "-25.310995",
+    "lon": "-57.5462057",
+    "display_name": "Monday, Estanzuela, Fernando de la Mora, Central, Regi\u00f3n Oriental, Paraguay",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

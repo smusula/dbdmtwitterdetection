@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "7189108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "750461217",
+    "boundingbox": [
+      "38.9239173",
+      "38.9240173",
+      "-77.052166",
+      "-77.052066"
+    ],
+    "lat": "38.9239673",
+    "lon": "-77.052116",
+    "display_name": "Strings, 2608, Connecticut Avenue Northwest, Woodley Park, Washington, District of Columbia, 20015, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2652745609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26782815",
+    "boundingbox": [
+      "51.4932946",
+      "51.4984591",
+      "-1.9628059",
+      "-1.9587013"
+    ],
+    "lat": "51.496346",
+    "lon": "-1.9619536224753",
+    "display_name": "The Strings, Portal Place, Lyneham and Bradenstoke, Lyneham, Wiltshire, South West England, England, SN15 4XX, UK",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  },
+  {
+    "place_id": "46045735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3260336487",
+    "boundingbox": [
+      "37.7869318",
+      "37.7870318",
+      "-121.2171284",
+      "-121.2170284"
+    ],
+    "lat": "37.7869818",
+    "lon": "-121.2170784",
+    "display_name": "Strings, Mission Ridge Drive, Manteca, San Joaquin County, California, 95339, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "154808939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "418199834",
+    "boundingbox": [
+      "38.6605254",
+      "38.6606971",
+      "-121.3511813",
+      "-121.3507922"
+    ],
+    "lat": "38.6606113",
+    "lon": "-121.350986749782",
+    "display_name": "Strings, Madison Avenue, Walerga, Sacramento County, California, 95841, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160260548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "104522",
+    "boundingbox": [
+      "45.85733",
+      "45.9046205",
+      "5.9388229",
+      "5.983048"
+    ],
+    "lat": "45.8742767",
+    "lon": "5.9598575",
+    "display_name": "Sales, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74150, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42976304828016,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160921343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5683250",
+    "boundingbox": [
+      "-21.4479999",
+      "-21.2269999",
+      "-49.6229999",
+      "-49.3959999"
+    ],
+    "lat": "-21.3379999",
+    "lon": "-49.4964449549451",
+    "display_name": "Sales, Microrregi\u00e3o de Novo Horizonte, Pirangueiro do Tiet\u00ea, Mesorregi\u00e3o de S\u00e3o Jos\u00e9 do Rio Preto, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2429788",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "344090759",
+    "boundingbox": [
+      "43.9370635",
+      "43.9770635",
+      "2.9860132",
+      "3.0260132"
+    ],
+    "lat": "43.9570635",
+    "lon": "3.0060132",
+    "display_name": "Sales, Millau, Aveyron, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18282814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1785988853",
+    "boundingbox": [
+      "43.9864625",
+      "44.0264625",
+      "2.6655209",
+      "2.7055209"
+    ],
+    "lat": "44.0064625",
+    "lon": "2.6855209",
+    "display_name": "La Sales, Millau, Aveyron, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "935838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "288532062",
+    "boundingbox": [
+      "43.417572",
+      "43.457572",
+      "2.5809237",
+      "2.6209237"
+    ],
+    "lat": "43.437572",
+    "lon": "2.6009237",
+    "display_name": "Sales, Castres, Tarn, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53685623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4109720413",
+    "boundingbox": [
+      "43.4684628",
+      "43.5084628",
+      "-5.3082379",
+      "-5.2682379"
+    ],
+    "lat": "43.4884628",
+    "lon": "-5.2882379",
+    "display_name": "Sales, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1304548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "297655231",
+    "boundingbox": [
+      "45.7272432",
+      "45.7672432",
+      "13.7107526",
+      "13.7507526"
+    ],
+    "lat": "45.7472432",
+    "lon": "13.7307526",
+    "display_name": "Sales / Sale\u017e, TS, FVG, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49658747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3675584331",
+    "boundingbox": [
+      "-4.1461061",
+      "-4.1061061",
+      "-63.854032",
+      "-63.814032"
+    ],
+    "lat": "-4.1261061",
+    "lon": "-63.834032",
+    "display_name": "Coari, Sales, Microrregi\u00e3o de Coari, Mesorregi\u00e3o Centro Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17712562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1724507692",
+    "boundingbox": [
+      "45.6685593",
+      "45.7085593",
+      "7.6429525",
+      "7.6829525"
+    ],
+    "lat": "45.6885593",
+    "lon": "7.6629525",
+    "display_name": "La Sales, VDA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160434273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1683407",
+    "boundingbox": [
+      "46.6012929",
+      "46.6620069",
+      "6.9418567",
+      "7.0151984"
+    ],
+    "lat": "46.6366262",
+    "lon": "6.9743823",
+    "display_name": "S\u00e2les, District de la Gruy\u00e8re, Fribourg - Freiburg, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37428681966799,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

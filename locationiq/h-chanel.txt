@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "48750230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3581904543",
+    "boundingbox": [
+      "48.8673424",
+      "48.8674424",
+      "2.3303986",
+      "2.3304986"
+    ],
+    "lat": "48.8673924",
+    "lon": "2.3304486",
+    "display_name": "Chanel, 19, Place Vend\u00f4me, Vend\u00f4me, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.62361516873572,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "109117477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192390339",
+    "boundingbox": [
+      "40.8502283",
+      "40.8564183",
+      "68.7492055",
+      "68.760859"
+    ],
+    "lat": "40.854564",
+    "lon": "68.7550869",
+    "display_name": "Chanel, Quyichirchiq Tumani, Toshkent Viloyati, O\u02bbzbekiston",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "117362421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226514275",
+    "boundingbox": [
+      "1.8563585",
+      "1.8673124",
+      "172.8772806",
+      "172.8876669"
+    ],
+    "lat": "1.8635231",
+    "lon": "172.8807215",
+    "display_name": "Chanel, Abaiang, Kiribati",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "39353067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2923656919",
+    "boundingbox": [
+      "48.5545936",
+      "48.5945936",
+      "-1.5873434",
+      "-1.5473434"
+    ],
+    "lat": "48.5745936",
+    "lon": "-1.5673434",
+    "display_name": "Chanel, Saint-Malo, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53132433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4048975637",
+    "boundingbox": [
+      "3.1491166",
+      "3.1891166",
+      "-52.3540832",
+      "-52.3140832"
+    ],
+    "lat": "3.1691166",
+    "lon": "-52.3340832",
+    "display_name": "Tch\u00e3det / Village Chanel, Cayenne, Guyane, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "70396351",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27360138",
+    "boundingbox": [
+      "-38.6929362",
+      "-38.6910767",
+      "-62.2132491",
+      "-62.2117511"
+    ],
+    "lat": "-38.6910767",
+    "lon": "-62.2117511",
+    "display_name": "Chanel, Los Horneros, Patagonia, Parque Patagonia, Bah\u00eda Blanca, Partido de Bah\u00eda Blanca, Bs. As., 8000, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "79900291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62280389",
+    "boundingbox": [
+      "14.434362",
+      "14.4352322",
+      "120.9511334",
+      "120.9531708"
+    ],
+    "lat": "14.43519",
+    "lon": "120.9521668",
+    "display_name": "Chanel, Justinville Subdivision, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2651901366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4682446152",
+    "boundingbox": [
+      "48.8687593",
+      "48.8688593",
+      "2.3212651",
+      "2.3213651"
+    ],
+    "lat": "48.8688093",
+    "lon": "2.3213151",
+    "display_name": "Chanel, Rue du Faubourg Saint-Honor\u00e9, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "shop",
+    "type": "perfumery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52551967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980660125",
+    "boundingbox": [
+      "48.8689297",
+      "48.8690297",
+      "2.3232857",
+      "2.3233857"
+    ],
+    "lat": "48.8689797",
+    "lon": "2.3233357",
+    "display_name": "Chanel, 25, Rue Royale, Madeleine, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "craft",
+    "type": "dressmaker",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44627499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149284329",
+    "boundingbox": [
+      "48.8675725",
+      "48.8676725",
+      "2.3258793",
+      "2.3259793"
+    ],
+    "lat": "48.8676225",
+    "lon": "2.3259293",
+    "display_name": "Chanel, Rue Duphot, Vend\u00f4me, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

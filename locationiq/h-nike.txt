@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "24825228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2421372761",
+    "boundingbox": [
+      "47.6113534",
+      "47.6114534",
+      "-122.3344699",
+      "-122.3343699"
+    ],
+    "lat": "47.6114034",
+    "lon": "-122.3344199",
+    "display_name": "Niketown, 1500, 6th Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.65977480931549
+  },
+  {
+    "place_id": "131524063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294197215",
+    "boundingbox": [
+      "51.1995619",
+      "51.1999562",
+      "5.9903689",
+      "5.990965"
+    ],
+    "lat": "51.1997729",
+    "lon": "5.99066084804727",
+    "display_name": "Nike, 36, Stadsweide, Roermond, Limburg, Nederland, 6041TD, Nederland",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.60645047183654
+  },
+  {
+    "place_id": "91442037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119886352",
+    "boundingbox": [
+      "36.7283626",
+      "36.7322451",
+      "27.5746834",
+      "27.5828528"
+    ],
+    "lat": "36.73006615",
+    "lon": "27.5784352961842",
+    "display_name": "NIKE, Mesudiye, Dat\u00e7a, Mu\u011fla, Ege B\u00f6lgesi, T\u00fcrkiye",
+    "class": "landuse",
+    "type": "military",
+    "importance": 0.50656296960244
+  },
+  {
+    "place_id": "161011105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6598851",
+    "boundingbox": [
+      "33.1229507",
+      "33.2866516",
+      "69.1733676",
+      "69.3153313"
+    ],
+    "lat": "33.206518",
+    "lon": "69.240034",
+    "display_name": "\u0646\u06d0\u06a9\u0647, Paktika \u067e\u06a9\u062a\u06cc\u06a9\u0627, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40718885032972,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4628543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501423463",
+    "boundingbox": [
+      "8.691944",
+      "8.731944",
+      "7.873056",
+      "7.913056"
+    ],
+    "lat": "8.711944",
+    "lon": "7.893056",
+    "display_name": "Nike, Karu, Nasarawa, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127769141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "273509970",
+    "boundingbox": [
+      "6.4828544",
+      "6.638242",
+      "7.436579",
+      "7.6389213"
+    ],
+    "lat": "6.5610775",
+    "lon": "7.53732557982674",
+    "display_name": "Nike, Effokwo, Enugu East, Enugu, Nigeria",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1520366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "327614423",
+    "boundingbox": [
+      "52.2458659",
+      "52.2459659",
+      "21.0091851",
+      "21.0092851"
+    ],
+    "lat": "52.2459159",
+    "lon": "21.0092351",
+    "display_name": "Nike, Nowy Przejazd, V, \u015ar\u00f3dmie\u015bcie, Warszawa, mazowieckie, 00-082, Polska",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "18390650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1776361291",
+    "boundingbox": [
+      "38.6673827",
+      "38.7073827",
+      "23.7447932",
+      "23.7847932"
+    ],
+    "lat": "38.6873827",
+    "lon": "23.7647932",
+    "display_name": "\u039d\u03af\u03ba\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03b9\u03c1\u03c6\u03cd\u03c9\u03bd - \u039c\u03b5\u03c3\u03c3\u03b1\u03c0\u03af\u03c9\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0395\u03c5\u03b2\u03bf\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, 34018, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "95459121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135872853",
+    "boundingbox": [
+      "39.5137242",
+      "39.521933",
+      "22.6800827",
+      "22.6928184"
+    ],
+    "lat": "39.5178537",
+    "lon": "22.6852498",
+    "display_name": "\u039d\u03af\u03ba\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03b9\u03bb\u03b5\u03bb\u03ad\u03c1, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03ac\u03c1\u03b9\u03c3\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03af\u03b1\u03c2 - \u03a3\u03c4\u03b5\u03c1\u03b5\u03ac\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "919436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "286624842",
+    "boundingbox": [
+      "40.8890765",
+      "40.9290765",
+      "21.4003692",
+      "21.4403692"
+    ],
+    "lat": "40.9090765",
+    "lon": "21.4203692",
+    "display_name": "\u039d\u03af\u03ba\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2, \u03a0.\u0395. \u03a6\u03bb\u03ce\u03c1\u03b9\u03bd\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0397\u03c0\u03b5\u03af\u03c1\u03bf\u03c5 - \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, 53100, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

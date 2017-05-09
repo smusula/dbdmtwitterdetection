@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "25245928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2434160954",
+    "boundingbox": [
+      "48.6138691",
+      "48.6139691",
+      "2.5474681",
+      "2.5475681"
+    ],
+    "lat": "48.6139191",
+    "lon": "2.5475181",
+    "display_name": "Free Center Carr\u00e9 S\u00e9nart, C\u00f4te de la Bienvenue, Lieusaint, Melun, Seine-et-Marne, \u00cele-de-France, 77127, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.60325169689609
+  },
+  {
+    "place_id": "397105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153713520",
+    "boundingbox": [
+      "40.6017037",
+      "40.6417037",
+      "-87.4772439",
+      "-87.4372439"
+    ],
+    "lat": "40.6217037",
+    "lon": "-87.4572439",
+    "display_name": "Free, Benton County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42132716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3057857020",
+    "boundingbox": [
+      "5.3268504",
+      "5.3668504",
+      "-7.5425934",
+      "-7.5025934"
+    ],
+    "lat": "5.3468504",
+    "lon": "-7.5225934",
+    "display_name": "Free, Glaro, River Gee County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42635568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3098616794",
+    "boundingbox": [
+      "6.4331986",
+      "6.4731986",
+      "-10.2487891",
+      "-10.2087891"
+    ],
+    "lat": "6.4531986",
+    "lon": "-10.2287891",
+    "display_name": "Free, District # 1, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44351433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3158729089",
+    "boundingbox": [
+      "6.62975",
+      "6.62985",
+      "-9.2583099",
+      "-9.2582099"
+    ],
+    "lat": "6.6298",
+    "lon": "-9.2582599",
+    "display_name": "Free, Gueh Garyeazohn, Boinsen, Bong County, Liberia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "86782541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103431290",
+    "boundingbox": [
+      "53.4240904",
+      "53.4245373",
+      "-1.6071562",
+      "-1.6063843"
+    ],
+    "lat": "53.4242923",
+    "lon": "-1.60682871908224",
+    "display_name": "free, The sands, Bradfield CP, Sheffield, Yorkshire and the Humber, England, S6 6LB, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "24530150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2387382685",
+    "boundingbox": [
+      "45.1901347",
+      "45.1902347",
+      "5.7266954",
+      "5.7267954"
+    ],
+    "lat": "45.1901847",
+    "lon": "5.7267454",
+    "display_name": "Free, 3, Rue F\u00e9lix Poulat, Hyper Centre, Secteur 2, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38000, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609988537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2108115408",
+    "boundingbox": [
+      "49.1160188",
+      "49.1161188",
+      "6.1743316",
+      "6.1744316"
+    ],
+    "lat": "49.1160688",
+    "lon": "6.1743816",
+    "display_name": "Free, 53, Rue Serpenoise, Nouvelle Ville, Metz, Moselle, Grand-Est, 57000;57050;57070, France",
+    "class": "office",
+    "type": "telecommunication",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41642140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3035293421",
+    "boundingbox": [
+      "43.608929",
+      "43.609029",
+      "3.8830176",
+      "3.8831176"
+    ],
+    "lat": "43.608979",
+    "lon": "3.8830676",
+    "display_name": "Free, 34, All\u00e9e Jules Milhau, Com\u00e9die, Centre, Montpellier, H\u00e9rault, Occitanie, 34000;34070;34080;34090, France",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86718996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103189250",
+    "boundingbox": [
+      "53.3938748",
+      "53.3941098",
+      "-1.5417062",
+      "-1.5415327"
+    ],
+    "lat": "53.3939933",
+    "lon": "-1.54162265759212",
+    "display_name": "Free, Pond Road, Stannington, Bradfield CP, Sheffield, Yorkshire and the Humber, England, S10, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

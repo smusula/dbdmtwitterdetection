@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "2653965926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4731042826",
+    "boundingbox": [
+      "46.1892037",
+      "46.1893037",
+      "9.0139736",
+      "9.0140736"
+    ],
+    "lat": "46.1892537",
+    "lon": "9.0140236",
+    "display_name": "Smiles, 3, Via Pierino Tatti, Bellinzona, Circolo di Bellinzona, Distretto di Bellinzona, Ticino, 6500, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "150183606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "390354365",
+    "boundingbox": [
+      "41.6401845",
+      "41.6403944",
+      "-73.874736",
+      "-73.8744473"
+    ],
+    "lat": "41.6402894",
+    "lon": "-73.8745916458899",
+    "display_name": "Smiles, New Hackensack Road, New Hackensack, Town of Wappinger, Dutchess County, New York, 12603, United States of America",
+    "class": "amenity",
+    "type": "stripclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645844999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4540539202",
+    "boundingbox": [
+      "40.5818363",
+      "40.5819363",
+      "-74.9591821",
+      "-74.9590821"
+    ],
+    "lat": "40.5818863",
+    "lon": "-74.9591321",
+    "display_name": "Smiles, 371, Pittstown Road, Franklin Township, Hunterdon County, New Jersey, 08867, United States of America",
+    "class": "amenity",
+    "type": "dentist",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_dentist.p.20.png"
+  },
+  {
+    "place_id": "24286644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2365668314",
+    "boundingbox": [
+      "53.2865394",
+      "53.2866394",
+      "-6.2394181",
+      "-6.2393181"
+    ],
+    "lat": "53.2865894",
+    "lon": "-6.2393681",
+    "display_name": "Smiles, Sandyford Road, Dundrum, Dublin 14, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, D16, Ireland",
+    "class": "amenity",
+    "type": "dentist",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_dentist.p.20.png"
+  },
+  {
+    "place_id": "2609078231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4471599698",
+    "boundingbox": [
+      "41.1159173",
+      "41.1160173",
+      "20.0835614",
+      "20.0836614"
+    ],
+    "lat": "41.1159673",
+    "lon": "20.0836114",
+    "display_name": "Smile's, Rruga 28 N\u00ebntori, Elbasan, Qarku i Elbasanit, 3001, Shqip\u00ebria",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

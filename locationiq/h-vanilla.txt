@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "463767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158264689",
+    "boundingbox": [
+      "39.7596075",
+      "39.7996075",
+      "-77.870944",
+      "-77.830944"
+    ],
+    "lat": "39.7796075",
+    "lon": "-77.850944",
+    "display_name": "Vanilla, Franklin County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13412634",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242609223",
+    "boundingbox": [
+      "42.9174559",
+      "42.9374559",
+      "-4.9062396",
+      "-4.8862396"
+    ],
+    "lat": "42.9274559",
+    "lon": "-4.8962396",
+    "display_name": "La Vaniella, Boca de Hu\u00e9rgano, Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13498893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241794653",
+    "boundingbox": [
+      "41.6871666",
+      "41.7071666",
+      "-6.2109054",
+      "-6.1909054"
+    ],
+    "lat": "41.6971666",
+    "lon": "-6.2009054",
+    "display_name": "Vaniella, Samir de los Ca\u00f1os, Zamora, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "84137046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91700520",
+    "boundingbox": [
+      "14.1139783",
+      "14.1144379",
+      "120.9327844",
+      "120.9332246"
+    ],
+    "lat": "14.1140365",
+    "lon": "120.9329239",
+    "display_name": "Vanilla, Metrogate Tagaytay Estates Phase 2, Tagaytay, Cavite, Calabarzon, 4120, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69263597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24905023",
+    "boundingbox": [
+      "19.3925317",
+      "19.3955416",
+      "-99.0893628",
+      "-99.0841797"
+    ],
+    "lat": "19.393923",
+    "lon": "-99.0867838",
+    "display_name": "Vanilla, Agr\u00edcola Oriental, Iztacalco, CDMX, 08600, M\u00e9xico",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "158613215",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437755614",
+    "boundingbox": [
+      "19.329572",
+      "19.3305021",
+      "-98.980807",
+      "-98.9805503"
+    ],
+    "lat": "19.3305021",
+    "lon": "-98.9805503",
+    "display_name": "Vanilla, Iztapalapa, CDMX, 09510, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "73297754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34614823",
+    "boundingbox": [
+      "14.1042801",
+      "14.1046625",
+      "120.9340891",
+      "120.9343171"
+    ],
+    "lat": "14.1044232",
+    "lon": "120.9341803",
+    "display_name": "Vanilla, Tagaytay Heights, Tagaytay, Cavite, Calabarzon, 4120, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90361927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "116290932",
+    "boundingbox": [
+      "14.4054008",
+      "14.4058716",
+      "120.9067498",
+      "120.9068604"
+    ],
+    "lat": "14.4056331",
+    "lon": "120.9068059",
+    "display_name": "Vanilla, Lancaster Residences, Lancaster Residences 1, Alapan 2-A, Imus, Cavite, Calabarzon, 4103, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94969932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133261506",
+    "boundingbox": [
+      "-20.5009031",
+      "-20.4999788",
+      "57.5425159",
+      "57.5434658"
+    ],
+    "lat": "-20.5005446",
+    "lon": "57.543007181417",
+    "display_name": "Vanille, Rivi\u00e8re des Anguilles, Savanne, Mauritius",
+    "class": "landuse",
+    "type": "plant_nursery",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155775253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422920994",
+    "boundingbox": [
+      "49.5886742",
+      "49.5924226",
+      "-125.0424599",
+      "-125.0363549"
+    ],
+    "lat": "49.5900652",
+    "lon": "-125.039488",
+    "display_name": "Vanilla, Courtenay, Comox Valley Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

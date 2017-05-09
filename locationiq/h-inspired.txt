@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "30168261",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2724038973",
+    "boundingbox": [
+      "52.3674755",
+      "52.3675755",
+      "4.8900903",
+      "4.8901903"
+    ],
+    "lat": "52.3675255",
+    "lon": "4.8901403",
+    "display_name": "Inspired, 42-1, Heiligeweg, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1012XS, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "26980248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2569735805",
+    "boundingbox": [
+      "52.0950175",
+      "52.0951175",
+      "5.1286491",
+      "5.1287491"
+    ],
+    "lat": "52.0950675",
+    "lon": "5.1286991",
+    "display_name": "Inspired, 47, Biltstraat, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3572AE, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "150893412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "394992321",
+    "boundingbox": [
+      "51.4812076",
+      "51.4813276",
+      "-2.5831896",
+      "-2.5829351"
+    ],
+    "lat": "51.48126855",
+    "lon": "-2.58304045861932",
+    "display_name": "Inspired, Seymour Road, Bishopston, Bristol, City of Bristol, South West England, England, BS7, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "53140785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4030249354",
+    "boundingbox": [
+      "43.0324387",
+      "43.0325387",
+      "-87.9079214",
+      "-87.9078214"
+    ],
+    "lat": "43.0324887",
+    "lon": "-87.9078714",
+    "display_name": "Inspired, 239, East Chicago Street, Historic Third Ward, Milwaukee, Milwaukee County, Wisconsin, 53202, United States of America",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "29296079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2694757575",
+    "boundingbox": [
+      "52.4441732",
+      "52.4442732",
+      "-1.4888935",
+      "-1.4887935"
+    ],
+    "lat": "52.4442232",
+    "lon": "-1.4888435",
+    "display_name": "Inspired, Longford Road, Edgwick, Little Heath, Coventry, West Midlands, England, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "39985432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2946406962",
+    "boundingbox": [
+      "52.9526639",
+      "52.9527639",
+      "-1.1485427",
+      "-1.1484427"
+    ],
+    "lat": "52.9527139",
+    "lon": "-1.1484927",
+    "display_name": "Inspired, Flying Horse Walk, Lace Market, The Meadows, City of Nottingham, East Midlands, England, NG1 2HN, UK",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54587330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4206839223",
+    "boundingbox": [
+      "41.285794",
+      "41.285894",
+      "69.3503609",
+      "69.3504609"
+    ],
+    "lat": "41.285844",
+    "lon": "69.3504109",
+    "display_name": "Aviakassa, 77, Birlashgan 6-o'tish ko'chasi, \u0410\u0441\u0430\u043b\u043e\u0431\u043e\u0434 1, \u042f\u0448\u043d\u043e\u0431\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, Mirzo Ulug\u2018bek Tumani, Toshkent, 100000, O\u02bbzbekiston",
+    "class": "shop",
+    "type": "ticket",
+    "importance": 0.001
+  }
+]

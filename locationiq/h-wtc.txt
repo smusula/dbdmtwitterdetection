@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160448291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1640136",
+    "boundingbox": [
+      "-44.499066",
+      "-40.6283335",
+      "167.8388435",
+      "172.6921017"
+    ],
+    "lat": "-42.9945668",
+    "lon": "170.7100413",
+    "display_name": "West Coast, New Zealand/Aotearoa",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "127238335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269454217",
+    "boundingbox": [
+      "12.1177107",
+      "12.1184265",
+      "-68.9650501",
+      "-68.9642736"
+    ],
+    "lat": "12.11806905",
+    "lon": "-68.9646617469843",
+    "display_name": "WTC, Wanapa, Willemstad, Cura\u00e7ao, 0000NA, Nederland",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "122048781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245309014",
+    "boundingbox": [
+      "44.4082466",
+      "44.4086754",
+      "8.9002329",
+      "8.9008318"
+    ],
+    "lat": "44.408461",
+    "lon": "8.90052920974608",
+    "display_name": "World Trade Center, Via De Marini, Collina degli Angeli, Centro Ovest, Genova, GE, LIG, 16149, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.17714730829695
+  },
+  {
+    "place_id": "127290635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269642864",
+    "boundingbox": [
+      "53.2033567",
+      "53.2037628",
+      "6.5551521",
+      "6.5558482"
+    ],
+    "lat": "53.20355855",
+    "lon": "6.5555134050666",
+    "display_name": "WTC, Leonard Springerlaan, Groningen, Nederland, 9727KB, Nederland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6346370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "660305687",
+    "boundingbox": [
+      "53.2010061",
+      "53.2011061",
+      "5.7753448",
+      "5.7754448"
+    ],
+    "lat": "53.2010561",
+    "lon": "5.7753948",
+    "display_name": "WTC, Heliconweg, Leeuwarden, Friesland, Nederland, 8913EV, Nederland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "125668664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260760242",
+    "boundingbox": [
+      "52.3757766",
+      "52.3761066",
+      "5.2179676",
+      "5.2189339"
+    ],
+    "lat": "52.3759404",
+    "lon": "5.21848473269231",
+    "display_name": "WTC, Mandelaplein, Almere, MRA, Flevoland, Nederland, 1314CG, Nederland",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "100061028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "155883858",
+    "boundingbox": [
+      "-7.2633937",
+      "-7.2622369",
+      "112.7475693",
+      "112.748194"
+    ],
+    "lat": "-7.26282535",
+    "lon": "112.747951275587",
+    "display_name": "WTC, Jalan Plaza Boulevard, Surabaya, Jawa Timur, 60272, Indonesia",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609846242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4492219289",
+    "boundingbox": [
+      "17.9602745",
+      "17.9603745",
+      "102.6194987",
+      "102.6195987"
+    ],
+    "lat": "17.9603245",
+    "lon": "102.6195487",
+    "display_name": "WTC, Boulevard Khouvieng, \u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99, \u0eaa\u0eb5\u0eaa\u0eb1\u0e94\u0e95\u0eb0\u0e99\u0eb2\u0e81, \u0e99\u0eb0\u0e84\u0ead\u0e99\u0eab\u0ebc\u0ea7\u0e87\u0ea7\u0ebd\u0e87\u0e88\u0eb1\u0e99, 01006, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "75850119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43104798",
+    "boundingbox": [
+      "45.4018907",
+      "45.4026649",
+      "9.1484545",
+      "9.1499801"
+    ],
+    "lat": "45.40228055",
+    "lon": "9.14921705244612",
+    "display_name": "WTC, Strada 1, Centro Direzionale Milanofiori, Assago, MI, LOM, 20089, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7122393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "767859834",
+    "boundingbox": [
+      "46.229235",
+      "46.229335",
+      "6.106336",
+      "6.106436"
+    ],
+    "lat": "46.229285",
+    "lon": "6.106386",
+    "display_name": "WTC, Route de l'A\u00e9roport, Cointrin, Meyrin, Gen\u00e8ve, 1215, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

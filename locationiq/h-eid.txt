@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160330306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "409081",
+    "boundingbox": [
+      "61.8404247",
+      "62.0099623",
+      "5.4676728",
+      "6.4768591"
+    ],
+    "lat": "61.9291091",
+    "lon": "5.97221409848452",
+    "display_name": "Eid, Sogn og Fjordane, Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "19284790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1904477387",
+    "boundingbox": [
+      "60.4764",
+      "60.4964",
+      "10.4194",
+      "10.4394"
+    ],
+    "lat": "60.4864",
+    "lon": "10.4294",
+    "display_name": "Eid, Gjervika, Gran, Oppland, Norge",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2477775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "352657949",
+    "boundingbox": [
+      "59.7929946",
+      "59.8129946",
+      "10.4330793",
+      "10.4530793"
+    ],
+    "lat": "59.8029946",
+    "lon": "10.4430793",
+    "display_name": "Eid, Heggedal, Asker, Akershus, Norge",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "24262154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2358363189",
+    "boundingbox": [
+      "59.473958",
+      "59.493958",
+      "9.973",
+      "9.993"
+    ],
+    "lat": "59.483958",
+    "lon": "9.983",
+    "display_name": "Eid, Hvittingfoss, Kongsberg, Buskerud, Norge",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "80441315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68249232",
+    "boundingbox": [
+      "58.0444151",
+      "58.0447412",
+      "7.6507513",
+      "7.6547913"
+    ],
+    "lat": "58.0445027",
+    "lon": "7.6526869",
+    "display_name": "Eid, T\u00e5nevig, S\u00f8gne, Vest-Agder, Norge",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "95428442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135753579",
+    "boundingbox": [
+      "58.0395278",
+      "58.0446451",
+      "7.6547913",
+      "7.6698442"
+    ],
+    "lat": "58.0426249",
+    "lon": "7.6624795",
+    "display_name": "Eid, Vigebo, S\u00f8gne, Vest-Agder, Norge",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44506483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3154259966",
+    "boundingbox": [
+      "33.8562838",
+      "33.8563838",
+      "35.5748096",
+      "35.5749096"
+    ],
+    "lat": "33.8563338",
+    "lon": "35.5748596",
+    "display_name": "eid, \u0637\u0631\u064a\u0642 \u0628\u0631\u0645\u0627\u0646\u0627 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629, \u0627\u0644\u062f\u0648\u0631\u0629, \u062c\u0633\u0631 \u0627\u0644\u0628\u0627\u0634\u0627, \u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, 00000, \u0644\u0628\u0646\u0627\u0646",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55621249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4332652790",
+    "boundingbox": [
+      "48.8833461",
+      "48.8834461",
+      "2.8157337",
+      "2.8158337"
+    ],
+    "lat": "48.8833961",
+    "lon": "2.8157837",
+    "display_name": "EID, D 934, Montry, Meaux, Seine-et-Marne, \u00cele-de-France, 77450, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "2653288770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "459824966",
+    "boundingbox": [
+      "60.7281541",
+      "60.7282541",
+      "9.7164211",
+      "9.7165211"
+    ],
+    "lat": "60.7282041",
+    "lon": "9.7164711",
+    "display_name": "Eid, Austsidevegen, S\u00f8r-Aurdal, Oppland, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "14077158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289158793",
+    "boundingbox": [
+      "60.4928068",
+      "60.4929068",
+      "10.4333442",
+      "10.4334442"
+    ],
+    "lat": "60.4928568",
+    "lon": "10.4333942",
+    "display_name": "Eid, Hornslinna, Gjervika, Gran, Oppland, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "25482869",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2452371482",
+    "boundingbox": [
+      "51.1285487",
+      "51.1685487",
+      "-113.9826679",
+      "-113.9426679"
+    ],
+    "lat": "51.1485487",
+    "lon": "-113.9626679",
+    "display_name": "Cityscape, Calgary, Alberta, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "151969586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401906082",
+    "boundingbox": [
+      "49.03885",
+      "49.0393709",
+      "-122.2869805",
+      "-122.2865593"
+    ],
+    "lat": "49.0391151",
+    "lon": "-122.286772063381",
+    "display_name": "33839, Cityscape, Abbotsford Centre, Abbotsford, Fraser Valley Regional District, British Columbia, V2S 1L6, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "127839122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "273714329",
+    "boundingbox": [
+      "28.4027906",
+      "28.4038491",
+      "77.0582641",
+      "77.0604551"
+    ],
+    "lat": "28.4035701",
+    "lon": "77.0597835105913",
+    "display_name": "The Cityscape, Sector 66, Gurugram, Gurgaon District, Haryana, 122018, India",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118996562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232182681",
+    "boundingbox": [
+      "51.283073",
+      "51.283184",
+      "1.0844895",
+      "1.0846511"
+    ],
+    "lat": "51.2831403",
+    "lon": "1.0845546033122",
+    "display_name": "Cityscape, 49, Northgate, St. Stephen's, Canterbury, Kent, South East, England, CT1 1BE, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  }
+]

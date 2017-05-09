@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160270144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "120027",
+    "boundingbox": [
+      "-4.2316871",
+      "16.0571269",
+      "-82.1243665",
+      "-66.8511906"
+    ],
+    "lat": "2.8894434",
+    "lon": "-73.7838919",
+    "display_name": "Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.89368562367303,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160737270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4047593",
+    "boundingbox": [
+      "3.0076846",
+      "3.8448472",
+      "-74.9083185",
+      "-74.4128442"
+    ],
+    "lat": "3.4271286",
+    "lon": "-74.700208290882",
+    "display_name": "Colombia, Huila, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160304448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "298213",
+    "boundingbox": [
+      "-20.3979999",
+      "-20.1499999",
+      "-48.8879999",
+      "-48.5060848"
+    ],
+    "lat": "-20.177429",
+    "lon": "-48.6872821",
+    "display_name": "Col\u00f4mbia, Microrregi\u00e3o de Barretos, Mesorregi\u00e3o de Ribeir\u00e3o Preto, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49192298193746,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4366209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473381644",
+    "boundingbox": [
+      "17.918889",
+      "17.958889",
+      "-94.8399999",
+      "-94.7999999"
+    ],
+    "lat": "17.938889",
+    "lon": "-94.8199999",
+    "display_name": "Colombia, Texistepec, Veracruz de Ignacio de la Llave, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6876512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703191309",
+    "boundingbox": [
+      "7.1999847",
+      "7.2399847",
+      "-75.3971367",
+      "-75.3571367"
+    ],
+    "lat": "7.2199847",
+    "lon": "-75.3771367",
+    "display_name": "Colombia, Valdivia, Antioquia, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6743126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703225481",
+    "boundingbox": [
+      "5.1838471",
+      "5.2238471",
+      "-75.0350615",
+      "-74.9950615"
+    ],
+    "lat": "5.2038471",
+    "lon": "-75.0150615",
+    "display_name": "Colombia, Fresno, Tolima, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53346425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4063545936",
+    "boundingbox": [
+      "12.5662125",
+      "12.6062125",
+      "-86.560626",
+      "-86.520626"
+    ],
+    "lat": "12.5862125",
+    "lon": "-86.540626",
+    "display_name": "Colombia, Larreynaga, Le\u00f3n, 22500, Nicaragua",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6779601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703514862",
+    "boundingbox": [
+      "1.3987034",
+      "1.4187034",
+      "-69.8836966",
+      "-69.8636966"
+    ],
+    "lat": "1.4087034",
+    "lon": "-69.8736966",
+    "display_name": "Colombia, Mit\u00fa, Vaup\u00e9s, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6858142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703514842",
+    "boundingbox": [
+      "0.8243033",
+      "0.8443033",
+      "-69.223537",
+      "-69.203537"
+    ],
+    "lat": "0.8343033",
+    "lon": "-69.213537",
+    "display_name": "Colombia, Vaup\u00e9s, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6780120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703518024",
+    "boundingbox": [
+      "6.1096164",
+      "6.1296164",
+      "-68.9119254",
+      "-68.8919254"
+    ],
+    "lat": "6.1196164",
+    "lon": "-68.9019254",
+    "display_name": "Colombia, Vichada, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

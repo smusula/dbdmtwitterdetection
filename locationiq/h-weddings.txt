@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "50457102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3745206639",
+    "boundingbox": [
+      "-34.5797816",
+      "-34.5597816",
+      "19.4574192",
+      "19.4774192"
+    ],
+    "lat": "-34.5697816",
+    "lon": "19.4674192",
+    "display_name": "De Uijlenes Rustic Farm & Forest Weddings, Overstrand Local Municipality, Overberg District Municipality, Western Cape, South Africa",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "49953033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3717469938",
+    "boundingbox": [
+      "44.4286402",
+      "44.4287402",
+      "8.7508065",
+      "8.7509065"
+    ],
+    "lat": "44.4286902",
+    "lon": "8.7508565",
+    "display_name": "Specchiomagico Weddings, 11, Via Enrico Cialdini, Ponente, Genova, GE, LIG, 16158, Italia",
+    "class": "craft",
+    "type": "photographic_laboratory",
+    "importance": 0.101
+  },
+  {
+    "place_id": "152814799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "405875153",
+    "boundingbox": [
+      "51.4402216",
+      "51.4403513",
+      "-2.5543286",
+      "-2.5541721"
+    ],
+    "lat": "51.4402968",
+    "lon": "-2.55424005677608",
+    "display_name": "Enchanted Weddings & Events, Sandy Park Road, Brislington, Bristol, City of Bristol, South West England, England, BS4 3LP, UK",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "5886863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "600096786",
+    "boundingbox": [
+      "47.7407444",
+      "47.7408444",
+      "26.6525932",
+      "26.6526932"
+    ],
+    "lat": "47.7407944",
+    "lon": "26.6526432",
+    "display_name": "Nobless Weddings, Strada Virnav, Boto\u0219ani, 710174, Rom\u00e2nia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "36360305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2843666405",
+    "boundingbox": [
+      "10.3132115",
+      "10.3133115",
+      "123.9025853",
+      "123.9026853"
+    ],
+    "lat": "10.3132615",
+    "lon": "123.9026353",
+    "display_name": "Heavenly Weddings & Debuts Cebu, Gorordo Avenue, Mercado Compound, Cebu City, Cebu, Central Visayas, 6000, Philippines",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "15375184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1389426404",
+    "boundingbox": [
+      "50.8534523",
+      "50.8535523",
+      "-0.981033",
+      "-0.980933"
+    ],
+    "lat": "50.8535023",
+    "lon": "-0.980983",
+    "display_name": "House of Weddings, Prince George Street, Brockhampton, Bedhampton, Havant, Hampshire, South East, England, PO9 1PR, UK",
+    "class": "shop",
+    "type": "weddings",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24309769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2368332678",
+    "boundingbox": [
+      "53.0027987",
+      "53.0028987",
+      "-1.1575168",
+      "-1.1574168"
+    ],
+    "lat": "53.0028487",
+    "lon": "-1.1574668",
+    "display_name": "WOW! Wonders of Weddings, 208, Beckhampton Road, Bestwood Park Estate, City of Nottingham, East Midlands, England, NG5 5PT, UK",
+    "class": "shop",
+    "type": "wedding",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56595566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4407493990",
+    "boundingbox": [
+      "53.2348524",
+      "53.2349524",
+      "-1.4430756",
+      "-1.4429756"
+    ],
+    "lat": "53.2349024",
+    "lon": "-1.4430256",
+    "display_name": "Weddings by Dragonfly, 131, Chatsworth Road, Brockwell, Chesterfield, Derbyshire, East Midlands, England, S40 2AR, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "48835249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3627232369",
+    "boundingbox": [
+      "54.3308802",
+      "54.3309802",
+      "-2.7479496",
+      "-2.7478496"
+    ],
+    "lat": "54.3309302",
+    "lon": "-2.7478996",
+    "display_name": "Lilly Rose Weddings And Events, 138, Stricklandgate, Kendal, Kentrigg, South Lakeland, Cumbria, North West England, England, LA9 4QG, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50703826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3787628930",
+    "boundingbox": [
+      "53.6504383",
+      "53.6505383",
+      "-3.002917",
+      "-3.002817"
+    ],
+    "lat": "53.6504883",
+    "lon": "-3.002867",
+    "display_name": "Fantasy Weddings And Events, Bold Street, Birkdale, Southport, Sefton, North West England, England, PR9 0DD, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

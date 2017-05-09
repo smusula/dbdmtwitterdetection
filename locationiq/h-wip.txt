@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "52054414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3912949958",
+    "boundingbox": [
+      "11.6514546",
+      "11.6914546",
+      "76.3419141",
+      "76.3819141"
+    ],
+    "lat": "11.6714546",
+    "lon": "76.3619141",
+    "display_name": "wip, Wayanad, Kerala, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.385,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "152087076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402381306",
+    "boundingbox": [
+      "-6.3472086",
+      "-6.3253808",
+      "106.7595953",
+      "106.7668212"
+    ],
+    "lat": "-6.3364521",
+    "lon": "106.763418680429",
+    "display_name": "Bandar Udara Pondok Cabe, Jalan Cabe Raya, Pondok Cabe Ilir, Banten, 15418, Indonesia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.32301894165642,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "89199931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "112716817",
+    "boundingbox": [
+      "-0.9895271",
+      "-0.988189",
+      "-76.2208482",
+      "-76.2189898"
+    ],
+    "lat": "-0.98911455",
+    "lon": "-76.2201176413527",
+    "display_name": "WIP, Parroquia Cononaco, Cant\u00f3n Aguarico, Orellana, Ecuador",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "58935457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7564230",
+    "boundingbox": [
+      "51.921523",
+      "51.9217749",
+      "4.2534438",
+      "4.2539697"
+    ],
+    "lat": "51.9217013",
+    "lon": "4.2537261",
+    "display_name": "Wip, Maassluis, MRDH, Zuid-Holland, Nederland, 3142GL, Nederland",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59138376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7564427",
+    "boundingbox": [
+      "51.9217749",
+      "51.9217907",
+      "4.2539697",
+      "4.2541529"
+    ],
+    "lat": "51.9217749",
+    "lon": "4.2539697",
+    "display_name": "Wip, Maassluis, MRDH, Zuid-Holland, Nederland, 3142GE, Nederland",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "150906903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395925282",
+    "boundingbox": [
+      "16.2492152",
+      "16.2494109",
+      "-61.5396831",
+      "-61.539348"
+    ],
+    "lat": "16.2492722",
+    "lon": "-61.5394631943009",
+    "display_name": "wip, Boulevard Gerty Archim\u00e8de, Les Abymes, Pointe-\u00e0-Pitre, Guadeloupe, 97139;97142, France",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "94393999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131124061",
+    "boundingbox": [
+      "16.2396504",
+      "16.2398908",
+      "-61.5854906",
+      "-61.5852379"
+    ],
+    "lat": "16.2397706",
+    "lon": "-61.5853642714218",
+    "display_name": "wip, Rue Emmanuel Blandin, Baie-Mahault, Basse-Terre, Guadeloupe, 97122, France",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "91191658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119342373",
+    "boundingbox": [
+      "16.3079033",
+      "16.3079758",
+      "-61.7941844",
+      "-61.7941224"
+    ],
+    "lat": "16.30793955",
+    "lon": "-61.7941534",
+    "display_name": "wip, Boulevard des Poissonniers, Deshaies, Basse-Terre, Guadeloupe, 97126, France",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "150998689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396098477",
+    "boundingbox": [
+      "16.2400555",
+      "16.2401997",
+      "-61.5854879",
+      "-61.5853818"
+    ],
+    "lat": "16.2401276",
+    "lon": "-61.58543485",
+    "display_name": "wip, Boulevard Marquisat de Hou\u00eblbourg, Baie-Mahault, Basse-Terre, Guadeloupe, 97122, France",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "94366169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131125101",
+    "boundingbox": [
+      "16.2444693",
+      "16.2445693",
+      "-61.5548601",
+      "-61.5547719"
+    ],
+    "lat": "16.2445193",
+    "lon": "-61.5548158164502",
+    "display_name": "wip, D 24, Zone Industrielle de Jarry Hou\u00eblbourg, Baie-Mahault, Basse-Terre, Guadeloupe, 97122, France",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

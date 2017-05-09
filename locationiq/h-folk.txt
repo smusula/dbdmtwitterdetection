@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "377564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151765327",
+    "boundingbox": [
+      "38.4014262",
+      "38.4414262",
+      "-92.1179557",
+      "-92.0779557"
+    ],
+    "lat": "38.4214262",
+    "lon": "-92.0979557",
+    "display_name": "Folk, Osage County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "65558705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18386995",
+    "boundingbox": [
+      "39.4671015",
+      "39.4671945",
+      "-93.3396994",
+      "-93.3387877"
+    ],
+    "lat": "39.4671098",
+    "lon": "-93.3394277",
+    "display_name": "Folk, Bosworth, Carroll County, Missouri, 64623, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75963143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42825621",
+    "boundingbox": [
+      "33.7787938",
+      "33.7790349",
+      "-84.404981",
+      "-84.4047165"
+    ],
+    "lat": "33.77886745",
+    "lon": "-84.4048494926923",
+    "display_name": "Folk, Turner Place Northwest, Bellwood, Rockdale, Atlanta, Fulton County, Georgia, 30332, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "133016372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301111494",
+    "boundingbox": [
+      "51.5217745",
+      "51.5218737",
+      "-0.1187845",
+      "-0.118547"
+    ],
+    "lat": "51.5218228",
+    "lon": "-0.118665942054231",
+    "display_name": "Folk, 49, Lamb's Conduit Street, Holborn, St Giles, London Borough of Camden, London, Greater London, England, WC1N 3NB, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "133036042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301111489",
+    "boundingbox": [
+      "51.5218885",
+      "51.5219915",
+      "-0.1188465",
+      "-0.1186149"
+    ],
+    "lat": "51.5219429",
+    "lon": "-0.11873198012605",
+    "display_name": "Folk, 53, Lamb's Conduit Street, Holborn, St Giles, London Borough of Camden, London, Greater London, England, WC1N 3NB, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "127362422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "270425289",
+    "boundingbox": [
+      "51.5208878",
+      "51.5210407",
+      "-0.0729616",
+      "-0.0728409"
+    ],
+    "lat": "51.52096525",
+    "lon": "-0.0728986310635176",
+    "display_name": "Folk, Dray Walk, The Old Truman Brewery, Spitalfields, London Borough of Tower Hamlets, London, Greater London, England, E1 6RU, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "5840544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "599672135",
+    "boundingbox": [
+      "49.4111453",
+      "49.4112453",
+      "14.6747731",
+      "14.6748731"
+    ],
+    "lat": "49.4111953",
+    "lon": "14.6748231",
+    "display_name": "Folk, Bud\u011bjovick\u00e1, Mared\u016fv vrch, T\u00e1bor, okres T\u00e1bor, Jiho\u010desk\u00fd kraj, Jihoz\u00e1pad, 39002, \u010cesko",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "47799762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3473031878",
+    "boundingbox": [
+      "-7.7819863",
+      "-7.7818863",
+      "110.3920693",
+      "110.3921693"
+    ],
+    "lat": "-7.7819363",
+    "lon": "110.3921193",
+    "display_name": "Folk, Jalan Demangan Baru, Catur Tunggal, Catur tunggal, Depok, Sleman, Daerah Istimewa Yogyakarta, 55281, Indonesia",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

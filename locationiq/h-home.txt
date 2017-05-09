@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "145636819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368748863",
+    "boundingbox": [
+      "51.8368814",
+      "51.8425486",
+      "9.0524062",
+      "9.068893"
+    ],
+    "lat": "51.8393165",
+    "lon": "9.060277",
+    "display_name": "Home, Steinheim, Kreis H\u00f6xter, Regierungsbezirk Detmold, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "15374368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1402768296",
+    "boundingbox": [
+      "42.5516712",
+      "42.5517712",
+      "-80.1120133",
+      "-80.1119133"
+    ],
+    "lat": "42.5517212",
+    "lon": "-80.1119633",
+    "display_name": "The Home, Norfolk County, Ontario, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

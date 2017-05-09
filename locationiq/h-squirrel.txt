@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "38772581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2897408854",
+    "boundingbox": [
+      "52.3664322",
+      "52.3864322",
+      "-2.6770988",
+      "-2.6570988"
+    ],
+    "lat": "52.3764322",
+    "lon": "-2.6670988",
+    "display_name": "Squirrel, Henley, Shropshire, West Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "323332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150947400",
+    "boundingbox": [
+      "44.0071362",
+      "44.0471362",
+      "-111.3191165",
+      "-111.2791165"
+    ],
+    "lat": "44.0271362",
+    "lon": "-111.2991165",
+    "display_name": "Squirrel, Fremont County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61501825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11269834",
+    "boundingbox": [
+      "29.598875",
+      "29.599375",
+      "-81.6337229",
+      "-81.6337139"
+    ],
+    "lat": "29.599375",
+    "lon": "-81.6337229",
+    "display_name": "Squirrel, Lundy, Putnam County, Florida, 32187, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61214654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10859734",
+    "boundingbox": [
+      "29.982818",
+      "29.9846638",
+      "-82.6557161",
+      "-82.6556766"
+    ],
+    "lat": "29.982818",
+    "lon": "-82.6556766",
+    "display_name": "Squirrel, Columbia County, Florida, 32038, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62648757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12920451",
+    "boundingbox": [
+      "34.733937",
+      "34.7376089",
+      "-92.6414119",
+      "-92.6216823"
+    ],
+    "lat": "34.7362899",
+    "lon": "-92.6321697",
+    "display_name": "Squirrel, Saline County, Arkansas, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149919866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388949009",
+    "boundingbox": [
+      "49.8629017",
+      "49.8651831",
+      "-119.7230652",
+      "-119.715182"
+    ],
+    "lat": "49.8635106",
+    "lon": "-119.7198472",
+    "display_name": "Squirrel, West Kelowna, Regional District of Central Okanagan, British Columbia, Canada",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "137835180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "323144048",
+    "boundingbox": [
+      "40.982763",
+      "40.984548",
+      "-76.5916069",
+      "-76.5902169"
+    ],
+    "lat": "40.983471",
+    "lon": "-76.5906699",
+    "display_name": "Squirrel, Kaseville, Montour County, Pennsylvania, 17821, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "115206904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217820348",
+    "boundingbox": [
+      "-27.6341743",
+      "-27.6330197",
+      "152.800842",
+      "152.801636"
+    ],
+    "lat": "-27.6335509",
+    "lon": "152.801147",
+    "display_name": "Squirrel, Blackstone, Ipswich, Ipswich City, QLD, 4304, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2648030746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191327833",
+    "boundingbox": [
+      "51.5249238",
+      "51.5250646",
+      "-0.1978721",
+      "-0.1976408"
+    ],
+    "lat": "51.52498685",
+    "lon": "-0.197751248521671",
+    "display_name": "The Squirrel, 46, Chippenham Road, Maida Hill, City of Westminster, London, Greater London, England, W9 2AF, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "51351531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3819853900",
+    "boundingbox": [
+      "51.440636",
+      "51.440736",
+      "-2.6044331",
+      "-2.6043331"
+    ],
+    "lat": "51.440686",
+    "lon": "-2.6043831",
+    "display_name": "Squirrel, Hebron Road, Bedminster, Bristol, City of Bristol, South West England, England, BS3, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

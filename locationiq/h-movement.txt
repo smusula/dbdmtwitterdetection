@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "52606684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3996484001",
+    "boundingbox": [
+      "49.2679489",
+      "49.2680489",
+      "-123.1522207",
+      "-123.1521207"
+    ],
+    "lat": "49.2679989",
+    "lon": "-123.1521707",
+    "display_name": "Movement, 2078, West 4th Avenue, Kitsilano, Vancouver, Greater Vancouver Regional District, British Columbia, V6J, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "44850931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3201174955",
+    "boundingbox": [
+      "55.9481135",
+      "55.9482135",
+      "-3.1917213",
+      "-3.1916213"
+    ],
+    "lat": "55.9481635",
+    "lon": "-3.1916713",
+    "display_name": "Movement, Cowgate, Old Town, Edinburgh, City of Edinburgh, Scotland, EH1 1JJ, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53571198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4090696159",
+    "boundingbox": [
+      "51.5308197",
+      "51.5309197",
+      "9.9343199",
+      "9.9344199"
+    ],
+    "lat": "51.5308697",
+    "lon": "9.9343699",
+    "display_name": "Movement, 21, Nikolaistra\u00dfe, Innenstadt, G\u00f6ttingen, Landkreis G\u00f6ttingen, Niedersachsen, 37073, Deutschland, Europe",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "46493839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3343045508",
+    "boundingbox": [
+      "-15.7742871",
+      "-15.7741871",
+      "-47.885362",
+      "-47.885262"
+    ],
+    "lat": "-15.7742371",
+    "lon": "-47.885312",
+    "display_name": "Movement, CLN 304/305, SQN 305, Asa Norte, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70730-730, Brasil",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

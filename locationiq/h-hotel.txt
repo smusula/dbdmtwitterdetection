@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "80763902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "70835778",
+    "boundingbox": [
+      "44.1628951",
+      "44.1629832",
+      "4.619447",
+      "4.6196382"
+    ],
+    "lat": "44.1629516",
+    "lon": "4.61954467811497",
+    "display_name": "H\u00f4tel, Rue de la R\u00e9publique, Bagnols-sur-C\u00e8ze, Nimes, Gard, Occitanie, 30200, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.66934048807479
+  },
+  {
+    "place_id": "150477787",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "392691094",
+    "boundingbox": [
+      "10.3742432",
+      "10.3759506",
+      "-85.1234562",
+      "-85.1189256"
+    ],
+    "lat": "10.3748291",
+    "lon": "-85.12163",
+    "display_name": "Hotel, Cant\u00f3n Ca\u00f1as, Provincia Guanacaste, Costa Rica",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646151914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547731729",
+    "boundingbox": [
+      "46.1377549",
+      "46.1577549",
+      "11.5090788",
+      "11.5290788"
+    ],
+    "lat": "46.1477549",
+    "lon": "11.5190788",
+    "display_name": "Hotel, Scurelle, Comunit\u00e0 Valsugana e Tesino, TN, TAA, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6886946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703227645",
+    "boundingbox": [
+      "5.5274433",
+      "5.5474433",
+      "-73.2246163",
+      "-73.2046163"
+    ],
+    "lat": "5.5374433",
+    "lon": "-73.2146163",
+    "display_name": "El Hotel, Siachoque, Boyac\u00e1, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6900972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703340571",
+    "boundingbox": [
+      "4.8789305",
+      "4.8989305",
+      "-74.5269132",
+      "-74.5069132"
+    ],
+    "lat": "4.8889305",
+    "lon": "-74.5169132",
+    "display_name": "El Hotel, Bituima, Cundinamarca, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6778273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703233493",
+    "boundingbox": [
+      "1.442826",
+      "1.462826",
+      "-74.8025109",
+      "-74.7825109"
+    ],
+    "lat": "1.452826",
+    "lon": "-74.7925109",
+    "display_name": "EL HOTEL, Cartagena del Chair\u00e1, Caquet\u00e1, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6747452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703233227",
+    "boundingbox": [
+      "1.3993804",
+      "1.3994804",
+      "-74.8087679",
+      "-74.8086679"
+    ],
+    "lat": "1.3994304",
+    "lon": "-74.8087179",
+    "display_name": "Hotel, Cartagena del Chair\u00e1, Caquet\u00e1, Colombia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "136464974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316979759",
+    "boundingbox": [
+      "7.8202159",
+      "7.820888",
+      "-72.4562038",
+      "-72.4556666"
+    ],
+    "lat": "7.8204878",
+    "lon": "-72.4559584155924",
+    "display_name": "hotel, CEMEX, LA PARADA, Bucarasica, Norte de Santander, Colombia",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.31
+  },
+  {
+    "place_id": "118713467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231214526",
+    "boundingbox": [
+      "-16.9936456",
+      "-16.9934622",
+      "-65.2490606",
+      "-65.2489187"
+    ],
+    "lat": "-16.99358265",
+    "lon": "-65.248992742229",
+    "display_name": "hotel, Municipio Shinahota, Tiraque, CBA, Bolivia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.31
+  },
+  {
+    "place_id": "2651020274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220166149",
+    "boundingbox": [
+      "41.3983596",
+      "41.3996295",
+      "2.1997769",
+      "2.201314"
+    ],
+    "lat": "41.39896815",
+    "lon": "2.20043747044597",
+    "display_name": "(hotel), el Poblenou, Sant Mart\u00ed, Barcelona, BCN, CAT, 08005, Espa\u00f1a",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  }
+]

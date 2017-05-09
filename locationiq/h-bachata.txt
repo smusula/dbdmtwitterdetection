@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "1545227",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336150442",
+    "boundingbox": [
+      "28.9393333",
+      "28.9793333",
+      "-111.1456666",
+      "-111.1056666"
+    ],
+    "lat": "28.9593333",
+    "lon": "-111.1256666",
+    "display_name": "La Bachata, Hermosillo, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1483420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336167514",
+    "boundingbox": [
+      "30.8173333",
+      "30.8573333",
+      "-112.6081666",
+      "-112.5681666"
+    ],
+    "lat": "30.8373333",
+    "lon": "-112.5881666",
+    "display_name": "La Bachata, Caborca, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4304979",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "456930717",
+    "boundingbox": [
+      "47.3949915",
+      "47.3950915",
+      "0.6856167",
+      "0.6857167"
+    ],
+    "lat": "47.3950415",
+    "lon": "0.6856667",
+    "display_name": "Le Bachata, 2, Rue des Fusill\u00e9s, Blaise Pascal, Vieux Tours, Tours, Indre-et-Loire, Centre-Val de Loire, 37000, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15382958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1371788841",
+    "boundingbox": [
+      "9.9806659",
+      "9.9807659",
+      "-84.3795203",
+      "-84.3794203"
+    ],
+    "lat": "9.9807159",
+    "lon": "-84.3794703",
+    "display_name": "Licorera Atenas, Avenida 5, Santa Cecilia, Atenas, Cant\u00f3n Atenas, Provincia Alajuela, 20501, Costa Rica",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  }
+]

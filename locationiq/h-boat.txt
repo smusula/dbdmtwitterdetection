@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "2644747011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "455057752",
+    "boundingbox": [
+      "51.4899015",
+      "51.4899506",
+      "-0.2346796",
+      "-0.2344215"
+    ],
+    "lat": "51.48992715",
+    "lon": "-0.234552521530822",
+    "display_name": "boat, London Borough of Hammersmith and Fulham, London, Greater London, England, W12, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.31
+  },
+  {
+    "place_id": "105738154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177432568",
+    "boundingbox": [
+      "52.6365659",
+      "52.6377965",
+      "-3.0063216",
+      "-2.9990045"
+    ],
+    "lat": "52.6371811",
+    "lon": "-3.0021322",
+    "display_name": "BOAT, Worthen with Shelve, Worthen, Shropshire, West Midlands, England, SY5 9HT, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105778178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177432962",
+    "boundingbox": [
+      "52.6409056",
+      "52.6424286",
+      "-3.0830448",
+      "-3.0669934"
+    ],
+    "lat": "52.6421096",
+    "lon": "-3.07504",
+    "display_name": "BOAT, Worthen with Shelve, Marton, Shropshire, West Midlands, England, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105726896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177385225",
+    "boundingbox": [
+      "52.4606518",
+      "52.46198",
+      "-2.9816587",
+      "-2.9811002"
+    ],
+    "lat": "52.4612832",
+    "lon": "-2.9814307",
+    "display_name": "BOAT, Lydbury North, Lower Down, Shropshire, West Midlands, England, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105622186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177084616",
+    "boundingbox": [
+      "52.2966625",
+      "52.2982699",
+      "-3.2144434",
+      "-3.2117341"
+    ],
+    "lat": "52.2974699",
+    "lon": "-3.2129649",
+    "display_name": "BOAT, Llanfihangel Rhydithon, Powys, Wales, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105752894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177263091",
+    "boundingbox": [
+      "52.3101876",
+      "52.3218554",
+      "-3.1175687",
+      "-3.108572"
+    ],
+    "lat": "52.3175959",
+    "lon": "-3.1131436",
+    "display_name": "BOAT, Monaughty, Powys, Wales, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105693766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177084615",
+    "boundingbox": [
+      "52.2982699",
+      "52.3040919",
+      "-3.2117341",
+      "-3.1985604"
+    ],
+    "lat": "52.3014717",
+    "lon": "-3.205211",
+    "display_name": "BOAT, Bleddfa, Powys, Wales, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105648253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177042152",
+    "boundingbox": [
+      "52.2346103",
+      "52.2366703",
+      "-3.2657932",
+      "-3.2486064"
+    ],
+    "lat": "52.2351983",
+    "lon": "-3.2570867",
+    "display_name": "BOAT, Llandegley, Powys, Wales, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105682015",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177041136",
+    "boundingbox": [
+      "52.2273622",
+      "52.2276481",
+      "-3.3149956",
+      "-3.3032975"
+    ],
+    "lat": "52.2275584",
+    "lon": "-3.3092318",
+    "display_name": "BOAT, Bettws Disserth, Powys, Wales, UK",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65737983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17830695",
+    "boundingbox": [
+      "42.11594",
+      "42.116613",
+      "-84.6323469",
+      "-84.6316489"
+    ],
+    "lat": "42.116289",
+    "lon": "-84.6320303025543",
+    "display_name": "Boat, Pulaski, Jackson County, Michigan, 49241, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

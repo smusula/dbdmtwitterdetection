@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "8468863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "903023539",
+    "boundingbox": [
+      "10.4234769",
+      "10.4634769",
+      "-3.1466647",
+      "-3.1066647"
+    ],
+    "lat": "10.4434769",
+    "lon": "-3.1266647",
+    "display_name": "Hello, Gaoua, Poni, Sud-Ouest, Burkina Faso",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "64010797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15356344",
+    "boundingbox": [
+      "30.543624",
+      "30.543753",
+      "-98.4077609",
+      "-98.4073859"
+    ],
+    "lat": "30.543624",
+    "lon": "-98.4073859",
+    "display_name": "Hello, Horseshoe Bay, Llano County, Texas, 78657, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61577112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11342625",
+    "boundingbox": [
+      "27.048351",
+      "27.048734",
+      "-82.0825349",
+      "-82.0821399"
+    ],
+    "lat": "27.048456",
+    "lon": "-82.0824169",
+    "display_name": "Hello, North Port, Sarasota County, Florida, 33954, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130559639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289091588",
+    "boundingbox": [
+      "52.2281395",
+      "52.2282149",
+      "21.0024102",
+      "21.0026101"
+    ],
+    "lat": "52.2281786",
+    "lon": "21.0025130543651",
+    "display_name": "Hello, Galeria po\u0142udniowa, IV, \u015ar\u00f3dmie\u015bcie, Warszawa, mazowieckie, 00-118, Polska",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "57171212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4449707590",
+    "boundingbox": [
+      "53.5532338",
+      "53.5533338",
+      "9.9290604",
+      "9.9291604"
+    ],
+    "lat": "53.5532838",
+    "lon": "9.9291104",
+    "display_name": "Hello, 133, Bahrenfelder Stra\u00dfe, Ottensen, Altona, Hamburg, 22765, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647862425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4046034825",
+    "boundingbox": [
+      "53.5716504",
+      "53.5717504",
+      "9.9599845",
+      "9.9600845"
+    ],
+    "lat": "53.5717004",
+    "lon": "9.9600345",
+    "display_name": "Hello, 11, Weidenstieg, Eimsb\u00fcttel, Hamburg, 20259, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "29326465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2697735087",
+    "boundingbox": [
+      "34.0630884",
+      "34.0631884",
+      "-118.3093511",
+      "-118.3092511"
+    ],
+    "lat": "34.0631384",
+    "lon": "-118.3093011",
+    "display_name": "Hello, South Western Avenue, Country Club Park, Little Armenia, LA, Los Angeles County, California, 90020, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52940165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4017581823",
+    "boundingbox": [
+      "49.850627",
+      "49.850727",
+      "18.2674101",
+      "18.2675101"
+    ],
+    "lat": "49.850677",
+    "lon": "18.2674601",
+    "display_name": "Hello!, N\u00e1dra\u017en\u00ed, P\u0159\u00edvoz, Ostrava, okres Ostrava-m\u011bsto, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 70200, \u010cesko",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "22727339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2260266181",
+    "boundingbox": [
+      "49.5923273",
+      "49.5924273",
+      "17.2780485",
+      "17.2781485"
+    ],
+    "lat": "49.5923773",
+    "lon": "17.2780985",
+    "display_name": "Hello!, Jeremenkova, Hodolany, Olomouc, okres Olomouc, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 77900, \u010cesko",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "22513609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2253727103",
+    "boundingbox": [
+      "35.459826",
+      "35.459926",
+      "139.630526",
+      "139.630626"
+    ],
+    "lat": "35.459876",
+    "lon": "139.630576",
+    "display_name": "Hello, \u30b0\u30e9\u30f3\u30e2\u30fc\u30eb\u516c\u5712, \u897f\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 220-0012, \u65e5\u672c",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

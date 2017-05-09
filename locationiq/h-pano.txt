@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160705112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3725948",
+    "boundingbox": [
+      "-1.0634933",
+      "-0.7560401",
+      "-78.4272618",
+      "-77.836518"
+    ],
+    "lat": "-1.0199287",
+    "lon": "-77.866226",
+    "display_name": "Pano, Tena, Napo, Ecuador",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160965940",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6038429",
+    "boundingbox": [
+      "-1.0191479",
+      "-0.963977",
+      "-77.9372483",
+      "-77.8145255"
+    ],
+    "lat": "-1.0167172",
+    "lon": "-77.8768671",
+    "display_name": "Pano, Tena, Napo, Ecuador",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "45522152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3251862151",
+    "boundingbox": [
+      "45.9882199",
+      "45.9883199",
+      "13.5795506",
+      "13.5796506"
+    ],
+    "lat": "45.9882699",
+    "lon": "13.5796006",
+    "display_name": "Pano, Brda, Gori\u0161ka, Slovenija",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "16018947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1455833749",
+    "boundingbox": [
+      "42.2377544",
+      "42.2777544",
+      "0.2623925",
+      "0.3023925"
+    ],
+    "lat": "42.2577544",
+    "lon": "0.2823925",
+    "display_name": "Pano, La Ribagorza, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "677487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249596417",
+    "boundingbox": [
+      "-0.7533329",
+      "-0.7133329",
+      "-77.2199999",
+      "-77.1799999"
+    ],
+    "lat": "-0.7333329",
+    "lon": "-77.1999999",
+    "display_name": "Pano, Loreto, Orellana, Ecuador",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13407710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241895290",
+    "boundingbox": [
+      "42.4944887",
+      "42.5144887",
+      "-0.6822811",
+      "-0.6622811"
+    ],
+    "lat": "42.5044887",
+    "lon": "-0.6722811",
+    "display_name": "Pano, Jaca, La Jacetania, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48336922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3522192664",
+    "boundingbox": [
+      "-16.6630616",
+      "-16.6629616",
+      "-72.5608545",
+      "-72.5607545"
+    ],
+    "lat": "-16.6630116",
+    "lon": "-72.5608045",
+    "display_name": "Pano, Quilca, Caman\u00e1, Arequipa, Per\u00fa",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "43195818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3118451562",
+    "boundingbox": [
+      "7.0489671",
+      "7.0490671",
+      "-10.9083073",
+      "-10.9082073"
+    ],
+    "lat": "7.0490171",
+    "lon": "-10.9082573",
+    "display_name": "Panoe, Pando, Golakonneh, Grand Cape Mount County, Liberia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "52472798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3935445784",
+    "boundingbox": [
+      "43.0137014",
+      "43.0138014",
+      "-3.7093947",
+      "-3.7092947"
+    ],
+    "lat": "43.0137514",
+    "lon": "-3.7093447",
+    "display_name": "El Pa\u00f1o, Merindad de Sotoscueva, Las Merindades, Burgos, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "32463923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2769078987",
+    "boundingbox": [
+      "-24.3010006",
+      "-24.2610006",
+      "-65.4249114",
+      "-65.3849114"
+    ],
+    "lat": "-24.2810006",
+    "lon": "-65.4049114",
+    "display_name": "El Pa\u00f1o, Municipio de San Antonio, Departamento San Antonio, JJY, Argentina",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

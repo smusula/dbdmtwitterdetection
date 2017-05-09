@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160670123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3587017",
+    "boundingbox": [
+      "28.4508126",
+      "28.4525971",
+      "77.0927821",
+      "77.0958817"
+    ],
+    "lat": "28.45187735",
+    "lon": "77.0937521850642",
+    "display_name": "The Icon, Sector 43, Gurugram, Gurgaon District, Haryana, India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2608145745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "448183555",
+    "boundingbox": [
+      "5.5797857",
+      "5.5802836",
+      "-0.172379",
+      "-0.171805"
+    ],
+    "lat": "5.5800173",
+    "lon": "-0.172111542938029",
+    "display_name": "Icon, Cantonments, Accra, Accra Metropolitan, Greater Accra Region, 2335, Ghana",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "72755645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32488125",
+    "boundingbox": [
+      "14.5489556",
+      "14.5497962",
+      "121.0439546",
+      "121.0446668"
+    ],
+    "lat": "14.549479",
+    "lon": "121.04429651811",
+    "display_name": "The Icon, Fort Bonifacio, Taguig, Metro Manila, 1634, Philippines",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126222718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263506627",
+    "boundingbox": [
+      "10.7657033",
+      "10.766581",
+      "106.7025373",
+      "106.7034432"
+    ],
+    "lat": "10.76613005",
+    "lon": "106.702988395198",
+    "display_name": "ICON, Ph\u01b0\u1eddng 12, Qu\u1eadn 4, Tp HCM, 00084, Vi\u1ec7t Nam",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "62869256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13296339",
+    "boundingbox": [
+      "33.6692425",
+      "33.6708502",
+      "-117.647493",
+      "-117.6433642"
+    ],
+    "lat": "33.6696411",
+    "lon": "-117.6451934",
+    "display_name": "Icon, Foothill Ranch, Lake Forest, Orange County, California, 92610, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59416961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8682895",
+    "boundingbox": [
+      "42.677141",
+      "42.677161",
+      "-82.9865849",
+      "-82.9850899"
+    ],
+    "lat": "42.677141",
+    "lon": "-82.9865849",
+    "display_name": "Icon, Shelby Charter Township, Macomb County, Michigan, 48315, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "128471789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278053503",
+    "boundingbox": [
+      "40.7044999",
+      "40.7048023",
+      "-74.0110531",
+      "-74.0105039"
+    ],
+    "lat": "40.70465115",
+    "lon": "-74.0108171539563",
+    "display_name": "Icon, 26, South William Street, Southbridge Towers, Manhattan, New York County, NYC, New York, 10004, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47569491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3461510159",
+    "boundingbox": [
+      "50.0800346",
+      "50.0801346",
+      "14.4246581",
+      "14.4247581"
+    ],
+    "lat": "50.0800846",
+    "lon": "14.4247081",
+    "display_name": "The ICON, 1263/6, V J\u00e1m\u011b, Nov\u00e9 M\u011bsto, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 11000, \u010cesko",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "23659559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2330666536",
+    "boundingbox": [
+      "47.5023004",
+      "47.5024004",
+      "19.0331025",
+      "19.0332025"
+    ],
+    "lat": "47.5023504",
+    "lon": "19.0331525",
+    "display_name": "Icon, Hess Andr\u00e1s t\u00e9r, V\u00e1r, 1. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1014, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22200815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2205041423",
+    "boundingbox": [
+      "47.3714283",
+      "47.3715283",
+      "8.5399393",
+      "8.5400393"
+    ],
+    "lat": "47.3714783",
+    "lon": "8.5399893",
+    "display_name": "ICON, 1b, Augustinerhof, Lindenhof, Altstadt, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8022, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160988070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6148250",
+    "boundingbox": [
+      "42.7259355",
+      "43.0922543",
+      "21.0170784",
+      "21.1940387"
+    ],
+    "lat": "42.8774425",
+    "lon": "21.189301",
+    "display_name": "Lab, Komuna e Podujev\u00ebs, Rrafsh i Kosov\u00ebs, Rajoni i Prishtin\u00ebs (01), \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "132685980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "299418452",
+    "boundingbox": [
+      "48.3562722",
+      "48.3732259",
+      "16.9578766",
+      "16.9845899"
+    ],
+    "lat": "48.3631561",
+    "lon": "16.9721838",
+    "display_name": "L\u00e1b, Bratislavsk\u00fd kraj, Slovensko",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39087324663191,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160863324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5299936",
+    "boundingbox": [
+      "33.6771556",
+      "33.6776801",
+      "-117.886577",
+      "-117.8856594"
+    ],
+    "lat": "33.6772684",
+    "lon": "-117.886227175",
+    "display_name": "The Lab, Costa Mesa, Orange County, California, 92626, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160493191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2206961",
+    "boundingbox": [
+      "48.33441",
+      "48.3887907",
+      "16.904424",
+      "17.0159076"
+    ],
+    "lat": "48.36158975",
+    "lon": "16.9621004164531",
+    "display_name": "L\u00e1b, okres Malacky, Bratislavsk\u00fd kraj, Slovensko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160498909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2206921",
+    "boundingbox": [
+      "48.33441",
+      "48.3887907",
+      "16.904424",
+      "17.0159076"
+    ],
+    "lat": "48.36158975",
+    "lon": "16.9621004164531",
+    "display_name": "L\u00e1b, okres Malacky, Bratislavsk\u00fd kraj, Slovensko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "115819024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220632306",
+    "boundingbox": [
+      "46.4419723",
+      "46.4448383",
+      "11.4700298",
+      "11.473463"
+    ],
+    "lat": "46.4433375",
+    "lon": "11.4714889",
+    "display_name": "Lab, Masi di Cardano - Kardauner, Karneid - Cornedo all'Isarco, Salten-Schlern - Salto-Sciliar, BZ, TAA, 39053, Italia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66208401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19277310",
+    "boundingbox": [
+      "46.4048008",
+      "46.405939",
+      "-87.9828042",
+      "-87.9809233"
+    ],
+    "lat": "46.4053558",
+    "lon": "-87.9817783",
+    "display_name": "County Road LAB, Republic, Marquette County, Michigan, 49879, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98871690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151217191",
+    "boundingbox": [
+      "48.3562722",
+      "48.3726111",
+      "16.9662208",
+      "16.9839866"
+    ],
+    "lat": "48.36450895",
+    "lon": "16.9721926706263",
+    "display_name": "L\u00e1b, Bratislavsk\u00fd kraj, 90067, Slovensko",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "121666601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243769264",
+    "boundingbox": [
+      "1.0779631",
+      "1.0781159",
+      "34.1762402",
+      "34.1763904"
+    ],
+    "lat": "1.0780509",
+    "lon": "34.1763283238893",
+    "display_name": "lab, to soccer field, Mbale, Bugisa sub-region, Mbale, Eastern Region, 2021, Uganda",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2647326491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2742862207",
+    "boundingbox": [
+      "52.3636436",
+      "52.3637436",
+      "4.9126066",
+      "4.9127066"
+    ],
+    "lat": "52.3636936",
+    "lon": "4.9126566",
+    "display_name": "Lab, Nieuwe Achtergracht, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1018TV, Nederland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

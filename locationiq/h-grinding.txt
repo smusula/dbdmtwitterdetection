@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "75249229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40180173",
+    "boundingbox": [
+      "38.4211717",
+      "38.4285676",
+      "-120.64914",
+      "-120.6343341"
+    ],
+    "lat": "38.4248945",
+    "lon": "-120.643520347801",
+    "display_name": "Indian Grinding Rock State Historic Park, Pine Grove Volcano Road, Volcano, Amador County, California, 95665, United States of America",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.51538860112392
+  },
+  {
+    "place_id": "3160101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358813724",
+    "boundingbox": [
+      "37.9382088",
+      "37.9383088",
+      "-120.2577393",
+      "-120.2576393"
+    ],
+    "lat": "37.9382588",
+    "lon": "-120.2576893",
+    "display_name": "Grinding Rock 2018 Dam, Tuolumne County, California, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "144116282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361008616",
+    "boundingbox": [
+      "55.4889934",
+      "55.4908331",
+      "-2.7076419",
+      "-2.7053123"
+    ],
+    "lat": "55.4893992",
+    "lon": "-2.7071854",
+    "display_name": "Grinding Burn, Scottish Borders, Scotland, UK",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

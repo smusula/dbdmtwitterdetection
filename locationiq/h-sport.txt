@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "361845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151443035",
+    "boundingbox": [
+      "30.0349238",
+      "30.0749238",
+      "-90.6873121",
+      "-90.6473121"
+    ],
+    "lat": "30.0549238",
+    "lon": "-90.6673121",
+    "display_name": "Sport, St. James Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "135134632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310795958",
+    "boundingbox": [
+      "49.7692118",
+      "49.7698452",
+      "13.3598871",
+      "13.3604879"
+    ],
+    "lat": "49.7695442",
+    "lon": "13.360183317355",
+    "display_name": "Sport, Bolevec, Plze\u0148, okres Plze\u0148-m\u011bsto, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, 32300, \u010cesko",
+    "class": "landuse",
+    "type": "meadow",
+    "importance": 0.3
+  },
+  {
+    "place_id": "65266044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17847229",
+    "boundingbox": [
+      "42.393552",
+      "42.393981",
+      "-85.3918709",
+      "-85.3918409"
+    ],
+    "lat": "42.393552",
+    "lon": "-85.3918409",
+    "display_name": "Sport, Midland Park, Kalamazoo County, Michigan, 49060, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "131785521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295525525",
+    "boundingbox": [
+      "-38.6852701",
+      "-38.6843631",
+      "-72.0058776",
+      "-72.0052627"
+    ],
+    "lat": "-38.6852701",
+    "lon": "-72.0058776",
+    "display_name": "Sport, Vilc\u00fan, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "109292602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "193221204",
+    "boundingbox": [
+      "-33.5384568",
+      "-33.5376143",
+      "21.6863883",
+      "21.6888141"
+    ],
+    "lat": "-33.5384568",
+    "lon": "21.6888141",
+    "display_name": "Sport, Kannaland Ward 2, Kannaland Local Municipality, Eden District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609260508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4475759789",
+    "boundingbox": [
+      "36.6909355",
+      "36.6910355",
+      "-4.4622368",
+      "-4.4621368"
+    ],
+    "lat": "36.6909855",
+    "lon": "-4.4621868",
+    "display_name": "Sport, Calle Tuc\u00eddides, Sacaba Beach, Carretera de C\u00e1diz, M\u00e1laga, Andaluc\u00eda, 29004, Espa\u00f1a",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "130569186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289233027",
+    "boundingbox": [
+      "46.7266283",
+      "46.7268981",
+      "25.593264",
+      "25.5935209"
+    ],
+    "lat": "46.72673785",
+    "lon": "25.5933924246696",
+    "display_name": "Sport, Strada Stadionului, Vir\u00e1g, Gheorgheni, Harghita, 535500, Rom\u00e2nia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "17819677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1723020396",
+    "boundingbox": [
+      "46.0959069",
+      "46.0960069",
+      "7.2264518",
+      "7.2265518"
+    ],
+    "lat": "46.0959569",
+    "lon": "7.2265018",
+    "display_name": "Le Sport, 100, Route de Verbier Station, Dabon\u00e9, Bagnes, Entremont, Valais - Wallis, 1936, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135984613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314790671",
+    "boundingbox": [
+      "42.4687022",
+      "42.4692706",
+      "20.2737271",
+      "20.2743949"
+    ],
+    "lat": "42.4689916",
+    "lon": "20.2740591492925",
+    "display_name": "Sport, Agim Quni e Binak Ahmeti, Lagje Qestaj, Lagje Arasha, Komuna e Junikut, Rrafsh i Dukagjinit, Rajoni i Gjakov\u00ebs (07), 51050, \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86787743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103450411",
+    "boundingbox": [
+      "41.9281932",
+      "41.9298984",
+      "25.5692399",
+      "25.56928"
+    ],
+    "lat": "41.9291272",
+    "lon": "25.56928",
+    "display_name": "\u0421\u043f\u043e\u0440\u0442, \u0416.\u041a. \u041e\u0432\u0447\u0430\u0440\u0441\u043a\u0438, \u0425\u0430\u0441\u043a\u043e\u0432\u043e, \u041e\u0431\u043b\u0430\u0441\u0442 \u0425\u0430\u0441\u043a\u043e\u0432\u043e, 3, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

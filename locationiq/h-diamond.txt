@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160269316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126880",
+    "boundingbox": [
+      "41.274033",
+      "41.295849",
+      "-88.2693999",
+      "-88.2267369"
+    ],
+    "lat": "41.2886428",
+    "lon": "-88.2517286",
+    "display_name": "Diamond, Grundy County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42516713207519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "421211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154071774",
+    "boundingbox": [
+      "37.8051023",
+      "37.8451023",
+      "-82.1015184",
+      "-82.0615184"
+    ],
+    "lat": "37.8251023",
+    "lon": "-82.0815184",
+    "display_name": "Diamond, Logan County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "432771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154090451",
+    "boundingbox": [
+      "38.1948246",
+      "38.2348246",
+      "-81.5365063",
+      "-81.4965063"
+    ],
+    "lat": "38.2148246",
+    "lon": "-81.5165063",
+    "display_name": "Diamond, Kanawha County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153806358",
+    "boundingbox": [
+      "39.5914296",
+      "39.6314296",
+      "-87.186126",
+      "-87.146126"
+    ],
+    "lat": "39.6114296",
+    "lon": "-87.166126",
+    "display_name": "Diamond, Parke County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "462172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157632717",
+    "boundingbox": [
+      "41.0011751",
+      "41.0411751",
+      "-79.5028221",
+      "-79.4628221"
+    ],
+    "lat": "41.0211751",
+    "lon": "-79.4828221",
+    "display_name": "Diamond, Clarion County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "452705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158309052",
+    "boundingbox": [
+      "41.58728",
+      "41.62728",
+      "-79.8183875",
+      "-79.7783875"
+    ],
+    "lat": "41.60728",
+    "lon": "-79.7983875",
+    "display_name": "Diamond, Venango County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "391243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153503422",
+    "boundingbox": [
+      "34.2823159",
+      "34.3223159",
+      "-86.4163737",
+      "-86.3763737"
+    ],
+    "lat": "34.3023159",
+    "lon": "-86.3963737",
+    "display_name": "Diamond, Marshall County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "387791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151931165",
+    "boundingbox": [
+      "40.7430664",
+      "40.7830664",
+      "-92.985757",
+      "-92.945757"
+    ],
+    "lat": "40.7630664",
+    "lon": "-92.965757",
+    "display_name": "Diamond, Appanoose County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "439648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154114646",
+    "boundingbox": [
+      "34.654254",
+      "34.694254",
+      "-84.2960287",
+      "-84.2560287"
+    ],
+    "lat": "34.674254",
+    "lon": "-84.2760287",
+    "display_name": "Diamond, Gilmer County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "404990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153521307",
+    "boundingbox": [
+      "29.5154938",
+      "29.5554938",
+      "-89.7820102",
+      "-89.7420102"
+    ],
+    "lat": "29.5354938",
+    "lon": "-89.7620102",
+    "display_name": "Diamond, Plaquemines Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

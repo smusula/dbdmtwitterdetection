@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "201881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "38451000",
+    "boundingbox": [
+      "36.0022296",
+      "36.3222296",
+      "-86.934353",
+      "-86.614353"
+    ],
+    "lat": "36.1622296",
+    "lon": "-86.774353",
+    "display_name": "Nashville, Davidson County, Tennessee, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.75419946810391,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "340873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150953867",
+    "boundingbox": [
+      "38.5587952",
+      "38.5987952",
+      "-120.8652144",
+      "-120.8252144"
+    ],
+    "lat": "38.5787952",
+    "lon": "-120.8452144",
+    "display_name": "Nashville, El Dorado County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.46872296712835,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160275532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127371",
+    "boundingbox": [
+      "39.191623",
+      "39.222051",
+      "-86.2509459",
+      "-86.1929039"
+    ],
+    "lat": "39.2072708",
+    "lon": "-86.251101",
+    "display_name": "Nashville, Brown County, Indiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42673432905931,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "474713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158573315",
+    "boundingbox": [
+      "43.0572789",
+      "43.0972789",
+      "-78.8858706",
+      "-78.8458706"
+    ],
+    "lat": "43.0772789",
+    "lon": "-78.8658706",
+    "display_name": "Nashville, Wheatfield Town, Niagara County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40425174579944,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160268026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "124760",
+    "boundingbox": [
+      "38.326991",
+      "38.393874",
+      "-89.4051569",
+      "-89.3503229"
+    ],
+    "lat": "38.3434906",
+    "lon": "-89.3809782",
+    "display_name": "Nashville, Washington County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2609196503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "111443",
+    "boundingbox": [
+      "33.903023",
+      "33.980637",
+      "-93.8787669",
+      "-93.8247229"
+    ],
+    "lat": "33.9456692",
+    "lon": "-93.8471289",
+    "display_name": "Nashville, Howard County, Arkansas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40054222624232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160856319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5399795",
+    "boundingbox": [
+      "39.896924",
+      "39.901253",
+      "-76.8552426",
+      "-76.8490504"
+    ],
+    "lat": "39.8992656",
+    "lon": "-76.8524733",
+    "display_name": "Nashville, York County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "471692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158586408",
+    "boundingbox": [
+      "40.7767309",
+      "40.8167309",
+      "-78.9469764",
+      "-78.9069764"
+    ],
+    "lat": "40.7967309",
+    "lon": "-78.9269764",
+    "display_name": "Nashville, Indiana County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "431592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154297132",
+    "boundingbox": [
+      "39.9453317",
+      "39.9853317",
+      "-84.2996676",
+      "-84.2596676"
+    ],
+    "lat": "39.9653317",
+    "lon": "-84.2796676",
+    "display_name": "Nashville, Miami County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "449663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154324112",
+    "boundingbox": [
+      "40.0719924",
+      "40.1119924",
+      "-84.7644037",
+      "-84.7244037"
+    ],
+    "lat": "40.0919924",
+    "lon": "-84.7444037",
+    "display_name": "Nashville, Darke County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

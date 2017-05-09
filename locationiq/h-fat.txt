@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "2647398063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4575697102",
+    "boundingbox": [
+      "46.4373947",
+      "46.4773947",
+      "1.7452934",
+      "1.7852934"
+    ],
+    "lat": "46.4573947",
+    "lon": "1.7652934",
+    "display_name": "La Fat, La Ch\u00e2tre, Indre, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14088664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1271850642",
+    "boundingbox": [
+      "-9.9220986",
+      "-9.8820986",
+      "124.6090998",
+      "124.6490998"
+    ],
+    "lat": "-9.9020986",
+    "lon": "124.6290998",
+    "display_name": "Fat, Nusa Tenggara Timur, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "76154728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44175786",
+    "boundingbox": [
+      "36.7652153",
+      "36.7867217",
+      "-119.7362118",
+      "-119.7004503"
+    ],
+    "lat": "36.77616835",
+    "lon": "-119.719956716463",
+    "display_name": "Fresno Yosemite International Airport, East Andersen Avenue, Tarpey, Fresno County, California, 93727, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36899863577735,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "20781943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2075254084",
+    "boundingbox": [
+      "46.5466255",
+      "46.5467255",
+      "1.0252803",
+      "1.0253803"
+    ],
+    "lat": "46.5466755",
+    "lon": "1.0253303",
+    "display_name": "La Fat, Saint-Hilaire-sur-Benaize, Le Blanc, Indre, Centre-Val de Loire, 36370, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "145173696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366792221",
+    "boundingbox": [
+      "43.372378",
+      "43.3742056",
+      "12.1944302",
+      "12.195824"
+    ],
+    "lat": "43.3737132",
+    "lon": "12.195266808241",
+    "display_name": "FAT, Citt\u00e0 di Castello, PG, UMB, 060100, Italia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17079447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1613270336",
+    "boundingbox": [
+      "44.0743541",
+      "44.1143541",
+      "2.7834756",
+      "2.8234756"
+    ],
+    "lat": "44.0943541",
+    "lon": "2.8034756",
+    "display_name": "Le Fa\u00ebt, Millau, Aveyron, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651877345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4681821499",
+    "boundingbox": [
+      "20.51869",
+      "20.55869",
+      "104.12619",
+      "104.16619"
+    ],
+    "lat": "20.53869",
+    "lon": "104.14619",
+    "display_name": "\u0e9d\u0eb2\u0e94, \u0ea7\u0ebd\u0e87\u0ec4\u0e8a, \u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41361832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009112161",
+    "boundingbox": [
+      "45.9818689",
+      "46.0018689",
+      "10.374015",
+      "10.394015"
+    ],
+    "lat": "45.9918689",
+    "lon": "10.384015",
+    "display_name": "Faet, Ceto, Comunit\u00e0 montana della valle Camonica, BS, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "78303496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53214063",
+    "boundingbox": [
+      "51.0944424",
+      "51.0946428",
+      "16.9796396",
+      "16.9798281"
+    ],
+    "lat": "51.0944939",
+    "lon": "16.9797817",
+    "display_name": "FAT, Grabiszyn, Osiedle Grabiszyn-Grabiszynek, Wroc\u0142aw, dolno\u015bl\u0105skie, 53-237, Polska",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117377231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226443864",
+    "boundingbox": [
+      "25.5632385",
+      "25.5635075",
+      "-103.4822568",
+      "-103.4792201"
+    ],
+    "lat": "25.5633766",
+    "lon": "-103.4808266",
+    "display_name": "Fat, G\u00f3mez Palacio, Durango, 35070, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

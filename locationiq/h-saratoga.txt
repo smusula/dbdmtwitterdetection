@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160425477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1428790",
+    "boundingbox": [
+      "42.775459",
+      "43.3979655",
+      "-74.1600999",
+      "-73.5732711"
+    ],
+    "lat": "43.0833231",
+    "lon": "-73.8712154",
+    "display_name": "Saratoga County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55661225649534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160658900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3501739",
+    "boundingbox": [
+      "37.236015",
+      "37.296332",
+      "-122.0664409",
+      "-121.9894799"
+    ],
+    "lat": "37.2638324",
+    "lon": "-122.0230145",
+    "display_name": "Saratoga, Santa Clara County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.53320100873991,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160970633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6038984",
+    "boundingbox": [
+      "-33.4827797",
+      "-33.4683304",
+      "151.331473",
+      "151.3698106"
+    ],
+    "lat": "-33.4747221",
+    "lon": "151.3483333",
+    "display_name": "Saratoga, Gosford, Central Coast, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39977507250156,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "80084068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64910209",
+    "boundingbox": [
+      "49.4497404",
+      "49.4503977",
+      "1.0673958",
+      "1.0680756"
+    ],
+    "lat": "49.450088",
+    "lon": "1.06773654020852",
+    "display_name": "Intermarch\u00e9 Super, 186, Rue Am\u00e9d\u00e9e Dormoy, Quartier C\u00f4teaux Ouest, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.38987285223364,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2654132001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64916314",
+    "boundingbox": [
+      "49.4491415",
+      "49.44919",
+      "1.0674123",
+      "1.0675733"
+    ],
+    "lat": "49.4491659",
+    "lon": "1.06749299165103",
+    "display_name": "Intermarch\u00e9, 186, Rue de Constantine, Mont-Riboudet, Quartier Pasteur, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.38987285223364,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "2654237962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4736447531",
+    "boundingbox": [
+      "49.449882",
+      "49.449982",
+      "1.0678274",
+      "1.0679274"
+    ],
+    "lat": "49.449932",
+    "lon": "1.0678774",
+    "display_name": "Intermarch\u00e9 Location, 186, Rue de Constantine, Mont-Riboudet, Quartier Pasteur, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "amenity",
+    "type": "car_rental",
+    "importance": 0.38987285223364
+  },
+  {
+    "place_id": "2654132000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64907583",
+    "boundingbox": [
+      "49.4491135",
+      "49.4491714",
+      "1.0671162",
+      "1.0672456"
+    ],
+    "lat": "49.4491423",
+    "lon": "1.06718087590674",
+    "display_name": "Intermarch\u00e9, 186, Rue de Constantine, Mont-Riboudet, Quartier Pasteur, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.38987285223364
+  },
+  {
+    "place_id": "2654122699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4734933412",
+    "boundingbox": [
+      "49.4489677",
+      "49.4490677",
+      "1.0674373",
+      "1.0675373"
+    ],
+    "lat": "49.4490177",
+    "lon": "1.0674873",
+    "display_name": "Intermarch\u00e9, 186, Rue de Constantine, Mont-Riboudet, Quartier Pasteur, Rouen, Seine-Maritime, Normandie, 76000, France",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.38987285223364
+  },
+  {
+    "place_id": "160301300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "252276",
+    "boundingbox": [
+      "41.4366886",
+      "41.4707",
+      "-106.8437202",
+      "-106.7762789"
+    ],
+    "lat": "41.454962",
+    "lon": "-106.8064259",
+    "display_name": "Saratoga, Carbon County, Wyoming, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "369009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151573028",
+    "boundingbox": [
+      "43.8726423",
+      "43.9126423",
+      "-92.0902463",
+      "-92.0502463"
+    ],
+    "lat": "43.8926423",
+    "lon": "-92.0702463",
+    "display_name": "Saratoga, Winona County, Minnesota, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.37594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

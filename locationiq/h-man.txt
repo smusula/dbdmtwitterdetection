@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160972822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6041206",
+    "boundingbox": [
+      "54.0539576",
+      "54.4178705",
+      "-4.7946844",
+      "-4.3076852"
+    ],
+    "lat": "54.2358167",
+    "lon": "-4.51459864569825",
+    "display_name": "Isle of Man, Braddan, Middle, Isle of Man",
+    "class": "place",
+    "type": "island",
+    "importance": 0.71011383802528
+  },
+  {
+    "place_id": "160255316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62269",
+    "boundingbox": [
+      "53.845",
+      "54.5534288",
+      "-5.1707284",
+      "-3.965406"
+    ],
+    "lat": "54.1936805",
+    "lon": "-4.5591147",
+    "display_name": "Isle of Man",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71011383802528,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160258237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "76121",
+    "boundingbox": [
+      "43.5667023",
+      "43.6196136",
+      "-0.5405677",
+      "-0.4647455"
+    ],
+    "lat": "43.5852597",
+    "lon": "-0.5080679",
+    "display_name": "Mant, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40700, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.61712668068257,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "119346638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233759648",
+    "boundingbox": [
+      "53.3289621",
+      "53.3716772",
+      "-2.3157621",
+      "-2.2440022"
+    ],
+    "lat": "53.35034205",
+    "lon": "-2.28036821606314",
+    "display_name": "Manchester Airport, Viewing Mound, Ringway, Manchester, Greater Manchester, North West England, England, M90 1QX, UK",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.57999242056341,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "160374190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "593812",
+    "boundingbox": [
+      "-29.5339099",
+      "-28.7600599",
+      "25.71936",
+      "27.09448"
+    ],
+    "lat": "-29.1468699",
+    "lon": "26.3531686622544",
+    "display_name": "Mangaung Metropolitan Municipality, Free State, South Africa",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "95919282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137862323",
+    "boundingbox": [
+      "53.4769685",
+      "53.4778655",
+      "-2.2315386",
+      "-2.2304978"
+    ],
+    "lat": "53.47741975",
+    "lon": "-2.23083329492187",
+    "display_name": "Manchester Piccadilly, Store Street, Smithfield Gardens, Central Manchester, Manchester, Greater Manchester, North West England, England, M1 2PB, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.53028441000886,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "4800785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "529684498",
+    "boundingbox": [
+      "44.0028572",
+      "44.6428572",
+      "-76.741216",
+      "-76.101216"
+    ],
+    "lat": "44.3228572",
+    "lon": "-76.421216",
+    "display_name": "Isle of Man, Kingston, Ontario, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "117663604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227502895",
+    "boundingbox": [
+      "20.5641308",
+      "20.5914416",
+      "73.483472",
+      "73.5898812"
+    ],
+    "lat": "20.575536",
+    "lon": "73.5392099",
+    "display_name": "Man, Nashik, Maharashtra, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "132758076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "299906681",
+    "boundingbox": [
+      "20.3705571",
+      "20.4556653",
+      "76.4703702",
+      "76.6573187"
+    ],
+    "lat": "20.381856",
+    "lon": "76.5663487",
+    "display_name": "Man, Buld\u0101na, Buldana, Maharashtra, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "131776512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295476671",
+    "boundingbox": [
+      "20.5361625",
+      "20.568309",
+      "73.408539",
+      "73.483472"
+    ],
+    "lat": "20.556575",
+    "lon": "73.4462447",
+    "display_name": "Man, Vals\u0101d, Valsad, Gujarat, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  }
+]

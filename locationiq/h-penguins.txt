@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "2650997437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "471683924",
+    "boundingbox": [
+      "49.3007323",
+      "49.3007925",
+      "-123.1318711",
+      "-123.1317664"
+    ],
+    "lat": "49.30076885",
+    "lon": "-123.131826206274",
+    "display_name": "Penguins, Coal Harbour, Vancouver, Greater Vancouver Regional District, British Columbia, V6G, Canada",
+    "class": "landuse",
+    "type": "basin",
+    "importance": 0.3
+  },
+  {
+    "place_id": "53448563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4056340624",
+    "boundingbox": [
+      "54.6546013",
+      "54.6547013",
+      "-5.9435442",
+      "-5.9434442"
+    ],
+    "lat": "54.6546513",
+    "lon": "-5.9434942",
+    "display_name": "Penguins, Antrim Road, Shore Crescent, Low Wood, Belfast, County Antrim, Northern Ireland, BT15 5GP, UK",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "91134127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119243621",
+    "boundingbox": [
+      "45.5089889",
+      "45.5092257",
+      "-122.7145903",
+      "-122.7142604"
+    ],
+    "lat": "45.5090979",
+    "lon": "-122.714411222984",
+    "display_name": "Penguins, Wildlife Way, Portland Heights, Portland, Multnomah County, Oregon, 97221, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101391911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161624777",
+    "boundingbox": [
+      "43.0600279",
+      "43.0601513",
+      "-89.4099743",
+      "-89.4096444"
+    ],
+    "lat": "43.0600837",
+    "lon": "-89.4098100455275",
+    "display_name": "Penguins, Vilas Park Drive, Oakland Heights, Vilas, Madison, Dane County, Wisconsin, 53711, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "132477676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298735948",
+    "boundingbox": [
+      "41.5183389",
+      "41.518462",
+      "-93.6237528",
+      "-93.6236122"
+    ],
+    "lat": "41.5183969",
+    "lon": "-93.623682615794",
+    "display_name": "Penguins, Southwest 9th Street, Des Moines, Polk County, Iowa, 50315, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "87679899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107087139",
+    "boundingbox": [
+      "51.86366",
+      "51.8637634",
+      "0.8333",
+      "0.8336472"
+    ],
+    "lat": "51.86371255",
+    "lon": "0.833470978856638",
+    "display_name": "Penguins, Maldon Road, Stanway CP, Colchester, Essex, East of England, England, UK",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "95685712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136775603",
+    "boundingbox": [
+      "50.9495349",
+      "50.9498284",
+      "-1.5496969",
+      "-1.5493674"
+    ],
+    "lat": "50.94968935",
+    "lon": "-1.54953514307075",
+    "display_name": "Penguins, Paultons Park, Copythorne, New Forest, Hampshire, South East, England, UK",
+    "class": "tourism",
+    "type": "zoo",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_zoo.p.20.png"
+  },
+  {
+    "place_id": "87754939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107425033",
+    "boundingbox": [
+      "51.8518587",
+      "51.8524368",
+      "-0.5494973",
+      "-0.5489668"
+    ],
+    "lat": "51.8521537",
+    "lon": "-0.549218411334404",
+    "display_name": "Penguins, B4540, Whipsnade CP, Whipsnade, Central Bedfordshire, East of England, England, UK",
+    "class": "tourism",
+    "type": "zoo",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_zoo.p.20.png"
+  },
+  {
+    "place_id": "45746966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3256788506",
+    "boundingbox": [
+      "51.1879188",
+      "51.1880188",
+      "-2.2751585",
+      "-2.2750585"
+    ],
+    "lat": "51.1879688",
+    "lon": "-2.2751085",
+    "display_name": "Penguins, Lodge Road, Horningsham, Wiltshire, South West England, England, UK",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "120525231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239052347",
+    "boundingbox": [
+      "50.8239916",
+      "50.8240839",
+      "0.1649016",
+      "0.1650708"
+    ],
+    "lat": "50.8240408",
+    "lon": "0.164986332276119",
+    "display_name": "Penguins, A27, Berwick CP, Wealden, East Sussex, South East, England, BN26, UK",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  }
+]

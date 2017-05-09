@@ -1,0 +1,168 @@
+[
+  {
+    "place_id": "116409510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222795700",
+    "boundingbox": [
+      "57.5838232",
+      "57.6667405",
+      "51.6721254",
+      "51.8248332"
+    ],
+    "lat": "57.6082242",
+    "lon": "51.729158",
+    "display_name": "\u0421\u0443\u043d\u0434\u0430, \u041a\u0430\u043d\u0430\u0445\u0438\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0423\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "1444448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "331158174",
+    "boundingbox": [
+      "59.4519532",
+      "59.4919532",
+      "10.755729",
+      "10.795729"
+    ],
+    "lat": "59.4719532",
+    "lon": "10.775729",
+    "display_name": "Sunda, Moss, \u00d8stfold, Norge",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12142040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1157862396",
+    "boundingbox": [
+      "2.6118056",
+      "2.6518056",
+      "30.4383889",
+      "30.4783889"
+    ],
+    "lat": "2.6318056",
+    "lon": "30.4583889",
+    "display_name": "Sunda, Orientale, Ituri, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47746549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3470078520",
+    "boundingbox": [
+      "58.6590632",
+      "58.6990632",
+      "17.0452553",
+      "17.0852553"
+    ],
+    "lat": "58.6790632",
+    "lon": "17.0652553",
+    "display_name": "Sunda, Oxel\u00f6sunds kommun, Oxel\u00f6sund, Landskapet S\u00f6dermanland, S\u00f6dermanlands l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646776614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4562255489",
+    "boundingbox": [
+      "-34.9220635",
+      "-34.9219635",
+      "-57.9906823",
+      "-57.9905823"
+    ],
+    "lat": "-34.9220135",
+    "lon": "-57.9906323",
+    "display_name": "Sundae, Bv. 82, La Plata, Partido de La Plata, Bs. As., 1900, Argentina",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27774491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2608625664",
+    "boundingbox": [
+      "52.0663351",
+      "52.0664351",
+      "4.3876194",
+      "4.3877194"
+    ],
+    "lat": "52.0663851",
+    "lon": "4.3876694",
+    "display_name": "Sunda, 42, Dinkel, Food Center Forepark, Den Haag, MRDH, Zuid-Holland, Nederland, 2491CG, Nederland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.001
+  },
+  {
+    "place_id": "3886406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "415989750",
+    "boundingbox": [
+      "-8.5605556",
+      "-8.5604556",
+      "116.1093186",
+      "116.1094186"
+    ],
+    "lat": "-8.5605056",
+    "lon": "116.1093686",
+    "display_name": "sunda, Jl. Dokotan, Perum Puri Lestari, Kel. Rembiga, Kota Mataram, Kec. Selaparang, Nusa Tenggara Barat, 83122, Indonesia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "19282432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1888908898",
+    "boundingbox": [
+      "59.0602617",
+      "59.0603617",
+      "9.920665",
+      "9.920765"
+    ],
+    "lat": "59.0603117",
+    "lon": "9.920715",
+    "display_name": "Sunda, S\u00f8rlandske Hovedvei, Larvik, Vestfold, 3268, Norge",
+    "class": "natural",
+    "type": "bay",
+    "importance": 0.001
+  },
+  {
+    "place_id": "28114848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2625902054",
+    "boundingbox": [
+      "59.1187306",
+      "59.1188306",
+      "9.9240494",
+      "9.9241494"
+    ],
+    "lat": "59.1187806",
+    "lon": "9.9240994",
+    "display_name": "Sunda, Kjoseveien, Larvik, Vestfold, Norge",
+    "class": "natural",
+    "type": "bay",
+    "importance": 0.001
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "683072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "252634906",
+    "boundingbox": [
+      "45.4805207",
+      "45.4806207",
+      "9.1878258",
+      "9.1879258"
+    ],
+    "lat": "45.4805707",
+    "lon": "9.1878758",
+    "display_name": "Eataly Smeraldo, 10, Piazza 25 Aprile, Porta Garibaldi, Milano, MI, LOM, 20121, Italia",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.30436424356534
+  },
+  {
+    "place_id": "56496253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4397706291",
+    "boundingbox": [
+      "40.7100061",
+      "40.7101061",
+      "-74.0119703",
+      "-74.0118703"
+    ],
+    "lat": "40.7100561",
+    "lon": "-74.0119203",
+    "display_name": "Eataly, 101, Liberty Street, Battery Park City, Manhattan, New York County, NYC, New York, 10007, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2654657253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4746777521",
+    "boundingbox": [
+      "40.742163",
+      "40.742263",
+      "-73.9896301",
+      "-73.9895301"
+    ],
+    "lat": "40.742213",
+    "lon": "-73.9895801",
+    "display_name": "Eataly, 200, 5th Avenue, Flatiron, Manhattan, New York County, NYC, New York, 10010, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "14109383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1272606355",
+    "boundingbox": [
+      "40.7420798",
+      "40.7421798",
+      "-73.9896597",
+      "-73.9895597"
+    ],
+    "lat": "40.7421298",
+    "lon": "-73.9896097",
+    "display_name": "Eataly, West 24th Street, Chelsea, Manhattan, New York County, NYC, New York, 10011, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55451485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4311367189",
+    "boundingbox": [
+      "40.741788",
+      "40.741888",
+      "-73.9899466",
+      "-73.9898466"
+    ],
+    "lat": "40.741838",
+    "lon": "-73.9898966",
+    "display_name": "Eataly, 200, 5th Avenue, Flatiron, Manhattan, New York County, NYC, New York, 10010, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "113682636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210679989",
+    "boundingbox": [
+      "41.8918003",
+      "41.8923964",
+      "-87.6266114",
+      "-87.6258645"
+    ],
+    "lat": "41.8921019",
+    "lon": "-87.6262356929049",
+    "display_name": "Eataly, 43, East Ohio Street, Magnificent Mile, Chicago, Cook County, Illinois, 60611, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "29988091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2724212840",
+    "boundingbox": [
+      "43.7740498",
+      "43.7741498",
+      "11.2556322",
+      "11.2557322"
+    ],
+    "lat": "43.7740998",
+    "lon": "11.2556822",
+    "display_name": "Eataly, Via dei Martelli, Quartiere 1, Firenze, FI, TOS, 50122, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2645853159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96238045",
+    "boundingbox": [
+      "45.0349859",
+      "45.0357431",
+      "7.6668772",
+      "7.6682545"
+    ],
+    "lat": "45.0353498",
+    "lon": "7.66745407792168",
+    "display_name": "Eataly, Via Narzole, Nizza Millefonti, Circoscrizione 9, Torino, TO, PIE, 10126, Italia",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "16933846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1587090392",
+    "boundingbox": [
+      "44.4086399",
+      "44.4087399",
+      "8.9275428",
+      "8.9276428"
+    ],
+    "lat": "44.4086899",
+    "lon": "8.9275928",
+    "display_name": "Eataly, 15, Calata Cattaneo, Centro Est, Genova, GE, LIG, 16128, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "154516238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "416563739",
+    "boundingbox": [
+      "41.1374077",
+      "41.1376473",
+      "16.8364308",
+      "16.8375238"
+    ],
+    "lat": "41.1375459",
+    "lon": "16.8369785088166",
+    "display_name": "Eataly, Piazzale Vittorio Emanuele III, Municipio 3, Bari, BA, PUG, 70123, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

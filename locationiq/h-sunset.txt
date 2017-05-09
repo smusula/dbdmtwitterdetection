@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "325273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141040426",
+    "boundingbox": [
+      "39.2304459",
+      "39.2704459",
+      "-121.6719139",
+      "-121.6319139"
+    ],
+    "lat": "39.2504459",
+    "lon": "-121.6519139",
+    "display_name": "Sunset, Sutter County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.49107154876044,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160262453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "111116",
+    "boundingbox": [
+      "35.220012",
+      "35.230761",
+      "-90.2109289",
+      "-90.2007459"
+    ],
+    "lat": "35.2217558",
+    "lon": "-90.2056504",
+    "display_name": "Sunset, Crittenden County, Arkansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "419461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153839456",
+    "boundingbox": [
+      "25.6859354",
+      "25.7259354",
+      "-80.3722749",
+      "-80.3322749"
+    ],
+    "lat": "25.7059354",
+    "lon": "-80.3522749",
+    "display_name": "Sunset, Miami-Dade County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42023326301932,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72835785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33614654",
+    "boundingbox": [
+      "25.6913951",
+      "25.7165872",
+      "-80.3828513",
+      "-80.3335055"
+    ],
+    "lat": "25.7040213",
+    "lon": "-80.3522535627756",
+    "display_name": "Sunset, Miami-Dade County, Florida, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.42023326301932,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153691479",
+    "boundingbox": [
+      "44.9833017",
+      "45.0233017",
+      "-89.5120635",
+      "-89.4720635"
+    ],
+    "lat": "45.0033017",
+    "lon": "-89.4920635",
+    "display_name": "Sunset, Town of Easton, Marathon County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41110721079729,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19270608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1901758943",
+    "boundingbox": [
+      "46.8763753",
+      "46.8764753",
+      "-121.8912248",
+      "-121.8911248"
+    ],
+    "lat": "46.8764253",
+    "lon": "-121.8911748",
+    "display_name": "Sunset, Pierce County, Washington, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "458269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158381386",
+    "boundingbox": [
+      "40.3448137",
+      "40.3848137",
+      "-76.4374606",
+      "-76.3974606"
+    ],
+    "lat": "40.3648137",
+    "lon": "-76.4174606",
+    "display_name": "Sunset, Lebanon County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "489074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158633035",
+    "boundingbox": [
+      "38.606231",
+      "38.646231",
+      "-76.5977354",
+      "-76.5577354"
+    ],
+    "lat": "38.626231",
+    "lon": "-76.5777354",
+    "display_name": "Sunset, Calvert County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "355139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151369570",
+    "boundingbox": [
+      "37.5311517",
+      "37.5711517",
+      "-93.3276928",
+      "-93.2876928"
+    ],
+    "lat": "37.5511517",
+    "lon": "-93.3076928",
+    "display_name": "Sunset, Polk County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153599449",
+    "boundingbox": [
+      "36.5117321",
+      "36.5517321",
+      "-85.1802337",
+      "-85.1402337"
+    ],
+    "lat": "36.5317321",
+    "lon": "-85.1602337",
+    "display_name": "Sunset, Pickett County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

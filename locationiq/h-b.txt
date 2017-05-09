@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160255006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62422",
+    "boundingbox": [
+      "52.33826",
+      "52.67551",
+      "13.08835",
+      "13.76116"
+    ],
+    "lat": "52.5198535",
+    "lon": "13.4385964",
+    "display_name": "Berlin, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.92214979763087,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160426786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1632167",
+    "boundingbox": [
+      "-41.0368835",
+      "-33.2616118",
+      "-63.3927931",
+      "-56.6650496"
+    ],
+    "lat": "-36.3789924",
+    "lon": "-60.3855888",
+    "display_name": "Bs. As., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.69565231030311,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160478859",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1959820",
+    "boundingbox": [
+      "24.8939163",
+      "25.9152825",
+      "80.0960918",
+      "81.5558872"
+    ],
+    "lat": "25.4045994",
+    "lon": "80.7204706217592",
+    "display_name": "Banda, Uttar Pradesh, India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29559516",
+    "boundingbox": [
+      "32.4895761",
+      "32.5195761",
+      "-93.6741742",
+      "-93.6441742"
+    ],
+    "lat": "32.5045761",
+    "lon": "-93.6591742",
+    "display_name": "Barksdale Air Force Base, Security Road, Bossier City, Bossier Parish, Louisiana, 71110, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.55661225649534,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "1321775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "305640128",
+    "boundingbox": [
+      "-3.4497196",
+      "-3.4496196",
+      "122.7407346",
+      "122.7408346"
+    ],
+    "lat": "-3.4496696",
+    "lon": "122.7407846",
+    "display_name": "Laut Banda",
+    "class": "place",
+    "type": "sea",
+    "importance": 0.55085291315899
+  },
+  {
+    "place_id": "1446138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "316417259",
+    "boundingbox": [
+      "24.8608211",
+      "26.1408211",
+      "79.859762",
+      "81.139762"
+    ],
+    "lat": "25.5008211",
+    "lon": "80.499762",
+    "display_name": "B\u0101nda, Banda, Uttar Pradesh, India",
+    "class": "place",
+    "type": "county",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160371842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1078565",
+    "boundingbox": [
+      "47.0876002",
+      "47.1343744",
+      "17.7626192",
+      "17.8386033"
+    ],
+    "lat": "47.1222045",
+    "lon": "17.7806351",
+    "display_name": "B\u00e1nd, Veszpr\u00e9mi j\u00e1r\u00e1s, Veszpr\u00e9m megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54265146538601,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160328184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "405935",
+    "boundingbox": [
+      "-16.4195644",
+      "-10.3830525",
+      "-67.5621527",
+      "-61.5281233"
+    ],
+    "lat": "-13.9999999",
+    "lon": "-64.9999999",
+    "display_name": "BNI, Bolivia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53061480553244,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160584824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2908440",
+    "boundingbox": [
+      "-21.5917299",
+      "-16.410133",
+      "32.36672",
+      "34.5732343"
+    ],
+    "lat": "-19.0400994",
+    "lon": "33.4318137",
+    "display_name": "Manica, Mo\u00e7ambique",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5060896993339,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160571510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2761434",
+    "boundingbox": [
+      "51.1577108",
+      "51.1616063",
+      "12.2421566",
+      "12.2467906"
+    ],
+    "lat": "51.1609204",
+    "lon": "12.2458029118215",
+    "display_name": "B, Eulau, Elstertrebnitz, Pegau, Landkreis Leipzig, Sachsen, 04523, Deutschland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.50234598959543
+  }
+]

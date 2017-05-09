@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "237972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "49697635",
+    "boundingbox": [
+      "53.1960382",
+      "53.2360382",
+      "9.2772255",
+      "9.3172255"
+    ],
+    "lat": "53.2160382",
+    "lon": "9.2972255",
+    "display_name": "Sick, Samtgemeinde Zeven, Landkreis Rotenburg, Niedersachsen, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "104376104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172264127",
+    "boundingbox": [
+      "54.5835774",
+      "54.5863466",
+      "9.0401248",
+      "9.0434927"
+    ],
+    "lat": "54.5848038",
+    "lon": "9.0419208",
+    "display_name": "Sick, Bohmstedt, Mittleres Nordfriesland, Kreis Nordfriesland, Schleswig-Holstein, 25853, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "73238482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34837934",
+    "boundingbox": [
+      "54.5863466",
+      "54.5927711",
+      "9.0337874",
+      "9.0401248"
+    ],
+    "lat": "54.5895272",
+    "lon": "9.0371816",
+    "display_name": "Sick, Bohmstedt, Mittleres Nordfriesland, Kreis Nordfriesland, Schleswig-Holstein, 25853, Deutschland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98631486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150269649",
+    "boundingbox": [
+      "53.5579166",
+      "53.559451",
+      "8.8457523",
+      "8.8466843"
+    ],
+    "lat": "53.5587434",
+    "lon": "8.8462545",
+    "display_name": "Sick, Ringstedt, Geestland, Landkreis Cuxhaven, Niedersachsen, 27624, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609257141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115424183",
+    "boundingbox": [
+      "48.8143669",
+      "48.814688",
+      "2.6196288",
+      "2.620316"
+    ],
+    "lat": "48.81453595",
+    "lon": "2.61996495219431",
+    "display_name": "Sick, Chemin des Vaches, \u00c9merainville, Torcy, Seine-et-Marne, \u00cele-de-France, 77184, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55368162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4281094365",
+    "boundingbox": [
+      "49.0210868",
+      "49.0211868",
+      "8.4414012",
+      "8.4415012"
+    ],
+    "lat": "49.0211368",
+    "lon": "8.4414512",
+    "display_name": "Sick, 17, Albert-Nestler-Stra\u00dfe, TPK, Rintheim, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 76131, Deutschland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "102521570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165333981",
+    "boundingbox": [
+      "51.7495275",
+      "51.7498563",
+      "-0.3059679",
+      "-0.3056353"
+    ],
+    "lat": "51.74969235",
+    "lon": "-0.305804976913119",
+    "display_name": "SICK, Hedley Road, The Camp, St Albans, Hertfordshire, East of England, England, AL1 4TA, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "85964029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99508054",
+    "boundingbox": [
+      "50.8906366",
+      "50.8909219",
+      "4.2717093",
+      "4.2722491"
+    ],
+    "lat": "50.89079605",
+    "lon": "4.27196950899202",
+    "display_name": "SICK, Doornveld, Zellik, Asse, Halle-Vilvoorde, Vlaams-Brabant, Vlaanderen, 1731, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160540560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2382394",
+    "boundingbox": [
+      "47.7385819",
+      "47.7396453",
+      "17.5097762",
+      "17.5112229"
+    ],
+    "lat": "47.73921325",
+    "lon": "17.5105561038497",
+    "display_name": "Sick, F\u0151 \u00fat, Kunsziget, Gy\u0151ri j\u00e1r\u00e1s, Gy\u0151r-Moson-Sopron megye, Nyugat-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 9184, Magyarorsz\u00e1g",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4148061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "448638185",
+    "boundingbox": [
+      "53.2150166",
+      "53.2151166",
+      "9.296813",
+      "9.296913"
+    ],
+    "lat": "53.2150666",
+    "lon": "9.296863",
+    "display_name": "Sick, Bergstra\u00dfe, Gyhum, Samtgemeinde Zeven, Landkreis Rotenburg, Niedersachsen, 27404, Deutschland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

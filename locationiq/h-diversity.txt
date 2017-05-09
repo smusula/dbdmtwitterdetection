@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "51596371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3868863180",
+    "boundingbox": [
+      "40.9691637",
+      "40.9692637",
+      "-5.6626912",
+      "-5.6625912"
+    ],
+    "lat": "40.9692137",
+    "lon": "-5.6626412",
+    "display_name": "Diversity, 11,21, Calle el Arco, Salamanca, Centro, Salamanca, Campo de Salamanca, Salamanca, Castilla y Le\u00f3n, 37002, Espa\u00f1a",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20541856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2053794208",
+    "boundingbox": [
+      "42.7629412",
+      "42.7630412",
+      "-71.4682057",
+      "-71.4681057"
+    ],
+    "lat": "42.7629912",
+    "lon": "-71.4681557",
+    "display_name": "Diversity, Nashua River Walk, Nashville Historic District, Ward 3, Nashua, Hillsborough County, New Hampshire, 03060-03064, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2650876190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "266728732",
+    "boundingbox": [
+      "-38.1511753",
+      "-38.1507099",
+      "144.3601992",
+      "144.3607107"
+    ],
+    "lat": "-38.1508921",
+    "lon": "144.360488964105",
+    "display_name": "Diversity, Smythe Place, Geelong, City of Greater Geelong, Barwon South West, Victoria, 3220, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610120092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "276143119",
+    "boundingbox": [
+      "49.090238",
+      "49.090324",
+      "1.471177",
+      "1.4713069"
+    ],
+    "lat": "49.09027765",
+    "lon": "1.47124208676471",
+    "display_name": "The Diversity, Boulevard Edouard Isambard, Vernon, \u00c9vreux, Eure, Normandie, 27200, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "127965586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "274895226",
+    "boundingbox": [
+      "46.1916322",
+      "46.1920848",
+      "19.7822671",
+      "19.7831505"
+    ],
+    "lat": "46.19184165",
+    "lon": "19.7827190286297",
+    "display_name": "Diversity, D\u00e9li utca, \u00c1sotthalom, M\u00f3rahalmi j\u00e1r\u00e1s, Csongr\u00e1d megye, D\u00e9l-Alf\u00f6ld, Alf\u00f6ld \u00e9s \u00c9szak, 6783, Magyarorsz\u00e1g",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "150582604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "393521318",
+    "boundingbox": [
+      "-27.5342996",
+      "-27.5341283",
+      "151.9876471",
+      "151.9878272"
+    ],
+    "lat": "-27.5342239",
+    "lon": "151.9877412",
+    "display_name": "RocknRoll, Prince Henry Heights, Toowoomba, QLD, 4352, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "956494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "289533092",
+    "boundingbox": [
+      "47.0230766",
+      "47.0231766",
+      "28.8355387",
+      "28.8356387"
+    ],
+    "lat": "47.0231266",
+    "lon": "28.8355887",
+    "display_name": "Rock'n'roll, 134, Bulevardul \u0218tefan cel Mare, Centru, Chi\u0219in\u0103u, Municipiul Chi\u0219in\u0103u, 0222, Moldova",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "6095147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "622853881",
+    "boundingbox": [
+      "50.1350143",
+      "50.1351143",
+      "14.1026999",
+      "14.1027999"
+    ],
+    "lat": "50.1350643",
+    "lon": "14.1027499",
+    "display_name": "Rock\u00b4n\u00b4Roll, n\u00e1m\u011bst\u00ed S\u00edtn\u00e1, Kro\u010dehlavy, Kladno, okres Kladno, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, 27201, \u010cesko",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "21549309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2143204166",
+    "boundingbox": [
+      "55.7664677",
+      "55.7665677",
+      "37.6304197",
+      "37.6305197"
+    ],
+    "lat": "55.7665177",
+    "lon": "37.6304697",
+    "display_name": "\u0420\u043e\u043a'\u043d'\u0440\u043e\u043b\u043b, 1, \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u0421\u0440\u0435\u0442\u0435\u043d\u0441\u043a\u0438\u0435 \u0412\u043e\u0440\u043e\u0442\u0430, \u041c\u0435\u0449\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 107045, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "40373948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2971164997",
+    "boundingbox": [
+      "51.2860536",
+      "51.2861536",
+      "37.8055094",
+      "37.8056094"
+    ],
+    "lat": "51.2861036",
+    "lon": "37.8055594",
+    "display_name": "Rock'n'Roll, 5, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0413\u0443\u0431\u043a\u0438\u043d\u0430, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u041f\u0440\u0438\u0431\u043e\u0440\u043e\u0441\u0442\u0440\u043e\u0438\u0442\u0435\u043b\u044c, \u0421\u0442\u0430\u0440\u044b\u0439 \u041e\u0441\u043a\u043e\u043b, \u0421\u0442\u0430\u0440\u043e\u043e\u0441\u043a\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0411\u0435\u043b\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 309517, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2653945078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4730537622",
+    "boundingbox": [
+      "27.7629515",
+      "27.7630515",
+      "-15.5651984",
+      "-15.5650984"
+    ],
+    "lat": "27.7630015",
+    "lon": "-15.5651484",
+    "display_name": "Rock'n'Roll, 8, Calle San Cristobal de la Laguna, Playa del Ingl\u00e9s, San Bartolom\u00e9 de Tirajana, Las Palmas, Canarias, 35100, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

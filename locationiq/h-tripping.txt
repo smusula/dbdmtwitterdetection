@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "70263542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26622225",
+    "boundingbox": [
+      "55.6712318",
+      "55.6722975",
+      "-1.8066161",
+      "-1.8035659"
+    ],
+    "lat": "55.6712662",
+    "lon": "-1.805451",
+    "display_name": "Tripping Chare, Holy Island, Northumberland, North East England, England, TD15 2SA, UK",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "36111520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2836770274",
+    "boundingbox": [
+      "41.5594374",
+      "41.5595374",
+      "-72.7663255",
+      "-72.7662255"
+    ],
+    "lat": "41.5594874",
+    "lon": "-72.7662755",
+    "display_name": "Tripping Tree, (blue blazes), Meriden, New Haven County, Connecticut, 06450, United States of America",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.101
+  }
+]

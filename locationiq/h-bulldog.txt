@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "314560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "114202761",
+    "boundingbox": [
+      "-29.0580555",
+      "-29.0180555",
+      "152.4813889",
+      "152.5213889"
+    ],
+    "lat": "-29.0380555",
+    "lon": "152.5013889",
+    "display_name": "Bulldog, Clarence Valley, NSW, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160973941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6069737",
+    "boundingbox": [
+      "-29.0601175",
+      "-29.0047653",
+      "152.4229377",
+      "152.5741158"
+    ],
+    "lat": "-29.0324547",
+    "lon": "152.491393434893",
+    "display_name": "Bulldog, Clarence Valley, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "97264015",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143662129",
+    "boundingbox": [
+      "51.5596811",
+      "51.5602163",
+      "-1.7637133",
+      "-1.7628576"
+    ],
+    "lat": "51.55994665",
+    "lon": "-1.76329683679043",
+    "display_name": "The Bulldog, Walcot West, Swindon, South West England, England, UK",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "79396206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60231572",
+    "boundingbox": [
+      "51.6099727",
+      "51.6101717",
+      "-1.0928429",
+      "-1.0924841"
+    ],
+    "lat": "51.6101717",
+    "lon": "-1.0926907",
+    "display_name": "Bulldog, Benson, South Oxfordshire, Oxon, South East, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68021252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22001353",
+    "boundingbox": [
+      "37.712347",
+      "37.713226",
+      "-88.5661159",
+      "-88.5599099"
+    ],
+    "lat": "37.712857",
+    "lon": "-88.5634689",
+    "display_name": "Bulldog, Harrisburg, Saline County, Illinois, 62946, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59981953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9506958",
+    "boundingbox": [
+      "34.904194",
+      "34.904255",
+      "-83.9537459",
+      "-83.9532479"
+    ],
+    "lat": "34.904243",
+    "lon": "-83.9535179",
+    "display_name": "Bulldog, Pleasant Hill, Union County, Georgia, 30514, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "11221547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1039343925",
+    "boundingbox": [
+      "44.9558544",
+      "44.9559544",
+      "-93.2877602",
+      "-93.2876602"
+    ],
+    "lat": "44.9559044",
+    "lon": "-93.2877102",
+    "display_name": "The Bulldog, Lyndale Avenue South, Phillips, Minneapolis, Hennepin County, Minnesota, 55419, United States of America",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "6759801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "687547215",
+    "boundingbox": [
+      "44.9886457",
+      "44.9887457",
+      "-93.2549356",
+      "-93.2548356"
+    ],
+    "lat": "44.9886957",
+    "lon": "-93.2548856",
+    "display_name": "The Bulldog, East Hennepin Avenue, St Anthony East, Northeast, Minneapolis, Hennepin County, Minnesota, 55413, United States of America",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "87416758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "106256066",
+    "boundingbox": [
+      "49.426905",
+      "49.427018",
+      "2.08871",
+      "2.088952"
+    ],
+    "lat": "49.426951",
+    "lon": "2.08883236417713",
+    "display_name": "Bulldog, Rue Corr\u00e9us, Camard, Beauvais, Oise, Hauts-de-France, 60000, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54664036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4223626741",
+    "boundingbox": [
+      "35.1660943",
+      "35.1661943",
+      "136.903407",
+      "136.903507"
+    ],
+    "lat": "35.1661443",
+    "lon": "136.903457",
+    "display_name": "Bulldog, \u4e03\u9593\u753a\u901a\u308a, \u6804\u56db\u4e01\u76ee, \u4e2d\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 460-0008, \u65e5\u672c",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

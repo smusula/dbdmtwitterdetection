@@ -1,0 +1,111 @@
+[
+  {
+    "place_id": "82126673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80775553",
+    "boundingbox": [
+      "50.9826635",
+      "50.9853633",
+      "-2.2067386",
+      "-2.2012877"
+    ],
+    "lat": "50.9840271",
+    "lon": "-2.20410151952011",
+    "display_name": "Pugs Parlour, Melbury Abbas, North Dorset, Dorset, South West England, England, UK",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.3
+  },
+  {
+    "place_id": "62918059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13500454",
+    "boundingbox": [
+      "29.598439",
+      "29.599955",
+      "-90.6963349",
+      "-90.6958109"
+    ],
+    "lat": "29.599955",
+    "lon": "-90.6958109",
+    "display_name": "Pugs Court, Mechanicville, Terrebonne Parish, Louisiana, 70363, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116095666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221479133",
+    "boundingbox": [
+      "51.4517516",
+      "51.4521349",
+      "-2.5790738",
+      "-2.5784626"
+    ],
+    "lat": "51.4520792",
+    "lon": "-2.5785473",
+    "display_name": "Pugs Lane, Temple, Old Market, Bristol, City of Bristol, South West England, England, BS2, UK",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "143806633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "358908250",
+    "boundingbox": [
+      "38.5989054",
+      "38.6004341",
+      "-75.2891147",
+      "-75.2887151"
+    ],
+    "lat": "38.599735",
+    "lon": "-75.2889437",
+    "display_name": "Pugs Crossing, Oak Drive, Sussex County, Delaware, 19966, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "69580878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25334350",
+    "boundingbox": [
+      "51.0532397",
+      "51.0640049",
+      "-1.6100339",
+      "-1.6030274"
+    ],
+    "lat": "51.0588104",
+    "lon": "-1.6056367",
+    "display_name": "Pug's Hole, West Tytherley, Test Valley, Hampshire, South East, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.1
+  },
+  {
+    "place_id": "121881751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244611872",
+    "boundingbox": [
+      "50.7285814",
+      "50.7321848",
+      "-1.899754",
+      "-1.8960282"
+    ],
+    "lat": "50.7303792",
+    "lon": "-1.89753901184359",
+    "display_name": "Pug`s Hole, Rothesay Road, Talbot Woods, Talbot Village, Bournemouth, South West England, England, BH14, UK",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  }
+]

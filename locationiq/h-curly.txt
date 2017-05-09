@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "54332766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4158284038",
+    "boundingbox": [
+      "47.810742",
+      "47.850742",
+      "3.6195988",
+      "3.6595988"
+    ],
+    "lat": "47.830742",
+    "lon": "3.6395988",
+    "display_name": "Curly, Auxerre, Yonne, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "67578686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20779059",
+    "boundingbox": [
+      "33.919616",
+      "33.922148",
+      "-98.3123279",
+      "-98.3091259"
+    ],
+    "lat": "33.91973",
+    "lon": "-98.3098039",
+    "display_name": "Curly, Clay County, Texas, 76379, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62183368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12840852",
+    "boundingbox": [
+      "34.243334",
+      "34.243397",
+      "-92.1489269",
+      "-92.1467539"
+    ],
+    "lat": "34.243397",
+    "lon": "-92.1489269",
+    "display_name": "Curly, Donaldsonville, Jefferson County, Arkansas, 71602, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2610492254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454118143",
+    "boundingbox": [
+      "49.522316",
+      "49.525505",
+      "-115.7160437",
+      "-115.7088429"
+    ],
+    "lat": "49.523541",
+    "lon": "-115.7117399",
+    "display_name": "Curly, Regional District of East Kootenay, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "57157101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4443103137",
+    "boundingbox": [
+      "43.05486",
+      "43.05496",
+      "-87.9055578",
+      "-87.9054578"
+    ],
+    "lat": "43.05491",
+    "lon": "-87.9055078",
+    "display_name": "Curly, North Commerce Street, Beerline B, Milwaukee, Milwaukee County, Wisconsin, 53212, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "144094477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "360912778",
+    "boundingbox": [
+      "49.9141498",
+      "49.914218",
+      "19.0021777",
+      "19.0022349"
+    ],
+    "lat": "49.91418275",
+    "lon": "19.0022052382177",
+    "display_name": "Curly, Kolejowa, Centrum, Czechowice-Dziedzice, gmina Czechowice-Dziedzice, powiat bielski, \u015bl\u0105skie, Polska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

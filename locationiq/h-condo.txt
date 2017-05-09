@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "17885061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1738416761",
+    "boundingbox": [
+      "-6.4802412",
+      "-6.4402412",
+      "15.5231158",
+      "15.5631158"
+    ],
+    "lat": "-6.4602412",
+    "lon": "15.5431158",
+    "display_name": "Condo, U\u00edge, Angola",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127285114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269593250",
+    "boundingbox": [
+      "45.372597",
+      "45.3731855",
+      "-75.6238199",
+      "-75.6231808"
+    ],
+    "lat": "45.37289125",
+    "lon": "-75.6235003303288",
+    "display_name": "Condo, 3249, South Keys, Gloucester-Southgate, Ottawa, Ontario, K1G4J9, Canada",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "151291254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "397987542",
+    "boundingbox": [
+      "-1.8362611",
+      "-1.8344961",
+      "-80.7115049",
+      "-80.7082822"
+    ],
+    "lat": "-1.8353662",
+    "lon": "-80.7095882691855",
+    "display_name": "condo, Parroquia Manglaralto, Cant\u00f3n Santa Elena, Santa Elena, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "160556754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2377755",
+    "boundingbox": [
+      "48.4253696",
+      "48.4255315",
+      "-71.0184981",
+      "-71.017998"
+    ],
+    "lat": "48.4254505",
+    "lon": "-71.0182480470079",
+    "display_name": "condo, Rang Saint-Martin, Ville de Saguenay, Qu\u00e9bec, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "136444241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316896485",
+    "boundingbox": [
+      "40.5643153",
+      "40.5644171",
+      "-105.061229",
+      "-105.0611699"
+    ],
+    "lat": "40.5643708",
+    "lon": "-105.061199316292",
+    "display_name": "Condo, 1737B, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136514152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316896489",
+    "boundingbox": [
+      "40.5643341",
+      "40.5644373",
+      "-105.0609947",
+      "-105.0609305"
+    ],
+    "lat": "40.5643766",
+    "lon": "-105.060962584756",
+    "display_name": "Condo, 1731B, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136200379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315841475",
+    "boundingbox": [
+      "40.5638947",
+      "40.5639986",
+      "-105.0610047",
+      "-105.0609433"
+    ],
+    "lat": "40.56394665",
+    "lon": "-105.060973949855",
+    "display_name": "Condo, 1749B, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136276307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315841473",
+    "boundingbox": [
+      "40.5638947",
+      "40.5639986",
+      "-105.0610802",
+      "-105.0610043"
+    ],
+    "lat": "40.5639467",
+    "lon": "-105.061042174639",
+    "display_name": "Condo, 1749A, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136442608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316896486",
+    "boundingbox": [
+      "40.5643151",
+      "40.5644167",
+      "-105.0611703",
+      "-105.0610915"
+    ],
+    "lat": "40.5643659",
+    "lon": "-105.061130924951",
+    "display_name": "Condo, 1737C, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136516722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316896490",
+    "boundingbox": [
+      "40.564333",
+      "40.5644366",
+      "-105.0609319",
+      "-105.0608547"
+    ],
+    "lat": "40.5643853",
+    "lon": "-105.060893469762",
+    "display_name": "Condo, 1731C, Spring Meadows Court, Parkwood, Fort Collins, Larimer County, Colorado, 80525, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

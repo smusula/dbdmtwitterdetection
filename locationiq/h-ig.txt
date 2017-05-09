@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160448624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1681534",
+    "boundingbox": [
+      "45.8639108",
+      "46.0030848",
+      "14.4461024",
+      "14.5917282"
+    ],
+    "lat": "45.9592409",
+    "lon": "14.5276014",
+    "display_name": "Ig, Upravna Enota Ljubljana, Osrednjeslovenska, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55229997996523,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "103155988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167610228",
+    "boundingbox": [
+      "52.3492819",
+      "52.3498449",
+      "4.873587",
+      "4.8745611"
+    ],
+    "lat": "52.3495634",
+    "lon": "4.87407405",
+    "display_name": "Ignatiusgymnasium, 47, Jan van Eijckstraat, Apollobuurt, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1077LH, Nederland",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.33263829078643,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "78687683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56064358",
+    "boundingbox": [
+      "52.127076",
+      "52.1480454",
+      "15.7662265",
+      "15.8235878"
+    ],
+    "lat": "52.13754765",
+    "lon": "15.795221380428",
+    "display_name": "Port lotniczy Zielona G\u00f3ra-Babimost, 304, Karolewo, gmina Babimost, powiat zielonog\u00f3rski, lubuskie, Polska",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.33122765667354,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "87661265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107168232",
+    "boundingbox": [
+      "51.6653048",
+      "51.6670028",
+      "-3.0199531",
+      "-3.017564"
+    ],
+    "lat": "51.66619695",
+    "lon": "-3.01878614261585",
+    "display_name": "IG, Pontrhydyrun, Cwmbran, Torfaen, Wales, NP44, UK",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "12184947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1159197949",
+    "boundingbox": [
+      "62.9440339",
+      "62.9840339",
+      "39.3188507",
+      "39.3588507"
+    ],
+    "lat": "62.9640339",
+    "lon": "39.3388507",
+    "display_name": "\u0418\u0433, \u041f\u043b\u0435\u0441\u0435\u0446\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "78660019",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56015394",
+    "boundingbox": [
+      "53.3260837",
+      "53.3273303",
+      "-6.2268608",
+      "-6.2253301"
+    ],
+    "lat": "53.32674625",
+    "lon": "-6.22582602480106",
+    "display_name": "InterContinental Dublin, Merrion Road, Smotscourt, Pembroke East E ED, Dublin 4, Dublin, County Dublin, Leinster, D04, Ireland",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.25089190172262,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "11156499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042023488",
+    "boundingbox": [
+      "50.3770269",
+      "50.4070269",
+      "-125.1524571",
+      "-125.1224571"
+    ],
+    "lat": "50.3920269",
+    "lon": "-125.1374571",
+    "display_name": "Big Bay Seaplane Base, Big Bay, Strathcona Regional District, British Columbia, Canada",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "7323068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "797978414",
+    "boundingbox": [
+      "48.8758791",
+      "48.8759791",
+      "2.3586892",
+      "2.3587892"
+    ],
+    "lat": "48.8759291",
+    "lon": "2.3587392",
+    "display_name": "Holiday Inn : Gare de L'est, Rue du 8 Mai 1945, Porte-St-Martin, 10e, Paris, \u00cele-de-France, 75010, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "2654649223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2183039961",
+    "boundingbox": [
+      "40.7089186",
+      "40.7090186",
+      "-74.0091857",
+      "-74.0090857"
+    ],
+    "lat": "40.7089686",
+    "lon": "-74.0091357",
+    "display_name": "Holiday Inn New York City-Wall Street, 51, Nassau Street, Southbridge Towers, Manhattan, New York County, NYC, New York, 10038, United States of America",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "14338585",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1304575674",
+    "boundingbox": [
+      "51.4950462",
+      "51.4951462",
+      "-0.183813",
+      "-0.183713"
+    ],
+    "lat": "51.4950962",
+    "lon": "-0.183763",
+    "display_name": "Crowne Plaza Kensington, Cromwell Road, South Kensington, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW7 4SF, UK",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "42535251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3095044268",
+    "boundingbox": [
+      "41.0575102",
+      "41.0576102",
+      "-83.5898887",
+      "-83.5897887"
+    ],
+    "lat": "41.0575602",
+    "lon": "-83.5898387",
+    "display_name": "Metabolic Weightloss Clinic, Patriot Drive, Hunter's Crossing, Findlay, Hancock County, Ohio, 45840, United States of America",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53950666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4139127713",
+    "boundingbox": [
+      "41.2769742",
+      "41.2770742",
+      "-72.9904704",
+      "-72.9903704"
+    ],
+    "lat": "41.2770242",
+    "lon": "-72.9904204",
+    "display_name": "Medi Weightloss Clinic, 109, Boston Post Road, Orange, New Haven County, Connecticut, 06477, United States of America",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56129838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4383898028",
+    "boundingbox": [
+      "39.7756758",
+      "39.7757758",
+      "-75.7112531",
+      "-75.7111531"
+    ],
+    "lat": "39.7757258",
+    "lon": "-75.7112031",
+    "display_name": "Medi-Weightloss, Lantana Drive, Hockessin, Delaware, New Castle County, Delaware, 19707, United States of America",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  }
+]

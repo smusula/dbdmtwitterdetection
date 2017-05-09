@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160866111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5606346",
+    "boundingbox": [
+      "25.2237858",
+      "25.5211688",
+      "-100.530883",
+      "-100.0313141"
+    ],
+    "lat": "25.37210935",
+    "lon": "-100.260652048285",
+    "display_name": "Santiago, Nuevo Le\u00f3n, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160299196",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "242308",
+    "boundingbox": [
+      "-29.39598",
+      "-28.8079999",
+      "-55.1323988",
+      "-54.366631"
+    ],
+    "lat": "-29.1896749",
+    "lon": "-54.8666239",
+    "display_name": "Santiago, Microrregi\u00e3o de Santiago, Mesorregi\u00e3o Centro-Ocidental Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52860758955174,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "689296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "250447778",
+    "boundingbox": [
+      "19.2902926",
+      "19.6102926",
+      "-70.8506111",
+      "-70.5306111"
+    ],
+    "lat": "19.4502926",
+    "lon": "-70.6906111",
+    "display_name": "Santiago de los Caballeros, Santiago, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "city",
+    "importance": 0.527581015601,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160283683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "164609",
+    "boundingbox": [
+      "-33.4784735",
+      "-33.4265435",
+      "-70.6920165",
+      "-70.6249962"
+    ],
+    "lat": "-33.4377967",
+    "lon": "-70.650445",
+    "display_name": "Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, Chile",
+    "class": "place",
+    "type": "city",
+    "importance": 0.49263722257725,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160403751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1382083",
+    "boundingbox": [
+      "14.8999393",
+      "15.340184",
+      "-23.7816216",
+      "-23.4283475"
+    ],
+    "lat": "15.1200865",
+    "lon": "-23.6348146123548",
+    "display_name": "Santiago, Santa Catarina, Cabo Verde",
+    "class": "place",
+    "type": "island",
+    "importance": 0.46355694018077
+  },
+  {
+    "place_id": "160645082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3412920",
+    "boundingbox": [
+      "19.0256088",
+      "19.6511018",
+      "-71.2470418",
+      "-70.5477037"
+    ],
+    "lat": "19.3286702",
+    "lon": "-70.9033941",
+    "display_name": "Santiago, Rep\u00fablica Dominicana",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45924466365066,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160973720",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6334599",
+    "boundingbox": [
+      "40.4039481",
+      "40.4362727",
+      "-7.7536663",
+      "-7.717259"
+    ],
+    "lat": "40.4238127",
+    "lon": "-7.7283788",
+    "display_name": "Santiago, Seia, Guarda, Serra da Estrela, Centro, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160773399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4467833",
+    "boundingbox": [
+      "18.3837361",
+      "18.4165276",
+      "-66.8545069",
+      "-66.8106045"
+    ],
+    "lat": "18.4002098",
+    "lon": "-66.8351380515283",
+    "display_name": "Santiago, Camuy, Puerto Rico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161016860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6445170",
+    "boundingbox": [
+      "38.4374318",
+      "38.4535152",
+      "-9.1118703",
+      "-9.0837934"
+    ],
+    "lat": "38.4454915",
+    "lon": "-9.09947272431808",
+    "display_name": "Santiago, Sesimbra, Set\u00fabal, Pen\u00ednsula de Set\u00fabal, \u00c1rea Metropolitana de Lisboa, Portugal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160702960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3651153",
+    "boundingbox": [
+      "-3.8641167",
+      "-3.7165878",
+      "-79.348268",
+      "-79.2034536"
+    ],
+    "lat": "-3.7939048",
+    "lon": "-79.281772",
+    "display_name": "Santiago, Loja, Ecuador",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

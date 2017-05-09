@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "478368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158654416",
+    "boundingbox": [
+      "41.8520118",
+      "41.8920118",
+      "-77.8572183",
+      "-77.8172183"
+    ],
+    "lat": "41.8720118",
+    "lon": "-77.8372183",
+    "display_name": "Gold, Potter County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "834514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "271077908",
+    "boundingbox": [
+      "54.4044929",
+      "54.4444929",
+      "11.0780486",
+      "11.1180486"
+    ],
+    "lat": "54.4244929",
+    "lon": "11.0980486",
+    "display_name": "Gold, Kreis Ostholstein, Schleswig-Holstein, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "422722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153905533",
+    "boundingbox": [
+      "35.7731842",
+      "35.8131842",
+      "-81.7820445",
+      "-81.7420445"
+    ],
+    "lat": "35.7931842",
+    "lon": "-81.7620445",
+    "display_name": "Gold, Burke County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "340439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150956929",
+    "boundingbox": [
+      "40.8955005",
+      "40.9155005",
+      "-111.8996603",
+      "-111.8796603"
+    ],
+    "lat": "40.9055005",
+    "lon": "-111.8896603",
+    "display_name": "Gold, Bountiful, Davis County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "85788629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98699613",
+    "boundingbox": [
+      "38.277862",
+      "38.2907719",
+      "-0.5899068",
+      "-0.5368163"
+    ],
+    "lat": "38.2844177",
+    "lon": "-0.56575274219804",
+    "display_name": "Aeropuerto de Alicante-Elche, Carretera de Torrellano a l'Altet, Torrellano, Elche/Elx, Bajo Vinalop\u00f3, Alicante/Alacant, Comunitat Valenciana, 03320, Espa\u00f1a",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.32621598500338,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "159117371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "440760232",
+    "boundingbox": [
+      "4.2765538",
+      "4.2839147",
+      "-54.4741653",
+      "-54.4701098"
+    ],
+    "lat": "4.2802931",
+    "lon": "-54.4718823583476",
+    "display_name": "Gold, Sipaliwini, Suriname",
+    "class": "landuse",
+    "type": "quarry",
+    "importance": 0.3
+  }
+]

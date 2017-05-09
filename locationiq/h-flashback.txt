@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "90557483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117025083",
+    "boundingbox": [
+      "42.0397417",
+      "42.0404835",
+      "-72.6151469",
+      "-72.6146883"
+    ],
+    "lat": "42.0400942",
+    "lon": "-72.6148626",
+    "display_name": "Flashback, Main Street, Agawam, Hampden County, Massachusetts, 01001, United States of America",
+    "class": "railway",
+    "type": "monorail",
+    "importance": 0.34591738766298
+  },
+  {
+    "place_id": "12974251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1211571836",
+    "boundingbox": [
+      "32.7567413",
+      "32.7568413",
+      "-97.0664542",
+      "-97.0663542"
+    ],
+    "lat": "32.7567913",
+    "lon": "-97.0664042",
+    "display_name": "Flashback!, 2201, Road To Six Flags East, Arlington, Tarrant County, Texas, 76011, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "49798612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3707915827",
+    "boundingbox": [
+      "51.32537",
+      "51.32547",
+      "9.5031845",
+      "9.5032845"
+    ],
+    "lat": "51.32542",
+    "lon": "9.5032345",
+    "display_name": "Flashback, 68, Westring, Lucius-Burckhardt-Platz, Nord (Holland), Kassel, Regierungsbezirk Kassel, Hessen, 34127, Deutschland, Europe",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4466058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "483425084",
+    "boundingbox": [
+      "43.1228706",
+      "43.1229706",
+      "5.8267318",
+      "5.8268318"
+    ],
+    "lat": "43.1229206",
+    "lon": "5.8267818",
+    "display_name": "Le Flashback, Route de la Gare, La Cacoye, Ollioules, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83190, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

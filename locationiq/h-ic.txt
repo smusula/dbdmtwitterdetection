@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "138424102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326477395",
+    "boundingbox": [
+      "23.4117739",
+      "23.412132",
+      "85.4408101",
+      "85.4414052"
+    ],
+    "lat": "23.41196305",
+    "lon": "85.4411073645787",
+    "display_name": "IC, Ranchi, R\u0101nch\u012b, Ranchi, Jharkhand, 835215, India",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157168398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "430409633",
+    "boundingbox": [
+      "6.2059168",
+      "6.2062581",
+      "1.4863515",
+      "1.4865432"
+    ],
+    "lat": "6.20609035",
+    "lon": "1.48643910177174",
+    "display_name": "Ic, Agbodrafo, R\u00e9gion Maritime, Togo",
+    "class": "landuse",
+    "type": "allotments",
+    "importance": 0.3
+  },
+  {
+    "place_id": "122093932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245855232",
+    "boundingbox": [
+      "27.7935061",
+      "27.811062",
+      "114.2928374",
+      "114.3191263"
+    ],
+    "lat": "27.80230585",
+    "lon": "114.307138388346",
+    "display_name": "\u5b9c\u6625\u660e\u6708\u5c71\u673a\u573a, \u9526\u7ee3\u5927\u9053, \u5b9c\u6625\u5e02, \u8881\u5dde\u533a (Yuanzhou), \u5b9c\u6625\u5e02 / Yichun, \u6c5f\u897f\u7701, \u4e2d\u56fd",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.20803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "153970849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "413075331",
+    "boundingbox": [
+      "35.1048248",
+      "35.1055736",
+      "118.3469924",
+      "118.3480565"
+    ],
+    "lat": "35.105197",
+    "lon": "118.347523279683",
+    "display_name": "iEC, \u67f3\u9752\u8857\u9053, \u5170\u5c71\u533a (Lanshan), \u4e34\u6c82, \u5c71\u4e1c\u7701, 276000, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108827022",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191185753",
+    "boundingbox": [
+      "41.2275225",
+      "41.2339475",
+      "-95.8677527",
+      "-95.8652043"
+    ],
+    "lat": "41.2304487",
+    "lon": "-95.8658087",
+    "display_name": "Indian Creek Trail, Council Bluffs, Pottawattamie County, Iowa, 51501, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "108811515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191173882",
+    "boundingbox": [
+      "41.2188996",
+      "41.2206648",
+      "-95.8688489",
+      "-95.8686464"
+    ],
+    "lat": "41.2199069",
+    "lon": "-95.8686464",
+    "display_name": "Indian Creek Trail, Council Bluffs, Pottawattamie County, Iowa, 51501, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "103088558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167430495",
+    "boundingbox": [
+      "39.108626",
+      "39.1096473",
+      "-86.5430009",
+      "-86.5425273"
+    ],
+    "lat": "39.1089498",
+    "lon": "-86.5428324",
+    "display_name": "Clear Creek Trail, Clear Creek, Monroe County, Indiana, 47404, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "65352468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17455420",
+    "boundingbox": [
+      "39.1097364",
+      "39.1215213",
+      "-86.5424854",
+      "-86.5380347"
+    ],
+    "lat": "39.1148279",
+    "lon": "-86.5405222",
+    "display_name": "Bloomington Rail Trail, Clear Creek, Monroe County, Indiana, 47404, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "11017024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042037233",
+    "boundingbox": [
+      "-26.0121446",
+      "-25.9821446",
+      "32.9143518",
+      "32.9443518"
+    ],
+    "lat": "-25.9971446",
+    "lon": "32.9293518",
+    "display_name": "Inhaca Airport, Cidade de Maputo, Maputo, Mo\u00e7ambique",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.13061965013967,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "50632828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3786029099",
+    "boundingbox": [
+      "47.0621965",
+      "47.0622965",
+      "28.8461265",
+      "28.8462265"
+    ],
+    "lat": "47.0622465",
+    "lon": "28.8461765",
+    "display_name": "\u00eec, 2, Strada Ceucari, R\u00ee\u0219cani, Chi\u0219in\u0103u, Municipiul Chi\u0219in\u0103u, MD-2020, Moldova",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  }
+]

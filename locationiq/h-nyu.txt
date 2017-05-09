@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "87987730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108156090",
+    "boundingbox": [
+      "40.7258656",
+      "40.73286",
+      "-74.0013398",
+      "-73.9934041"
+    ],
+    "lat": "40.7292641",
+    "lon": "-73.9962681727708",
+    "display_name": "NYU, West 4th Street, Washington Square Village, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.70823130414847,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "160422564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1558556",
+    "boundingbox": [
+      "-19.3548664",
+      "-18.7534558",
+      "-170.1595028",
+      "-169.5647228"
+    ],
+    "lat": "-19.0536413",
+    "lon": "-169.861341",
+    "display_name": "Niu\u0113",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59897120697404,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "103192265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167863533",
+    "boundingbox": [
+      "41.3861721",
+      "41.3862823",
+      "2.1882111",
+      "2.1885055"
+    ],
+    "lat": "41.38624185",
+    "lon": "2.1883550283995",
+    "display_name": "Nyu, Pla\u00e7a de Joan Fiveller, Sant Pere, Santa Caterina i la Ribera, Ciutat Vella, Barcelona, BCN, CAT, 08003, Espa\u00f1a",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "144867186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365196847",
+    "boundingbox": [
+      "21.1665249",
+      "21.191443",
+      "94.9282511",
+      "94.9311505"
+    ],
+    "lat": "21.18393555",
+    "lon": "94.9301884477173",
+    "display_name": "\u1015\u102f\u1002\u1036\u100a\u1031\u102c\u1004\u103a\u200c\u1026\u1038\u101c\u1031\u1006\u102d\u1015\u103a, 9th Street, Aung Myay Thar Quarter, \u100a\u1031\u102c\u1004\u103a\u1026\u1038, Nyaung-U, \u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

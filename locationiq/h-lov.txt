@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "23981283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2353730623",
+    "boundingbox": [
+      "55.1439816",
+      "55.1839816",
+      "11.8359103",
+      "11.8759103"
+    ],
+    "lat": "55.1639816",
+    "lon": "11.8559103",
+    "display_name": "Lov, N\u00e6stved Kommune, Region Sj\u00e6lland, Danmark",
+    "class": "place",
+    "type": "village",
+    "importance": 0.33050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648568129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4602466196",
+    "boundingbox": [
+      "38.0288306",
+      "38.0688306",
+      "70.2127542",
+      "70.2527542"
+    ],
+    "lat": "38.0488306",
+    "lon": "70.2327542",
+    "display_name": "\u041b\u043e\u0432, \u0412\u0438\u043b\u043e\u044f\u0442\u0438 \u0425\u0430\u0442\u043b\u043e\u043d, \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "99706763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154821232",
+    "boundingbox": [
+      "26.9457537",
+      "26.9613526",
+      "-101.4844902",
+      "-101.4584556"
+    ],
+    "lat": "26.9520945",
+    "lon": "-101.471184151917",
+    "display_name": "Venustiano Carranza International Airport, Libramiento Carlos Salinas de Gortari, Monclova, Coahuila de Zaragoza, 25700, M\u00e9xico",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.26095925177046,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2609476824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4483358592",
+    "boundingbox": [
+      "45.7562791",
+      "45.7563791",
+      "4.8776998",
+      "4.8777998"
+    ],
+    "lat": "45.7563291",
+    "lon": "4.8777498",
+    "display_name": "LOV, Place des Maisons Neuves, Maisons-Neuves, Villeurbanne, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69100, France",
+    "class": "leisure",
+    "type": "hackerspace",
+    "importance": 0.101
+  },
+  {
+    "place_id": "882992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "279992466",
+    "boundingbox": [
+      "11.3785806",
+      "11.3885806",
+      "76.6997401",
+      "76.7097401"
+    ],
+    "lat": "11.3835806",
+    "lon": "76.7047401",
+    "display_name": "Lovedale, Lovedale Road, Lovedale, The Nilgiris, The Nilgiris district, Tamil Nadu, 643001, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2649734316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4630108490",
+    "boundingbox": [
+      "43.7759031",
+      "43.7760031",
+      "15.9415278",
+      "15.9416278"
+    ],
+    "lat": "43.7759531",
+    "lon": "15.9415778",
+    "display_name": "Lov, D33, \u010cogelji, \u0160ibensko-Kninska \u017eupanija, 22221, Hrvatska",
+    "class": "amenity",
+    "type": "hunting_stand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25072286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2420779238",
+    "boundingbox": [
+      "45.4637401",
+      "45.4638401",
+      "9.1872377",
+      "9.1873377"
+    ],
+    "lat": "45.4637901",
+    "lon": "9.1872877",
+    "display_name": "L\u00f8v, Via Victor Hugo, Cordusio, Municipio 1, Milano, MI, LOM, 20123, Italia",
+    "class": "shop",
+    "type": "construction",
+    "importance": 0.001
+  }
+]

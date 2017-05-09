@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "160325549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "391115",
+    "boundingbox": [
+      "45.8580234",
+      "47.0659678",
+      "-64.446016",
+      "-61.9648894"
+    ],
+    "lat": "46.3202067",
+    "lon": "-63.4594099",
+    "display_name": "Prince Edward Island, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58514337388655,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160430939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1656494",
+    "boundingbox": [
+      "75.8115",
+      "77.5618931",
+      "-122.9771127",
+      "-115.3432894"
+    ],
+    "lat": "76.6866657",
+    "lon": "-119.6897196361",
+    "display_name": "Prince Patrick Island, Northwest Territories, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.42464418581502
+  },
+  {
+    "place_id": "160365825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "963209",
+    "boundingbox": [
+      "40.8373014",
+      "40.9144667",
+      "28.9692355",
+      "29.1482181"
+    ],
+    "lat": "40.87625945",
+    "lon": "29.0910272621096",
+    "display_name": "Prens Adalar\u0131, Fettah sokak, Adalar, \u0130stanbul, Marmara B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "archipelago",
+    "importance": 0.30567999588715
+  },
+  {
+    "place_id": "59033055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7161160",
+    "boundingbox": [
+      "33.6775269",
+      "33.679049",
+      "-117.3921867",
+      "-117.3921196"
+    ],
+    "lat": "33.6775269",
+    "lon": "-117.3921196",
+    "display_name": "Princo Street, Alberhill Ranch, Menifee, Riverside County, California, 92530, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108065366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187807205",
+    "boundingbox": [
+      "24.7795879",
+      "24.7809253",
+      "120.9882384",
+      "120.989192"
+    ],
+    "lat": "24.78025655",
+    "lon": "120.9887963139",
+    "display_name": "\u5de8\u64d8\u79d1\u6280, 6, \u7814\u65b0\u56db\u8def, \u65b0\u7af9\u79d1\u5b78\u5de5\u696d\u5712\u5340, \u79d1\u5712\u91cc, \u57d4\u5c3e, \u6771\u5340, \u65b0\u7af9\u5e02, 30048, \u81fa\u7063",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

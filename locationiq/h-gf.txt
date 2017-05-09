@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160260464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "104072",
+    "boundingbox": [
+      "48.1151407",
+      "48.644851",
+      "16.5022558",
+      "16.9774454"
+    ],
+    "lat": "48.38003005",
+    "lon": "16.7157604310907",
+    "display_name": "Bezirk G\u00e4nserndorf, Nieder\u00f6sterreich, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37089725346413,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "157120853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "429991726",
+    "boundingbox": [
+      "10.4035864",
+      "10.4041523",
+      "76.19927",
+      "76.1999053"
+    ],
+    "lat": "10.4038576",
+    "lon": "76.1995916172477",
+    "display_name": "gf, Karuvannur-Kaaralam Road, Moorakanad, Thrissur, Kerala, 680711, India",
+    "class": "aeroway",
+    "type": "runway",
+    "importance": 0.111
+  },
+  {
+    "place_id": "21514549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117754333",
+    "boundingbox": [
+      "15.2045047",
+      "15.2046047",
+      "120.7080141",
+      "120.7081141"
+    ],
+    "lat": "15.2045547",
+    "lon": "120.7080641",
+    "display_name": "gf, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "127786558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "273321902",
+    "boundingbox": [
+      "50.1451873",
+      "50.1452964",
+      "8.6440436",
+      "8.6442275"
+    ],
+    "lat": "50.14525435",
+    "lon": "8.6441419694483",
+    "display_name": "Gf, Am Ginnheimer W\u00e4ldchen, Ginnheim, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60431, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "158736833",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438450107",
+    "boundingbox": [
+      "49.0061673",
+      "49.00621",
+      "8.4927255",
+      "8.4928024"
+    ],
+    "lat": "49.00618865",
+    "lon": "8.49276395125572",
+    "display_name": "Gf, Eisenbahnstra\u00dfe, Gr\u00f6tzingen, Thomashof, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 76229, Deutschland",
+    "class": "railway",
+    "type": "signal_box",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12687516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1176695367",
+    "boundingbox": [
+      "55.7776787",
+      "55.7777787",
+      "37.958876",
+      "37.958976"
+    ],
+    "lat": "55.7777287",
+    "lon": "37.958926",
+    "display_name": "GF, \u041b\u0435\u043e\u043d\u043e\u0432\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u043a\u0432\u0430\u0440\u0442\u0430\u043b \u0421\u043e\u043a\u043e\u043b\u043e\u0432\u043a\u0430, \u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0411\u0430\u043b\u0430\u0448\u0438\u0445\u0430, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 143982, \u0420\u0424",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144412999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362655245",
+    "boundingbox": [
+      "55.8648636",
+      "55.8661488",
+      "38.7776485",
+      "38.7791203"
+    ],
+    "lat": "55.86572655",
+    "lon": "38.7783651665202",
+    "display_name": "GF, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0433\u043e\u0440\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0433\u043e\u0440\u0441\u043a, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 142530, \u0420\u0424",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "144440317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362655244",
+    "boundingbox": [
+      "55.8848804",
+      "55.8851811",
+      "38.7950975",
+      "38.7956585"
+    ],
+    "lat": "55.8850358",
+    "lon": "38.7953812002916",
+    "display_name": "GF, \u0443\u043b\u0438\u0446\u0430 \u0411\u0443\u0434\u0451\u043d\u043d\u043e\u0433\u043e, \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0433\u043e\u0440\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0433\u043e\u0440\u0441\u043a, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 142530, \u0420\u0424",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "76338276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45033774",
+    "boundingbox": [
+      "48.2532264",
+      "48.2544322",
+      "11.6191353",
+      "11.6207069"
+    ],
+    "lat": "48.2539967",
+    "lon": "11.6200110539114",
+    "display_name": "+GF+, 22, Zeppelinstra\u00dfe, Hochbr\u00fcck, Garching, Landkreis M\u00fcnchen, OB, Bayern, 85748, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144433692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362655242",
+    "boundingbox": [
+      "55.7727071",
+      "55.7732171",
+      "38.686371",
+      "38.6874442"
+    ],
+    "lat": "55.7728573",
+    "lon": "38.6872374564049",
+    "display_name": "GF, \u041c\u0438\u0448\u0443\u0442\u0438\u043d\u0441\u043a\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u041c\u0438\u0448\u0443\u0442\u0438\u043d\u043e, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u041f\u043e\u0441\u0430\u0434, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041f\u0430\u0432\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u041f\u043e\u0441\u0430\u0434, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 142505, \u0420\u0424",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

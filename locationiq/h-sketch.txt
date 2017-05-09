@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "731921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "259774384",
+    "boundingbox": [
+      "51.5126639",
+      "51.5127639",
+      "-0.1415181",
+      "-0.1414181"
+    ],
+    "lat": "51.5127139",
+    "lon": "-0.1414681",
+    "display_name": "Sketch, 9, Conduit Street, St. James's, Fitzrovia, City of Westminster, London, Greater London, England, W1S 2XD, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.27714730829695,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "152458428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "403972786",
+    "boundingbox": [
+      "34.8335464",
+      "34.8423029",
+      "-111.8066942",
+      "-111.7994946"
+    ],
+    "lat": "34.8378626",
+    "lon": "-111.8040067",
+    "display_name": "Sketch, Baldwins Crossing, Yavapai County, Arizona, 86336, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2646129210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547283734",
+    "boundingbox": [
+      "-34.8943682",
+      "-34.8942682",
+      "-56.1392967",
+      "-56.1391967"
+    ],
+    "lat": "-34.8943182",
+    "lon": "-56.1392467",
+    "display_name": "Sketch, 3549 BIS, Avenida Ram\u00f3n Anador, Villa Dolores, Parque Batlle, Montevideo, 11600, Uruguay",
+    "class": "shop",
+    "type": "copyshop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7805356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "830602893",
+    "boundingbox": [
+      "46.6701622",
+      "46.6702622",
+      "11.1597106",
+      "11.1598106"
+    ],
+    "lat": "46.6702122",
+    "lon": "11.1597606",
+    "display_name": "Sketch, Passerpromenade - Passeggiata Lungo Passirio, St. Vigil Platz - Piazza S. Vigilio, Untermais - Maia Bassa, Meran - Merano, Burggrafenamt - Burgraviato, BZ, TAA, 39012, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "54963162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4253124167",
+    "boundingbox": [
+      "-14.0698759",
+      "-14.0697759",
+      "-42.4894518",
+      "-42.4893518"
+    ],
+    "lat": "-14.0698259",
+    "lon": "-42.4894018",
+    "display_name": "Sketch, Avenida Bar\u00e3o de Caetit\u00e9, Centro, Caetit\u00e9, Microrregi\u00e3o de Guanambi, Mesorregi\u00e3o do Centro-Sul Baiano, BA, Regi\u00e3o Nordeste, 46400-000, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "889458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "281153580",
+    "boundingbox": [
+      "38.3672247",
+      "38.3673247",
+      "-0.4281488",
+      "-0.4280488"
+    ],
+    "lat": "38.3672747",
+    "lon": "-0.4280988",
+    "display_name": "Sketch, Calle de Maruja Pastor, La Condomina, Alacant, Alacant\u00ed, Alicante/Alacant, Comunitat Valenciana, 03540, Espa\u00f1a",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

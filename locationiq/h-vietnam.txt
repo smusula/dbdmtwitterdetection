@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160252130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "49915",
+    "boundingbox": [
+      "8.1790665",
+      "23.393395",
+      "102.14441",
+      "114.3337595"
+    ],
+    "lat": "13.2904027",
+    "lon": "108.4265113",
+    "display_name": "Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76894855043817,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160641041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3292888",
+    "boundingbox": [
+      "9.6958338",
+      "9.6982245",
+      "-75.6172399",
+      "-75.6144972"
+    ],
+    "lat": "9.6970387",
+    "lon": "-75.6160982259293",
+    "display_name": "vietnam, Berrugas, San Onofre, Sucre, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "50176981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3732231512",
+    "boundingbox": [
+      "19.0607886",
+      "19.0608886",
+      "-70.1502186",
+      "-70.1501186"
+    ],
+    "lat": "19.0608386",
+    "lon": "-70.1501686",
+    "display_name": "Vietnam, Cotu\u00ed, S\u00e1nchez Ram\u00edrez, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "121916156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244874385",
+    "boundingbox": [
+      "18.5094426",
+      "18.5132106",
+      "-77.803111",
+      "-77.7989221"
+    ],
+    "lat": "18.5111681",
+    "lon": "-77.8010661991625",
+    "display_name": "Vietnam, Barrett Town, Saint James, Cornwall County, 00000, Jamaica",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "24264873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2379302147",
+    "boundingbox": [
+      "18.5179392",
+      "18.5180392",
+      "-69.8618187",
+      "-69.8617187"
+    ],
+    "lat": "18.5179892",
+    "lon": "-69.8617687",
+    "display_name": "Vietnam, Jardines de Alma Rosa, Las Frutas, Santo Domingo Este, Santo Domingo, 11096, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "85098952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95961715",
+    "boundingbox": [
+      "5.4856794",
+      "5.4862914",
+      "-54.0303421",
+      "-54.0285377"
+    ],
+    "lat": "5.4862914",
+    "lon": "-54.0303421",
+    "display_name": "Vietnam, Flore Maryflore, Saint-Laurent-du-Maroni, Guyane, 97320, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "120005724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236562453",
+    "boundingbox": [
+      "14.4830895",
+      "14.4831407",
+      "121.0240707",
+      "121.0243563"
+    ],
+    "lat": "14.4831407",
+    "lon": "121.0240707",
+    "display_name": "Vietnam, Better Living Subdivision Annex 36, Don Bosco, Para\u00f1aque, Metro Manila, 1711, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "121911938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244855225",
+    "boundingbox": [
+      "18.1132584",
+      "18.1134476",
+      "-77.0122234",
+      "-77.0099283"
+    ],
+    "lat": "18.1133265",
+    "lon": "-77.011223",
+    "display_name": "Vietnam, Bog Walk, Saint Catherine, Middlesex County, Jamaica",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "107374123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184458245",
+    "boundingbox": [
+      "25.7807865",
+      "25.7824544",
+      "-100.2554995",
+      "-100.255363"
+    ],
+    "lat": "25.7807865",
+    "lon": "-100.255363",
+    "display_name": "Vietnam, Apodaca, Nuevo Le\u00f3n, 66627, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100093993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156350362",
+    "boundingbox": [
+      "25.7138829",
+      "25.7172651",
+      "-100.2808446",
+      "-100.2792752"
+    ],
+    "lat": "25.7157281",
+    "lon": "-100.2801235",
+    "display_name": "Vietnam, Futuro Nogalar, San Nicol\u00e1s de los Garza, Nuevo Le\u00f3n, 64510, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

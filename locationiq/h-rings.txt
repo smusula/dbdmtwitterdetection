@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "357906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151416262",
+    "boundingbox": [
+      "37.1528288",
+      "37.1928288",
+      "-90.5901168",
+      "-90.5501168"
+    ],
+    "lat": "37.1728288",
+    "lon": "-90.5701168",
+    "display_name": "Rings, Wayne County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651826660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4680874084",
+    "boundingbox": [
+      "57.6878794",
+      "57.7278794",
+      "18.6099996",
+      "18.6499996"
+    ],
+    "lat": "57.7078794",
+    "lon": "18.6299996",
+    "display_name": "Rings, Gotland, Gotlands l\u00e4n, G\u00f6taland, Territorial waters of Gotland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55792645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4349573978",
+    "boundingbox": [
+      "56.2764118",
+      "56.2765118",
+      "-3.0268024",
+      "-3.0267024"
+    ],
+    "lat": "56.2764618",
+    "lon": "-3.0267524",
+    "display_name": "The Rings, Chance Inn, Fife, Scotland, UK",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "85916082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99279274",
+    "boundingbox": [
+      "54.5211832",
+      "54.530888",
+      "-1.3325882",
+      "-1.3210127"
+    ],
+    "lat": "54.5260451",
+    "lon": "-1.32781164027273",
+    "display_name": "The Rings, Ingleby Barwick, Stockton-on-Tees, North East England, England, TS17, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "84188507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91960481",
+    "boundingbox": [
+      "50.7793467",
+      "50.7805839",
+      "-2.2728091",
+      "-2.2713906"
+    ],
+    "lat": "50.7798988",
+    "lon": "-2.2723776",
+    "display_name": "The Rings, Milborne St. Andrew, North Dorset, Dorset, South West England, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64380110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16423506",
+    "boundingbox": [
+      "54.5222196",
+      "54.5223592",
+      "-1.321203",
+      "-1.320842"
+    ],
+    "lat": "54.5222785",
+    "lon": "-1.3210575",
+    "display_name": "The Rings, Ingleby Barwick, Stockton-on-Tees, North East England, England, TS17, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "7601861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "829141236",
+    "boundingbox": [
+      "47.5289975",
+      "47.5290975",
+      "8.2297147",
+      "8.2298147"
+    ],
+    "lat": "47.5290475",
+    "lon": "8.2297647",
+    "display_name": "rings, Badstrasse, Villigen, Bezirk Brugg, Aargau, 5232, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "leisure",
+    "type": "fitness_station",
+    "importance": 0.111
+  },
+  {
+    "place_id": "5927398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "599655490",
+    "boundingbox": [
+      "42.6619973",
+      "42.6620973",
+      "21.1630499",
+      "21.1631499"
+    ],
+    "lat": "42.6620473",
+    "lon": "21.1630999",
+    "display_name": "Rings, Bulevardi N\u00ebna Tereza, Qendra, Prishtin\u00eb, Komuna e Prishtin\u00ebs, Rrafsh i Kosov\u00ebs, Rajoni i Prishtin\u00ebs (01), 10000, \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "133403270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "302880111",
+    "boundingbox": [
+      "-37.8329895",
+      "-37.8326357",
+      "145.2213504",
+      "145.2223866"
+    ],
+    "lat": "-37.83284305",
+    "lon": "145.22186851367",
+    "display_name": "The Rings, Canterbury Road, Ringwood, City of Maroondah, Greater Melbourne, Victoria, 3152, Australia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "5839419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "599655491",
+    "boundingbox": [
+      "42.662101",
+      "42.662201",
+      "21.1599317",
+      "21.1600317"
+    ],
+    "lat": "42.662151",
+    "lon": "21.1599817",
+    "display_name": "Rings, Luan Haradinaj, Qafa, Prishtin\u00eb, Komuna e Prishtin\u00ebs, Rrafsh i Kosov\u00ebs, Rajoni i Prishtin\u00ebs (01), 10000, \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

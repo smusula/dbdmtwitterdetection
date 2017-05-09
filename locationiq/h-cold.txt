@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "4355644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "463184703",
+    "boundingbox": [
+      "46.9631443",
+      "47.0031443",
+      "23.0328248",
+      "23.0728248"
+    ],
+    "lat": "46.9831443",
+    "lon": "23.0528248",
+    "display_name": "\u021a\u0103udu, S\u0103laj, 457019, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.32247097762006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646467878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4554671796",
+    "boundingbox": [
+      "-34.9255134",
+      "-34.9254134",
+      "-58.0048226",
+      "-58.0047226"
+    ],
+    "lat": "-34.9254634",
+    "lon": "-58.0047726",
+    "display_name": "Cold, Av. 137, San Carlos, Partido de La Plata, Bs. As., 1900, Argentina",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

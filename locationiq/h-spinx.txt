@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "42899516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3101838081",
+    "boundingbox": [
+      "32.8647506",
+      "32.8648506",
+      "-80.0137835",
+      "-80.0136835"
+    ],
+    "lat": "32.8648006",
+    "lon": "-80.0137335",
+    "display_name": "Spinx, Banco Road, North Charleston, Charleston County, South Carolina, 29418, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "42690712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3101838080",
+    "boundingbox": [
+      "32.8650301",
+      "32.8651301",
+      "-80.0139304",
+      "-80.0138304"
+    ],
+    "lat": "32.8650801",
+    "lon": "-80.0138804",
+    "display_name": "Spinx, West Montague Avenue, North Charleston, Charleston County, South Carolina, 29418, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "42813774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3101838082",
+    "boundingbox": [
+      "32.8650065",
+      "32.8651065",
+      "-80.0136604",
+      "-80.0135604"
+    ],
+    "lat": "32.8650565",
+    "lon": "-80.0136104",
+    "display_name": "Spinx, Banco Road, North Charleston, Charleston County, South Carolina, 29418, United States of America",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "30461242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2734738362",
+    "boundingbox": [
+      "34.8069869",
+      "34.8070869",
+      "-82.2818077",
+      "-82.2817077"
+    ],
+    "lat": "34.8070369",
+    "lon": "-82.2817577",
+    "display_name": "Spinx, East Butler Road, Mauldin, Greenville County, South Carolina, 26607, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "133177701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301810435",
+    "boundingbox": [
+      "34.839802",
+      "34.840061",
+      "-82.3430225",
+      "-82.3427909"
+    ],
+    "lat": "34.8399315",
+    "lon": "-82.3429067",
+    "display_name": "Spinx, Transit Drive, Sherwood Forest, Greenville County, South Carolina, 29607, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "131462030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293797563",
+    "boundingbox": [
+      "34.8714105",
+      "34.8715455",
+      "-82.2542642",
+      "-82.2539517"
+    ],
+    "lat": "34.871478",
+    "lon": "-82.2541079703427",
+    "display_name": "Spinx, Bell Heather Lane, The Townes at Thornblade, Ashton Woods, Greenville County, South Carolina, 29650, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "134733177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "308760873",
+    "boundingbox": [
+      "34.8065793",
+      "34.8067795",
+      "-82.2315932",
+      "-82.2314023"
+    ],
+    "lat": "34.8066703",
+    "lon": "-82.2314955408433",
+    "display_name": "Spinx, Woodruff Road, Five Forks, Greenville County, South Carolina, 29681, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "18746296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1833743242",
+    "boundingbox": [
+      "34.819091",
+      "34.819191",
+      "-82.4262363",
+      "-82.4261363"
+    ],
+    "lat": "34.819141",
+    "lon": "-82.4261863",
+    "display_name": "Spinx, Allen Street, Monte Carlo MHC, Dunean, Greenville County, South Carolina, 29605, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "18971164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1833743247",
+    "boundingbox": [
+      "34.8217188",
+      "34.8218188",
+      "-82.4168778",
+      "-82.4167778"
+    ],
+    "lat": "34.8217688",
+    "lon": "-82.4168278",
+    "display_name": "Spinx, Marue Drive, Monte Carlo MHC, Dunean, Greenville County, South Carolina, 29601, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "18847703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1831361749",
+    "boundingbox": [
+      "34.9154871",
+      "34.9155871",
+      "-82.318126",
+      "-82.318026"
+    ],
+    "lat": "34.9155371",
+    "lon": "-82.318076",
+    "display_name": "Spinx, Wade Hampton Boulevard, Mayfair Estates, Seven Oaks, Greenville County, South Carolina, 29687, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

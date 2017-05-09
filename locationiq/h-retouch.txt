@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "90599583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117182241",
+    "boundingbox": [
+      "43.5208851",
+      "43.5260887",
+      "1.2552028",
+      "1.2631608"
+    ],
+    "lat": "43.5225067",
+    "lon": "1.2607461",
+    "display_name": "Le Retouch, Fonsorbes, Muret, Haute-Garonne, Occitanie, 31470, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "1488180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "322270317",
+    "boundingbox": [
+      "51.5706237",
+      "51.5707237",
+      "-0.3397998",
+      "-0.3396998"
+    ],
+    "lat": "51.5706737",
+    "lon": "-0.3397498",
+    "display_name": "reTouch, 84, High Street, Harrow on the Hill, London Borough of Harrow, London, Greater London, England, HA1 3LW, UK",
+    "class": "shop",
+    "type": "lighting",
+    "importance": 0.101
+  }
+]

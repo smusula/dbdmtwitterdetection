@@ -1,0 +1,166 @@
+[
+  {
+    "place_id": "71349314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29704895",
+    "boundingbox": [
+      "-28.7435026",
+      "-28.7426362",
+      "24.7705075",
+      "24.7714665"
+    ],
+    "lat": "-28.7434168",
+    "lon": "24.7705772",
+    "display_name": "Custom, Sol Plaatje Ward 23, Kimberley, Frances Baard District Municipality, Northern Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62504164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12840304",
+    "boundingbox": [
+      "36.1261773",
+      "36.126195",
+      "-90.9296625",
+      "-90.9280478"
+    ],
+    "lat": "36.126195",
+    "lon": "-90.9296625",
+    "display_name": "Custom, Walnut Ridge, Lawrence County, Arkansas, 72476, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55320901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4293408989",
+    "boundingbox": [
+      "38.9460755",
+      "38.9461755",
+      "-6.2815804",
+      "-6.2814804"
+    ],
+    "lat": "38.9461255",
+    "lon": "-6.2815304",
+    "display_name": "custom, Autov\u00eda del Suroeste, Trujillanos, Badajoz, Extremadura, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2649068908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465234991",
+    "boundingbox": [
+      "33.5537277",
+      "33.5538266",
+      "-101.8362457",
+      "-101.8359627"
+    ],
+    "lat": "33.55377715",
+    "lon": "-101.8361042",
+    "display_name": "Custom, Avenue A, Slaton-Bean, Lubbock, Lubbock County, Texas, 79404; 79401, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52200857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3937130159",
+    "boundingbox": [
+      "35.74666",
+      "35.74676",
+      "139.41676",
+      "139.41686"
+    ],
+    "lat": "35.74671",
+    "lon": "139.41681",
+    "display_name": "Custom, \u65b0\u9752\u6885\u8857\u9053, \u6771\u5927\u548c\u5e02, \u6771\u4eac\u90fd, 207-0031, \u65e5\u672c",
+    "class": "leisure",
+    "type": "video_arcade",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3617327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369155317",
+    "boundingbox": [
+      "34.0166952",
+      "34.0167952",
+      "-105.3567097",
+      "-105.3566097"
+    ],
+    "lat": "34.0167452",
+    "lon": "-105.3566597",
+    "display_name": "Custom, Pipeline Road, Lincoln County, New Mexico, United States of America",
+    "class": "landuse",
+    "type": "quarry",
+    "importance": 0.101
+  },
+  {
+    "place_id": "72656724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33041231",
+    "boundingbox": [
+      "-6.1079518",
+      "-6.107453",
+      "106.8844843",
+      "106.8847069"
+    ],
+    "lat": "-6.10769975",
+    "lon": "106.8845956",
+    "display_name": "Custom, Pabean, Sungai Bambu, Daerah Khusus Ibukota Jakarta, 14330, Indonesia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646922365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4564698799",
+    "boundingbox": [
+      "47.7535009",
+      "47.7536009",
+      "28.9788077",
+      "28.9789077"
+    ],
+    "lat": "47.7535509",
+    "lon": "28.9788577",
+    "display_name": "Vama Centru pod, Strada Orhei, Rezina, raionul Rezina, 5400, Moldova",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "44633573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3170927666",
+    "boundingbox": [
+      "-16.2267174",
+      "-16.2266174",
+      "-69.095317",
+      "-69.095217"
+    ],
+    "lat": "-16.2266674",
+    "lon": "-69.095267",
+    "display_name": "Aduana, PU-130, Yunguyo, Puno, Per\u00fa",
+    "class": "office",
+    "type": "government",
+    "importance": 0.001
+  }
+]

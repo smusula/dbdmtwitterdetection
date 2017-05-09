@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "1433259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "318452804",
+    "boundingbox": [
+      "33.7816062",
+      "33.7817062",
+      "-84.3864156",
+      "-84.3863156"
+    ],
+    "lat": "33.7816562",
+    "lon": "-84.3863656",
+    "display_name": "Midtown, Peachtree Walk Northeast, Virginia Highland, Atlanta, Fulton County, Georgia, 30309, United States of America",
+    "class": "railway",
+    "type": "subway_entrance",
+    "importance": 0.37594331946278
+  },
+  {
+    "place_id": "17967659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1741733488",
+    "boundingbox": [
+      "57.7804134",
+      "57.8204134",
+      "-5.6902535",
+      "-5.6502535"
+    ],
+    "lat": "57.8004134",
+    "lon": "-5.6702535",
+    "display_name": "Midtown, Highland, Scotland, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "470390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158471033",
+    "boundingbox": [
+      "35.1379359",
+      "35.1779359",
+      "-79.4330883",
+      "-79.3930883"
+    ],
+    "lat": "35.1579359",
+    "lon": "-79.4130883",
+    "display_name": "Midtown, Moore County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161013308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6377399",
+    "boundingbox": [
+      "43.0443458",
+      "43.0606544",
+      "-87.9552813",
+      "-87.937606"
+    ],
+    "lat": "43.0535559",
+    "lon": "-87.9450064",
+    "display_name": "Midtown, Milwaukee, Milwaukee County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2648591903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4603028957",
+    "boundingbox": [
+      "39.4964905",
+      "39.5364905",
+      "-119.8283911",
+      "-119.7883911"
+    ],
+    "lat": "39.5164905",
+    "lon": "-119.8083911",
+    "display_name": "Midtown, Reno, Washoe County, Nevada, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8847089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "927183574",
+    "boundingbox": [
+      "36.9648714",
+      "36.9848714",
+      "-122.0246413",
+      "-122.0046413"
+    ],
+    "lat": "36.9748714",
+    "lon": "-122.0146413",
+    "display_name": "Midtown, Santa Cruz, Santa Cruz County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160295447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "195486",
+    "boundingbox": [
+      "35.862143",
+      "35.901917",
+      "-84.6085819",
+      "-84.5261539"
+    ],
+    "lat": "35.8795188",
+    "lon": "-84.5641022",
+    "display_name": "Midtown, Roane County, Tennessee, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.34054450316591,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "56557810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405245634",
+    "boundingbox": [
+      "41.5808715",
+      "41.5809715",
+      "-87.3405859",
+      "-87.3404859"
+    ],
+    "lat": "41.5809215",
+    "lon": "-87.3405359",
+    "display_name": "Midtown, Gary, Lake County, Indiana, 46407, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "148479573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "382114120",
+    "boundingbox": [
+      "43.044422",
+      "43.0606166",
+      "-87.9552813",
+      "-87.9376508"
+    ],
+    "lat": "43.0535559",
+    "lon": "-87.9450064",
+    "display_name": "Midtown, Milwaukee, Milwaukee County, Wisconsin, 53208, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17324841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1672922251",
+    "boundingbox": [
+      "37.4340805",
+      "37.4341805",
+      "-122.1269772",
+      "-122.1268772"
+    ],
+    "lat": "37.4341305",
+    "lon": "-122.1269272",
+    "display_name": "Midtown, Palo Alto, Santa Clara County, California, 94306, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

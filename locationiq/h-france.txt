@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160511416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2202162",
+    "boundingbox": [
+      "-50.2187168",
+      "51.268318",
+      "-178.3873748",
+      "172.3057152"
+    ],
+    "lat": "46.603354",
+    "lon": "1.8883335",
+    "display_name": "France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 1.0612226863487,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160411175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1403916",
+    "boundingbox": [
+      "41.2632185",
+      "51.268318",
+      "-5.4534285",
+      "9.8678344"
+    ],
+    "lat": "46.603354",
+    "lon": "1.8883335",
+    "display_name": "France m\u00e9tropolitaine, France",
+    "class": "boundary",
+    "type": "territorial",
+    "importance": 0.57898459506333
+  },
+  {
+    "place_id": "160757660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4282813",
+    "boundingbox": [
+      "-31.3765853",
+      "-31.3695659",
+      "-64.2118277",
+      "-64.2059439"
+    ],
+    "lat": "-31.3732227",
+    "lon": "-64.2086739",
+    "display_name": "La France, C\u00f3rdoba, Departamento Capital, Cba., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160982295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6410169",
+    "boundingbox": [
+      "-27.4736903",
+      "-27.4651236",
+      "-58.9507479",
+      "-58.9469579"
+    ],
+    "lat": "-27.46969265",
+    "lon": "-58.9487861162725",
+    "display_name": "La France, Resistencia, Departamento San Fernando, CCO, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "151388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "28246495",
+    "boundingbox": [
+      "34.5722634",
+      "34.6522634",
+      "-82.8054933",
+      "-82.7254933"
+    ],
+    "lat": "34.6122634",
+    "lon": "-82.7654933",
+    "display_name": "La France, Anderson County, South Carolina, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "42700697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3096736744",
+    "boundingbox": [
+      "28.3689417",
+      "28.3690417",
+      "-81.5527807",
+      "-81.5526807"
+    ],
+    "lat": "28.3689917",
+    "lon": "-81.5527307",
+    "display_name": "France, 200, (S)WSC Promenade-South, Bay Lake, Reedy Creek Improvement District, Orange County, Florida, 32830, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.38123150335342,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "17058425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1600990899",
+    "boundingbox": [
+      "44.997674",
+      "45.037674",
+      "0.5184505",
+      "0.5584505"
+    ],
+    "lat": "45.017674",
+    "lon": "0.5384505",
+    "display_name": "La France, Bergerac, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8532487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "906041914",
+    "boundingbox": [
+      "46.2131191",
+      "46.2531191",
+      "5.3344518",
+      "5.3744518"
+    ],
+    "lat": "46.2331191",
+    "lon": "5.3544518",
+    "display_name": "France, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56161305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4387543658",
+    "boundingbox": [
+      "46.3641042",
+      "46.4041042",
+      "4.5243539",
+      "4.5643539"
+    ],
+    "lat": "46.3841042",
+    "lon": "4.5443539",
+    "display_name": "France, M\u00e2con, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2608147677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4452295639",
+    "boundingbox": [
+      "43.8673602",
+      "43.9073602",
+      "0.4007247",
+      "0.4407247"
+    ],
+    "lat": "43.8873602",
+    "lon": "0.4207247",
+    "display_name": "France, Condom, Gers, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

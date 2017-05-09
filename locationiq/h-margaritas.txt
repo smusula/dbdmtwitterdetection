@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "159554840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443462530",
+    "boundingbox": [
+      "29.9028309",
+      "29.908969",
+      "-108.2981475",
+      "-108.2845218"
+    ],
+    "lat": "29.9069416",
+    "lon": "-108.2909806",
+    "display_name": "Margaritas, Madera, Chihuahua, M\u00e9xico",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "54828108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4237014485",
+    "boundingbox": [
+      "24.339955",
+      "24.419955",
+      "-100.2503092",
+      "-100.1703092"
+    ],
+    "lat": "24.379955",
+    "lon": "-100.2103092",
+    "display_name": "Margaritas, Galeana, Nuevo Le\u00f3n, M\u00e9xico",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "56835590",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428265707",
+    "boundingbox": [
+      "20.4338229",
+      "20.4738229",
+      "-102.4938991",
+      "-102.4538991"
+    ],
+    "lat": "20.4538229",
+    "lon": "-102.4738991",
+    "display_name": "Margaritas, Atotonilco el Alto, Jalisco, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2648221309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4595025471",
+    "boundingbox": [
+      "15.5300251",
+      "15.5700251",
+      "-93.1112646",
+      "-93.0712646"
+    ],
+    "lat": "15.5500251",
+    "lon": "-93.0912646",
+    "display_name": "Joaqu\u00edn Miguel Guti\u00e9rrez (Margaritas), Pijijiapan, Chiapas, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6854277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703523360",
+    "boundingbox": [
+      "7.0666128",
+      "7.1066128",
+      "-73.587332",
+      "-73.547332"
+    ],
+    "lat": "7.0866128",
+    "lon": "-73.567332",
+    "display_name": "Margaritas, San Vicente de Chucur\u00ed, Santander, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15202149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1376428380",
+    "boundingbox": [
+      "21.4867501",
+      "21.5267501",
+      "-78.2233637",
+      "-78.1833637"
+    ],
+    "lat": "21.5067501",
+    "lon": "-78.2033637",
+    "display_name": "Las Margaritas, Florida, Camag\u00fcey, Cuba",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49296304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3646345635",
+    "boundingbox": [
+      "22.8284436",
+      "22.8684436",
+      "-83.4556059",
+      "-83.4156059"
+    ],
+    "lat": "22.8484436",
+    "lon": "-83.4356059",
+    "display_name": "Margaritas, La Palma, Pinar del R\u00edo, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160734534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4078626",
+    "boundingbox": [
+      "20.6004898",
+      "20.6018292",
+      "-100.3905049",
+      "-100.389738"
+    ],
+    "lat": "20.6012228",
+    "lon": "-100.3901079",
+    "display_name": "Margaritas, Delegaci\u00f3n Centro Hist\u00f3rico, Santiago de Quer\u00e9taro, Quer\u00e9taro, 76165, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "13524357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243084189",
+    "boundingbox": [
+      "42.3518451",
+      "42.3718451",
+      "-4.3637778",
+      "-4.3437778"
+    ],
+    "lat": "42.3618451",
+    "lon": "-4.3537778",
+    "display_name": "Margaritas, Osorno la Mayor, Palencia, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6824782",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703226480",
+    "boundingbox": [
+      "5.5638217",
+      "5.5838217",
+      "-73.9711114",
+      "-73.9511114"
+    ],
+    "lat": "5.5738217",
+    "lon": "-73.9611114",
+    "display_name": "Margaritas, Guayaba, Pauna, Boyac\u00e1, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

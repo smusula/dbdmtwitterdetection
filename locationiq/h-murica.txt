@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "160740204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4069295",
+    "boundingbox": [
+      "46.5148406",
+      "46.6548856",
+      "15.9127525",
+      "16.3038426"
+    ],
+    "lat": "46.5421314",
+    "lon": "16.0902104",
+    "display_name": "\u0160\u010davnica, Pomurska, Slovenija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.35
+  },
+  {
+    "place_id": "61218661",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11350574",
+    "boundingbox": [
+      "27.250606",
+      "27.251136",
+      "-82.4803869",
+      "-82.4796149"
+    ],
+    "lat": "27.250993",
+    "lon": "-82.4799489",
+    "display_name": "Murica, Sarasota, Sarasota County, Florida, 34238, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

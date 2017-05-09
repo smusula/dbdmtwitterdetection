@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "122406001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247050904",
+    "boundingbox": [
+      "7.7695511",
+      "7.7698656",
+      "-72.218727",
+      "-72.2184958"
+    ],
+    "lat": "7.7697356",
+    "lon": "-72.2186073598207",
+    "display_name": "Graffiti, Parroquia Pedro Mar\u00eda Morantes, Municipio San Crist\u00f3bal, T\u00e1chira, 5001, Venezuela",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17443432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1674056198",
+    "boundingbox": [
+      "54.404008",
+      "54.404108",
+      "18.6309909",
+      "18.6310909"
+    ],
+    "lat": "54.404058",
+    "lon": "18.6310409",
+    "display_name": "graffiti, PCK, Brze\u017ano, Gda\u0144sk, pomorskie, 80-519, Polska",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "8940425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "932960821",
+    "boundingbox": [
+      "48.1787768",
+      "48.1788768",
+      "16.3677675",
+      "16.3678675"
+    ],
+    "lat": "48.1788268",
+    "lon": "16.3678175",
+    "display_name": "Graffiti, Gudrunstra\u00dfe, KG Favoriten, Favoriten, Wien, 1100, \u00d6sterreich",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "4468078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "478843248",
+    "boundingbox": [
+      "48.2037477",
+      "48.2038477",
+      "16.3713485",
+      "16.3714485"
+    ],
+    "lat": "48.2037977",
+    "lon": "16.3713985",
+    "display_name": "Graffiti, 8, Krugerstra\u00dfe, K\u00e4rntner Viertel, KG Innere Stadt, Innere Stadt, Wien, 1010, \u00d6sterreich",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44792919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3183265847",
+    "boundingbox": [
+      "37.3910204",
+      "37.3911204",
+      "-6.0040775",
+      "-6.0039775"
+    ],
+    "lat": "37.3910704",
+    "lon": "-6.0040275",
+    "display_name": "Graffiti, Avenida del Cristo de la Expiraci\u00f3n, Museo, Casco Antiguo, Sevilla, Andaluc\u00eda, 41001, Espa\u00f1a",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "15254126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1385305692",
+    "boundingbox": [
+      "52.5769149",
+      "52.5770149",
+      "13.4507126",
+      "13.4508126"
+    ],
+    "lat": "52.5769649",
+    "lon": "13.4507626",
+    "display_name": "Graffiti, Kiebitzweg, Blankenburg, Pankow, Berlin, 13129, Deutschland",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "7110116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "766157346",
+    "boundingbox": [
+      "48.7819434",
+      "48.7820434",
+      "10.1042623",
+      "10.1043623"
+    ],
+    "lat": "48.7819934",
+    "lon": "10.1043123",
+    "display_name": "Graffiti, Heidenheimer Stra\u00dfe, Oberkochen, Ostalbkreis, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 73447, Deutschland",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55041871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4250165589",
+    "boundingbox": [
+      "2.1950581",
+      "2.1951581",
+      "102.2486544",
+      "102.2487544"
+    ],
+    "lat": "2.1951081",
+    "lon": "102.2487044",
+    "display_name": "Graffiti, Lorong Hang Jebat, Rumah Pangsa Pandan Malim, Melaka, Melaka Tengah, MLK, 75200, Malaysia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "54738278",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4235747046",
+    "boundingbox": [
+      "55.1986811",
+      "55.1987811",
+      "30.1942399",
+      "30.1943399"
+    ],
+    "lat": "55.1987311",
+    "lon": "30.1942899",
+    "display_name": "\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438, 1-\u044f \u0443\u043b\u0438\u0446\u0430 \u041a\u0440\u0430\u0441\u0438\u043d\u0430, \u0415\u043b\u0430\u0433\u0438, \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0438\u0442\u0435\u0431\u0441\u043a, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0421\u043e\u0432\u0435\u0442, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 210102, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "49804784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3708528685",
+    "boundingbox": [
+      "55.1998818",
+      "55.1999818",
+      "30.2056663",
+      "30.2057663"
+    ],
+    "lat": "55.1999318",
+    "lon": "30.2057163",
+    "display_name": "\u0413\u0440\u0430\u0444\u0444\u0438\u0442\u0438 \u00ab\u0426\u0430\u0440\u044c \u043d\u0435\u043d\u0430\u0441\u0442\u043e\u044f\u0449\u0438\u0439\u00bb, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041f\u0435\u0441\u044c\u044f \u041f\u043e\u043b\u044f\u043d\u043a\u0430, \u041f\u0435\u0441\u043a\u043e\u0432\u0430\u0442\u0438\u043a, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u0438\u0442\u0435\u0431\u0441\u043a, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0421\u043e\u0432\u0435\u0442, \u0412\u0438\u0442\u0435\u0431\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 210026, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

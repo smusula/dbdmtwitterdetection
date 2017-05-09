@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "8083850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "867322280",
+    "boundingbox": [
+      "45.4620231",
+      "45.4621231",
+      "9.21978",
+      "9.21988"
+    ],
+    "lat": "45.4620731",
+    "lon": "9.21983",
+    "display_name": "feelgood, Corso Ventidue Marzo, Zona delle Regioni, Municipio 4, Milano, MI, LOM, 20135, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "35457203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2825789887",
+    "boundingbox": [
+      "59.3373202",
+      "59.3374202",
+      "18.0773322",
+      "18.0774322"
+    ],
+    "lat": "59.3373702",
+    "lon": "18.0773822",
+    "display_name": "feelgood, Grev Turegatan, Villastaden, \u00d6stermalm, \u00d6stermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 114 47, Sverige",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "25456232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2433833469",
+    "boundingbox": [
+      "51.1743839",
+      "51.1744839",
+      "7.7505522",
+      "7.7506522"
+    ],
+    "lat": "51.1744339",
+    "lon": "7.7506022",
+    "display_name": "feelgood, 8, Am M\u00fchlengraben, Bauerschaft Ebbe, M\u00fcggenbruch, Herscheid, M\u00e4rkischer Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58849, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "6018701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "609788954",
+    "boundingbox": [
+      "58.4115371",
+      "58.4116371",
+      "15.6290174",
+      "15.6291174"
+    ],
+    "lat": "58.4115871",
+    "lon": "15.6290674",
+    "display_name": "Feelgood, 9, Storgatan, Innerstaden, Link\u00f6ping, Landskapet \u00d6sterg\u00f6tland, \u00d6sterg\u00f6tlands l\u00e4n, G\u00f6taland, 58219, Sverige",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70296440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27281687",
+    "boundingbox": [
+      "51.1742615",
+      "51.174512",
+      "7.7501939",
+      "7.7506891"
+    ],
+    "lat": "51.17438695",
+    "lon": "7.7504415536137",
+    "display_name": "Feelgood, 8, Am M\u00fchlengraben, Bauerschaft Ebbe, M\u00fcggenbruch, Herscheid, M\u00e4rkischer Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58849, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

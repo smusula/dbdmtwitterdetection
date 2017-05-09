@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "16296052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1517267225",
+    "boundingbox": [
+      "42.997285",
+      "43.317285",
+      "-77.7752139",
+      "-77.4552139"
+    ],
+    "lat": "43.157285",
+    "lon": "-77.6152139",
+    "display_name": "Rochester, Monroe County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.67094885837088,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160287567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "176069",
+    "boundingbox": [
+      "43.1033023",
+      "43.2676254",
+      "-77.7016323",
+      "-77.5311656"
+    ],
+    "lat": "43.1854754",
+    "lon": "-77.6106860508176",
+    "display_name": "Rochester, Monroe County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.67094885837088,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160275815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "137100",
+    "boundingbox": [
+      "43.884547",
+      "44.1082805",
+      "-92.5731821",
+      "-92.3890008"
+    ],
+    "lat": "44.0233269",
+    "lon": "-92.4630214",
+    "display_name": "Rochester, Olmsted County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57747124094303,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160350746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "451541",
+    "boundingbox": [
+      "51.3526282",
+      "51.3952904",
+      "0.4562046",
+      "0.5176398"
+    ],
+    "lat": "51.389062",
+    "lon": "0.5049347",
+    "display_name": "Rochester, Medway, South East, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.54978806119802,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160273883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "134570",
+    "boundingbox": [
+      "42.673934",
+      "42.7044",
+      "-83.1485999",
+      "-83.0938159"
+    ],
+    "lat": "42.680588",
+    "lon": "-83.1338213",
+    "display_name": "Rochester, Oakland County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.48592927874876,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160324329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "370095",
+    "boundingbox": [
+      "43.225782",
+      "43.379222",
+      "-71.0727079",
+      "-70.8961329"
+    ],
+    "lat": "43.3050631",
+    "lon": "-70.9753628",
+    "display_name": "Rochester, Strafford County, New Hampshire, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.48264353858203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160270031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127570",
+    "boundingbox": [
+      "41.038579",
+      "41.083081",
+      "-86.2282339",
+      "-86.1595659"
+    ],
+    "lat": "41.0647645",
+    "lon": "-86.215833",
+    "display_name": "Rochester, Fulton County, Indiana, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45531425982017,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "97478399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "144840758",
+    "boundingbox": [
+      "44.0110245",
+      "44.0121775",
+      "-92.4040103",
+      "-92.3991082"
+    ],
+    "lat": "44.0115792",
+    "lon": "-92.4015601726788",
+    "display_name": "Rochester, Olmsted County, Minnesota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187309",
+    "boundingbox": [
+      "40.695466",
+      "40.710758",
+      "-80.2944229",
+      "-80.2756099"
+    ],
+    "lat": "40.7022882",
+    "lon": "-80.2864508",
+    "display_name": "Rochester, Beaver County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43940162059147,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160551635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2395856",
+    "boundingbox": [
+      "41.7002766",
+      "41.8090028",
+      "-70.9219031",
+      "-70.7716279"
+    ],
+    "lat": "41.7317701",
+    "lon": "-70.820037",
+    "display_name": "Rochester, Plymouth County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43854102903848,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

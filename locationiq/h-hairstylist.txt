@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "50679295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3785196919",
+    "boundingbox": [
+      "45.4047035",
+      "45.4048035",
+      "9.1720463",
+      "9.1721463"
+    ],
+    "lat": "45.4047535",
+    "lon": "9.1720963",
+    "display_name": "Hairstylist, Via Michele Saponaro, Gratosoglio, Milano, MI, LOM, 20142, Italia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "26696044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2531775362",
+    "boundingbox": [
+      "49.479335",
+      "49.479435",
+      "8.4810941",
+      "8.4811941"
+    ],
+    "lat": "49.479385",
+    "lon": "8.4811441",
+    "display_name": "Hairstylist, 60, Seckenheimer Stra\u00dfe, Oststadt, Schwetzingerstadt/Oststadt, Mannheim, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 68165, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "10971109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1054718783",
+    "boundingbox": [
+      "53.2480209",
+      "53.2481209",
+      "10.4113081",
+      "10.4114081"
+    ],
+    "lat": "53.2480709",
+    "lon": "10.4113581",
+    "display_name": "Hairstylist, 31, Am Sande, Altstadt, L\u00fcneburg, Landkreis L\u00fcneburg, Niedersachsen, 21335, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

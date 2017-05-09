@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "405442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153527853",
+    "boundingbox": [
+      "38.8108805",
+      "38.8508805",
+      "-89.8825976",
+      "-89.8425976"
+    ],
+    "lat": "38.8308805",
+    "lon": "-89.8625976",
+    "display_name": "Fruit, Madison County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647987501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4589845691",
+    "boundingbox": [
+      "48.2013805",
+      "48.2213805",
+      "-1.0423495",
+      "-1.0223495"
+    ],
+    "lat": "48.2113805",
+    "lon": "-1.0323495",
+    "display_name": "Le Fruit, La Croixille, Laval, Mayenne, Pays de la Loire, 53380, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61138460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10674165",
+    "boundingbox": [
+      "35.8830301",
+      "35.884409",
+      "-119.2801388",
+      "-119.279825"
+    ],
+    "lat": "35.883091",
+    "lon": "-119.2798893",
+    "display_name": "Fruit, Earlimart, Tulare County, California, 93219, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60525839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10336519",
+    "boundingbox": [
+      "36.7783011",
+      "36.7783138",
+      "-119.8546882",
+      "-119.8545359"
+    ],
+    "lat": "36.7783138",
+    "lon": "-119.8546882",
+    "display_name": "Fruit, Fresno County, California, 93705, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "16101705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1469138983",
+    "boundingbox": [
+      "34.8252246",
+      "34.8253246",
+      "67.8288936",
+      "67.8289936"
+    ],
+    "lat": "34.8252746",
+    "lon": "67.8289436",
+    "display_name": "fruit, Bazar rd, Bamian, \u0628\u0627\u0645\u06cc\u0627\u0646\u200e, Bamyan \u0628\u0627\u0645\u06cc\u0627\u0646, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "shop",
+    "type": "greengrocer",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2651582655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472080821",
+    "boundingbox": [
+      "53.7391079",
+      "53.7393384",
+      "-0.3346184",
+      "-0.3341999"
+    ],
+    "lat": "53.73922315",
+    "lon": "-0.334409133977005",
+    "display_name": "Fruit, Humber Street, Old Town, Hull, Kingston upon Hull, Yorkshire and the Humber, England, HU1 1XE, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "147229323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375574900",
+    "boundingbox": [
+      "12.1087709",
+      "12.1089178",
+      "-68.8968848",
+      "-68.896707"
+    ],
+    "lat": "12.10884435",
+    "lon": "-68.8967959154515",
+    "display_name": "Fruit, 3, Seru Loraweg, Chango, Dominguito, Willemstad, Cura\u00e7ao, 5244557, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16140469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1492037050",
+    "boundingbox": [
+      "50.8375119",
+      "50.8376119",
+      "4.2900046",
+      "4.2901046"
+    ],
+    "lat": "50.8375619",
+    "lon": "4.2900546",
+    "display_name": "Fruits - Fruit, 235, Boulevard Sylvain Dupuis - Sylvain Dupuislaan, Anderlecht, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "16397606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1492037049",
+    "boundingbox": [
+      "50.8373256",
+      "50.8374256",
+      "4.2902017",
+      "4.2903017"
+    ],
+    "lat": "50.8373756",
+    "lon": "4.2902517",
+    "display_name": "Fruits - Fruit, Boulevard Sylvain Dupuis - Sylvain Dupuislaan, Anderlecht, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1070, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "22058476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2184702700",
+    "boundingbox": [
+      "53.5496473",
+      "53.5497473",
+      "-1.4859711",
+      "-1.4858711"
+    ],
+    "lat": "53.5496973",
+    "lon": "-1.4859211",
+    "display_name": "Fruit, Park Grove, Worsborough Common, Kendray, Barnsley, Yorkshire and the Humber, England, S70 1QZ, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

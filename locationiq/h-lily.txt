@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "108811110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "190917311",
+    "boundingbox": [
+      "-19.0411633",
+      "-18.9946807",
+      "46.4977962",
+      "46.7343191"
+    ],
+    "lat": "-19.0192614",
+    "lon": "46.6161648",
+    "display_name": "Lily, R\u00e9gion d'Itasy, Province d\u2019Antananarivo, Madagasikara",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "419581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154051488",
+    "boundingbox": [
+      "27.3464326",
+      "27.3864326",
+      "-81.9856407",
+      "-81.9456407"
+    ],
+    "lat": "27.3664326",
+    "lon": "-81.9656407",
+    "display_name": "Lily, Hardee County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "442898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154304345",
+    "boundingbox": [
+      "37.0045332",
+      "37.0445332",
+      "-84.0952088",
+      "-84.0552088"
+    ],
+    "lat": "37.0245332",
+    "lon": "-84.0752088",
+    "display_name": "Lily, Laurel County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153593762",
+    "boundingbox": [
+      "45.2870583",
+      "45.3270583",
+      "-88.8742295",
+      "-88.8342295"
+    ],
+    "lat": "45.3070583",
+    "lon": "-88.8542295",
+    "display_name": "Lily, Town of Langlade, Langlade County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3677614384343,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160295383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "195080",
+    "boundingbox": [
+      "45.177523",
+      "45.185959",
+      "-97.6889489",
+      "-97.6772639"
+    ],
+    "lat": "45.1813467",
+    "lon": "-97.6834219",
+    "display_name": "Lily, Day County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160146280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447439612",
+    "boundingbox": [
+      "22.2348858",
+      "22.2361068",
+      "114.1996699",
+      "114.2006342"
+    ],
+    "lat": "22.2354352",
+    "lon": "114.200235983756",
+    "display_name": "129, The Lily, \u6dfa\u6c34\u7063 Repulse Bay, \u8d64\u67f1 Stanley, \u5357\u5340 Southern District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 0000, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "10942743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042047036",
+    "boundingbox": [
+      "45.7995861",
+      "45.8295861",
+      "9.0553822",
+      "9.0853822"
+    ],
+    "lat": "45.8145861",
+    "lon": "9.0703822",
+    "display_name": "Idroscalo Internazionale di Como, Piazzale Francesco Somaini, Prestino, Como, CO, LOM, 22100, Italia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.22123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "82972188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "86137459",
+    "boundingbox": [
+      "-26.1842866",
+      "-26.183578",
+      "27.9791736",
+      "27.979946"
+    ],
+    "lat": "-26.1842466",
+    "lon": "27.9799024",
+    "display_name": "Lily, Johannesburg Ward 69, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68699142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23090493",
+    "boundingbox": [
+      "14.6752673",
+      "14.6753552",
+      "121.0652163",
+      "121.068085"
+    ],
+    "lat": "14.6752955",
+    "lon": "121.066389",
+    "display_name": "Lily, Tierra Gloria Subdivision, Pasong Tamo, Quezon City, District VI, Quezon City, Metro Manila, 1107, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60047321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9594846",
+    "boundingbox": [
+      "42.504211",
+      "42.504653",
+      "-70.8971569",
+      "-70.8963289"
+    ],
+    "lat": "42.504653",
+    "lon": "-70.8963289",
+    "display_name": "Lily, Salem, Essex County, Massachusetts, 01970, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

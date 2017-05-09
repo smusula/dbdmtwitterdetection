@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160286485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "176028",
+    "boundingbox": [
+      "42.689518",
+      "42.710944",
+      "-74.9470439",
+      "-74.9140209"
+    ],
+    "lat": "42.7006303",
+    "lon": "-74.9243209",
+    "display_name": "Cooperstown, Town of Otsego, Otsego County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54878989824505,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160289401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "181590",
+    "boundingbox": [
+      "47.436268",
+      "47.457305",
+      "-98.1428839",
+      "-98.1133039"
+    ],
+    "lat": "47.4444384",
+    "lon": "-98.1239842",
+    "display_name": "Cooperstown, Griggs County, North Dakota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45697998354854,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "392340",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153389557",
+    "boundingbox": [
+      "44.2927722",
+      "44.3327722",
+      "-87.7945344",
+      "-87.7545344"
+    ],
+    "lat": "44.3127722",
+    "lon": "-87.7745344",
+    "display_name": "Cooperstown, Manitowoc County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39157890191013,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "349659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150981164",
+    "boundingbox": [
+      "37.7232632",
+      "37.7632632",
+      "-120.5646437",
+      "-120.5246437"
+    ],
+    "lat": "37.7432632",
+    "lon": "-120.5446437",
+    "display_name": "Cooperstown, Stanislaus County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "475510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158436236",
+    "boundingbox": [
+      "40.2859033",
+      "40.3259033",
+      "-79.3853139",
+      "-79.3453139"
+    ],
+    "lat": "40.3059033",
+    "lon": "-79.3653139",
+    "display_name": "Cooperstown, Westmoreland County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "478082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158650906",
+    "boundingbox": [
+      "40.6943097",
+      "40.7343097",
+      "-79.9495037",
+      "-79.9095037"
+    ],
+    "lat": "40.7143097",
+    "lon": "-79.9295037",
+    "display_name": "Cooperstown, Butler County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "493933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158810089",
+    "boundingbox": [
+      "40.026778",
+      "40.066778",
+      "-74.9232219",
+      "-74.8832219"
+    ],
+    "lat": "40.046778",
+    "lon": "-74.9032219",
+    "display_name": "Cooperstown, Burlington County, New Jersey, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "408516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153586689",
+    "boundingbox": [
+      "36.9103211",
+      "36.9503211",
+      "-86.9074966",
+      "-86.8674966"
+    ],
+    "lat": "36.9303211",
+    "lon": "-86.8874966",
+    "display_name": "Cooperstown, Logan County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160293204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "188980",
+    "boundingbox": [
+      "41.494251",
+      "41.505421",
+      "-79.8841239",
+      "-79.8642989"
+    ],
+    "lat": "41.498667",
+    "lon": "-79.8703344",
+    "display_name": "Cooperstown, Venango County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160533116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2361732",
+    "boundingbox": [
+      "52.5852545",
+      "52.5950373",
+      "-6.2501342",
+      "-6.2383184"
+    ],
+    "lat": "52.59013535",
+    "lon": "-6.24438171205261",
+    "display_name": "Cooperstown, Ballygarrett, Gorey Municipal District, County Wexford, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

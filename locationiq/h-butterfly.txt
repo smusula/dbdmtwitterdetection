@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "3330970",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358943047",
+    "boundingbox": [
+      "37.9335532",
+      "37.9336532",
+      "-108.4926401",
+      "-108.4925401"
+    ],
+    "lat": "37.9336032",
+    "lon": "-108.4925901",
+    "display_name": "The Butterfly, San Miguel County, Colorado, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "425370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154138500",
+    "boundingbox": [
+      "37.2684276",
+      "37.3084276",
+      "-83.2923989",
+      "-83.2523989"
+    ],
+    "lat": "37.2884276",
+    "lon": "-83.2723989",
+    "display_name": "Butterfly, Perry County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63900720",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15175522",
+    "boundingbox": [
+      "29.1797137",
+      "29.1798865",
+      "-98.5882178",
+      "-98.5862483"
+    ],
+    "lat": "29.1798668",
+    "lon": "-98.5870695",
+    "display_name": "Butterfly, San Antonio, Bexar County, Texas, 78236, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63823858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15286253",
+    "boundingbox": [
+      "26.3013218",
+      "26.3023297",
+      "-98.1931284",
+      "-98.1929138"
+    ],
+    "lat": "26.3013218",
+    "lon": "-98.1931284",
+    "display_name": "Butterfly, Edinburg, Hidalgo County, Texas, 78539, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62893213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13326999",
+    "boundingbox": [
+      "33.7025647",
+      "33.7071352",
+      "-117.7856531",
+      "-117.7806109"
+    ],
+    "lat": "33.7048047",
+    "lon": "-117.783192528113",
+    "display_name": "Butterfly, Irvine Groves, El Camino Real, Irvine, Orange County, California, 92604, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60728178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10587224",
+    "boundingbox": [
+      "14.5899592",
+      "14.5927244",
+      "121.0728227",
+      "121.0797412"
+    ],
+    "lat": "14.5924222",
+    "lon": "121.0755659",
+    "display_name": "Butterfly, Valle Verde 6, Ugong, Pasig, Metro Manila, 1604, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "104906430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174134933",
+    "boundingbox": [
+      "41.6522085",
+      "41.6590743",
+      "-81.2263515",
+      "-81.2237406"
+    ],
+    "lat": "41.6562122",
+    "lon": "-81.2260612",
+    "display_name": "Butterfly, Lake County, Ohio, 44077, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63294642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14641531",
+    "boundingbox": [
+      "34.892497",
+      "34.892597",
+      "-106.0995319",
+      "-106.0965789"
+    ],
+    "lat": "34.892547",
+    "lon": "-106.0965789",
+    "display_name": "Butterfly, E Davis Place, Torrance County, New Mexico, 87032, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "104876848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174012608",
+    "boundingbox": [
+      "-33.0497538",
+      "-33.0496813",
+      "-71.3441208",
+      "-71.3435955"
+    ],
+    "lat": "-33.0497182",
+    "lon": "-71.3438532",
+    "display_name": "The Butterfly, Jard\u00edn De Las Acacias, Villa Alemana, Provincia de Marga Marga, V Regi\u00f3n de Valpara\u00edso, 6500000, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "106169864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "179218137",
+    "boundingbox": [
+      "43.05023",
+      "43.05082",
+      "-79.1197199",
+      "-79.1196899"
+    ],
+    "lat": "43.05023",
+    "lon": "-79.1196899",
+    "display_name": "Butterfly, Niagara Falls, Regional Municipality of Niagara, Ontario, L2G3W7, Canada",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

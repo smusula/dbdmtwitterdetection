@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "109087517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192013454",
+    "boundingbox": [
+      "53.0323246",
+      "53.0335295",
+      "-121.5705038",
+      "-121.564502"
+    ],
+    "lat": "53.0329114",
+    "lon": "-121.5676008",
+    "display_name": "Jack of Clubs Creek, Cariboo Regional District, British Columbia, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "109054779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192013465",
+    "boundingbox": [
+      "53.0658078",
+      "53.0658534",
+      "-121.6156256",
+      "-121.6148949"
+    ],
+    "lat": "53.0658106",
+    "lon": "-121.6150452",
+    "display_name": "Jack of Clubs Creek, Wells, Cariboo Regional District, British Columbia, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "109093019",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192013733",
+    "boundingbox": [
+      "53.0311069",
+      "53.0512908",
+      "-121.6033472",
+      "-121.5950395"
+    ],
+    "lat": "53.0423326",
+    "lon": "-121.6016571",
+    "display_name": "Queen of Clubs Creek, Wells, Cariboo Regional District, British Columbia, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "95901328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137752061",
+    "boundingbox": [
+      "48.5623555",
+      "48.5626487",
+      "-58.7831389",
+      "-58.7830656"
+    ],
+    "lat": "48.5624636",
+    "lon": "-58.7831317",
+    "display_name": "Jack of Clubs Brook, Port au Port West - Aguathuna - Felix Cove, Newfoundland and Labrador, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

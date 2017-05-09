@@ -1,0 +1,167 @@
+[
+  {
+    "place_id": "134172023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306158870",
+    "boundingbox": [
+      "22.205003",
+      "22.2063846",
+      "113.5406677",
+      "113.5417693"
+    ],
+    "lat": "22.2056352",
+    "lon": "113.541223098933",
+    "display_name": "\u6d77\u64ce\u5929 The Praia, \u7b77\u5b50\u57fa Fai Chi Kei, \u82b1\u738b\u5802\u5340 Santo Ant\u00f3nio, \u6fb3\u9580 Macau, 853, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2648045388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463889485",
+    "boundingbox": [
+      "45.7435705",
+      "45.7470802",
+      "9.0876185",
+      "9.0945735"
+    ],
+    "lat": "45.7454209",
+    "lon": "9.0907925",
+    "display_name": "PS1, Cucciago, CO, LOM, 22073, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "121984660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "245138841",
+    "boundingbox": [
+      "37.8758177",
+      "37.8758405",
+      "-122.2576591",
+      "-122.2576184"
+    ],
+    "lat": "37.8758293",
+    "lon": "-122.257638783208",
+    "display_name": "ps1, Hearst Avenue, Northside, Berkeley, Alameda County, California, 94709, United States of America",
+    "class": "amenity",
+    "type": "parking_space",
+    "importance": 0.111
+  },
+  {
+    "place_id": "6665845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "696780815",
+    "boundingbox": [
+      "52.4757407",
+      "52.4758407",
+      "-1.8959058",
+      "-1.8958058"
+    ],
+    "lat": "52.4757907",
+    "lon": "-1.8958558",
+    "display_name": "PS1, Pershore Street, Digbeth, Attwood Green, West Midlands Combined Authority, West Midlands, England, B5 4ST, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "21802539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2159838049",
+    "boundingbox": [
+      "47.0856233",
+      "47.0857233",
+      "27.6516212",
+      "27.6517212"
+    ],
+    "lat": "47.0856733",
+    "lon": "27.6516712",
+    "display_name": "PS1, DN24, Bucium, Pietr\u0103ria, Ia\u0219i, 707038, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654363135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740268323",
+    "boundingbox": [
+      "4.2900666",
+      "4.2901666",
+      "11.6442995",
+      "11.6443995"
+    ],
+    "lat": "4.2901166",
+    "lon": "11.6443495",
+    "display_name": "PS1, N15, Batchenga, Leki\u00e9, CE, Cameroun",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "94921954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133075164",
+    "boundingbox": [
+      "44.1238893",
+      "44.1327324",
+      "11.5393269",
+      "11.544323"
+    ],
+    "lat": "44.129153",
+    "lon": "11.5429177",
+    "display_name": "609, Ortali, Palazzuolo sul Senio, FI, TOS, 50035, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.075
+  },
+  {
+    "place_id": "72095247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31732616",
+    "boundingbox": [
+      "45.5105325",
+      "45.5112321",
+      "-122.6841173",
+      "-122.6831198"
+    ],
+    "lat": "45.51094345",
+    "lon": "-122.683585666399",
+    "display_name": "Parking Structure 1, 1872, Southwest Broadway, University District, Portland, Multnomah County, Oregon, 97201, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "15338056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1408378318",
+    "boundingbox": [
+      "42.03575",
+      "42.03585",
+      "-70.0661509",
+      "-70.0660509"
+    ],
+    "lat": "42.0358",
+    "lon": "-70.0661009",
+    "display_name": "Horton's Camping Resort, South Highland Road, Truro, Barnstable County, Massachusetts, 02666, United States of America",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

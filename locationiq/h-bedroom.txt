@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "127698876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "272644264",
+    "boundingbox": [
+      "52.4535401",
+      "52.4536436",
+      "4.5745238",
+      "4.574838"
+    ],
+    "lat": "52.45357465",
+    "lon": "4.57468476298608",
+    "display_name": "The Bedroom, Westonstraat, IJmuiden, Velsen, MRA, Noord-Holland, Nederland, 1976BH, Nederland",
+    "class": "shop",
+    "type": "bed",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56070142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4353620091",
+    "boundingbox": [
+      "34.7024549",
+      "34.7025549",
+      "33.1073902",
+      "33.1074902"
+    ],
+    "lat": "34.7025049",
+    "lon": "33.1074402",
+    "display_name": "Bedroom, B1, Limassol, Limassol - \u039b\u03b5\u03bc\u03b5\u03c3\u03cc\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 4531, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

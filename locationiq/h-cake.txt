@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "138379415",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326458980",
+    "boundingbox": [
+      "29.8639745",
+      "29.864082",
+      "-90.0307167",
+      "-90.0292624"
+    ],
+    "lat": "29.8639745",
+    "lon": "-90.0300765",
+    "display_name": "Cake, Farmington Place, Jefferson Parish, Louisiana, 70059, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2649624352",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4626264289",
+    "boundingbox": [
+      "39.0485686",
+      "39.0486686",
+      "115.4930528",
+      "115.4931528"
+    ],
+    "lat": "39.0486186",
+    "lon": "115.4931028",
+    "display_name": "cake, S333, \u9042\u57ce\u9547, \u5f90\u6c34\u533a (Xushui), \u4fdd\u5b9a\u5e02, \u6cb3\u5317\u7701, 072500, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "126419802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264380050",
+    "boundingbox": [
+      "51.475971",
+      "51.4760622",
+      "-2.5904509",
+      "-2.5901491"
+    ],
+    "lat": "51.476013",
+    "lon": "-2.59029242234272",
+    "display_name": "Cake, 215A, Gloucester Road, Kingsdown, Bishopston, Bristol, City of Bristol, South West England, England, BS7 8NN, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "18227604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1766031898",
+    "boundingbox": [
+      "52.4988995",
+      "52.4989995",
+      "13.4462634",
+      "13.4463634"
+    ],
+    "lat": "52.4989495",
+    "lon": "13.4463134",
+    "display_name": "Cake, 32, Schlesische Stra\u00dfe, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10997, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "55069329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4268719598",
+    "boundingbox": [
+      "-0.1762137",
+      "-0.1761137",
+      "-78.4957921",
+      "-78.4956921"
+    ],
+    "lat": "-0.1761637",
+    "lon": "-78.4957421",
+    "display_name": "Cake, Ma\u00f1osca, Granda Centeno, Rumipamba, Quito, Pichincha, EC170135, Ecuador",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "19360287",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1885963394",
+    "boundingbox": [
+      "47.0833106",
+      "47.0834106",
+      "2.3994895",
+      "2.3995895"
+    ],
+    "lat": "47.0833606",
+    "lon": "2.3995395",
+    "display_name": "Cake Th\u00e9, 74 bis, Rue Bourbonnoux, Centre-Ville, Le Moulon, Bourges, Cher, Centre-Val de Loire, 18000, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "50035237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3709012227",
+    "boundingbox": [
+      "47.1280703",
+      "47.1281703",
+      "0.9980295",
+      "0.9981295"
+    ],
+    "lat": "47.1281203",
+    "lon": "0.9980795",
+    "display_name": "Cake Th\u00e9, Grande Rue, Loches, Indre-et-Loire, Centre-Val de Loire, 37600, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "17228188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1638352268",
+    "boundingbox": [
+      "-37.5636793",
+      "-37.5635793",
+      "143.8647819",
+      "143.8648819"
+    ],
+    "lat": "-37.5636293",
+    "lon": "143.8648319",
+    "display_name": "Cake, Porter Street, Bakery Hill, Ballarat, City of Ballarat, Grampians, Victoria, 3350, Australia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18482971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1788991177",
+    "boundingbox": [
+      "56.0580414",
+      "56.0581414",
+      "-2.7210983",
+      "-2.7209983"
+    ],
+    "lat": "56.0580914",
+    "lon": "-2.7210483",
+    "display_name": "Cake, High Street, North Berwick, East Lothian, Scotland, EH39 4HL, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "45401294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3240808375",
+    "boundingbox": [
+      "50.440992",
+      "50.441092",
+      "30.5214637",
+      "30.5215637"
+    ],
+    "lat": "50.441042",
+    "lon": "30.5215137",
+    "display_name": "The Cake, 5, \u041f\u0430\u0432\u043b\u0430 \u0421\u043a\u043e\u0440\u043e\u043f\u0430\u0434\u0441\u044c\u043a\u043e\u0433\u043e \u0432\u0443\u043b\u0438\u0446\u044f, \u0416\u041a \u041b\u0438\u043f\u0441\u044c\u043a\u0430 \u0432\u0435\u0436\u0430, \u041b\u0438\u043f\u043a\u0438, \u041f\u0435\u0447\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01204, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

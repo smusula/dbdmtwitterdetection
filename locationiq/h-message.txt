@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "56469459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4427492832",
+    "boundingbox": [
+      "44.3381075",
+      "44.3581075",
+      "-0.0174864",
+      "0.0025136"
+    ],
+    "lat": "44.3481075",
+    "lon": "-0.0074864",
+    "display_name": "Message, Antagnac, Marmande, Lot-et-Garonne, Nouvelle-Aquitaine, 47700, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54920267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4249014197",
+    "boundingbox": [
+      "21.959664",
+      "21.959764",
+      "96.1078624",
+      "96.1079624"
+    ],
+    "lat": "21.959714",
+    "lon": "96.1079124",
+    "display_name": "message, Nilar Lane, \u1019\u101f\u102c\u1021\u1031\u102c\u1004\u103a\u1019\u103c\u1031, Mandalay, \u1019\u1014\u1039\u1010\u101c\u1031\u1038\u1010\u102d\u102f\u1004\u103a\u1038, 0095, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.111
+  },
+  {
+    "place_id": "17047036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1606434206",
+    "boundingbox": [
+      "55.678653",
+      "55.678753",
+      "12.575378",
+      "12.575478"
+    ],
+    "lat": "55.678703",
+    "lon": "12.575428",
+    "display_name": "Message, Vimmelskaftet, K\u00f8dbyen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1157, Danmark",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16908943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1591054914",
+    "boundingbox": [
+      "55.6808981",
+      "55.6809981",
+      "12.5771676",
+      "12.5772676"
+    ],
+    "lat": "55.6809481",
+    "lon": "12.5772176",
+    "display_name": "Message, K\u00f8bmagergade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1150, Danmark",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55736199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4333681823",
+    "boundingbox": [
+      "48.2954953",
+      "48.2955953",
+      "4.0712209",
+      "4.0713209"
+    ],
+    "lat": "48.2955453",
+    "lon": "4.0712709",
+    "display_name": "The Message, 10, Rue Juv\u00e9nal des Ursins, Troyes, Aube, Grand-Est, 10000, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "55896051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4333681822",
+    "boundingbox": [
+      "48.2954882",
+      "48.2955882",
+      "4.0712276",
+      "4.0713276"
+    ],
+    "lat": "48.2955382",
+    "lon": "4.0712776",
+    "display_name": "The Message, Rue Juv\u00e9nal des Ursins, Troyes, Aube, Grand-Est, 10000, France",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.101
+  },
+  {
+    "place_id": "37776790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2866106001",
+    "boundingbox": [
+      "35.423476",
+      "35.423576",
+      "139.601215",
+      "139.601315"
+    ],
+    "lat": "35.423526",
+    "lon": "139.601265",
+    "display_name": "Le message, \u5f18\u660e\u5bfa\u304b\u3093\u306e\u3093\u901a\u308a, \u5f18\u660e\u5bfa\u5546\u5e97\u8857, \u5357\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 2, \u65e5\u672c",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "52136131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3927668915",
+    "boundingbox": [
+      "55.3849197",
+      "55.3850197",
+      "10.4259746",
+      "10.4260746"
+    ],
+    "lat": "55.3849697",
+    "lon": "10.4260246",
+    "display_name": "Message, Butik 30, R\u00f8d Gade, Korsl\u00f8kke, Odense, Odense Kommune, Region Syddanmark, 5220, Danmark",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "19636228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1920663013",
+    "boundingbox": [
+      "56.1362521",
+      "56.1363521",
+      "8.9692537",
+      "8.9693537"
+    ],
+    "lat": "56.1363021",
+    "lon": "8.9693037",
+    "display_name": "Message, Bredgade, Herning, Herning Kommune, Region Midtjylland, 7451, Danmark",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "48384310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3529237804",
+    "boundingbox": [
+      "35.6495909",
+      "35.6496909",
+      "139.7088356",
+      "139.7089356"
+    ],
+    "lat": "35.6496409",
+    "lon": "139.7088856",
+    "display_name": "MESSAGE, \u5e9a\u7533\u6a4b, \u6e0b\u8c371, \u6e0b\u8c37\u533a, \u6771\u4eac\u90fd, 1500012, \u65e5\u672c",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

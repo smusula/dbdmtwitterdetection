@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "2645316247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456484448",
+    "boundingbox": [
+      "18.0839174",
+      "18.0868992",
+      "-65.811318",
+      "-65.8089348"
+    ],
+    "lat": "18.0853592",
+    "lon": "-65.8100453975987",
+    "display_name": "The Views, Palmas del Mar, Candelero Abajo, Humacao, Puerto Rico, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "78838499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "57725324",
+    "boundingbox": [
+      "53.0892493",
+      "53.0892633",
+      "-2.205468",
+      "-2.2046026"
+    ],
+    "lat": "53.0892633",
+    "lon": "-2.2046026",
+    "display_name": "The Views, Kidsgrove, Newcastle-under-Lyme, Staffordshire, West Midlands, England, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "3652232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "391923104",
+    "boundingbox": [
+      "-31.5187403",
+      "-31.5186403",
+      "159.070434",
+      "159.070534"
+    ],
+    "lat": "-31.5186903",
+    "lon": "159.070484",
+    "display_name": "Views, Mutton Bird Drive, Lord Howe Island, NSW, 2898, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "3652239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "391923314",
+    "boundingbox": [
+      "-31.5128346",
+      "-31.5127346",
+      "159.0605755",
+      "159.0606755"
+    ],
+    "lat": "-31.5127846",
+    "lon": "159.0606255",
+    "display_name": "Views, Lagoon Road, Lord Howe Island, NSW, 2898, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "17101794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1631845729",
+    "boundingbox": [
+      "-31.5844592",
+      "-31.5843592",
+      "159.0773343",
+      "159.0774343"
+    ],
+    "lat": "-31.5844092",
+    "lon": "159.0773843",
+    "display_name": "Views, Gower track, NSW, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "3617003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "391923635",
+    "boundingbox": [
+      "-31.5131668",
+      "-31.5130668",
+      "159.0398973",
+      "159.0399973"
+    ],
+    "lat": "-31.5131168",
+    "lon": "159.0399473",
+    "display_name": "Views, Max Nichols Memorial Track, Lord Howe Island, NSW, 2898, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "3737684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "391844979",
+    "boundingbox": [
+      "-31.5280066",
+      "-31.5279066",
+      "159.0755274",
+      "159.0756274"
+    ],
+    "lat": "-31.5279566",
+    "lon": "159.0755774",
+    "display_name": "Views, Anderson Road, Lord Howe Island, NSW, 2898, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "3737948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "391923549",
+    "boundingbox": [
+      "-31.5126741",
+      "-31.5125741",
+      "159.0612471",
+      "159.0613471"
+    ],
+    "lat": "-31.5126241",
+    "lon": "159.0612971",
+    "display_name": "Views, Neds Beach Road, Lord Howe Island, NSW, 2898, Australia",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  }
+]

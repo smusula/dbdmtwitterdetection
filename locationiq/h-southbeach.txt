@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "142990028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "352682145",
+    "boundingbox": [
+      "34.4279699",
+      "34.4287209",
+      "-93.088135",
+      "-93.0877255"
+    ],
+    "lat": "34.4283207",
+    "lon": "-93.088135",
+    "display_name": "Southbeach Cove, Lake Hamilton, Garland County, Arkansas, 71913, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2645645841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4535161925",
+    "boundingbox": [
+      "12.5689485",
+      "12.5690485",
+      "-70.0442245",
+      "-70.0441245"
+    ],
+    "lat": "12.5689985",
+    "lon": "-70.0441745",
+    "display_name": "Southbeach lounge, Palm Beach, Washington, Bushiri, Bubali, Aruba, 00000, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

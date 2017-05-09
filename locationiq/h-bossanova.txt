@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "5933075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "600066304",
+    "boundingbox": [
+      "59.4373579",
+      "59.4374579",
+      "24.7443455",
+      "24.7444455"
+    ],
+    "lat": "59.4374079",
+    "lon": "24.7443955",
+    "display_name": "Bossanova, 1, Kinga, All-linn, Tallinna vanalinn, Tallinn, Harju maakond, 10123, Eesti",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "231378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "59942640",
+    "boundingbox": [
+      "52.2670843",
+      "52.2671843",
+      "10.5155526",
+      "10.5156526"
+    ],
+    "lat": "52.2671343",
+    "lon": "10.5156026",
+    "display_name": "Bossanova, 37, Lange Stra\u00dfe, Innenstadt, Braunschweig, Niedersachsen, 38100, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "155764414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422877962",
+    "boundingbox": [
+      "46.8748854",
+      "46.8755294",
+      "-71.3398932",
+      "-71.3388026"
+    ],
+    "lat": "46.87523675",
+    "lon": "-71.3396260403958",
+    "display_name": "Le Bossanova, 1985, Avenue Lapierre, Saint-Andr\u00e9, Qu\u00e9bec, G3E 0G8, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "31933773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2763709505",
+    "boundingbox": [
+      "48.3981614",
+      "48.3982614",
+      "9.9947883",
+      "9.9948883"
+    ],
+    "lat": "48.3982114",
+    "lon": "9.9948383",
+    "display_name": "Bossanova, 10, Judenhof, Fischerviertel, Oststadt, Arbeitersiedlung Untere Bleiche, Ulm, Regierungsbezirk T\u00fcbingen, Baden-W\u00fcrttemberg, 89073, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "17037422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1622041657",
+    "boundingbox": [
+      "37.3748266",
+      "37.3749266",
+      "-5.7520474",
+      "-5.7519474"
+    ],
+    "lat": "37.3748766",
+    "lon": "-5.7519974",
+    "display_name": "BossaNova, Calle San Agust\u00edn, Mairena del Alcor, Sevilla, Andaluc\u00eda, 41520, Espa\u00f1a",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41910220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3049680132",
+    "boundingbox": [
+      "64.1012467",
+      "64.1013467",
+      "-21.8828636",
+      "-21.8827636"
+    ],
+    "lat": "64.1012967",
+    "lon": "-21.8828136",
+    "display_name": "Bossanova, 1, Hagasm\u00e1ri, Sm\u00e1rar, K\u00f3pavogur, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 201, \u00cdsland",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "29290722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2705995453",
+    "boundingbox": [
+      "40.6739305",
+      "40.6740305",
+      "-73.956666",
+      "-73.956566"
+    ],
+    "lat": "40.6739805",
+    "lon": "-73.956616",
+    "display_name": "Installation, 717B, Franklin Avenue, Prospect Heights, BK, Kings County, NYC, New York, 11216, United States of America",
+    "class": "shop",
+    "type": "vintage",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101491426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161899363",
+    "boundingbox": [
+      "47.4855464",
+      "47.4858655",
+      "12.5332251",
+      "12.5336881"
+    ],
+    "lat": "47.48570485",
+    "lon": "12.5334592360259",
+    "display_name": "Installation, 70, Rosenegg, Fieberbrunn, Kitzb\u00fchel, Tirol, 6391, \u00d6sterreich",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

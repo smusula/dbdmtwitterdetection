@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "27468580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2594315083",
+    "boundingbox": [
+      "6.1322404",
+      "6.1323404",
+      "1.2404489",
+      "1.2405489"
+    ],
+    "lat": "6.1322904",
+    "lon": "1.2404989",
+    "display_name": "Bar Wonderfull ( Cave \u00e0 Vin), Rue d'Assoli, Souza-N\u00e9tim\u00e9, 3e Arr., Lom\u00e9, BP:13517, Togo",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "54204292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4173198505",
+    "boundingbox": [
+      "44.044497",
+      "44.044597",
+      "8.2137977",
+      "8.2138977"
+    ],
+    "lat": "44.044547",
+    "lon": "8.2138477",
+    "display_name": "Ristorante Time Wonderfull Asia, Via Antonio Gramsci, San Martino, Albenga, SV, LIG, 17031, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "141734726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "342790278",
+    "boundingbox": [
+      "19.2341654",
+      "19.2343055",
+      "-71.6834442",
+      "-71.6833121"
+    ],
+    "lat": "19.23423545",
+    "lon": "-71.6833781341374",
+    "display_name": "College Wonderfull + Ecole centre \u00e9vang\u00e9lique, 45, 3e Lamielle, Commune Cerca la Source, Arrondissement Cerca La Source, D\u00e9partement du Centre, Ayiti",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "17057533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1625966341",
+    "boundingbox": [
+      "18.2021189",
+      "18.2022189",
+      "-73.7615929",
+      "-73.7614929"
+    ],
+    "lat": "18.2021689",
+    "lon": "-73.7615429",
+    "display_name": "Wonderfull Institute, Avenue Cartagena, Carrefour Boyer, 1re Bourdet, Commune Les Cayes, Arrondissement des Cayes, D\u00e9partement du Sud, Ayiti",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

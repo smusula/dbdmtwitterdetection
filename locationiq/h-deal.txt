@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "108933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "17915906",
+    "boundingbox": [
+      "51.1750789",
+      "51.2550789",
+      "1.3631552",
+      "1.4431552"
+    ],
+    "lat": "51.2150789",
+    "lon": "1.4031552",
+    "display_name": "Deal, Kent, South East, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.52055973284519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160285516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170398",
+    "boundingbox": [
+      "40.237266",
+      "40.26345",
+      "-74.0097329",
+      "-73.9866809"
+    ],
+    "lat": "40.243168",
+    "lon": "-74.0006926",
+    "display_name": "Deal, Monmouth County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46019232957918,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "148895",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27470839",
+    "boundingbox": [
+      "51.2181021",
+      "51.2281021",
+      "1.3936147",
+      "1.4036147"
+    ],
+    "lat": "51.2231021",
+    "lon": "1.3986147",
+    "display_name": "Deal, London Road, Deal, Dover, Kent, South East, England, CT14 6AH, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.43170884311896,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "135830651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314109461",
+    "boundingbox": [
+      "53.5272556",
+      "53.53068",
+      "-7.0979936",
+      "-7.0972062"
+    ],
+    "lat": "53.529206",
+    "lon": "-7.0973445",
+    "display_name": "Deal, Mullingar, County Westmeath, Leinster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "147277052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375886838",
+    "boundingbox": [
+      "12.6490788",
+      "12.6859443",
+      "-16.7766029",
+      "-16.7205815"
+    ],
+    "lat": "12.6709678",
+    "lon": "-16.7457181",
+    "display_name": "Marigot aux Hu\u00eetres, D\u00e9partement de Bignona, Ziguinchor, S\u00e9n\u00e9gal",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

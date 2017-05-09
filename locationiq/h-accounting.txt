@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "68474917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23250566",
+    "boundingbox": [
+      "14.7054077",
+      "14.7058614",
+      "121.0631016",
+      "121.0637094"
+    ],
+    "lat": "14.7054077",
+    "lon": "121.0631016",
+    "display_name": "Accounting, SSS Employees Housing Project, North Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67405929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20528649",
+    "boundingbox": [
+      "14.6711735",
+      "14.6730255",
+      "121.0257712",
+      "121.0260355"
+    ],
+    "lat": "14.6721126",
+    "lon": "121.0258292",
+    "display_name": "Accounting, GSIS Village, Bahay Toro, Quezon City, District I, Quezon City, Metro Manila, 1106, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69674613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25519546",
+    "boundingbox": [
+      "14.6279045",
+      "14.6282206",
+      "121.1052127",
+      "121.1078593"
+    ],
+    "lat": "14.6279647",
+    "lon": "121.1069341",
+    "display_name": "Accounting, St. Gregory Village, Cainta, Rizal, Calabarzon, 1900, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "145899839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369770362",
+    "boundingbox": [
+      "47.1749603",
+      "47.1752442",
+      "-122.4964097",
+      "-122.4949499"
+    ],
+    "lat": "47.17513525",
+    "lon": "-122.495679805831",
+    "display_name": "Accounting, Perimeter Drive, Lakewood, Pierce County, Washington, 98499, United States of America",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

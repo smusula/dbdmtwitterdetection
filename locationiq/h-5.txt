@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160567294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2804753",
+    "boundingbox": [
+      "42.4687463",
+      "42.5228659",
+      "1.4603314",
+      "1.5591178"
+    ],
+    "lat": "42.49549955",
+    "lon": "1.50685531703821",
+    "display_name": "Andorra la Vella, AD500, Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57111177665582,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160794497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4734547",
+    "boundingbox": [
+      "31.338992",
+      "33.4826112",
+      "-7.321136",
+      "-5.241225"
+    ],
+    "lat": "32.4625395",
+    "lon": "-6.3543281",
+    "display_name": "B\u00e9ni Mellal-Kh\u00e9nifra \u2d30\u2d62\u2d5c \u2d4e\u2d4d\u2d4d\u2d30\u2d4d-\u2d45\u2d4f\u2d49\u2d3c\u2d55\u2d30 \u0628\u0646\u064a \u0645\u0644\u0627\u0644-\u062e\u0646\u064a\u0641\u0631\u0629, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160482422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1991440",
+    "boundingbox": [
+      "48.1792208",
+      "48.1969247",
+      "16.3417518",
+      "16.3688339"
+    ],
+    "lat": "48.18807345",
+    "lon": "16.3533860772101",
+    "display_name": "Margareten, Wien, 1050, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53028441000886,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "110454382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199177",
+    "boundingbox": [
+      "25.0414779",
+      "25.0415853",
+      "121.541606",
+      "121.5506984"
+    ],
+    "lat": "25.0415269",
+    "lon": "121.5437522",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fa9\u8208\u5357\u8def\u4e00\u6bb5, \u9f8d\u5b89\u5761, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 10654, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110457453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199194",
+    "boundingbox": [
+      "25.0416077",
+      "25.0421754",
+      "121.5336303",
+      "121.5416065"
+    ],
+    "lat": "25.04167",
+    "lon": "121.5379392",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fe0\u5b5d\u6771\u8def\u4e09\u6bb5, \u660c\u9686\u91cc, \u9f8d\u5b89\u5761, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 10655, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110508398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199178",
+    "boundingbox": [
+      "25.0415082",
+      "25.0416077",
+      "121.5416065",
+      "121.5507066"
+    ],
+    "lat": "25.0415583",
+    "lon": "121.5438017",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fa9\u8208\u5357\u8def\u4e00\u6bb5, \u5149\u6b66\u91cc, \u9f8d\u5b89\u5761, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 10654, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110454371",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199159",
+    "boundingbox": [
+      "25.0455798",
+      "25.0503784",
+      "121.582909",
+      "121.5926445"
+    ],
+    "lat": "25.0491275",
+    "lon": "121.587472",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fe0\u5b5d\u6771\u8def\u516d\u6bb5, \u5408\u6210\u91cc, \u5f8c\u5c71\u57e4, \u5357\u6e2f\u5340, \u81fa\u5317\u5e02, 11556, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110464929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199193",
+    "boundingbox": [
+      "25.0415853",
+      "25.0421357",
+      "121.533622",
+      "121.541606"
+    ],
+    "lat": "25.0416475",
+    "lon": "121.5379387",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fe0\u5b5d\u6771\u8def\u4e09\u6bb5, \u7fa9\u6751\u91cc, \u9f8d\u5b89\u5761, \u5927\u5b89\u5340, \u81fa\u5317\u5e02, 10655, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110508410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199190",
+    "boundingbox": [
+      "25.0421357",
+      "25.0445091",
+      "121.5242815",
+      "121.533622"
+    ],
+    "lat": "25.043471",
+    "lon": "121.5282723",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fe0\u5b5d\u6771\u8def\u4e8c\u6bb5, \u5e78\u798f\u91cc, \u6771\u9580, \u4e2d\u6b63\u5340, \u81fa\u5317\u5e02, 10053, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  },
+  {
+    "place_id": "110457443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198199182",
+    "boundingbox": [
+      "25.0445091",
+      "25.0459321",
+      "121.5186858",
+      "121.5242815"
+    ],
+    "lat": "25.0455695",
+    "lon": "121.5201936",
+    "display_name": "\u6377\u904b\u677f\u5357\u7dda, \u5fe0\u5b5d\u6771\u8def\u4e00\u6bb5, \u6885\u82b1\u91cc, \u57ce\u5167, \u4e2d\u6b63\u5340, \u81fa\u5317\u5e02, 10051, \u81fa\u7063",
+    "class": "railway",
+    "type": "subway",
+    "importance": 0.49603191779386
+  }
+]

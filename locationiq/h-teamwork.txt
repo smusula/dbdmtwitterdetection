@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "90767325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117680744",
+    "boundingbox": [
+      "48.2882492",
+      "48.2899329",
+      "14.3072146",
+      "14.3092116"
+    ],
+    "lat": "48.2890412",
+    "lon": "14.3081154635879",
+    "display_name": "TEAMwork, Franckviertel, Linz (Stadt), Ober\u00f6sterreich, 4020, \u00d6sterreich",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "89497794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "113702139",
+    "boundingbox": [
+      "50.915934",
+      "50.9161308",
+      "7.3347548",
+      "7.3351287"
+    ],
+    "lat": "50.9160324",
+    "lon": "7.33494174353982",
+    "display_name": "teamwork, K 37, B\u00fcchelalm, Overath, Rheinisch-Bergischer Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51491, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "19868208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1989917279",
+    "boundingbox": [
+      "51.6874199",
+      "51.6875199",
+      "8.7449373",
+      "8.7450373"
+    ],
+    "lat": "51.6874699",
+    "lon": "8.7449873",
+    "display_name": "Teamwork, Halberst\u00e4dter Stra\u00dfe, Industriegebiet M\u00f6nkeloh, Paderborn, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33106, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "56424269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4388780554",
+    "boundingbox": [
+      "51.9450105",
+      "51.9451105",
+      "9.0971511",
+      "9.0972511"
+    ],
+    "lat": "51.9450605",
+    "lon": "9.0972011",
+    "display_name": "Teamwork, 6, Hohenrenner Weg, Blomberg, Kreis Lippe, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32825, Deutschland",
+    "class": "office",
+    "type": "educational_institution",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651576297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4674915436",
+    "boundingbox": [
+      "45.710138",
+      "45.710238",
+      "4.9149088",
+      "4.9150088"
+    ],
+    "lat": "45.710188",
+    "lon": "4.9149588",
+    "display_name": "Teamwork, 1, Rue Jean Carmet, Eden Park, Saint-Priest, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69800, France",
+    "class": "office",
+    "type": "it",
+    "importance": 0.101
+  }
+]

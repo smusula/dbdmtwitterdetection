@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160260797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "77601",
+    "boundingbox": [
+      "-21.3897307",
+      "-20.8717135",
+      "55.2164268",
+      "55.8366924"
+    ],
+    "lat": "-21.1309331",
+    "lon": "55.5265771",
+    "display_name": "La R\u00e9union, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.66622140506868,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160550186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2470060",
+    "boundingbox": [
+      "-21.3897307",
+      "-20.8717135",
+      "55.2164268",
+      "55.8366924"
+    ],
+    "lat": "-21.1309331",
+    "lon": "55.5265771",
+    "display_name": "La R\u00e9union, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.66622140506868,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160466267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1785276",
+    "boundingbox": [
+      "-21.5904457",
+      "-20.6727639",
+      "55.0032808",
+      "56.0507905"
+    ],
+    "lat": "-21.1309331",
+    "lon": "55.5265771",
+    "display_name": "La R\u00e9union, France",
+    "class": "boundary",
+    "type": "territorial",
+    "importance": 0.66622140506868
+  },
+  {
+    "place_id": "2648624384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4603951151",
+    "boundingbox": [
+      "44.7336959",
+      "44.7337959",
+      "0.0107667",
+      "0.0108667"
+    ],
+    "lat": "44.7337459",
+    "lon": "0.0108167",
+    "display_name": "La Reunion, Soussac, Langon, Gironde, Nouvelle-Aquitaine, 33790, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "126572452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265080878",
+    "boundingbox": [
+      "39.8706453",
+      "39.9001244",
+      "-104.8092969",
+      "-104.7526557"
+    ],
+    "lat": "39.88538725",
+    "lon": "-104.771801862658",
+    "display_name": "Reunion, Commerce City, Adams County, Colorado, 80024, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126530998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265080469",
+    "boundingbox": [
+      "39.8963986",
+      "39.900068",
+      "-104.8092774",
+      "-104.8046454"
+    ],
+    "lat": "39.8982546",
+    "lon": "-104.806993180788",
+    "display_name": "Reunion, Commerce City, Adams County, Colorado, 80603, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "127140096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "268530980",
+    "boundingbox": [
+      "39.8837406",
+      "39.8855221",
+      "-104.7807132",
+      "-104.7764713"
+    ],
+    "lat": "39.8846209",
+    "lon": "-104.77860204362",
+    "display_name": "Reunion, Commerce City, Adams County, Colorado, 80024, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126611654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265135319",
+    "boundingbox": [
+      "39.8855718",
+      "39.889736",
+      "-104.7716465",
+      "-104.7631232"
+    ],
+    "lat": "39.88745665",
+    "lon": "-104.767594953472",
+    "display_name": "Reunion, Commerce City, Adams County, Colorado, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "127588676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "272099889",
+    "boundingbox": [
+      "51.3001394",
+      "51.3074933",
+      "-114.0486187",
+      "-114.0282498"
+    ],
+    "lat": "51.3027308",
+    "lon": "-114.0440213",
+    "display_name": "Reunion, Rocky View County, Airdrie, Alberta, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1455360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "315138439",
+    "boundingbox": [
+      "-37.019427",
+      "-36.979427",
+      "-72.5795742",
+      "-72.5395742"
+    ],
+    "lat": "-36.999427",
+    "lon": "-72.5595742",
+    "display_name": "Reuni\u00f3n, Provincia de B\u00edo-B\u00edo, VIII Regi\u00f3n del Biob\u00edo, Chile",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

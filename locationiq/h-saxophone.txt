@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "68824765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24045836",
+    "boundingbox": [
+      "-26.1097535",
+      "-26.1090829",
+      "27.9150538",
+      "27.9168047"
+    ],
+    "lat": "-26.1092371",
+    "lon": "27.9159378",
+    "display_name": "Saxophone, Johannesburg Ward 97, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, 2169, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "16022507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1473015095",
+    "boundingbox": [
+      "45.5448279",
+      "45.5449279",
+      "11.5400094",
+      "11.5401094"
+    ],
+    "lat": "45.5448779",
+    "lon": "11.5400594",
+    "display_name": "Saxophone, Viale Giuseppe Verdi, Barche, Gogna, Vicenza, VI, VEN, 36100, Italia",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.101
+  },
+  {
+    "place_id": "791978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "264488289",
+    "boundingbox": [
+      "53.5208627",
+      "53.5209627",
+      "8.1128357",
+      "8.1129357"
+    ],
+    "lat": "53.5209127",
+    "lon": "8.1128857",
+    "display_name": "Saxophone, B\u00f6rsenplatz, City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "50298522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3730620928",
+    "boundingbox": [
+      "50.2624718",
+      "50.2625718",
+      "4.9102156",
+      "4.9103156"
+    ],
+    "lat": "50.2625218",
+    "lon": "4.9102656",
+    "display_name": "Saxophone, Rue Saint-Jacques, Leffe, Dinant, Namur, Wallonie, 5500, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "14112406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1293267131",
+    "boundingbox": [
+      "41.9074162",
+      "41.9075162",
+      "12.4562834",
+      "12.4563834"
+    ],
+    "lat": "41.9074662",
+    "lon": "12.4563334",
+    "display_name": "Saxophone, 26, Via Germanico, Municipio Roma I, Roma, RM, LAZ, 00192, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2652662544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4699039093",
+    "boundingbox": [
+      "13.7635348",
+      "13.7636348",
+      "100.5382052",
+      "100.5383052"
+    ],
+    "lat": "13.7635848",
+    "lon": "100.5382552",
+    "display_name": "Saxophone, \u0e0b\u0e2d\u0e22\u0e23\u0e32\u0e0a\u0e27\u0e34\u0e16\u0e35 11, \u0e2d\u0e19\u0e38\u0e2a\u0e32\u0e27\u0e23\u0e35\u0e22\u0e4c\u0e0a\u0e31\u0e22\u0e2a\u0e21\u0e23\u0e20\u0e39\u0e21\u0e34, \u0e40\u0e02\u0e15\u0e23\u0e32\u0e0a\u0e40\u0e17\u0e27\u0e35, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10400, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

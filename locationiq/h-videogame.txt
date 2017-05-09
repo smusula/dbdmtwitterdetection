@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "150753273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395000540",
+    "boundingbox": [
+      "52.9533636",
+      "52.9535325",
+      "-1.1444067",
+      "-1.1439588"
+    ],
+    "lat": "52.9534409",
+    "lon": "-1.1442921918365",
+    "display_name": "The National Videogame Arcade, 24-32, Carlton Street, Lace Market, St Ann's, City of Nottingham, East Midlands, England, NG1 1NN, UK",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "147737422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377503575",
+    "boundingbox": [
+      "17.0717402",
+      "17.0718192",
+      "-89.1379425",
+      "-89.1378598"
+    ],
+    "lat": "17.07179945",
+    "lon": "-89.137900225",
+    "display_name": "Videogame Center, Joyce Blair Street, Benque Viejo del Carmen, Cayo District, Cayo, Belize",
+    "class": "amenity",
+    "type": "internet_cafe",
+    "importance": 0.101
+  }
+]

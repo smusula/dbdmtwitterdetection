@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "25373799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2441069288",
+    "boundingbox": [
+      "47.6039451",
+      "47.6040451",
+      "-122.3391088",
+      "-122.3390088"
+    ],
+    "lat": "47.6039951",
+    "lon": "-122.3390588",
+    "display_name": "Ivar's Acres of Clams, 1001, Alaskan Way, Belltown, Seattle, King County, Washington, 98121, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "24054332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2358153391",
+    "boundingbox": [
+      "38.9896808",
+      "38.9897808",
+      "-77.0980931",
+      "-77.0979931"
+    ],
+    "lat": "38.9897308",
+    "lon": "-77.0980431",
+    "display_name": "Freddy's Lobster & Clams, 4867, Cordell Avenue, Woodmont Triangle, East Bethesda, Bethesda, Montgomery County, Maryland, 20814, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "144461033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362939273",
+    "boundingbox": [
+      "-24.8687299",
+      "-24.8684505",
+      "152.3353027",
+      "152.3355197"
+    ],
+    "lat": "-24.86861735",
+    "lon": "152.335406642458",
+    "display_name": "L - Clams, Bourbong Street, Bundaberg West, Bundaberg, Bundaberg Region, QLD, 4670, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106345587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180155509",
+    "boundingbox": [
+      "42.7951032",
+      "42.7951831",
+      "-71.2510464",
+      "-71.2509497"
+    ],
+    "lat": "42.7951367",
+    "lon": "-71.2509782983417",
+    "display_name": "Minuteman Clams, Lakeside Street, Big Bear Plaza, Salem, Rockingham County, New Hampshire, 03079, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "55218138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4261861966",
+    "boundingbox": [
+      "37.9313763",
+      "37.9314763",
+      "23.6459085",
+      "23.6460085"
+    ],
+    "lat": "37.9314263",
+    "lon": "23.6459585",
+    "display_name": "Hams and clams, 2, \u03a0\u03ac\u03c1\u03b3\u03b1\u03c2, \u03a6\u03c1\u03b5\u03b1\u03c4\u03c4\u03cd\u03b4\u03b1, \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ac\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b5\u03b9\u03c1\u03b1\u03b9\u03ce\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 18536, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "21756984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2171582783",
+    "boundingbox": [
+      "9.106088",
+      "9.106188",
+      "124.8029811",
+      "124.8030811"
+    ],
+    "lat": "9.106138",
+    "lon": "124.8030311",
+    "display_name": "Cantaan Giant Clams, Main Highway, Cabuan, Guinsiliban, Camiguin, Northern Mindanao, 9102, Philippines",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  }
+]

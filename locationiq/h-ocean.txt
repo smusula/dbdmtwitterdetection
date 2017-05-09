@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160367840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "962550",
+    "boundingbox": [
+      "39.4751962",
+      "40.172355",
+      "-74.5531049",
+      "-73.9661051"
+    ],
+    "lat": "39.977818",
+    "lon": "-74.3319286",
+    "display_name": "Ocean County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54811611370009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2609671220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "451917835",
+    "boundingbox": [
+      "45.6364097",
+      "45.6365784",
+      "13.767027",
+      "13.7674023"
+    ],
+    "lat": "45.63648525",
+    "lon": "13.7672143209875",
+    "display_name": "Ocean, Trieste, TS, FVG, Italia",
+    "class": "waterway",
+    "type": "boatyard",
+    "importance": 0.425
+  },
+  {
+    "place_id": "484135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158588899",
+    "boundingbox": [
+      "39.5825885",
+      "39.6225885",
+      "-78.9639134",
+      "-78.9239134"
+    ],
+    "lat": "39.6025885",
+    "lon": "-78.9439134",
+    "display_name": "Ocean, Allegany County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "466434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158538292",
+    "boundingbox": [
+      "34.6922015",
+      "34.7322015",
+      "-77.0111627",
+      "-76.9711627"
+    ],
+    "lat": "34.7122015",
+    "lon": "-76.9911627",
+    "display_name": "Ocean, Carteret County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160578840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2750836",
+    "boundingbox": [
+      "2.1565681",
+      "3.5935891",
+      "9.6176318",
+      "11.1799968"
+    ],
+    "lat": "2.87845145",
+    "lon": "10.1808050241925",
+    "display_name": "Oc\u00e9an, SU, Cameroun",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3321866047208,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "111753914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203468650",
+    "boundingbox": [
+      "28.9954574",
+      "28.9967709",
+      "-13.4913131",
+      "-13.4900074"
+    ],
+    "lat": "28.9961416",
+    "lon": "-13.4907046483996",
+    "display_name": "Ocean, Costa Teguise, Teguise, Las Palmas, Canarias, 35508, Espa\u00f1a",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "47820253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3486287189",
+    "boundingbox": [
+      "34.0025256",
+      "34.0425256",
+      "-6.8678369",
+      "-6.8278369"
+    ],
+    "lat": "34.0225256",
+    "lon": "-6.8478369",
+    "display_name": "Oc\u00e9an \u2d4d\u2d4e\u2d53\u2d43\u2d49\u2d5f \u0627\u0644\u0645\u062d\u064a\u0637, Hassan \u062d\u0633\u0627\u0646, Rabat \u2d54\u2d31\u2d30\u2d5f \u0627\u0644\u0631\u0628\u0627\u0637, pachalik de Rabat, Pr\u00e9fecture de Rabat \u0639\u0645\u0627\u0644\u0629 \u0627\u0644\u0631\u0628\u0627\u0637, Rabat-Sal\u00e9-K\u00e9nitra \u2d3b\u2d54\u2d31\u2d30\u2d5f-\u2d59\u2d4d\u2d30-\u2d47\u2d4f\u2d49\u2d5f\u2d54\u2d30 \u0627\u0644\u0631\u0628\u0627\u0637-\u0633\u0644\u0627-\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "158939648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "439896572",
+    "boundingbox": [
+      "33.9157196",
+      "33.9157341",
+      "-118.3782506",
+      "-118.3745478"
+    ],
+    "lat": "33.9157306",
+    "lon": "-118.3763704",
+    "display_name": "Ocean, Hawthorne, Los Angeles County, California, 90261, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61187381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10820308",
+    "boundingbox": [
+      "27.005067",
+      "27.005269",
+      "-82.1812789",
+      "-82.1775099"
+    ],
+    "lat": "27.005081",
+    "lon": "-82.1793529",
+    "display_name": "Ocean, Murdock, Charlotte County, Florida, 33953, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71592159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30380210",
+    "boundingbox": [
+      "14.6245209",
+      "14.6262917",
+      "121.1309099",
+      "121.1313543"
+    ],
+    "lat": "14.6253055",
+    "lon": "121.1313543",
+    "display_name": "Ocean, Masinag, Mayamot, Rizal, Calabarzon, 1870, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

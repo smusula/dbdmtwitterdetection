@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "46627980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3339511138",
+    "boundingbox": [
+      "48.3891033",
+      "48.3892033",
+      "15.495299",
+      "15.495399"
+    ],
+    "lat": "48.3891533",
+    "lon": "15.495349",
+    "display_name": "Mugler, Gemeinde Rossatz-Arnsdorf, Bezirk Krems, Nieder\u00f6sterreich, \u00d6sterreich",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "17918494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1726413920",
+    "boundingbox": [
+      "47.105376",
+      "47.105476",
+      "11.9418079",
+      "11.9419079"
+    ],
+    "lat": "47.105426",
+    "lon": "11.9418579",
+    "display_name": "Mugler, Brandberg, Schwaz, Tirol, \u00d6sterreich",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

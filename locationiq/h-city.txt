@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160250163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "51800",
+    "boundingbox": [
+      "51.5068696",
+      "51.5233213",
+      "-0.113821",
+      "-0.072726"
+    ],
+    "lat": "51.5156177",
+    "lon": "-0.0919982",
+    "display_name": "City of London, Greater London, England, UK",
+    "class": "place",
+    "type": "city",
+    "importance": 0.66966005839696,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2647482240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4578067541",
+    "boundingbox": [
+      "51.474896",
+      "51.514896",
+      "-3.4777869",
+      "-3.4377869"
+    ],
+    "lat": "51.494896",
+    "lon": "-3.4577869",
+    "display_name": "City, Vale of Glamorgan, Wales, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160458626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1693092",
+    "boundingbox": [
+      "47.3657464",
+      "47.3829698",
+      "8.5292054",
+      "8.5423401"
+    ],
+    "lat": "47.3742675",
+    "lon": "8.53580066652856",
+    "display_name": "City, Altstadt, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160833210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5342034",
+    "boundingbox": [
+      "-35.2872884",
+      "-35.2752729",
+      "149.120718",
+      "149.1375885"
+    ],
+    "lat": "-35.2812677",
+    "lon": "149.1291868",
+    "display_name": "City, Canberra, Canberra Central, Australian Capital Territory, 2601, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36899312843518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "38978124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2901448293",
+    "boundingbox": [
+      "52.8425227",
+      "52.8625227",
+      "-0.6968449",
+      "-0.6768449"
+    ],
+    "lat": "52.8525227",
+    "lon": "-0.6868449",
+    "display_name": "The City, South Kesteven, Lincolnshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14259758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1297232278",
+    "boundingbox": [
+      "52.3633302",
+      "52.3634302",
+      "4.8837939",
+      "4.8838939"
+    ],
+    "lat": "52.3633802",
+    "lon": "4.8838439",
+    "display_name": "City, Kleine-Gartmanplantsoen, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017RP, Nederland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.32603047907589,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "373386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151551639",
+    "boundingbox": [
+      "34.7148248",
+      "34.7548248",
+      "-94.097152",
+      "-94.057152"
+    ],
+    "lat": "34.7348248",
+    "lon": "-94.077152",
+    "display_name": "Y City, Scott County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.30436424356534,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72754728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32485821",
+    "boundingbox": [
+      "47.2342407",
+      "47.2357399",
+      "6.0134065",
+      "6.0154009"
+    ],
+    "lat": "47.2349982",
+    "lon": "6.01470884797654",
+    "display_name": "La City, La Butte, Besan\u00e7on, Doubs, Bourgogne-Franche-Comt\u00e9, 25000, France",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "69183918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24748711",
+    "boundingbox": [
+      "49.9723087",
+      "49.9774416",
+      "9.1439824",
+      "9.1511715"
+    ],
+    "lat": "49.97478065",
+    "lon": "9.14845167642014",
+    "display_name": "City, Stadtmitte, Aschaffenburg, Unterfranken, Bayern, 63739,63741,63743, Deutschland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160871738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5663293",
+    "boundingbox": [
+      "53.5177989",
+      "53.5223104",
+      "8.1061378",
+      "8.1241404"
+    ],
+    "lat": "53.5200838",
+    "lon": "8.1148334",
+    "display_name": "City, Innenstadt, Wilhelmshaven, Niedersachsen, 26382, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

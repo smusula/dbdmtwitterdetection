@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160591913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2972718",
+    "boundingbox": [
+      "26.7714729",
+      "27.4359109",
+      "113.1582546",
+      "113.8717386"
+    ],
+    "lat": "27.180171",
+    "lon": "113.483764",
+    "display_name": "\u6538\u53bf (You), \u682a\u6d32\u5e02 / Zhuzhou, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52244716426617,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "8414759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "903004367",
+    "boundingbox": [
+      "13.6634206",
+      "13.7434206",
+      "-2.1813245",
+      "-2.1013245"
+    ],
+    "lat": "13.7034206",
+    "lon": "-2.1413245",
+    "display_name": "You, Loroum, Nord, Burkina Faso",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "14287571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308657455",
+    "boundingbox": [
+      "-5.8923128",
+      "-5.8523128",
+      "138.3110988",
+      "138.3510988"
+    ],
+    "lat": "-5.8723128",
+    "lon": "138.3310988",
+    "display_name": "You, Papua, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41850671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037427920",
+    "boundingbox": [
+      "9.58684",
+      "9.62684",
+      "13.5269001",
+      "13.5669001"
+    ],
+    "lat": "9.60684",
+    "lon": "13.5469001",
+    "display_name": "You, B\u00e9nou\u00e9, NO, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2644879913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4518700965",
+    "boundingbox": [
+      "9.8124537",
+      "9.8524537",
+      "14.8236969",
+      "14.8636969"
+    ],
+    "lat": "9.8324537",
+    "lon": "14.8436969",
+    "display_name": "Youe, Mayo-Kebbi Est \u0645\u0627\u064a\u0648 \u0643\u064a\u0628\u064a \u0627\u0644\u0634\u0631\u0642\u064a\u0629, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19708029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1972888811",
+    "boundingbox": [
+      "14.0411217",
+      "14.0811217",
+      "15.0921781",
+      "15.1321781"
+    ],
+    "lat": "14.0611217",
+    "lon": "15.1121781",
+    "display_name": "You, Kanem \u0643\u0627\u0646\u0645, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52717315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4013615028",
+    "boundingbox": [
+      "14.0034316",
+      "14.0434316",
+      "14.3908897",
+      "14.4308897"
+    ],
+    "lat": "14.0234316",
+    "lon": "14.4108897",
+    "display_name": "You, Lac \u0627\u0644\u0628\u062d\u064a\u0631\u0629, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81601695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "76700839",
+    "boundingbox": [
+      "28.5286105",
+      "28.7208867",
+      "110.2752533",
+      "110.3516179"
+    ],
+    "lat": "28.6053489",
+    "lon": "110.3184873",
+    "display_name": "\u9149\u6c34, \u6c85\u9675\u9547, \u6c85\u9675\u53bf (Yuanling), \u6000\u5316\u5e02 / Huaihua, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "77311440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49414916",
+    "boundingbox": [
+      "28.7061242",
+      "28.760012",
+      "110.0694066",
+      "110.2746297"
+    ],
+    "lat": "28.7201257",
+    "lon": "110.1610738",
+    "display_name": "\u9149\u6c34, \u53e4\u4e08\u53bf (Guzhang), \u6e58\u897f\u5dde / Xiangxi, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "77523942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49414977",
+    "boundingbox": [
+      "28.760012",
+      "28.9131634",
+      "110.0688916",
+      "110.1961874"
+    ],
+    "lat": "28.8364425",
+    "lon": "110.1347662",
+    "display_name": "\u9149\u6c34, \u6c38\u987a\u53bf (Yongshun), \u6e58\u897f\u5dde / Xiangxi, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

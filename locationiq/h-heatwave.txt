@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "7131754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "762885037",
+    "boundingbox": [
+      "52.1867271",
+      "52.1868271",
+      "-2.2537188",
+      "-2.2536188"
+    ],
+    "lat": "52.1867771",
+    "lon": "-2.2536688",
+    "display_name": "Heatwave, Broadway Grove, Dines Green, Worcester, Worcestershire, West Midlands, England, WR2 5QH, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "95883211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137335648",
+    "boundingbox": [
+      "52.5497207",
+      "52.5497875",
+      "-1.8414682",
+      "-1.841272"
+    ],
+    "lat": "52.54975405",
+    "lon": "-1.84137007974282",
+    "display_name": "Heatwave, 17, Boldmere Road, Sutton Coldfield, Boldmere, Birmingham, West Midlands, England, B73 5UY, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "29261932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2703972674",
+    "boundingbox": [
+      "46.5170196",
+      "46.5171196",
+      "-80.9850537",
+      "-80.9849537"
+    ],
+    "lat": "46.5170696",
+    "lon": "-80.9850037",
+    "display_name": "Heatwave, 893, Notre Dame Avenue, Flour Mill, Sudbury, Ontario, P3C 5S5, Canada",
+    "class": "shop",
+    "type": "tanning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "82677714",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82674255",
+    "boundingbox": [
+      "54.1517987",
+      "54.1519158",
+      "-4.483804",
+      "-4.4834611"
+    ],
+    "lat": "54.15185",
+    "lon": "-4.48362654083109",
+    "display_name": "Heatwave, Princes Street, Willaston, Douglas, Middle, IM1 3DE, Isle of Man",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "21815384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2147916033",
+    "boundingbox": [
+      "55.8629706",
+      "55.8630706",
+      "-4.212038",
+      "-4.211938"
+    ],
+    "lat": "55.8630206",
+    "lon": "-4.211988",
+    "display_name": "Heatwave, 642, Alexandra Parade, Milnbank, Dennistoun, Glasgow City, Scotland, G31, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

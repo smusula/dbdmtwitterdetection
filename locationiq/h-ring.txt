@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "405729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153532755",
+    "boundingbox": [
+      "43.8891509",
+      "43.9291509",
+      "-88.6603888",
+      "-88.6203888"
+    ],
+    "lat": "43.9091509",
+    "lon": "-88.6403888",
+    "display_name": "Ring, Town of Nekimi, Winnebago County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4298180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "452135299",
+    "boundingbox": [
+      "56.3842108",
+      "56.4242108",
+      "10.3385633",
+      "10.3785633"
+    ],
+    "lat": "56.4042108",
+    "lon": "10.3585633",
+    "display_name": "Ring, Norddjurs Kommune, Region Midtjylland, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23676473",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2346100481",
+    "boundingbox": [
+      "55.1133704",
+      "55.1533704",
+      "11.8312511",
+      "11.8712511"
+    ],
+    "lat": "55.1333704",
+    "lon": "11.8512511",
+    "display_name": "Ring, N\u00e6stved Kommune, Region Sj\u00e6lland, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "601442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240126362",
+    "boundingbox": [
+      "47.2666288",
+      "47.3066288",
+      "15.9472281",
+      "15.9872281"
+    ],
+    "lat": "47.2866288",
+    "lon": "15.9672281",
+    "display_name": "Ring, Bezirk Hartberg-F\u00fcrstenfeld, Steiermark, \u00d6sterreich",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23152881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2312600975",
+    "boundingbox": [
+      "48.8023115",
+      "48.8223115",
+      "7.4889644",
+      "7.5089644"
+    ],
+    "lat": "48.8123115",
+    "lon": "7.4989644",
+    "display_name": "Ring, Bosselshausen, Saverne, Bas-Rhin, Grand-Est, 67330, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52869447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3992822596",
+    "boundingbox": [
+      "52.3807915",
+      "52.4207915",
+      "12.5326214",
+      "12.5726214"
+    ],
+    "lat": "52.4007915",
+    "lon": "12.5526214",
+    "display_name": "Ring, Brandenburg an der Havel, Brandenburg, Deutschland",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160690406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3570249",
+    "boundingbox": [
+      "54.3688717",
+      "54.3819747",
+      "-7.6445624",
+      "-7.6313331"
+    ],
+    "lat": "54.3753342",
+    "lon": "-7.6384220412848",
+    "display_name": "Ring, Enniskillen, County Fermanagh, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160951113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5949320",
+    "boundingbox": [
+      "51.8855744",
+      "51.9109676",
+      "-7.9083704",
+      "-7.8839725"
+    ],
+    "lat": "51.8914267",
+    "lon": "-7.89664049646211",
+    "display_name": "Ring, Kilmacdonogh, Ballymacoda, County Cork, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160841186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5422723",
+    "boundingbox": [
+      "53.5775759",
+      "53.5895108",
+      "-6.2242448",
+      "-6.2081661"
+    ],
+    "lat": "53.58359405",
+    "lon": "-6.21547447284542",
+    "display_name": "Ring, Balscaddan ED, Balbriggan, Fingal, County Dublin, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160694074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3631174",
+    "boundingbox": [
+      "54.288448",
+      "54.2955078",
+      "-7.5866222",
+      "-7.5736293"
+    ],
+    "lat": "54.29165845",
+    "lon": "-7.58055012009947",
+    "display_name": "Ring, Tamlaght, County Fermanagh, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "66911960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20410712",
+    "boundingbox": [
+      "36.730609",
+      "36.731851",
+      "-80.1243499",
+      "-80.1240899"
+    ],
+    "lat": "36.731146",
+    "lon": "-80.1241089",
+    "display_name": "Setlife Lane, Patrick County, Virginia, 24133, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "148346132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "380727285",
+    "boundingbox": [
+      "-6.8532167",
+      "-6.8530012",
+      "39.2561537",
+      "39.2562461"
+    ],
+    "lat": "-6.85312125",
+    "lon": "39.2561999256798",
+    "display_name": "Setlife Lodge, Ruvuma Street, Maganga, Temeke, Dar es Salaam, Coastal, 78492, Tanzania",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  },
+  {
+    "place_id": "4912666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "554138999",
+    "boundingbox": [
+      "-3.3717207",
+      "-3.3716207",
+      "36.6943885",
+      "36.6944885"
+    ],
+    "lat": "-3.3716707",
+    "lon": "36.6944385",
+    "display_name": "Setlife Stationaries, Indian Street, Themi, Arusha, Northern, Tanzania",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  }
+]

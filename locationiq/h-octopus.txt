@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "20138219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1984279587",
+    "boundingbox": [
+      "69.0609708",
+      "69.0610708",
+      "-26.7903975",
+      "-26.7902975"
+    ],
+    "lat": "69.0610208",
+    "lon": "-26.7903475",
+    "display_name": "Octopus, Kalaallit Nunaat",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "127505620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "271197788",
+    "boundingbox": [
+      "39.2189989",
+      "39.2196039",
+      "-74.7135541",
+      "-74.7128617"
+    ],
+    "lat": "39.2196039",
+    "lon": "-74.7128617",
+    "display_name": "Octopus, Upper Township, Cape May County, New Jersey, 08230, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92100083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122571441",
+    "boundingbox": [
+      "45.4995908",
+      "45.4996293",
+      "-122.6466769",
+      "-122.6465925"
+    ],
+    "lat": "45.4995908",
+    "lon": "-122.6465925",
+    "display_name": "The Octopus, Ladd's Addition, Brooklyn, Portland, Multnomah County, Oregon, 97202, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "119886826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236360492",
+    "boundingbox": [
+      "45.5000486",
+      "45.5002011",
+      "-122.6486567",
+      "-122.6484608"
+    ],
+    "lat": "45.5001252",
+    "lon": "-122.6485864",
+    "display_name": "The Octopus, Ladd's Addition, Brooklyn, Portland, Multnomah County, Oregon, 97242, United States of America",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "119851143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236360491",
+    "boundingbox": [
+      "45.5000135",
+      "45.5000486",
+      "-122.6484608",
+      "-122.6484126"
+    ],
+    "lat": "45.5000333",
+    "lon": "-122.6484335",
+    "display_name": "The Octopus, Ladd's Addition, Brooklyn, Portland, Multnomah County, Oregon, 97242, United States of America",
+    "class": "highway",
+    "type": "steps",
+    "importance": 0.175
+  },
+  {
+    "place_id": "119870614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236360495",
+    "boundingbox": [
+      "45.5001516",
+      "45.5003925",
+      "-122.6504646",
+      "-122.6493158"
+    ],
+    "lat": "45.5001816",
+    "lon": "-122.6494278",
+    "display_name": "The Octopus, Ladd's Addition, Brooklyn, Portland, Multnomah County, Oregon, 97242, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "92091597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122571445",
+    "boundingbox": [
+      "45.4998612",
+      "45.500025",
+      "-122.648541",
+      "-122.6466702"
+    ],
+    "lat": "45.499962",
+    "lon": "-122.6476526",
+    "display_name": "The Octopus, Ladd's Addition, Brooklyn, Portland, Multnomah County, Oregon, 97202, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "27613737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2599518289",
+    "boundingbox": [
+      "52.0142595",
+      "52.0143595",
+      "4.357404",
+      "4.357504"
+    ],
+    "lat": "52.0143095",
+    "lon": "4.357454",
+    "display_name": "Octopus, 21, Verwersdijk, Hof van Delft, Delft, MRDH, Zuid-Holland, Nederland, 2611 ND, Nederland",
+    "class": "amenity",
+    "type": "kindergarten",
+    "importance": 0.101
+  },
+  {
+    "place_id": "148549837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "382020873",
+    "boundingbox": [
+      "51.6053245",
+      "51.6060224",
+      "5.6744626",
+      "5.675442"
+    ],
+    "lat": "51.60571205",
+    "lon": "5.67495779912056",
+    "display_name": "Octopus, Parkweg, Boekel, Noord-Brabant, Nederland, 5427AH, Nederland",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "92875098",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125081274",
+    "boundingbox": [
+      "14.671897",
+      "14.6720091",
+      "-61.1635091",
+      "-61.1633495"
+    ],
+    "lat": "14.67195955",
+    "lon": "-61.1634736400396",
+    "display_name": "Octopus, Rue Joseph Lagrosilli\u00e8re, Cit\u00e9 Cheval Blanc, Bellefontaine, Saint-Pierre, Martinique, 97222, France",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

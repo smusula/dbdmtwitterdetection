@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160268966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126326",
+    "boundingbox": [
+      "39.653656",
+      "39.87417",
+      "-89.7731819",
+      "-89.5685099"
+    ],
+    "lat": "39.7989763",
+    "lon": "-89.6443687",
+    "display_name": "Springfield, Sangamon County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.64119258847715,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160388853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1181618",
+    "boundingbox": [
+      "42.0637364",
+      "42.1622195",
+      "-72.6221575",
+      "-72.4710869"
+    ],
+    "lat": "42.1014831",
+    "lon": "-72.5898109",
+    "display_name": "Springfield, Hampden County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.62955653973518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160277325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "141244",
+    "boundingbox": [
+      "37.087402",
+      "37.271089",
+      "-93.4140039",
+      "-93.1797159"
+    ],
+    "lat": "37.2153307",
+    "lon": "-93.298252",
+    "display_name": "Springfield, Greene County, Missouri, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.60235218297741,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160290385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182868",
+    "boundingbox": [
+      "39.887855",
+      "39.982857",
+      "-83.8696619",
+      "-83.7034239"
+    ],
+    "lat": "39.9242266",
+    "lon": "-83.8088171",
+    "display_name": "Springfield, Clark County, Ohio, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.55683563514305,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160292530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186721",
+    "boundingbox": [
+      "44.0235364",
+      "44.0949559",
+      "-123.0501424",
+      "-122.8789826"
+    ],
+    "lat": "44.0462362",
+    "lon": "-123.0220288",
+    "display_name": "Springfield, Lane County, Oregon, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.52688780577389,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160297166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "206834",
+    "boundingbox": [
+      "38.7380868",
+      "38.815393",
+      "-77.2189469",
+      "-77.1344909"
+    ],
+    "lat": "38.7890522",
+    "lon": "-77.1870367",
+    "display_name": "Springfield, Fairfax County, Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48865236003439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160271295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130835",
+    "boundingbox": [
+      "37.670609",
+      "37.711215",
+      "-85.2458999",
+      "-85.1839109"
+    ],
+    "lat": "37.6853413",
+    "lon": "-85.2221818",
+    "display_name": "Springfield, Washington County, Kentucky, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46473979407787,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160295314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194863",
+    "boundingbox": [
+      "42.842414",
+      "42.887307",
+      "-97.9057459",
+      "-97.8845059"
+    ],
+    "lat": "42.8541658",
+    "lon": "-97.8972906",
+    "display_name": "Springfield, Bon Homme County, South Dakota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46473979407787,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160490043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2027202",
+    "boundingbox": [
+      "43.2333061",
+      "43.3452496",
+      "-72.5499029",
+      "-72.3952382"
+    ],
+    "lat": "43.298698",
+    "lon": "-72.4829859",
+    "display_name": "Springfield, Windsor County, Vermont, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45497609677909,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160500388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2016818",
+    "boundingbox": [
+      "43.4369541",
+      "43.553284",
+      "-72.1153016",
+      "-71.9351119"
+    ],
+    "lat": "43.4950735",
+    "lon": "-72.0334186",
+    "display_name": "Springfield, Sullivan County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4321866047208,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

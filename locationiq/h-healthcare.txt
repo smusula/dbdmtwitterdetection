@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "2654150982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "468997689",
+    "boundingbox": [
+      "13.7595925",
+      "13.759824",
+      "121.0585839",
+      "121.0589027"
+    ],
+    "lat": "13.7596965",
+    "lon": "121.058842635938",
+    "display_name": "HEALTHCARE, 11, Batangas City, Batangas, Calabarzon, 4200, Philippines",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "106148630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178928526",
+    "boundingbox": [
+      "37.7086434",
+      "37.7086705",
+      "-121.0545921",
+      "-121.0501144"
+    ],
+    "lat": "37.7086612",
+    "lon": "-121.0516527",
+    "display_name": "Healthcare, Modesto, Stanislaus County, California, 95356, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "39375136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2924548567",
+    "boundingbox": [
+      "51.3941783",
+      "51.3942783",
+      "6.1756527",
+      "6.1757527"
+    ],
+    "lat": "51.3942283",
+    "lon": "6.1757027",
+    "display_name": "Healthcare, 43, Noorderpoort, Venlo, Limburg, Nederland, 5916PJ, Nederland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "145112020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366080583",
+    "boundingbox": [
+      "53.9438428",
+      "53.9443704",
+      "-2.0158823",
+      "-2.0149387"
+    ],
+    "lat": "53.9441066",
+    "lon": "-2.0154105",
+    "display_name": "Healthcare, Snaygill Industrial Estate, Skipton, Craven, Yorkshire and the Humber, England, BD23 2QR, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645927951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "458242829",
+    "boundingbox": [
+      "39.3771896",
+      "39.3776491",
+      "48.3614937",
+      "48.3620568"
+    ],
+    "lat": "39.3774103",
+    "lon": "48.3617602107398",
+    "display_name": "Healthcare, 33, \u06af\u0648\u06af \u062a\u067e\u0647, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0628\u06cc\u0644\u0647 \u0633\u0648\u0627\u0631, \u0627\u0633\u062a\u0627\u0646 \u0627\u0631\u062f\u0628\u06cc\u0644\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  }
+]

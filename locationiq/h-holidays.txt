@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "2608549735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4460747317",
+    "boundingbox": [
+      "54.3516301",
+      "54.3517301",
+      "18.5248732",
+      "18.5249732"
+    ],
+    "lat": "54.3516801",
+    "lon": "18.5249232",
+    "display_name": "Holidays, 3, Szcz\u0119\u015bliwa, Kie\u0142pinek, Jasie\u0144, Gda\u0144sk, pomorskie, 80-176, Polska",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56691678",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4415773959",
+    "boundingbox": [
+      "36.841871",
+      "36.841971",
+      "-2.4518723",
+      "-2.4517723"
+    ],
+    "lat": "36.841921",
+    "lon": "-2.4518223",
+    "display_name": "Holidays, Calle Arquitecto Guillermo Langle, Barrio de las Cruces, Regiones, Almer\u00eda, Andaluc\u00eda, 04006, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56713024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4417861581",
+    "boundingbox": [
+      "41.0708987",
+      "41.0709987",
+      "1.178259",
+      "1.178359"
+    ],
+    "lat": "41.0709487",
+    "lon": "1.178309",
+    "display_name": "Holidays, Passeig de Pau Casals, La Pineda, Vila-seca, Tarragon\u00e8s, Tarragona, CAT, 43481, Espa\u00f1a",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15408158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1395465422",
+    "boundingbox": [
+      "54.6219081",
+      "54.6220081",
+      "16.9863093",
+      "16.9864093"
+    ],
+    "lat": "54.6219581",
+    "lon": "16.9863593",
+    "display_name": "Holidays, Promenada S\u0142o\u0144ca, Machowinko, gmina Ustka, powiat s\u0142upski, pomorskie, Polska",
+    "class": "tourism",
+    "type": "caravan_site",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_caravan_park.p.20.png"
+  },
+  {
+    "place_id": "2647637089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "462871782",
+    "boundingbox": [
+      "36.0879709",
+      "36.0880978",
+      "35.9429223",
+      "35.9430979"
+    ],
+    "lat": "36.08803555",
+    "lon": "35.9430117894853",
+    "display_name": "Holidays, 30\u00b0C, Brandt Republik, Samandag Beach, Samanda\u011f, Hatay, Akdeniz B\u00f6lgesi, T\u00fcrkiye",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  }
+]

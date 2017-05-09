@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "23882002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2345520354",
+    "boundingbox": [
+      "59.3364048",
+      "59.3365048",
+      "18.0816935",
+      "18.0817935"
+    ],
+    "lat": "59.3364548",
+    "lon": "18.0817435",
+    "display_name": "Menswear, Jungfrugatan, Villastaden, \u00d6stermalm, \u00d6stermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 11442, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56656347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4427639107",
+    "boundingbox": [
+      "63.4320093",
+      "63.4321093",
+      "10.3954263",
+      "10.3955263"
+    ],
+    "lat": "63.4320593",
+    "lon": "10.3954763",
+    "display_name": "Menswear, Dronningens gate, Bakklandet, Midtbyen, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7011, Norge",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16460323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1554850295",
+    "boundingbox": [
+      "53.9015017",
+      "53.9016017",
+      "-8.5799635",
+      "-8.5798635"
+    ],
+    "lat": "53.9015517",
+    "lon": "-8.5799135",
+    "display_name": "Menswear, Main Street, Ballaghaderreen, Ballaghaderreen ED, Municipal District of Boyle, County Roscommon, Connacht, Ireland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "437944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154163195",
+    "boundingbox": [
+      "30.2802398",
+      "30.3202398",
+      "-81.6614832",
+      "-81.6214832"
+    ],
+    "lat": "30.3002398",
+    "lon": "-81.6414832",
+    "display_name": "Philips, Duval County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "155332664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420803123",
+    "boundingbox": [
+      "53.1064892",
+      "53.108791",
+      "6.0751329",
+      "6.0783728"
+    ],
+    "lat": "53.1077035",
+    "lon": "6.07673176864193",
+    "display_name": "Philips, Drachten, Smallingerland, Friesland, Nederland, 9206AA, Nederland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "155881253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "423611149",
+    "boundingbox": [
+      "51.6773599",
+      "51.6793088",
+      "19.3340815",
+      "19.3368651"
+    ],
+    "lat": "51.678391",
+    "lon": "19.3356747493632",
+    "display_name": "Philips, Karolew, Pabianice, powiat pabianicki, \u0142\u00f3dzkie, Polska",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157392423",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "431984245",
+    "boundingbox": [
+      "25.6869596",
+      "25.689472",
+      "-100.2659323",
+      "-100.26207"
+    ],
+    "lat": "25.6885317",
+    "lon": "-100.263903354958",
+    "display_name": "Philips, Monterrey, Nuevo Le\u00f3n, 64590, M\u00e9xico",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "68784875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23953406",
+    "boundingbox": [
+      "-33.0295886",
+      "-33.0295121",
+      "-71.557453",
+      "-71.5567664"
+    ],
+    "lat": "-33.0295362",
+    "lon": "-71.5572418",
+    "display_name": "Philips, Vi\u00f1a del Mar Alto, Vi\u00f1a del Mar, Provincia de Valpara\u00edso, V Regi\u00f3n de Valpara\u00edso, 2571498, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62156922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12625319",
+    "boundingbox": [
+      "32.819947",
+      "32.820883",
+      "-91.1875829",
+      "-91.1860779"
+    ],
+    "lat": "32.820115",
+    "lon": "-91.1871169",
+    "display_name": "Philips, Lake Providence, East Carroll Parish, Louisiana, 71254, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71766346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30586012",
+    "boundingbox": [
+      "48.1679305",
+      "48.1686861",
+      "16.347754",
+      "16.3486089"
+    ],
+    "lat": "48.1683083",
+    "lon": "16.3481828204418",
+    "display_name": "Philips, Clemens-Holzmeister-Stra\u00dfe, Triesterviertel, KG Inzersdorf Stadt, Favoriten, Wien, 1100, \u00d6sterreich",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650984687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "471652693",
+    "boundingbox": [
+      "-34.5639119",
+      "-34.5635931",
+      "-58.4694647",
+      "-58.4691536"
+    ],
+    "lat": "-34.56378425",
+    "lon": "-58.4692812770268",
+    "display_name": "Philips, Avenida Monroe, Barrio Chino, CABA, C1430BRH, Argentina",
+    "class": "shop",
+    "type": "hifi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "119737785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "235493902",
+    "boundingbox": [
+      "46.806508",
+      "46.8094699",
+      "4.8565581",
+      "4.8623832"
+    ],
+    "lat": "46.8079854",
+    "lon": "4.85897312241441",
+    "display_name": "Philips, Rue Louis Jacques Th\u00e9nard, Sa\u00f4neor, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71100, France",
+    "class": "man_made",
+    "type": "works",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81806136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78152406",
+    "boundingbox": [
+      "45.8222463",
+      "45.823115",
+      "4.966424",
+      "4.9690979"
+    ],
+    "lat": "45.82273955",
+    "lon": "4.96750319538313",
+    "display_name": "Philips, Chemin de Halage, Saint-Maurice-de-Beynost, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01700, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

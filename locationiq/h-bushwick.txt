@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "503907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158893531",
+    "boundingbox": [
+      "40.6942196",
+      "40.6943196",
+      "-73.9187981",
+      "-73.9186981"
+    ],
+    "lat": "40.6942696",
+    "lon": "-73.9187481",
+    "display_name": "Bushwick, Kings, NYC, New York, 11237, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "107907397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186840560",
+    "boundingbox": [
+      "14.2764448",
+      "14.2781113",
+      "121.0715441",
+      "121.0728976"
+    ],
+    "lat": "14.2775885",
+    "lon": "121.0719172",
+    "display_name": "Bushwick, Laguna BelAir 3, Loma, Bi\u00f1an, Laguna, Calabarzon, 4024, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

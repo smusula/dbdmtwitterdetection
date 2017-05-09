@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "2609095602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4471827374",
+    "boundingbox": [
+      "53.2882027",
+      "53.2883027",
+      "-6.1756216",
+      "-6.1755216"
+    ],
+    "lat": "53.2882527",
+    "lon": "-6.1755716",
+    "display_name": "Gluttony, Newtownpark Avenue, Stillorgan Park, Blackrock, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, D18, Ireland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "55987553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4346350407",
+    "boundingbox": [
+      "-12.0754992",
+      "-12.0753992",
+      "-77.0371689",
+      "-77.0370689"
+    ],
+    "lat": "-12.0754492",
+    "lon": "-77.0371189",
+    "display_name": "Gluttony, Avenida Alvarez de Arenales, Jes\u00fas Mar\u00eda, Lima, 15046, Per\u00fa",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  }
+]

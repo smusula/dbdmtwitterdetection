@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160299355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "242608",
+    "boundingbox": [
+      "-29.5259999",
+      "-29.3884591",
+      "-51.3389999",
+      "-51.1967012"
+    ],
+    "lat": "-29.4508907",
+    "lon": "-51.3077129",
+    "display_name": "Feliz, Microrregi\u00e3o de Montenegro, Mesorregi\u00e3o Metropolitana de Porto Alegre, RS, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59569360904799,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2653101234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7021594",
+    "boundingbox": [
+      "-29.5259999",
+      "-29.3884591",
+      "-51.3389999",
+      "-51.1967012"
+    ],
+    "lat": "-29.4544999",
+    "lon": "-51.2929374",
+    "display_name": "Sede, Feliz, Microrregi\u00e3o de Montenegro, Mesorregi\u00e3o Metropolitana de Porto Alegre, RS, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "104471522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172603915",
+    "boundingbox": [
+      "33.639209",
+      "33.639623",
+      "-117.8820689",
+      "-117.8817279"
+    ],
+    "lat": "33.63929",
+    "lon": "-117.8819339",
+    "display_name": "Feliz, Newport Center, Newport Beach, Orange County, California, 92660, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75680948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42677320",
+    "boundingbox": [
+      "-29.5949764",
+      "-29.594736",
+      "-51.827976",
+      "-51.8260986"
+    ],
+    "lat": "-29.5947975",
+    "lon": "-51.8275838",
+    "display_name": "Feliz, Sede, Fazenda Vilanova, Microrregi\u00e3o de Lageado-Estrela, Mesorregi\u00e3o Centro-Oriental Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "6166333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "631790978",
+    "boundingbox": [
+      "51.6868807",
+      "51.6869807",
+      "5.3006175",
+      "5.3007175"
+    ],
+    "lat": "51.6869307",
+    "lon": "5.3006675",
+    "display_name": "Feliz, 61, Vughterstraat, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211EX, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "26626810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2532870732",
+    "boundingbox": [
+      "52.5076152",
+      "52.5077152",
+      "13.3091503",
+      "13.3092503"
+    ],
+    "lat": "52.5076652",
+    "lon": "13.3092003",
+    "display_name": "Feliz, 41, Krumme Stra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18314463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1792189817",
+    "boundingbox": [
+      "41.6417054",
+      "41.6418054",
+      "-0.8690273",
+      "-0.8689273"
+    ],
+    "lat": "41.6417554",
+    "lon": "-0.8689773",
+    "display_name": "Feliz, 29-31, Calle del Monasterio de Poblet, San Jos\u00e9, Zaragoza, Arag\u00f3n, 50013, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "15380618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1404297649",
+    "boundingbox": [
+      "60.3921541",
+      "60.3922541",
+      "5.3224189",
+      "5.3225189"
+    ],
+    "lat": "60.3922041",
+    "lon": "5.3224689",
+    "display_name": "Feliz, 1, \u00d8vre Ole Bulls plass, Sentrum, Bergenhus, Bergen, Hordaland, 5012, Norge",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25947670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2498507159",
+    "boundingbox": [
+      "35.6670841",
+      "35.6671841",
+      "139.6496145",
+      "139.6497145"
+    ],
+    "lat": "35.6671341",
+    "lon": "139.6496645",
+    "display_name": "Feliz, \u677e\u539f\u5927\u5c71\u901a\u308a, \u8239\u6a4b, \u4e16\u7530\u8c37\u533a, \u6771\u4eac\u90fd, 156-0043, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "16089553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1452417122",
+    "boundingbox": [
+      "40.1229073",
+      "40.1230073",
+      "-3.8481405",
+      "-3.8480405"
+    ],
+    "lat": "40.1229573",
+    "lon": "-3.8480905",
+    "display_name": "Feliz, Calle del Coso, El Se\u00f1or\u00edo de Illescas, Illescas, Comarca de la Sagra, Toledo, Castilla-La Mancha, 45200, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

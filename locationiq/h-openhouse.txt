@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "7715526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "838127268",
+    "boundingbox": [
+      "47.5203433",
+      "47.5204433",
+      "19.05608",
+      "19.05618"
+    ],
+    "lat": "47.5203933",
+    "lon": "19.05613",
+    "display_name": "OpenHouse, Pann\u00f3nia utca, \u00dajlip\u00f3tv\u00e1ros, 13. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1133, Magyarorsz\u00e1g",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "124841986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256980579",
+    "boundingbox": [
+      "47.6741051",
+      "47.6742544",
+      "17.6444865",
+      "17.644734"
+    ],
+    "lat": "47.67417975",
+    "lon": "17.6446102393724",
+    "display_name": "Openhouse, 32, Somogyi B\u00e9la utca, N\u00e1dorv\u00e1ros, Gy\u0151r, Gy\u0151ri j\u00e1r\u00e1s, Gy\u0151r-Moson-Sopron megye, Nyugat-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 9023, Magyarorsz\u00e1g",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "124833035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256920972",
+    "boundingbox": [
+      "47.673628",
+      "47.6739964",
+      "17.646137",
+      "17.6465527"
+    ],
+    "lat": "47.6738077",
+    "lon": "17.6463485116729",
+    "display_name": "Openhouse, 32, Verseny utca, N\u00e1dorv\u00e1ros, Gy\u0151r, Gy\u0151ri j\u00e1r\u00e1s, Gy\u0151r-Moson-Sopron megye, Nyugat-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 9023, Magyarorsz\u00e1g",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47978017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3471930747",
+    "boundingbox": [
+      "47.190033",
+      "47.190133",
+      "19.324533",
+      "19.324633"
+    ],
+    "lat": "47.190083",
+    "lon": "19.324583",
+    "display_name": "Openhouse, Balassi B\u00e1lint utca, Gy\u00f3n, Dabas, Dabasi j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2370, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

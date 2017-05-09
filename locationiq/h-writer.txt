@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "57000675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4433701108",
+    "boundingbox": [
+      "39.7483484",
+      "39.7484484",
+      "-104.9975718",
+      "-104.9974718"
+    ],
+    "lat": "39.7483984",
+    "lon": "-104.9975218",
+    "display_name": "Writer Square, Denver, Denver County, Colorado, 80202, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "109074672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192185482",
+    "boundingbox": [
+      "40.8967441",
+      "40.8980765",
+      "26.0027009",
+      "26.0047032"
+    ],
+    "lat": "40.89742045",
+    "lon": "26.0036476209806",
+    "display_name": "\u0399\u03b5\u03c1\u03ac \u039c\u03bf\u03bd\u03ae \u0391\u03b3. \u0399\u03c9\u03ac\u03bd\u03bd\u03bf\u03c5 \u03c4\u03bf\u03c5 \u0398\u03b5\u03bf\u03bb\u03cc\u03b3\u03bf\u03c5, \u0391\u03b5\u03c4\u03bf\u03c7\u03ce\u03c1\u03b9, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03bb\u03b5\u03be\u03b1\u03bd\u03b4\u03c1\u03bf\u03cd\u03c0\u03bf\u03bb\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0388\u03b2\u03c1\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03bd\u03b1\u03c4\u03bf\u03bb\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 68100, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "156470202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426621336",
+    "boundingbox": [
+      "44.3352026",
+      "44.3366272",
+      "-68.3424803",
+      "-68.3410658"
+    ],
+    "lat": "44.3356328",
+    "lon": "-68.3423096",
+    "display_name": "Writer Way, Hall Quarry, Hancock County, Maine, 04660, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "91924327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "121777284",
+    "boundingbox": [
+      "39.748646",
+      "39.7489636",
+      "-104.9977047",
+      "-104.9970819"
+    ],
+    "lat": "39.74880765",
+    "lon": "-104.997393424754",
+    "display_name": "Writer Square, 1512, Larimer Street, Larimer Square Historic District, Denver, Denver County, Colorado, 80202, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "91951009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "121777286",
+    "boundingbox": [
+      "39.7480253",
+      "39.7483535",
+      "-104.9976889",
+      "-104.9972591"
+    ],
+    "lat": "39.74817905",
+    "lon": "-104.997461800794",
+    "display_name": "Writer Square Residences, 1512, Larimer Street, Larimer Square Historic District, Denver, Denver County, Colorado, 80202, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55613867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4322832989",
+    "boundingbox": [
+      "23.8127014",
+      "23.8128014",
+      "90.3692581",
+      "90.3693581"
+    ],
+    "lat": "23.8127514",
+    "lon": "90.3693081",
+    "display_name": "Legal Documents Writer(\u09a6\u09b2\u09bf\u09b2 \u09b2\u09c7\u0996\u0995), Line 12, Section 10, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1216, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "office",
+    "type": "lawyer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50458044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3745056502",
+    "boundingbox": [
+      "23.7010379",
+      "23.7011379",
+      "90.4262576",
+      "90.4263576"
+    ],
+    "lat": "23.7010879",
+    "lon": "90.4263076",
+    "display_name": "Documents Writer Shop, 50/51, Baghabari Lane, Sutrapur, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1204, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "48485563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3574917552",
+    "boundingbox": [
+      "52.3807332",
+      "52.3808332",
+      "-1.700152",
+      "-1.700052"
+    ],
+    "lat": "52.3807832",
+    "lon": "-1.700102",
+    "display_name": "Grave of Harry Williams writer of  It's aLong Way to Tipperary), Temple Lane, Balsall CP, Temple Balsall, Solihull, West Midlands, England, UK",
+    "class": "historic",
+    "type": "memorial",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "2609485303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4483546291",
+    "boundingbox": [
+      "45.7426162",
+      "45.7427162",
+      "126.7182276",
+      "126.7183276"
+    ],
+    "lat": "45.7426662",
+    "lon": "126.7182776",
+    "display_name": "palce Chinese writer, \u6728\u6750\u5317\u8857, \u9999\u574a\u533a, \u9999\u574a\u533a (Xiangfang), \u54c8\u5c14\u6ee8\u5e02 / Harbin, \u9ed1\u9f99\u6c5f\u7701, 150000, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "56144462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4384871924",
+    "boundingbox": [
+      "22.9130017",
+      "22.9131017",
+      "90.4077446",
+      "90.4078446"
+    ],
+    "lat": "22.9130517",
+    "lon": "90.4077946",
+    "display_name": "Documents Writer Buildings /Dolil likhok, Electric office road, \u09ae\u09c1\u09b2\u09be\u09a6\u09bf, \u09ae\u09c1\u09b2\u09be\u09a6\u09c0 \u0989\u09aa\u099c\u09c7\u09b2\u09be, \u09ac\u09b0\u09bf\u09b6\u09be\u09b2 \u099c\u09c7\u09b2\u09be, \u09ac\u09b0\u09bf\u09b6\u09be\u09b2 \u09ac\u09bf\u09ad\u09be\u0997, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

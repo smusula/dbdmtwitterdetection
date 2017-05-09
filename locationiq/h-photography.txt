@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "158772966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438283455",
+    "boundingbox": [
+      "51.5767965",
+      "51.5769497",
+      "-0.324495",
+      "-0.3239422"
+    ],
+    "lat": "51.5768768",
+    "lon": "-0.3242169969",
+    "display_name": "Photography, Watford Road, North Wembley, London Borough of Brent, London, Greater London, England, HA1 3TU, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116992563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225293371",
+    "boundingbox": [
+      "47.6781525",
+      "47.6785715",
+      "-117.4657238",
+      "-117.4649969"
+    ],
+    "lat": "47.6783394",
+    "lon": "-117.465361863198",
+    "display_name": "Photography, Spokane River Centennial Trail, East Empire, Spokane, Spokane County, Washington, 99201, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80533535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "69080986",
+    "boundingbox": [
+      "29.2013373",
+      "29.2018452",
+      "-81.0517788",
+      "-81.0511811"
+    ],
+    "lat": "29.20159985",
+    "lon": "-81.0514799312271",
+    "display_name": "Photography, Heineman Street, Daytona Beach, Volusia County, Florida, 32114, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654195078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4735220823",
+    "boundingbox": [
+      "44.0097208",
+      "44.0098208",
+      "-121.3445807",
+      "-121.3444807"
+    ],
+    "lat": "44.0097708",
+    "lon": "-121.3445307",
+    "display_name": "Photography, Brookswood Boulevard, Bend, Deschutes County, Oregon, 97702, United States of America",
+    "class": "shop",
+    "type": "photo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18149984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1746191682",
+    "boundingbox": [
+      "51.7416222",
+      "51.7417222",
+      "8.9485253",
+      "8.9486253"
+    ],
+    "lat": "51.7416722",
+    "lon": "8.9485753",
+    "display_name": "Photography, 8, Dorfstra\u00dfe, Buke, Altenbeken, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33184, Deutschland",
+    "class": "shop",
+    "type": "photo_studio",
+    "importance": 0.101
+  }
+]

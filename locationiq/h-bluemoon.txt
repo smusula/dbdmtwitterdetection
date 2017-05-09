@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "56474289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4410488689",
+    "boundingbox": [
+      "23.7904093",
+      "23.7905093",
+      "90.4077229",
+      "90.4078229"
+    ],
+    "lat": "23.7904593",
+    "lon": "90.4077729",
+    "display_name": "Bluemoon, Road 11, Banani, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1212, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "50072540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3728847025",
+    "boundingbox": [
+      "47.5570851",
+      "47.5571851",
+      "8.8972078",
+      "8.8973078"
+    ],
+    "lat": "47.5571351",
+    "lon": "8.8972578",
+    "display_name": "Bluemoon, 11, Grabenstrasse, Hinderem Dorf, Frauenfeld, Bezirk Frauenfeld, Thurgau, 8510, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "12099309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1152347479",
+    "boundingbox": [
+      "11.943718",
+      "11.943818",
+      "108.4397591",
+      "108.4398591"
+    ],
+    "lat": "11.943768",
+    "lon": "108.4398091",
+    "display_name": "Bluemoon, 4, Phan B\u1ed9i Ch\u00e2u, \u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng, 670000, Vi\u1ec7t Nam",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "1472057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "316649587",
+    "boundingbox": [
+      "38.643103",
+      "38.643203",
+      "34.8311891",
+      "34.8312891"
+    ],
+    "lat": "38.643153",
+    "lon": "34.8312391",
+    "display_name": "Bluemoon, Cevizler S., G\u00f6reme, Nev\u015fehir merkez, Nev\u015fehir, \u0130\u00e7 Anadolu B\u00f6lgesi, 50300, T\u00fcrkiye",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "2652306955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4690641464",
+    "boundingbox": [
+      "44.8020926",
+      "44.8021926",
+      "10.3285106",
+      "10.3286106"
+    ],
+    "lat": "44.8021426",
+    "lon": "10.3285606",
+    "display_name": "Blumoon, 8/a, Strada Cavour, Parma, PR, EMR, 43121, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

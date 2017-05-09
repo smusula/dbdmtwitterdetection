@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "48539903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3573265304",
+    "boundingbox": [
+      "48.1528052",
+      "48.1529052",
+      "17.1208768",
+      "17.1209768"
+    ],
+    "lat": "48.1528552",
+    "lon": "17.1209268",
+    "display_name": "CK Oneworld Travel, 4066/7, Kr\u00ed\u017ena, Kr\u00e1sna Ves, Oblas\u0165 Obchodn\u00e1, Bratislava - mestsk\u00e1 \u010das\u0165 Star\u00e9 Mesto, Bratislava, Bratislavsk\u00fd kraj, 811 07, Slovensko",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53482084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4078123003",
+    "boundingbox": [
+      "53.842628",
+      "53.842728",
+      "-0.4313968",
+      "-0.4312968"
+    ],
+    "lat": "53.842678",
+    "lon": "-0.4313468",
+    "display_name": "Oneworld Travel Group, Dyer Lane, Beverley, East Riding of Yorkshire, Yorkshire and the Humber, England, HU17 8BB, UK",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159676814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444571974",
+    "boundingbox": [
+      "53.6837122",
+      "53.6837678",
+      "-1.495952",
+      "-1.4957053"
+    ],
+    "lat": "53.68374095",
+    "lon": "-1.49582828359488",
+    "display_name": "Oneworld Travel, 36, Teall Street, Eastmoor, Wakefield, Yorkshire and the Humber, England, WF1 1QF, UK",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

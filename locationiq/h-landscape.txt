@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160642559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3271868",
+    "boundingbox": [
+      "52.3545727",
+      "52.3636086",
+      "-6.9707083",
+      "-6.9530136"
+    ],
+    "lat": "52.35925705",
+    "lon": "-6.96229342210302",
+    "display_name": "Landscape, Oldcourt, New Ross Municipal District, County Wexford, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160868557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5642059",
+    "boundingbox": [
+      "52.3493753",
+      "52.3595154",
+      "-7.5727604",
+      "-7.5533222"
+    ],
+    "lat": "52.35419915",
+    "lon": "-7.5580153447138",
+    "display_name": "Landscape, Glen, Comeragh, County Waterford, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "10868134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "979278992",
+    "boundingbox": [
+      "56.7056245",
+      "56.7057245",
+      "-3.738125",
+      "-3.738025"
+    ],
+    "lat": "56.7056745",
+    "lon": "-3.738075",
+    "display_name": "Landscape, Larchwood Road, Pitlochry, Perth and Kinross, Scotland, PH16 5AS, UK",
+    "class": "tourism",
+    "type": "bed_and_breakfast",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  },
+  {
+    "place_id": "56759053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4422674500",
+    "boundingbox": [
+      "53.1539754",
+      "53.1540754",
+      "-4.0511271",
+      "-4.0510271"
+    ],
+    "lat": "53.1540254",
+    "lon": "-4.0510771",
+    "display_name": "Landscape, Lon Las Ogwen, Braichmelyn, Gwynedd, Wales, LL57, UK",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "2652677888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1277174521",
+    "boundingbox": [
+      "45.3371603",
+      "45.3372603",
+      "24.0334704",
+      "24.0335704"
+    ],
+    "lat": "45.3372103",
+    "lon": "24.0335204",
+    "display_name": "Landscape, Strada Br\u0103det, Malaia, V\u00e2lcea, 247335, Rom\u00e2nia",
+    "class": "natural",
+    "type": "spring",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652904241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3069720892",
+    "boundingbox": [
+      "45.4082934",
+      "45.4083934",
+      "23.9230037",
+      "23.9231037"
+    ],
+    "lat": "45.4083434",
+    "lon": "23.9230537",
+    "display_name": "Landscape, Strategica, Ciungetu, V\u00e2lcea, 247336, Rom\u00e2nia",
+    "class": "natural",
+    "type": "spring",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652677889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3069720875",
+    "boundingbox": [
+      "45.3808963",
+      "45.3809963",
+      "23.9701032",
+      "23.9702032"
+    ],
+    "lat": "45.3809463",
+    "lon": "23.9701532",
+    "display_name": "Landscape, DJ701D, Valea M\u0103ce\u0219ului, V\u00e2lcea, 247751, Rom\u00e2nia",
+    "class": "natural",
+    "type": "spring",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652677891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3069720891",
+    "boundingbox": [
+      "45.40684",
+      "45.40694",
+      "23.9797297",
+      "23.9798297"
+    ],
+    "lat": "45.40689",
+    "lon": "23.9797797",
+    "display_name": "Landscape, DN7A, Valea M\u0103ce\u0219ului, V\u00e2lcea, 247751, Rom\u00e2nia",
+    "class": "natural",
+    "type": "spring",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19123147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1852468761",
+    "boundingbox": [
+      "43.75507",
+      "43.75517",
+      "24.36774",
+      "24.36784"
+    ],
+    "lat": "43.75512",
+    "lon": "24.36779",
+    "display_name": "Landscape, Strada Valea Dun\u0103rii, Orlea, Olt, 237307, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "drinking_water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649052864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188927483",
+    "boundingbox": [
+      "53.9007634",
+      "53.9008602",
+      "-2.7736386",
+      "-2.7734181"
+    ],
+    "lat": "53.9008328",
+    "lon": "-2.77352835429174",
+    "display_name": "Staina House Dental Practice Ltd, High Street, Wyre, Lancs, North West England, England, PR3 1FA, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

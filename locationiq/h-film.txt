@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "3623310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "372874204",
+    "boundingbox": [
+      "60.2096941",
+      "60.2496941",
+      "17.8745324",
+      "17.9145324"
+    ],
+    "lat": "60.2296941",
+    "lon": "17.8945324",
+    "display_name": "Film, \u00d6sthammar, Landskapet Uppland, Uppsala l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19635521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1902426183",
+    "boundingbox": [
+      "45.8001275",
+      "45.8002275",
+      "15.9532156",
+      "15.9533156"
+    ],
+    "lat": "45.8001775",
+    "lon": "15.9532656",
+    "display_name": "Film, Krapinska ulica, Tre\u0161njevka, Tre\u0161njevka - sjever, Zagreb, Grad Zagreb, 10124, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "15533692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1398484911",
+    "boundingbox": [
+      "48.1255107",
+      "48.1256107",
+      "11.5607087",
+      "11.5608087"
+    ],
+    "lat": "48.1255607",
+    "lon": "11.5607587",
+    "display_name": "Film, 29, Kapuzinerstra\u00dfe, Bezirksteil Am Schlachthof, Stadtbezirk 02 Ludwigsvorstadt-Isarvorstadt, M\u00fcnchen, OB, Bayern, 80337, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "23324124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2322291641",
+    "boundingbox": [
+      "43.8314151",
+      "43.8315151",
+      "18.3051585",
+      "18.3052585"
+    ],
+    "lat": "43.8314651",
+    "lon": "18.3052085",
+    "display_name": "Film, Emira Boguni\u0107a \u010carlija, Ilid\u017ea, Azi\u0107i, Op\u0161tina Ilid\u017ea, Kanton/\u017dupanija Sarajevo, Federacija Bosne i Hercegovine, 71210, Bosna i Hercegovina",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "50306964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3745215240",
+    "boundingbox": [
+      "36.1954219",
+      "36.1955219",
+      "117.0805948",
+      "117.0806948"
+    ],
+    "lat": "36.1954719",
+    "lon": "117.0806448",
+    "display_name": "\u5723\u5927\u7535\u5f71\u57ce, \u4e1c\u5cb3\u5927\u8857, \u8fce\u80dc, \u6cf0\u5b89\u5e02, \u6cf0\u5c71\u533a (Taishan), \u6cf0\u5b89\u5e02 / Tai'an, \u5c71\u4e1c\u7701, 271000, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  }
+]

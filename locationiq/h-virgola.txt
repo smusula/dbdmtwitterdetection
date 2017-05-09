@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "56121369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4394539962",
+    "boundingbox": [
+      "45.609665",
+      "45.609765",
+      "9.241693",
+      "9.241793"
+    ],
+    "lat": "45.609715",
+    "lon": "9.241743",
+    "display_name": "Virgola, 24, Via Giuseppe Garibaldi, Centro Storico, Lissone, MB, LOM, 20851, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17846700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1735311041",
+    "boundingbox": [
+      "45.5697207",
+      "45.5698207",
+      "9.1650117",
+      "9.1651117"
+    ],
+    "lat": "45.5697707",
+    "lon": "9.1650617",
+    "display_name": "Virgola, Via Walter Tobagi, Dugnano, Palazzolo, Paderno Dugnano, MI, LOM, 20037, Italia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2654059420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4733181640",
+    "boundingbox": [
+      "29.2851029",
+      "29.2852029",
+      "-81.0576034",
+      "-81.0575034"
+    ],
+    "lat": "29.2851529",
+    "lon": "-81.0575534",
+    "display_name": "Virgola, Granada Boulevard, Ormond Beach, Volusia County, Florida, 32174, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

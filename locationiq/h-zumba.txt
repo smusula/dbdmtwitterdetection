@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160586689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2676975",
+    "boundingbox": [
+      "-4.9682455",
+      "-4.7182263",
+      "-79.300582",
+      "-79.0820944"
+    ],
+    "lat": "-4.8630249",
+    "lon": "-79.1308072",
+    "display_name": "Zumba, Cant\u00f3n Chinchipe, Zamora Chinchipe, Ecuador",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652525702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4695792300",
+    "boundingbox": [
+      "-8.2035187",
+      "-8.1635187",
+      "-36.7353363",
+      "-36.6953363"
+    ],
+    "lat": "-8.1835187",
+    "lon": "-36.7153363",
+    "display_name": "Po\u00e7\u00e3o, Zumba, Microrregi\u00e3o do Vale do Ipojuca, Mesorregi\u00e3o do Agreste Pernambucano, PE, Regi\u00e3o Nordeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7959479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "845502141",
+    "boundingbox": [
+      "8.5375337",
+      "8.5775337",
+      "-71.2294157",
+      "-71.1894157"
+    ],
+    "lat": "8.5575337",
+    "lon": "-71.2094157",
+    "display_name": "Zumba, Municipio Libertador, M\u00e9rida, Venezuela",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4628929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501425851",
+    "boundingbox": [
+      "9.913333",
+      "9.953333",
+      "6.796667",
+      "6.836667"
+    ],
+    "lat": "9.933333",
+    "lon": "6.816667",
+    "display_name": "Zumba, Shiroro, Niger, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13120154",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241311063",
+    "boundingbox": [
+      "37.3615384",
+      "37.3815384",
+      "-6.7045372",
+      "-6.6845372"
+    ],
+    "lat": "37.3715384",
+    "lon": "-6.6945372",
+    "display_name": "Zumba, Niebla, Huelva, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13787588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243175451",
+    "boundingbox": [
+      "37.76856",
+      "37.78856",
+      "-4.201927",
+      "-4.181927"
+    ],
+    "lat": "37.77856",
+    "lon": "-4.191927",
+    "display_name": "Zumba, Higuera de Calatrava, Ja\u00e9n, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160177043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447535151",
+    "boundingbox": [
+      "-0.142595",
+      "-0.1424916",
+      "-78.4714244",
+      "-78.4712176"
+    ],
+    "lat": "-0.14254225",
+    "lon": "-78.471318776323",
+    "display_name": "Zumba, Fatima 1, Kennedy, Quito, Pichincha, EC170124, Ecuador",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "69260364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24955421",
+    "boundingbox": [
+      "-0.2356728",
+      "-0.2350541",
+      "-78.5332721",
+      "-78.5317249"
+    ],
+    "lat": "-0.235571",
+    "lon": "-78.5323862",
+    "display_name": "Zumba, Chilibulo, Quito, Pichincha, 170629, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "88003075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108234890",
+    "boundingbox": [
+      "0.361661",
+      "0.3649944",
+      "-78.1338264",
+      "-78.128687"
+    ],
+    "lat": "0.3633218",
+    "lon": "-78.1311756",
+    "display_name": "Zumba, Alpachaca, Ibarra, Imbabura, 100159, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "88227058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109022625",
+    "boundingbox": [
+      "-0.2672186",
+      "-0.2663379",
+      "-79.156222",
+      "-79.1471689"
+    ],
+    "lat": "-0.2667259",
+    "lon": "-79.1521099",
+    "display_name": "Zumba, Urb. La Cubera, Santo Domingo de los Tsachilas, Santo Domingo de los Ts\u00e1chilas, 230103, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "72116969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31778663",
+    "boundingbox": [
+      "19.3484583",
+      "19.354976",
+      "-99.144431",
+      "-99.143047"
+    ],
+    "lat": "19.3521453",
+    "lon": "-99.1436325",
+    "display_name": "Futbol, Country Club, Coyoac\u00e1n, CDMX, 04120, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "125913940",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261965505",
+    "boundingbox": [
+      "19.5856316",
+      "19.5875389",
+      "-99.0366153",
+      "-99.0357872"
+    ],
+    "lat": "19.5869441",
+    "lon": "-99.0360616",
+    "display_name": "Futbol, Dep\u00f3sito de Evaporaci\u00f3n Solar  El Caracol, Ecatepec de Morelos, M\u00e9xico, 55075, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "82616308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83700746",
+    "boundingbox": [
+      "41.6420706",
+      "41.6426791",
+      "0.6243731",
+      "0.6250662"
+    ],
+    "lat": "41.64237855",
+    "lon": "0.624718968604877",
+    "display_name": "futbol, Cam\u00ed de Marimunt, Torre del Mantega, Lleida, Segri\u00e0, Lleida, CAT, 25195, Espa\u00f1a",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.111
+  },
+  {
+    "place_id": "102999122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167063007",
+    "boundingbox": [
+      "39.4528703",
+      "39.4531313",
+      "-0.4055871",
+      "-0.4052035"
+    ],
+    "lat": "39.45300085",
+    "lon": "-0.405395305187817",
+    "display_name": "Futbol, Calle de Pau, Sant Isidre, Patraix, vall\u00b4de ebo, Comarca de Val\u00e8ncia, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46014, Espa\u00f1a",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "23313904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2308300015",
+    "boundingbox": [
+      "36.7223852",
+      "36.7224852",
+      "-4.2069974",
+      "-4.2068974"
+    ],
+    "lat": "36.7224352",
+    "lon": "-4.2069474",
+    "display_name": "Futbol, Urbanizacion Las Biznagas, Urbanizacion Biznagas, Benajarafe, V\u00e9lez-M\u00e1laga, M\u00e1laga, Andaluc\u00eda, 29790, Espa\u00f1a",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "84645189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94018337",
+    "boundingbox": [
+      "22.8884",
+      "22.8889634",
+      "-109.9375247",
+      "-109.9366235"
+    ],
+    "lat": "22.88868045",
+    "lon": "-109.937074599601",
+    "display_name": "Futbol, CDA. Tiburon, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86179031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "100647920",
+    "boundingbox": [
+      "22.9147507",
+      "22.9154758",
+      "-109.9301649",
+      "-109.9294729"
+    ],
+    "lat": "22.915104",
+    "lon": "-109.929822744431",
+    "display_name": "Futbol, Luna, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84696470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94017052",
+    "boundingbox": [
+      "22.8958748",
+      "22.8969422",
+      "-109.9275684",
+      "-109.9263721"
+    ],
+    "lat": "22.8964035",
+    "lon": "-109.926973958477",
+    "display_name": "Futbol, Camino Al Faro Viejo, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84976214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95346034",
+    "boundingbox": [
+      "22.9220782",
+      "22.9229477",
+      "-109.8795623",
+      "-109.8790581"
+    ],
+    "lat": "22.9225154",
+    "lon": "-109.879315559925",
+    "display_name": "Futbol, Avenida Los Delfines, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86163866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "100647919",
+    "boundingbox": [
+      "22.9149978",
+      "22.9158476",
+      "-109.9297143",
+      "-109.9286575"
+    ],
+    "lat": "22.9154227",
+    "lon": "-109.929187918637",
+    "display_name": "Futbol, Aerolito, Cabo San Lucas, Los Cabos, Baja California Sur, 23543, M\u00e9xico",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  }
+]

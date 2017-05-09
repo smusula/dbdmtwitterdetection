@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160753554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4174802",
+    "boundingbox": [
+      "37.547313",
+      "37.922795",
+      "140.458772",
+      "140.726239"
+    ],
+    "lat": "37.6999488",
+    "lon": "140.6155985",
+    "display_name": "\u4f0a\u9054\u90e1, \u798f\u5cf6\u770c, \u65e5\u672c",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160753599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4174814",
+    "boundingbox": [
+      "37.689239",
+      "37.915286",
+      "140.482848",
+      "140.736662"
+    ],
+    "lat": "37.815193",
+    "lon": "140.575353",
+    "display_name": "\u4f0a\u9054\u5e02, \u76f8\u99ac\u90e1 (Soma-gun), \u798f\u5cf6\u770c, \u65e5\u672c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40334291715277,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "763026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "264177358",
+    "boundingbox": [
+      "37.8194279",
+      "37.8294279",
+      "140.488506",
+      "140.498506"
+    ],
+    "lat": "37.8244279",
+    "lon": "140.493506",
+    "display_name": "\u4f0a\u9054, \u56fd\u9053399\u53f7, \u4f0a\u9054\u5e02, \u76f8\u99ac\u90e1 (Soma-gun), \u798f\u5cf6\u770c, \u65e5\u672c",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.37727065408496,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "335698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150939209",
+    "boundingbox": [
+      "34.2952891",
+      "34.3352891",
+      "-112.938251",
+      "-112.898251"
+    ],
+    "lat": "34.3152891",
+    "lon": "-112.918251",
+    "display_name": "Date, Yavapai County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "381683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151841119",
+    "boundingbox": [
+      "45.3472095",
+      "45.3872095",
+      "-102.6996053",
+      "-102.6596053"
+    ],
+    "lat": "45.3672095",
+    "lon": "-102.6796053",
+    "display_name": "Date, Perkins County, South Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4621260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501491898",
+    "boundingbox": [
+      "8.33",
+      "8.37",
+      "6.973056",
+      "7.013056"
+    ],
+    "lat": "8.35",
+    "lon": "6.993056",
+    "display_name": "Date, Toto, Nasarawa, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "29384148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2709074485",
+    "boundingbox": [
+      "4.6157351",
+      "4.6557351",
+      "15.5311328",
+      "15.5711328"
+    ],
+    "lat": "4.6357351",
+    "lon": "15.5511328",
+    "display_name": "Date, Mamb\u00e9r\u00e9-Kad\u00e9\u00ef, K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka - R\u00e9publique Centrafricaine",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160748208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4085799",
+    "boundingbox": [
+      "42.3278854",
+      "42.827413",
+      "140.5784008",
+      "141.199084"
+    ],
+    "lat": "42.527764",
+    "lon": "140.926144",
+    "display_name": "\u4f0a\u9054\u5e02, \u6709\u73e0\u90e1, \u80c6\u632f\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c",
+    "class": "place",
+    "type": "city",
+    "importance": 0.36050526824242,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "59126425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7278388",
+    "boundingbox": [
+      "33.7321295",
+      "33.7328606",
+      "-116.2411501",
+      "-116.2411288"
+    ],
+    "lat": "33.7321295",
+    "lon": "-116.2411501",
+    "display_name": "Date, Indio, Riverside County, California, 92201, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57519834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5090987",
+    "boundingbox": [
+      "45.821698",
+      "45.821923",
+      "-119.7208449",
+      "-119.7196899"
+    ],
+    "lat": "45.821698",
+    "lon": "-119.7199599",
+    "display_name": "Date, Boardman, Morrow County, Oregon, 97818, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

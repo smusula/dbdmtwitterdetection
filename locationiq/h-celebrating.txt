@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "55549960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4301424760",
+    "boundingbox": [
+      "43.0530648",
+      "43.0531648",
+      "-87.9219856",
+      "-87.9218856"
+    ],
+    "lat": "43.0531148",
+    "lon": "-87.9219356",
+    "display_name": "Celebrating the Arts, 900, West Walnut Street, Hillside, Milwaukee, Milwaukee County, Wisconsin, 53208, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.43897270397755,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "45379497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3211770129",
+    "boundingbox": [
+      "47.6040318",
+      "47.6041318",
+      "-122.3292373",
+      "-122.3291373"
+    ],
+    "lat": "47.6040818",
+    "lon": "-122.3291873",
+    "display_name": "Justice is Served: Celebrating the People Who Work For a Change, 600, 5th Avenue, International District/Chinatown, Seattle, King County, Washington, 98104, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2609406333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217944518",
+    "boundingbox": [
+      "-37.7915579",
+      "-37.7911939",
+      "175.2872226",
+      "175.2877541"
+    ],
+    "lat": "-37.79139185",
+    "lon": "175.287488350782",
+    "display_name": "Celebrating Age Centre, 30, Victoria Street, Hamilton East, Hamilton, Hamilton City, Waikato, 3204, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "community_centre",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160723233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3995082",
+    "boundingbox": [
+      "-47.1069576",
+      "-47.0173911",
+      "-66.9777802",
+      "-66.9102831"
+    ],
+    "lat": "-47.08354065",
+    "lon": "-66.9437381000888",
+    "display_name": "La Margarita, Deseado, SC, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160253133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "43101",
+    "boundingbox": [
+      "44.3761996",
+      "44.4181203",
+      "7.6472118",
+      "7.7066372"
+    ],
+    "lat": "44.403432",
+    "lon": "7.684934",
+    "display_name": "Margarita, CN, PIE, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48082308201483,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160824403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5268564",
+    "boundingbox": [
+      "5.9451792",
+      "5.975306",
+      "-76.0305747",
+      "-75.9856814"
+    ],
+    "lat": "5.9593079",
+    "lon": "-76.0059585",
+    "display_name": "La Margarita, Salgar, Antioquia, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "147229044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375573898",
+    "boundingbox": [
+      "42.6781435",
+      "42.6855966",
+      "19.5663152",
+      "19.5852931"
+    ],
+    "lat": "42.6819103",
+    "lon": "19.575745",
+    "display_name": "Margarita, Podgorica, Op\u0161tina Podgorica, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "136827561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "318380500",
+    "boundingbox": [
+      "39.0486718",
+      "39.0506558",
+      "1.3147837",
+      "1.3164829"
+    ],
+    "lat": "39.0495474",
+    "lon": "1.31503950883803",
+    "display_name": "Margarita, Sant Antoni de Portmany, Eivissa, Illes Balears, 124",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160982858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6411813",
+    "boundingbox": [
+      "42.8465053",
+      "42.8496123",
+      "-2.7563594",
+      "-2.7539157"
+    ],
+    "lat": "42.84808945",
+    "lon": "-2.755063293503",
+    "display_name": "Margarita, Vitoria-Gasteiz, Vitoria-Gasteizko Eskualdea / Cuadrilla de Vitoria, Araba/\u00c1lava, Euskadi, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "25813103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2481206995",
+    "boundingbox": [
+      "42.8278615",
+      "42.8678615",
+      "-2.7753002",
+      "-2.7353002"
+    ],
+    "lat": "42.8478615",
+    "lon": "-2.7553002",
+    "display_name": "Margarita, Vitoria-Gasteizko Eskualdea / Cuadrilla de Vitoria, Araba/\u00c1lava, Euskadi, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16670656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1549085066",
+    "boundingbox": [
+      "22.5067303",
+      "22.5467303",
+      "-80.3855247",
+      "-80.3455247"
+    ],
+    "lat": "22.5267303",
+    "lon": "-80.3655247",
+    "display_name": "La Margarita, Santo Domingo, Villa Clara, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "526739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198402269",
+    "boundingbox": [
+      "-29.7075706",
+      "-29.6675706",
+      "-60.2732272",
+      "-60.2332272"
+    ],
+    "lat": "-29.6875706",
+    "lon": "-60.2532272",
+    "display_name": "Margarita, Municipio de Margarita, Departamento Vera, Sta. Fe, Argentina",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46905962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3392598252",
+    "boundingbox": [
+      "-17.5641647",
+      "-17.5241647",
+      "-70.6487538",
+      "-70.6087538"
+    ],
+    "lat": "-17.5441647",
+    "lon": "-70.6287538",
+    "display_name": "Margarita, Jorge Basadre, Tacna, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

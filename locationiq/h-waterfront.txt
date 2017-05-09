@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "69716705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25608802",
+    "boundingbox": [
+      "22.3040202",
+      "22.3059031",
+      "114.162373",
+      "114.1635096"
+    ],
+    "lat": "22.30519035",
+    "lon": "114.163098652444",
+    "display_name": "1, \u6f3e\u65e5\u5c45 The Waterfront, \u897f\u4e5d\u9f8d West Kowloon, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.42356246868834
+  },
+  {
+    "place_id": "465293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158521198",
+    "boundingbox": [
+      "37.0856982",
+      "37.1256982",
+      "-79.674753",
+      "-79.634753"
+    ],
+    "lat": "37.1056982",
+    "lon": "-79.654753",
+    "display_name": "The Waterfront, Franklin County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653102257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "168453758",
+    "boundingbox": [
+      "40.3985334",
+      "40.4149788",
+      "-79.9260813",
+      "-79.8892916"
+    ],
+    "lat": "40.4066526",
+    "lon": "-79.9178161301041",
+    "display_name": "The Waterfront, West Homestead, Allegheny County, Pennsylvania, 15120, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.37483378640496
+  },
+  {
+    "place_id": "766203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "262722450",
+    "boundingbox": [
+      "-33.9230555",
+      "-33.8830555",
+      "18.4016667",
+      "18.4416667"
+    ],
+    "lat": "-33.9030555",
+    "lon": "18.4216667",
+    "display_name": "Waterfront, Cape Town, City of Cape Town, Western Cape, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17060501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1639290058",
+    "boundingbox": [
+      "52.4770717",
+      "52.4970717",
+      "-2.1237713",
+      "-2.1037713"
+    ],
+    "lat": "52.4870717",
+    "lon": "-2.1137713",
+    "display_name": "The Waterfront, Dudley, West Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149281511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "385737786",
+    "boundingbox": [
+      "54.5955504",
+      "54.5987179",
+      "-5.9216476",
+      "-5.9151978"
+    ],
+    "lat": "54.5972935",
+    "lon": "-5.91989824736072",
+    "display_name": "The Waterfront, Town Parks, Belfast, County Antrim, Northern Ireland, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "119379493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233926550",
+    "boundingbox": [
+      "-35.3107314",
+      "-35.3097865",
+      "149.1426584",
+      "149.1449195"
+    ],
+    "lat": "-35.3102789",
+    "lon": "149.143834402121",
+    "display_name": "Waterfront, Kingston, Canberra, Canberra Central, Australian Capital Territory, 2604, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159148018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "441359472",
+    "boundingbox": [
+      "44.4683391",
+      "44.4914027",
+      "-73.2343526",
+      "-73.2183788"
+    ],
+    "lat": "44.47957",
+    "lon": "-73.2216995243107",
+    "display_name": "Waterfront, Burlington, Chittenden County, Vermont, 05401, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "155407888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421370497",
+    "boundingbox": [
+      "45.6227928",
+      "45.6263216",
+      "-122.6847235",
+      "-122.6767473"
+    ],
+    "lat": "45.6245448",
+    "lon": "-122.680292305516",
+    "display_name": "The Waterfront, Officers Row, Vancouver, Clark County, Washington, 98663, United States of America",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "78720891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55422579",
+    "boundingbox": [
+      "33.6510659",
+      "33.6539904",
+      "-117.9939143",
+      "-117.9884228"
+    ],
+    "lat": "33.6524273",
+    "lon": "-117.989898555369",
+    "display_name": "The Waterfront, Huntington Beach, Orange County, California, 92646, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

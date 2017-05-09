@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160301854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "270667",
+    "boundingbox": [
+      "44.6749623",
+      "45.4298524",
+      "-87.7368642",
+      "-86.7639559"
+    ],
+    "lat": "44.7615925",
+    "lon": "-87.5329746",
+    "display_name": "Door County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49996057842905,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2648016616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463805858",
+    "boundingbox": [
+      "54.132328",
+      "54.1326622",
+      "9.6966596",
+      "9.6966713"
+    ],
+    "lat": "54.132328",
+    "lon": "9.6966713",
+    "display_name": "Door, Nindorf, Mittelholstein, Kreis Rendsburg-Eckernf\u00f6rde, Schleswig-Holstein, 24594, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654781556",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4749426426",
+    "boundingbox": [
+      "1.326338",
+      "1.326438",
+      "103.843164",
+      "103.843264"
+    ],
+    "lat": "1.326388",
+    "lon": "103.843214",
+    "display_name": "Door, 607, Balestier Road, Balestier, Singapore, Central Singapore Community Development Council, 329901, Singapore",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648963386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4611204064",
+    "boundingbox": [
+      "51.8174211",
+      "51.8175211",
+      "4.6699717",
+      "4.6700717"
+    ],
+    "lat": "51.8174711",
+    "lon": "4.6700217",
+    "display_name": "DOOR, 142, Voorstraat, Dordrecht Centrum, Dordrecht, Zuid-Holland, Nederland, 3311ES, Nederland",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2649250691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "467070360",
+    "boundingbox": [
+      "33.5635892",
+      "33.5637792",
+      "-101.9019469",
+      "-101.9016364"
+    ],
+    "lat": "33.5636842",
+    "lon": "-101.90179162667",
+    "display_name": "The Door, 34th Street, Lubbock, Lubbock County, Texas, 79410, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "46147405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3269647875",
+    "boundingbox": [
+      "-9.6552868",
+      "-9.6551868",
+      "-35.6997166",
+      "-35.6996166"
+    ],
+    "lat": "-9.6552368",
+    "lon": "-35.6996666",
+    "display_name": "The Door, 103, Rua S\u00e3o Francisco de Assis, Jati\u00faca, Macei\u00f3, Microrregi\u00e3o de Macei\u00f3, Mesorregi\u00e3o Leste Alagoano, AL, Regi\u00e3o Nordeste, 57035-400, Brasil",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "46113735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3275231602",
+    "boundingbox": [
+      "39.9047282",
+      "39.9048282",
+      "8.5888729",
+      "8.5889729"
+    ],
+    "lat": "39.9047782",
+    "lon": "8.5889229",
+    "display_name": "Door, 42, Via Diego Contini, Centro Storico, Aristanis/Oristano, OR, SAR, 09170, Italia",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52939400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4005110572",
+    "boundingbox": [
+      "40.4215098",
+      "40.4216098",
+      "15.0132815",
+      "15.0133815"
+    ],
+    "lat": "40.4215598",
+    "lon": "15.0133315",
+    "display_name": "Door, Via di Porta Sirena, Capaccio Paestum, SA, CAM, 84047, Italia",
+    "class": "historic",
+    "type": "ruins",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_ruin.p.20.png"
+  },
+  {
+    "place_id": "116177180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221754465",
+    "boundingbox": [
+      "33.5393861",
+      "33.5397242",
+      "-112.1772501",
+      "-112.1769593"
+    ],
+    "lat": "33.539489",
+    "lon": "-112.177104601155",
+    "display_name": "The Door, North 55th Avenue, Glendale, Maricopa County, Arizona, 85301, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2649042403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232800881",
+    "boundingbox": [
+      "51.7450819",
+      "51.7454888",
+      "-2.2151069",
+      "-2.2148471"
+    ],
+    "lat": "51.74529355",
+    "lon": "-2.21496734443924",
+    "display_name": "The Door, 46, High Street, Stroud, Gloucestershire, South West England, England, GL5 1AN, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

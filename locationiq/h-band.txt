@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "81684174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75373947",
+    "boundingbox": [
+      "46.559702",
+      "46.590368",
+      "24.334966",
+      "24.393159"
+    ],
+    "lat": "46.575274",
+    "lon": "24.3753198082232",
+    "display_name": "Band, Mure\u0219, Rom\u00e2nia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1376536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "306021133",
+    "boundingbox": [
+      "46.5593494",
+      "46.5993494",
+      "24.3539356",
+      "24.3939356"
+    ],
+    "lat": "46.5793494",
+    "lon": "24.3739356",
+    "display_name": "Band, Mure\u0219, 547065, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.52571630620192,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160371842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1078565",
+    "boundingbox": [
+      "47.0876002",
+      "47.1343744",
+      "17.7626192",
+      "17.8386033"
+    ],
+    "lat": "47.1222045",
+    "lon": "17.7806351",
+    "display_name": "B\u00e1nd, Veszpr\u00e9mi j\u00e1r\u00e1s, Veszpr\u00e9m megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44265146538601,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "29822809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2723538179",
+    "boundingbox": [
+      "24.3770213",
+      "24.4170213",
+      "70.9343137",
+      "70.9743137"
+    ],
+    "lat": "24.3970213",
+    "lon": "70.9543137",
+    "display_name": "Band, Tharparkar District, \u0633\u0646\u068c, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127508501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "271226882",
+    "boundingbox": [
+      "40.4900037",
+      "40.508659",
+      "67.2540535",
+      "67.2755935"
+    ],
+    "lat": "40.4957617",
+    "lon": "67.2665956",
+    "display_name": "Band, G\u2018allaorol Tumani, Jizzax Viloyati, O\u02bbzbekiston",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48015568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3510142685",
+    "boundingbox": [
+      "48.6702521",
+      "48.6703521",
+      "-4.1442281",
+      "-4.1441281"
+    ],
+    "lat": "48.6703021",
+    "lon": "-4.1441781",
+    "display_name": "Band, Cl\u00e9der, Morlaix, Finist\u00e8re, Bretagne, 29233, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "16153597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1479208033",
+    "boundingbox": [
+      "54.368784",
+      "54.388784",
+      "-2.3865026",
+      "-2.3665026"
+    ],
+    "lat": "54.378784",
+    "lon": "-2.3765026",
+    "display_name": "The Band, Eden, Cumbria, North West England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149407707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386125969",
+    "boundingbox": [
+      "37.4938778",
+      "37.5016237",
+      "44.989888",
+      "45.0076764"
+    ],
+    "lat": "37.4966389",
+    "lon": "44.9984671",
+    "display_name": "\u0628\u0646\u062f, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0627\u0631\u0648\u0645\u06cc\u0647, \u0627\u0633\u062a\u0627\u0646 \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u063a\u0631\u0628\u06cc\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98914060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151565099",
+    "boundingbox": [
+      "39.9285118",
+      "39.9481799",
+      "48.3087999",
+      "48.3420655"
+    ],
+    "lat": "39.9374009",
+    "lon": "48.3252096",
+    "display_name": "Band, Saatl\u0131, Saatl\u0131 rayonu, Az\u0259rbaycan",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "123948682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "253285084",
+    "boundingbox": [
+      "39.9481707",
+      "39.991858",
+      "48.3420442",
+      "48.4139699"
+    ],
+    "lat": "39.9766005",
+    "lon": "48.3729276",
+    "display_name": "Band, Saatl\u0131, Saatl\u0131 rayonu, Az\u0259rbaycan",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  }
+]

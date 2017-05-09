@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "56898076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4447478342",
+    "boundingbox": [
+      "12.9184671",
+      "12.9185671",
+      "77.6708528",
+      "77.6709528"
+    ],
+    "lat": "12.9185171",
+    "lon": "77.6709028",
+    "display_name": "uber, 25/4,24/2,25/6, Sarjapur Road, Green Glen Layout, Iblur, Bengaluru, Bangalore Urban, Karnataka, 560035, India",
+    "class": "place",
+    "type": "house",
+    "importance": 0.111
+  },
+  {
+    "place_id": "53408258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4070643456",
+    "boundingbox": [
+      "19.4289858",
+      "19.4290858",
+      "-99.1585875",
+      "-99.1584875"
+    ],
+    "lat": "19.4290358",
+    "lon": "-99.1585375",
+    "display_name": "Uber, Hamburgo, Ju\u00e1rez, Ciudad de M\u00e9xico, Cuauht\u00e9moc, CDMX, 06600, M\u00e9xico",
+    "class": "highway",
+    "type": "services",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45973706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3277801205",
+    "boundingbox": [
+      "37.7756462",
+      "37.7757462",
+      "-122.4181337",
+      "-122.4180337"
+    ],
+    "lat": "37.7756962",
+    "lon": "-122.4180837",
+    "display_name": "Uber, 1455, Market Street, Civic Center, SF, California, 94103, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55064427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4242639796",
+    "boundingbox": [
+      "-33.8480282",
+      "-33.8479282",
+      "151.0872065",
+      "151.0873065"
+    ],
+    "lat": "-33.8479782",
+    "lon": "151.0872565",
+    "display_name": "Uber, Victoria Avenue, Concord West, Sydney, Canada Bay, NSW, 2138, Australia",
+    "class": "office",
+    "type": "administrative",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55656709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4336607690",
+    "boundingbox": [
+      "46.1795495",
+      "46.1796495",
+      "21.3315267",
+      "21.3316267"
+    ],
+    "lat": "46.1795995",
+    "lon": "21.3315767",
+    "display_name": "UBER, Aleea R\u0103s\u0103ritului, Arad, 310167, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "72444265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32508287",
+    "boundingbox": [
+      "52.4745564",
+      "52.4748237",
+      "-1.9161456",
+      "-1.9154854"
+    ],
+    "lat": "52.4746766",
+    "lon": "-1.91586322385543",
+    "display_name": "UBER, 100, Broad Street, Ladywood, Park Central, Birmingham, West Midlands, England, B15 1AE, UK",
+    "class": "office",
+    "type": "administrative",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647599521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4581012346",
+    "boundingbox": [
+      "53.847582",
+      "53.847682",
+      "-2.9908391",
+      "-2.9907391"
+    ],
+    "lat": "53.847632",
+    "lon": "-2.9907891",
+    "display_name": "Uber, Vicarage Road, Little Poulton, Wyre, Lancs, North West England, England, FY6 7BE, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44791116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3179429292",
+    "boundingbox": [
+      "52.4135149",
+      "52.4136149",
+      "-1.7797665",
+      "-1.7796665"
+    ],
+    "lat": "52.4135649",
+    "lon": "-1.7797165",
+    "display_name": "Uber, Poplar Arcade, Solihull, West Midlands, England, B91 3TF, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2651328332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472542599",
+    "boundingbox": [
+      "51.3866877",
+      "51.3867611",
+      "-2.36578",
+      "-2.3656391"
+    ],
+    "lat": "51.38672455",
+    "lon": "-2.36570949834809",
+    "display_name": "Uber, Margaret's Buildings, Kingsmead, City of Bath, Bath and North East Somerset, South West England, England, BA1 2LP, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "30567399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2737339938",
+    "boundingbox": [
+      "48.5600389",
+      "48.5601389",
+      "9.2687861",
+      "9.2688861"
+    ],
+    "lat": "48.5600889",
+    "lon": "9.2688361",
+    "display_name": "Uber, 3, Metzinger Stra\u00dfe, Riederich, Gemeindeverwaltungsverband Metzingen, Landkreis Reutlingen, Regierungsbezirk T\u00fcbingen, Baden-W\u00fcrttemberg, 72585, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

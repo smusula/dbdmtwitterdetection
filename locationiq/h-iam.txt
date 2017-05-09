@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "3964058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "429927971",
+    "boundingbox": [
+      "44.9900943",
+      "45.0300943",
+      "21.3812452",
+      "21.4212452"
+    ],
+    "lat": "45.0100943",
+    "lon": "21.4012452",
+    "display_name": "Iam, Cara\u0219-Severin, 327021, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.42516713207519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160719362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3875966",
+    "boundingbox": [
+      "56.7012966",
+      "56.7098126",
+      "38.8154955",
+      "38.8438134"
+    ],
+    "lat": "56.7034075",
+    "lon": "38.8271503",
+    "display_name": "\u042f\u043c, \u041f\u0435\u0440\u0435\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "village",
+    "importance": 0.32673432905931,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6164167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "639642547",
+    "boundingbox": [
+      "57.1703932",
+      "57.2103932",
+      "34.4580083",
+      "34.4980083"
+    ],
+    "lat": "57.1903932",
+    "lon": "34.4780083",
+    "display_name": "\u042f\u043c, \u0422\u043e\u0440\u0436\u043e\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13965958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1274436461",
+    "boundingbox": [
+      "58.0028858",
+      "58.0428858",
+      "37.2447707",
+      "37.2847707"
+    ],
+    "lat": "58.0228858",
+    "lon": "37.2647707",
+    "display_name": "\u042f\u043c, \u041a\u0440\u0430\u0441\u043d\u043e\u0445\u043e\u043b\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160813234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4783952",
+    "boundingbox": [
+      "54.70642",
+      "54.718027",
+      "36.8843361",
+      "36.9089483"
+    ],
+    "lat": "54.7135355",
+    "lon": "36.8974572",
+    "display_name": "\u042f\u043c, \u0422\u0430\u0440\u0443\u0441\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u043b\u0443\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "82348158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82168542",
+    "boundingbox": [
+      "57.9121934",
+      "57.9164575",
+      "40.0090806",
+      "40.0134658"
+    ],
+    "lat": "57.9143435",
+    "lon": "40.0110486",
+    "display_name": "\u042f\u043c, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u042f\u0440\u043e\u0441\u043b\u0430\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160592026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2786288",
+    "boundingbox": [
+      "56.4929133",
+      "56.501954",
+      "30.1817263",
+      "30.1983097"
+    ],
+    "lat": "56.4966244",
+    "lon": "30.1879456",
+    "display_name": "\u042f\u043c, \u041d\u043e\u0432\u043e\u0441\u043e\u043a\u043e\u043b\u044c\u043d\u0438\u0447\u0435\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44516671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3139167501",
+    "boundingbox": [
+      "57.2835151",
+      "57.3235151",
+      "29.6507457",
+      "29.6907457"
+    ],
+    "lat": "57.3035151",
+    "lon": "29.6707457",
+    "display_name": "\u042f\u043c, \u0414\u0435\u0434\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "97739876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "146163549",
+    "boundingbox": [
+      "56.6390237",
+      "56.6438993",
+      "38.4490943",
+      "38.4648983"
+    ],
+    "lat": "56.6414744",
+    "lon": "38.4565114",
+    "display_name": "\u042f\u043c, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "76694299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46785092",
+    "boundingbox": [
+      "56.0914531",
+      "56.0979406",
+      "42.0719968",
+      "42.0877206"
+    ],
+    "lat": "56.09491755",
+    "lon": "42.079918664982",
+    "display_name": "\u042f\u043c, \u0412\u044f\u0437\u043d\u0438\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

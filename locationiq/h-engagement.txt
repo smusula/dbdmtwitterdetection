@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "46567850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3355430522",
+    "boundingbox": [
+      "49.2821185",
+      "49.2822185",
+      "-123.1411875",
+      "-123.1410875"
+    ],
+    "lat": "49.2821685",
+    "lon": "-123.1411375",
+    "display_name": "Engagement, Beach Avenue, West End, Vancouver, Greater Vancouver Regional District, British Columbia, V6G, Canada",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "15895307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1444410709",
+    "boundingbox": [
+      "47.3809815",
+      "47.3810815",
+      "15.0898081",
+      "15.0899081"
+    ],
+    "lat": "47.3810315",
+    "lon": "15.0898581",
+    "display_name": "Engagement, Stadtkai, Leoben, Steiermark, 8700, \u00d6sterreich",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

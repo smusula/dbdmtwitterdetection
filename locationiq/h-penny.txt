@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "448268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154206753",
+    "boundingbox": [
+      "37.3392706",
+      "37.3792706",
+      "-82.5815427",
+      "-82.5415427"
+    ],
+    "lat": "37.3592706",
+    "lon": "-82.5615427",
+    "display_name": "Penny, Pike County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "398044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153510440",
+    "boundingbox": [
+      "36.6270002",
+      "36.6670002",
+      "-88.3805953",
+      "-88.3405953"
+    ],
+    "lat": "36.6470002",
+    "lon": "-88.3605953",
+    "display_name": "Penny, Calloway County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17287980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1678794862",
+    "boundingbox": [
+      "53.8334509",
+      "53.8534509",
+      "-121.3008905",
+      "-121.2808905"
+    ],
+    "lat": "53.8434509",
+    "lon": "-121.2908905",
+    "display_name": "Penny, Regional District of Fraser-Fort George, British Columbia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63764102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15174917",
+    "boundingbox": [
+      "29.377437",
+      "29.378403",
+      "-98.4923109",
+      "-98.4923059"
+    ],
+    "lat": "29.378403",
+    "lon": "-98.4923109",
+    "display_name": "Penny, San Antonio, Bexar County, Texas, 78214, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98347839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148769686",
+    "boundingbox": [
+      "37.3127626",
+      "37.314",
+      "-89.5417291",
+      "-89.5415607"
+    ],
+    "lat": "37.314",
+    "lon": "-89.5415607",
+    "display_name": "Penny, Cape Girardeau, Cape Girardeau County, Missouri, 63703, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63634221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15199765",
+    "boundingbox": [
+      "29.850257",
+      "29.851251",
+      "-98.2499299",
+      "-98.2478129"
+    ],
+    "lat": "29.850438",
+    "lon": "-98.2487489",
+    "display_name": "Penny, Startzville, Comal County, Texas, 78133, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67840343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21801548",
+    "boundingbox": [
+      "37.702585",
+      "37.705006",
+      "-89.3373959",
+      "-89.3353189"
+    ],
+    "lat": "37.704256",
+    "lon": "-89.3353899",
+    "display_name": "Penny, Etherton, Jackson County, Illinois, 62966, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65538357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17767180",
+    "boundingbox": [
+      "45.500683",
+      "45.502123",
+      "-84.7249849",
+      "-84.7165719"
+    ],
+    "lat": "45.501798",
+    "lon": "-84.7213679",
+    "display_name": "Penny, Elmhurst, Cheboygan County, Michigan, 49716, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64694361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16898419",
+    "boundingbox": [
+      "35.9091778",
+      "35.9127597",
+      "-114.0773651",
+      "-114.0773468"
+    ],
+    "lat": "35.9091778",
+    "lon": "-114.0773651",
+    "display_name": "Penny, Mohave County, Arizona, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "4040451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "430262652",
+    "boundingbox": [
+      "48.1247049",
+      "48.1248049",
+      "11.5415317",
+      "11.5416317"
+    ],
+    "lat": "48.1247549",
+    "lon": "11.5415817",
+    "display_name": "Penny, Herzog-Ernst-Platz, Sendlinger Berg, Bezirksteil Untersendling, Stadtbezirk 06 Sendling, M\u00fcnchen, OB, Bayern, 81373, Deutschland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

@@ -1,0 +1,135 @@
+[
+  {
+    "place_id": "56228679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4366482789",
+    "boundingbox": [
+      "52.5091957",
+      "52.5092957",
+      "13.3795474",
+      "13.3796474"
+    ],
+    "lat": "52.5092457",
+    "lon": "13.3795974",
+    "display_name": "Foodie, Leipziger Platz, Mitte, Berlin, 10117, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "7872843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "853742447",
+    "boundingbox": [
+      "55.6671902",
+      "55.6672902",
+      "12.5979068",
+      "12.5980068"
+    ],
+    "lat": "55.6672402",
+    "lon": "12.5979568",
+    "display_name": "Foodie, Amagerbrogade, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1426, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49994794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3703244625",
+    "boundingbox": [
+      "55.6982947",
+      "55.6983947",
+      "12.5530624",
+      "12.5531624"
+    ],
+    "lat": "55.6983447",
+    "lon": "12.5531124",
+    "display_name": "Foodie, Ydunsgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "51540377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3835111696",
+    "boundingbox": [
+      "52.4289598",
+      "52.4290598",
+      "16.9181257",
+      "16.9182257"
+    ],
+    "lat": "52.4290098",
+    "lon": "16.9181757",
+    "display_name": "Foodie, 80B, Pi\u0105tkowska, Studenckie, Winiary, Pozna\u0144, wielkopolskie, 60-649, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "51361225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3835123106",
+    "boundingbox": [
+      "52.405378",
+      "52.405478",
+      "16.9323917",
+      "16.9324917"
+    ],
+    "lat": "52.405428",
+    "lon": "16.9324417",
+    "display_name": "Foodie, 2, Plac Wiosny Lud\u00f3w, Rybaki, Stare Miasto, Pozna\u0144, wielkopolskie, 60-831, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55302984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4301354396",
+    "boundingbox": [
+      "-2.1903479",
+      "-2.1902479",
+      "-79.8799362",
+      "-79.8798362"
+    ],
+    "lat": "-2.1902979",
+    "lon": "-79.8798862",
+    "display_name": "Foodie, Panam\u00e1, Rocafuerte, Carbo-Concepci\u00f3n, Guayaquil, Guayas, EC09103, Ecuador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2652384896",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4692595489",
+    "boundingbox": [
+      "15.5563582",
+      "15.5564582",
+      "73.7588302",
+      "73.7589302"
+    ],
+    "lat": "15.5564082",
+    "lon": "73.7588802",
+    "display_name": "Foodie, Calangute Baga Road, Baga, North Goa, Goa, 403516, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

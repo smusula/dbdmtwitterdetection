@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "2654913360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "14808039",
+    "boundingbox": [
+      "51.4180216",
+      "51.4980216",
+      "-1.0073726",
+      "-0.9273726"
+    ],
+    "lat": "51.4580216",
+    "lon": "-0.9673726",
+    "display_name": "Reading, South East, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.67357215533975,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160263141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "115074",
+    "boundingbox": [
+      "51.4097707",
+      "51.493134",
+      "-1.0529947",
+      "-0.9284942"
+    ],
+    "lat": "51.45149525",
+    "lon": "-0.983634149936538",
+    "display_name": "Reading, South East, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.67357215533975,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160293985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "188481",
+    "boundingbox": [
+      "40.296401",
+      "40.371134",
+      "-75.9600889",
+      "-75.8905119"
+    ],
+    "lat": "40.335345",
+    "lon": "-75.9279494",
+    "display_name": "Reading, Berks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.60109533359779,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160453720",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1842127",
+    "boundingbox": [
+      "42.5002938",
+      "42.5665185",
+      "-71.1364233",
+      "-71.0710424"
+    ],
+    "lat": "42.5256502",
+    "lon": "-71.0953313",
+    "display_name": "Reading, Middlesex County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51966043412766,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "68342127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22990177",
+    "boundingbox": [
+      "51.4581543",
+      "51.4599224",
+      "-0.9755192",
+      "-0.9691227"
+    ],
+    "lat": "51.45903305",
+    "lon": "-0.971732486915083",
+    "display_name": "Reading, Brunel Arcade, Caversham, Reading, South East, England, RG1 1LY, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.5090322216837,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160289731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182220",
+    "boundingbox": [
+      "39.203882",
+      "39.240921",
+      "-84.4547349",
+      "-84.4077229"
+    ],
+    "lat": "39.2236694",
+    "lon": "-84.442164",
+    "display_name": "Reading, Hamilton County, Ohio, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42673432905931,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160471258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2030459",
+    "boundingbox": [
+      "43.4440894",
+      "43.5612077",
+      "-72.660682",
+      "-72.5301631"
+    ],
+    "lat": "43.495418",
+    "lon": "-72.5937744717863",
+    "display_name": "Reading, Windsor County, Vermont, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38421533777039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "419611",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153795255",
+    "boundingbox": [
+      "41.0464066",
+      "41.0864066",
+      "-88.874876",
+      "-88.834876"
+    ],
+    "lat": "41.0664066",
+    "lon": "-88.854876",
+    "display_name": "Reading, Livingston County, Illinois, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "405427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153850446",
+    "boundingbox": [
+      "40.8150587",
+      "40.8550587",
+      "-81.0512044",
+      "-81.0112044"
+    ],
+    "lat": "40.8350587",
+    "lon": "-81.0312044",
+    "display_name": "Reading, Columbiana County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "366416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151524185",
+    "boundingbox": [
+      "39.471435",
+      "39.511435",
+      "-91.1523618",
+      "-91.1123618"
+    ],
+    "lat": "39.491435",
+    "lon": "-91.1323618",
+    "display_name": "Reading, Pike County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

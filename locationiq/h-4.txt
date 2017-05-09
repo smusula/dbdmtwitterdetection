@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "101508593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161969859",
+    "boundingbox": [
+      "69.8614169",
+      "69.8689693",
+      "27.0009564",
+      "27.0078945"
+    ],
+    "lat": "69.8654645",
+    "lon": "27.0054097",
+    "display_name": "4, Utsjoki, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, 99980, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.55481989798011
+  },
+  {
+    "place_id": "160794129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4730737",
+    "boundingbox": [
+      "33.14883",
+      "35.0155177",
+      "-7.1260184",
+      "-5.3151512"
+    ],
+    "lat": "33.9204332",
+    "lon": "-6.3676092",
+    "display_name": "Rabat-Sal\u00e9-K\u00e9nitra \u2d3b\u2d54\u2d31\u2d30\u2d5f-\u2d59\u2d4d\u2d30-\u2d47\u2d4f\u2d49\u2d5f\u2d54\u2d30 \u0627\u0644\u0631\u0628\u0627\u0637-\u0633\u0644\u0627-\u0627\u0644\u0642\u0646\u064a\u0637\u0631\u0629, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160433032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1675775",
+    "boundingbox": [
+      "46.2257437",
+      "46.3783529",
+      "13.7243743",
+      "14.1815711"
+    ],
+    "lat": "46.30203365",
+    "lon": "13.9090155363461",
+    "display_name": "Bohinj, Gorenjska, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50823684718167,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1400510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313715726",
+    "boundingbox": [
+      "3.36",
+      "4.64",
+      "-58.8066669",
+      "-57.5266669"
+    ],
+    "lat": "4",
+    "lon": "-58.1666669",
+    "display_name": "East Berbice-Corentyne Region, Guyana",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "151782361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400620767",
+    "boundingbox": [
+      "67.4621094",
+      "67.5120651",
+      "26.5898472",
+      "26.6176539"
+    ],
+    "lat": "67.4871213",
+    "lon": "26.6081953",
+    "display_name": "Ivalontie, Sodankyl\u00e4, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, 99600, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44743549725619
+  },
+  {
+    "place_id": "156875083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "428486003",
+    "boundingbox": [
+      "68.9098349",
+      "68.9115326",
+      "27.0084939",
+      "27.0128896"
+    ],
+    "lat": "68.9108883",
+    "lon": "27.0108673",
+    "display_name": "Kaamasentie, Inari, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, 99870, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44743549725619
+  },
+  {
+    "place_id": "151800420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400757581",
+    "boundingbox": [
+      "68.9115326",
+      "69.0992087",
+      "26.946736",
+      "27.1913936"
+    ],
+    "lat": "69.0197221",
+    "lon": "27.0215763",
+    "display_name": "Kaamasentie, Inari, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44743549725619
+  },
+  {
+    "place_id": "151765182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400757582",
+    "boundingbox": [
+      "69.0992087",
+      "69.0994223",
+      "27.1911644",
+      "27.1912119"
+    ],
+    "lat": "69.0992087",
+    "lon": "27.1912119",
+    "display_name": "Kaamasentie, Inari, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, 99910, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44743549725619
+  },
+  {
+    "place_id": "151866328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400620741",
+    "boundingbox": [
+      "67.4548319",
+      "67.455045",
+      "26.5846092",
+      "26.5848254"
+    ],
+    "lat": "67.455045",
+    "lon": "26.5848254",
+    "display_name": "Ivalontie, Sodankyl\u00e4, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44481989798011
+  },
+  {
+    "place_id": "101508596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "161969871",
+    "boundingbox": [
+      "69.8915589",
+      "69.9088341",
+      "27.0145753",
+      "27.0282449"
+    ],
+    "lat": "69.9040553",
+    "lon": "27.0179428",
+    "display_name": "Utsjoentie, Utsjoki, Pohjois-Lapin seutukunta, Lappi, Lapin aluehallintovirasto, Pohjois-Suomi, 99980, Suomi",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.44481989798011
+  }
+]

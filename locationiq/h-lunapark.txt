@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "68726871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23844185",
+    "boundingbox": [
+      "53.5666189",
+      "53.5671978",
+      "9.9422525",
+      "9.9441633"
+    ],
+    "lat": "53.5668737",
+    "lon": "9.943102",
+    "display_name": "Lunapark, Altona-Nord, Altona, Hamburg, 22769, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68817381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23705566",
+    "boundingbox": [
+      "52.3818604",
+      "52.3821156",
+      "9.675868",
+      "9.6766816"
+    ],
+    "lat": "52.3818604",
+    "lon": "9.675868",
+    "display_name": "Lunapark, Ahlem, Ahlem-Badenstedt-Davenstedt, Hannover, Region Hannover, Niedersachsen, 30453, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "79755103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61687727",
+    "boundingbox": [
+      "51.2838082",
+      "51.2844964",
+      "6.3667575",
+      "6.367237"
+    ],
+    "lat": "51.2842052",
+    "lon": "6.3668949",
+    "display_name": "Lunapark, S\u00fcchteln, Viersen, Kreis Viersen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 41749, Deutschland",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "71696843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30667178",
+    "boundingbox": [
+      "52.1751924",
+      "52.1754225",
+      "21.009894",
+      "21.0101858"
+    ],
+    "lat": "52.1753432",
+    "lon": "21.0100524026591",
+    "display_name": "Lunapark, 2, Stefana Pie\u0144kowskiego, Zago\u015bciniec, Mokot\u00f3w, Warszawa, mazowieckie, 02-668, Polska",
+    "class": "office",
+    "type": "advertising_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135931482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314265597",
+    "boundingbox": [
+      "49.9713542",
+      "49.9716167",
+      "6.9344722",
+      "6.9350532"
+    ],
+    "lat": "49.9715217",
+    "lon": "6.93479795928571",
+    "display_name": "Lunapark, Auf dem H\u00fcgel, Belingen, Wittlich, Landkreis Bernkastel-Wittlich, Rheinland-Pfalz, 54516, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "79515122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60544326",
+    "boundingbox": [
+      "50.5444378",
+      "50.5460894",
+      "7.2517309",
+      "7.2555119"
+    ],
+    "lat": "50.54525575",
+    "lon": "7.25513792186126",
+    "display_name": "Lunapark, Elsa-Br\u00e4ndstr\u00f6m-Ring, Westum, Sinzig, Landkreis Ahrweiler, Rheinland-Pfalz, 53489, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70401898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27550673",
+    "boundingbox": [
+      "51.0511118",
+      "51.0515794",
+      "13.5401549",
+      "13.5409018"
+    ],
+    "lat": "51.05136665",
+    "lon": "13.5405334982305",
+    "display_name": "Lunapark, Am Ehrenfriedhof, Grumbach, Wilsdruff, Landkreis S\u00e4chsische Schweiz-Osterzgebirge, Sachsen, 01723, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "137248504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "320283614",
+    "boundingbox": [
+      "51.6568673",
+      "51.6571568",
+      "11.3559239",
+      "11.3561962"
+    ],
+    "lat": "51.65702575",
+    "lon": "11.356111299147",
+    "display_name": "Lunapark, Hahmberg, Stangerode, Arnstein, Landkreis Mansfeld-S\u00fcdharz, Sachsen-Anhalt, 06543, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27992295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2616347059",
+    "boundingbox": [
+      "51.656956",
+      "51.657056",
+      "11.356073",
+      "11.356173"
+    ],
+    "lat": "51.657006",
+    "lon": "11.356123",
+    "display_name": "Lunapark, Hahmberg, Stangerode, Arnstein, Landkreis Mansfeld-S\u00fcdharz, Sachsen-Anhalt, 06543, Deutschland",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70412537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27561620",
+    "boundingbox": [
+      "49.723949",
+      "49.7247033",
+      "9.21939",
+      "9.2207789"
+    ],
+    "lat": "49.7243284",
+    "lon": "9.2202275147014",
+    "display_name": "Lunapark, Leinritt, Gro\u00dfheubach, Landkreis Miltenberg, Unterfranken, Bayern, 63920, Deutschland",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "49592374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3672023962",
+    "boundingbox": [
+      "53.5770784",
+      "53.5771784",
+      "9.9478723",
+      "9.9479723"
+    ],
+    "lat": "53.5771284",
+    "lon": "9.9479223",
+    "display_name": "Event, Osterstra\u00dfe, Eimsb\u00fcttel, Hamburg, 20255, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "8044561",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "868727704",
+    "boundingbox": [
+      "43.5969273",
+      "43.5970273",
+      "1.4500341",
+      "1.4501341"
+    ],
+    "lat": "43.5969773",
+    "lon": "1.4500841",
+    "display_name": "Event, Rue Ninau, Capitole, Toulouse Centre, Toulouse, Haute-Garonne, Occitanie, 31000, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "14066401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1268340973",
+    "boundingbox": [
+      "-33.8752235",
+      "-33.8751235",
+      "151.2060063",
+      "151.2061063"
+    ],
+    "lat": "-33.8751735",
+    "lon": "151.2060563",
+    "display_name": "Event, 505-525, George Street, Sydney, NSW, 2000, Australia",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "6060018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "614226519",
+    "boundingbox": [
+      "32.8096212",
+      "32.8097212",
+      "35.0550579",
+      "35.0551579"
+    ],
+    "lat": "32.8096712",
+    "lon": "35.0551079",
+    "display_name": "EVENT, \u05d4\u05e7\u05d9\u05d8\u05d5\u05e8, \u05d7\u05d5\u05e6\u05d5\u05ea \u05d4\u05de\u05e4\u05e8\u05e5, \u05e7\u05e8\u05d9\u05d9\u05ea \u05d7\u05d9\u05d9\u05dd \u05de\u05d6\u05e8\u05d7\u05d9\u05ea, \u05d7\u05d9\u05e4\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d7\u05d9\u05e4\u05d4, 2628858, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56047706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4351606173",
+    "boundingbox": [
+      "32.2431737",
+      "32.2432737",
+      "-110.8566988",
+      "-110.8565988"
+    ],
+    "lat": "32.2432237",
+    "lon": "-110.8566488",
+    "display_name": "The Event, 6350, East Tanque Verde Road, Tucson, Pima County, Arizona, 85715, United States of America",
+    "class": "amenity",
+    "type": "catering",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610555045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4509411661",
+    "boundingbox": [
+      "41.4344885",
+      "41.4345885",
+      "2.2181834",
+      "2.2182834"
+    ],
+    "lat": "41.4345385",
+    "lon": "2.2182334",
+    "display_name": "Event, 3, carrer de Guasch, Artigues, Badalona, BCN, CAT, 08913, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "96463091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "139816072",
+    "boundingbox": [
+      "44.0628285",
+      "44.0633023",
+      "-92.482723",
+      "-92.4822572"
+    ],
+    "lat": "44.06309165",
+    "lon": "-92.4824904768177",
+    "display_name": "Event, Buses Only, Rochester, Olmsted County, Minnesota, 55901, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15296716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1396047067",
+    "boundingbox": [
+      "53.1065878",
+      "53.1066878",
+      "8.167253",
+      "8.167353"
+    ],
+    "lat": "53.1066378",
+    "lon": "8.167303",
+    "display_name": "Event, Diedrich-Dannemann-Stra\u00dfe, Wardenburg, Landkreis Oldenburg, Niedersachsen, 26203, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "160568912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2568302",
+    "boundingbox": [
+      "51.8036873",
+      "51.804945",
+      "39.1487402",
+      "39.1505703"
+    ],
+    "lat": "51.80430915",
+    "lon": "39.1496571050639",
+    "display_name": "Event, \u042f\u043c\u0435\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u042f\u043c\u0435\u043d\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0420\u0430\u043c\u043e\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 396005, \u0420\u0424",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "15336310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1408246438",
+    "boundingbox": [
+      "37.075175",
+      "37.075275",
+      "22.4306757",
+      "22.4307757"
+    ],
+    "lat": "37.075225",
+    "lon": "22.4307257",
+    "display_name": "Event, \u039f\u03b4\u03cc\u03c2 \u039a\u03bb\u03b5\u03bf\u03bc\u03b2\u03c1\u03cc\u03c4\u03bf\u03c5, \u03a3\u03c0\u03ac\u03c1\u03c4\u03b7, \u0394\u03ae\u03bc\u03bf\u03c2 \u03a3\u03c0\u03ac\u03c1\u03c4\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039b\u03b1\u03ba\u03c9\u03bd\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 23100, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

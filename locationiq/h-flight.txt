@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "17049269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1613468706",
+    "boundingbox": [
+      "52.2122727",
+      "52.2123727",
+      "0.1025913",
+      "0.1026913"
+    ],
+    "lat": "52.2123227",
+    "lon": "0.1026413",
+    "display_name": "Flight, Castle Ward, Cambridge, Cambridgeshire, East of England, England, CB3 0DN, UK",
+    "class": "amenity",
+    "type": "sculpture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159649891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444406662",
+    "boundingbox": [
+      "39.7734854",
+      "39.7743202",
+      "-104.9810008",
+      "-104.9801049"
+    ],
+    "lat": "39.7738895",
+    "lon": "-104.980574058014",
+    "display_name": "Flight, Ringsby Court, Globeville, Denver, Denver County, Colorado, 80216, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651365180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4669431066",
+    "boundingbox": [
+      "36.0953466",
+      "36.0954466",
+      "-115.1753681",
+      "-115.1752681"
+    ],
+    "lat": "36.0953966",
+    "lon": "-115.1753181",
+    "display_name": "Flight, 3900, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89119, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "36610185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2842832871",
+    "boundingbox": [
+      "39.1972873",
+      "39.1973873",
+      "-85.8801429",
+      "-85.8800429"
+    ],
+    "lat": "39.1973373",
+    "lon": "-85.8800929",
+    "display_name": "Flight, Indiana Avenue, Columbus, Bartholomew County, Indiana, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "56584149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4406617852",
+    "boundingbox": [
+      "19.7062453",
+      "19.7063453",
+      "96.1151481",
+      "96.1152481"
+    ],
+    "lat": "19.7062953",
+    "lon": "96.1151981",
+    "display_name": "Flight, \u101b\u102c\u1007\u101e\u1002\u1064\u101f\u101c\u1019\u1039\u1038, \u1012\u1000\u1039\u1001\u102d\u100f\u101e\u102e\u101b\u102d, Nay Pyi Taw (South), Naypyitaw, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2610273808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4502313993",
+    "boundingbox": [
+      "49.2631137",
+      "49.2632137",
+      "38.9055828",
+      "38.9056828"
+    ],
+    "lat": "49.2631637",
+    "lon": "38.9056328",
+    "display_name": "\u041f\u043e\u043b\u0456\u0442, \u0421\u0442\u0430\u0440\u043e\u0442\u0430\u0433\u0430\u043d\u0440\u043e\u0437\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u0442\u0430\u0440\u043e\u0431\u0456\u043b\u044c\u0441\u044c\u043a, \u0421\u0442\u0430\u0440\u043e\u0431\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u0443\u0433\u0430\u043d\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 92700, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

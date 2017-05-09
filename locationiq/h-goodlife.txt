@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "12601255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1197505171",
+    "boundingbox": [
+      "55.6958393",
+      "55.6959393",
+      "12.5440579",
+      "12.5441579"
+    ],
+    "lat": "55.6958893",
+    "lon": "12.5441079",
+    "display_name": "Goodlife, 12, Stefansgade, N\u00f8rrebro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 2200, Danmark",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "30033121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2719909707",
+    "boundingbox": [
+      "54.7096842",
+      "54.7097842",
+      "25.187172",
+      "25.187272"
+    ],
+    "lat": "54.7097342",
+    "lon": "25.187222",
+    "display_name": "GOODLIFE, 1, Priegliaus g., Pilait\u0117s seni\u016bnija, Vilnius, Vilniaus miesto savivaldyb\u0117, Vilniaus apskritis, 06269, Lietuva",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "79104620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58817545",
+    "boundingbox": [
+      "48.401589",
+      "48.4019592",
+      "15.6591917",
+      "15.6597591"
+    ],
+    "lat": "48.4017685",
+    "lon": "15.6594771418219",
+    "display_name": "Goodlife, 48, An der Sch\u00fctt, Lerchenfeld, Gemeinde Krems, Krems an der Donau (Stadt), Nieder\u00f6sterreich, 3500, \u00d6sterreich",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "2650616999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "319168120",
+    "boundingbox": [
+      "44.2873933",
+      "44.2882835",
+      "-78.3283193",
+      "-78.3274599"
+    ],
+    "lat": "44.28783835",
+    "lon": "-78.3278895900173",
+    "display_name": "Goodlife, Lansdowne Street West, Crawford's Grove, Peterborough, Ontario, K9J4H7, Canada",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150758507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "393669291",
+    "boundingbox": [
+      "10.0144585",
+      "10.0146515",
+      "-84.2086292",
+      "-84.2084556"
+    ],
+    "lat": "10.014554",
+    "lon": "-84.2085420898959",
+    "display_name": "Goodlife, Calle 9, Arroyo, Alajuela, Cant\u00f3n Alajuela, Provincia Alajuela, 20101, Costa Rica",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654724773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4748495633",
+    "boundingbox": [
+      "-32.9349897",
+      "-32.9348897",
+      "117.1768165",
+      "117.1769165"
+    ],
+    "lat": "-32.9349397",
+    "lon": "117.1768665",
+    "display_name": "Goodlife, Fortune Street, Narrogin, Western Australia, 6312, Australia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "52730493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4010457758",
+    "boundingbox": [
+      "-37.7007126",
+      "-37.7006126",
+      "144.7744017",
+      "144.7745017"
+    ],
+    "lat": "-37.7006626",
+    "lon": "144.7744517",
+    "display_name": "Goodlife, 399, Melton Highway, Taylors Lakes, City of Brimbank, Greater Melbourne, Victoria, 3037, Australia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "54358690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4194557579",
+    "boundingbox": [
+      "-37.8845343",
+      "-37.8844343",
+      "144.7352623",
+      "144.7353623"
+    ],
+    "lat": "-37.8844843",
+    "lon": "144.7353123",
+    "display_name": "Goodlife, Main Street, The Boardwalk, Point Cook, City of Wyndham, Greater Melbourne, Victoria, 3027, Australia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "21092903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2091227996",
+    "boundingbox": [
+      "49.7952583",
+      "49.8352583",
+      "0.5105054",
+      "0.5505054"
+    ],
+    "lat": "49.8152583",
+    "lon": "0.5305054",
+    "display_name": "Le Tennis, Le Havre, Seine-Maritime, Normandie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47075550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3405413186",
+    "boundingbox": [
+      "-19.561045",
+      "-19.521045",
+      "169.2572712",
+      "169.2972712"
+    ],
+    "lat": "-19.541045",
+    "lon": "169.2772712",
+    "display_name": "Tennis, Tafea, Vanuatu",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "356662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151403707",
+    "boundingbox": [
+      "38.1433559",
+      "38.1833559",
+      "-100.9309924",
+      "-100.8909924"
+    ],
+    "lat": "38.1633559",
+    "lon": "-100.9109924",
+    "display_name": "Tennis, Finney County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "95614780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "136145593",
+    "boundingbox": [
+      "38.8577115",
+      "38.8580353",
+      "-76.979919",
+      "-76.9793825"
+    ],
+    "lat": "38.8578734",
+    "lon": "-76.979652775",
+    "display_name": "tennis, Capitol Hill, Washington, District of Columbia, 20020, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.31
+  },
+  {
+    "place_id": "79411750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59291469",
+    "boundingbox": [
+      "38.860354",
+      "38.8608699",
+      "-76.9632035",
+      "-76.9624069"
+    ],
+    "lat": "38.86060835",
+    "lon": "-76.9628045630478",
+    "display_name": "tennis, Langston, Washington, District of Columbia, 20020, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.31
+  },
+  {
+    "place_id": "95105669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "134084698",
+    "boundingbox": [
+      "38.895962",
+      "38.8963733",
+      "-76.9606216",
+      "-76.9601147"
+    ],
+    "lat": "38.8961697",
+    "lon": "-76.9603689688996",
+    "display_name": "tennis, Langston, Washington, District of Columbia, 20019, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.31
+  },
+  {
+    "place_id": "133510224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303358750",
+    "boundingbox": [
+      "42.4104502",
+      "42.4107973",
+      "-71.3597845",
+      "-71.359357"
+    ],
+    "lat": "42.41062375",
+    "lon": "-71.35957075",
+    "display_name": "tennis, Lincoln, Middlesex County, Massachusetts, 01733, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.31
+  },
+  {
+    "place_id": "136960108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "319188497",
+    "boundingbox": [
+      "27.1466822",
+      "27.1473264",
+      "-82.3700276",
+      "-82.369243"
+    ],
+    "lat": "27.1470043",
+    "lon": "-82.3696353095859",
+    "display_name": "tennis, Venice, Sarasota County, Florida, 34292, United States of America",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.31
+  },
+  {
+    "place_id": "82725822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "84625783",
+    "boundingbox": [
+      "-43.3028581",
+      "-43.3025515",
+      "172.0585325",
+      "172.058884"
+    ],
+    "lat": "-43.30270485",
+    "lon": "172.05870822377",
+    "display_name": "tennis, Waimakariri District, Canterbury, New Zealand/Aotearoa",
+    "class": "landuse",
+    "type": "brownfield",
+    "importance": 0.31
+  },
+  {
+    "place_id": "72933275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33868163",
+    "boundingbox": [
+      "-43.5809567",
+      "-43.5806799",
+      "172.5787058",
+      "172.5789222"
+    ],
+    "lat": "-43.5808183",
+    "lon": "172.578814",
+    "display_name": "Tennis, Halswell, Christchurch, Christchurch City, Canterbury, 8025, New Zealand/Aotearoa",
+    "class": "landuse",
+    "type": "brownfield",
+    "importance": 0.3
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "143577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27397828",
+    "boundingbox": [
+      "51.2352527",
+      "51.3152527",
+      "1.3008309",
+      "1.3808309"
+    ],
+    "lat": "51.2752527",
+    "lon": "1.3408309",
+    "display_name": "Sandwich, Kent, South East, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.50593119814647,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160524166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2387635",
+    "boundingbox": [
+      "41.6372351",
+      "41.8196316",
+      "-70.5680645",
+      "-70.3784783"
+    ],
+    "lat": "41.7579043",
+    "lon": "-70.4968151",
+    "display_name": "Sandwich, Barnstable County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47116415330558,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160274876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126273",
+    "boundingbox": [
+      "41.631262",
+      "41.678198",
+      "-88.6559049",
+      "-88.5709189"
+    ],
+    "lat": "41.6458633",
+    "lon": "-88.6217431",
+    "display_name": "Sandwich, DeKalb County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46081675474887,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160500692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2023148",
+    "boundingbox": [
+      "43.7650312",
+      "43.9155533",
+      "-71.5646018",
+      "-71.3298941"
+    ],
+    "lat": "43.790428",
+    "lon": "-71.4118189",
+    "display_name": "Sandwich, Carroll County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44820442219665,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "147609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27470849",
+    "boundingbox": [
+      "51.2649462",
+      "51.2749462",
+      "1.3372492",
+      "1.3472492"
+    ],
+    "lat": "51.2699462",
+    "lon": "1.3422492",
+    "display_name": "Sandwich, Delfside, Sandwich, Dover, Kent, South East, England, CT13 9BD, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.43122765667354,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160571141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2593946",
+    "boundingbox": [
+      "51.2579319",
+      "51.3130237",
+      "1.3207013",
+      "1.3696392"
+    ],
+    "lat": "51.2854503",
+    "lon": "1.33964221668358",
+    "display_name": "Sandwich, Dover, Kent, South East, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "47604127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3453541232",
+    "boundingbox": [
+      "50.807283",
+      "50.807383",
+      "14.040783",
+      "14.040883"
+    ],
+    "lat": "50.807333",
+    "lon": "14.040833",
+    "display_name": "Sendvi\u010d, Tis\u00e1, okres \u00dast\u00ed nad Labem, \u00dasteck\u00fd kraj, Severoz\u00e1pad, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "70890855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28619351",
+    "boundingbox": [
+      "53.8998856",
+      "53.9010774",
+      "10.7909743",
+      "10.7920791"
+    ],
+    "lat": "53.9007632",
+    "lon": "10.7916084",
+    "display_name": "Sandwich, Herrenwyk, K\u00fccknitz, Herreninsel, L\u00fcbeck, Schleswig-Holstein, 23569, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18464728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1786326685",
+    "boundingbox": [
+      "48.8538299",
+      "48.8539299",
+      "6.9365782",
+      "6.9366782"
+    ],
+    "lat": "48.8538799",
+    "lon": "6.9366282",
+    "display_name": "sandwich, Rue de la Plage, Mittersheim, Sarrebourg-Ch\u00e2teau-Salins, Moselle, Grand-Est, 57930, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "12758494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1184113215",
+    "boundingbox": [
+      "31.5052087",
+      "31.5053087",
+      "-9.7636177",
+      "-9.7635177"
+    ],
+    "lat": "31.5052587",
+    "lon": "-9.7635677",
+    "display_name": "sandwich, Amira Lailah Amina, Essaouira Ville Nouvelle, Essaouira \u0627\u0644\u0635\u0648\u064a\u0631\u0629, Pachalik d'Essaouira \u0628\u0627\u0634\u0648\u064a\u0629 \u0627\u0644\u0635\u0648\u064a\u0631\u0629, Province Essaouira \u2d4d\u2d49\u2d47\u2d4d\u2d49\u2d4e \u2d4f \u2d5a\u2d61\u2d49\u2d54\u2d30 \u0625\u0642\u0644\u064a\u0645 \u0627\u0644\u0635\u0648\u064a\u0631\u0629\u200e, Marrakech-Safi \u2d4e\u2d55\u2d55\u2d30\u2d3d\u2d5b-\u2d30\u2d59\u2d3c\u2d49 \u0645\u0631\u0627\u0643\u0634-\u0623\u0633\u0641\u064a, 44000, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

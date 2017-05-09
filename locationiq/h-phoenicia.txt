@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160286594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "176334",
+    "boundingbox": [
+      "42.065542",
+      "42.089024",
+      "-74.3188579",
+      "-74.3007369"
+    ],
+    "lat": "42.0848126",
+    "lon": "-74.3154253",
+    "display_name": "Phoenicia, Town of Shandaken, Ulster County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43170884311896,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2610499126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4507790495",
+    "boundingbox": [
+      "33.901118",
+      "33.901218",
+      "35.4936219",
+      "35.4937219"
+    ],
+    "lat": "33.901168",
+    "lon": "35.4936719",
+    "display_name": "phoenicia, \u0634\u0627\u0631\u0639 \u062d\u064a\u0631\u0627\u0645, \u0645\u064a\u0646\u0627\u0621\u0627\u0644\u062d\u0635\u0646, \u0645\u064a\u0646\u0627\u0621 \u0627\u0644\u062d\u0635\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0631\u0648\u062a, 00961, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "19946648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1978697162",
+    "boundingbox": [
+      "47.5790883",
+      "47.5791883",
+      "-122.4101183",
+      "-122.4100183"
+    ],
+    "lat": "47.5791383",
+    "lon": "-122.4100683",
+    "display_name": "Phoenicia, 2716, Alki Avenue Southwest, West Seattle, Seattle, King County, Washington, 98116, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16884113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1573051131",
+    "boundingbox": [
+      "43.6980368",
+      "43.6981368",
+      "7.2760755",
+      "7.2761755"
+    ],
+    "lat": "43.6980868",
+    "lon": "7.2761255",
+    "display_name": "Phoenicia, Rue de la Boucherie, Vieux Nice, Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06000;06100;06200;06300, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "159727906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444440343",
+    "boundingbox": [
+      "5.8283623",
+      "5.8286204",
+      "-55.1613584",
+      "-55.1609961"
+    ],
+    "lat": "5.82849135",
+    "lon": "-55.16117725",
+    "display_name": "Phoenicia, Zwartenhovenbrugstraat, Paramaribo, Distrikt Paramaribo, Paramaribo, w, Suriname",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "11030424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1027848862",
+    "boundingbox": [
+      "51.9699443",
+      "51.9700443",
+      "7.6110225",
+      "7.6111225"
+    ],
+    "lat": "51.9699943",
+    "lon": "7.6110725",
+    "display_name": "Phoenicia, 37, Steinfurter Stra\u00dfe, Neutor, Innenstadtring, M\u00fcnster-Mitte, M\u00fcnster, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48149, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "68969823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24054688",
+    "boundingbox": [
+      "35.8951367",
+      "35.895749",
+      "14.5067276",
+      "14.5074939"
+    ],
+    "lat": "35.8954557",
+    "lon": "14.5070506932862",
+    "display_name": "Phoenicia, Vjal ir-Re Dwardu VII, Floriana, Malta, FRN1810, Malta",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "48141771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3511118180",
+    "boundingbox": [
+      "52.5494673",
+      "52.5495673",
+      "13.3493855",
+      "13.3494855"
+    ],
+    "lat": "52.5495173",
+    "lon": "13.3494355",
+    "display_name": "Ph\u00f6nicia, 100, Seestra\u00dfe, Br\u00fcsseler Kiez, Wedding, Mitte, Berlin, 13353, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "44789829",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3179825600",
+    "boundingbox": [
+      "42.6967124",
+      "42.6968124",
+      "23.3074592",
+      "23.3075592"
+    ],
+    "lat": "42.6967624",
+    "lon": "23.3075092",
+    "display_name": "\u0424\u0438\u043d\u0438\u043a\u0438\u044f, 2, \u041e\u0441\u043e\u0433\u043e\u0432\u043e, \u0436.\u043a. \u0417\u043e\u043d\u0430 \u0411-5, \u0440\u0430\u0439\u043e\u043d \u0412\u044a\u0437\u0440\u0430\u0436\u0434\u0430\u043d\u0435, \u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u043e\u0444\u0438\u044f-\u0413\u0440\u0430\u0434, 1303, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "43348087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3119908734",
+    "boundingbox": [
+      "33.8411539",
+      "33.8412539",
+      "35.5356541",
+      "35.5357541"
+    ],
+    "lat": "33.8412039",
+    "lon": "35.5357041",
+    "display_name": "\u0641\u064a\u0646\u064a\u0633\u064a\u0627, \u0634\u0627\u0631\u0639 \u0627\u0644\u0646\u0627\u0639\u0648\u0631\u0629, Baabda, \u0642\u0636\u0627\u0621 \u0628\u0639\u0628\u062f\u0627, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

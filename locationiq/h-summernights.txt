@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "140125484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334697968",
+    "boundingbox": [
+      "34.4962503",
+      "34.4977331",
+      "-77.4965225",
+      "-77.4935612"
+    ],
+    "lat": "34.49739",
+    "lon": "-77.4948023",
+    "display_name": "Summernights Way, Holly Ridge, Onslow County, North Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "140108274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334697966",
+    "boundingbox": [
+      "34.4968909",
+      "34.4975199",
+      "-77.4977434",
+      "-77.4965225"
+    ],
+    "lat": "34.4971534",
+    "lon": "-77.4972411",
+    "display_name": "Summernights Way Extended, Holly Ridge, Onslow County, North Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

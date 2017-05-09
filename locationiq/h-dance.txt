@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "17784306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1709256489",
+    "boundingbox": [
+      "48.34278",
+      "48.38278",
+      "0.73719",
+      "0.77719"
+    ],
+    "lat": "48.36278",
+    "lon": "0.75719",
+    "display_name": "Danc\u00e9, Mortagne-au-Perche, Orne, Normandie, 61340, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.41835445476798,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19030882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1859515176",
+    "boundingbox": [
+      "51.7028086",
+      "51.7428086",
+      "23.4076372",
+      "23.4476372"
+    ],
+    "lat": "51.7228086",
+    "lon": "23.4276372",
+    "display_name": "Da\u0144ce, gmina Hanna, powiat w\u0142odawski, lubelskie, 22-220, Polska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28617305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2661754268",
+    "boundingbox": [
+      "49.2119521",
+      "49.2319521",
+      "18.1882103",
+      "18.2082103"
+    ],
+    "lat": "49.2219521",
+    "lon": "18.1982103",
+    "display_name": "Dan\u010de, Lazy pod Makytou, okres P\u00fachov, Tren\u010diansky kraj, Z\u00e1padn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160646494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3308684",
+    "boundingbox": [
+      "48.340449",
+      "48.3878097",
+      "0.7219882",
+      "0.7906934"
+    ],
+    "lat": "48.3640452",
+    "lon": "0.758198195204561",
+    "display_name": "Danc\u00e9, Perche-en-Noc\u00e9, Mortagne-au-Perche, Orne, Normandie, 61340, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.24054450316591,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "67503330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21260162",
+    "boundingbox": [
+      "45.450112",
+      "45.4515257",
+      "-73.8788883",
+      "-73.8780395"
+    ],
+    "lat": "45.4509538",
+    "lon": "-73.8788182",
+    "display_name": "Dance, Kirkland, Montr\u00e9al (06), Qu\u00e9bec, H9H1E2, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "160357589",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "903023",
+    "boundingbox": [
+      "45.8941854",
+      "45.92304",
+      "4.0040011",
+      "4.0639556"
+    ],
+    "lat": "45.903",
+    "lon": "4.0275",
+    "display_name": "Danc\u00e9, Roanne, Loire, Auvergne-Rh\u00f4ne-Alpes, 42260, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.154561534822,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "18191709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1772558561",
+    "boundingbox": [
+      "55.7247098",
+      "55.7248098",
+      "21.1240376",
+      "21.1241376"
+    ],
+    "lat": "55.7247598",
+    "lon": "21.1240876",
+    "display_name": "dance, Universiteto al., Universitetas, Klaip\u0117da, Klaip\u0117dos miesto savivaldyb\u0117, Klaip\u0117dos apskritis, 92296, Lietuva",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "41433449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009879405",
+    "boundingbox": [
+      "33.8339869",
+      "33.8340869",
+      "-118.1267186",
+      "-118.1266186"
+    ],
+    "lat": "33.8340369",
+    "lon": "-118.1266686",
+    "display_name": "Dance, Montair Avenue, Los Altos, Long Beach, Los Angeles County, California, 90808, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53134254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4048893438",
+    "boundingbox": [
+      "54.0865962",
+      "54.0866962",
+      "12.1216746",
+      "12.1217746"
+    ],
+    "lat": "54.0866462",
+    "lon": "12.1217246",
+    "display_name": "Dance, 10, Bergstra\u00dfe, Kr\u00f6peliner-Tor-Vorstadt, Ortsbeirat 11 : Kr\u00f6peliner-Tor-Vorstadt, Rostock, Mecklenburg-Vorpommern, 18057, Deutschland",
+    "class": "leisure",
+    "type": "dancing_school",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21448189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2131882316",
+    "boundingbox": [
+      "50.6041606",
+      "50.6042606",
+      "17.0408339",
+      "17.0409339"
+    ],
+    "lat": "50.6042106",
+    "lon": "17.0408839",
+    "display_name": "Der Dance, 34, Wa\u0142owa, Miko\u0142aja Kopernika, Zi\u0119bice, gmina Zi\u0119bice, powiat z\u0105bkowicki, dolno\u015bl\u0105skie, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

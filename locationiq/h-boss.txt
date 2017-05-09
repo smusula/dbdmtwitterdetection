@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "361789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151443542",
+    "boundingbox": [
+      "32.5356922",
+      "32.5756922",
+      "-97.5280772",
+      "-97.4880772"
+    ],
+    "lat": "32.5556922",
+    "lon": "-97.5080772",
+    "display_name": "Boss, Tarrant County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13109786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1213374225",
+    "boundingbox": [
+      "38.5159922",
+      "38.5160922",
+      "-90.6790115",
+      "-90.6789115"
+    ],
+    "lat": "38.5160422",
+    "lon": "-90.6789615",
+    "display_name": "The Boss, Allenton Six Flags Road, Wildwood, St. Louis County, Missouri, 63069, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.37483378640496,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "37198005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2860456680",
+    "boundingbox": [
+      "48.8032096",
+      "48.8232096",
+      "7.5347708",
+      "7.5547708"
+    ],
+    "lat": "48.8132096",
+    "lon": "7.5447708",
+    "display_name": "Boss, Ringendorf, Saverne, Bas-Rhin, Grand-Est, 67350, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55446691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4308051053",
+    "boundingbox": [
+      "52.0660226",
+      "52.0860226",
+      "-10.5749869",
+      "-10.5549869"
+    ],
+    "lat": "52.0760226",
+    "lon": "-10.5649869",
+    "display_name": "The Boss, Ireland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "363203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151722432",
+    "boundingbox": [
+      "37.6231017",
+      "37.6631017",
+      "-91.2093004",
+      "-91.1693004"
+    ],
+    "lat": "37.6431017",
+    "lon": "-91.1893004",
+    "display_name": "Boss, Dent County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3187004523946,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60202049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9517913",
+    "boundingbox": [
+      "34.843581",
+      "34.843821",
+      "-85.3415499",
+      "-85.3386629"
+    ],
+    "lat": "34.84364",
+    "lon": "-85.3401879",
+    "display_name": "Boss, Pond Spring, Walker County, Georgia, 30707, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54157902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4166034391",
+    "boundingbox": [
+      "48.205933",
+      "48.206033",
+      "16.370899",
+      "16.370999"
+    ],
+    "lat": "48.205983",
+    "lon": "16.370949",
+    "display_name": "Boss, Donnergasse, K\u00e4rntner Viertel, KG Innere Stadt, Innere Stadt, Wien, 1010, \u00d6sterreich",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49236963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3655078944",
+    "boundingbox": [
+      "1.3025119",
+      "1.3026119",
+      "103.8352015",
+      "103.8353015"
+    ],
+    "lat": "1.3025619",
+    "lon": "103.8352515",
+    "display_name": "BOSS, 391, Orchard Road, Clarke Quay, Orchard, Singapore, Central Singapore Community Development Council, 238874, Singapore",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "49236987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3655081914",
+    "boundingbox": [
+      "1.3020641",
+      "1.3021641",
+      "103.8364219",
+      "103.8365219"
+    ],
+    "lat": "1.3021141",
+    "lon": "103.8364719",
+    "display_name": "BOSS, 333A, Orchard Road, Clarke Quay, Orchard, Singapore, Central Singapore Community Development Council, 238801, Singapore",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "52218174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3940466459",
+    "boundingbox": [
+      "50.8493538",
+      "50.8494538",
+      "5.6935706",
+      "5.6936706"
+    ],
+    "lat": "50.8494038",
+    "lon": "5.6936206",
+    "display_name": "Boss, Maastrichter Brugstraat, Binnenstad, Maastricht, Limburg, Nederland, 6211 ET, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

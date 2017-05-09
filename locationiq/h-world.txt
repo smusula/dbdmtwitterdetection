@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160587991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2693943",
+    "boundingbox": [
+      "25.1847108",
+      "25.2634439",
+      "55.1239513",
+      "55.2046187"
+    ],
+    "lat": "25.2529955",
+    "lon": "55.1771471150149",
+    "display_name": "The World, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "archipelago",
+    "importance": 0.46355694018077
+  },
+  {
+    "place_id": "45904845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3258042688",
+    "boundingbox": [
+      "47.9014798",
+      "47.9015798",
+      "1.9004747",
+      "1.9005747"
+    ],
+    "lat": "47.9015298",
+    "lon": "1.9005247",
+    "display_name": "Le World, Rue des Carmes, Rue Anatole France, Orl\u00e9ans, Loiret, Centre-Val de Loire, 45000, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "863806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "274190443",
+    "boundingbox": [
+      "32.8547759",
+      "32.8548759",
+      "-117.2042074",
+      "-117.2041074"
+    ],
+    "lat": "32.8548259",
+    "lon": "-117.2041574",
+    "display_name": "World, Governor Drive, University City, San Diego, San Diego County, California, 92122, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "2649920111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4633729630",
+    "boundingbox": [
+      "-41.289775",
+      "-41.289675",
+      "174.7756885",
+      "174.7757885"
+    ],
+    "lat": "-41.289725",
+    "lon": "174.7757385",
+    "display_name": "World, Victoria Street, Te Aro, Wellington, Wellington City, Wellington, 6011, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "120928667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240659755",
+    "boundingbox": [
+      "37.2939247",
+      "37.2941508",
+      "-121.8334108",
+      "-121.8331052"
+    ],
+    "lat": "37.2940377",
+    "lon": "-121.833258015651",
+    "display_name": "World, Senter Road, Little Saigon, San Jos\u00e9, Santa Clara County, California, 95112, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "2652630064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4698260391",
+    "boundingbox": [
+      "35.0042243",
+      "35.0043243",
+      "135.7702296",
+      "135.7703296"
+    ],
+    "lat": "35.0042743",
+    "lon": "135.7702796",
+    "display_name": "World, \u771f\u6a4b\u901a, \u4e2d\u4eac\u533a, \u4eac\u90fd\u5e02, \u4e0e\u8b1d\u90e1, \u4eac\u90fd\u5e9c, 604-8035, \u65e5\u672c",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "141336328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "339834456",
+    "boundingbox": [
+      "51.5394788",
+      "51.5396007",
+      "-2.6181436",
+      "-2.6179577"
+    ],
+    "lat": "51.5395472",
+    "lon": "-2.6180387161985",
+    "display_name": "The World, Blackhorse Hill, Almondsbury CP, Easter Compton, South Gloucestershire, South West England, England, BS35, UK",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "71520690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30058782",
+    "boundingbox": [
+      "37.1215002",
+      "37.1216735",
+      "-121.6474204",
+      "-121.6472474"
+    ],
+    "lat": "37.1215869",
+    "lon": "-121.647333891998",
+    "display_name": "World, San Pedro Avenue, Morgan Hill, Santa Clara County, California, 95037, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "2650944897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4656638690",
+    "boundingbox": [
+      "19.8837499",
+      "19.8838499",
+      "102.1390724",
+      "102.1391724"
+    ],
+    "lat": "19.8837999",
+    "lon": "102.1391224",
+    "display_name": "The World, Kitsalat Road, \u0eab\u0ebc\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0eab\u0ebc\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87, \u0eab\u0ea5\u0ea7\u0e87\u0e9e\u0eb0\u0e9a\u0eb2\u0e87, 06000, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "122630534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247803724",
+    "boundingbox": [
+      "20.2597048",
+      "20.2600501",
+      "85.7883572",
+      "85.7887642"
+    ],
+    "lat": "20.2598775",
+    "lon": "85.7885607084023",
+    "display_name": "The World, NH16, Fire Station Square, Bhubaneshwar, Khordha, Odisha, 751030, India",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

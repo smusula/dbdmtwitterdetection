@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "103671473",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169709305",
+    "boundingbox": [
+      "47.5936257",
+      "47.5944908",
+      "-121.8670885",
+      "-121.8631466"
+    ],
+    "lat": "47.5938084",
+    "lon": "-121.8649233",
+    "display_name": "Steakhouse, Spring Glen, King County, Washington, 98024, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "53571427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4072694145",
+    "boundingbox": [
+      "55.6515295",
+      "55.6516295",
+      "12.5925778",
+      "12.5926778"
+    ],
+    "lat": "55.6515795",
+    "lon": "12.5926278",
+    "display_name": "Steakhouse, R\u00f8de Mellemvej, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 0999, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "99150230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "152510933",
+    "boundingbox": [
+      "51.8160253",
+      "51.8162045",
+      "10.3349185",
+      "10.3352097"
+    ],
+    "lat": "51.81611485",
+    "lon": "10.335064091087",
+    "display_name": "Steakhouse, 13, Marktstra\u00dfe, Zellerfeld, Clausthal-Zellerfeld, Landkreis Goslar, Niedersachsen, 38678, Deutschland, Europe",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54508633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4207583189",
+    "boundingbox": [
+      "-22.4106054",
+      "-22.4105054",
+      "-43.1386084",
+      "-43.1385084"
+    ],
+    "lat": "-22.4105554",
+    "lon": "-43.1385584",
+    "display_name": "Steakhouse, Estrada Uni\u00e3o e Ind\u00fastria, Nogueira, Petr\u00f3polis, Microrregi\u00e3o Serrana, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, Brasil",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "9135854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "944489242",
+    "boundingbox": [
+      "50.6590995",
+      "50.6591995",
+      "7.8136713",
+      "7.8137713"
+    ],
+    "lat": "50.6591495",
+    "lon": "7.8137213",
+    "display_name": "Steakhouse, 6, Kirchstra\u00dfe, Hachenburg, Westerwaldkreis, Rheinland-Pfalz, 57627, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4023902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "431565134",
+    "boundingbox": [
+      "51.5287182",
+      "51.5288182",
+      "11.5438675",
+      "11.5439675"
+    ],
+    "lat": "51.5287682",
+    "lon": "11.5439175",
+    "display_name": "Steakhouse, K\u00fcstergasse, Neustadt, Eisleben, Landkreis Mansfeld-S\u00fcdharz, Sachsen-Anhalt, 06295, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "45245996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3230278207",
+    "boundingbox": [
+      "33.8251413",
+      "33.8252413",
+      "-116.5433314",
+      "-116.5432314"
+    ],
+    "lat": "33.8251913",
+    "lon": "-116.5432814",
+    "display_name": "Steakhouse, East Andreas Road, Palm Springs, Riverside County, California, 92262, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "12509020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1178385058",
+    "boundingbox": [
+      "48.8688872",
+      "48.8689872",
+      "2.7849291",
+      "2.7850291"
+    ],
+    "lat": "48.8689372",
+    "lon": "2.7849791",
+    "display_name": "The Steakhouse, Place de la Gare - Esplanade Fran\u00e7ois Truffaut, Chessy, Torcy, Seine-et-Marne, \u00cele-de-France, 77700, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "25153434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2440870793",
+    "boundingbox": [
+      "52.674082",
+      "52.674182",
+      "7.9552631",
+      "7.9553631"
+    ],
+    "lat": "52.674132",
+    "lon": "7.9553131",
+    "display_name": "Steakhouse, 2, Lange Stra\u00dfe, Quakenbr\u00fcck, Samtgemeinde Artland, Landkreis Osnabr\u00fcck, Niedersachsen, 49610, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54564182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4212295205",
+    "boundingbox": [
+      "48.7404594",
+      "48.7405594",
+      "11.1813807",
+      "11.1814807"
+    ],
+    "lat": "48.7405094",
+    "lon": "11.1814307",
+    "display_name": "Steakhouse, Monheimer Stra\u00dfe, Hesselohe, Neuburg a.d.Donau, Landkreis Neuburg-Schrobenhausen, OB, Bayern, 86633, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

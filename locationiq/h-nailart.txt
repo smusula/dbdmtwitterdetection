@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "7693324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "829530626",
+    "boundingbox": [
+      "48.233778",
+      "48.233878",
+      "16.3516081",
+      "16.3517081"
+    ],
+    "lat": "48.233828",
+    "lon": "16.3516581",
+    "display_name": "nailart, Philippovichgasse, KG Oberd\u00f6bling, D\u00f6bling, Wien, 1190, \u00d6sterreich",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "29646562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2709971241",
+    "boundingbox": [
+      "52.0822164",
+      "52.0823164",
+      "4.3456403",
+      "4.3457403"
+    ],
+    "lat": "52.0822664",
+    "lon": "4.3456903",
+    "display_name": "NailArt, 293, Schenkkade, Bezuidenhout, Den Haag, MRDH, Zuid-Holland, Nederland, 2595AX, Nederland",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

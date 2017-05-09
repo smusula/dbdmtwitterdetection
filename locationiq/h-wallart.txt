@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "83795346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89945172",
+    "boundingbox": [
+      "47.5808059",
+      "47.5827168",
+      "7.5699645",
+      "7.5728768"
+    ],
+    "lat": "47.5817592",
+    "lon": "7.571418505406",
+    "display_name": "Quartier Wallart, Bourgfelden, Saint-Louis, Mulhouse, Haut-Rhin, Grand-Est, 68300, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "98855490",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151150159",
+    "boundingbox": [
+      "50.2317034",
+      "50.2326286",
+      "2.1153019",
+      "2.1180789"
+    ],
+    "lat": "50.2322784",
+    "lon": "2.1167245",
+    "display_name": "Rue Wallart, Auxi-le-Ch\u00e2teau, Arras, Pas-de-Calais, Hauts-de-France, 62390, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101105135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160316702",
+    "boundingbox": [
+      "50.4776574",
+      "50.4787896",
+      "2.2732376",
+      "2.2742449"
+    ],
+    "lat": "50.4781086",
+    "lon": "2.2737127",
+    "display_name": "Rue Wallart, Heuchin, Arras, Pas-de-Calais, Hauts-de-France, 62134, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108166284",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188199407",
+    "boundingbox": [
+      "47.5817059",
+      "47.582142",
+      "7.5713785",
+      "7.5721363"
+    ],
+    "lat": "47.5819146",
+    "lon": "7.57175823345275",
+    "display_name": "\u00c9cole maternelle Wallart, Rue Bartholdi, Quartier Wallart, Bourgfelden, Saint-Louis, Mulhouse, Haut-Rhin, Grand-Est, 68300, France",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "71730701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30747608",
+    "boundingbox": [
+      "43.5757982",
+      "43.5765053",
+      "1.3837497",
+      "1.3841671"
+    ],
+    "lat": "43.5759861",
+    "lon": "1.3840986",
+    "display_name": "Impasse Pierre Wallaert, Lardenne - Pradette - Basso Cambo, Toulouse Ouest, Toulouse, Haute-Garonne, Occitanie, 31100, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "71508393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30194365",
+    "boundingbox": [
+      "43.5762963",
+      "43.5767521",
+      "1.3831617",
+      "1.384381"
+    ],
+    "lat": "43.5765053",
+    "lon": "1.3837497",
+    "display_name": "Rue Pierre Wallaert, Lardenne - Pradette - Basso Cambo, Toulouse Ouest, Toulouse, Haute-Garonne, Occitanie, 31100, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "79460938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60399882",
+    "boundingbox": [
+      "50.6401892",
+      "50.6402991",
+      "2.9917945",
+      "2.9919371"
+    ],
+    "lat": "50.6401892",
+    "lon": "2.9919371",
+    "display_name": "Rue Ernest Wallaert, Zone Urbaine Lille, Lomme, Lille, Nord, Hauts-de-France, 59160, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "78342434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53435433",
+    "boundingbox": [
+      "50.6127611",
+      "50.6132054",
+      "3.0764856",
+      "3.0782688"
+    ],
+    "lat": "50.6132054",
+    "lon": "3.0769219",
+    "display_name": "Rue Andr\u00e9 Wallaert, Zone Urbaine Lille, Lille-Moulins, Lille, Nord, Hauts-de-France, 59000;59160;59260;59777;59800, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "139904792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "333578924",
+    "boundingbox": [
+      "50.8526664",
+      "50.8537624",
+      "2.4371515",
+      "2.439654"
+    ],
+    "lat": "50.8529371",
+    "lon": "2.4376919",
+    "display_name": "Rue Henri Wallaert, Ledringhem, Dunkerque, Nord, Hauts-de-France, 59470, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "139390376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331255142",
+    "boundingbox": [
+      "50.8508255",
+      "50.8526664",
+      "2.4319292",
+      "2.4371515"
+    ],
+    "lat": "50.851876",
+    "lon": "2.4344471",
+    "display_name": "Rue Henri Wallaert, Ledringhem, Dunkerque, Nord, Hauts-de-France, 59470, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.1
+  }
+]

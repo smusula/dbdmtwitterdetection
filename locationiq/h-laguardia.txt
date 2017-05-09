@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "3983862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "427123646",
+    "boundingbox": [
+      "42.5338223",
+      "42.5738223",
+      "-2.6047562",
+      "-2.5647562"
+    ],
+    "lat": "42.5538223",
+    "lon": "-2.5847562",
+    "display_name": "Laguardia, Araba/\u00c1lava, Euskadi, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.53192036153338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160328541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "344032",
+    "boundingbox": [
+      "42.4722553",
+      "42.6168232",
+      "-2.6685737",
+      "-2.4770679"
+    ],
+    "lat": "42.5441084",
+    "lon": "-2.58073582345552",
+    "display_name": "Laguardia, Araba/\u00c1lava, Euskadi, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52440359336502,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "13296192",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241870986",
+    "boundingbox": [
+      "42.1897832",
+      "42.2097832",
+      "0.6226808",
+      "0.6426808"
+    ],
+    "lat": "42.1997832",
+    "lon": "0.6326808",
+    "display_name": "Laguardia, Monesma y Cajigar, La Ribagorza, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74961355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40140434",
+    "boundingbox": [
+      "42.5513071",
+      "42.5565226",
+      "-2.5860965",
+      "-2.582936"
+    ],
+    "lat": "42.55384095",
+    "lon": "-2.58484596975566",
+    "display_name": "Laguardia, Calle Santa Gracia, Laguardia, Araba/\u00c1lava, Euskadi, Espa\u00f1a",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "24938166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2428774001",
+    "boundingbox": [
+      "15.8134779",
+      "15.8135779",
+      "120.4793341",
+      "120.4794341"
+    ],
+    "lat": "15.8135279",
+    "lon": "120.4793841",
+    "display_name": "Laguardia, Dike Rd., Bongato West, Pangasinan, Ilocos Region, 2424, Philippines",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  }
+]

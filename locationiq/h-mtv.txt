@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "11159827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042050140",
+    "boundingbox": [
+      "-13.6810003",
+      "-13.6510003",
+      "167.6970056",
+      "167.7270056"
+    ],
+    "lat": "-13.6660003",
+    "lon": "167.7120056",
+    "display_name": "Mota Lava, Aplow, Torba, Vanuatu",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.14748918685134,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "8853236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "931618176",
+    "boundingbox": [
+      "51.5411568",
+      "51.5412568",
+      "-0.1434707",
+      "-0.1433707"
+    ],
+    "lat": "51.5412068",
+    "lon": "-0.1434207",
+    "display_name": "MTV, 17 - 29, Hawley Crescent, Chalk Farm, London Borough of Camden, London, Greater London, England, NW1 8NP, UK",
+    "class": "amenity",
+    "type": "studio",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70760753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28132314",
+    "boundingbox": [
+      "48.7549771",
+      "48.755453",
+      "11.4086737",
+      "11.4097745"
+    ],
+    "lat": "48.7552114",
+    "lon": "11.4092241018011",
+    "display_name": "MTV, Fohlenweide, Probierlweg, Altstadt, Mitte, Ingolstadt, OB, Bayern, 85049, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41039131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3005419259",
+    "boundingbox": [
+      "-3.1072113",
+      "-3.1071113",
+      "-60.0223326",
+      "-60.0222326"
+    ],
+    "lat": "-3.1071613",
+    "lon": "-60.0222826",
+    "display_name": "MTV, Avenida Rio I\u00e7\u00e1, S\u00e3o Geraldo, Manaus, Microrregi\u00e3o de Manaus, Mesorregi\u00e3o Centro Amazonense, AM, Regi\u00e3o Norte, 69000-000, Brasil",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74925994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39207801",
+    "boundingbox": [
+      "52.6226753",
+      "52.6228817",
+      "10.0934585",
+      "10.0940523"
+    ],
+    "lat": "52.6227682",
+    "lon": "10.0937554065863",
+    "display_name": "MTV, Herzog-Ernst-Ring, Blumlage/Altstadt, Celle, Landkreis Celle, Niedersachsen, 29221, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17767868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1723665265",
+    "boundingbox": [
+      "44.7040519",
+      "44.7041519",
+      "18.4908758",
+      "18.4909758"
+    ],
+    "lat": "44.7041019",
+    "lon": "18.4909258",
+    "display_name": "MTV, M 113 Ora\u0161je - Tuzla - Sarajevo (Srebrenik), \u0106ehaje, Srebrenik, Op\u0107ina Srebrenik, Tuzlanski kanton/ \u017eupanija, Federacija Bosne i Hercegovine, 75350, Bosna i Hercegovina",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "81422936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75312962",
+    "boundingbox": [
+      "51.308415",
+      "51.3088416",
+      "7.6587568",
+      "7.6594184"
+    ],
+    "lat": "51.3086283",
+    "lon": "7.65908758694146",
+    "display_name": "MTV, Hermann-Vo\u00df-Stra\u00dfe, Pragpaul, Altena, M\u00e4rkischer Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58762, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "77191416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48816658",
+    "boundingbox": [
+      "51.3025049",
+      "51.3032276",
+      "7.3473025",
+      "7.3480689"
+    ],
+    "lat": "51.30286055",
+    "lon": "7.34768063463931",
+    "display_name": "MTV, An der Kehr, Am Knapp, Milspe, Ennepetal, Ennepe-Ruhr-Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58256, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144178221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361026405",
+    "boundingbox": [
+      "53.07508",
+      "53.0753125",
+      "10.5792075",
+      "10.5797207"
+    ],
+    "lat": "53.07519675",
+    "lon": "10.5794646353164",
+    "display_name": "MTV, Kurze B\u00fclten, Medingen, Bad Bevensen, Samtgemeinde Bevensen-Ebstorf, Landkreis Uelzen, Niedersachsen, 29549, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "121424893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242791609",
+    "boundingbox": [
+      "53.0960997",
+      "53.0964084",
+      "11.0999039",
+      "11.1002519"
+    ],
+    "lat": "53.0962564",
+    "lon": "11.1000772544765",
+    "display_name": "MTV, B 191, Pred\u00f6hlsau, Dannenberg, Samtgemeinde Elbtalaue, Landkreis L\u00fcchow-Dannenberg, Niedersachsen, 29451, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

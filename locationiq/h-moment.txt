@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "41376796",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009665055",
+    "boundingbox": [
+      "54.0291167",
+      "54.0292167",
+      "19.8613389",
+      "19.8614389"
+    ],
+    "lat": "54.0291667",
+    "lon": "19.8613889",
+    "display_name": "Marysin, Gr\u0105dki, gmina Godkowo, powiat elbl\u0105ski, warmi\u0144sko-mazurskie, 14-407, Polska",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "2644937481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4520202440",
+    "boundingbox": [
+      "53.869187",
+      "53.869287",
+      "10.684712",
+      "10.684812"
+    ],
+    "lat": "53.869237",
+    "lon": "10.684762",
+    "display_name": "moment, 1, F\u00fcnfhausen, Innenstadt, L\u00fcbeck, Schleswig-Holstein, 23552, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "4574907",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "497269908",
+    "boundingbox": [
+      "49.5803154",
+      "49.5804154",
+      "10.6075676",
+      "10.6076676"
+    ],
+    "lat": "49.5803654",
+    "lon": "10.6076176",
+    "display_name": "moment, W\u00fcrzburger Stra\u00dfe, Riedfeld, Neustadt an der Aisch, Landkreis Neustadt an der Aisch-Bad Windsheim, Mittelfranken, Bayern, 91413, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "104732038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173328372",
+    "boundingbox": [
+      "41.8919462",
+      "41.8925564",
+      "-87.6176146",
+      "-87.6165157"
+    ],
+    "lat": "41.89225335",
+    "lon": "-87.6171530577708",
+    "display_name": "Moment, 423, East Ohio Street, Streeterville, Chicago, Cook County, Illinois, 60611, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1111422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "296694928",
+    "boundingbox": [
+      "50.0761324",
+      "50.0762324",
+      "14.4471496",
+      "14.4472496"
+    ],
+    "lat": "50.0761824",
+    "lon": "14.4471996",
+    "display_name": "Moment, 2315/62, Slezsk\u00e1, Vinohrady, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 12000, \u010cesko",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "28175633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2611623099",
+    "boundingbox": [
+      "45.7794092",
+      "45.7795092",
+      "4.8070453",
+      "4.8071453"
+    ],
+    "lat": "45.7794592",
+    "lon": "4.8070953",
+    "display_name": "Le Moment, Rue de Saint-Cyr, Vaise, Lyon 9e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69009, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16895593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1624938017",
+    "boundingbox": [
+      "53.867319",
+      "53.867419",
+      "10.6887854",
+      "10.6888854"
+    ],
+    "lat": "53.867369",
+    "lon": "10.6888354",
+    "display_name": "Moment, K\u00f6nigpassage, Innenstadt, L\u00fcbeck, Schleswig-Holstein, 23552, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "19219718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1860444015",
+    "boundingbox": [
+      "52.5234962",
+      "52.5235962",
+      "13.4008132",
+      "13.4009132"
+    ],
+    "lat": "52.5235462",
+    "lon": "13.4008632",
+    "display_name": "Moment, 90, Oranienburger Stra\u00dfe, Scheunenviertel, Mitte, Alt-Berlin, Berlin, 10178, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "46682292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3348119470",
+    "boundingbox": [
+      "51.5273481",
+      "51.5274481",
+      "5.9735811",
+      "5.9736811"
+    ],
+    "lat": "51.5273981",
+    "lon": "5.9736311",
+    "display_name": "Moment, 2A, Hoenderstraat, Venray, Limburg, Nederland, 5801 CK, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "54362931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4161981544",
+    "boundingbox": [
+      "60.3964823",
+      "60.3965823",
+      "5.3292861",
+      "5.3293861"
+    ],
+    "lat": "60.3965323",
+    "lon": "5.3293361",
+    "display_name": "Moment, Bernhard Meyers vei, Skansen, Bergenhus, Bergen, Hordaland, 5014, Norge",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

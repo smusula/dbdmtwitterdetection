@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "258641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "62270270",
+    "boundingbox": [
+      "19.2726009",
+      "19.5926009",
+      "-99.2933415",
+      "-98.9733415"
+    ],
+    "lat": "19.4326009",
+    "lon": "-99.1333415",
+    "display_name": "Ciudad de M\u00e9xico, Cuauht\u00e9moc, Estado de M\u00e9xico, M\u00e9xico",
+    "class": "place",
+    "type": "city",
+    "importance": 0.83480745773015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160263945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "114686",
+    "boundingbox": [
+      "14.3886243",
+      "32.7186553",
+      "-118.5991899",
+      "-86.4932659"
+    ],
+    "lat": "22.5000485",
+    "lon": "-100.0000374",
+    "display_name": "M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.83480745773015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160401639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1376489",
+    "boundingbox": [
+      "18.3669429",
+      "20.2858667",
+      "-100.6130909",
+      "-98.5968665"
+    ],
+    "lat": "19.4839446",
+    "lon": "-99.6899715",
+    "display_name": "M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50834046215725,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160276271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "140996",
+    "boundingbox": [
+      "39.111625",
+      "39.207804",
+      "-91.9235129",
+      "-91.8014539"
+    ],
+    "lat": "39.1697626",
+    "lon": "-91.8829483",
+    "display_name": "Mexico, Audrain County, Missouri, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.4703602488266,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160286484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "176022",
+    "boundingbox": [
+      "43.453576",
+      "43.476881",
+      "-76.2475569",
+      "-76.2176579"
+    ],
+    "lat": "43.4595138",
+    "lon": "-76.2288175",
+    "display_name": "Mexico, Town of Mexico, Oswego County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39977507250156,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160272263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "132575",
+    "boundingbox": [
+      "44.539311",
+      "44.571296",
+      "-70.5579509",
+      "-70.5160849"
+    ],
+    "lat": "44.56112",
+    "lon": "-70.5459589",
+    "display_name": "Mexico, Oxford County, Maine, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39821395047302,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "529517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198505314",
+    "boundingbox": [
+      "15.0248301",
+      "15.1048301",
+      "120.6800961",
+      "120.7600961"
+    ],
+    "lat": "15.0648301",
+    "lon": "120.7200961",
+    "display_name": "Mexico, Pampanga, Central Luzon, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.39580200638804,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "471208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158590354",
+    "boundingbox": [
+      "39.5836999",
+      "39.6236999",
+      "-78.7627955",
+      "-78.7227955"
+    ],
+    "lat": "39.6036999",
+    "lon": "-78.7427955",
+    "display_name": "Mexico, Allegany County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "438204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154392124",
+    "boundingbox": [
+      "34.9179234",
+      "34.9579234",
+      "-81.0248004",
+      "-80.9848004"
+    ],
+    "lat": "34.9379234",
+    "lon": "-81.0048004",
+    "display_name": "Mexico, York County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18482235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1802069050",
+    "boundingbox": [
+      "48.8202465",
+      "48.8602465",
+      "15.0248654",
+      "15.0648654"
+    ],
+    "lat": "48.8402465",
+    "lon": "15.0448654",
+    "display_name": "Mexico, Gm\u00fcnd, Nieder\u00f6sterreich, \u00d6sterreich",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

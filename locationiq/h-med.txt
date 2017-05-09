@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160362815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "911294",
+    "boundingbox": [
+      "40.98815",
+      "41.277146",
+      "-82.1733549",
+      "-81.6849359"
+    ],
+    "lat": "41.1000764",
+    "lon": "-81.9382516",
+    "display_name": "Medina County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50687663943344,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "86619596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "102584770",
+    "boundingbox": [
+      "47.262529",
+      "47.2629525",
+      "11.3742504",
+      "11.3745824"
+    ],
+    "lat": "47.2628023",
+    "lon": "11.3744150392609",
+    "display_name": "MED-EL, 77, F\u00fcrstenweg, Heilig-Jahr-Siedlung, H\u00f6ttinger Au, Innsbruck, Innsbruck-Stadt, Tirol, 6020, \u00d6sterreich",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.23958297447186
+  },
+  {
+    "place_id": "68437323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23172378",
+    "boundingbox": [
+      "14.6741903",
+      "14.676333",
+      "121.0178135",
+      "121.0194625"
+    ],
+    "lat": "14.6759057",
+    "lon": "121.0186377",
+    "display_name": "Medical, Mendoza Village, Sangandaan, Quezon City, District VI, Quezon City, Metro Manila, 1116, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68445096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23250437",
+    "boundingbox": [
+      "14.7062776",
+      "14.707278",
+      "121.0612394",
+      "121.062537"
+    ],
+    "lat": "14.7062776",
+    "lon": "121.0612394",
+    "display_name": "Medical, SSS Employees Housing Project, North Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44039433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3133336309",
+    "boundingbox": [
+      "33.8653225",
+      "33.8654225",
+      "35.5457366",
+      "35.5458366"
+    ],
+    "lat": "33.8653725",
+    "lon": "35.5457866",
+    "display_name": "med, \u0637\u0631\u064a\u0642 \u0628\u0631\u0645\u0627\u0646\u0627 \u0627\u0644\u0631\u0626\u064a\u0633\u064a\u0629, \u0627\u0644\u062f\u0648\u0631\u0629, \u0639\u0645\u0651\u0627\u0637\u0648\u0631, \u0642\u0636\u0627\u0621 \u0627\u0644\u0645\u062a\u0646, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, 00000, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "43982432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3127075044",
+    "boundingbox": [
+      "33.8493813",
+      "33.8494813",
+      "35.5472393",
+      "35.5473393"
+    ],
+    "lat": "33.8494313",
+    "lon": "35.5472893",
+    "display_name": "med, \u0627\u062a\u0633\u062a\u0631\u0627\u062f \u0627\u0645\u064a\u0644 \u0644\u062d\u0648\u062f, Baabda, \u0642\u0636\u0627\u0621 \u0628\u0639\u0628\u062f\u0627, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0628\u0644 \u0644\u0628\u0646\u0627\u0646, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "22047680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2183100776",
+    "boundingbox": [
+      "45.7489908",
+      "45.7490908",
+      "4.8384063",
+      "4.8385063"
+    ],
+    "lat": "45.7490408",
+    "lon": "4.8384563",
+    "display_name": "Med, Rue Chevreul, 7e, Lyon 7e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69007, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "118754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "24672502",
+    "boundingbox": [
+      "52.1891939",
+      "52.1892939",
+      "0.1530115",
+      "0.1531115"
+    ],
+    "lat": "52.1892439",
+    "lon": "0.1530615",
+    "display_name": "The Med, Perne Road, Coleridge Ward, Cambridge, Cambridgeshire, East of England, England, CB1 3RX, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "54888081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4245166753",
+    "boundingbox": [
+      "51.4505831",
+      "51.4506831",
+      "-2.5820279",
+      "-2.5819279"
+    ],
+    "lat": "51.4506331",
+    "lon": "-2.5819779",
+    "display_name": "The Medical, Isambard Walk, Temple, Old Market, Bristol, City of Bristol, South West England, England, BS1 6QF, UK",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15160108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1370783346",
+    "boundingbox": [
+      "13.0382604",
+      "13.0383604",
+      "77.6071838",
+      "77.6072838"
+    ],
+    "lat": "13.0383104",
+    "lon": "77.6072338",
+    "display_name": "Med +, Kanaka Nagar 1st Main Road, Kanaka Nagar, Sulthanpalya, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  }
+]

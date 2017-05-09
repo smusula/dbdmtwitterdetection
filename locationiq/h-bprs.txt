@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "94640476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "132401937",
+    "boundingbox": [
+      "48.3185962",
+      "48.3194404",
+      "46.1764052",
+      "46.1777445"
+    ],
+    "lat": "48.3190183",
+    "lon": "46.17707485",
+    "display_name": "\u0411\u041f\u0420\u0421, \u0443\u043b\u0438\u0446\u0430 \u041a\u043e\u0447\u0443\u0431\u0435\u044f, \u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a, \u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u042e\u0424\u041e, 416500, \u0420\u0424",
+    "class": "boundary",
+    "type": "protected_area",
+    "importance": 0.001
+  },
+  {
+    "place_id": "16094223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1456552020",
+    "boundingbox": [
+      "48.3188765",
+      "48.3189765",
+      "46.1771851",
+      "46.1772851"
+    ],
+    "lat": "48.3189265",
+    "lon": "46.1772351",
+    "display_name": "\u0411\u041f\u0420\u0421, \u0443\u043b\u0438\u0446\u0430 \u041a\u043e\u0447\u0443\u0431\u0435\u044f, \u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a, \u0410\u0445\u0442\u0443\u0431\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0441\u0442\u0440\u0430\u0445\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u042e\u0424\u041e, 416500, \u0420\u0424",
+    "class": "man_made",
+    "type": "beacon",
+    "importance": 0.001
+  },
+  {
+    "place_id": "26668920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2532070627",
+    "boundingbox": [
+      "31.5498362",
+      "31.5598362",
+      "75.6398193",
+      "75.6498193"
+    ],
+    "lat": "31.5548362",
+    "lon": "75.6448193",
+    "display_name": "Bhogpur Sirwal, NH44, Bhogpur, Jullundur, Jalandhar, Punjab, 144201, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

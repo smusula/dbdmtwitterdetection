@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "60977027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10486918",
+    "boundingbox": [
+      "38.7820786",
+      "38.782164",
+      "-121.3299532",
+      "-121.3291249"
+    ],
+    "lat": "38.7820786",
+    "lon": "-121.3295812",
+    "display_name": "Jellybean Court, Roseville, Placer County, California, 95747, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68377658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21975387",
+    "boundingbox": [
+      "37.950225",
+      "37.952599",
+      "-89.2060179",
+      "-89.2013479"
+    ],
+    "lat": "37.952518",
+    "lon": "-89.2013479",
+    "display_name": "Jellybean Road, Old Du Quoin, Perry County, Illinois, 62927, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61085862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10955909",
+    "boundingbox": [
+      "28.645869",
+      "28.647829",
+      "-82.3545789",
+      "-82.3545669"
+    ],
+    "lat": "28.647829",
+    "lon": "-82.3545789",
+    "display_name": "Jellybean Lane, Lake Lindsey, Hernando County, Florida, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61589614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11382118",
+    "boundingbox": [
+      "30.766809",
+      "30.76792",
+      "-85.5625809",
+      "-85.5625149"
+    ],
+    "lat": "30.767467",
+    "lon": "-85.5625809",
+    "display_name": "Jellybean Lane, Hulaw, Washington County, Florida, 32428, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77283065",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48992575",
+    "boundingbox": [
+      "-33.7810284",
+      "-33.7776038",
+      "150.6192287",
+      "150.6213061"
+    ],
+    "lat": "-33.7793709",
+    "lon": "150.6201507",
+    "display_name": "Jellybean Road, Blue Mountains National Park, Glenbrook, Blue Mountains, NSW, 2773, Australia",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "77227107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48992864",
+    "boundingbox": [
+      "-33.7817039",
+      "-33.781354",
+      "150.6193146",
+      "150.6198725"
+    ],
+    "lat": "-33.7815679",
+    "lon": "150.6196686",
+    "display_name": "Jellybean Walking Track, Blue Mountains National Park, Euroka Clearing, Blue Mountains, NSW, 2773, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2653803057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4727142690",
+    "boundingbox": [
+      "49.226824",
+      "49.226924",
+      "-123.0024568",
+      "-123.0023568"
+    ],
+    "lat": "49.226874",
+    "lon": "-123.0024068",
+    "display_name": "Jellybean Park, Metrotown Station Loop, Metropolis at Metrotown, Metrotown, Burnaby, Greater Vancouver Regional District, British Columbia, V5H 4L7, Canada",
+    "class": "amenity",
+    "type": "community_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55669431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4327603655",
+    "boundingbox": [
+      "-39.4914209",
+      "-39.4913209",
+      "176.9159061",
+      "176.9160061"
+    ],
+    "lat": "-39.4913709",
+    "lon": "176.9159561",
+    "display_name": "Jellybean Brewing Supplies, Dalton Street, Bluff Hill, Napier, Napier City, Hawke's Bay, 4110, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "brewing_supplies",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651306526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98375990",
+    "boundingbox": [
+      "39.3040771",
+      "39.3044833",
+      "-84.2814356",
+      "-84.2808573"
+    ],
+    "lat": "39.3042956",
+    "lon": "-84.2811650308101",
+    "display_name": "Jellybean Junction, Whispering Woods Drive, 20-Mile Green, Twenty Mile Stand, Warren County, Ohio, 45140, United States of America",
+    "class": "amenity",
+    "type": "preschool",
+    "importance": 0.101
+  },
+  {
+    "place_id": "134910231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "309510712",
+    "boundingbox": [
+      "49.3129792",
+      "49.3175938",
+      "-87.5102561",
+      "-87.5064517"
+    ],
+    "lat": "49.3152464",
+    "lon": "-87.5086108292202",
+    "display_name": "Jellybean Lake, Ontario, Canada",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  }
+]

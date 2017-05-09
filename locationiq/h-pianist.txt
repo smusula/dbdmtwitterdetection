@@ -1,0 +1,168 @@
+[
+  {
+    "place_id": "66169496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19211462",
+    "boundingbox": [
+      "63.4487562",
+      "63.44938",
+      "10.4606048",
+      "10.4644559"
+    ],
+    "lat": "63.4488455",
+    "lon": "10.4629853",
+    "display_name": "Pianist Sandbergs vei, Ringve, Lade, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7044, Norge",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71542722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30253646",
+    "boundingbox": [
+      "58.338595",
+      "58.3391525",
+      "13.842992",
+      "13.8454336"
+    ],
+    "lat": "58.338665",
+    "lon": "13.8447485",
+    "display_name": "Pianistv\u00e4gen, Sk\u00f6vde, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 54155, Sverige",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "12101606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1152941539",
+    "boundingbox": [
+      "52.3833976",
+      "52.3834976",
+      "4.8723209",
+      "4.8724209"
+    ],
+    "lat": "52.3834476",
+    "lon": "4.8723709",
+    "display_name": "caf\u00e9 De Pianist, 41, Groen van Prinstererstraat, Staatsliedenbuurt, Amsterdam, West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1051 EH, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "127605504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "272371309",
+    "boundingbox": [
+      "52.1007355",
+      "52.1014431",
+      "5.0451125",
+      "5.046343"
+    ],
+    "lat": "52.101233",
+    "lon": "5.04575050771367",
+    "display_name": "De Pianist, Ella Fitzgeraldplein, Utrecht, Bestuur Regio Utrecht, Utrecht, Nederland, 3543EK, Nederland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "78026413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53026094",
+    "boundingbox": [
+      "52.3014463",
+      "52.3016951",
+      "10.5144979",
+      "10.5149064"
+    ],
+    "lat": "52.3015707",
+    "lon": "10.5147013936859",
+    "display_name": "Rosenstern Music, Label & Chris Werner, Pianist, 26, Porschestra\u00dfe, R\u00fchme, Veltenhof-R\u00fchme, Braunschweig, Niedersachsen, 38112, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55324049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4268621836",
+    "boundingbox": [
+      "23.9768962",
+      "23.9769962",
+      "121.6024109",
+      "121.6025109"
+    ],
+    "lat": "23.9769462",
+    "lon": "121.6024609",
+    "display_name": "Pianist Homestay, 23, \u6c11\u570b\u8def, \u82b1\u84ee\u5e02, \u82b1\u84ee\u7e23, 97049, \u81fa\u7063",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "156742689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427669143",
+    "boundingbox": [
+      "23.9768324",
+      "23.9771414",
+      "121.6022702",
+      "121.6026091"
+    ],
+    "lat": "23.97698545",
+    "lon": "121.602439052286",
+    "display_name": "Pianist Homestay, 23, \u6c11\u570b\u8def, \u82b1\u84ee\u5e02, \u82b1\u84ee\u7e23, 97049, \u81fa\u7063",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47173799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3422799264",
+    "boundingbox": [
+      "39.918123",
+      "39.918223",
+      "-105.0687402",
+      "-105.0686402"
+    ],
+    "lat": "39.918173",
+    "lon": "-105.0686902",
+    "display_name": "Inspiration Moves Me Brightly - Pianist, Community Park Road, Broomfield, City and County of Broomfield, Colorado, 80020, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "41870507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3046950524",
+    "boundingbox": [
+      "43.4044032",
+      "43.4045032",
+      "39.9646603",
+      "39.9647603"
+    ],
+    "lat": "43.4044532",
+    "lon": "39.9647103",
+    "display_name": "\u0426\u0432\u0435\u0442\u043e\u0447\u043d\u0430\u044f \u043a\u043e\u043c\u043f\u043e\u0437\u0438\u0446\u0438\u044f  \u041f\u0438\u0430\u043d\u0438\u0441\u0442, 21, \u041e\u043b\u0438\u043c\u043f\u0438\u0439\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0412\u0435\u0440\u0445\u043d\u0435\u0438\u043c\u0435\u0440\u0435\u0442\u0438\u043d\u0441\u043a\u0430\u044f \u0431\u0443\u0445\u0442\u0430, \u0410\u0434\u043b\u0435\u0440, \u0410\u0434\u043b\u0435\u0440\u0441\u043a\u0438\u0439 \u0432\u043d\u0443\u0442\u0440\u0438\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u043e\u0447\u0438, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u043e\u0447\u0438, \u041a\u0440\u0430\u0441\u043d\u043e\u0434\u0430\u0440\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u042e\u0424\u041e, 354000, \u0420\u0424",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

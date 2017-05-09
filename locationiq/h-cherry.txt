@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160408397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1425403",
+    "boundingbox": [
+      "42.087063",
+      "42.9993811",
+      "-102.0846099",
+      "-100.1667249"
+    ],
+    "lat": "42.5560174",
+    "lon": "-101.1503041",
+    "display_name": "Cherry County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47799633922511,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "351367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151329818",
+    "boundingbox": [
+      "47.380765",
+      "47.420765",
+      "-92.7271299",
+      "-92.6871299"
+    ],
+    "lat": "47.400765",
+    "lon": "-92.7071299",
+    "display_name": "Cherry, Saint Louis County, Minnesota, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.45795993119606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160268583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "125988",
+    "boundingbox": [
+      "41.419071",
+      "41.437899",
+      "-89.2247929",
+      "-89.2047249"
+    ],
+    "lat": "41.4269787",
+    "lon": "-89.2134189",
+    "display_name": "Cherry, Bureau County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41239812023006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "349292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150978977",
+    "boundingbox": [
+      "34.5680802",
+      "34.6080802",
+      "-112.0618235",
+      "-112.0218235"
+    ],
+    "lat": "34.5880802",
+    "lon": "-112.0418235",
+    "display_name": "Cherry, Yavapai County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "396089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153697986",
+    "boundingbox": [
+      "35.6567456",
+      "35.6967456",
+      "-89.7284128",
+      "-89.6884128"
+    ],
+    "lat": "35.6767456",
+    "lon": "-89.7084128",
+    "display_name": "Cherry, Lauderdale County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "432557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154292778",
+    "boundingbox": [
+      "35.1915292",
+      "35.2315292",
+      "-80.8527833",
+      "-80.8127833"
+    ],
+    "lat": "35.2115292",
+    "lon": "-80.8327833",
+    "display_name": "Cherry, Mecklenburg County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "467457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158530956",
+    "boundingbox": [
+      "35.8287751",
+      "35.8687751",
+      "-76.4413223",
+      "-76.4013223"
+    ],
+    "lat": "35.8487751",
+    "lon": "-76.4213223",
+    "display_name": "Cherry, Washington County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41929245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3050528996",
+    "boundingbox": [
+      "14.4664168",
+      "14.4864168",
+      "-61.0169394",
+      "-60.9969394"
+    ],
+    "lat": "14.4764168",
+    "lon": "-61.0069394",
+    "display_name": "La Cherry, Le Diamant, Le Marin, Martinique, 97223, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "432968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153993675",
+    "boundingbox": [
+      "38.9859142",
+      "39.0259142",
+      "-81.3606744",
+      "-81.3206744"
+    ],
+    "lat": "39.0059142",
+    "lon": "-81.3406744",
+    "display_name": "Cherry, Wirt County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46884747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3395019905",
+    "boundingbox": [
+      "46.2255699",
+      "46.2256699",
+      "6.6584769",
+      "6.6585769"
+    ],
+    "lat": "46.2256199",
+    "lon": "6.6585269",
+    "display_name": "La Cherry, Le Plan de Lesse, Saint-Jean-d'Aulps, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74430, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

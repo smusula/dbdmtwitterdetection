@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160283682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "167454",
+    "boundingbox": [
+      "-56.7249999",
+      "-17.4983997",
+      "-109.6795788",
+      "-66.0734088"
+    ],
+    "lat": "-31.7613364",
+    "lon": "-71.3187696",
+    "display_name": "Chile",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.89744086701774,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112799",
+    "boundingbox": [
+      "-33.1213203",
+      "-33.0111484",
+      "-71.4005739",
+      "-71.2570371"
+    ],
+    "lat": "-33.0441902",
+    "lon": "-71.3725463",
+    "display_name": "Villa Alemana, Provincia de Marga Marga, V Regi\u00f3n de Valpara\u00edso, Chile",
+    "class": "place",
+    "type": "city",
+    "importance": 0.44150603185997,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "3905416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "416642586",
+    "boundingbox": [
+      "-4.9092619",
+      "-4.8692619",
+      "-38.4572989",
+      "-38.4172989"
+    ],
+    "lat": "-4.8892619",
+    "lon": "-38.4372989",
+    "display_name": "Chile, Microrregi\u00e3o do Baixo Jaguaribe, Mesorregi\u00e3o de Jaguaribe, CE, Regi\u00e3o Nordeste, Brasil",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48412121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3523071453",
+    "boundingbox": [
+      "-15.5275365",
+      "-15.4875365",
+      "-74.479268",
+      "-74.439268"
+    ],
+    "lat": "-15.5075365",
+    "lon": "-74.459268",
+    "display_name": "Chile, Caravel\u00ed, Arequipa, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49068768",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3627472096",
+    "boundingbox": [
+      "-14.7819218",
+      "-14.7419218",
+      "-74.8339975",
+      "-74.7939975"
+    ],
+    "lat": "-14.7619218",
+    "lon": "-74.8139975",
+    "display_name": "Chile, Nazca, Ica, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54845429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4240720363",
+    "boundingbox": [
+      "20.2366632",
+      "20.2766632",
+      "-75.9019297",
+      "-75.8619297"
+    ],
+    "lat": "20.2566632",
+    "lon": "-75.8819297",
+    "display_name": "Chile, San Luis, Santiago de Cuba, Cuba",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4577485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501479872",
+    "boundingbox": [
+      "7.246667",
+      "7.286667",
+      "8.663333",
+      "8.703333"
+    ],
+    "lat": "7.266667",
+    "lon": "8.683333",
+    "display_name": "Chile, Gboko, Benue, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38368599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2889304646",
+    "boundingbox": [
+      "12.400228",
+      "12.440228",
+      "-84.9822859",
+      "-84.9422859"
+    ],
+    "lat": "12.420228",
+    "lon": "-84.9622859",
+    "display_name": "El Chile, Santo Domingo (Municipio), Chontales, 56800, Nicaragua",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40499753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2971682196",
+    "boundingbox": [
+      "11.8841771",
+      "11.9241771",
+      "-84.498558",
+      "-84.458558"
+    ],
+    "lat": "11.9041771",
+    "lon": "-84.478558",
+    "display_name": "El Chile, Nueva Guinea (Municipio), RACCN, 82500, Nicaragua",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38476400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2889304636",
+    "boundingbox": [
+      "11.94157",
+      "11.98157",
+      "-84.6408439",
+      "-84.6008439"
+    ],
+    "lat": "11.96157",
+    "lon": "-84.6208439",
+    "display_name": "Chile, Muelle de Los Bueyes, RACCN, 82400, Nicaragua",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "43142659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3119358931",
+    "boundingbox": [
+      "6.1335847",
+      "6.1735847",
+      "-9.8291987",
+      "-9.7891987"
+    ],
+    "lat": "6.1535847",
+    "lon": "-9.8091987",
+    "display_name": "Merica, District # 3, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "102516729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165305487",
+    "boundingbox": [
+      "28.1039659",
+      "28.1160525",
+      "-17.3402082",
+      "-17.3342097"
+    ],
+    "lat": "28.1098593",
+    "lon": "-17.3363645879251",
+    "display_name": "M\u00e9rica, Valle Gran Rey, Santa Cruz de Tenerife, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16492252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1500776445",
+    "boundingbox": [
+      "43.8591799",
+      "43.8592799",
+      "16.1565541",
+      "16.1566541"
+    ],
+    "lat": "43.8592299",
+    "lon": "16.1566041",
+    "display_name": "merica, 142. brigade, Drni\u0161, \u0160ibensko-Kninska \u017eupanija, 22320, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "13106047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1212523689",
+    "boundingbox": [
+      "45.22723",
+      "45.22733",
+      "11.5334329",
+      "11.5335329"
+    ],
+    "lat": "45.22728",
+    "lon": "11.5334829",
+    "display_name": "El Merica, Via Roma, Saletto, PD, VEN, 35046, Italia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "15564313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1414537328",
+    "boundingbox": [
+      "-0.6780868",
+      "-0.6779868",
+      "37.3557563",
+      "37.3558563"
+    ],
+    "lat": "-0.6780368",
+    "lon": "37.3558063",
+    "display_name": "Merica, B6, Kimbimbi, Kirinyaga, Kenya",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "106570716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180849621",
+    "boundingbox": [
+      "-31.1523869",
+      "-31.1523178",
+      "-64.4798963",
+      "-64.4798947"
+    ],
+    "lat": "-31.1523869",
+    "lon": "-64.4798963",
+    "display_name": "m\u00e9rica, Casa Grande, Departamento Punilla, Cba., 5162, Argentina",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

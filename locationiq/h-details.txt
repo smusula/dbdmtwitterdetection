@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "2648125113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4592685389",
+    "boundingbox": [
+      "45.466967",
+      "45.467067",
+      "9.1548202",
+      "9.1549202"
+    ],
+    "lat": "45.467017",
+    "lon": "9.1548702",
+    "display_name": "DETAILS, Piazza Piemonte, San Pietro, Municipio 7, Milano, MI, LOM, 20145, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "29657282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2719047545",
+    "boundingbox": [
+      "51.2242175",
+      "51.2243175",
+      "6.7730467",
+      "6.7731467"
+    ],
+    "lat": "51.2242675",
+    "lon": "6.7730967",
+    "display_name": "Details, 9, Wallstra\u00dfe, Altstadt, Stadtbezirk 1, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40213, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26116365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2498674464",
+    "boundingbox": [
+      "52.512847",
+      "52.512947",
+      "6.0954751",
+      "6.0955751"
+    ],
+    "lat": "52.512897",
+    "lon": "6.0955251",
+    "display_name": "Details, 7, Broerenstraat, Zwolle, Overijssel, Nederland, 8011VB, Nederland",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54888463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4244776469",
+    "boundingbox": [
+      "45.520159",
+      "45.520259",
+      "-122.6718903",
+      "-122.6717903"
+    ],
+    "lat": "45.520209",
+    "lon": "-122.6718403",
+    "display_name": "Details, 308, Southwest 1st Avenue, Pearl District, Portland, Multnomah County, Oregon, 97204, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "50246648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3728511268",
+    "boundingbox": [
+      "40.726873",
+      "40.726973",
+      "-111.8595069",
+      "-111.8594069"
+    ],
+    "lat": "40.726923",
+    "lon": "-111.8594569",
+    "display_name": "Details, 1987, 1100 East, Sugar House, Salt Lake City, Salt Lake County, Utah, 84105, United States of America",
+    "class": "shop",
+    "type": "household",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24783193",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2401898184",
+    "boundingbox": [
+      "59.2704421",
+      "59.2705421",
+      "15.2117242",
+      "15.2118242"
+    ],
+    "lat": "59.2704921",
+    "lon": "15.2117742",
+    "display_name": "Details, Nygatan, S\u00f6rby, \u00d6rebro, Landskapet N\u00e4rke, \u00d6rebro l\u00e4n, Svealand, 702 11, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "28494597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2650889330",
+    "boundingbox": [
+      "35.927221",
+      "35.927321",
+      "-79.02674",
+      "-79.02664"
+    ],
+    "lat": "35.927271",
+    "lon": "-79.02669",
+    "display_name": "Details, 201, South Estes Drive, Chapel Hill, Orange County, North Carolina, 27514, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25372160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2440834010",
+    "boundingbox": [
+      "38.6931368",
+      "38.6932368",
+      "-121.5877616",
+      "-121.5876616"
+    ],
+    "lat": "38.6931868",
+    "lon": "-121.5877116",
+    "display_name": "Details, Airport Boulevard, Sacramento County, California, 95837, United States of America",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48276138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3516116032",
+    "boundingbox": [
+      "32.9041892",
+      "32.9042892",
+      "-97.044883",
+      "-97.044783"
+    ],
+    "lat": "32.9042392",
+    "lon": "-97.044833",
+    "display_name": "Details, B28 Jetway, Grapevine, Tarrant County, Texas, 75261, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "148333932",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381471102",
+    "boundingbox": [
+      "44.1081373",
+      "44.1082616",
+      "-79.1243018",
+      "-79.1241473"
+    ],
+    "lat": "44.10821845",
+    "lon": "-79.1242191503168",
+    "display_name": "Details, Church Street, Uxbridge, Durham Region, Ontario, L9P 1C7, Canada",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

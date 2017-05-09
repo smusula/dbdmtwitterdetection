@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160274475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "137431",
+    "boundingbox": [
+      "45.006589",
+      "45.065782",
+      "-93.3905279",
+      "-93.3334699"
+    ],
+    "lat": "45.0375868",
+    "lon": "-93.3593223",
+    "display_name": "Crystal, Hennepin County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50234598959543,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160286077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "171550",
+    "boundingbox": [
+      "35.994334",
+      "36.055113",
+      "-109.0214289",
+      "-108.9481369"
+    ],
+    "lat": "36.0434114",
+    "lon": "-108.9692888",
+    "display_name": "Crystal, San Juan County, New Mexico, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.409123069644,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "474526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158434509",
+    "boundingbox": [
+      "39.7275774",
+      "39.7675774",
+      "-79.8444983",
+      "-79.8044983"
+    ],
+    "lat": "39.7475774",
+    "lon": "-79.8244983",
+    "display_name": "Crystal, Fayette County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "435810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154362274",
+    "boundingbox": [
+      "43.243088",
+      "43.283088",
+      "-84.9347336",
+      "-84.8947336"
+    ],
+    "lat": "43.263088",
+    "lon": "-84.9147336",
+    "display_name": "Crystal, Montcalm County, Michigan, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "413297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153747661",
+    "boundingbox": [
+      "36.4428412",
+      "36.4828412",
+      "-89.1956231",
+      "-89.1556231"
+    ],
+    "lat": "36.4628412",
+    "lon": "-89.1756231",
+    "display_name": "Crystal, Obion County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "382812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151928800",
+    "boundingbox": [
+      "34.2067632",
+      "34.2467632",
+      "-95.9502602",
+      "-95.9102602"
+    ],
+    "lat": "34.2267632",
+    "lon": "-95.9302602",
+    "display_name": "Crystal, Atoka County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "418393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154035546",
+    "boundingbox": [
+      "37.6434175",
+      "37.6834175",
+      "-83.8454745",
+      "-83.8054745"
+    ],
+    "lat": "37.6634175",
+    "lon": "-83.8254745",
+    "display_name": "Crystal, Estill County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "497748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158816757",
+    "boundingbox": [
+      "45.939265",
+      "45.979265",
+      "-68.3803669",
+      "-68.3403669"
+    ],
+    "lat": "45.959265",
+    "lon": "-68.3603669",
+    "display_name": "Crystal, Aroostook County, Maine, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "318875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150936156",
+    "boundingbox": [
+      "42.633803",
+      "42.673803",
+      "-112.5163674",
+      "-112.4763674"
+    ],
+    "lat": "42.653803",
+    "lon": "-112.4963674",
+    "display_name": "Crystal, Power County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "350422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150963447",
+    "boundingbox": [
+      "44.147109",
+      "44.187109",
+      "-116.9109938",
+      "-116.8709938"
+    ],
+    "lat": "44.167109",
+    "lon": "-116.8909938",
+    "display_name": "Crystal, Washington County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

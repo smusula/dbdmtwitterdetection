@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "2644831101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "455297988",
+    "boundingbox": [
+      "-33.8570076",
+      "-33.8563977",
+      "18.6538167",
+      "18.6545822"
+    ],
+    "lat": "-33.8563977",
+    "lon": "18.6540912",
+    "display_name": "Green Sleeves Way, Cape Town Ward 21, Durbanville, City of Cape Town, Western Cape, 7550, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2653108779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172715338",
+    "boundingbox": [
+      "51.4865792",
+      "51.4866982",
+      "-2.6418238",
+      "-2.641647"
+    ],
+    "lat": "51.4866342",
+    "lon": "-2.6417367646544",
+    "display_name": "Green Sleeves, Shirehampton Road, Stoke Bishop, Bristol, City of Bristol, South West England, England, BS9, UK",
+    "class": "shop",
+    "type": "vacant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48618668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3592213596",
+    "boundingbox": [
+      "47.5618244",
+      "47.5619244",
+      "-52.7108074",
+      "-52.7107074"
+    ],
+    "lat": "47.5618744",
+    "lon": "-52.7107574",
+    "display_name": "Green Sleeves Pub & Restaurant, 14, George Street, St. John's, Newfoundland and Labrador, A1C 1H7, Canada",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "74450386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38547898",
+    "boundingbox": [
+      "50.9825234",
+      "50.9856646",
+      "0.1795784",
+      "0.1827648"
+    ],
+    "lat": "50.98405",
+    "lon": "0.181198263270933",
+    "display_name": "Sleeves Wood, Wilderness Lane, Hadlow Down CP, Wealden, East Sussex, South East, England, UK",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  },
+  {
+    "place_id": "44506388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3159461849",
+    "boundingbox": [
+      "43.7259974",
+      "43.7260974",
+      "-79.8129401",
+      "-79.8128401"
+    ],
+    "lat": "43.7260474",
+    "lon": "-79.8128901",
+    "display_name": "Sleeves Body Artistry, 23, Conservation Drive, Snelgrove, Brampton, Peel Region, Ontario, L6Z4R3, Canada",
+    "class": "shop",
+    "type": "tattoo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54093120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4141597905",
+    "boundingbox": [
+      "21.7781896",
+      "21.7782896",
+      "-72.2335602",
+      "-72.2334602"
+    ],
+    "lat": "21.7782396",
+    "lon": "-72.2335102",
+    "display_name": "Green Sleeves, Leeward Highway, Providenciales, Provinciales and West Caicos, Turks and Caicos Islands",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

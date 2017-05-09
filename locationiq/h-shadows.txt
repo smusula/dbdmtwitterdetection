@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "2644929956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289453745",
+    "boundingbox": [
+      "51.4527942",
+      "51.4528847",
+      "-2.5987496",
+      "-2.5986327"
+    ],
+    "lat": "51.45283905",
+    "lon": "-2.59868536402838",
+    "display_name": "Shadows, 6, Denmark Street, Kingsdown, Finzels Reach, Bristol, City of Bristol, South West England, England, BS1, UK",
+    "class": "amenity",
+    "type": "massage",
+    "importance": 0.101
+  },
+  {
+    "place_id": "125652091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260680480",
+    "boundingbox": [
+      "52.1384986",
+      "52.1386093",
+      "-2.2193819",
+      "-2.2191818"
+    ],
+    "lat": "52.13856855",
+    "lon": "-2.21928275089485",
+    "display_name": "Shadows, Old Road South, Kempsey CP, Malvern Hills, Worcestershire, West Midlands, England, WR5 3NT, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7864491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "843994502",
+    "boundingbox": [
+      "-29.7248655",
+      "-29.7247655",
+      "31.0680356",
+      "31.0681356"
+    ],
+    "lat": "-29.7248155",
+    "lon": "31.0680856",
+    "display_name": "Shadows, Palm Boulavard, eThekwini Ward 35, Umhlanga Rocks, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4321, South Africa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "1460139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "317654141",
+    "boundingbox": [
+      "-36.8522462",
+      "-36.8521462",
+      "174.7685686",
+      "174.7686686"
+    ],
+    "lat": "-36.8521962",
+    "lon": "174.7686186",
+    "display_name": "Shadows, The Quad, Auckland Central, Waitemata, Auckland, 1010, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160298213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "224042",
+    "boundingbox": [
+      "36.5407896",
+      "39.466012",
+      "-83.6754129",
+      "-75.1664349"
+    ],
+    "lat": "37.1232245",
+    "lon": "-78.492772",
+    "display_name": "Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.85268567064987,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160307889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "315141",
+    "boundingbox": [
+      "-22.459835",
+      "-22.2314459",
+      "-45.2228234",
+      "-45.0089819"
+    ],
+    "lat": "-22.3333329",
+    "lon": "-45.0916659",
+    "display_name": "Virg\u00ednia, Microrregi\u00e3o de Itajub\u00e1, Mesorregi\u00e3o Sul/Sudoeste de Minas, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51104612703212,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160273636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "136637",
+    "boundingbox": [
+      "47.472402",
+      "47.546871",
+      "-92.5715839",
+      "-92.4301739"
+    ],
+    "lat": "47.52326",
+    "lon": "-92.5365709",
+    "display_name": "Virginia, Saint Louis County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.49435602770828,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "320712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "128483041",
+    "boundingbox": [
+      "-27.4008492",
+      "-27.3608492",
+      "153.0445392",
+      "153.0845392"
+    ],
+    "lat": "-27.3808492",
+    "lon": "153.0645392",
+    "display_name": "Virginia, Brisbane, Brisbane City, QLD, Australia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.45631864596567,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "220076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "52222554",
+    "boundingbox": [
+      "53.7947779",
+      "53.8747779",
+      "-7.1209546",
+      "-7.0409546"
+    ],
+    "lat": "53.8347779",
+    "lon": "-7.0809546",
+    "display_name": "Virginia, County Cavan, Ireland",
+    "class": "place",
+    "type": "town",
+    "importance": 0.45185343041668,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "124755324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256494394",
+    "boundingbox": [
+      "-0.2224466",
+      "-0.1234984",
+      "-78.8158308",
+      "-78.7104498"
+    ],
+    "lat": "-0.1746569",
+    "lon": "-78.7667376",
+    "display_name": "Virginia, Lloa, Quito, Pichincha, Ecuador",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "6758756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703168441",
+    "boundingbox": [
+      "4.8595993",
+      "4.9395993",
+      "-75.922566",
+      "-75.842566"
+    ],
+    "lat": "4.8995993",
+    "lon": "-75.882566",
+    "display_name": "La Virginia, Risaralda, Colombia",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160268082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126089",
+    "boundingbox": [
+      "39.939216",
+      "39.961676",
+      "-90.2314159",
+      "-90.1994749"
+    ],
+    "lat": "39.9511595",
+    "lon": "-90.2123426",
+    "display_name": "Virginia, Cass County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "413997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153762073",
+    "boundingbox": [
+      "33.3889993",
+      "33.4289993",
+      "-87.0705502",
+      "-87.0305502"
+    ],
+    "lat": "33.4089993",
+    "lon": "-87.0505502",
+    "display_name": "Virginia, Jefferson County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "327166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150958008",
+    "boundingbox": [
+      "42.4740842",
+      "42.5140842",
+      "-112.1855202",
+      "-112.1455202"
+    ],
+    "lat": "42.4940842",
+    "lon": "-112.1655202",
+    "display_name": "Virginia, Bannock County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

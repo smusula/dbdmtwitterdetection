@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "490898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158628128",
+    "boundingbox": [
+      "35.080718",
+      "35.120718",
+      "-79.0169732",
+      "-78.9769732"
+    ],
+    "lat": "35.100718",
+    "lon": "-78.9969732",
+    "display_name": "Summer, Cumberland County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16907218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1577430183",
+    "boundingbox": [
+      "36.4925765",
+      "36.5325765",
+      "4.3433641",
+      "4.3833641"
+    ],
+    "lat": "36.5125765",
+    "lon": "4.3633641",
+    "display_name": "Summer, Da\u00efra Iferhounene, Tizi Ouzou, RADP",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "66982803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20528042",
+    "boundingbox": [
+      "14.6682599",
+      "14.6696736",
+      "121.0257341",
+      "121.0263744"
+    ],
+    "lat": "14.6688679",
+    "lon": "121.026163",
+    "display_name": "Summer, Bayanihan Village, Bahay Toro, Quezon City, District I, Quezon City, Metro Manila, 1105, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76656889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46588403",
+    "boundingbox": [
+      "33.677032",
+      "33.6786248",
+      "-96.5974071",
+      "-96.5972134"
+    ],
+    "lat": "33.677603",
+    "lon": "-96.5973377",
+    "display_name": "Summer, Sherman, Grayson County, Texas, 75091, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66203475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19374697",
+    "boundingbox": [
+      "42.013466",
+      "42.01355",
+      "-71.5184329",
+      "-71.5183489"
+    ],
+    "lat": "42.013466",
+    "lon": "-71.5183489",
+    "display_name": "Summer, Woonsocket, Providence County, Rhode Island, 02895, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64273599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16285404",
+    "boundingbox": [
+      "36.8478984",
+      "36.848927",
+      "-86.8870709",
+      "-86.8866831"
+    ],
+    "lat": "36.848565",
+    "lon": "-86.8869309",
+    "display_name": "Summer, Russellville, Logan County, Kentucky, 42276, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63029939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13654150",
+    "boundingbox": [
+      "31.5713382",
+      "31.5726768",
+      "-90.4635651",
+      "-90.4635378"
+    ],
+    "lat": "31.5713382",
+    "lon": "-90.4635651",
+    "display_name": "Summer, Brookhaven, Lincoln County, Mississippi, 39602, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64523706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16501277",
+    "boundingbox": [
+      "36.085103",
+      "36.08668",
+      "-75.7109649",
+      "-75.7096409"
+    ],
+    "lat": "36.086148",
+    "lon": "-75.7102759",
+    "display_name": "Summer, Kitty Hawk, Dare County, North Carolina, 27949, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65922150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18862238",
+    "boundingbox": [
+      "43.357204",
+      "43.357236",
+      "-72.0595909",
+      "-72.0594749"
+    ],
+    "lat": "43.357236",
+    "lon": "-72.0595189",
+    "display_name": "Summer, Newbury, Merrimack County, New Hampshire, 03272, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58382312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6194829",
+    "boundingbox": [
+      "47.1997567",
+      "47.206955",
+      "-117.2062042",
+      "-117.1966309"
+    ],
+    "lat": "47.202017",
+    "lon": "-117.2007549",
+    "display_name": "Summer, Fairbanks, Whitman County, Washington, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

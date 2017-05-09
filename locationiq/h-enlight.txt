@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "2610669797",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4512095395",
+    "boundingbox": [
+      "52.3731215",
+      "52.3732215",
+      "4.8984433",
+      "4.8985433"
+    ],
+    "lat": "52.3731715",
+    "lon": "4.8984933",
+    "display_name": "Head Enlight District Barber & Store, 80 B, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1012 DR, Nederland",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "57077689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4450374089",
+    "boundingbox": [
+      "52.3730921",
+      "52.3731921",
+      "4.8983608",
+      "4.8984608"
+    ],
+    "lat": "52.3731421",
+    "lon": "4.8984108",
+    "display_name": "Head Enlight District Barber & Store, 80B, Oudezijds Achterburgwal, Burgwallen-Oude Zijde, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1012EL, Nederland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

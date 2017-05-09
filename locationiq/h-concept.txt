@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "77517646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50465123",
+    "boundingbox": [
+      "-33.0877909",
+      "-33.0875736",
+      "18.0397826",
+      "18.0405672"
+    ],
+    "lat": "-33.0875736",
+    "lon": "18.0405672",
+    "display_name": "Concept, Saldanha Bay Ward 6, Saldanha Bay Local Municipality, West Coast District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155633635",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422390226",
+    "boundingbox": [
+      "51.5708118",
+      "51.5708755",
+      "-0.1150338",
+      "-0.1149076"
+    ],
+    "lat": "51.57085885",
+    "lon": "-0.115002168061024",
+    "display_name": "Concept, Stapleton Hall Road, Crouch Hall Park, Stroud Green, London Borough of Haringey, London, Greater London, England, N4 4AP, UK",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56211128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4365110841",
+    "boundingbox": [
+      "-34.5981478",
+      "-34.5980478",
+      "-58.4449695",
+      "-58.4448695"
+    ],
+    "lat": "-34.5980978",
+    "lon": "-58.4449195",
+    "display_name": "Concept, 290, Serrano, Villa Crespo, CABA, Comuna 15, CABA, C1414CXR, Argentina",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52275924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3920953509",
+    "boundingbox": [
+      "53.3820231",
+      "53.3821231",
+      "-1.4679359",
+      "-1.4678359"
+    ],
+    "lat": "53.3820731",
+    "lon": "-1.4678859",
+    "display_name": "Concept, 23, Chapel Walk, Moorhead, Little Kelham, Sheffield, Yorkshire and the Humber, England, S1 2PD, UK",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "85075106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95844944",
+    "boundingbox": [
+      "53.3538207",
+      "53.3539493",
+      "-1.481905",
+      "-1.4817141"
+    ],
+    "lat": "53.3538859",
+    "lon": "-1.48180928509566",
+    "display_name": "Concept, Meersbrook Avenue, Little Sheffield, Woodseats, Sheffield, Yorkshire and the Humber, England, S8, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "5080472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "572106428",
+    "boundingbox": [
+      "42.465057",
+      "42.465157",
+      "-2.4432145",
+      "-2.4431145"
+    ],
+    "lat": "42.465107",
+    "lon": "-2.4431645",
+    "display_name": "Concept, Calle Duquesa de la Victoria, Logro\u00f1o, La Estrella, Logro\u00f1o, La Rioja, 26003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7343146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "800192548",
+    "boundingbox": [
+      "43.053509",
+      "43.053609",
+      "2.2177739",
+      "2.2178739"
+    ],
+    "lat": "43.053559",
+    "lon": "2.2178239",
+    "display_name": "Le Concept, Place de la R\u00e9publique, Roucata, Limoux, Aude, Occitanie, 11300, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26597096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2529539104",
+    "boundingbox": [
+      "43.4068238",
+      "43.4069238",
+      "3.6958429",
+      "3.6959429"
+    ],
+    "lat": "43.4068738",
+    "lon": "3.6958929",
+    "display_name": "Concept, Rue Montmorency, S\u00e8te, Montpellier, H\u00e9rault, Occitanie, 34200, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "38738908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2901686201",
+    "boundingbox": [
+      "47.995339",
+      "47.995439",
+      "2.733943",
+      "2.734043"
+    ],
+    "lat": "47.995389",
+    "lon": "2.733993",
+    "display_name": "Le Concept, Ruelle Pinon, Montargis, Loiret, Centre-Val de Loire, 45200, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "55240800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4280807207",
+    "boundingbox": [
+      "56.9449146",
+      "56.9450146",
+      "24.1719031",
+      "24.1720031"
+    ],
+    "lat": "56.9449646",
+    "lon": "24.1719531",
+    "display_name": "Concept, 46A, N\u012bcgales iela, D\u0101rzciems, R\u012bga, Vidzeme, LV1003, Latvija",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

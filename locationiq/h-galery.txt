@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "142828860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "352160518",
+    "boundingbox": [
+      "48.1496294",
+      "48.1497341",
+      "-1.574676",
+      "-1.5744975"
+    ],
+    "lat": "48.1496294",
+    "lon": "-1.5744975",
+    "display_name": "Avenue Pierre Galery, Le P\u00e2tis du Moulinet, Thorign\u00e9-Fouillard, Rennes, Ille-et-Vilaine, Bretagne, 35235, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68303421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22905360",
+    "boundingbox": [
+      "48.1550876",
+      "48.1555257",
+      "-1.573247",
+      "-1.5731876"
+    ],
+    "lat": "48.1554269",
+    "lon": "-1.5732104",
+    "display_name": "Rue Pierre Galery, Le P\u00e2tis du Moulinet, Thorign\u00e9-Fouillard, Rennes, Ille-et-Vilaine, Bretagne, 35235, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65474995",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18074724",
+    "boundingbox": [
+      "44.6926643",
+      "44.692951",
+      "-93.2080679",
+      "-93.2047999"
+    ],
+    "lat": "44.692681",
+    "lon": "-93.2072099",
+    "display_name": "Galery Drive, Lakeville, Dakota County, Minnesota, 55024, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66378676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19531598",
+    "boundingbox": [
+      "36.1060544",
+      "36.1065935",
+      "-83.9232039",
+      "-83.9229052"
+    ],
+    "lat": "36.1065935",
+    "lon": "-83.9232039",
+    "display_name": "Galery Way, Temple Acres, Knox County, Tennessee, 37938, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "102308708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164841670",
+    "boundingbox": [
+      "3.0774226",
+      "3.077432",
+      "101.58911",
+      "101.5899686"
+    ],
+    "lat": "3.0774226",
+    "lon": "101.5899686",
+    "display_name": "Shopping Galery, SS12, SS15, Selangor, 45500, Malaysia",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "52692095",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980224341",
+    "boundingbox": [
+      "48.8627011",
+      "48.8628011",
+      "2.3354628",
+      "2.3355628"
+    ],
+    "lat": "48.8627511",
+    "lon": "2.3355128",
+    "display_name": "Artclub galery, Rue de Rivoli, Palais Royal, 1er, Paris, \u00cele-de-France, 75001, France",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24542366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2388375409",
+    "boundingbox": [
+      "48.8543846",
+      "48.8544846",
+      "2.3649031",
+      "2.3650031"
+    ],
+    "lat": "48.8544346",
+    "lon": "2.3649531",
+    "display_name": "Ubu galery, Rue de Birague, Arsenal, 4e, Paris, \u00cele-de-France, 75004, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "56322397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4378099390",
+    "boundingbox": [
+      "50.9325835",
+      "50.9326835",
+      "6.971124",
+      "6.971224"
+    ],
+    "lat": "50.9326335",
+    "lon": "6.971174",
+    "display_name": "Galery Franz Graf Holzer, 111-113, Siegburger Stra\u00dfe, Deutz, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50679, Deutschland",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "82007476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "79725240",
+    "boundingbox": [
+      "41.7518015",
+      "41.7519636",
+      "-72.6874638",
+      "-72.687291"
+    ],
+    "lat": "41.75185505",
+    "lon": "-72.6873773873907",
+    "display_name": "Broad Street Galery, Broad Street, Little Italy, City of Hartford, Hartford County, Connecticut, 06114, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "11810598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1122624771",
+    "boundingbox": [
+      "42.2249589",
+      "42.2250589",
+      "20.7311925",
+      "20.7312925"
+    ],
+    "lat": "42.2250089",
+    "lon": "20.7312425",
+    "display_name": "Galeri e Artit  Art Galery, Ernest Koliqi, Ortakoll, Prizren, Komuna e Prizrenit, Rrafsh i Dukagjinit, Rajoni i Prizrenit (04), 2000",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

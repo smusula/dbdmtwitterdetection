@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "11027301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1069820819",
+    "boundingbox": [
+      "51.9698937",
+      "51.9699937",
+      "17.5033845",
+      "17.5034845"
+    ],
+    "lat": "51.9699437",
+    "lon": "17.5034345",
+    "display_name": "Pinacolada, 25, \u015ar\u00f3dmiejska, Stare Miasto, Jarocin, gmina Jarocin, powiat jaroci\u0144ski, wielkopolskie, 63-200, Polska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "28312941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2623300551",
+    "boundingbox": [
+      "15.2817571",
+      "15.2818571",
+      "73.9117519",
+      "73.9118519"
+    ],
+    "lat": "15.2818071",
+    "lon": "73.9118019",
+    "display_name": "Pinacolada, Colva Beach Rd, Fatorda, Colva, South Goa, Goa, 403600, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55822516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4344303991",
+    "boundingbox": [
+      "15.3486951",
+      "15.3487951",
+      "73.9271377",
+      "73.9272377"
+    ],
+    "lat": "15.3487451",
+    "lon": "73.9271877",
+    "display_name": "Pinacolada, NH66, Verna, South Goa, Goa, 403722, India",
+    "class": "shop",
+    "type": "beverages",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  }
+]

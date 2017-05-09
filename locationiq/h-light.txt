@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "455935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154386765",
+    "boundingbox": [
+      "35.7999906",
+      "35.8399906",
+      "-80.1176059",
+      "-80.0776059"
+    ],
+    "lat": "35.8199906",
+    "lon": "-80.0976059",
+    "display_name": "Light, Davidson County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26516255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2532546029",
+    "boundingbox": [
+      "11.6458711",
+      "11.6858711",
+      "124.9550716",
+      "124.9950716"
+    ],
+    "lat": "11.6658711",
+    "lon": "124.9750716",
+    "display_name": "Light, Samar, Eastern Visayas, Philippines",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5139210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "582987169",
+    "boundingbox": [
+      "11.9954028",
+      "11.9955028",
+      "79.8261483",
+      "79.8262483"
+    ],
+    "lat": "11.9954528",
+    "lon": "79.8261983",
+    "display_name": "Light, Auroville, Viluppuram district, Tamil Nadu, 605101, India",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "68584884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23187814",
+    "boundingbox": [
+      "53.7995681",
+      "53.8003079",
+      "-1.5466345",
+      "-1.5450227"
+    ],
+    "lat": "53.7999379",
+    "lon": "-1.54585293346485",
+    "display_name": "The Light, The Headrow, Lovell Park, Leeds, Yorkshire and the Humber, England, LS1 8TL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.29764611922243
+  },
+  {
+    "place_id": "360055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151414652",
+    "boundingbox": [
+      "36.0500694",
+      "36.0900694",
+      "-90.7678917",
+      "-90.7278917"
+    ],
+    "lat": "36.0700694",
+    "lon": "-90.7478917",
+    "display_name": "Light, Greene County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.29764611922243,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "132002215",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "296727982",
+    "boundingbox": [
+      "51.5844925",
+      "51.5845975",
+      "-2.1074137",
+      "-2.1064347"
+    ],
+    "lat": "51.5845342",
+    "lon": "-2.1068236",
+    "display_name": "The Light, Malmesbury CP, Malmesbury, Wiltshire, South West England, England, SN16 9, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "17865911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1729531494",
+    "boundingbox": [
+      "45.8287119",
+      "45.8288119",
+      "-77.1168528",
+      "-77.1167528"
+    ],
+    "lat": "45.8287619",
+    "lon": "-77.1168028",
+    "display_name": "light, Albert Street, Pembroke, Ontario, K8A 4K2, Canada",
+    "class": "man_made",
+    "type": "lighthouse",
+    "importance": 0.111
+  },
+  {
+    "place_id": "48339898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3547999284",
+    "boundingbox": [
+      "36.8516775",
+      "36.8517775",
+      "42.9572368",
+      "42.9573368"
+    ],
+    "lat": "36.8517275",
+    "lon": "42.9572868",
+    "display_name": "light, Barzan Road, \u0643\u0641\u0631\u0643\u064a, Dihok, \u062f\u0647\u0648\u0643, \u0625\u0642\u0644\u064a\u0645 \u0643\u0631\u062f\u0633\u062a\u0627\u0646, 42000, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "highway",
+    "type": "traffic_signals",
+    "importance": 0.111
+  },
+  {
+    "place_id": "48278297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3547992353",
+    "boundingbox": [
+      "36.8469136",
+      "36.8470136",
+      "42.9962479",
+      "42.9963479"
+    ],
+    "lat": "36.8469636",
+    "lon": "42.9962979",
+    "display_name": "light, Barzan Road, \u062f\u0647\u06c6\u0643, Dihok, \u062f\u0647\u0648\u0643, \u0625\u0642\u0644\u064a\u0645 \u0643\u0631\u062f\u0633\u062a\u0627\u0646, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "highway",
+    "type": "traffic_signals",
+    "importance": 0.111
+  },
+  {
+    "place_id": "16140103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1475920717",
+    "boundingbox": [
+      "50.4496254",
+      "50.4497254",
+      "30.4778126",
+      "30.4779126"
+    ],
+    "lat": "50.4496754",
+    "lon": "30.4778626",
+    "display_name": "Light, 18, \u041f\u0435\u0440\u0435\u043c\u043e\u0433\u0438 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0428\u0443\u043b\u044f\u0432\u043a\u0430, \u041a\u0438\u0457\u0432, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01000-06999, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  }
+]

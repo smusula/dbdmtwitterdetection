@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "160699549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3838121",
+    "boundingbox": [
+      "6.2074876",
+      "6.849442",
+      "10.7962751",
+      "11.2104359"
+    ],
+    "lat": "6.4735298",
+    "lon": "11.0611593",
+    "display_name": "Nwa, Donga-Mantung, NW, Cameroun",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "143327640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "355332667",
+    "boundingbox": [
+      "6.4601802",
+      "6.4634645",
+      "11.0742176",
+      "11.081832"
+    ],
+    "lat": "6.4619338",
+    "lon": "11.0789042753469",
+    "display_name": "Nwa, Donga-Mantung, NW, Cameroun",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "49336920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3669008263",
+    "boundingbox": [
+      "22.2058403",
+      "22.2158403",
+      "80.1184546",
+      "80.1284546"
+    ],
+    "lat": "22.2108403",
+    "lon": "80.1234546",
+    "display_name": "Nagarwara, NH543, Nagarwara, B\u0101l\u0101gh\u0101t, Balaghat, Madhya Pradesh, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "131835861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295776319",
+    "boundingbox": [
+      "-12.3018209",
+      "-12.2942811",
+      "43.7604605",
+      "43.7718532"
+    ],
+    "lat": "-12.299107",
+    "lon": "43.7679404461518",
+    "display_name": "Moh\u00e9li Bandar Es Eslam Airport, Djoiezi, Mwali, Comores Komori \u062c\u0632\u0631 \u0627\u0644\u0642\u0645\u0631",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

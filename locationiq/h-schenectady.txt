@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "160408519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1428121",
+    "boundingbox": [
+      "42.710827",
+      "42.955695",
+      "-74.3066659",
+      "-73.8093649"
+    ],
+    "lat": "42.8095455",
+    "lon": "-74.0216719",
+    "display_name": "Schenectady County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55101524751064,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "479206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158801514",
+    "boundingbox": [
+      "42.6542432",
+      "42.9742432",
+      "-74.0995686",
+      "-73.7795686"
+    ],
+    "lat": "42.8142432",
+    "lon": "-73.9395686",
+    "display_name": "Schenectady, Schenectady County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "79284991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59763226",
+    "boundingbox": [
+      "42.8144475",
+      "42.8146656",
+      "-73.9428746",
+      "-73.942613"
+    ],
+    "lat": "42.8145565",
+    "lon": "-73.9427438118014",
+    "display_name": "Schenectady, 332, Erie Boulevard, Schenectady, Schenectady County, New York, 12305, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "33594885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2791843898",
+    "boundingbox": [
+      "42.8144726",
+      "42.8145726",
+      "-73.9426724",
+      "-73.9425724"
+    ],
+    "lat": "42.8145226",
+    "lon": "-73.9426224",
+    "display_name": "Schenectady, Liberty Street, Schenectady, Schenectady County, New York, 12305, United States of America",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45779047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3258446894",
+    "boundingbox": [
+      "42.814437",
+      "42.814537",
+      "-73.9425833",
+      "-73.9424833"
+    ],
+    "lat": "42.814487",
+    "lon": "-73.9425333",
+    "display_name": "Schenectady, Broadway, Schenectady, Schenectady County, New York, 12306, United States of America",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "136135103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315086518",
+    "boundingbox": [
+      "42.8138834",
+      "42.8156982",
+      "-73.9430543",
+      "-73.941828"
+    ],
+    "lat": "42.814645",
+    "lon": "-73.9424935",
+    "display_name": "Schenectady, Liberty Street, Schenectady, Schenectady County, New York, 12305, United States of America",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.101
+  }
+]

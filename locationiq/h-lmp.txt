@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "83145021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "86995974",
+    "boundingbox": [
+      "35.4955356",
+      "35.5016066",
+      "12.6065381",
+      "12.6317344"
+    ],
+    "lat": "35.4985355",
+    "lon": "12.6223478253557",
+    "display_name": "Aeroporto di Lampedusa, Via Cala Francese, Lampedusa e Linosa, AG, SIC, Italia",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.28421533777039,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "44848913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3184281162",
+    "boundingbox": [
+      "46.0746184",
+      "46.0747184",
+      "18.2364638",
+      "18.2365638"
+    ],
+    "lat": "46.0746684",
+    "lon": "18.2365138",
+    "display_name": "LMP, Koller utca, Sikl\u00f3si k\u00fclv\u00e1ros, P\u00e9cs, P\u00e9csi j\u00e1r\u00e1s, Baranya megye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 7626, Magyarorsz\u00e1g",
+    "class": "office",
+    "type": "political_party",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80058482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64482698",
+    "boundingbox": [
+      "47.0136127",
+      "47.0137119",
+      "0.0732052",
+      "0.0733449"
+    ],
+    "lat": "47.01365665",
+    "lon": "0.0732754990423387",
+    "display_name": "LMP, Rue du Moulin Patron, Les Cerisiers, Loudun, Ch\u00e2tellerault, Vienne, Nouvelle-Aquitaine, 86200, France",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111644198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202973317",
+    "boundingbox": [
+      "52.2725157",
+      "52.2732286",
+      "7.7450464",
+      "7.7460099"
+    ],
+    "lat": "52.2729132",
+    "lon": "7.74553564555273",
+    "display_name": "LMP, Laggenbecker Stra\u00dfe, Laggenbeck, Ibbenb\u00fcren, Kreis Steinfurt, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 49479, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150030996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "389950198",
+    "boundingbox": [
+      "49.7045123",
+      "49.7049353",
+      "5.6220891",
+      "5.6226585"
+    ],
+    "lat": "49.7047211",
+    "lon": "5.62237497561221",
+    "display_name": "LMP, 3, Route de G\u00e9rasa, Les Coeuvins Zone B, Habay, Virton, Luxembourg, Wallonie, 6720, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "bathroom_furnishing",
+    "importance": 0.101
+  },
+  {
+    "place_id": "897501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "281954027",
+    "boundingbox": [
+      "35.500388",
+      "35.500488",
+      "12.6158396",
+      "12.6159396"
+    ],
+    "lat": "35.500438",
+    "lon": "12.6158896",
+    "display_name": "LMP, Via Giulio Bonfiglio, Lampedusa e Linosa, AG, SIC, Italia",
+    "class": "aeroway",
+    "type": "navigationaid",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609458497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313087906",
+    "boundingbox": [
+      "47.1288326",
+      "47.1289641",
+      "13.809892",
+      "13.8101111"
+    ],
+    "lat": "47.12890145",
+    "lon": "13.8100277467072",
+    "display_name": "LMP, Obere Postgasse, Tamsweg, Tamsweg - Lungau, Salzburg, 5580, \u00d6sterreich",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52050858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3918007212",
+    "boundingbox": [
+      "20.3114867",
+      "20.3115867",
+      "100.1712367",
+      "100.1713367"
+    ],
+    "lat": "20.3115367",
+    "lon": "100.1712867",
+    "display_name": "LMP, 3, \u0eaa\u0eb5\u0ea1\u0eb8\u0e87\u0e84\u0eb8\u0e99, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e95\u0ebb\u0ec9\u0e99\u0ec0\u0e9c\u0eb4\u0ec9\u0e87, \u0e9a\u0ecd\u0ec8\u0ec1\u0e81\u0ec9\u0ea7, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "28742677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2674413769",
+    "boundingbox": [
+      "18.1372684",
+      "18.1373684",
+      "101.284759",
+      "101.284859"
+    ],
+    "lat": "18.1373184",
+    "lon": "101.284809",
+    "display_name": "LMP, 3612, \u0ec1\u0eaa\u0e99\u0e9e\u0ebb\u0e99, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e9b\u0eb2\u0e81\u0ea5\u0eb2\u0e8d, \u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "28716311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2676705648",
+    "boundingbox": [
+      "18.1655867",
+      "18.1656867",
+      "101.3881406",
+      "101.3882406"
+    ],
+    "lat": "18.1656367",
+    "lon": "101.3881906",
+    "display_name": "LMP, 4, Ban Na Sack, \u0ec0\u0ea1\u0eb7\u0ead\u0e87\u0e9b\u0eb2\u0e81\u0ea5\u0eb2\u0e8d, \u0ec4\u0e8a\u0e8d\u0eb0\u0e9a\u0eb9\u0ea5\u0eb5, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "113555848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210245907",
+    "boundingbox": [
+      "49.1925655",
+      "49.1935627",
+      "-2.1237825",
+      "-2.1228452"
+    ],
+    "lat": "49.1931212",
+    "lon": "-2.12326190129391",
+    "display_name": "Animals, Parish of Saint Helier, JE2, Jersey",
+    "class": "landuse",
+    "type": "cemetery",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2645126070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4525064242",
+    "boundingbox": [
+      "-34.909056",
+      "-34.908956",
+      "-56.1695015",
+      "-56.1694015"
+    ],
+    "lat": "-34.909006",
+    "lon": "-56.1694515",
+    "display_name": "Animals, Bulevar Espa\u00f1a, Parque Rodo, Montevideo, 11200, Uruguay",
+    "class": "amenity",
+    "type": "veterinary",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14037889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1285261637",
+    "boundingbox": [
+      "44.5473435",
+      "44.5474435",
+      "12.2348662",
+      "12.2349662"
+    ],
+    "lat": "44.5473935",
+    "lon": "12.2349162",
+    "display_name": "Animals, Via Romea Nord, Ravenna, RA, EMR, Italia",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "15338812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1399724406",
+    "boundingbox": [
+      "48.7654504",
+      "48.7655504",
+      "44.5646163",
+      "44.5647163"
+    ],
+    "lat": "48.7655004",
+    "lon": "44.5646663",
+    "display_name": "Animals, 4, \u0427\u0438\u0441\u0442\u043e\u043e\u0437\u0451\u0440\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041a\u0440\u0430\u0441\u043d\u043e\u043e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434, \u0412\u043e\u043b\u0433\u043e\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u042e\u0424\u041e, 400007, \u0420\u0424",
+    "class": "amenity",
+    "type": "veterinary",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53776457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4122644251",
+    "boundingbox": [
+      "48.7289954",
+      "48.7290954",
+      "37.6020431",
+      "37.6021431"
+    ],
+    "lat": "48.7290454",
+    "lon": "37.6020931",
+    "display_name": "Animals, 19, \u041c\u0430\u0440\u0456\u0457 \u041f\u0440\u0438\u0439\u043c\u0430\u0447\u0435\u043d\u043a\u043e \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u043e\u0446\u0433\u043e\u0440\u043e\u0434, \u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a, \u041a\u0440\u0430\u043c\u0430\u0442\u043e\u0440\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 84300-84390, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16193769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1470665444",
+    "boundingbox": [
+      "48.1498777",
+      "48.1499777",
+      "17.1061772",
+      "17.1062772"
+    ],
+    "lat": "48.1499277",
+    "lon": "17.1062272",
+    "display_name": "Animals, Gunduli\u010dova, Evanjelick\u00e1 \u0161tvr\u0165, Oblas\u0165 Partiz\u00e1nska, Bratislava - mestsk\u00e1 \u010das\u0165 Star\u00e9 Mesto, Star\u00e9 Mesto, Bratislava, Bratislavsk\u00fd kraj, 811 05, Slovensko",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "24584954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2387120792",
+    "boundingbox": [
+      "50.4235135",
+      "50.4236135",
+      "15.8142306",
+      "15.8143306"
+    ],
+    "lat": "50.4235635",
+    "lon": "15.8142806",
+    "display_name": "Animals, Heydukova, Dv\u016fr Kr\u00e1lov\u00e9 nad Labem, okres Trutnov, Kr\u00e1lov\u00e9hradeck\u00fd kraj, Severov\u00fdchod, 54401, \u010cesko",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50709830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3792841415",
+    "boundingbox": [
+      "55.8340999",
+      "55.8341999",
+      "37.2759954",
+      "37.2760954"
+    ],
+    "lat": "55.8341499",
+    "lon": "37.2760454",
+    "display_name": "Animals, 6, \u0431\u0443\u043b\u044c\u0432\u0430\u0440 \u041a\u043e\u0441\u043c\u043e\u043d\u0430\u0432\u0442\u043e\u0432, \u0418\u0437\u0443\u043c\u0440\u0443\u0434\u043d\u044b\u0435 \u0445\u043e\u043b\u043c\u044b, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0440\u0430\u0441\u043d\u043e\u0433\u043e\u0440\u0441\u043a, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 143408, \u0420\u0424",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "147907198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "378709663",
+    "boundingbox": [
+      "6.8688083",
+      "6.8698255",
+      "80.7949713",
+      "80.7960764"
+    ],
+    "lat": "6.86929025",
+    "lon": "80.795531652019",
+    "display_name": "Animals, Road to New Zealand Farm, Ambewela, \u0db1\u0dd4\u0dc0\u0dbb\u0d91\u0dc5\u0dd2\u0dba \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba, Central Province, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "32152871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2767963939",
+    "boundingbox": [
+      "48.8253807",
+      "48.8254807",
+      "2.3276869",
+      "2.3277869"
+    ],
+    "lat": "48.8254307",
+    "lon": "2.3277369",
+    "display_name": "Animal's, Rue Prisse d'Avennes, Petit-Montrouge, 14e, Paris, \u00cele-de-France, 75014, France",
+    "class": "shop",
+    "type": "pet_supply",
+    "importance": 0.001
+  }
+]

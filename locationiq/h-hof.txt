@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "147969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "28979768",
+    "boundingbox": [
+      "50.2819015",
+      "50.3619015",
+      "11.8778807",
+      "11.9578807"
+    ],
+    "lat": "50.3219015",
+    "lon": "11.9178807",
+    "display_name": "Hof, Oberfranken, Bayern, Deutschland",
+    "class": "place",
+    "type": "town",
+    "importance": 0.5907671548613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160258700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62589",
+    "boundingbox": [
+      "50.2673889",
+      "50.3551141",
+      "11.8066265",
+      "11.971851"
+    ],
+    "lat": "50.31106375",
+    "lon": "11.8820701786852",
+    "display_name": "Hof, Oberfranken, Bayern, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5907671548613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160330450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "404601",
+    "boundingbox": [
+      "59.4469143",
+      "59.6643754",
+      "9.9154331",
+      "10.1602061"
+    ],
+    "lat": "59.554267",
+    "lon": "10.0436134594648",
+    "display_name": "Hof, Vestfold, Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "596904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240111116",
+    "boundingbox": [
+      "49.647037",
+      "50.927037",
+      "11.176663",
+      "12.456663"
+    ],
+    "lat": "50.287037",
+    "lon": "11.816663",
+    "display_name": "Hof, Oberfranken, Bayern, Deutschland",
+    "class": "place",
+    "type": "county",
+    "importance": 0.48397719612749,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "25467096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2435328453",
+    "boundingbox": [
+      "51.0618014",
+      "51.1018014",
+      "7.3355356",
+      "7.3755356"
+    ],
+    "lat": "51.0818014",
+    "lon": "7.3555356",
+    "display_name": "Hof, Oberbergischer Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 51688, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.47169479023248,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160609246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3146694",
+    "boundingbox": [
+      "49.9706978",
+      "50.4247696",
+      "11.5287509",
+      "12.2754108"
+    ],
+    "lat": "50.19773375",
+    "lon": "11.9314786883943",
+    "display_name": "Hof, H\u00f6henweg, Hallerstein, Schwarzenbach a.d.Saale, Landkreis Hof, Oberfranken, Bayern, 95126, Deutschland",
+    "class": "boundary",
+    "type": "political",
+    "importance": 0.40130071139371
+  },
+  {
+    "place_id": "16502558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1517467154",
+    "boundingbox": [
+      "48.7689414",
+      "48.8089414",
+      "13.173327",
+      "13.213327"
+    ],
+    "lat": "48.7889414",
+    "lon": "13.193327",
+    "display_name": "Hof, Sch\u00f6llnach (VGem), Landkreis Deggendorf, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38154297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2884032012",
+    "boundingbox": [
+      "49.1821051",
+      "49.2221051",
+      "12.675876",
+      "12.715876"
+    ],
+    "lat": "49.2021051",
+    "lon": "12.695876",
+    "display_name": "Hof, Landkreis Cham, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "948938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "289863142",
+    "boundingbox": [
+      "48.6139566",
+      "48.6539566",
+      "12.5702206",
+      "12.6102206"
+    ],
+    "lat": "48.6339566",
+    "lon": "12.5902206",
+    "display_name": "Hof, Mamming (VGem), Landkreis Dingolfing-Landau, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44770787",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3166196259",
+    "boundingbox": [
+      "48.5079682",
+      "48.5479682",
+      "13.147584",
+      "13.187584"
+    ],
+    "lat": "48.5279682",
+    "lon": "13.167584",
+    "display_name": "Hof, Landkreis Passau, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

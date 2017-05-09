@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "342411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150960232",
+    "boundingbox": [
+      "43.2351815",
+      "43.2751815",
+      "-114.4067131",
+      "-114.3667131"
+    ],
+    "lat": "43.2551815",
+    "lon": "-114.3867131",
+    "display_name": "Magic, Blaine County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "112965749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "208269777",
+    "boundingbox": [
+      "36.0308782",
+      "36.0326379",
+      "-114.9409252",
+      "-114.9409178"
+    ],
+    "lat": "36.0308782",
+    "lon": "-114.9409252",
+    "display_name": "Magic, Foothills, Henderson, Clark County, Nevada, 89015, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118123077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229049620",
+    "boundingbox": [
+      "-27.5402934",
+      "-27.5342291",
+      "153.2370477",
+      "153.2447475"
+    ],
+    "lat": "-27.5366488",
+    "lon": "153.2406495",
+    "display_name": "Magic, Alexandra Hills, Redland City, QLD, 4161, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "21487915",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2135388100",
+    "boundingbox": [
+      "52.0269919",
+      "52.0270919",
+      "8.5311945",
+      "8.5312945"
+    ],
+    "lat": "52.0270419",
+    "lon": "8.5312445",
+    "display_name": "magic, 1, J\u00f6llenbecker Stra\u00dfe, Mitte, Bielefeld, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33602, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "6011511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "607970282",
+    "boundingbox": [
+      "47.2682345",
+      "47.2683345",
+      "11.3919639",
+      "11.3920639"
+    ],
+    "lat": "47.2682845",
+    "lon": "11.3920139",
+    "display_name": "Magic, Herzog-Friedrich-Stra\u00dfe, Tivoli, Altstadt, Innsbruck, Innsbruck-Stadt, Tirol, 6020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "55344496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4312018290",
+    "boundingbox": [
+      "38.7442037",
+      "38.7443037",
+      "-9.1409689",
+      "-9.1408689"
+    ],
+    "lat": "38.7442537",
+    "lon": "-9.1409189",
+    "display_name": "Magic, Rua Augusto Gil, S\u00e3o Jo\u00e3o de Deus, Areeiro, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, 1000-105, Portugal",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2646692929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4560302463",
+    "boundingbox": [
+      "50.5962077",
+      "50.5963077",
+      "8.7127946",
+      "8.7128946"
+    ],
+    "lat": "50.5962577",
+    "lon": "8.7128446",
+    "display_name": "Magic, Oberlachweg, Wieseck, Gie\u00dfen, Landkreis Gie\u00dfen, Regierungsbezirk Gie\u00dfen, Hessen, 35394, Deutschland",
+    "class": "amenity",
+    "type": "gambling",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1390431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "312352994",
+    "boundingbox": [
+      "46.1923002",
+      "46.1924002",
+      "21.3086212",
+      "21.3087212"
+    ],
+    "lat": "46.1923502",
+    "lon": "21.3086712",
+    "display_name": "Magic, Calea Aurel Vlaicu, Parc Industrial UTA 1, Arad, 310399, Rom\u00e2nia",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "25468867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2456525173",
+    "boundingbox": [
+      "49.972132",
+      "49.972232",
+      "6.5230625",
+      "6.5231625"
+    ],
+    "lat": "49.972182",
+    "lon": "6.5231125",
+    "display_name": "Magic, Karenweg, Bitburg, Eifelkreis Bitburg-Pr\u00fcm, Rheinland-Pfalz, 54634, Deutschland",
+    "class": "leisure",
+    "type": "adult_gaming_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54559858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4218272654",
+    "boundingbox": [
+      "49.4392663",
+      "49.4393663",
+      "11.0835349",
+      "11.0836349"
+    ],
+    "lat": "49.4393163",
+    "lon": "11.0835849",
+    "display_name": "Magic, 120, Humboldtstra\u00dfe, Tafelhof, N\u00fcrnberg, Mittelfranken, Bayern, 90459, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

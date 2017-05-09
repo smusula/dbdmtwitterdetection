@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160417948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1360666",
+    "boundingbox": [
+      "52.0099371",
+      "52.0614507",
+      "4.1396143",
+      "4.2124344"
+    ],
+    "lat": "52.0355468",
+    "lon": "4.1800931477294",
+    "display_name": "Monster, Westland, MRDH, Zuid-Holland, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4439472180372,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7892354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "858088589",
+    "boundingbox": [
+      "51.986011",
+      "52.066011",
+      "4.1341508",
+      "4.2141508"
+    ],
+    "lat": "52.026011",
+    "lon": "4.1741508",
+    "display_name": "Monster, MRDH, Zuid-Holland, Nederland, 2681, Nederland",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4439472180372,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "829601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "273510436",
+    "boundingbox": [
+      "51.8025101",
+      "52.1225101",
+      "7.4651879",
+      "7.7851879"
+    ],
+    "lat": "51.9625101",
+    "lon": "7.6251879",
+    "display_name": "M\u00fcnster, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, Deutschland",
+    "class": "place",
+    "type": "city",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "55663261",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4313741086",
+    "boundingbox": [
+      "43.6511435",
+      "43.6512435",
+      "-79.3693717",
+      "-79.3692717"
+    ],
+    "lat": "43.6511935",
+    "lon": "-79.3693217",
+    "display_name": "Monster, King Street East, St. Lawrence, Old Toronto, Toronto, Ontario, M5A 1J7, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609503592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4484040515",
+    "boundingbox": [
+      "50.5007145",
+      "50.5008145",
+      "3.9909574",
+      "3.9910574"
+    ],
+    "lat": "50.5007645",
+    "lon": "3.9910074",
+    "display_name": "MonsTer, Rue Grande, Mons, Hainaut, Wallonie, 7034, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "13205855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1223947839",
+    "boundingbox": [
+      "41.4856405",
+      "41.4857405",
+      "-82.6877137",
+      "-82.6876137"
+    ],
+    "lat": "41.4856905",
+    "lon": "-82.6876637",
+    "display_name": "Monster, Perimeter Road, Sandusky, Erie County, Ohio, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "2650707294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470689217",
+    "boundingbox": [
+      "44.799937",
+      "44.8001375",
+      "-93.4553949",
+      "-93.4551182"
+    ],
+    "lat": "44.8000414",
+    "lon": "-93.455257725",
+    "display_name": "Monster, County Road 101, Shakopee, Scott County, Minnesota, 55379, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "48453433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3530332761",
+    "boundingbox": [
+      "39.9326827",
+      "39.9327827",
+      "116.445823",
+      "116.445923"
+    ],
+    "lat": "39.9327327",
+    "lon": "116.445873",
+    "display_name": "Monster, \u5de5\u4eba\u4f53\u80b2\u573a\u5317\u8def, \u8f9b\u5e84\u6751, \u671d\u9633\u533a / Chaoyang, \u5317\u4eac\u5e02, 100027, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2648106139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4592165889",
+    "boundingbox": [
+      "37.555697",
+      "37.555797",
+      "126.9198243",
+      "126.9199243"
+    ],
+    "lat": "37.555747",
+    "lon": "126.9198743",
+    "display_name": "Monster, \ub3d9\uad50\ub85c, \uc11c\uad50\ub3d9 (Seogyo-dong), \ub9c8\ud3ec\uad6c, \uc11c\uc6b8\ud2b9\ubcc4\uc2dc, 04031, \ub300\ud55c\ubbfc\uad6d",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "111653033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203196681",
+    "boundingbox": [
+      "-8.7090624",
+      "-8.7083749",
+      "116.2731909",
+      "116.2735814"
+    ],
+    "lat": "-8.70860695",
+    "lon": "116.273422073682",
+    "display_name": "Monster, Gajah Mada, Praya, Kabupaten Lombok Tengah, Nusa Tenggara Barat, 83511, Indonesia",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160354137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "555017",
+    "boundingbox": [
+      "16.5899443",
+      "18.7256394",
+      "-78.5782365",
+      "-75.7541142"
+    ],
+    "lat": "18.1850507",
+    "lon": "-77.3947692",
+    "display_name": "Jamaica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.83000362311024,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "481000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158810950",
+    "boundingbox": [
+      "40.6914352",
+      "40.6915352",
+      "-73.805727",
+      "-73.805627"
+    ],
+    "lat": "40.6914852",
+    "lon": "-73.805677",
+    "display_name": "Jamaica, Queens County, NYC, New York, 11435, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.53935804697341
+  },
+  {
+    "place_id": "138422258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326464531",
+    "boundingbox": [
+      "40.6994568",
+      "40.7002116",
+      "-73.808205",
+      "-73.807195"
+    ],
+    "lat": "40.69983135",
+    "lon": "-73.8077027537026",
+    "display_name": "Jamaica, Sutphin Boulevard, Jamaica, Queens County, NYC, New York, 11435, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.43122765667354,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160597230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3018787",
+    "boundingbox": [
+      "-21.6291181",
+      "-21.4329999",
+      "-51.7150668",
+      "-51.5905469"
+    ],
+    "lat": "-21.53031175",
+    "lon": "-51.6268713125",
+    "display_name": "Jamaica, Dracena, Microrregi\u00e3o de Dracena, Mesorregi\u00e3o de Presidente Prudente, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "156505916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426681886",
+    "boundingbox": [
+      "4.7744066",
+      "4.7785351",
+      "-75.6995458",
+      "-75.6954615"
+    ],
+    "lat": "4.77662305",
+    "lon": "-75.6971242010961",
+    "display_name": "Jamaica, Pereira, Risaralda, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "48687452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3595961342",
+    "boundingbox": [
+      "20.1537886",
+      "20.2337886",
+      "-75.1840701",
+      "-75.1040701"
+    ],
+    "lat": "20.1937886",
+    "lon": "-75.1440701",
+    "display_name": "Jamaica, Manuel Tames, Guant\u00e1namo, Cuba",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160472685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2017759",
+    "boundingbox": [
+      "43.0500335",
+      "43.166234",
+      "-72.8724647",
+      "-72.7080787"
+    ],
+    "lat": "43.100482",
+    "lon": "-72.7789309",
+    "display_name": "Jamaica, Windham County, Vermont, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "416968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153812947",
+    "boundingbox": [
+      "39.9711467",
+      "40.0111467",
+      "-87.8266938",
+      "-87.7866938"
+    ],
+    "lat": "39.9911467",
+    "lon": "-87.8066938",
+    "display_name": "Jamaica, Vermilion County, Illinois, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.37916594894371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158409062",
+    "boundingbox": [
+      "37.6951407",
+      "37.7351407",
+      "-76.7141245",
+      "-76.6741245"
+    ],
+    "lat": "37.7151407",
+    "lon": "-76.6941245",
+    "display_name": "Jamaica, Middlesex County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "427066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153944372",
+    "boundingbox": [
+      "31.2318938",
+      "31.2718938",
+      "-81.6723293",
+      "-81.6323293"
+    ],
+    "lat": "31.2518938",
+    "lon": "-81.6523293",
+    "display_name": "Jamaica, Glynn County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

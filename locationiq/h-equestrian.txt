@@ -1,0 +1,165 @@
+[
+  {
+    "place_id": "154455622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "416408088",
+    "boundingbox": [
+      "42.5118846",
+      "42.5120965",
+      "-83.4285733",
+      "-83.4285613"
+    ],
+    "lat": "42.5120444",
+    "lon": "-83.4285733",
+    "display_name": "Equestrian, Farmington Hills, Oakland County, Michigan, 48377, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59369724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8684100",
+    "boundingbox": [
+      "42.5127846",
+      "42.5136596",
+      "-83.4308269",
+      "-83.4282953"
+    ],
+    "lat": "42.5135114",
+    "lon": "-83.4293621",
+    "display_name": "Equestrian, Citation Club Apartments, Farmington Hills, Oakland County, Michigan, 48377, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63593210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15143227",
+    "boundingbox": [
+      "29.715709",
+      "29.719733",
+      "-98.6419889",
+      "-98.6393099"
+    ],
+    "lat": "29.718098",
+    "lon": "-98.6413699",
+    "display_name": "Equestrian, Fair Oaks Ranch, Bexar County, Texas, 78015, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "125499105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260129325",
+    "boundingbox": [
+      "43.0834415",
+      "43.0837235",
+      "-86.15855",
+      "-86.1579282"
+    ],
+    "lat": "43.0835751",
+    "lon": "-86.1580908",
+    "display_name": "Equestrian, Ottawa County, Michigan, 49456, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "119387533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234031998",
+    "boundingbox": [
+      "47.0596108",
+      "47.0601444",
+      "-122.8706485",
+      "-122.8698331"
+    ],
+    "lat": "47.05982915",
+    "lon": "-122.870240539367",
+    "display_name": "equestrian, Miller Avenue Northeast, Olympia, Thurston County, Washington, 98506, United States of America",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.111
+  },
+  {
+    "place_id": "119461214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234031995",
+    "boundingbox": [
+      "47.0596327",
+      "47.0601003",
+      "-122.8697875",
+      "-122.8694251"
+    ],
+    "lat": "47.05976695",
+    "lon": "-122.869608135941",
+    "display_name": "equestrian, 20th Avenue Northeast, South Bay, Thurston County, Washington, 98506, United States of America",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.111
+  },
+  {
+    "place_id": "121432717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242788724",
+    "boundingbox": [
+      "47.2237963",
+      "47.224382",
+      "7.0859529",
+      "7.0867869"
+    ],
+    "lat": "47.2240518",
+    "lon": "7.08618815443055",
+    "display_name": "Equestrian, Les Reussilles, Tramelan, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern - Berne, 2720, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "143294324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "355205704",
+    "boundingbox": [
+      "6.4594327",
+      "6.4604022",
+      "100.5040901",
+      "100.5052406"
+    ],
+    "lat": "6.4598549",
+    "lon": "100.504684132341",
+    "display_name": "Equestrian, Persiaran Perdana, Sintok, K Pasu;Kbg Pasu, Kedah, Malaysia",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56235108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4407370494",
+    "boundingbox": [
+      "41.9882707",
+      "41.9883707",
+      "21.4520343",
+      "21.4521343"
+    ],
+    "lat": "41.9883207",
+    "lon": "21.4520843",
+    "display_name": "\u0435\u043a\u0432\u0435\u0441\u0442\u0440\u0438\u0458\u0430\u043d, 19, \u0411\u0443\u043b\u0435\u0432\u0430\u0440 \u041a\u0443\u0437\u043c\u0430\u043d \u0408\u043e\u0441\u0438\u0444\u043e\u0432\u0441\u043a\u0438 \u041f\u0438\u0442\u0443, \u041e\u0441\u0442\u0440\u043e\u0432\u043e, \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c, \u0421\u043a\u043e\u043f\u0458\u0435, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0410\u0435\u0440\u043e\u0434\u0440\u043e\u043c, \u0413\u0440\u0430\u0434 \u0421\u043a\u043e\u043f\u0458\u0435, \u0421\u043a\u043e\u043f\u0441\u043a\u0438 \u0420\u0435\u0433\u0438\u043e\u043d, 1000, \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

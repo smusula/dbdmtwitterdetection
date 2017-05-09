@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160671161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3592494",
+    "boundingbox": [
+      "-35.0152095",
+      "-29.4987562",
+      "-65.7719836",
+      "-61.7715952"
+    ],
+    "lat": "-32.096736",
+    "lon": "-63.7940922",
+    "display_name": "Cba., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5343853307579,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160301984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "274991",
+    "boundingbox": [
+      "-44.0657006",
+      "-40.2375761",
+      "-75.1277699",
+      "-71.580847"
+    ],
+    "lat": "-42.3008439",
+    "lon": "-73.1053869",
+    "display_name": "X Regi\u00f3n de Los Lagos, Chile",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49321506162639,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160250402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "52832",
+    "boundingbox": [
+      "60.1886492",
+      "62.3440385",
+      "14.446645",
+      "18.1306484"
+    ],
+    "lat": "61.26138005",
+    "lon": "16.6987099095337",
+    "display_name": "G\u00e4vleborgs l\u00e4n, Norrland, Sverige",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48252379851999,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "159715280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444741799",
+    "boundingbox": [
+      "51.4839929",
+      "51.4986302",
+      "11.5814884",
+      "11.5941579"
+    ],
+    "lat": "51.4916736",
+    "lon": "11.5882712",
+    "display_name": "x, Eisleben, Landkreis Mansfeld-S\u00fcdharz, Sachsen-Anhalt, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "17053354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1607495066",
+    "boundingbox": [
+      "-20.2689209",
+      "-19.6289209",
+      "-68.8155517",
+      "-68.1755517"
+    ],
+    "lat": "-19.9489209",
+    "lon": "-68.4955517",
+    "display_name": "X, Municipio Llica, Provincia Daniel Campos, PSI, Bolivia",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2654575182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4745043836",
+    "boundingbox": [
+      "43.9057517",
+      "43.9058517",
+      "15.4105325",
+      "15.4106325"
+    ],
+    "lat": "43.9058017",
+    "lon": "15.4105825",
+    "display_name": "X, Zadar, Zadarska \u017eupanija, Hrvatska",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "27007023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2564104230",
+    "boundingbox": [
+      "16.2152567",
+      "16.2552567",
+      "1.3266725",
+      "1.3666725"
+    ],
+    "lat": "16.2352567",
+    "lon": "1.3466725",
+    "display_name": "x, Cercle d'Ansongo, Gao, Mali",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.385,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22096631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2178143781",
+    "boundingbox": [
+      "-10.8232056",
+      "-10.7832056",
+      "165.8290276",
+      "165.8690276"
+    ],
+    "lat": "-10.8032056",
+    "lon": "165.8490276",
+    "display_name": "x, Temotu Province, Solomon Islands",
+    "class": "place",
+    "type": "village",
+    "importance": 0.385,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "498343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158821521",
+    "boundingbox": [
+      "42.0662057",
+      "42.1062057",
+      "-72.5778654",
+      "-72.5378654"
+    ],
+    "lat": "42.0862057",
+    "lon": "-72.5578654",
+    "display_name": "The X, Hampden County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4631257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501430743",
+    "boundingbox": [
+      "12.3706",
+      "12.4106",
+      "10.5624",
+      "10.6024"
+    ],
+    "lat": "12.3906",
+    "lon": "10.5824",
+    "display_name": "X, Zaki, Bauchi, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

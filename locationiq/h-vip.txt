@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "103919384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170618456",
+    "boundingbox": [
+      "51.0968192",
+      "51.0988549",
+      "3.7567604",
+      "3.7603675"
+    ],
+    "lat": "51.09767665",
+    "lon": "3.75888664399056",
+    "display_name": "VIP, Oostakker, Gent, Oost-Vlaanderen, Vlaanderen, 9041, Belgi\u00eb - Belgique - Belgien",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2652556309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475976387",
+    "boundingbox": [
+      "9.895556",
+      "9.902869",
+      "-84.2578469",
+      "-84.2524479"
+    ],
+    "lat": "9.899931",
+    "lon": "-84.2552509",
+    "display_name": "VIP, Barrio San Bosco, Col\u00f3n, Cant\u00f3n Mora, Provincia San Jos\u00e9, 10701, Costa Rica",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "53132369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4029771490",
+    "boundingbox": [
+      "45.254772",
+      "45.254872",
+      "19.83488",
+      "19.83498"
+    ],
+    "lat": "45.254822",
+    "lon": "19.83493",
+    "display_name": "vip, \u041d\u043e\u0432\u043e\u0441\u0430\u0434\u0441\u043a\u043e\u0433 \u0421\u0430\u0458\u043c\u0430, \u0421\u0430\u0458\u043c\u0438\u0448\u0442\u0435, \u041d\u043e\u0432\u0438 \u0421\u0430\u0434, \u0413\u0440\u0430\u0434 \u041d\u043e\u0432\u0438 \u0421\u0430\u0434, \u0408\u0443\u0436\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430, 21101, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.111
+  },
+  {
+    "place_id": "19969968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1993084824",
+    "boundingbox": [
+      "45.7974763",
+      "45.7975763",
+      "15.9744481",
+      "15.9745481"
+    ],
+    "lat": "45.7975263",
+    "lon": "15.9744981",
+    "display_name": "VIP, Miramarska cesta, Trnje, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "41839802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3045809762",
+    "boundingbox": [
+      "-34.5669334",
+      "-34.5668334",
+      "-58.451324",
+      "-58.451224"
+    ],
+    "lat": "-34.5668834",
+    "lon": "-58.451274",
+    "display_name": "Vip, Avenida Cabildo, Barrio Chino, CABA, Comuna 13, CABA, C1426EBB, Argentina",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "46017959",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3267513988",
+    "boundingbox": [
+      "47.9047446",
+      "47.9048446",
+      "1.9025565",
+      "1.9026565"
+    ],
+    "lat": "47.9047946",
+    "lon": "1.9026065",
+    "display_name": "VIP, Rue Bannier, Rue Anatole France, Orl\u00e9ans, Loiret, Centre-Val de Loire, 45000, France",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19743045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1944059588",
+    "boundingbox": [
+      "45.037954",
+      "45.038054",
+      "9.6834304",
+      "9.6835304"
+    ],
+    "lat": "45.038004",
+    "lon": "9.6834804",
+    "display_name": "VIP, Via Vittorio Cipelli, Infrangibile, Piacenza, PC, EMR, 29121, Italia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "79866512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62166431",
+    "boundingbox": [
+      "43.0568374",
+      "43.057168",
+      "-89.4985662",
+      "-89.4982553"
+    ],
+    "lat": "43.0570027",
+    "lon": "-89.49841075",
+    "display_name": "VIP, Odana Road, Madison, Dane County, Wisconsin, 53719, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "144521427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363306665",
+    "boundingbox": [
+      "38.5773019",
+      "38.5774817",
+      "68.7346274",
+      "68.7349035"
+    ],
+    "lat": "38.57739235",
+    "lon": "68.7347645141407",
+    "display_name": "VIP, \u041a\u04ef\u0447\u0430\u0438 \u0411\u0430\u04b3\u043e\u0432\u0438\u0434\u0434\u0438\u043d\u043e\u0432, \u0414\u0443\u0448\u0430\u043d\u0431\u0435, \u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0434\u0430\u043a\u04e3, \u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3, 734064, \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6050237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "618367132",
+    "boundingbox": [
+      "45.4861241",
+      "45.4862241",
+      "16.370918",
+      "16.371018"
+    ],
+    "lat": "45.4861741",
+    "lon": "16.370968",
+    "display_name": "Vip, Rimska ulica, Pogorelac, Sisak, Sisa\u010dko-Moslava\u010dka \u017eupanija, 44000, Hrvatska",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "115147836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217799790",
+    "boundingbox": [
+      "49.1203183",
+      "49.1207398",
+      "-1.0848696",
+      "-1.0838274"
+    ],
+    "lat": "49.12056",
+    "lon": "-1.0844124",
+    "display_name": "BMX, La Butte, Saint-L\u00f4, Manche, Normandie, 50000, France",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155425372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421175301",
+    "boundingbox": [
+      "45.0730233",
+      "45.073883",
+      "5.0675627",
+      "5.0683701"
+    ],
+    "lat": "45.0735074",
+    "lon": "5.0679868",
+    "display_name": "BMX, Mours-Saint-Eus\u00e8be, Valence, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 26540, France",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138480602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326920041",
+    "boundingbox": [
+      "50.9949295",
+      "50.9957368",
+      "5.2596303",
+      "5.260844"
+    ],
+    "lat": "50.9951411",
+    "lon": "5.2601025",
+    "display_name": "BMX, Zolder, Heusden-Zolder, Hasselt, Limburg, Vlaanderen, 3550, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116838219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224699701",
+    "boundingbox": [
+      "-33.3744773",
+      "-33.372757",
+      "115.6386957",
+      "115.6397257"
+    ],
+    "lat": "-33.3738053",
+    "lon": "115.639264694273",
+    "display_name": "BMX, Dalyellup, Bunbury, Western Australia, 6230, Australia",
+    "class": "highway",
+    "type": "raceway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "77597938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50834022",
+    "boundingbox": [
+      "46.178407",
+      "46.1788934",
+      "6.1506263",
+      "6.151339"
+    ],
+    "lat": "46.1788258",
+    "lon": "6.1509203",
+    "display_name": "bmx, Val d'Arve, Carouge (GE), Gen\u00e8ve, 1234, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.185
+  },
+  {
+    "place_id": "120962862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240634611",
+    "boundingbox": [
+      "38.4049528",
+      "38.4054011",
+      "-0.5352634",
+      "-0.5344166"
+    ],
+    "lat": "38.405118",
+    "lon": "-0.5349077",
+    "display_name": "bmx, Bonanova, San Vicente del Raspeig/Sant Vicent del Raspeig, Alacant\u00ed, Alicante/Alacant, Comunitat Valenciana, 03690, Espa\u00f1a",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "3538828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369143862",
+    "boundingbox": [
+      "59.3461111",
+      "59.3761111",
+      "-155.273611",
+      "-155.243611"
+    ],
+    "lat": "59.3611111",
+    "lon": "-155.258611",
+    "display_name": "Big Mountain Airport, Lake and Peninsula, Alaska, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.18177847009039,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "120675878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239435451",
+    "boundingbox": [
+      "59.4988079",
+      "59.4993218",
+      "18.0797304",
+      "18.0808935"
+    ],
+    "lat": "59.4989752",
+    "lon": "18.0804883",
+    "display_name": "BMX, Byle, T\u00e4by kyrkby, T\u00e4by, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 18776, Sverige",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "144343132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362147221",
+    "boundingbox": [
+      "59.7369894",
+      "59.7378086",
+      "17.7957271",
+      "17.7964798"
+    ],
+    "lat": "59.7374452",
+    "lon": "17.7962884492308",
+    "display_name": "BMX, Lustigkulla, Knivsta, Landskapet Uppland, Uppsala l\u00e4n, Svealand, 74131, Sverige",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "118511422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230558159",
+    "boundingbox": [
+      "44.5592896",
+      "44.5598548",
+      "4.7733798",
+      "4.7748765"
+    ],
+    "lat": "44.5594936",
+    "lon": "4.7740185",
+    "display_name": "BMX, Route de Saint-Gervais, Mont\u00e9limar, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 26200, France",
+    "class": "leisure",
+    "type": "track",
+    "importance": 0.101
+  }
+]

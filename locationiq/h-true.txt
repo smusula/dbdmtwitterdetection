@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "438937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154364406",
+    "boundingbox": [
+      "37.560675",
+      "37.600675",
+      "-80.9561984",
+      "-80.9161984"
+    ],
+    "lat": "37.580675",
+    "lon": "-80.9361984",
+    "display_name": "True, Summers County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38123150335342,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "381120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151853444",
+    "boundingbox": [
+      "33.2598317",
+      "33.2998317",
+      "-98.7486724",
+      "-98.7086724"
+    ],
+    "lat": "33.2798317",
+    "lon": "-98.7286724",
+    "display_name": "True, Young County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "39577872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2930863457",
+    "boundingbox": [
+      "56.7022045",
+      "56.7422045",
+      "9.7434898",
+      "9.7834898"
+    ],
+    "lat": "56.7222045",
+    "lon": "9.7634898",
+    "display_name": "True, Mariagerfjord Kommune, Region Nordjylland, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160856898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5467539",
+    "boundingbox": [
+      "54.4703021",
+      "54.4815533",
+      "-6.6854801",
+      "-6.6698684"
+    ],
+    "lat": "54.4759038",
+    "lon": "-6.67729225948123",
+    "display_name": "True, Moy, County Tyrone, Northern Ireland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "102605256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165633447",
+    "boundingbox": [
+      "27.4674406",
+      "27.6435011",
+      "113.3854858",
+      "113.5709518"
+    ],
+    "lat": "27.5565682",
+    "lon": "113.47972",
+    "display_name": "\u94c1\u6cb3, \u91b4\u9675\u5e02, \u91b4\u9675\u5e02 (Liling), \u682a\u6d32\u5e02 / Zhuzhou, \u6e56\u5357\u7701, \u4e2d\u56fd",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "4025968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "428915004",
+    "boundingbox": [
+      "56.1558387",
+      "56.1958387",
+      "10.0694169",
+      "10.1094169"
+    ],
+    "lat": "56.1758387",
+    "lon": "10.0894169",
+    "display_name": "True, Aarhus Kommune, Region Midtjylland, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.26095925177046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61753418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12156246",
+    "boundingbox": [
+      "32.8671953",
+      "32.8680381",
+      "-80.0376425",
+      "-80.0364015"
+    ],
+    "lat": "32.8676263",
+    "lon": "-80.0370179",
+    "display_name": "True, North Charleston, Charleston County, South Carolina, 29418, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55719032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4335005089",
+    "boundingbox": [
+      "46.4792066",
+      "46.4793066",
+      "30.7494083",
+      "30.7495083"
+    ],
+    "lat": "46.4792566",
+    "lon": "30.7494583",
+    "display_name": "True, 1, \u0421\u0430\u0431\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0432\u0443\u043b\u043e\u043a, \u041b\u0430\u043d\u0436\u0435\u0440\u043e\u043d, \u041e\u0434\u0435\u0441\u0430, \u041f\u0440\u0438\u043c\u043e\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041e\u0434\u0435\u0441\u0430, \u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 65014, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "27020017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2558022673",
+    "boundingbox": [
+      "12.9238405",
+      "12.9239405",
+      "100.8791025",
+      "100.8792025"
+    ],
+    "lat": "12.9238905",
+    "lon": "100.8791525",
+    "display_name": "True, \u0e1e\u0e31\u0e17\u0e22\u0e32\u0e43\u0e15\u0e49, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20260, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "office",
+    "type": "telecommunication",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648898281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4609761605",
+    "boundingbox": [
+      "13.8161614",
+      "13.8162614",
+      "100.5598092",
+      "100.5599092"
+    ],
+    "lat": "13.8162114",
+    "lon": "100.5598592",
+    "display_name": "True, \u0e16\u0e19\u0e19\u0e27\u0e34\u0e20\u0e32\u0e27\u0e14\u0e35\u0e23\u0e31\u0e07\u0e2a\u0e34\u0e15, \u0e23\u0e31\u0e0a\u0e42\u0e22\u0e18\u0e34\u0e19, \u0e40\u0e02\u0e15\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10900, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  }
+]

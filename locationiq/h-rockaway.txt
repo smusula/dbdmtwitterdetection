@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "160284746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170550",
+    "boundingbox": [
+      "40.883449",
+      "40.911764",
+      "-74.5364109",
+      "-74.4969049"
+    ],
+    "lat": "40.9012101",
+    "lon": "-74.5143231",
+    "display_name": "Rockaway, Morris County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44968791288845,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "413250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153963630",
+    "boundingbox": [
+      "41.063111",
+      "41.103111",
+      "-83.0740812",
+      "-83.0340812"
+    ],
+    "lat": "41.083111",
+    "lon": "-83.0540812",
+    "display_name": "Rockaway, Seneca County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158608960",
+    "boundingbox": [
+      "37.8315304",
+      "37.8715304",
+      "-78.2838927",
+      "-78.2438927"
+    ],
+    "lat": "37.8515304",
+    "lon": "-78.2638927",
+    "display_name": "Rockaway, Fluvanna County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.34761685113657,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

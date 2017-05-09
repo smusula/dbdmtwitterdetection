@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "72761403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33253304",
+    "boundingbox": [
+      "33.5468",
+      "33.551821",
+      "-84.4871979",
+      "-84.4835239"
+    ],
+    "lat": "33.54966",
+    "lon": "-84.4847199",
+    "display_name": "Morning Creek, Atlanta, Fulton County, Georgia, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121348978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242495675",
+    "boundingbox": [
+      "40.6235236",
+      "40.6237279",
+      "-82.3261855",
+      "-82.3259152"
+    ],
+    "lat": "40.6236275",
+    "lon": "-82.3260504421242",
+    "display_name": "Morning Glory Spillway, Ashland County, Ohio, United States of America",
+    "class": "waterway",
+    "type": "spillway",
+    "importance": 0.425
+  },
+  {
+    "place_id": "72754381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33244241",
+    "boundingbox": [
+      "33.51615",
+      "33.517709",
+      "-84.4604329",
+      "-84.4588409"
+    ],
+    "lat": "33.516836",
+    "lon": "-84.4596159",
+    "display_name": "Morning Creek, Fayette County, Georgia, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "73027782",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33156969",
+    "boundingbox": [
+      "33.479713",
+      "33.487439",
+      "-84.4234659",
+      "-84.4157899"
+    ],
+    "lat": "33.483019",
+    "lon": "-84.4207279",
+    "display_name": "Morning Creek, Fayetteville, Fayette County, Georgia, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

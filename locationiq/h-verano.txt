@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160251739",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "47281",
+    "boundingbox": [
+      "46.5900719",
+      "46.6547479",
+      "11.2020819",
+      "11.2945513"
+    ],
+    "lat": "46.6053657",
+    "lon": "11.2262711",
+    "display_name": "V\u00f6ran - Verano, Burggrafenamt - Burgraviato, BZ, TAA, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57450976462456,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160249040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "45792",
+    "boundingbox": [
+      "45.6696216",
+      "45.7002592",
+      "9.2091509",
+      "9.2380394"
+    ],
+    "lat": "45.688677",
+    "lon": "9.224544",
+    "display_name": "Verano Brianza, MB, LOM, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51300354611713,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "72764960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33258446",
+    "boundingbox": [
+      "38.286994",
+      "38.307274",
+      "-122.5030319",
+      "-122.4763679"
+    ],
+    "lat": "38.297128",
+    "lon": "-122.491964165152",
+    "display_name": "El Verano, Grove Street, El Verano, Sonoma County, California, 95476, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "350263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150981827",
+    "boundingbox": [
+      "38.2776922",
+      "38.3176922",
+      "-122.5116479",
+      "-122.4716479"
+    ],
+    "lat": "38.2976922",
+    "lon": "-122.4916479",
+    "display_name": "El Verano, Sonoma County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "344330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150946695",
+    "boundingbox": [
+      "38.2826921",
+      "38.3226921",
+      "-122.4949806",
+      "-122.4549806"
+    ],
+    "lat": "38.3026921",
+    "lon": "-122.4749806",
+    "display_name": "Verano, Sonoma County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12878116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1225213985",
+    "boundingbox": [
+      "44.7104463",
+      "44.7504463",
+      "9.4841637",
+      "9.5241637"
+    ],
+    "lat": "44.7304463",
+    "lon": "9.5041637",
+    "display_name": "Verano, PC, EMR, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "531497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198449405",
+    "boundingbox": [
+      "-37.7533329",
+      "-37.7133329",
+      "-58.5699999",
+      "-58.5299999"
+    ],
+    "lat": "-37.7333329",
+    "lon": "-58.5499999",
+    "display_name": "El Verano, Partido de Balcarce, Bs. As., Argentina",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41829844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3044786702",
+    "boundingbox": [
+      "25.0661419",
+      "25.1061419",
+      "-105.4605938",
+      "-105.4205938"
+    ],
+    "lat": "25.0861419",
+    "lon": "-105.4405938",
+    "display_name": "El Verano, Santiago Papasquiaro, Durango, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160809325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4869217",
+    "boundingbox": [
+      "45.6770551",
+      "45.6983354",
+      "9.2163851",
+      "9.2343225"
+    ],
+    "lat": "45.6875744",
+    "lon": "9.2253707185556",
+    "display_name": "verano, Verano Brianza, MB, LOM, 20050, Italia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.31
+  },
+  {
+    "place_id": "88094358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108534091",
+    "boundingbox": [
+      "30.402981",
+      "30.4047506",
+      "-97.7138929",
+      "-97.7109622"
+    ],
+    "lat": "30.4038333",
+    "lon": "-97.7123893900586",
+    "display_name": "Verano, Austin, Travis County, Texas, 78727, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

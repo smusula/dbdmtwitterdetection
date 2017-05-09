@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "82388214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82292474",
+    "boundingbox": [
+      "37.6278694",
+      "37.6284735",
+      "-122.4255233",
+      "-122.4249444"
+    ],
+    "lat": "37.62823305",
+    "lon": "-122.425271084668",
+    "display_name": "YouTube, 900, Cherry Avenue, Tanforan, San Bruno, San Mateo County, California, 94066, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.83198584064964
+  },
+  {
+    "place_id": "81544038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74467005",
+    "boundingbox": [
+      "37.6273945",
+      "37.6288518",
+      "-122.4270734",
+      "-122.4258114"
+    ],
+    "lat": "37.6281439",
+    "lon": "-122.426421364669",
+    "display_name": "YouTube, 901, Cherry Avenue, Tanforan, San Bruno, San Mateo County, California, 94066, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.83198584064964
+  },
+  {
+    "place_id": "82375456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "82292478",
+    "boundingbox": [
+      "37.6288623",
+      "37.6295465",
+      "-122.4261587",
+      "-122.4252272"
+    ],
+    "lat": "37.6291599",
+    "lon": "-122.425517684338",
+    "display_name": "YouTube, 1000, Cherry Avenue, Tanforan, San Bruno, San Mateo County, California, 94066, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.83198584064964
+  },
+  {
+    "place_id": "29414919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2708766362",
+    "boundingbox": [
+      "33.9769255",
+      "33.9770255",
+      "-118.4070245",
+      "-118.4069245"
+    ],
+    "lat": "33.9769755",
+    "lon": "-118.4069745",
+    "display_name": "YouTube, West Bluff Creek Drive, The Campus at Playa Vista, Playa Vista, LA, Los Angeles County, California, 90045, United States of America",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.101
+  }
+]

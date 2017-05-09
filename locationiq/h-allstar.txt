@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "39989329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2946622110",
+    "boundingbox": [
+      "47.0320268",
+      "47.0321268",
+      "15.417912",
+      "15.418012"
+    ],
+    "lat": "47.0320768",
+    "lon": "15.417962",
+    "display_name": "Allstar, 20, Weblinger G\u00fcrtel, Shopping Center West, Stra\u00dfgang, Graz, Steiermark, 8054, \u00d6sterreich",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "8301999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "893397454",
+    "boundingbox": [
+      "48.1834415",
+      "48.1835415",
+      "11.5791151",
+      "11.5792151"
+    ],
+    "lat": "48.1834915",
+    "lon": "11.5791651",
+    "display_name": "Allstar, 96, Milbertshofener Stra\u00dfe, Bezirksteil Milbertshofen, Stadtbezirk 11 Milbertshofen-Am Hart, M\u00fcnchen, OB, Bayern, 80807, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "976986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "292640642",
+    "boundingbox": [
+      "63.8262139",
+      "63.8263139",
+      "20.2593866",
+      "20.2594866"
+    ],
+    "lat": "63.8262639",
+    "lon": "20.2594366",
+    "display_name": "Allstar, Renmarkstorget, Centrum, Centrala stan, Ume\u00e5, V\u00e4sterbotten, V\u00e4sterbottens l\u00e4n, Norrland, 90326, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "3245262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "361063523",
+    "boundingbox": [
+      "65.5834366",
+      "65.5835366",
+      "22.1440188",
+      "22.1441188"
+    ],
+    "lat": "65.5834866",
+    "lon": "22.1440688",
+    "display_name": "Allstar, 11, Storgatan, Varvet, Lule\u00e5, Norrbotten, Norrbottens l\u00e4n, Norrland, 97238, Sverige",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "30906892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2742665978",
+    "boundingbox": [
+      "65.825157",
+      "65.825257",
+      "21.6895343",
+      "21.6896343"
+    ],
+    "lat": "65.825207",
+    "lon": "21.6895843",
+    "display_name": "Allstar, Kungsgatan, Sanden, Boden, Norrbotten, Norrbottens l\u00e4n, Norrland, 96173, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

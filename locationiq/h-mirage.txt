@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "72977753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33957359",
+    "boundingbox": [
+      "36.1198571",
+      "36.1236354",
+      "-115.1789197",
+      "-115.1732324"
+    ],
+    "lat": "36.121746",
+    "lon": "-115.175126115009",
+    "display_name": "The Mirage, 3400, South Las Vegas Boulevard, Hughes Center, Paradise, Clark County, Nevada, 89109, United States of America",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.48571516302754,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "339268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150933261",
+    "boundingbox": [
+      "34.5822132",
+      "34.6222132",
+      "-117.6511674",
+      "-117.6111674"
+    ],
+    "lat": "34.6022132",
+    "lon": "-117.6311674",
+    "display_name": "El Mirage, San Bernardino County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.44109039448439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "340275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150951742",
+    "boundingbox": [
+      "33.4530338",
+      "33.7730338",
+      "-112.4844865",
+      "-112.1644865"
+    ],
+    "lat": "33.6130338",
+    "lon": "-112.3244865",
+    "display_name": "El Mirage, Maricopa County, Arizona, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.41791837080539,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "381789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151830335",
+    "boundingbox": [
+      "32.3100868",
+      "32.3500868",
+      "-107.6805827",
+      "-107.6405827"
+    ],
+    "lat": "32.3300868",
+    "lon": "-107.6605827",
+    "display_name": "Mirage, Luna County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "78953435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56446743",
+    "boundingbox": [
+      "43.5887244",
+      "43.5908606",
+      "-79.6545422",
+      "-79.6518342"
+    ],
+    "lat": "43.5897864",
+    "lon": "-79.6537365019153",
+    "display_name": "Mirage, Erindale, Ont., Peel Region, Ontario, L4Z3V5, Canada",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159597407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443804302",
+    "boundingbox": [
+      "39.7416049",
+      "39.7421452",
+      "19.6492121",
+      "19.6501415"
+    ],
+    "lat": "39.7419629",
+    "lon": "19.6496996556731",
+    "display_name": "Mirage, \u0391\u03c1\u03af\u03bb\u03bb\u03b1\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u039a\u03ad\u03c1\u03ba\u03c5\u03c1\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0399\u03cc\u03bd\u03b9\u03c9\u03bd \u03bd\u03b7\u03c3\u03b9\u03ce\u03bd, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u03a0\u03b5\u03bb\u03bf\u03c0\u03bf\u03bd\u03bd\u03ae\u03c3\u03bf\u03c5, \u0394\u03c5\u03c4\u03b9\u03ba\u03ae\u03c2 \u0395\u03bb\u03bb\u03ac\u03b4\u03b1\u03c2 \u03ba\u03b1\u03b9 \u0399\u03bf\u03bd\u03af\u03bf\u03c5, 49081, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "24678935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2408299313",
+    "boundingbox": [
+      "14.5267382",
+      "14.5268382",
+      "-90.4671357",
+      "-90.4670357"
+    ],
+    "lat": "14.5267882",
+    "lon": "-90.4670857",
+    "display_name": "La Mirage, Residenciales El Porvenir, KM. 18, Guatemala",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "60938669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10937690",
+    "boundingbox": [
+      "30.488133",
+      "30.489624",
+      "-87.1673789",
+      "-87.1626649"
+    ],
+    "lat": "30.48867",
+    "lon": "-87.1652699",
+    "display_name": "La Mirage, Pensacola, Escambia County, Florida, 32504, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116431887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222952307",
+    "boundingbox": [
+      "40.7087982",
+      "40.7093559",
+      "-80.0588122",
+      "-80.0584479"
+    ],
+    "lat": "40.70902175",
+    "lon": "-80.0586305294159",
+    "display_name": "Mirage, Adams Township, Butler County, Pennsylvania, 16046, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "102151108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164043061",
+    "boundingbox": [
+      "14.5106846",
+      "14.5129747",
+      "121.0000256",
+      "121.0002475"
+    ],
+    "lat": "14.5118487",
+    "lon": "121.0002412",
+    "display_name": "Mirage, Concorde Subdivision, Tambo, Para\u00f1aque, Metro Manila, 1701, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "47944526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3489429038",
+    "boundingbox": [
+      "50.740374",
+      "50.740474",
+      "2.2617345",
+      "2.2618345"
+    ],
+    "lat": "50.740424",
+    "lon": "2.2617845",
+    "display_name": "La frite qui roule (foodtruck), All\u00e9e des Bruy\u00e8res, Fort Maillebois, Longuenesse, Saint-Omer, Pas-de-Calais, Hauts-de-France, 62219, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2652861132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4704488031",
+    "boundingbox": [
+      "44.7959338",
+      "44.7960338",
+      "-0.6159115",
+      "-0.6158115"
+    ],
+    "lat": "44.7959838",
+    "lon": "-0.6158615",
+    "display_name": "Foodtruck bio, Esplanade des Antilles, Saige, Pessac, Bordeaux, Gironde, Nouvelle-Aquitaine, 33600, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2653488802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4718862890",
+    "boundingbox": [
+      "51.8367455",
+      "51.8368455",
+      "4.993741",
+      "4.993841"
+    ],
+    "lat": "51.8367955",
+    "lon": "4.993791",
+    "display_name": "Loempia Kraam, Doctor H.B. Wiardi Beckmanplein, Laag Dalem, Gorinchem, Zuid-Holland, Nederland, 4207NB, Nederland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

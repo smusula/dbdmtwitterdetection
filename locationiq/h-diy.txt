@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "84440425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93119024",
+    "boundingbox": [
+      "37.8701508",
+      "37.9150439",
+      "40.1778392",
+      "40.2193276"
+    ],
+    "lat": "37.8922732",
+    "lon": "40.1993453519152",
+    "display_name": "Diyarbak\u0131r Havaliman\u0131, Diyarbak\u0131r-Mardin yolu, Diyarbak\u0131r, Alip\u0131nar Mahallesi, Ba\u011flar, Diyarbak\u0131r, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, 21300, T\u00fcrkiye",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2651440330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4671457702",
+    "boundingbox": [
+      "37.8854882",
+      "37.9154882",
+      "40.1686016",
+      "40.1986016"
+    ],
+    "lat": "37.9004882",
+    "lon": "40.1836016",
+    "display_name": "Diyarbak\u0131r Havaalan\u0131, Qami\u015flo Bulvar\u0131, Ba\u011fc\u0131lar Mahallesi, A\u011fa\u00e7ge\u00e7it, Ba\u011flar, Diyarbak\u0131r, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36259541148672,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "70178989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26966053",
+    "boundingbox": [
+      "50.8876629",
+      "50.8898287",
+      "0.5538743",
+      "0.5558484"
+    ],
+    "lat": "50.88903545",
+    "lon": "0.555033104302347",
+    "display_name": "DIY, Silverhill Park, Hastings, East Sussex, South East, England, TN34, UK",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "151207981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "397554718",
+    "boundingbox": [
+      "47.585028",
+      "47.5865159",
+      "-121.8739179",
+      "-121.8701049"
+    ],
+    "lat": "47.585966",
+    "lon": "-121.8719603",
+    "display_name": "DIY, Spring Glen, King County, Washington, 98024, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "56210457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4365014787",
+    "boundingbox": [
+      "54.9537305",
+      "54.9538305",
+      "-1.544839",
+      "-1.544739"
+    ],
+    "lat": "54.9537805",
+    "lon": "-1.544789",
+    "display_name": "DIY, Shields Road, Wardley, Gateshead, Tyne and Wear, North East England, England, NE10 0RL, UK",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51720149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3878279444",
+    "boundingbox": [
+      "23.9986542",
+      "23.9987542",
+      "121.6406984",
+      "121.6407984"
+    ],
+    "lat": "23.9987042",
+    "lon": "121.6407484",
+    "display_name": "DIY, \u6e2f\u901a\u8def, \u82b1\u84ee\u5e02, \u82b1\u84ee\u7e23, 970, \u81fa\u7063",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "20103781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1996967216",
+    "boundingbox": [
+      "42.9341864",
+      "42.9342864",
+      "-3.4858574",
+      "-3.4857574"
+    ],
+    "lat": "42.9342364",
+    "lon": "-3.4858074",
+    "display_name": "DIY, 20, Calle Juan de Medina, Medinabella 2, Barrio del Pradillo, Medina de Pomar, Las Merindades, Burgos, Castilla y Le\u00f3n, 09500, Espa\u00f1a",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18133957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1763096477",
+    "boundingbox": [
+      "16.050911",
+      "16.051011",
+      "120.3417206",
+      "120.3418206"
+    ],
+    "lat": "16.050961",
+    "lon": "120.3417706",
+    "display_name": "Diy, Arellano, Mariesville, Dagupan, Pangasinan, Ilocos Region, 2400, Philippines",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18137321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1740112851",
+    "boundingbox": [
+      "17.1835567",
+      "17.1836567",
+      "120.4446076",
+      "120.4447076"
+    ],
+    "lat": "17.1836067",
+    "lon": "120.4446576",
+    "display_name": "The DIY, Manila North Road, Candon, Ilocos Sur, Ilocos Region, 2710, Philippines",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55271528",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4269690597",
+    "boundingbox": [
+      "53.906367",
+      "53.906467",
+      "27.5572716",
+      "27.5573716"
+    ],
+    "lat": "53.906417",
+    "lon": "27.5573216",
+    "display_name": "DIY, 6, \u0417\u044b\u0431\u0438\u0446\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0412\u0435\u0440\u0445\u043d\u0438\u0439 \u0433\u043e\u0440\u043e\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a, 721810, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

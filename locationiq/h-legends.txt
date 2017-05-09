@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "16959614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1623893740",
+    "boundingbox": [
+      "25.0589562",
+      "25.0989562",
+      "55.2736776",
+      "55.3136776"
+    ],
+    "lat": "25.0789562",
+    "lon": "55.2936776",
+    "display_name": "Legends, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "142482824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "349285462",
+    "boundingbox": [
+      "29.9708701",
+      "29.9734005",
+      "-81.4844006",
+      "-81.4791295"
+    ],
+    "lat": "29.9723378",
+    "lon": "-81.481856034931",
+    "display_name": "The Legends, St. Johns County, Florida, 32092, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "51406546",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3843395141",
+    "boundingbox": [
+      "42.3320402",
+      "42.3321402",
+      "-83.0417925",
+      "-83.0416925"
+    ],
+    "lat": "42.3320902",
+    "lon": "-83.0417425",
+    "display_name": "Legends, Congress Street East, Detroit, Wayne County, Michigan, 48226, United States of America",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654724492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4748452102",
+    "boundingbox": [
+      "46.7705615",
+      "46.7706615",
+      "23.6089749",
+      "23.6090749"
+    ],
+    "lat": "46.7706115",
+    "lon": "23.6090249",
+    "display_name": "Legends, 10, Strada Septimiu Albini, Gheorgheni, Cluj-Napoca, Cluj, 400440, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "15964733",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1458845357",
+    "boundingbox": [
+      "50.8196069",
+      "50.8197069",
+      "-0.1329277",
+      "-0.1328277"
+    ],
+    "lat": "50.8196569",
+    "lon": "-0.1328777",
+    "display_name": "Legends, 31-34, Marine Parade, Kemptown, Brighton, Brighton and Hove, South East, England, BN2 1TR, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "35519081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2826794185",
+    "boundingbox": [
+      "52.3929773",
+      "52.3930773",
+      "-1.5727698",
+      "-1.5726698"
+    ],
+    "lat": "52.3930273",
+    "lon": "-1.5727198",
+    "display_name": "Legends, Charter Avenue, Kirby Corner, Westwood Heath, Coventry, West Midlands, England, CV4 8BX, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "123327597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "250493823",
+    "boundingbox": [
+      "36.1562879",
+      "36.1566786",
+      "-95.9849066",
+      "-95.9844341"
+    ],
+    "lat": "36.156496",
+    "lon": "-95.9846840551082",
+    "display_name": "Legends, East 2nd Street, Blue Dome District, Tulsa, Tulsa County, Oklahoma, 74120, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15384773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1404775837",
+    "boundingbox": [
+      "42.6524141",
+      "42.6525141",
+      "-73.7511783",
+      "-73.7510783"
+    ],
+    "lat": "42.6524641",
+    "lon": "-73.7511283",
+    "display_name": "Legends, North Pearl Street, Downtown, Albany, Albany County, New York, 12204, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "4407737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "482007023",
+    "boundingbox": [
+      "54.5627913",
+      "54.5628913",
+      "-1.3132766",
+      "-1.3131766"
+    ],
+    "lat": "54.5628413",
+    "lon": "-1.3132266",
+    "display_name": "Legends, High Street, Portrack, Stockton-on-Tees, North East England, England, TS18 1AU, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "20115216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2009134872",
+    "boundingbox": [
+      "53.7078318",
+      "53.7079318",
+      "-1.6270012",
+      "-1.6269012"
+    ],
+    "lat": "53.7078818",
+    "lon": "-1.6269512",
+    "display_name": "Legends, Bradford Road, Batley Carr, Kirklees, Yorkshire and the Humber, England, WF12, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "160251964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "52434",
+    "boundingbox": [
+      "51.8986426",
+      "51.9004305",
+      "-2.1257776",
+      "-2.1228688"
+    ],
+    "lat": "51.89953515",
+    "lon": "-2.12536486460619",
+    "display_name": "GCHQ, The Street, Fiddler's Green, Cheltenham, Gloucestershire, South West England, England, GL51 0EX, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.40796308292329
+  },
+  {
+    "place_id": "56883452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "2960232",
+    "boundingbox": [
+      "52.8408123",
+      "52.8429587",
+      "0.2420326",
+      "0.2455838"
+    ],
+    "lat": "52.84192345",
+    "lon": "0.243811723317457",
+    "display_name": "Outer Trial Bank, King's Lynn and West Norfolk, Norfolk, East of England, England, UK",
+    "class": "place",
+    "type": "island",
+    "importance": 0.18177847009039
+  },
+  {
+    "place_id": "40932038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3001823069",
+    "boundingbox": [
+      "-43.3372163",
+      "-43.3371163",
+      "171.9278349",
+      "171.9279349"
+    ],
+    "lat": "-43.3371663",
+    "lon": "171.9278849",
+    "display_name": "Doughnut, West Coast Road, Springfield, Selwyn District, Canterbury, New Zealand/Aotearoa",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "97742326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145340190",
+    "boundingbox": [
+      "53.2374027",
+      "53.2381767",
+      "-1.4274335",
+      "-1.4258013"
+    ],
+    "lat": "53.23778635",
+    "lon": "-1.42663969314744",
+    "display_name": "Holywell Cross Car Park, Saltergate, Stonegravels, Chesterfield, Derbyshire, East Midlands, England, S41 7SA, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "146437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27365045",
+    "boundingbox": [
+      "51.5083085",
+      "51.5483085",
+      "-0.0394815",
+      "0.0005185"
+    ],
+    "lat": "51.5283085",
+    "lon": "-0.0194815",
+    "display_name": "Bow, London Borough of Tower Hamlets, London, Greater London, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.51848620205597,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160320298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "357266",
+    "boundingbox": [
+      "43.07635",
+      "43.1789637",
+      "-71.6284999",
+      "-71.4619203"
+    ],
+    "lat": "43.133061",
+    "lon": "-71.5491489",
+    "display_name": "Bow, Merrimack County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45429461659391,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "93410392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "127741499",
+    "boundingbox": [
+      "51.0475174",
+      "51.0482056",
+      "-114.0626132",
+      "-114.061317"
+    ],
+    "lat": "51.04786335",
+    "lon": "-114.061748620548",
+    "display_name": "The Bow, 500, 6 Avenue SE, Chinatown, Calgary, Alberta, T2P 2V7, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.4321866047208
+  },
+  {
+    "place_id": "22077708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2183782898",
+    "boundingbox": [
+      "51.6252423",
+      "51.6652423",
+      "-1.525094",
+      "-1.485094"
+    ],
+    "lat": "51.6452423",
+    "lon": "-1.505094",
+    "display_name": "Bow, Oxon, South East, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42838707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3111351815",
+    "boundingbox": [
+      "55.2058037",
+      "55.2059037",
+      "-4.3479056",
+      "-4.3478056"
+    ],
+    "lat": "55.2058537",
+    "lon": "-4.3478556",
+    "display_name": "Bow, Dumfries and Galloway, Scotland, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "179702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "31716262",
+    "boundingbox": [
+      "50.7810211",
+      "50.8210211",
+      "-3.835025",
+      "-3.795025"
+    ],
+    "lat": "50.8010211",
+    "lon": "-3.815025",
+    "display_name": "Bow, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23613289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2339225597",
+    "boundingbox": [
+      "50.377132",
+      "50.417132",
+      "-3.6931919",
+      "-3.6531919"
+    ],
+    "lat": "50.397132",
+    "lon": "-3.6731919",
+    "display_name": "Bow, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "461419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158458126",
+    "boundingbox": [
+      "40.4403451",
+      "40.4803451",
+      "-79.3794827",
+      "-79.3394827"
+    ],
+    "lat": "40.4603451",
+    "lon": "-79.3594827",
+    "display_name": "Bow, Indiana County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "308709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "115096282",
+    "boundingbox": [
+      "-32.1349999",
+      "-32.0949999",
+      "150.2311111",
+      "150.2711111"
+    ],
+    "lat": "-32.1149999",
+    "lon": "150.2511111",
+    "display_name": "Bow, Upper Hunter, NSW, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "348638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150976811",
+    "boundingbox": [
+      "48.5417742",
+      "48.5817742",
+      "-122.4182193",
+      "-122.3782193"
+    ],
+    "lat": "48.5617742",
+    "lon": "-122.3982193",
+    "display_name": "Bow, Skagit County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35247139157771,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

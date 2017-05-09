@@ -1,0 +1,150 @@
+[
+  {
+    "place_id": "280654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "76892789",
+    "boundingbox": [
+      "52.049249",
+      "52.059249",
+      "-0.537414",
+      "-0.527414"
+    ],
+    "lat": "52.054249",
+    "lon": "-0.532414",
+    "display_name": "Millbrook, Station Road, Marston Moretaine CP, Marston Moretaine, Central Bedfordshire, East of England, England, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.23865352680439,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "99503957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154203632",
+    "boundingbox": [
+      "42.2795343",
+      "42.2801879",
+      "-83.7392983",
+      "-83.7387409"
+    ],
+    "lat": "42.2798626",
+    "lon": "-83.7390196159398",
+    "display_name": "MLB, East Washington Street, Ann Arbor, Washtenaw County, Michigan, 48104, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "114964884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217003645",
+    "boundingbox": [
+      "3.83061",
+      "3.8309764",
+      "11.4810533",
+      "11.4816542"
+    ],
+    "lat": "3.8307947",
+    "lon": "11.4813575197115",
+    "display_name": "MLB, bekoko-oekocenter, Biyem-Assi, Yaound\u00e9 VI, CUY, Mfoundi, CE, 35626, Cameroun",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54423847",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4191216039",
+    "boundingbox": [
+      "37.4066934",
+      "37.4067934",
+      "126.683438",
+      "126.683538"
+    ],
+    "lat": "37.4067434",
+    "lon": "126.683488",
+    "display_name": "MLB, \uccad\ub2a5\ub300\ub85c, \uc5f0\uc218\ub3d9, \uc5f0\uc218\uad6c, \uc778\ucc9c, 21537, \ub300\ud55c\ubbfc\uad6d",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2645773373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4538970245",
+    "boundingbox": [
+      "37.4938863",
+      "37.4939863",
+      "126.7233531",
+      "126.7234531"
+    ],
+    "lat": "37.4939363",
+    "lon": "126.7234031",
+    "display_name": "MLB, \ubd80\ud3c9\ubb38\ud654\ub85c, \ubd80\ud3c9\ub3d9, \ubd80\ud3c9\uad6c, \uc778\ucc9c, 21394, \ub300\ud55c\ubbfc\uad6d",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "52528807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3983556522",
+    "boundingbox": [
+      "34.890156",
+      "34.890256",
+      "128.6223405",
+      "128.6224405"
+    ],
+    "lat": "34.890206",
+    "lon": "128.6223905",
+    "display_name": "MLB, 1930, \uac70\uc81c\uc911\uc559\ub85c, \uace0\ud604\ub3d9, \uacbd\ub0a8, \ub300\ud55c\ubbfc\uad6d",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84218880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "92109605",
+    "boundingbox": [
+      "28.0926299",
+      "28.1136187",
+      "-80.671331",
+      "-80.6229011"
+    ],
+    "lat": "28.1027201",
+    "lon": "-80.648157912358",
+    "display_name": "Melbourne International Airport, Tower Access Road, Melbourne, Brevard County, Florida, 32901, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "44616258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3167706854",
+    "boundingbox": [
+      "56.0747603",
+      "56.0748603",
+      "13.7372057",
+      "13.7373057"
+    ],
+    "lat": "56.0748103",
+    "lon": "13.7372557",
+    "display_name": "Mellby, M 1902, Tormestorp, H\u00e4ssleholm, Sk\u00e5ne, G\u00f6taland, 28146, Sverige",
+    "class": "railway",
+    "type": "technical_station",
+    "importance": 0.001
+  }
+]

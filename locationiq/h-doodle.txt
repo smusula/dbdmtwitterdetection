@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "2997429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357946710",
+    "boundingbox": [
+      "46.0298768",
+      "46.0299768",
+      "-112.5059046",
+      "-112.5058046"
+    ],
+    "lat": "46.0299268",
+    "lon": "-112.5058546",
+    "display_name": "Yankee Doodle Tailings Dam, Butte, Silver Bow County, Montana, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "81664972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "77025848",
+    "boundingbox": [
+      "45.1691374",
+      "45.1811764",
+      "-67.3102348",
+      "-67.299962"
+    ],
+    "lat": "45.1741219",
+    "lon": "-67.3051711",
+    "display_name": "Doodle Brook, St. Stephen, Charlotte County, New Brunswick, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3340409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "359275575",
+    "boundingbox": [
+      "34.3952543",
+      "34.3953543",
+      "-112.4024396",
+      "-112.4023396"
+    ],
+    "lat": "34.3953043",
+    "lon": "-112.4023896",
+    "display_name": "Yankee Doodle Peak, Yavapai County, Arizona, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2609997885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6704513",
+    "boundingbox": [
+      "46.034856",
+      "46.0645926",
+      "-112.5268761",
+      "-112.4815411"
+    ],
+    "lat": "46.049708",
+    "lon": "-112.505792130095",
+    "display_name": "Yankee Doodle Tailings Pond, Butte, Silver Bow County, Montana, 59701, United States of America",
+    "class": "landuse",
+    "type": "basin",
+    "importance": 0.3
+  },
+  {
+    "place_id": "60470542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10168718",
+    "boundingbox": [
+      "41.108596",
+      "41.1095785",
+      "-73.4090167",
+      "-73.4083164"
+    ],
+    "lat": "41.1091509",
+    "lon": "-73.4090001",
+    "display_name": "Yankee Doodle Court, Norwalk, Fairfield County, Connecticut, 06851, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60890565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10872049",
+    "boundingbox": [
+      "41.23268",
+      "41.2345581",
+      "-74.8938979",
+      "-74.8916795"
+    ],
+    "lat": "41.23345",
+    "lon": "-74.8926039",
+    "display_name": "Doodle Hollow Road, Delaware Township, Pike County, Pennsylvania, 18328, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66892301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20332265",
+    "boundingbox": [
+      "37.829962",
+      "37.830859",
+      "-76.9942379",
+      "-76.9867629"
+    ],
+    "lat": "37.830748",
+    "lon": "-76.9904559",
+    "display_name": "Doodle Lane, King and Queen County, Virginia, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129990703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286473769",
+    "boundingbox": [
+      "39.5456054",
+      "39.5456781",
+      "-76.3800235",
+      "-76.37978"
+    ],
+    "lat": "39.545675",
+    "lon": "-76.3799001",
+    "display_name": "Yankee Doodle Drive, Parliament Ridge, Bel Air North, Harford County, Maryland, 21014, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129989757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286473777",
+    "boundingbox": [
+      "39.5454503",
+      "39.5454823",
+      "-76.379799",
+      "-76.3795944"
+    ],
+    "lat": "39.54548",
+    "lon": "-76.3797044",
+    "display_name": "Yankee Doodle Drive, Parliament Ridge, Bel Air North, Harford County, Maryland, 21014, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64459555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16496852",
+    "boundingbox": [
+      "34.938303",
+      "34.938411",
+      "-78.9594269",
+      "-78.9576349"
+    ],
+    "lat": "34.938338",
+    "lon": "-78.9589689",
+    "display_name": "Doodle Bug Drive, Colonial Heights, Cumberland County, North Carolina, 28348, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

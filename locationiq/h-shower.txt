@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160861115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5588215",
+    "boundingbox": [
+      "52.7046066",
+      "52.7178168",
+      "-8.4619404",
+      "-8.4212174"
+    ],
+    "lat": "52.7111398",
+    "lon": "-8.43997433034163",
+    "display_name": "Shower, Newport, Nenagh, County Tipperary, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "17069258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1602090879",
+    "boundingbox": [
+      "10.8328721",
+      "10.8329721",
+      "72.1805533",
+      "72.1806533"
+    ],
+    "lat": "10.8329221",
+    "lon": "72.1806033",
+    "display_name": "shower, agatti village center, Lakshadweep, India",
+    "class": "amenity",
+    "type": "fountain",
+    "importance": 0.111
+  },
+  {
+    "place_id": "144669216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "364182305",
+    "boundingbox": [
+      "45.4786364",
+      "45.4786919",
+      "-1.0417131",
+      "-1.0416313"
+    ],
+    "lat": "45.4786641",
+    "lon": "-1.04167219989261",
+    "display_name": "Shower, Route du Port, Talais, Lesparre-M\u00e9doc, Gironde, Nouvelle-Aquitaine, 33590, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159761126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444877522",
+    "boundingbox": [
+      "51.7770072",
+      "51.7771174",
+      "0.9452657",
+      "0.9455083"
+    ],
+    "lat": "51.77706235",
+    "lon": "0.9453869952447",
+    "display_name": "Shower, Farriers Way, West Mersea CP, Colchester, Essex, East of England, England, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94423671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131280352",
+    "boundingbox": [
+      "36.4937026",
+      "36.4937614",
+      "-121.1461283",
+      "-121.1460594"
+    ],
+    "lat": "36.493732",
+    "lon": "-121.146093837405",
+    "display_name": "Shower, RV Turnaround, Pinnacles, San Benito County, California, United States of America",
+    "class": "amenity",
+    "type": "shower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55268782",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4285662887",
+    "boundingbox": [
+      "47.5789879",
+      "47.5790879",
+      "-122.197183",
+      "-122.197083"
+    ],
+    "lat": "47.5790379",
+    "lon": "-122.197133",
+    "display_name": "Shower, East Channel Bridge, Mercer Island, King County, Washington, 98004, United States of America",
+    "class": "amenity",
+    "type": "shower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46777435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3381618113",
+    "boundingbox": [
+      "42.5712113",
+      "42.5713113",
+      "-88.4261641",
+      "-88.4260641"
+    ],
+    "lat": "42.5712613",
+    "lon": "-88.4261141",
+    "display_name": "Shower, Wilmont Boulevard, Walworth County, Wisconsin, 53147, United States of America",
+    "class": "amenity",
+    "type": "shower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27178828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2550266733",
+    "boundingbox": [
+      "46.1735582",
+      "46.1736582",
+      "-123.958258",
+      "-123.958158"
+    ],
+    "lat": "46.1736082",
+    "lon": "-123.958208",
+    "display_name": "Shower, Parkview Apartments Driveway, Warrenton, Clatsop County, Oregon, 97121, United States of America",
+    "class": "amenity",
+    "type": "showers",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49146875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3653587493",
+    "boundingbox": [
+      "44.9700643",
+      "44.9701643",
+      "-124.0121519",
+      "-124.0120519"
+    ],
+    "lat": "44.9701143",
+    "lon": "-124.0121019",
+    "display_name": "Shower, Devils Lake State Park, Oceanlake, Lincoln City, Lincoln County, Oregon, 97367, United States of America",
+    "class": "amenity",
+    "type": "shower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "91371652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119774858",
+    "boundingbox": [
+      "43.4432199",
+      "43.4433224",
+      "-86.1894985",
+      "-86.189364"
+    ],
+    "lat": "43.44327115",
+    "lon": "-86.18943125",
+    "display_name": "Shower, Indian Trail, Muskegon County, Michigan, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

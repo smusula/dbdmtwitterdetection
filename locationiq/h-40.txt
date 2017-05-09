@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160215500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7376",
+    "boundingbox": [
+      "43.4874507",
+      "44.5323828",
+      "-1.5333762",
+      "0.1366211"
+    ],
+    "lat": "44.00996945",
+    "lon": "-0.643387185446738",
+    "display_name": "Landes, Nouvelle-Aquitaine, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.59325079562686,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2651333769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61947879",
+    "boundingbox": [
+      "45.0981017",
+      "45.1060843",
+      "141.7727683",
+      "141.7777002"
+    ],
+    "lat": "45.1020142",
+    "lon": "141.775630869848",
+    "display_name": "40, \u8c4a\u5bcc\u753a, \u5929\u5869\u90e1, \u5b97\u8c37\u7dcf\u5408\u632f\u8208\u5c40, \u5317\u6d77\u9053, \u65e5\u672c",
+    "class": "place",
+    "type": "island",
+    "importance": 0.435
+  },
+  {
+    "place_id": "122997961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249265565",
+    "boundingbox": [
+      "8.5917147",
+      "8.5988913",
+      "-81.9450975",
+      "-81.9344107"
+    ],
+    "lat": "8.5966065",
+    "lon": "-81.9403798",
+    "display_name": "40, Comarca Ng\u00e4be-Bugl\u00e9, Panam\u00e1",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.435
+  },
+  {
+    "place_id": "160294422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "190580",
+    "boundingbox": [
+      "60.264214",
+      "60.2893227",
+      "24.9755251",
+      "25.0406039"
+    ],
+    "lat": "60.283019",
+    "lon": "25.0064817",
+    "display_name": "Suutarila, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, Suomi",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41835445476798,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160281367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "154452",
+    "boundingbox": [
+      "38.8199336",
+      "39.7987628",
+      "33.3830895",
+      "34.7048405"
+    ],
+    "lat": "39.3303066",
+    "lon": "34.1265884",
+    "display_name": "K\u0131r\u015fehir, \u0130\u00e7 Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41300354611713,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160750462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4142846",
+    "boundingbox": [
+      "41.4246511",
+      "41.4449929",
+      "2.1260263",
+      "2.1486555"
+    ],
+    "lat": "41.4319032",
+    "lon": "2.1416084",
+    "display_name": "Montbau, Horta-Guinard\u00f3, Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4039994037711,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160399240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1280466",
+    "boundingbox": [
+      "34.154288",
+      "35.6728814",
+      "6.497298",
+      "7.549142"
+    ],
+    "lat": "34.9133455",
+    "lon": "6.90594309388086",
+    "display_name": "Khenchela - \u062e\u0646\u0634\u0644\u0629, RADP",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3740320746879,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "77890890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52136536",
+    "boundingbox": [
+      "45.4701141",
+      "45.4710232",
+      "-122.6914781",
+      "-122.6894484"
+    ],
+    "lat": "45.4705733",
+    "lon": "-122.690660726173",
+    "display_name": "Fred Meyer, 7555, Southwest Barbur Boulevard, Collins View, Burlingame, Portland, Multnomah County, Oregon, 97219, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.35185343041668,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "160628671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3163006",
+    "boundingbox": [
+      "51.5083585",
+      "51.5342019",
+      "6.9860935",
+      "7.0245101"
+    ],
+    "lat": "51.523574",
+    "lon": "7.0088793",
+    "display_name": "Karnap, Stadtbezirk V, Siedlung Mathias-Stinnes, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.34434558847462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "107799737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186376949",
+    "boundingbox": [
+      "46.0588481",
+      "46.060009",
+      "7.1421627",
+      "7.1487361"
+    ],
+    "lat": "46.0594242",
+    "lon": "7.1455495",
+    "display_name": "Pouta Ravenna, Orsi\u00e8res, Entremont, Valais - Wallis, 2303, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  }
+]

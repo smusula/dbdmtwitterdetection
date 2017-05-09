@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "46731537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3371470602",
+    "boundingbox": [
+      "-32.2875316",
+      "-32.2675316",
+      "149.3688121",
+      "149.3888121"
+    ],
+    "lat": "-32.2775316",
+    "lon": "149.3788121",
+    "display_name": "Mariah, 1610, Spring Ridge, Mid-Western, NSW, Australia",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2609846235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4492216348",
+    "boundingbox": [
+      "-11.2296585",
+      "-11.2295585",
+      "132.3804303",
+      "132.3805303"
+    ],
+    "lat": "-11.2296085",
+    "lon": "132.3804803",
+    "display_name": "Mariah, Northern Territory, Australia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "62455092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13304460",
+    "boundingbox": [
+      "33.5840351",
+      "33.5841578",
+      "-117.7209757",
+      "-117.7203251"
+    ],
+    "lat": "33.5841578",
+    "lon": "-117.7209757",
+    "display_name": "Mariah, Aliso Viejo, Orange County, California, 92656, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59332734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7846601",
+    "boundingbox": [
+      "32.338183",
+      "32.340094",
+      "-99.7081639",
+      "-99.7008639"
+    ],
+    "lat": "32.340054",
+    "lon": "-99.7045809",
+    "display_name": "Mariah, Potosi, Taylor County, Texas, 79602, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2646182540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3658281632",
+    "boundingbox": [
+      "-26.9183157",
+      "-26.9182157",
+      "-49.0668213",
+      "-49.0667213"
+    ],
+    "lat": "-26.9182657",
+    "lon": "-49.0667713",
+    "display_name": "Mariah, 1100, Rua 15 de Novembro, Centro, Blumenau, Microrregi\u00e3o de Blumenau, Mesorregi\u00e3o do Vale do Itaja\u00ed, SC, Regi\u00e3o Sul, 89010-002, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

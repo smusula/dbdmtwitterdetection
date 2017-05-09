@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160257139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "60189",
+    "boundingbox": [
+      "41.1858711",
+      "82.0586232",
+      "-179.9999999",
+      "180"
+    ],
+    "lat": "64.6863136",
+    "lon": "97.7453061",
+    "display_name": "\u0420\u0424",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.90026769687694,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160289341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182717",
+    "boundingbox": [
+      "40.226398",
+      "40.241081",
+      "-84.4240489",
+      "-84.3881019"
+    ],
+    "lat": "40.2344927",
+    "lon": "-84.4093939",
+    "display_name": "Russia, Shelby County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "465926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158310338",
+    "boundingbox": [
+      "43.238706",
+      "43.278706",
+      "-75.1022829",
+      "-75.0622829"
+    ],
+    "lat": "43.258706",
+    "lon": "-75.0822829",
+    "display_name": "Russia, Town of Russia, Herkimer County, New York, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "485245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158838672",
+    "boundingbox": [
+      "44.6536537",
+      "44.6936537",
+      "-73.802087",
+      "-73.762087"
+    ],
+    "lat": "44.6736537",
+    "lon": "-73.782087",
+    "display_name": "Russia, Clinton County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "499854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158820068",
+    "boundingbox": [
+      "41.020653",
+      "41.060653",
+      "-74.552658",
+      "-74.512658"
+    ],
+    "lat": "41.040653",
+    "lon": "-74.532658",
+    "display_name": "Russia, Morris County, New Jersey, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21616471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2147841278",
+    "boundingbox": [
+      "5.5381834",
+      "5.5781834",
+      "-0.2727247",
+      "-0.2327247"
+    ],
+    "lat": "5.5581834",
+    "lon": "-0.2527247",
+    "display_name": "Russia, Accra, Accra Metropolitan, Greater Accra Region, Ghana",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "78333468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53364567",
+    "boundingbox": [
+      "40.363595",
+      "40.3643129",
+      "0.3894593",
+      "0.3905216"
+    ],
+    "lat": "40.3642922",
+    "lon": "0.389978",
+    "display_name": "Russia, Pen\u00edscola / Pe\u00f1\u00edscola, Baix Maestrat, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, 12528, Espa\u00f1a",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129941870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286195561",
+    "boundingbox": [
+      "11.1981672",
+      "11.199261",
+      "125.0022996",
+      "125.0032479"
+    ],
+    "lat": "11.199071",
+    "lon": "125.0024565",
+    "display_name": "Russia, Rainbow Village, Marasbaras, Barangay 109-A, Tacloban, Leyte, Eastern Visayas, 6500, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85837942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99136595",
+    "boundingbox": [
+      "11.1979558",
+      "11.1986492",
+      "125.0024521",
+      "125.0030033"
+    ],
+    "lat": "11.1979558",
+    "lon": "125.0030033",
+    "display_name": "Russia, Rainbow Village, Marasbaras, Barangay 81, Tacloban, Leyte, Eastern Visayas, 6500, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90205973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115811867",
+    "boundingbox": [
+      "14.4842279",
+      "14.4867292",
+      "121.0265615",
+      "121.0273007"
+    ],
+    "lat": "14.4854707",
+    "lon": "121.0266821",
+    "display_name": "Russia, Camella Homes Para\u00f1aque 3, Don Bosco, Para\u00f1aque, Metro Manila, 1711, Philippines",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  }
+]

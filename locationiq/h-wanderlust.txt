@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "111746293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203447566",
+    "boundingbox": [
+      "35.994604",
+      "35.9946469",
+      "-115.0488918",
+      "-115.0488256"
+    ],
+    "lat": "35.9946221",
+    "lon": "-115.0488542",
+    "display_name": "Wanderlust, Macdonald Highlands, Henderson, Clark County, Nevada, 89012, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2644941402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4520331490",
+    "boundingbox": [
+      "16.8023701",
+      "16.8024701",
+      "96.1386409",
+      "96.1387409"
+    ],
+    "lat": "16.8024201",
+    "lon": "96.1386909",
+    "display_name": "wanderlust, Yadana St, \u1005\u1019\u103a\u1038\u1001\u103b\u1031\u102c\u1004\u103a\u1038, Western District, \u101b\u1014\u103a\u1000\u102f\u1014\u103a, Yangon, 111111, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.111
+  },
+  {
+    "place_id": "56135409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4376621095",
+    "boundingbox": [
+      "48.8402462",
+      "48.8403462",
+      "2.3704534",
+      "2.3705534"
+    ],
+    "lat": "48.8402962",
+    "lon": "2.3705034",
+    "display_name": "Wanderlust, 32, Quai d'Austerlitz, Salp\u00eatri\u00e8re, 13e, Paris, \u00cele-de-France, 75013, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "45663971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3245942748",
+    "boundingbox": [
+      "40.4168",
+      "40.4169",
+      "-3.7092139",
+      "-3.7091139"
+    ],
+    "lat": "40.41685",
+    "lon": "-3.7091639",
+    "display_name": "Wanderlust, 14, Calle del Bonetillo, Barrio Palacio, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "52594337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3994474085",
+    "boundingbox": [
+      "49.2681545",
+      "49.2682545",
+      "-123.1487481",
+      "-123.1486481"
+    ],
+    "lat": "49.2682045",
+    "lon": "-123.1486981",
+    "display_name": "Wanderlust, 1929, West 4th Avenue, Kitsilano, Vancouver, Greater Vancouver Regional District, British Columbia, V6J, Canada",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47431812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3443214474",
+    "boundingbox": [
+      "51.7380441",
+      "51.7381441",
+      "9.0387162",
+      "9.0388162"
+    ],
+    "lat": "51.7380941",
+    "lon": "9.0387662",
+    "display_name": "Wanderlust, Dr.-Brandis-Weg, Bad Driburg, Kreis H\u00f6xter, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33014, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "2645775270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4539038791",
+    "boundingbox": [
+      "13.7386421",
+      "13.7387421",
+      "100.5145179",
+      "100.5146179"
+    ],
+    "lat": "13.7386921",
+    "lon": "100.5145679",
+    "display_name": "Wanderlust, \u0e16\u0e19\u0e19\u0e1e\u0e23\u0e30\u0e23\u0e32\u0e21\u0e17\u0e35\u0e48 4, \u0e40\u0e02\u0e15\u0e1b\u0e49\u0e2d\u0e21\u0e1b\u0e23\u0e32\u0e1a\u0e28\u0e31\u0e15\u0e23\u0e39\u0e1e\u0e48\u0e32\u0e22, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10100, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

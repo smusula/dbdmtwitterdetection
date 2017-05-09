@@ -1,0 +1,135 @@
+[
+  {
+    "place_id": "125182972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258646143",
+    "boundingbox": [
+      "40.7564347",
+      "40.7565926",
+      "-73.9864706",
+      "-73.9862883"
+    ],
+    "lat": "40.75651365",
+    "lon": "-73.9863794335672",
+    "display_name": "NYPD, Times Square, Diamond District, Manhattan, New York County, NYC, New York, 10036, United States of America",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "22930945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2293161443",
+    "boundingbox": [
+      "50.0124381",
+      "50.0125381",
+      "19.9674955",
+      "19.9675955"
+    ],
+    "lat": "50.0124881",
+    "lon": "19.9675455",
+    "display_name": "NYPD, 2, Tuchowska, Kurdwan\u00f3w, Podg\u00f3rze Duchackie, Krak\u00f3w, ma\u0142opolskie, 30-618, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55821268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4341711113",
+    "boundingbox": [
+      "43.0600308",
+      "43.0601308",
+      "-87.9086428",
+      "-87.9085428"
+    ],
+    "lat": "43.0600808",
+    "lon": "-87.9085928",
+    "display_name": "NYPD, 231, East North Avenue, Brewers Hill, Milwaukee, Milwaukee County, Wisconsin, 53212, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2650954021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4656985689",
+    "boundingbox": [
+      "10.3125659",
+      "10.3126659",
+      "123.9164888",
+      "123.9165888"
+    ],
+    "lat": "10.3126159",
+    "lon": "123.9165388",
+    "display_name": "NYPD, A. Soriano Jr. Avenue, Crossroads, Cebu City, Cebu, Central Visayas, 6000, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "45459173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3228950876",
+    "boundingbox": [
+      "33.825815",
+      "33.825915",
+      "-116.5464961",
+      "-116.5463961"
+    ],
+    "lat": "33.825865",
+    "lon": "-116.5464461",
+    "display_name": "NYPD, North Palm Canyon Drive, Palm Springs, Riverside County, California, 92262, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55387778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4305323989",
+    "boundingbox": [
+      "-1.0418152",
+      "-1.0417152",
+      "-80.470509",
+      "-80.470409"
+    ],
+    "lat": "-1.0417652",
+    "lon": "-80.470459",
+    "display_name": "NYPD, Avenida Reales Tamarindos, Portoviejo, Manab\u00ed, 130101, Ecuador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "123096345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249712206",
+    "boundingbox": [
+      "40.5939132",
+      "40.594305",
+      "-73.9606334",
+      "-73.9603396"
+    ],
+    "lat": "40.59417135",
+    "lon": "-73.9604871655683",
+    "display_name": "Sixtyfirst Precinct Police Station House, 2575, Coney Island Avenue, Gravesend, Kings County, NYC, New York, 11223, United States of America",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  }
+]

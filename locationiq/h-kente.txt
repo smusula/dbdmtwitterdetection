@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "44441927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3146458616",
+    "boundingbox": [
+      "-18.7177642",
+      "-18.6777642",
+      "-68.5415433",
+      "-68.5015433"
+    ],
+    "lat": "-18.6977642",
+    "lon": "-68.5215433",
+    "display_name": "Kente, Provincia Sabaya, ORU, Bolivia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42523324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3084566212",
+    "boundingbox": [
+      "7.4527664",
+      "7.4927664",
+      "-12.477283",
+      "-12.437283"
+    ],
+    "lat": "7.4727664",
+    "lon": "-12.457283",
+    "display_name": "Kente, Bonthe District, Southern Province, Sierra Leone",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

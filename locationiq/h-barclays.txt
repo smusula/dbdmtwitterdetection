@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "12593616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1191283012",
+    "boundingbox": [
+      "52.6266103",
+      "52.6267103",
+      "-1.113542",
+      "-1.113442"
+    ],
+    "lat": "52.6266603",
+    "lon": "-1.113492",
+    "display_name": "Barclays, 68, Evington Road, Highfields, Leicester, City of Leicester, East Midlands, England, LE2 1HJ, UK",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.60490646980766,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "4209831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "452905072",
+    "boundingbox": [
+      "52.3785111",
+      "52.3786111",
+      "-1.5606449",
+      "-1.5605449"
+    ],
+    "lat": "52.3785611",
+    "lon": "-1.5605949",
+    "display_name": "Barclays, Piazza, Kirby Corner, Cannon Park, Coventry, West Midlands, England, CV4 7AL, UK",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.60490646980766,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "26175609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2513511311",
+    "boundingbox": [
+      "52.3785242",
+      "52.3786242",
+      "-1.5608032",
+      "-1.5607032"
+    ],
+    "lat": "52.3785742",
+    "lon": "-1.5607532",
+    "display_name": "Barclays, Piazza, Kirby Corner, Cannon Park, Coventry, West Midlands, England, CV4 7, UK",
+    "class": "amenity",
+    "type": "atm",
+    "importance": 0.60490646980766,
+    "icon": "https://locationiq.org/static/images/mapicons/money_atm2.p.20.png"
+  },
+  {
+    "place_id": "131417495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293729189",
+    "boundingbox": [
+      "51.3872652",
+      "51.387377",
+      "0.544866",
+      "0.5450499"
+    ],
+    "lat": "51.3873213",
+    "lon": "0.544957544519702",
+    "display_name": "Barclays, 77, High Street, Brompton, Gillingham, Medway, South East, England, ME7 1BN, UK",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.60490646980766,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "58245046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5986929",
+    "boundingbox": [
+      "51.5047483",
+      "51.5054956",
+      "-0.0149379",
+      "-0.0137717"
+    ],
+    "lat": "51.50514235",
+    "lon": "-0.0143443599241146",
+    "display_name": "Barclays, 1, Churchill Place, Poplar, London Borough of Tower Hamlets, London, Greater London, England, E14 5HP, UK",
+    "class": "office",
+    "type": "company",
+    "importance": 0.41110721079729
+  },
+  {
+    "place_id": "151923024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401764862",
+    "boundingbox": [
+      "53.4055646",
+      "53.4075764",
+      "-2.9375294",
+      "-2.9329232"
+    ],
+    "lat": "53.4065141",
+    "lon": "-2.93484820025808",
+    "display_name": "Barclays, Wavertree, Liverpool, North West England, England, L13, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160107641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447472562",
+    "boundingbox": [
+      "51.8627868",
+      "51.8647156",
+      "-2.2022728",
+      "-2.1978295"
+    ],
+    "lat": "51.8637346",
+    "lon": "-2.20001917117232",
+    "display_name": "Barclays, Barnwood, Gloucester, Gloucestershire, South West England, England, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1334487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303570059",
+    "boundingbox": [
+      "37.3831062",
+      "37.3832062",
+      "-5.9733943",
+      "-5.9732943"
+    ],
+    "lat": "37.3831562",
+    "lon": "-5.9733443",
+    "display_name": "ING Direct, 32, Avenida Luis de Morales, La Buhaira, Nervi\u00f3n, Sevilla, Andaluc\u00eda, 41018, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.29157890191013,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "14895023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1329861150",
+    "boundingbox": [
+      "40.411528",
+      "40.411628",
+      "-3.7083856",
+      "-3.7082856"
+    ],
+    "lat": "40.411578",
+    "lon": "-3.7083356",
+    "display_name": "Barclays, 54, Calle de Toledo, Barrio de la Latina, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28005, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "32630516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2779332468",
+    "boundingbox": [
+      "40.427671",
+      "40.427771",
+      "-3.686151",
+      "-3.686051"
+    ],
+    "lat": "40.427721",
+    "lon": "-3.686101",
+    "display_name": "Barclays, Calle de Claudio Coello, Barrio Recoletos, Salamanca, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28001, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

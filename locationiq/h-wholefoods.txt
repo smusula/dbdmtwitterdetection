@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "134937949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310129674",
+    "boundingbox": [
+      "52.1370287",
+      "52.1371711",
+      "-0.4711202",
+      "-0.4709939"
+    ],
+    "lat": "52.1370999",
+    "lon": "-0.471057049999998",
+    "display_name": "Wholefoods, 1, Thurlow Street, Harpur, Bedford, East of England, England, MK40 1LR, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648047994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4590934792",
+    "boundingbox": [
+      "33.9177697",
+      "33.9178697",
+      "-84.3798173",
+      "-84.3797173"
+    ],
+    "lat": "33.9178197",
+    "lon": "-84.3797673",
+    "display_name": "WholeFoods, Roswell Road, Hammond, Sandy Springs, Fulton County, Georgia, GA 30328, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "16760843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1556156739",
+    "boundingbox": [
+      "40.824673",
+      "40.824773",
+      "-73.974038",
+      "-73.973938"
+    ],
+    "lat": "40.824723",
+    "lon": "-73.973988",
+    "display_name": "Wholefoods, Grand Cove Way, Edgewater, Bergen County, New Jersey, 07020, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "54399067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4167392068",
+    "boundingbox": [
+      "-37.9118043",
+      "-37.9117043",
+      "145.1332284",
+      "145.1333284"
+    ],
+    "lat": "-37.9117543",
+    "lon": "145.1332784",
+    "display_name": "Wholefoods, Exhibition Walk, Clayton, City of Monash, Greater Melbourne, Victoria, 3800, Australia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "49568380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3681454202",
+    "boundingbox": [
+      "10.3067707",
+      "10.3068707",
+      "-84.8122702",
+      "-84.8121702"
+    ],
+    "lat": "10.3068207",
+    "lon": "-84.8122202",
+    "display_name": "Wholefoods, 620, Cerro Plano, Monte Verde, Cant\u00f3n Puntarenas, Provincia Puntarenas, 60109, Costa Rica",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

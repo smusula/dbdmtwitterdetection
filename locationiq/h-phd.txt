@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "145302220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367325332",
+    "boundingbox": [
+      "50.2594328",
+      "50.262704",
+      "-122.8818939",
+      "-122.8782232"
+    ],
+    "lat": "50.2609898",
+    "lon": "-122.8802563",
+    "display_name": "PHD, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "145268144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367325322",
+    "boundingbox": [
+      "50.2594328",
+      "50.262192",
+      "-122.8782232",
+      "-122.8740969"
+    ],
+    "lat": "50.260148",
+    "lon": "-122.8757889",
+    "display_name": "PHD, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "26822902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2542750666",
+    "boundingbox": [
+      "-33.9122835",
+      "-33.9121835",
+      "151.1542688",
+      "151.1543688"
+    ],
+    "lat": "-33.9122335",
+    "lon": "151.1543188",
+    "display_name": "PHD, Illawarra Road, Marrickville, Sydney, Inner West, NSW, 2204, Australia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55847011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4346623849",
+    "boundingbox": [
+      "51.0635788",
+      "51.0636788",
+      "-0.3332145",
+      "-0.3331145"
+    ],
+    "lat": "51.0636288",
+    "lon": "-0.3331645",
+    "display_name": "PHD, 13, Bishopric, Roffey, West Sussex, South East, England, RH12 1PP, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "53599889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4104739190",
+    "boundingbox": [
+      "22.2631328",
+      "22.2632328",
+      "114.2484586",
+      "114.2485586"
+    ],
+    "lat": "22.2631828",
+    "lon": "114.2485086",
+    "display_name": "\u8584\u9905\u535a\u58eb PHD, \u660e\u8da3\u8857 Ming Tsui Street, \u5c0f\u897f\u7063 Siu Sai Wan, \u6771\u5340 Eastern District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 999077, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2609830130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4491605992",
+    "boundingbox": [
+      "-6.1658322",
+      "-6.1657322",
+      "106.8109405",
+      "106.8110405"
+    ],
+    "lat": "-6.1657822",
+    "lon": "106.8109905",
+    "display_name": "PHD, Jalan KH Hasyim Ashari, RW 08, Petojo Utara, Gambir, Jakarta Pusat, Daerah Khusus Ibukota Jakarta, 10350, Indonesia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49310281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3666828409",
+    "boundingbox": [
+      "-6.1363797",
+      "-6.1362797",
+      "106.7313974",
+      "106.7314974"
+    ],
+    "lat": "-6.1363297",
+    "lon": "106.7314474",
+    "display_name": "PHD, Lingkar Barat, RT 14, RW 11, Cengkareng Timur, Cengkareng, Jakarta Barat, Daerah Khusus Ibukota Jakarta, 11730, Indonesia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "93076482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126134751",
+    "boundingbox": [
+      "30.2820934",
+      "30.2826753",
+      "-97.7351927",
+      "-97.7348697"
+    ],
+    "lat": "30.2823112",
+    "lon": "-97.7351043579445",
+    "display_name": "Prather Hall Dormitory, 305, East 21st Street, Austin, Travis County, Texas, 78705, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "156105316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "424690072",
+    "boundingbox": [
+      "40.4664584",
+      "40.4762851",
+      "-81.4250518",
+      "-81.4144195"
+    ],
+    "lat": "40.47130255",
+    "lon": "-81.4194072248456",
+    "display_name": "Harry Clever Field, 1834, East High Avenue, New Philadelphia, Tuscarawas County, Ohio, 44663, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "2647056242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "461242523",
+    "boundingbox": [
+      "53.78751",
+      "53.7883868",
+      "-1.3987902",
+      "-1.3967827"
+    ],
+    "lat": "53.7883199",
+    "lon": "-1.3976074",
+    "display_name": "path, Manston, Leeds, Yorkshire and the Humber, England, LS25 1LP, UK",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.21
+  },
+  {
+    "place_id": "126237945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "263632698",
+    "boundingbox": [
+      "34.9863101",
+      "34.9864862",
+      "-85.3327629",
+      "-85.3321832"
+    ],
+    "lat": "34.9864398",
+    "lon": "-85.3326886",
+    "display_name": "path, Chattanooga, Hamilton County, Tennessee, 37409, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "121824727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244426481",
+    "boundingbox": [
+      "-0.3534605",
+      "-0.3347595",
+      "35.5481905",
+      "35.5533058"
+    ],
+    "lat": "-0.3435329",
+    "lon": "35.5486183",
+    "display_name": "path, Taloa, Nakuru, Kenya",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "158510601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437221548",
+    "boundingbox": [
+      "-14.9766617",
+      "-14.9762398",
+      "35.2182904",
+      "35.2183978"
+    ],
+    "lat": "-14.9764744",
+    "lon": "35.2183978",
+    "display_name": "path, Mapando, Southern Region, Malawi",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "113778767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "211061293",
+    "boundingbox": [
+      "30.7420054",
+      "30.7430063",
+      "76.7299248",
+      "76.7307378"
+    ],
+    "lat": "30.7424877",
+    "lon": "76.7303479",
+    "display_name": "Path, Sector 39, Chandigarh, District of Chandigarh, Union Territory of Chand\u012bgarh, 160039, India",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609907738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "452571155",
+    "boundingbox": [
+      "47.9457253",
+      "47.9465239",
+      "106.9259416",
+      "106.9264246"
+    ],
+    "lat": "47.9461203",
+    "lon": "106.9262407",
+    "display_name": "Path, \u0414\u0430\u043c\u0431\u0430\u0434\u0430\u0440\u0436\u0430\u0430, \u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440, \u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440 - \u0422\u04e9\u0432 \u0430\u0439\u043c\u0433\u0438\u0439\u043d \u0445\u0438\u043b, 11111, \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72895827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33494892",
+    "boundingbox": [
+      "51.8549628",
+      "51.8564013",
+      "1.0625247",
+      "1.0633841"
+    ],
+    "lat": "51.8557113",
+    "lon": "1.0629324",
+    "display_name": "The Path, Great Bentley Civil Parish, Tendring, Essex, East of England, England, CO7 8PL, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74212364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37054863",
+    "boundingbox": [
+      "51.057116",
+      "51.057401",
+      "-4.196359",
+      "-4.1962063"
+    ],
+    "lat": "51.057401",
+    "lon": "-4.1962063",
+    "display_name": "The Path, Northam CP, Torridge, Devon, South West England, England, EX39 1, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85585914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97812933",
+    "boundingbox": [
+      "56.0923608",
+      "56.0929189",
+      "-3.9202857",
+      "-3.9188186"
+    ],
+    "lat": "56.0925618",
+    "lon": "-3.9195425",
+    "display_name": "The Path, Broomridge, Bannockburn, Stirling, Scotland, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2651735056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473836228",
+    "boundingbox": [
+      "26.0082295",
+      "26.0093308",
+      "-80.2340396",
+      "-80.2319796"
+    ],
+    "lat": "26.0087851",
+    "lon": "-80.2330375574643",
+    "display_name": "Path, Pembroke Pines, Broward County, Florida, 33024, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  }
+]

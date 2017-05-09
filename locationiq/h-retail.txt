@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160282249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "150063",
+    "boundingbox": [
+      "46.5401376",
+      "46.5891611",
+      "-0.4625594",
+      "-0.4122551"
+    ],
+    "lat": "46.5621271",
+    "lon": "-0.4434121",
+    "display_name": "Le Retail, Parthenay, Deux-S\u00e8vres, Nouvelle-Aquitaine, 79130, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48719982560843,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "25088944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2425396512",
+    "boundingbox": [
+      "46.8889984",
+      "46.9289984",
+      "-1.4310353",
+      "-1.3910353"
+    ],
+    "lat": "46.9089984",
+    "lon": "-1.4110353",
+    "display_name": "Saint-Andr\u00e9-Treize-Voies, Le Retail, La Roche-sur-Yon, Vend\u00e9e, Pays de la Loire, 85260, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24597516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2392657666",
+    "boundingbox": [
+      "46.8449542",
+      "46.8849542",
+      "-1.1297935",
+      "-1.0897935"
+    ],
+    "lat": "46.8649542",
+    "lon": "-1.1097935",
+    "display_name": "Le Retail, La Roche-sur-Yon, Vend\u00e9e, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47468746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3450989537",
+    "boundingbox": [
+      "46.4939643",
+      "46.5339643",
+      "-0.6687245",
+      "-0.6287245"
+    ],
+    "lat": "46.5139643",
+    "lon": "-0.6487245",
+    "display_name": "Le Retail, Fontenay-le-Comte, Vend\u00e9e, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21997267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2182532416",
+    "boundingbox": [
+      "47.0962646",
+      "47.1362646",
+      "-1.8339385",
+      "-1.7939385"
+    ],
+    "lat": "47.1162646",
+    "lon": "-1.8139385",
+    "display_name": "Le Retail, Nantes, Loire-Atlantique, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26753550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2523425061",
+    "boundingbox": [
+      "47.0894025",
+      "47.0895025",
+      "-1.0232567",
+      "-1.0231567"
+    ],
+    "lat": "47.0894525",
+    "lon": "-1.0232067",
+    "display_name": "Le Retail, Saint-Andr\u00e9-de-la-Marche, S\u00e8vremoine, Cholet, Maine-et-Loire, Pays de la Loire, 49450, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "52508203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3981691901",
+    "boundingbox": [
+      "46.8385168",
+      "46.8585168",
+      "-1.91354",
+      "-1.89354"
+    ],
+    "lat": "46.8485168",
+    "lon": "-1.90354",
+    "display_name": "Le Retail, Challans, Les Sables-d'Olonne, Vend\u00e9e, Pays de la Loire, 85300, France",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "52681906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4008904169",
+    "boundingbox": [
+      "46.4670903",
+      "46.4671903",
+      "-1.6739093",
+      "-1.6738093"
+    ],
+    "lat": "46.4671403",
+    "lon": "-1.6738593",
+    "display_name": "Le Retail, Talmont-Saint-Hilaire, Les Sables-d'Olonne, Vend\u00e9e, Pays de la Loire, 85440, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "20423943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2048824187",
+    "boundingbox": [
+      "47.1665497",
+      "47.1666497",
+      "-1.9802901",
+      "-1.9801901"
+    ],
+    "lat": "47.1665997",
+    "lon": "-1.9802401",
+    "display_name": "Le Retail, Chauv\u00e9, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, 44320, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "20133072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2002511611",
+    "boundingbox": [
+      "46.7257079",
+      "46.7258079",
+      "-0.6516351",
+      "-0.6515351"
+    ],
+    "lat": "46.7257579",
+    "lon": "-0.6515851",
+    "display_name": "Le Retail, La For\u00eat-sur-S\u00e8vre, Bressuire, Deux-S\u00e8vres, Nouvelle-Aquitaine, 79380, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

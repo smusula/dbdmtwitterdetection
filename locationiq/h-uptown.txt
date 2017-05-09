@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "414669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153692271",
+    "boundingbox": [
+      "41.9466299",
+      "41.9866299",
+      "-87.6755457",
+      "-87.6355457"
+    ],
+    "lat": "41.9666299",
+    "lon": "-87.6555457",
+    "display_name": "Uptown, Chicago, Cook County, Illinois, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.46816821007254,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8557072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "897342741",
+    "boundingbox": [
+      "29.9164059",
+      "29.9564059",
+      "-90.1211809",
+      "-90.0811809"
+    ],
+    "lat": "29.9364059",
+    "lon": "-90.1011809",
+    "display_name": "Uptown, Orleans Parish, Louisiana, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.43170884311896,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12987464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1214036318",
+    "boundingbox": [
+      "37.8092257",
+      "37.8093257",
+      "-122.2699966",
+      "-122.2698966"
+    ],
+    "lat": "37.8092757",
+    "lon": "-122.2699466",
+    "display_name": "Uptown, Oakland, Alameda County, California, 94612, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.4277591615107
+  },
+  {
+    "place_id": "7121243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "767610156",
+    "boundingbox": [
+      "9.6673176",
+      "9.7073176",
+      "123.8442904",
+      "123.8842904"
+    ],
+    "lat": "9.6873176",
+    "lon": "123.8642904",
+    "display_name": "Uptown, Bohol, Central Visayas, Philippines",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161029804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6573473",
+    "boundingbox": [
+      "32.788201",
+      "32.8123351",
+      "-96.8105931",
+      "-96.7927762"
+    ],
+    "lat": "32.8007124",
+    "lon": "-96.799857",
+    "display_name": "Uptown PID, Dallas, Dallas County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161025844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6464518",
+    "boundingbox": [
+      "43.0606271",
+      "43.0680391",
+      "-87.9875613",
+      "-87.9674614"
+    ],
+    "lat": "43.0647089",
+    "lon": "-87.9778923",
+    "display_name": "Uptown, Milwaukee, Milwaukee County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "24207287",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2375023427",
+    "boundingbox": [
+      "10.6399274",
+      "10.6799274",
+      "-61.5319491",
+      "-61.4919491"
+    ],
+    "lat": "10.6599274",
+    "lon": "-61.5119491",
+    "display_name": "Uptown, Port of Spain, Trinidad and Tobago",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16705327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1557479424",
+    "boundingbox": [
+      "43.45457",
+      "43.47457",
+      "-80.531911",
+      "-80.511911"
+    ],
+    "lat": "43.46457",
+    "lon": "-80.521911",
+    "display_name": "Uptown, Waterloo, Regional Municipality of Waterloo, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10457228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "969850993",
+    "boundingbox": [
+      "49.1937335",
+      "49.2337335",
+      "-122.9447706",
+      "-122.9047706"
+    ],
+    "lat": "49.2137335",
+    "lon": "-122.9247706",
+    "display_name": "Uptown, New Westminster, Greater Vancouver Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652565076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4696714814",
+    "boundingbox": [
+      "49.010121",
+      "49.050121",
+      "-122.8221577",
+      "-122.7821577"
+    ],
+    "lat": "49.030121",
+    "lon": "-122.8021577",
+    "display_name": "Uptown, White Rock, Greater Vancouver Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

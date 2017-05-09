@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "46114588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3296535605",
+    "boundingbox": [
+      "50.7079576",
+      "50.7479576",
+      "5.8050507",
+      "5.8450507"
+    ],
+    "lat": "50.7279576",
+    "lon": "5.8250507",
+    "display_name": "Sint-Pieters-Voeren, Drink, Tongeren, Limburg, Vlaanderen, 3792, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.28611063262914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59661956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8081133",
+    "boundingbox": [
+      "51.2148113",
+      "51.2157693",
+      "4.4351457",
+      "4.4357305"
+    ],
+    "lat": "51.2148113",
+    "lon": "4.4351457",
+    "display_name": "Drink, Borgerhout, Antwerpen, Vlaanderen, 2140, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59121647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7190883",
+    "boundingbox": [
+      "51.35468",
+      "51.35489",
+      "5.16098",
+      "5.16176"
+    ],
+    "lat": "51.35477",
+    "lon": "5.16174",
+    "display_name": "Den Drink, Reusel, Reusel-De Mierden, MRE, Noord-Brabant, Nederland, 5541AW, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59054738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7191106",
+    "boundingbox": [
+      "51.35532",
+      "51.35537",
+      "5.16041",
+      "5.1607"
+    ],
+    "lat": "51.35534",
+    "lon": "5.16045",
+    "display_name": "Den Drink, Reusel, Reusel-De Mierden, MRE, Noord-Brabant, Nederland, 5541AV, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59121658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7190889",
+    "boundingbox": [
+      "51.35468",
+      "51.3548",
+      "5.16093",
+      "5.16098"
+    ],
+    "lat": "51.3548",
+    "lon": "5.16093",
+    "display_name": "Den Drink, Reusel, Reusel-De Mierden, MRE, Noord-Brabant, Nederland, 5541AB, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "19096827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1851448443",
+    "boundingbox": [
+      "35.5640241",
+      "35.5641241",
+      "139.5137463",
+      "139.5138463"
+    ],
+    "lat": "35.5640741",
+    "lon": "139.5137963",
+    "display_name": "Drink, \u74b0\u72b64\u53f7, \u9752\u8449\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 2250021, \u65e5\u672c",
+    "class": "amenity",
+    "type": "vending_machine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22880724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2268948482",
+    "boundingbox": [
+      "40.7109556",
+      "40.7110556",
+      "-73.9454194",
+      "-73.9453194"
+    ],
+    "lat": "40.7110056",
+    "lon": "-73.9453694",
+    "display_name": "The Drink, 226, Manhattan Avenue, Williamsburg, Kings County, NYC, New York, 11222, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2648086298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463976583",
+    "boundingbox": [
+      "33.5790836",
+      "33.5791536",
+      "-101.844986",
+      "-101.8445699"
+    ],
+    "lat": "33.57911855",
+    "lon": "-101.844777950036",
+    "display_name": "The Drink, 18th Street, Slaton-Bean, Lubbock, Lubbock County, Texas, 79401, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "12740645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1182102153",
+    "boundingbox": [
+      "44.4760618",
+      "44.4761618",
+      "-73.2142737",
+      "-73.2141737"
+    ],
+    "lat": "44.4761118",
+    "lon": "-73.2142237",
+    "display_name": "Drink, Saint Paul Street, Downtown, Burlington, Chittenden County, Vermont, 05401, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "23346131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2312675263",
+    "boundingbox": [
+      "48.2102195",
+      "48.2103195",
+      "18.6088855",
+      "18.6089855"
+    ],
+    "lat": "48.2102695",
+    "lon": "18.6089355",
+    "display_name": "Drink, 2076/33, Slobody, Levice, okres Levice, Nitriansky kraj, Z\u00e1padn\u00e9 Slovensko, 934 05, Slovensko",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "14354073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1306217742",
+    "boundingbox": [
+      "45.4590629",
+      "45.4591629",
+      "9.1821183",
+      "9.1822183"
+    ],
+    "lat": "45.4591129",
+    "lon": "9.1821683",
+    "display_name": "Cheese, Via Celestino IV, Carrobbio, Municipio 1, Milano, MI, LOM, 20123, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "20278701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2023262038",
+    "boundingbox": [
+      "47.461288",
+      "47.461388",
+      "19.053216",
+      "19.053316"
+    ],
+    "lat": "47.461338",
+    "lon": "19.053266",
+    "display_name": "Cheese, 56, Budafoki \u00fat, Telekom Park, Kelenf\u00f6ld, 11. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1117, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4992418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "560751240",
+    "boundingbox": [
+      "51.5128382",
+      "51.5129382",
+      "-0.0839775",
+      "-0.0838775"
+    ],
+    "lat": "51.5128882",
+    "lon": "-0.0839275",
+    "display_name": "Cheese, 29,30, Leadenhall Market, City of London, Greater London, England, EC3V 1LR, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "914705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "282247435",
+    "boundingbox": [
+      "53.7438271",
+      "53.7439271",
+      "-0.3414065",
+      "-0.3413065"
+    ],
+    "lat": "53.7438771",
+    "lon": "-0.3413565",
+    "display_name": "Cheese, Paragon Street, Old Town, Hull, Kingston upon Hull, Yorkshire and the Humber, England, HU1 3PE, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "29176757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2699598656",
+    "boundingbox": [
+      "42.9305898",
+      "42.9306898",
+      "-85.5899509",
+      "-85.5898509"
+    ],
+    "lat": "42.9306398",
+    "lon": "-85.5899009",
+    "display_name": "The Cheese, 3201, Burton Street Southeast, Grand Rapids, Kent County, Michigan, 49506, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "157952810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "434681393",
+    "boundingbox": [
+      "51.5181235",
+      "51.5181938",
+      "-0.0825149",
+      "-0.0823883"
+    ],
+    "lat": "51.5181588",
+    "lon": "-0.0824519392045451",
+    "display_name": "Cheese, Broadgate Link, City of London, Greater London, England, EC2M 7PY, UK",
+    "class": "shop",
+    "type": "cheese",
+    "importance": 0.101
+  },
+  {
+    "place_id": "147614460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377595854",
+    "boundingbox": [
+      "51.5181026",
+      "51.5181909",
+      "-0.0829938",
+      "-0.0828866"
+    ],
+    "lat": "51.5181469",
+    "lon": "-0.0829401611135137",
+    "display_name": "Cheese, Octagon Arcade, City of London, Greater London, England, EC2M 7NX, UK",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18505486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1775532165",
+    "boundingbox": [
+      "43.9432208",
+      "43.9433208",
+      "4.3230407",
+      "4.3231407"
+    ],
+    "lat": "43.9432708",
+    "lon": "4.3230907",
+    "display_name": "Cheese, D 18, Sainte-Anastasie, Nimes, Gard, Occitanie, 30190, France",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55663844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4337429096",
+    "boundingbox": [
+      "-27.4017409",
+      "-27.4016409",
+      "-55.9171353",
+      "-55.9170353"
+    ],
+    "lat": "-27.4016909",
+    "lon": "-55.9170853",
+    "display_name": "Cheese, Avenida Tom\u00e1s Guido, Chacra 228, Delegaci\u00f3n Municipal Cristo Rey 32-33, Posadas, Municipio de Posadas, Departamento Capital, Mnes., 3300, Argentina",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "12502680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1186318224",
+    "boundingbox": [
+      "42.5958401",
+      "42.5959401",
+      "-89.6315951",
+      "-89.6314951"
+    ],
+    "lat": "42.5958901",
+    "lon": "-89.6315451",
+    "display_name": "Cheese, 22nd Avenue, Monroe, Green County, Wisconsin, 53566, United States of America",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  }
+]

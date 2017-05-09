@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "135977474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314484255",
+    "boundingbox": [
+      "50.8381496",
+      "50.838237",
+      "0.4741402",
+      "0.4744199"
+    ],
+    "lat": "50.8381933",
+    "lon": "0.47428005",
+    "display_name": "Priceless, 69, Devonshire Road, New Town, Rother, East Sussex, South East, England, TN40 1BD, UK",
+    "class": "shop",
+    "type": "variety_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "151204629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "397506030",
+    "boundingbox": [
+      "17.1063208",
+      "17.1064616",
+      "-61.8350109",
+      "-61.8348639"
+    ],
+    "lat": "17.10639125",
+    "lon": "-61.8349374067851",
+    "display_name": "Priceless, Bendals Road, St. John's, Anu, Antigua and Barbuda",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "111731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "20913294",
+    "boundingbox": [
+      "53.7990555",
+      "54.1190555",
+      "-1.241536",
+      "-0.921536"
+    ],
+    "lat": "53.9590555",
+    "lon": "-1.081536",
+    "display_name": "York, Yorkshire and the Humber, England, UK",
+    "class": "place",
+    "type": "city",
+    "importance": 0.72414159381662,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160273280",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "134353",
+    "boundingbox": [
+      "53.8745689",
+      "54.0563236",
+      "-1.2238376",
+      "-0.9196706"
+    ],
+    "lat": "53.9654222",
+    "lon": "-1.0742955564662",
+    "display_name": "York, Yorkshire and the Humber, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72414159381662,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187708",
+    "boundingbox": [
+      "39.942753",
+      "39.991176",
+      "-76.7626999",
+      "-76.6994479"
+    ],
+    "lat": "39.962398",
+    "lon": "-76.7273919",
+    "display_name": "York, York County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.5845217204588,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160350127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "417442",
+    "boundingbox": [
+      "39.7199171",
+      "40.2279991",
+      "-77.1385649",
+      "-76.2329068"
+    ],
+    "lat": "39.9067499",
+    "lon": "-76.7008945",
+    "display_name": "York County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55967387217443,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4973308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "558610609",
+    "boundingbox": [
+      "43.6696191",
+      "43.7096191",
+      "-79.4991879",
+      "-79.4591879"
+    ],
+    "lat": "43.6896191",
+    "lon": "-79.4791879",
+    "display_name": "York, Toronto, Ontario, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.52055973284519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160725539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3864706",
+    "boundingbox": [
+      "37.091894",
+      "37.371658",
+      "-76.7555109",
+      "-76.3843656"
+    ],
+    "lat": "37.2230374",
+    "lon": "-76.5156944",
+    "display_name": "York County, Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51155993732401,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160565574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2532524",
+    "boundingbox": [
+      "34.820656",
+      "35.164891",
+      "-81.4923937",
+      "-80.8652419"
+    ],
+    "lat": "34.9603293",
+    "lon": "-81.1655407",
+    "display_name": "York County, South Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49547792382382,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "83354034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "88112328",
+    "boundingbox": [
+      "53.9568828",
+      "53.9592249",
+      "-1.0942494",
+      "-1.0922751"
+    ],
+    "lat": "53.95806145",
+    "lon": "-1.09307698431938",
+    "display_name": "York, Station Road, Leeman Road, South Bank, York, Yorkshire and the Humber, England, YO24 1AB, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.48946848220542,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160500594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2020262",
+    "boundingbox": [
+      "43.0700631",
+      "43.2608666",
+      "-70.7573919",
+      "-70.4047644"
+    ],
+    "lat": "43.1659436",
+    "lon": "-70.635096283968",
+    "display_name": "York, York County, Maine, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48353558123406,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160295576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194079",
+    "boundingbox": [
+      "34.957657",
+      "35.029575",
+      "-81.2701932",
+      "-81.1850569"
+    ],
+    "lat": "34.9940463",
+    "lon": "-81.2424637",
+    "display_name": "York, York County, South Carolina, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48219303204747,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

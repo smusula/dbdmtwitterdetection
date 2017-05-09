@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "145617514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368682323",
+    "boundingbox": [
+      "51.9201461",
+      "51.9205791",
+      "-8.483506",
+      "-8.4823457"
+    ],
+    "lat": "51.9203545",
+    "lon": "-8.4829975",
+    "display_name": "Bride, Cork, County Cork, Munster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "157607761",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "433271033",
+    "boundingbox": [
+      "52.0973047",
+      "52.1002265",
+      "-7.9819436",
+      "-7.9592536"
+    ],
+    "lat": "52.0996331",
+    "lon": "-7.9705126",
+    "display_name": "Bride, Dungarvan - Lismore, County Waterford, Munster, Ireland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "159695518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444451618",
+    "boundingbox": [
+      "57.6317959",
+      "57.6370205",
+      "25.2098127",
+      "25.2164986"
+    ],
+    "lat": "57.6332874",
+    "lon": "25.2138552",
+    "display_name": "Briede, Koc\u0113nu novads, Vidzeme, Latvija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "150439539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391598571",
+    "boundingbox": [
+      "57.4850278",
+      "57.4890438",
+      "25.0995888",
+      "25.1120015"
+    ],
+    "lat": "57.4860262",
+    "lon": "25.1050472",
+    "display_name": "Briede, P\u0101rgaujas novads, Vidzeme, Latvija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "159632405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444269840",
+    "boundingbox": [
+      "57.6791787",
+      "57.7172969",
+      "25.2328338",
+      "25.2691543"
+    ],
+    "lat": "57.700461",
+    "lon": "25.2497706",
+    "display_name": "Briede, Burtnieku novads, Vidzeme, Latvija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

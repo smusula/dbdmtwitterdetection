@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "136360936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316165444",
+    "boundingbox": [
+      "35.4316501",
+      "35.431723",
+      "139.5603996",
+      "139.5606017"
+    ],
+    "lat": "35.43168655",
+    "lon": "139.56050065",
+    "display_name": "bless, \u74b0\u72b6\uff12\u53f7, \u54c1\u6fc3\u753a, \u6238\u585a\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 2, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "8671597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "923951328",
+    "boundingbox": [
+      "9.0354",
+      "9.0355",
+      "38.752815",
+      "38.752915"
+    ],
+    "lat": "9.03545",
+    "lon": "38.752865",
+    "display_name": "Bless, Eden Street, \u12f6\u122e \u121b\u1290\u1242\u12eb, \u12a0\u12f2\u1235 \u12a0\u1260\u1263 / Addis Ababa, Addis Abeba, 3578, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "38818023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2901977802",
+    "boundingbox": [
+      "35.6609429",
+      "35.6610429",
+      "139.7796761",
+      "139.7797761"
+    ],
+    "lat": "35.6609929",
+    "lon": "139.7797261",
+    "display_name": "BLESS, \u6e05\u6f84\u901a\u308a, \u6708\u5cf63, \u6708\u5cf6, \u4e2d\u592e\u533a, \u6771\u4eac\u90fd, 1040052, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "79464948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "60485146",
+    "boundingbox": [
+      "51.6467146",
+      "51.6468635",
+      "6.3285169",
+      "6.3286642"
+    ],
+    "lat": "51.6467896",
+    "lon": "6.32859042197094",
+    "display_name": "Bless, Sonsbecker Stra\u00dfe, Uedem, Kreis Kleve, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 47589, Deutschland",
+    "class": "craft",
+    "type": "agricultural_engines",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51286241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3833839837",
+    "boundingbox": [
+      "35.2312195",
+      "35.2313195",
+      "139.7027021",
+      "139.7028021"
+    ],
+    "lat": "35.2312695",
+    "lon": "139.7027521",
+    "display_name": "\u30d6\u30ec\u30b9, \u9ed2\u8239\u5e02\u5834, \u6a2a\u9808\u8cc0\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

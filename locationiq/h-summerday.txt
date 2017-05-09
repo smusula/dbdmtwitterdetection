@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "59690985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8815223",
+    "boundingbox": [
+      "38.777634",
+      "38.7792804",
+      "-77.2876409",
+      "-77.2864209"
+    ],
+    "lat": "38.778479",
+    "lon": "-77.2865769",
+    "display_name": "Summerday Court, Meadow Pond, Burke, Fairfax County, Virginia, 22015, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59524141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8835799",
+    "boundingbox": [
+      "38.776156",
+      "38.778247",
+      "-77.2878099",
+      "-77.2827109"
+    ],
+    "lat": "38.777538",
+    "lon": "-77.2854209",
+    "display_name": "Summerday Drive, Lucas Pond, Burke, Fairfax County, Virginia, 22015, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63077401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14297300",
+    "boundingbox": [
+      "36.124149",
+      "36.125318",
+      "-115.2641579",
+      "-115.2641519"
+    ],
+    "lat": "36.125318",
+    "lon": "-115.2641519",
+    "display_name": "Summerday Court, Buffalo Ranch, Spring Valley, Clark County, Nevada, 89147, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "88045709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "108362287",
+    "boundingbox": [
+      "64.1289819",
+      "64.1290847",
+      "-21.8766177",
+      "-21.8763754"
+    ],
+    "lat": "64.12903325",
+    "lon": "-21.876496562227",
+    "display_name": "Gistiheimili SummerDay, 24, Grens\u00e1svegur, Ger\u00f0i, Reykjav\u00edk, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 108, \u00cdsland",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

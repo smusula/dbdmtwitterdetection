@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "88345422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109650644",
+    "boundingbox": [
+      "32.3065743",
+      "32.3068335",
+      "-106.7395474",
+      "-106.7391523"
+    ],
+    "lat": "32.30671615",
+    "lon": "-106.739350177562",
+    "display_name": "Celebrate, 900, South Telshor Boulevard, Las Cruces, Do\u00f1a Ana County, New Mexico, 88003, United States of America",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "40884198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2988945424",
+    "boundingbox": [
+      "50.1188126",
+      "50.1189126",
+      "-122.9572209",
+      "-122.9571209"
+    ],
+    "lat": "50.1188626",
+    "lon": "-122.9571709",
+    "display_name": "Celebrate, Main Street, Marketplace, Alpine Meadows, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, V0N 1B4, Canada",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159406307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "442471065",
+    "boundingbox": [
+      "-17.753377",
+      "-17.7530702",
+      "-63.1963725",
+      "-63.1960798"
+    ],
+    "lat": "-17.7532236",
+    "lon": "-63.1962259350521",
+    "display_name": "Celebrate, Avenida Antonio Vaca Diez, Villa Br\u00edgida, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6145728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "631764568",
+    "boundingbox": [
+      "51.6869033",
+      "51.6870033",
+      "5.3009978",
+      "5.3010978"
+    ],
+    "lat": "51.6869533",
+    "lon": "5.3010478",
+    "display_name": "PTMD, 60, Vughterstraat, Binnenstad, 's-Hertogenbosch, Noord-Brabant, Nederland, 5211GK, Nederland",
+    "class": "shop",
+    "type": "household",
+    "importance": 0.001
+  }
+]

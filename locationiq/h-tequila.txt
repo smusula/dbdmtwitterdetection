@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160909663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5606486",
+    "boundingbox": [
+      "20.786737",
+      "21.4447709",
+      "-104.0732381",
+      "-103.5039201"
+    ],
+    "lat": "21.1158202",
+    "lon": "-103.810136960535",
+    "display_name": "Tequila, Region Valles, Jalisco, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160970407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6037820",
+    "boundingbox": [
+      "18.7002792",
+      "18.7987959",
+      "-97.1356432",
+      "-96.9524888"
+    ],
+    "lat": "18.74948385",
+    "lon": "-96.9978944862497",
+    "display_name": "Tequila, Veracruz de Ignacio de la Llave, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "840310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "273612336",
+    "boundingbox": [
+      "20.8451218",
+      "20.9251218",
+      "-103.8792089",
+      "-103.7992089"
+    ],
+    "lat": "20.8851218",
+    "lon": "-103.8392089",
+    "display_name": "Tequila, Region Valles, Jalisco, M\u00e9xico",
+    "class": "place",
+    "type": "town",
+    "importance": 0.46265591696526,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "4452734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "472259287",
+    "boundingbox": [
+      "18.709444",
+      "18.749444",
+      "-97.0902779",
+      "-97.0502779"
+    ],
+    "lat": "18.729444",
+    "lon": "-97.0702779",
+    "display_name": "Tequila, Veracruz de Ignacio de la Llave, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.45325924560389,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52063600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3918844295",
+    "boundingbox": [
+      "20.549019",
+      "20.549119",
+      "-97.6239559",
+      "-97.6238559"
+    ],
+    "lat": "20.549069",
+    "lon": "-97.6239059",
+    "display_name": "El Tequila, Venustiano Carranza, Puebla, M\u00e9xico",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "83745958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89817548",
+    "boundingbox": [
+      "20.673198",
+      "20.674313",
+      "-103.3940704",
+      "-103.3940509"
+    ],
+    "lat": "20.673198",
+    "lon": "-103.3940509",
+    "display_name": "Tequila, Guadalajara, Jalisco, 44110, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99797128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "155168779",
+    "boundingbox": [
+      "20.7424076",
+      "20.7428014",
+      "-103.3389736",
+      "-103.3376706"
+    ],
+    "lat": "20.7425557",
+    "lon": "-103.3380954",
+    "display_name": "Tequila, Atemajac del Valle, Zapopan, Jalisco, 45199, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61572315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11332407",
+    "boundingbox": [
+      "27.039972",
+      "27.040064",
+      "-82.2642749",
+      "-82.2635299"
+    ],
+    "lat": "27.040035",
+    "lon": "-82.2637269",
+    "display_name": "Tequila, Tarpon Point, Sarasota County, Florida, 34287, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98552687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149943957",
+    "boundingbox": [
+      "20.6845294",
+      "20.6846536",
+      "-103.2676773",
+      "-103.2568981"
+    ],
+    "lat": "20.6845749",
+    "lon": "-103.2621341",
+    "display_name": "Tequila, Residencias El Prado, Nuevo Israel, Tonal\u00e1, Jalisco, 45412, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2651494892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473164226",
+    "boundingbox": [
+      "20.5316974",
+      "20.5324903",
+      "-103.3810554",
+      "-103.3806543"
+    ],
+    "lat": "20.5321964",
+    "lon": "-103.3808243",
+    "display_name": "Tequila, Coto del Sol, Villas de La Hacienda, Tlajomulco de Z\u00fa\u00f1iga, Jalisco, 45655, M\u00e9xico",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160293225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187511",
+    "boundingbox": [
+      "40.38591",
+      "40.3958",
+      "-79.8056319",
+      "-79.7722649"
+    ],
+    "lat": "40.3936801",
+    "lon": "-79.7861576",
+    "display_name": "Wall, Allegheny County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45077940395672,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "24000028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2354139112",
+    "boundingbox": [
+      "40.1343052",
+      "40.2143052",
+      "-74.1302218",
+      "-74.0502218"
+    ],
+    "lat": "40.1743052",
+    "lon": "-74.0902218",
+    "display_name": "Wall, Monmouth County, New Jersey, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160295075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "195006",
+    "boundingbox": [
+      "43.97238",
+      "44.0040885",
+      "-102.2671349",
+      "-102.2182159"
+    ],
+    "lat": "43.992421",
+    "lon": "-102.2399809",
+    "display_name": "Wall, Pennington County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38123150335342,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "150130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29218172",
+    "boundingbox": [
+      "50.1613305",
+      "50.2013305",
+      "-5.3730142",
+      "-5.3330142"
+    ],
+    "lat": "50.1813305",
+    "lon": "-5.3530142",
+    "display_name": "Wall, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48726496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3578318871",
+    "boundingbox": [
+      "52.6373017",
+      "52.6773017",
+      "-1.8756133",
+      "-1.8356133"
+    ],
+    "lat": "52.6573017",
+    "lon": "-1.8556133",
+    "display_name": "Wall, Staffordshire, West Midlands, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17635067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1700564762",
+    "boundingbox": [
+      "47.7692118",
+      "47.8092118",
+      "11.7506144",
+      "11.7906144"
+    ],
+    "lat": "47.7892118",
+    "lon": "11.7706144",
+    "display_name": "Wall, Bayern, OB, Bayern, 83627, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11222199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1092173477",
+    "boundingbox": [
+      "47.6127396",
+      "47.6527396",
+      "12.1253349",
+      "12.1653349"
+    ],
+    "lat": "47.6327396",
+    "lon": "12.1453349",
+    "display_name": "Wall, Landkreis Rosenheim, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3606939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "390542927",
+    "boundingbox": [
+      "47.6373593",
+      "47.6773593",
+      "12.1102611",
+      "12.1502611"
+    ],
+    "lat": "47.6573593",
+    "lon": "12.1302611",
+    "display_name": "Wall, Bayern, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5956158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "618115247",
+    "boundingbox": [
+      "49.0759934",
+      "49.1159934",
+      "11.9511289",
+      "11.9911289"
+    ],
+    "lat": "49.0959934",
+    "lon": "11.9711289",
+    "display_name": "Wall, Pielenhofen-Wolfsegg (VGem), Landkreis Regensburg, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "585668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240039861",
+    "boundingbox": [
+      "52.7986595",
+      "52.8386595",
+      "12.9401313",
+      "12.9801313"
+    ],
+    "lat": "52.8186595",
+    "lon": "12.9601313",
+    "display_name": "Wall, Landkreis Ostprignitz-Ruppin, Brandenburg, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": "85979283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99658856",
+    "boundingbox": [
+      "42.885876",
+      "42.8867535",
+      "-78.8730936",
+      "-78.8719792"
+    ],
+    "lat": "42.8862872",
+    "lon": "-78.872599134698",
+    "display_name": "Allpro Parking, Washington Street, Allentown, Buffalo, Erie County, New York, 14203, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "149475056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386556922",
+    "boundingbox": [
+      "10.6523798",
+      "10.6526507",
+      "-61.4191494",
+      "-61.4189358"
+    ],
+    "lat": "10.6525155",
+    "lon": "-61.4190253740772",
+    "display_name": "Allpro Security Services, Eastern Main Road, La Baja, Barataria, Saint Joseph, 310407, Trinidad and Tobago",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "77291147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49287938",
+    "boundingbox": [
+      "42.8789447",
+      "42.8796203",
+      "-78.8752479",
+      "-78.8740818"
+    ],
+    "lat": "42.8792825",
+    "lon": "-78.8746648319538",
+    "display_name": "Seneca One Ramp, Exchange St, Larkinville, Buffalo, Erie County, New York, 14204:14210, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "77314588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49368557",
+    "boundingbox": [
+      "42.8811246",
+      "42.8817504",
+      "-78.8756338",
+      "-78.8747338"
+    ],
+    "lat": "42.8814366",
+    "lon": "-78.875186555254",
+    "display_name": "Main & Swan Lot, Swan Street, Allentown, Buffalo, Erie County, New York, 14203, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "77301799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49287270",
+    "boundingbox": [
+      "42.880741",
+      "42.8811374",
+      "-78.8770177",
+      "-78.8760698"
+    ],
+    "lat": "42.88094495",
+    "lon": "-78.8765544532035",
+    "display_name": "Main-Seneca Lot, West Seneca Street, Allentown, Buffalo, Erie County, New York, 14210, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "107493062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184967335",
+    "boundingbox": [
+      "43.0475631",
+      "43.0481237",
+      "-76.1506691",
+      "-76.1502263"
+    ],
+    "lat": "43.0478434",
+    "lon": "-76.1504477249866",
+    "display_name": "Warren Parking Garage, South Warren Street, Downtown, Syracuse, Onondaga County, New York, 13202, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  },
+  {
+    "place_id": "113498573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210015522",
+    "boundingbox": [
+      "43.1545355",
+      "43.1551289",
+      "-77.6028349",
+      "-77.602041"
+    ],
+    "lat": "43.15485155",
+    "lon": "-77.6024385990483",
+    "display_name": "HSBC Plaza Garage, Court Street, Rochester, Monroe County, New York, 14604, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  }
+]

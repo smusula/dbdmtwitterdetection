@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "75578540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42293794",
+    "boundingbox": [
+      "22.2802374",
+      "22.2817913",
+      "114.1573795",
+      "114.1584559"
+    ],
+    "lat": "22.2809674",
+    "lon": "114.157917989942",
+    "display_name": "12-16, \u7f6e\u5730\u5ee3\u5834 LANDMARK, \u4e2d\u74b0 Central, \u9999\u6e2f Hong Kong, \u4e2d\u897f\u5340 Central and Western District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 2F, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.4321866047208
+  },
+  {
+    "place_id": "3272335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "359252460",
+    "boundingbox": [
+      "35.8702242",
+      "35.8703242",
+      "-111.1946353",
+      "-111.1945353"
+    ],
+    "lat": "35.8702742",
+    "lon": "-111.1945853",
+    "display_name": "The Landmark, Coconino County, Arizona, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2576987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356504748",
+    "boundingbox": [
+      "44.8082184",
+      "44.8083184",
+      "-110.7047035",
+      "-110.7046035"
+    ],
+    "lat": "44.8082684",
+    "lon": "-110.7046535",
+    "display_name": "The Landmark, Park County, Wyoming, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "70183414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26996903",
+    "boundingbox": [
+      "51.5213853",
+      "51.5222046",
+      "-0.1635262",
+      "-0.162187"
+    ],
+    "lat": "51.5217805",
+    "lon": "-0.162823959130876",
+    "display_name": "The Landmark, Melcombe Place, Marylebone, City of Westminster, London, Greater London, England, NW1 6JR, UK",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.39414450929386,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "10981515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1052006658",
+    "boundingbox": [
+      "42.057059",
+      "42.097059",
+      "-88.5133067",
+      "-88.4733067"
+    ],
+    "lat": "42.077059",
+    "lon": "-88.4933067",
+    "display_name": "The Landmark, Kane County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "455183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158342736",
+    "boundingbox": [
+      "37.302921",
+      "37.342921",
+      "-79.2891919",
+      "-79.2491919"
+    ],
+    "lat": "37.322921",
+    "lon": "-79.2691919",
+    "display_name": "Landmark, Campbell County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "462396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158474782",
+    "boundingbox": [
+      "38.9051114",
+      "38.9451114",
+      "-77.7077708",
+      "-77.6677708"
+    ],
+    "lat": "38.9251114",
+    "lon": "-77.6877708",
+    "display_name": "Landmark, Fauquier County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "423033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154093308",
+    "boundingbox": [
+      "35.9264696",
+      "35.9664696",
+      "-84.0771337",
+      "-84.0371337"
+    ],
+    "lat": "35.9464696",
+    "lon": "-84.0571337",
+    "display_name": "Landmark, Knox County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "336384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150940180",
+    "boundingbox": [
+      "44.6362908",
+      "44.6762908",
+      "-115.5651129",
+      "-115.5251129"
+    ],
+    "lat": "44.6562908",
+    "lon": "-115.5451129",
+    "display_name": "Landmark, Valley County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22076560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2185101652",
+    "boundingbox": [
+      "49.6494135",
+      "49.6894135",
+      "-96.8409256",
+      "-96.8009256"
+    ],
+    "lat": "49.6694135",
+    "lon": "-96.8209256",
+    "display_name": "Landmark, Manitoba, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "41235745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3018849685",
+    "boundingbox": [
+      "45.7424125",
+      "45.7425125",
+      "8.8698089",
+      "8.8699089"
+    ],
+    "lat": "45.7424625",
+    "lon": "8.8698589",
+    "display_name": "L'Andy LiveMusic, Via Tevere, Zona industriale Villafranca, Bisso, Castiglione Olona, VA, LOM, 21043, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "11266332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1089564589",
+    "boundingbox": [
+      "-13.4057784",
+      "-13.4056784",
+      "48.2716109",
+      "48.2717109"
+    ],
+    "lat": "-13.4057284",
+    "lon": "48.2716609",
+    "display_name": "Number One Disco & Livemusic, Rue du Docteur Manceau, Hell-Ville, District de Nosy Be, Province d'Antsiranana, Madagasikara",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

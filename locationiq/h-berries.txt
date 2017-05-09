@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "70598101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27953774",
+    "boundingbox": [
+      "51.1163679",
+      "51.1164345",
+      "1.1687269",
+      "1.1687703"
+    ],
+    "lat": "51.1163679",
+    "lon": "1.1687703",
+    "display_name": "The Berries, Hawkinge, Shepway, Kent, South East, England, CT19, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "81147900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "73356360",
+    "boundingbox": [
+      "55.6704942",
+      "55.6709359",
+      "-3.793982",
+      "-3.793113"
+    ],
+    "lat": "55.6708391",
+    "lon": "-3.7935207",
+    "display_name": "The Berries, New Lanark, Braxfield Farm, South Lanarkshire, Scotland, ML11, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80513621",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68906656",
+    "boundingbox": [
+      "51.7711941",
+      "51.771524",
+      "-0.3163346",
+      "-0.316053"
+    ],
+    "lat": "51.7713784",
+    "lon": "-0.3161351",
+    "display_name": "The Berries, Sandridge CP, St Albans, Hertfordshire, East of England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111542321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202353560",
+    "boundingbox": [
+      "-37.9962555",
+      "-37.9893716",
+      "146.3731587",
+      "146.3764632"
+    ],
+    "lat": "-37.9926946",
+    "lon": "146.3753903",
+    "display_name": "Berries, Erica, Shire of Baw Baw, Gippsland, Victoria, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "15638296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1428767909",
+    "boundingbox": [
+      "52.3038801",
+      "52.3039801",
+      "4.8605751",
+      "4.8606751"
+    ],
+    "lat": "52.3039301",
+    "lon": "4.8606251",
+    "display_name": "Berries, Galerij, Stadshart, Amstelveen, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1181ZN, Nederland",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  },
+  {
+    "place_id": "43073987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3114464616",
+    "boundingbox": [
+      "55.7928705",
+      "55.7929705",
+      "37.7476372",
+      "37.7477372"
+    ],
+    "lat": "55.7929205",
+    "lon": "37.7476872",
+    "display_name": "Berries, \u0412\u0435\u0440\u043d\u0438\u0441\u0430\u0436\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0440\u0430\u0439\u043e\u043d \u0418\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u043e, \u0412\u043e\u0441\u0442\u043e\u0447\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 105187, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

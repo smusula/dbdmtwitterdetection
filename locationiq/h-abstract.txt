@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "55619285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4339474656",
+    "boundingbox": [
+      "59.854972",
+      "59.855072",
+      "17.6491163",
+      "17.6492163"
+    ],
+    "lat": "59.855022",
+    "lon": "17.6491663",
+    "display_name": "Abstract, Samaritergr\u00e4nd, Kungs\u00e4ngen, F\u00e5lhagen, Uppsala, Landskapet Uppland, Uppsala l\u00e4n, Svealand, 75319, Sverige",
+    "class": "shop",
+    "type": "bookmaker",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19835334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1979341650",
+    "boundingbox": [
+      "38.5849593",
+      "38.5850593",
+      "68.7863317",
+      "68.7864317"
+    ],
+    "lat": "38.5850093",
+    "lon": "68.7863817",
+    "display_name": "Abstract, 93, \u0445\u0438\u0451\u0431\u043e\u043d\u0438 \u0420\u04ef\u0434\u0430\u043a\u04e3, \u0414\u0443\u0448\u0430\u043d\u0431\u0435, \u041d\u043e\u04b3\u0438\u044f\u0438 \u0420\u04ef\u0434\u0430\u043a\u04e3, \u041d\u043e\u04b3\u0438\u044f\u04b3\u043e\u0438 \u0442\u043e\u0431\u0435\u0438 \u04b7\u0443\u043c\u04b3\u0443\u0440\u04e3, 734017, \u0422\u043e\u04b7\u0438\u043a\u0438\u0441\u0442\u043e\u043d",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22345724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2226214619",
+    "boundingbox": [
+      "55.8855916",
+      "55.8856916",
+      "-3.5066055",
+      "-3.5065055"
+    ],
+    "lat": "55.8856416",
+    "lon": "-3.5065555",
+    "display_name": "Abstract, Burnside Path, Dedridge, Livingston, West Lothian, Scotland, EH54 6PZ, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "85239829",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96606641",
+    "boundingbox": [
+      "41.108415",
+      "41.1140775",
+      "-75.6508632",
+      "-75.6501819"
+    ],
+    "lat": "41.1140775",
+    "lon": "-75.6501819",
+    "display_name": "Abstract, Jack Frost Mountain Road, Pocono Mountain Lake Estates, Carbon County, Pennsylvania, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  }
+]

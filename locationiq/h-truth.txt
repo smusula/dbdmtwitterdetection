@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "116894278",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224737391",
+    "boundingbox": [
+      "51.490816",
+      "51.4909093",
+      "-0.2240006",
+      "-0.2237794"
+    ],
+    "lat": "51.4908633",
+    "lon": "-0.223890042717661",
+    "display_name": "Truth, 34, Fulham Palace Road, Brook Green, London Borough of Hammersmith and Fulham, London, Greater London, England, W6 9PH, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "44990508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3200917163",
+    "boundingbox": [
+      "35.622132",
+      "35.622232",
+      "140.10423",
+      "140.10433"
+    ],
+    "lat": "35.622182",
+    "lon": "140.10428",
+    "display_name": "Truth, \u677e\u6ce2\u672c\u901a\u308a, \u677e\u6ce23, \u677e\u6ce2, \u4e2d\u592e\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, 2600044, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "25086828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2424895200",
+    "boundingbox": [
+      "42.6317645",
+      "42.6318645",
+      "-70.6551624",
+      "-70.6550624"
+    ],
+    "lat": "42.6318145",
+    "lon": "-70.6551124",
+    "display_name": "Truth, Babson Boulder Trail, Gloucester, Essex County, Massachusetts, 01930, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "15964943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1457583874",
+    "boundingbox": [
+      "35.8319208",
+      "35.8320208",
+      "139.9337985",
+      "139.9338985"
+    ],
+    "lat": "35.8319708",
+    "lon": "139.9338485",
+    "display_name": "Truth, 280, \u677e\u6238\u5e02, \u5343\u8449\u770c, 270-0014, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

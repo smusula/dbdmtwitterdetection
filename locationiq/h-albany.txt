@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160287570",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175549",
+    "boundingbox": [
+      "42.61379",
+      "42.722379",
+      "-73.8980989",
+      "-73.7232629"
+    ],
+    "lat": "42.6511674",
+    "lon": "-73.7549679",
+    "display_name": "Albany, Albany County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.6841579302533,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160408518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1428091",
+    "boundingbox": [
+      "42.407127",
+      "42.822577",
+      "-74.2648629",
+      "-73.6767619"
+    ],
+    "lat": "42.5986896",
+    "lon": "-73.9843996",
+    "display_name": "Albany County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57376296369788,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160595368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2999142",
+    "boundingbox": [
+      "37.8695716",
+      "37.8989614",
+      "-122.3737487",
+      "-122.2817011"
+    ],
+    "lat": "37.88687",
+    "lon": "-122.2977474",
+    "display_name": "Albany, Alameda County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56494801889196,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160269658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "119877",
+    "boundingbox": [
+      "31.522298",
+      "31.623491",
+      "-84.2732169",
+      "-84.0586409"
+    ],
+    "lat": "31.5782062",
+    "lon": "-84.1556808",
+    "display_name": "Albany, Dougherty County, Georgia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56368460446601,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "19728236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1939438483",
+    "boundingbox": [
+      "-35.0647821",
+      "-34.9847821",
+      "117.843608",
+      "117.923608"
+    ],
+    "lat": "-35.0247821",
+    "lon": "117.883608",
+    "display_name": "Albany, Western Australia, Australia",
+    "class": "place",
+    "type": "town",
+    "importance": 0.54570313732436,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160292330",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186475",
+    "boundingbox": [
+      "44.577575",
+      "44.676747",
+      "-123.1474029",
+      "-123.0326559"
+    ],
+    "lat": "44.6365071",
+    "lon": "-123.1059323",
+    "display_name": "Albany, Linn County, Oregon, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.5274659766325,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160413771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1411398",
+    "boundingbox": [
+      "40.997015",
+      "42.4331518",
+      "-106.3250809",
+      "-105.2714417"
+    ],
+    "lat": "41.6684047",
+    "lon": "-105.6812632",
+    "display_name": "Albany County, Wyoming, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5088805262029,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "113975",
+    "boundingbox": [
+      "32.71437",
+      "32.740918",
+      "-99.3099879",
+      "-99.2823549"
+    ],
+    "lat": "32.723452",
+    "lon": "-99.2973004",
+    "display_name": "Albany, Shackelford County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48782619303073,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160489724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2023140",
+    "boundingbox": [
+      "43.9074975",
+      "44.024949",
+      "-71.3826004",
+      "-71.1403802"
+    ],
+    "lat": "43.98241355",
+    "lon": "-71.2601931446918",
+    "display_name": "Albany, Carroll County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44232966454532,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160272082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130776",
+    "boundingbox": [
+      "36.667025",
+      "36.720391",
+      "-85.1494919",
+      "-85.1163119"
+    ],
+    "lat": "36.6917878",
+    "lon": "-85.1353855",
+    "display_name": "Albany, Clinton County, Kentucky, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.44067216745114,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

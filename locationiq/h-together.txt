@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "53641053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4111087628",
+    "boundingbox": [
+      "34.830701",
+      "34.830801",
+      "134.6382621",
+      "134.6383621"
+    ],
+    "lat": "34.830751",
+    "lon": "134.6383121",
+    "display_name": "together, \u5e83\u7551\u9752\u5c71\u7dda, \u5e83\u7551\u533a\u57ce\u5c71\u753a, \u59eb\u8def\u5e02, \u7f8e\u65b9\u90e1, \u5175\u5eab\u770c, 6700904, \u65e5\u672c",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "133106146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301569160",
+    "boundingbox": [
+      "44.8290172",
+      "44.8293981",
+      "15.8953919",
+      "15.8958856"
+    ],
+    "lat": "44.82920765",
+    "lon": "15.89563875",
+    "display_name": "Together, Japodskih konjanika, Sirkovine, Mali Lug, Biha\u0107, Grad Biha\u0107, Unsko-sanski kanton/\u017eupanija, Federacija Bosne i Hercegovine, 77000, Bosna i Hercegovina",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55960711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4365396434",
+    "boundingbox": [
+      "-12.0072161",
+      "-12.0071161",
+      "-77.083854",
+      "-77.083754"
+    ],
+    "lat": "-12.0071661",
+    "lon": "-77.083804",
+    "display_name": "Together, Andres Avelino Caceres, Sima, San Mart\u00edn de Porres, Lima, 31, Per\u00fa",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "48487905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3585315599",
+    "boundingbox": [
+      "10.6081827",
+      "10.6082827",
+      "104.1787968",
+      "104.1788968"
+    ],
+    "lat": "10.6082327",
+    "lon": "104.1788468",
+    "display_name": "Together, Riverside Road, \u1780\u17d2\u179a\u17bb\u1784\u1780\u17c6\u1796\u178f, \u1781\u17c1\u178f\u17d2\u178f\u1780\u17c6\u1796\u178f, 07416, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "26221493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2488194807",
+    "boundingbox": [
+      "1.3358532",
+      "1.3359532",
+      "103.7845356",
+      "103.7846356"
+    ],
+    "lat": "1.3359032",
+    "lon": "103.7845856",
+    "display_name": "cheers, Dunearn Road, Bukit Timah, North West Community Development Council, 599986, Singapore",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2654357170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4739815315",
+    "boundingbox": [
+      "1.2837819",
+      "1.2838819",
+      "103.8433375",
+      "103.8434375"
+    ],
+    "lat": "1.2838319",
+    "lon": "103.8433875",
+    "display_name": "Cheers, New Bridge Road, Chinatown, Outram, Singapore, Central Singapore Community Development Council, 059429, Singapore",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2653163185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4712233183",
+    "boundingbox": [
+      "1.2947022",
+      "1.2948022",
+      "103.816373",
+      "103.816473"
+    ],
+    "lat": "1.2947522",
+    "lon": "103.816423",
+    "display_name": "Cheers, Tanglin Road, Bukit Merah, Singapore, Central Singapore Community Development Council, 149309, Singapore",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "51840947",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3895041270",
+    "boundingbox": [
+      "1.2763924",
+      "1.2764924",
+      "103.8357117",
+      "103.8358117"
+    ],
+    "lat": "1.2764424",
+    "lon": "103.8357617",
+    "display_name": "Cheers, 71, Kampong Bahru Road, Radin Mas, Outram, Singapore, Central Singapore Community Development Council, 169374, Singapore",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "15690005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1427272807",
+    "boundingbox": [
+      "1.2834381",
+      "1.2835381",
+      "103.8347584",
+      "103.8348584"
+    ],
+    "lat": "1.2834881",
+    "lon": "103.8348084",
+    "display_name": "Cheers, Eng Hoon Street, Chinatown, Outram, Singapore, Central Singapore Community Development Council, 169753, Singapore",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "57179297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4450465000",
+    "boundingbox": [
+      "49.4367631",
+      "49.4368631",
+      "7.7695081",
+      "7.7696081"
+    ],
+    "lat": "49.4368131",
+    "lon": "7.7695581",
+    "display_name": "Cheers, 22-24, Bahnhofstra\u00dfe, Schulzentrum S\u00fcd, Betzenberg, Kaiserslautern, Rheinland-Pfalz, 67655, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "49965425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3722712635",
+    "boundingbox": [
+      "24.4970644",
+      "24.4971644",
+      "54.3649718",
+      "54.3650718"
+    ],
+    "lat": "24.4971144",
+    "lon": "54.3650218",
+    "display_name": "Cheers, Al Bild Street, Al Markaziyah, Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 38126, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "52845688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3988578322",
+    "boundingbox": [
+      "24.4200992",
+      "24.4201992",
+      "54.4446056",
+      "54.4447056"
+    ],
+    "lat": "24.4201492",
+    "lon": "54.4446556",
+    "display_name": "Cheers, Al Qanadeel Street, Al Maha Residential Complex, Capital Centre, Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 77947, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "7388705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "811989030",
+    "boundingbox": [
+      "52.4146594",
+      "52.4147594",
+      "0.7467024",
+      "0.7468024"
+    ],
+    "lat": "52.4147094",
+    "lon": "0.7467524",
+    "display_name": "Cheers, 3, White Hart Street, Thetford, Breckland District, Norfolk, East of England, England, IP24 1AA, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "669139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "248594161",
+    "boundingbox": [
+      "47.9929859",
+      "47.9930859",
+      "7.8478982",
+      "7.8479982"
+    ],
+    "lat": "47.9930359",
+    "lon": "7.8479482",
+    "display_name": "Cheers, 8, An der Mehlwaage, Altstadt-Mitte, Altstadt, Freiburg, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 79098, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

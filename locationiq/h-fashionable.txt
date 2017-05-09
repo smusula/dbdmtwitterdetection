@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "15637461",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1428590837",
+    "boundingbox": [
+      "50.0992015",
+      "50.0993015",
+      "14.397133",
+      "14.397233"
+    ],
+    "lat": "50.0992515",
+    "lon": "14.397183",
+    "display_name": "Fashionable M\u00f3dn\u00ed oble\u010den\u00ed, Na Hut\u00edch, Hanspaulka, Dejvice, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 16201, \u010cesko",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12579684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1187690824",
+    "boundingbox": [
+      "48.1298724",
+      "48.1299724",
+      "11.3827125",
+      "11.3828125"
+    ],
+    "lat": "48.1299224",
+    "lon": "11.3827625",
+    "display_name": "Fashionable Hairstyling, 100, Hartstra\u00dfe, Harthaus, Germering, Landkreis F\u00fcrstenfeldbruck, OB, Bayern, 82110, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "148862391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383928354",
+    "boundingbox": [
+      "12.0522977",
+      "12.0524029",
+      "-61.7531282",
+      "-61.7529763"
+    ],
+    "lat": "12.0523503",
+    "lon": "-61.7530522558438",
+    "display_name": "Moses Fashionable Trends, Grenville Street, Belmont, St. George's, 1473, Grenada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "22998161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2289082540",
+    "boundingbox": [
+      "47.0952648",
+      "47.0953648",
+      "13.6375104",
+      "13.6376104"
+    ],
+    "lat": "47.0953148",
+    "lon": "13.6375604",
+    "display_name": "Fashionable Hairstyling, 488, Murtalstra\u00dfe, Sankt Michael im Lungau, Tamsweg - Lungau, Salzburg, 5582, \u00d6sterreich",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

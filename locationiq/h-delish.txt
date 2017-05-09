@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "26015295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2491749652",
+    "boundingbox": [
+      "-34.9278884",
+      "-34.9277884",
+      "138.5988306",
+      "138.5989306"
+    ],
+    "lat": "-34.9278384",
+    "lon": "138.5988806",
+    "display_name": "delish, Victoria Square, Adelaide, 5000, City of Adelaide, South Australia, 5000, Australia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "15191846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1377940891",
+    "boundingbox": [
+      "60.1639982",
+      "60.1640982",
+      "24.9440458",
+      "24.9441458"
+    ],
+    "lat": "60.1640482",
+    "lon": "24.9440958",
+    "display_name": "Delish, 2, Iso Roobertinkatu, Kaartinkaupunki, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 00120, Suomi",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20536400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2052777478",
+    "boundingbox": [
+      "55.9442362",
+      "55.9443362",
+      "-3.2179451",
+      "-3.2178451"
+    ],
+    "lat": "55.9442862",
+    "lon": "-3.2178951",
+    "display_name": "Delish, 59, Dalry Road, Dalry, Edinburgh, City of Edinburgh, Scotland, EH11 2DW, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49979878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3718469498",
+    "boundingbox": [
+      "53.8658535",
+      "53.8659535",
+      "-1.6859765",
+      "-1.6858765"
+    ],
+    "lat": "53.8659035",
+    "lon": "-1.6859265",
+    "display_name": "Delish, 5, Town Street, Little London, Leeds, Yorkshire and the Humber, England, LS19 7EQ, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "45785346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3245051650",
+    "boundingbox": [
+      "30.2655704",
+      "30.2656704",
+      "-97.7457999",
+      "-97.7456999"
+    ],
+    "lat": "30.2656204",
+    "lon": "-97.7457499",
+    "display_name": "Delish, 209, West 3rd Street, Austin, Travis County, Texas, 78767, United States of America",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645408948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4529088631",
+    "boundingbox": [
+      "49.7475066",
+      "49.7476066",
+      "13.3748072",
+      "13.3749072"
+    ],
+    "lat": "49.7475566",
+    "lon": "13.3748572",
+    "display_name": "Delish, Riegrova, Plze\u0148, okres Plze\u0148-m\u011bsto, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, 301 00, \u010cesko",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52826586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3985288666",
+    "boundingbox": [
+      "14.5393383",
+      "14.5394383",
+      "-90.4526309",
+      "-90.4525309"
+    ],
+    "lat": "14.5393883",
+    "lon": "-90.4525809",
+    "display_name": "Delish, Km. 16.5, Carretera a Pav\u00f3n, Anexo San Rafael, Residenciales El Porvenir, KM. 17, Guatemala, 1051, Guatemala",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "156615666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427341990",
+    "boundingbox": [
+      "51.5240016",
+      "51.5241145",
+      "-0.1393312",
+      "-0.1391769"
+    ],
+    "lat": "51.5240605",
+    "lon": "-0.139254228710341",
+    "display_name": "Del'ish, Whitfield Street, Holborn, London Borough of Camden, London, Greater London, England, W1T 5ED, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

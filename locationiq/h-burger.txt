@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "967622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "293599650",
+    "boundingbox": [
+      "46.5563931",
+      "46.5963931",
+      "11.3010891",
+      "11.3410891"
+    ],
+    "lat": "46.5763931",
+    "lon": "11.3210891",
+    "display_name": "Burger, Salten-Schlern - Salto-Sciliar, BZ, TAA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "415395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153993396",
+    "boundingbox": [
+      "35.3789635",
+      "35.4189635",
+      "-84.4640935",
+      "-84.4240935"
+    ],
+    "lat": "35.3989635",
+    "lon": "-84.4440935",
+    "display_name": "Burger, McMinn County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "145633452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368680658",
+    "boundingbox": [
+      "46.7224723",
+      "46.7231703",
+      "11.6408973",
+      "11.6415491"
+    ],
+    "lat": "46.72284365",
+    "lon": "11.6412433826961",
+    "display_name": "Burger, Brixen - Bressanone, Eisacktal - Valle Isarco, BZ, TAA, 39042, Italia",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2647861962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463420884",
+    "boundingbox": [
+      "46.5624647",
+      "46.5630174",
+      "11.4145763",
+      "11.4156096"
+    ],
+    "lat": "46.56277975",
+    "lon": "11.4151759629609",
+    "display_name": "Burger, Ronacher, Ritten - Renon, Salten-Schlern - Salto-Sciliar, BZ, TAA, 39040, Italia",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "51666835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3872645684",
+    "boundingbox": [
+      "47.2860493",
+      "47.2861493",
+      "8.5756986",
+      "8.5757986"
+    ],
+    "lat": "47.2860993",
+    "lon": "8.5757486",
+    "display_name": "B\u00fcrger, Thalwil, Bezirk Horgen, Z\u00fcrich, 8800, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59947527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8969266",
+    "boundingbox": [
+      "60.3317231",
+      "60.3349724",
+      "-151.2137614",
+      "-151.2135997"
+    ],
+    "lat": "60.3349724",
+    "lon": "-151.2137614",
+    "display_name": "Burger, Kenai Peninsula, Alaska, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149469201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386765540",
+    "boundingbox": [
+      "47.3185572",
+      "47.3188744",
+      "14.4606667",
+      "14.461102"
+    ],
+    "lat": "47.3187066",
+    "lon": "14.4608566669139",
+    "display_name": "B\u00fcrger, P\u00f6lstal, Murtal, Steiermark, 8763, \u00d6sterreich",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60174842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9246687",
+    "boundingbox": [
+      "-25.8137611",
+      "-25.8137057",
+      "28.7470801",
+      "28.7486271"
+    ],
+    "lat": "-25.8137383",
+    "lon": "28.7478673",
+    "display_name": "Burger, Tshwane Ward 105, Bronkhorstspruit, City of Tshwane Metropolitan Municipality, Gauteng, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74657652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38288949",
+    "boundingbox": [
+      "-33.6399302",
+      "-33.6390744",
+      "19.0046374",
+      "19.0048413"
+    ],
+    "lat": "-33.6399302",
+    "lon": "19.0048413",
+    "display_name": "Burger, Drakenstein Ward 18, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7654, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94136519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "129586746",
+    "boundingbox": [
+      "53.5514574",
+      "53.5522948",
+      "8.5717644",
+      "8.5725375"
+    ],
+    "lat": "53.5520515",
+    "lon": "8.5719881",
+    "display_name": "B\u00fcrgermeister-Smidt-Stra\u00dfe, Mitte-Nord, Mitte, Stadtbezirk Bremerhaven-Nord, Bremerhaven, Bremen, 27568, Deutschland",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.13958297447186
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "72866186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32779893",
+    "boundingbox": [
+      "47.5472119",
+      "47.7098546",
+      "25.725049",
+      "25.8964256"
+    ],
+    "lat": "47.6270729",
+    "lon": "25.8072437",
+    "display_name": "Humor, Suceava, Rom\u00e2nia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "13431822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242566206",
+    "boundingbox": [
+      "41.7368428",
+      "41.7568428",
+      "-5.1879517",
+      "-5.1679517"
+    ],
+    "lat": "41.7468428",
+    "lon": "-5.1779517",
+    "display_name": "Humor, Urue\u00f1a, Valladolid, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

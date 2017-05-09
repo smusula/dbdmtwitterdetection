@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "13176988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1221915327",
+    "boundingbox": [
+      "12.926617",
+      "12.926717",
+      "43.920506",
+      "43.920606"
+    ],
+    "lat": "12.926667",
+    "lon": "43.920556",
+    "display_name": "\u062c\u0628\u0644 \u0627\u0644\u0643\u0648\u0633, La\u1e29ij, \u0627\u0644\u064a\u0645\u0646",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "25950293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2487917977",
+    "boundingbox": [
+      "30.4136781",
+      "30.4536781",
+      "48.080489",
+      "48.120489"
+    ],
+    "lat": "30.4336781",
+    "lon": "48.100489",
+    "display_name": "\u0642\u0631\u064a\u0629 \u0643\u0627\u0648\u0633, \u0627\u0644\u0628\u0635\u0631\u0629, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74954832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40054770",
+    "boundingbox": [
+      "45.2403956",
+      "45.240788",
+      "-76.6449522",
+      "-76.643546"
+    ],
+    "lat": "45.240788",
+    "lon": "-76.643957",
+    "display_name": "Kaws Way, Ottawa, Ontario, Canada",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65093328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17322683",
+    "boundingbox": [
+      "31.929834",
+      "31.930747",
+      "-106.3860029",
+      "-106.3842549"
+    ],
+    "lat": "31.930651",
+    "lon": "-106.3854609",
+    "display_name": "Kaws Place, El Paso City, El Paso County, Texas, 79934, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2667046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356754708",
+    "boundingbox": [
+      "31.3520787",
+      "31.3521787",
+      "-93.8374571",
+      "-93.8373571"
+    ],
+    "lat": "31.3521287",
+    "lon": "-93.8374071",
+    "display_name": "KAWS-AM (Hemphill), TX 87, Hemphill, Sabine County, Texas, United States of America",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44501110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3150325302",
+    "boundingbox": [
+      "36.7763536",
+      "36.7764536",
+      "3.0587847",
+      "3.0588847"
+    ],
+    "lat": "36.7764036",
+    "lon": "3.0588347",
+    "display_name": "Kaws kozah, Rue Colonel Haouas, Alger Centre, Da\u00efra Sidi M'Hamed, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16307, RADP",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "143782487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "358716835",
+    "boundingbox": [
+      "38.9927321",
+      "38.99282",
+      "-94.5937553",
+      "-94.5933627"
+    ],
+    "lat": "38.992776",
+    "lon": "-94.5935589602946",
+    "display_name": "Johnny Kaw's Bar and Grill, 7439, Broadway Road, Waldo, Kansas City, Jackson County, Missouri, 64114, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15675338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1422429320",
+    "boundingbox": [
+      "39.1857843",
+      "39.1858843",
+      "-96.5758429",
+      "-96.5757429"
+    ],
+    "lat": "39.1858343",
+    "lon": "-96.5757929",
+    "display_name": "Johnny Kaw's Sports Bar, 1218 1/2, Moro Street, Aggieville, Manhattan, Riley County, Kansas, 66502, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2655338856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4758566321",
+    "boundingbox": [
+      "35.9769658",
+      "35.9770658",
+      "44.0336173",
+      "44.0337173"
+    ],
+    "lat": "35.9770158",
+    "lon": "44.0336673",
+    "display_name": "\u06a9\u06c6\u0645\u06d5\u06b5\u06af\u0627\u06cc \u06a9\u0640\u0627\u0648\u06d5, 123, Old Kirkuk Road, \u0643\u0631\u062f\u0645\u0644\u0627, Arbil District, \u0623\u0631\u0628\u064a\u0644, \u0625\u0642\u0644\u064a\u0645 \u0643\u0631\u062f\u0633\u062a\u0627\u0646, +964750, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "tourism",
+    "type": "caravan_site",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_caravan_park.p.20.png"
+  }
+]

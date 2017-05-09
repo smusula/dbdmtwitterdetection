@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "3284794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "360777728",
+    "boundingbox": [
+      "39.9522475",
+      "39.9523475",
+      "-75.1902609",
+      "-75.1901609"
+    ],
+    "lat": "39.9522975",
+    "lon": "-75.1902109",
+    "display_name": "Pennsylvania Historical Marker: ENIAC, first all purpose digital computer, South 33rd Street, University City, Philadelphia, Philadelphia County, Pennsylvania, 19104, United States of America",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.58853324013839,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "96425729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140049231",
+    "boundingbox": [
+      "42.0364254",
+      "42.039698",
+      "-97.436948",
+      "-97.4364838"
+    ],
+    "lat": "42.0385422",
+    "lon": "-97.4365529",
+    "display_name": "Multi-Purpose Dam 1-A, Norfolk, Madison County, Nebraska, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3038037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357776143",
+    "boundingbox": [
+      "41.1971458",
+      "41.1972458",
+      "-97.7139058",
+      "-97.7138058"
+    ],
+    "lat": "41.1971958",
+    "lon": "-97.7138558",
+    "display_name": "Peterson Multi Purpose Dam, Polk County, Nebraska, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "95868074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137613593",
+    "boundingbox": [
+      "41.973425",
+      "41.9753192",
+      "-97.2380253",
+      "-97.2331465"
+    ],
+    "lat": "41.973425",
+    "lon": "-97.2380253",
+    "display_name": "Maskenthine Multiple-Purpose Dam, Stanton County, Nebraska, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3262596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "359018550",
+    "boundingbox": [
+      "34.8512948",
+      "34.8513948",
+      "-94.253424",
+      "-94.253324"
+    ],
+    "lat": "34.8513448",
+    "lon": "-94.253374",
+    "display_name": "Multiple-Purpose Structure Number 15 Dam, Scott County, Arkansas, United States of America",
+    "class": "waterway",
+    "type": "dam",
+    "importance": 0.425
+  },
+  {
+    "place_id": "143865400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "359591081",
+    "boundingbox": [
+      "-22.610493",
+      "-22.608755",
+      "17.0581921",
+      "17.0598232"
+    ],
+    "lat": "-22.6095523",
+    "lon": "17.0590109084093",
+    "display_name": "General Purpose Grounds, Pionierspark, Windhoek, Khomas Region, Windhoek, 0000, Namibia",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "139124843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329986561",
+    "boundingbox": [
+      "-32.9130545",
+      "-32.9117223",
+      "151.7425372",
+      "151.7438404"
+    ],
+    "lat": "-32.91253755",
+    "lon": "151.743120189691",
+    "display_name": "All Purpose Self Storage, Islington, Newcastle, Newcastle-Maitland, Newcastle, NSW, 2303, Australia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159910675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "446030292",
+    "boundingbox": [
+      "10.2385092",
+      "10.2387717",
+      "123.8352262",
+      "123.8356096"
+    ],
+    "lat": "10.2386483",
+    "lon": "123.835433434048",
+    "display_name": "OPEN AREA (MULTI-PURPOSE HALL), Cebu City, Cebu, Central Visayas, Philippines",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "97731781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "146118689",
+    "boundingbox": [
+      "41.194813",
+      "41.1976976",
+      "-97.7174744",
+      "-97.7139319"
+    ],
+    "lat": "41.19624455",
+    "lon": "-97.7161016547689",
+    "display_name": "Peterson Multi Purpose Reservoir, Polk County, Nebraska, United States of America",
+    "class": "landuse",
+    "type": "reservoir",
+    "importance": 0.3
+  },
+  {
+    "place_id": "153763032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "411864074",
+    "boundingbox": [
+      "11.1052728",
+      "11.1054735",
+      "122.641468",
+      "122.6416477"
+    ],
+    "lat": "11.1053731",
+    "lon": "122.64155784475",
+    "display_name": "Plaza Paloma Multi Purpose Court, Passi, Iloilo, Western Visayas, 5037, Philippines",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  }
+]

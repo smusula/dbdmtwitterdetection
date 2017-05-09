@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160253117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "58860",
+    "boundingbox": [
+      "51.080448",
+      "51.1062013",
+      "4.340287",
+      "4.4062338"
+    ],
+    "lat": "51.0873789",
+    "lon": "4.3667216",
+    "display_name": "Boom, Antwerpen, Vlaanderen, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52416213547269,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "390851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153602232",
+    "boundingbox": [
+      "36.4958985",
+      "36.5358985",
+      "-85.1896786",
+      "-85.1496786"
+    ],
+    "lat": "36.5158985",
+    "lon": "-85.1696786",
+    "display_name": "Boom, Pickett County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16660490",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1572074398",
+    "boundingbox": [
+      "48.7144017",
+      "48.7344017",
+      "-72.3540206",
+      "-72.3340206"
+    ],
+    "lat": "48.7244017",
+    "lon": "-72.3440206",
+    "display_name": "Le Boom, Qu\u00e9bec, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13777402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1247488392",
+    "boundingbox": [
+      "51.0858592",
+      "51.0958592",
+      "4.355343",
+      "4.365343"
+    ],
+    "lat": "51.0908592",
+    "lon": "4.360343",
+    "display_name": "Boom, Statiestraat, Boom, Antwerpen, Vlaanderen, 2850, Belgi\u00eb - Belgique - Belgien",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.26679990974024,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "63807012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15456679",
+    "boundingbox": [
+      "29.9110432",
+      "29.9112469",
+      "-95.0878973",
+      "-95.0878637"
+    ],
+    "lat": "29.9111888",
+    "lon": "-95.0878717",
+    "display_name": "Boom, Newport, Crosby, Harris County, Texas, 77532, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "150994645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396463510",
+    "boundingbox": [
+      "29.9112469",
+      "29.913716",
+      "-95.0878637",
+      "-95.0849629"
+    ],
+    "lat": "29.912568",
+    "lon": "-95.0866219",
+    "display_name": "Boom, Newport, Crosby, Harris County, Texas, 77532, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76794437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47072134",
+    "boundingbox": [
+      "51.8105583",
+      "51.8107628",
+      "7.089224",
+      "7.0907385"
+    ],
+    "lat": "51.8106516",
+    "lon": "7.0897645",
+    "display_name": "Boom, Maria Veen, Reken, Kreis Borken, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48734, Deutschland",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74231314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37837576",
+    "boundingbox": [
+      "51.8104076",
+      "51.8107628",
+      "7.0907385",
+      "7.0959116"
+    ],
+    "lat": "51.8106893",
+    "lon": "7.0934932",
+    "display_name": "Boom, H\u00fclsten, Reken, Kreis Borken, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48734, Deutschland",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74279877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38031534",
+    "boundingbox": [
+      "51.8065959",
+      "51.8102911",
+      "7.0862623",
+      "7.0883355"
+    ],
+    "lat": "51.807936",
+    "lon": "7.0872545",
+    "display_name": "Boom, Maria Veen, Reken, Kreis Borken, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48734, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "126863451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "266577413",
+    "boundingbox": [
+      "51.8099615",
+      "51.8107063",
+      "7.0930167",
+      "7.0930598"
+    ],
+    "lat": "51.8107063",
+    "lon": "7.0930167",
+    "display_name": "Boom, H\u00fclsten, Reken, Kreis Borken, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48734, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

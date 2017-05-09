@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "54700496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4225768105",
+    "boundingbox": [
+      "48.8499212",
+      "48.8500212",
+      "2.3406935",
+      "2.3407935"
+    ],
+    "lat": "48.8499712",
+    "lon": "2.3407435",
+    "display_name": "Cocktails, 13, Rue Racine, Od\u00e9on, 6e, Paris, \u00cele-de-France, 75006, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "20552020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2058508776",
+    "boundingbox": [
+      "34.0981594",
+      "34.0982594",
+      "-118.3175468",
+      "-118.3174468"
+    ],
+    "lat": "34.0982094",
+    "lon": "-118.3174968",
+    "display_name": "Cocktails, West Sunset Boulevard, Little Armenia, LA, Los Angeles County, California, 90028, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "53365218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4065651654",
+    "boundingbox": [
+      "41.4803548",
+      "41.4804548",
+      "-81.7472452",
+      "-81.7471452"
+    ],
+    "lat": "41.4804048",
+    "lon": "-81.7471952",
+    "display_name": "Cocktails, West 93rd Street, Battery Park, Edgewater, Cleveland, Cuyahoga County, Ohio, 44102, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "47770114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3448175217",
+    "boundingbox": [
+      "23.7438933",
+      "23.7439933",
+      "90.3744652",
+      "90.3745652"
+    ],
+    "lat": "23.7439433",
+    "lon": "90.3745152",
+    "display_name": "Cocktails, Road 7A, Nijhum Residential Area, Kalabagan, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1209, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "4169992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "448949338",
+    "boundingbox": [
+      "43.2228772",
+      "43.2229772",
+      "27.9251232",
+      "27.9252232"
+    ],
+    "lat": "43.2229272",
+    "lon": "27.9251732",
+    "display_name": "\u041a\u043e\u043a\u0442\u0435\u0439\u043b\u0438\u0442\u0435, 46, \u0414\u0443\u0431\u0440\u043e\u0432\u043d\u0438\u043a, \u043a\u0432.  \u041b\u0435\u0432\u0441\u043a\u0438, \u0433\u0440. \u0412\u0430\u0440\u043d\u0430, \u041e\u0431\u0449\u0438\u043d\u0430 \u0412\u0430\u0440\u043d\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0430\u0440\u043d\u0430, 9010, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

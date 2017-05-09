@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "54423037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4201125089",
+    "boundingbox": [
+      "54.776475",
+      "54.776575",
+      "-1.5753301",
+      "-1.5752301"
+    ],
+    "lat": "54.776525",
+    "lon": "-1.5752801",
+    "display_name": "being refurbished, Saddler Street, Aykley Heads, Durham, County Durham, North East England, England, DH1 3AA, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17022239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1596847683",
+    "boundingbox": [
+      "55.3337142",
+      "55.3338142",
+      "-1.5799302",
+      "-1.5798302"
+    ],
+    "lat": "55.3337642",
+    "lon": "-1.5798802",
+    "display_name": "[X]IT Refurbished Computers, Percy Street, Amble, Northumberland, North East England, England, NE65 0AA, UK",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  }
+]

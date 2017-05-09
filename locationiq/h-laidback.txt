@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "61519114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11294176",
+    "boundingbox": [
+      "27.4478756",
+      "27.4511039",
+      "-80.416108",
+      "-80.4160078"
+    ],
+    "lat": "27.450923",
+    "lon": "-80.4160964",
+    "display_name": "Laidback Way, Port St. Lucie, St. Lucie County, Florida, 34945, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65111097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16849083",
+    "boundingbox": [
+      "34.607881",
+      "34.608408",
+      "-109.8028329",
+      "-109.8004369"
+    ],
+    "lat": "34.607896",
+    "lon": "-109.8020369",
+    "display_name": "Laidback Way, Apache County, Arizona, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62050651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12132544",
+    "boundingbox": [
+      "33.111639",
+      "33.1128167",
+      "-80.1361519",
+      "-80.1339682"
+    ],
+    "lat": "33.1128167",
+    "lon": "-80.1339682",
+    "display_name": "Laidback Court, Pine Forest, Berkeley County, South Carolina, 29483, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61750667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12169394",
+    "boundingbox": [
+      "34.746775",
+      "34.749342",
+      "-81.1873049",
+      "-81.1841529"
+    ],
+    "lat": "34.747192",
+    "lon": "-81.1864819",
+    "display_name": "Laidback Drive, Airlee, Chester County, South Carolina, 29706, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "52272857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3942531032",
+    "boundingbox": [
+      "-28.0068218",
+      "-28.0067218",
+      "153.4307801",
+      "153.4308801"
+    ],
+    "lat": "-28.0067718",
+    "lon": "153.4308301",
+    "display_name": "Longboards Laidback Eatery & Bar, 9, Hamilton Avenue, Surfers Paradise, Gold Coast, Gold Coast City, QLD, 4217, Australia",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "45465487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3220433314",
+    "boundingbox": [
+      "10.086921",
+      "10.087021",
+      "99.8262394",
+      "99.8263394"
+    ],
+    "lat": "10.086971",
+    "lon": "99.8262894",
+    "display_name": "Laidback Village, Nay Pon Road Sairee New Walking Street, \u0e17\u0e23\u0e32\u0e22\u0e23\u0e35, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e38\u0e23\u0e32\u0e29\u0e0e\u0e23\u0e4c\u0e18\u0e32\u0e19\u0e35, 84360, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

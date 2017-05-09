@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "25083705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2424578124",
+    "boundingbox": [
+      "34.0185204",
+      "34.0585204",
+      "77.1828513",
+      "77.2228513"
+    ],
+    "lat": "34.0385204",
+    "lon": "77.2028513",
+    "display_name": "Chilling, Leh District, Jammu and Kashmir, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "129760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26159097",
+    "boundingbox": [
+      "50.8351294",
+      "50.8352294",
+      "-1.277387",
+      "-1.277287"
+    ],
+    "lat": "50.8351794",
+    "lon": "-1.277337",
+    "display_name": "Chilling, Chilling Lane, Fareham, Hampshire, South East, England, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649693861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4628229020",
+    "boundingbox": [
+      "47.4052143",
+      "47.4053143",
+      "8.4027257",
+      "8.4028257"
+    ],
+    "lat": "47.4052643",
+    "lon": "8.4027757",
+    "display_name": "Chilling, L\u00f6wenstrasse, Basi, Dietikon, Bezirk Dietikon, Z\u00fcrich, 8953, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

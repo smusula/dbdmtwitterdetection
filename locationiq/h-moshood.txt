@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "107972105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "187330368",
+    "boundingbox": [
+      "9.0405039",
+      "9.0428533",
+      "7.4878589",
+      "7.4915902"
+    ],
+    "lat": "9.0417735",
+    "lon": "7.4898826",
+    "display_name": "Moshood Abiola Way, Central Business District, Abuja, Municipal Area Council, Federal Capital Territory, 223140, Nigeria",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103626447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169545062",
+    "boundingbox": [
+      "9.0296151",
+      "9.0406924",
+      "7.4685909",
+      "7.4878912"
+    ],
+    "lat": "9.0355733",
+    "lon": "7.4784631",
+    "display_name": "Moshood Abiola Way, Central Business District, Abuja, Municipal Area Council, Federal Capital Territory, 900211, Nigeria",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84055368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91332539",
+    "boundingbox": [
+      "6.4276151",
+      "6.4277244",
+      "3.437588",
+      "3.4410987"
+    ],
+    "lat": "6.4276151",
+    "lon": "3.437588",
+    "display_name": "Moshood Olugbani Street, Makoko, Victoria Island, Eti Osa, Lagos, Nigeria",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "113278442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "209312658",
+    "boundingbox": [
+      "-26.556179",
+      "-26.5559845",
+      "29.0905952",
+      "29.0921754"
+    ],
+    "lat": "-26.5559845",
+    "lon": "29.0911167",
+    "display_name": "Moshood Abiola Str, Govan Mbeki Ward 12, Govan Mbeki, Gert Sibande, Mpumalanga, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "97527355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "144532254",
+    "boundingbox": [
+      "6.4417909",
+      "6.4423413",
+      "3.3684097",
+      "3.3697947"
+    ],
+    "lat": "6.4419101",
+    "lon": "3.3694948",
+    "display_name": "Alhaji Tijani Moshood Road, Ijora, Ilado, Apapa, Lagos, Nigeria",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

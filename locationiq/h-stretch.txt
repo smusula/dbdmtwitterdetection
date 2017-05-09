@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "102524765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165343143",
+    "boundingbox": [
+      "43.9106054",
+      "43.9107329",
+      "15.4943319",
+      "15.4945051"
+    ],
+    "lat": "43.91066915",
+    "lon": "15.4944185",
+    "display_name": "stretch, Brune Bu\u0161i\u0107a, Pako\u0161tane, Zadarska \u017eupanija, 23211, Hrvatska",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "30193680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2731526231",
+    "boundingbox": [
+      "51.5859131",
+      "51.5860131",
+      "4.7766473",
+      "4.7767473"
+    ],
+    "lat": "51.5859631",
+    "lon": "4.7766973",
+    "display_name": "Stretch, 6, Houtmarktpassage, Breda, Noord-Brabant, Nederland, 4811JW, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "32561952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2778811553",
+    "boundingbox": [
+      "-34.5935423",
+      "-34.5934423",
+      "-58.4127496",
+      "-58.4126496"
+    ],
+    "lat": "-34.5934923",
+    "lon": "-58.4126996",
+    "display_name": "Stretch, 1410, Billinghurst, Recoleta, CABA, Comuna 2, CABA, C1186AAN, Argentina",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

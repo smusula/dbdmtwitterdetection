@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "134241160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306599003",
+    "boundingbox": [
+      "51.5472386",
+      "51.5486575",
+      "-2.5587823",
+      "-2.5574958"
+    ],
+    "lat": "51.54802335",
+    "lon": "-2.5581228900369",
+    "display_name": "Equinox, Bradley Stoke CP, Branson Court, South Gloucestershire, South West England, England, BS32, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "59231625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7708793",
+    "boundingbox": [
+      "38.7488991",
+      "38.7497071",
+      "-123.513007",
+      "-123.5117417"
+    ],
+    "lat": "38.7491886",
+    "lon": "-123.512317",
+    "display_name": "Equinox, Sonoma County, California, 95497, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78554181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55477303",
+    "boundingbox": [
+      "33.69547",
+      "33.6962216",
+      "-117.7168519",
+      "-117.7158168"
+    ],
+    "lat": "33.695545",
+    "lon": "-117.7158638",
+    "display_name": "Equinox, Portola Springs, Irvine, Orange County, California, 92618, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84138317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91531078",
+    "boundingbox": [
+      "14.3458836",
+      "14.3459166",
+      "120.9237137",
+      "120.9242473"
+    ],
+    "lat": "14.3459089",
+    "lon": "120.9239697",
+    "display_name": "Equinox, Sunrise Hills, Dasmari\u00f1as, Cavite, Calabarzon, 4114, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "50235519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3738168390",
+    "boundingbox": [
+      "48.8577541",
+      "48.8578541",
+      "2.357932",
+      "2.358032"
+    ],
+    "lat": "48.8578041",
+    "lon": "2.357982",
+    "display_name": "Equinox, Rue des Rosiers, St-Gervais, 4e, Paris, \u00cele-de-France, 75004, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "27949218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2620440318",
+    "boundingbox": [
+      "43.6476551",
+      "43.6477551",
+      "-79.3788707",
+      "-79.3787707"
+    ],
+    "lat": "43.6477051",
+    "lon": "-79.3788207",
+    "display_name": "EQUINOX, 30, Wellington Street West, South Core, Old Toronto, Toronto, Ontario, M5E, Canada",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "19747875",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1967357676",
+    "boundingbox": [
+      "47.3880203",
+      "47.3881203",
+      "8.5141161",
+      "8.5142161"
+    ],
+    "lat": "47.3880703",
+    "lon": "8.5141661",
+    "display_name": "Equinox, 18, Turbinenstrasse, Escher Wyss, Industriequartier, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8040, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "20341432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2034654803",
+    "boundingbox": [
+      "51.4875616",
+      "51.4876616",
+      "-0.0102883",
+      "-0.0101883"
+    ],
+    "lat": "51.4876116",
+    "lon": "-0.0102383",
+    "display_name": "Equinox, 86-92, Manchester Road, Cubitt Town, London Borough of Tower Hamlets, London, Greater London, England, E14 3BD, UK",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "109232586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192932029",
+    "boundingbox": [
+      "51.4869964",
+      "51.4876246",
+      "-0.01054",
+      "-0.0097274"
+    ],
+    "lat": "51.4873719",
+    "lon": "-0.0103518904441843",
+    "display_name": "Equinox, 86-92, Manchester Road, Cubitt Town, London Borough of Tower Hamlets, London, Greater London, England, E14 3BD, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "161033468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6609588",
+    "boundingbox": [
+      "52.6407612",
+      "52.6420557",
+      "-1.1339195",
+      "-1.1318375"
+    ],
+    "lat": "52.6413993",
+    "lon": "-1.13358047692211",
+    "display_name": "Equinox, 99, Burleys Way, St Matthew's, Leicester, City of Leicester, East Midlands, England, LE1 3BE, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

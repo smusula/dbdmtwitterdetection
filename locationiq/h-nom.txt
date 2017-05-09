@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "72713693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32973955",
+    "boundingbox": [
+      "64.462973",
+      "64.561083",
+      "-165.5166559",
+      "-165.3221429"
+    ],
+    "lat": "64.5011111",
+    "lon": "-165.4063888",
+    "display_name": "Nome, Alaska, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.55069018526915,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "82245077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81249059",
+    "boundingbox": [
+      "45.9154965",
+      "45.9214516",
+      "6.4036409",
+      "6.4168313"
+    ],
+    "lat": "45.9203022",
+    "lon": "6.4126489",
+    "display_name": "Le Nom, Saint-Jean-de-Sixt, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74450, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "86748978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103186960",
+    "boundingbox": [
+      "45.88235",
+      "45.8991221",
+      "6.3203037",
+      "6.350809"
+    ],
+    "lat": "45.8914052",
+    "lon": "6.3350092",
+    "display_name": "Le Nom, Th\u00f4nes, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74230, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "82487974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81249063",
+    "boundingbox": [
+      "45.8991221",
+      "45.919832",
+      "6.350809",
+      "6.4035116"
+    ],
+    "lat": "45.9115706",
+    "lon": "6.3757476",
+    "display_name": "Le Nom, Les Villards-sur-Th\u00f4nes, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74230, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2648394314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236686061",
+    "boundingbox": [
+      "45.9056627",
+      "45.9090632",
+      "6.4181297",
+      "6.4225272"
+    ],
+    "lat": "45.9068003",
+    "lon": "6.4200032",
+    "display_name": "Le Nom, La Clusaz, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74220, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2648394335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464817993",
+    "boundingbox": [
+      "45.9032962",
+      "45.9056627",
+      "6.4218807",
+      "6.4225804"
+    ],
+    "lat": "45.9045385",
+    "lon": "6.4221981",
+    "display_name": "Le Nom, La Clusaz, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74220, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "4582182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501497624",
+    "boundingbox": [
+      "7.5872",
+      "7.6272",
+      "8.4374",
+      "8.4774"
+    ],
+    "lat": "7.6072",
+    "lon": "8.4574",
+    "display_name": "Nom, Markurdi, Benue, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "108828010",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191206239",
+    "boundingbox": [
+      "47.9908254",
+      "47.9946757",
+      "16.2253287",
+      "16.2287754"
+    ],
+    "lat": "47.9928471",
+    "lon": "16.2267872138512",
+    "display_name": "N\u00d6M, Gemeinde Baden, Bezirk Baden, Nieder\u00f6sterreich, 2500, \u00d6sterreich",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "53325559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4061239956",
+    "boundingbox": [
+      "59.3448851",
+      "59.3449851",
+      "18.061517",
+      "18.061617"
+    ],
+    "lat": "59.3449351",
+    "lon": "18.061567",
+    "display_name": "Le Nom, Roslagsgatan, Sibirien, Vasastan, Norrmalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 113 55, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "53739063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4116351275",
+    "boundingbox": [
+      "-6.3090092",
+      "-6.2790092",
+      "142.2167125",
+      "142.2467125"
+    ],
+    "lat": "-6.2940092",
+    "lon": "142.2317125",
+    "display_name": "Nomad River Airport, Nomad District, Western, Papua Region, Papua Niugini",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

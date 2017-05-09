@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "109743501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "195201858",
+    "boundingbox": [
+      "56.622801",
+      "56.6234895",
+      "-6.0742494",
+      "-6.0733956"
+    ],
+    "lat": "56.62314555",
+    "lon": "-6.07381104738137",
+    "display_name": "Original, Tobermory, Argyll and Bute, Scotland, UK",
+    "class": "landuse",
+    "type": "cemetery",
+    "importance": 0.3
+  },
+  {
+    "place_id": "91859082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "121424330",
+    "boundingbox": [
+      "47.64283",
+      "47.6437852",
+      "14.0875764",
+      "14.0885517"
+    ],
+    "lat": "47.6431863",
+    "lon": "14.0882062",
+    "display_name": "Original, Hinterstoder, Kirchdorf an der Krems, Ober\u00f6sterreich, 4573, \u00d6sterreich",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "134104403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305894072",
+    "boundingbox": [
+      "-45.0342139",
+      "-45.0308533",
+      "168.6402113",
+      "168.6437758"
+    ],
+    "lat": "-45.0320488",
+    "lon": "168.6428208",
+    "display_name": "Original, Fernhill, Queenstown, Queenstown-Lakes District, Otago, 9348, New Zealand/Aotearoa",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "14290090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1301125030",
+    "boundingbox": [
+      "48.8547567",
+      "48.8548567",
+      "2.3689256",
+      "2.3690256"
+    ],
+    "lat": "48.8548067",
+    "lon": "2.3689756",
+    "display_name": "Original, 8, Boulevard Beaumarchais, Beaubourg, Bastille, Paris, \u00cele-de-France, 750011, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "38425529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2892028391",
+    "boundingbox": [
+      "41.382427",
+      "41.382527",
+      "2.1663127",
+      "2.1664127"
+    ],
+    "lat": "41.382477",
+    "lon": "2.1663627",
+    "display_name": "Original, 10, Pla\u00e7a dels \u00c0ngels, el Raval, Ciutat Vella, Barcelona, BCN, CAT, 08002, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "40584577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2969277274",
+    "boundingbox": [
+      "41.4005124",
+      "41.4006124",
+      "2.1689876",
+      "2.1690876"
+    ],
+    "lat": "41.4005624",
+    "lon": "2.1690376",
+    "display_name": "Original, Carrer de Proven\u00e7a, la Dreta de l'Eixample, Eixample, Barcelona, BCN, CAT, 08009, Espa\u00f1a",
+    "class": "shop",
+    "type": "houseware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47690583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3465607620",
+    "boundingbox": [
+      "44.8080218",
+      "44.8081218",
+      "20.4763294",
+      "20.4764294"
+    ],
+    "lat": "44.8080718",
+    "lon": "20.4763794",
+    "display_name": "Original, 7, \u041a\u0430\u0440\u043d\u0435\u045f\u0438\u0458\u0435\u0432\u0430, Had\u017eipopovac, \u041f\u0430\u043b\u0438\u043b\u0443\u043b\u0430, \u0411\u0435\u043e\u0433\u0440\u0430\u0434, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 11000, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55076115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4263967481",
+    "boundingbox": [
+      "-0.2434141",
+      "-0.2433141",
+      "-78.5329222",
+      "-78.5328222"
+    ],
+    "lat": "-0.2433641",
+    "lon": "-78.5328722",
+    "display_name": "El Original, Av. Mariscal Sucre, Pablo Huras, Villaflora, La Magdalena, Quito, Pichincha, 170602, Ecuador",
+    "class": "shop",
+    "type": "car_parts",
+    "importance": 0.101
+  },
+  {
+    "place_id": "32145815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2768005362",
+    "boundingbox": [
+      "49.6791477",
+      "49.6792477",
+      "13.9971521",
+      "13.9972521"
+    ],
+    "lat": "49.6791977",
+    "lon": "13.9972021",
+    "display_name": "Original, Politick\u00fdch v\u011bz\u0148\u016f, B\u0159ezov\u00e9 Hory, P\u0159\u00edbram, okres P\u0159\u00edbram, St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, 26101, \u010cesko",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "122469894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "247451813",
+    "boundingbox": [
+      "42.8930285",
+      "42.8930902",
+      "20.8655529",
+      "20.8656137"
+    ],
+    "lat": "42.8930595",
+    "lon": "20.865583198713",
+    "display_name": "Original, 27, Mbreti Pjet\u00ebr I, Mitrovic\u00eb, Komuna e Mitrovic\u00ebs, Rrafsh i Kosov\u00ebs, Rajoni i Mitrovic\u00ebs (02), 40000, \u0421\u0440\u0431\u0438\u0458\u0430 (Serbia)",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

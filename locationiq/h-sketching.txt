@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "41427303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3020054172",
+    "boundingbox": [
+      "-30.5609899",
+      "-30.5608899",
+      "137.39992",
+      "137.40002"
+    ],
+    "lat": "-30.5609399",
+    "lon": "137.39997",
+    "display_name": "Sketching Pile C, South Australia, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "139998232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334106808",
+    "boundingbox": [
+      "33.6673241",
+      "33.6674916",
+      "-84.0178186",
+      "-84.0176107"
+    ],
+    "lat": "33.6674162",
+    "lon": "-84.0177177554582",
+    "display_name": "The Sketching Pad, Center Street Northeast, Conyers, Rockdale County, Georgia, 30012, United States of America",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

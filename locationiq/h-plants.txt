@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "449387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154289229",
+    "boundingbox": [
+      "38.8934143",
+      "38.9334143",
+      "-81.9248583",
+      "-81.8848583"
+    ],
+    "lat": "38.9134143",
+    "lon": "-81.9048583",
+    "display_name": "Plants, Meigs County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610469945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454052279",
+    "boundingbox": [
+      "-13.6705087",
+      "-13.669456",
+      "-76.1470623",
+      "-76.1458715"
+    ],
+    "lat": "-13.6700567",
+    "lon": "-76.1463849102034",
+    "display_name": "plants, Vista My alge, San Clemente, Pisco, Ica, Per\u00fa",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.31
+  },
+  {
+    "place_id": "52024463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3893904381",
+    "boundingbox": [
+      "54.319208",
+      "54.319308",
+      "10.1244326",
+      "10.1245326"
+    ],
+    "lat": "54.319258",
+    "lon": "10.1244826",
+    "display_name": "Plants, 17b, Scha\u00dfstra\u00dfe, Exerzierplatz, Kiel, Schleswig-Holstein, 24103, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "102122006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164026508",
+    "boundingbox": [
+      "37.7379088",
+      "37.7380495",
+      "-119.5764571",
+      "-119.5762852"
+    ],
+    "lat": "37.73799035",
+    "lon": "-119.576377614012",
+    "display_name": "Plants, 8307, Sierra Circle, Half Dome Village, Yosemite Valley, Mariposa County, California, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46679972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3366644360",
+    "boundingbox": [
+      "37.4165011",
+      "37.4166011",
+      "140.3618983",
+      "140.3619983"
+    ],
+    "lat": "37.4165511",
+    "lon": "140.3619483",
+    "display_name": "PLANTS, \u5185\u74b0\u72b6\u7dda, \u90e1\u5c71\u5e02, \u5b89\u9054\u90e1, \u798f\u5cf6\u770c, 963-8043, \u65e5\u672c",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23510747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2314473381",
+    "boundingbox": [
+      "35.7484501",
+      "35.7485501",
+      "139.827036",
+      "139.827136"
+    ],
+    "lat": "35.7485001",
+    "lon": "139.827086",
+    "display_name": "PLANTS, \u5ddd\u306e\u624b\u901a\u308a, \u845b\u98fe\u533a, \u6771\u4eac\u90fd, 124-0006, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "46171052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3326837647",
+    "boundingbox": [
+      "6.9983474",
+      "6.9984474",
+      "100.4481354",
+      "100.4482354"
+    ],
+    "lat": "6.9983974",
+    "lon": "100.4481854",
+    "display_name": "Plants, 4, \u0e2b\u0e32\u0e14\u0e43\u0e2b\u0e0d\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e07\u0e02\u0e25\u0e32, 90110, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

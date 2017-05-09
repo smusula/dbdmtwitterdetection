@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "4149046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "448789691",
+    "boundingbox": [
+      "45.560923",
+      "45.561023",
+      "-73.1705225",
+      "-73.1704225"
+    ],
+    "lat": "45.560973",
+    "lon": "-73.1704725",
+    "display_name": "Rocky, Longueuil, Qu\u00e9bec, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "36313290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2842812073",
+    "boundingbox": [
+      "-14.7278277",
+      "-14.7277277",
+      "144.7757833",
+      "144.7758833"
+    ],
+    "lat": "-14.7277777",
+    "lon": "144.7758333",
+    "display_name": "Rocky, QLD, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "360492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151422389",
+    "boundingbox": [
+      "39.8408199",
+      "39.8808199",
+      "-105.2674892",
+      "-105.2274892"
+    ],
+    "lat": "39.8608199",
+    "lon": "-105.2474892",
+    "display_name": "Rocky, Jefferson County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "375197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151780078",
+    "boundingbox": [
+      "34.5717719",
+      "34.6117719",
+      "-94.389382",
+      "-94.349382"
+    ],
+    "lat": "34.5917719",
+    "lon": "-94.369382",
+    "display_name": "Rocky, Polk County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41979167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3064121671",
+    "boundingbox": [
+      "8.246111",
+      "8.286111",
+      "-13.0980559",
+      "-13.0580559"
+    ],
+    "lat": "8.266111",
+    "lon": "-13.0780559",
+    "display_name": "Rocky, Western Area Rural, Western Area, Sierra Leone",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24390345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2376669406",
+    "boundingbox": [
+      "-28.4363192",
+      "-28.4163192",
+      "145.724789",
+      "145.744789"
+    ],
+    "lat": "-28.4263192",
+    "lon": "145.734789",
+    "display_name": "Rocky, QLD, 4490, Australia",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "42976887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3106020603",
+    "boundingbox": [
+      "6.64842",
+      "6.64852",
+      "-10.6937999",
+      "-10.6936999"
+    ],
+    "lat": "6.64847",
+    "lon": "-10.6937499",
+    "display_name": "Rocky, Gbojay, Suehn Mecca, Bomi County, Liberia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160291790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "185191",
+    "boundingbox": [
+      "35.150133",
+      "35.1601107",
+      "-99.0630289",
+      "-99.0555013"
+    ],
+    "lat": "35.1569986",
+    "lon": "-99.0603545",
+    "display_name": "Rocky, Washita County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33670773196559,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "60717945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10596457",
+    "boundingbox": [
+      "40.592771",
+      "40.594471",
+      "-122.2608729",
+      "-122.2604449"
+    ],
+    "lat": "40.593736",
+    "lon": "-122.2605179",
+    "display_name": "Rocky, Redding, Shasta County, California, 96073, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "143258800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "354776461",
+    "boundingbox": [
+      "29.838648",
+      "29.8388814",
+      "-98.6134878",
+      "-98.6132024"
+    ],
+    "lat": "29.838648",
+    "lon": "-98.6134878",
+    "display_name": "Rocky, Bergheim, Kendall County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

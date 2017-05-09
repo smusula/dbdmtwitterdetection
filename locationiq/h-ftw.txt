@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "3530378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369121170",
+    "boundingbox": [
+      "32.8036231",
+      "32.8336231",
+      "-97.3764384",
+      "-97.3464384"
+    ],
+    "lat": "32.8186231",
+    "lon": "-97.3614384",
+    "display_name": "Fort Worth Meacham International Airport, Lincoln Avenue, Fort Worth, Tarrant County, Texas, 76106, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.27370560486204,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "133672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26530357",
+    "boundingbox": [
+      "56.8154737",
+      "56.8254737",
+      "-5.1109114",
+      "-5.1009114"
+    ],
+    "lat": "56.8204737",
+    "lon": "-5.1059114",
+    "display_name": "Fort William, Macfarlane Way, Upper Achintore, Fort William, Highland, Scotland, PH33 6TQ, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.24054450316591,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "51665711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3876464957",
+    "boundingbox": [
+      "32.8184268",
+      "32.8185268",
+      "-97.3613618",
+      "-97.3612618"
+    ],
+    "lat": "32.8184768",
+    "lon": "-97.3613118",
+    "display_name": "FTW, Lincoln Avenue, Fort Worth, Tarrant County, Texas, 76106, United States of America",
+    "class": "aeroway",
+    "type": "terminal",
+    "importance": 0.101
+  },
+  {
+    "place_id": "143009201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "353221475",
+    "boundingbox": [
+      "41.0753771",
+      "41.0756049",
+      "-83.583039",
+      "-83.5827244"
+    ],
+    "lat": "41.07549095",
+    "lon": "-83.582881695202",
+    "display_name": "FTW, SR 12, Hancock County, Ohio, 44804, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

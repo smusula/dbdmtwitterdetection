@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "396048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153476804",
+    "boundingbox": [
+      "33.30706",
+      "33.34706",
+      "-85.4480068",
+      "-85.4080068"
+    ],
+    "lat": "33.32706",
+    "lon": "-85.4280068",
+    "display_name": "Peace, Randolph County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "416736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153809083",
+    "boundingbox": [
+      "32.3887475",
+      "32.4287475",
+      "-86.7910938",
+      "-86.7510938"
+    ],
+    "lat": "32.4087475",
+    "lon": "-86.7710938",
+    "display_name": "Peace, Autauga County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41845171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3046136430",
+    "boundingbox": [
+      "48.2883079",
+      "48.3283079",
+      "38.0520529",
+      "38.0920529"
+    ],
+    "lat": "48.3083079",
+    "lon": "38.0720529",
+    "display_name": "\u041c\u0438\u0440\u043d\u0435, \u0413\u043e\u0440\u043b\u0456\u0432\u043a\u0430, \u0413\u043e\u0440\u043b\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 84646, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63572865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15136712",
+    "boundingbox": [
+      "29.379582",
+      "29.380211",
+      "-98.6205319",
+      "-98.6190279"
+    ],
+    "lat": "29.379883",
+    "lon": "-98.6198259",
+    "display_name": "Peace, San Antonio, Bexar County, Texas, 78236, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149635673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "387423455",
+    "boundingbox": [
+      "29.3786384",
+      "29.3791701",
+      "-98.622937",
+      "-98.6215734"
+    ],
+    "lat": "29.3789295",
+    "lon": "-98.6221905",
+    "display_name": "Peace, Valley Hi, San Antonio, Bexar County, Texas, 78236, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63869977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15136714",
+    "boundingbox": [
+      "29.37857",
+      "29.3786384",
+      "-98.6231125",
+      "-98.622937"
+    ],
+    "lat": "29.37857",
+    "lon": "-98.6231125",
+    "display_name": "Peace, Valley Hi, San Antonio, Bexar County, Texas, 78236, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90858289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117928078",
+    "boundingbox": [
+      "14.6703979",
+      "14.6707109",
+      "121.006598",
+      "121.0073331"
+    ],
+    "lat": "14.6703979",
+    "lon": "121.006598",
+    "display_name": "Peace, Jordanville Homes, Baesa, Quezon City, District VI, Quezon City, Metro Manila, 1476, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68474886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23250536",
+    "boundingbox": [
+      "14.7063699",
+      "14.7071066",
+      "121.0757285",
+      "121.0772793"
+    ],
+    "lat": "14.7064034",
+    "lon": "121.07637",
+    "display_name": "Peace, Sitio Ruby, Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60401816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9557530",
+    "boundingbox": [
+      "32.9458729",
+      "32.9467546",
+      "-96.1041744",
+      "-96.1037868"
+    ],
+    "lat": "32.946402",
+    "lon": "-96.1041569",
+    "display_name": "Peace, Boles Home, Hunt County, Texas, 75474, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67663891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20900013",
+    "boundingbox": [
+      "29.559348",
+      "29.559379",
+      "-95.7847379",
+      "-95.7835019"
+    ],
+    "lat": "29.559364",
+    "lon": "-95.7841029",
+    "display_name": "Peace, Rosenberg, Fort Bend County, Texas, 77471, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

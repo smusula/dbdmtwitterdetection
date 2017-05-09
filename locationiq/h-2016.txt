@@ -1,0 +1,170 @@
+[
+  {
+    "place_id": "160641355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3296380",
+    "boundingbox": [
+      "53.22687",
+      "53.2291691",
+      "-0.4396192",
+      "-0.4391087"
+    ],
+    "lat": "53.2279342",
+    "lon": "-0.4393829",
+    "display_name": "Sandhill Beckside East, Lincolnshire, East Midlands, England, UK",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2647466676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6544864",
+    "boundingbox": [
+      "34.8838563",
+      "35.076483",
+      "0.2486032",
+      "0.4735959"
+    ],
+    "lat": "34.9669417",
+    "lon": "0.3020703",
+    "display_name": "A\u00efn Soltane, da\u00efra Ouled Brahim, Sa\u00efda - \u0633\u0639\u064a\u062f\u0629, RADP",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161045342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "-33.892596491001",
+      "-33.892496491001",
+      "151.20262966473",
+      "151.20272966473"
+    ],
+    "lat": "-33.8925464910005",
+    "lon": "151.202679664726",
+    "display_name": "Redfern, Sydney, NSW, 2016, Australia",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161841245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "36.858088907645",
+      "36.858188907645",
+      "10.329515815976",
+      "10.329615815976"
+    ],
+    "lat": "36.8581389076448",
+    "lon": "10.3295658159762",
+    "display_name": "\u0623\u0645\u064a\u0644\u0643\u0627\u0631, \u0642\u0631\u0637\u0627\u062c, Carthage, \u062a\u0648\u0646\u0633, 2016, \u062a\u0648\u0646\u0633",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "2646975024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6810745",
+    "boundingbox": [
+      "47.6945307",
+      "47.7405065",
+      "19.0057351",
+      "19.0963912"
+    ],
+    "lat": "47.71734495",
+    "lon": "19.0622492535757",
+    "display_name": "Le\u00e1nyfalu, Szentendrei j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2016, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "postal_code",
+    "importance": 0.335,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161245878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "47.715842791236",
+      "47.715942791236",
+      "19.088439027879",
+      "19.088539027879"
+    ],
+    "lat": "47.7158927912357",
+    "lon": "19.0884890278794",
+    "display_name": "Le\u00e1nyfalu, Szentendrei j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 2016, Magyarorsz\u00e1g",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161288358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "56.958788915725",
+      "56.958888915725",
+      "23.617987209234",
+      "23.618087209234"
+    ],
+    "lat": "56.9588389157254",
+    "lon": "23.6180372092336",
+    "display_name": "Kauguri, J\u016brmala, Vidzeme, 2016, Latvija",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161099790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "46.945152213215",
+      "46.945252213215",
+      "6.8518181643989",
+      "6.8519181643989"
+    ],
+    "lat": "46.9452022132151",
+    "lon": "6.85186816439886",
+    "display_name": "Cortaillod, District de Boudry, Neuch\u00e2tel, 2016, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161286256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "49.619554100976",
+      "49.619654100976",
+      "6.1684742002922",
+      "6.1685742002922"
+    ],
+    "lat": "49.6196041009763",
+    "lon": "6.16852420029221",
+    "display_name": "Cents, Luxembourg, Canton Luxembourg, 2016, L\u00ebtzebuerg",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161757455",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "60.02526565862",
+      "60.02536565862",
+      "11.106422113596",
+      "11.106522113596"
+    ],
+    "lat": "60.0253156586204",
+    "lon": "11.1064721135961",
+    "display_name": "Frogner, S\u00f8rum, Akershus, 2016, Norge",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  }
+]

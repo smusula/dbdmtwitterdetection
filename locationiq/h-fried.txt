@@ -1,0 +1,133 @@
+[
+  {
+    "place_id": "358190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151423210",
+    "boundingbox": [
+      "47.0258247",
+      "47.0658247",
+      "-98.6778784",
+      "-98.6378784"
+    ],
+    "lat": "47.0458247",
+    "lon": "-98.6578784",
+    "display_name": "Fried, Stutsman County, North Dakota, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "101874754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163073916",
+    "boundingbox": [
+      "31.2715918",
+      "31.2749049",
+      "34.8008922",
+      "34.8021968"
+    ],
+    "lat": "31.2731114",
+    "lon": "34.8012872",
+    "display_name": "\u05e8\u05e0\u05d4 \u05e7\u05d0\u05e1\u05df, \u05e8\u05de\u05d5\u05ea \u05d1', \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2, \u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd, 84102, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "73718120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35914858",
+    "boundingbox": [
+      "31.2715918",
+      "31.2719705",
+      "34.8021968",
+      "34.8030034"
+    ],
+    "lat": "31.2719705",
+    "lon": "34.8030034",
+    "display_name": "\u05e4\u05e8\u05d9\u05d3, \u05e8\u05de\u05d5\u05ea \u05d1', \u05d1\u05d0\u05e8 \u05e9\u05d1\u05e2, \u05de\u05d7\u05d5\u05d6 \u05d4\u05d3\u05e8\u05d5\u05dd, 84102, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "52260500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3909308974",
+    "boundingbox": [
+      "40.4156003",
+      "40.4157003",
+      "49.8462261",
+      "49.8463261"
+    ],
+    "lat": "40.4156503",
+    "lon": "49.8462761",
+    "display_name": "Ramin \u015eadl\u0131q Evi, S\u0259ttar B\u0259hlulzad\u0259 k\u00fc\u00e7\u0259si, D\u0259rn\u0259g\u00fcl, Bak\u0131, Bak\u0131 \u0130nzibati \u018frazisi, AZ1108, Az\u0259rbaycan",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "12812799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1217586425",
+    "boundingbox": [
+      "55.4896589",
+      "55.4897589",
+      "9.475017",
+      "9.475117"
+    ],
+    "lat": "55.4897089",
+    "lon": "9.475067",
+    "display_name": "Frihed, Lilletorv, S\u00f8ndervang, Kolding, Kolding Kommune, Region Syddanmark, 6000, Danmark",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "114904024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "216855504",
+    "boundingbox": [
+      "49.5750469",
+      "49.5751717",
+      "6.5740248",
+      "6.5742226"
+    ],
+    "lat": "49.57508695",
+    "lon": "6.57413392079002",
+    "display_name": "Gasthaus Steuer, 78, Hauptstra\u00dfe, Serrig, Saarburg, Landkreis Trier-Saarburg, Rheinland-Pfalz, 54455, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "8550781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "910839648",
+    "boundingbox": [
+      "46.3992964",
+      "46.3993964",
+      "8.1474355",
+      "8.1475355"
+    ],
+    "lat": "46.3993464",
+    "lon": "8.1474855",
+    "display_name": "Frid, M\u00fchlebachstrasse, Steinmatten, Ernen, Goms, Valais - Wallis, 3995, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  }
+]

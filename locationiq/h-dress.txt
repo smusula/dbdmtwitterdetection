@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "2648857398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "465974993",
+    "boundingbox": [
+      "51.421649",
+      "51.4217669",
+      "-1.7298298",
+      "-1.7295753"
+    ],
+    "lat": "51.42171355",
+    "lon": "-1.72969053293982",
+    "display_name": "dress, Patten Alley, St Martins, Marlborough CP, Marlborough, Wiltshire, South West England, England, SN8, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "54872511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4242987797",
+    "boundingbox": [
+      "45.6933931",
+      "45.6934931",
+      "9.6690233",
+      "9.6691233"
+    ],
+    "lat": "45.6934431",
+    "lon": "9.6690733",
+    "display_name": "Dress, Via Gerolamo Tiraboschi, Malpensata, Bergamo, BG, LOM, 24122, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "132307978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298000857",
+    "boundingbox": [
+      "52.1275513",
+      "52.1277977",
+      "-106.6694281",
+      "-106.6689818"
+    ],
+    "lat": "52.12767455",
+    "lon": "-106.669204943452",
+    "display_name": "The Dress, 123, Auditorium Avenue, Buena Vista, Golf Dome, Saskatoon, Census Division No. 11, Saskatchewan, S7M 5S8, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "8211619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "886604452",
+    "boundingbox": [
+      "34.7794751",
+      "34.7795751",
+      "-82.3045539",
+      "-82.3044539"
+    ],
+    "lat": "34.7795251",
+    "lon": "-82.3045039",
+    "display_name": "The Dress, East Butler Road, Mauldin, Greenville County, South Carolina, 29607, United States of America",
+    "class": "shop",
+    "type": "second_hand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2644976191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4521752590",
+    "boundingbox": [
+      "54.5075983",
+      "54.5076983",
+      "37.1251315",
+      "37.1252315"
+    ],
+    "lat": "54.5076483",
+    "lon": "37.1251815",
+    "display_name": "\u041e\u0434\u0435\u0436\u0434\u0430, \u0443\u043b\u0438\u0446\u0430 \u0411\u043e\u043b\u043e\u0442\u043e\u0432\u0430, \u0417\u0430\u0440\u0435\u0447\u044c\u0435, \u0410\u043b\u0435\u043a\u0441\u0438\u043d, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0410\u043b\u0435\u043a\u0441\u0438\u043d, \u0422\u0443\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 301367, \u0420\u0424",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

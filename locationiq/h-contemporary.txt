@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "2654293724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4737235748",
+    "boundingbox": [
+      "39.292087",
+      "39.292187",
+      "-76.6199283",
+      "-76.6198283"
+    ],
+    "lat": "39.292137",
+    "lon": "-76.6198783",
+    "display_name": "The Contemporary, 300, West Lexington Street, Seton Hill, Baltimore, Maryland, 21201, United States of America",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "51649116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3868920860",
+    "boundingbox": [
+      "54.5240216",
+      "54.5241216",
+      "-1.5551755",
+      "-1.5550755"
+    ],
+    "lat": "54.5240716",
+    "lon": "-1.5551255",
+    "display_name": "Contemporary, Bull Wynd, Bank Top, Darlington, North East England, England, DL1 5PW, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2654687574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481683189",
+    "boundingbox": [
+      "11.0138294",
+      "11.0142836",
+      "-74.8196851",
+      "-74.8191794"
+    ],
+    "lat": "11.0140541",
+    "lon": "-74.8194309579914",
+    "display_name": "CONTEMPORARY, Calle 91, Villa Santos, Las Flores, Barranquilla, Atl\u00e1ntico, 035, Colombia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "118797595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231523058",
+    "boundingbox": [
+      "37.3311255",
+      "37.3315107",
+      "-121.9080917",
+      "-121.9078948"
+    ],
+    "lat": "37.3313181",
+    "lon": "-121.907993274497",
+    "display_name": "Billy DeFrank LGBT Community Center, The Alameda, Little Italy, Buena Vista, San Jos\u00e9, Santa Clara County, California, 95126, United States of America",
+    "class": "amenity",
+    "type": "social_centre",
+    "importance": 0.2423836653823
+  },
+  {
+    "place_id": "19928304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1945879437",
+    "boundingbox": [
+      "50.9392635",
+      "50.9393635",
+      "6.9554671",
+      "6.9555671"
+    ],
+    "lat": "50.9393135",
+    "lon": "6.9555171",
+    "display_name": "Referat f\u00fcr Lesben, Schwule und Transgender, Richartzstra\u00dfe, Ursulaviertel, Altstadt-Nord, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50667, Deutschland",
+    "class": "office",
+    "type": "administration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56772887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4440979446",
+    "boundingbox": [
+      "38.9823579",
+      "38.9824579",
+      "-94.6069453",
+      "-94.6068453"
+    ],
+    "lat": "38.9824079",
+    "lon": "-94.6068953",
+    "display_name": "The Transgender institute, Ward Parkway South, Kansas City, Jackson County, Missouri, 64114, United States of America",
+    "class": "office",
+    "type": "therapist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56989341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4440780089",
+    "boundingbox": [
+      "38.9827103",
+      "38.9828103",
+      "-94.6070313",
+      "-94.6069313"
+    ],
+    "lat": "38.9827603",
+    "lon": "-94.6069813",
+    "display_name": "The Transgender Institute, 8080, Ward Parkway, Waldo, Kansas City, Jackson County, Missouri, 64114, United States of America",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  }
+]

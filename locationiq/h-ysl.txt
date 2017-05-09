@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "57306742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5050896",
+    "boundingbox": [
+      "14.3894012",
+      "14.3904695",
+      "120.9729984",
+      "120.9731582"
+    ],
+    "lat": "14.3899911",
+    "lon": "120.9730729",
+    "display_name": "YSL, Kaunlaran Village 2, Molino, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "112038380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204515909",
+    "boundingbox": [
+      "53.4451255",
+      "53.4456018",
+      "-1.3379515",
+      "-1.3370735"
+    ],
+    "lat": "53.44536365",
+    "lon": "-1.33751250000001",
+    "display_name": "YSL, Waddington Way, Parkgate, Rotherham, Yorkshire and the Humber, England, S62, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "130727341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "290081141",
+    "boundingbox": [
+      "51.5088135",
+      "51.5090075",
+      "-0.1412889",
+      "-0.1409444"
+    ],
+    "lat": "51.5089105",
+    "lon": "-0.141116648940473",
+    "display_name": "Saint Laurent, Stafford Street, St. James's, Mayfair, City of Westminster, London, Greater London, England, W1S 4TE, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "247747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "57501789",
+    "boundingbox": [
+      "63.434022",
+      "63.434122",
+      "18.3416701",
+      "18.3417701"
+    ],
+    "lat": "63.434072",
+    "lon": "18.3417201",
+    "display_name": "Yttersel, Gottnev\u00e4gen, Anundsj\u00f6 distrikt, \u00d6rnsk\u00f6ldsvik, \u00c5ngermanland, V\u00e4sternorrlands l\u00e4n, Norrland, Sverige",
+    "class": "railway",
+    "type": "technical_station",
+    "importance": 0.001
+  }
+]

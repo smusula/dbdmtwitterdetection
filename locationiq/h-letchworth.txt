@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "116707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "21539679",
+    "boundingbox": [
+      "51.9367243",
+      "52.0167243",
+      "-0.2705198",
+      "-0.1905198"
+    ],
+    "lat": "51.9767243",
+    "lon": "-0.2305198",
+    "display_name": "Letchworth, Hertfordshire, East of England, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.50687663943344,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "363197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151511434",
+    "boundingbox": [
+      "34.8909252",
+      "34.9309252",
+      "-91.5142971",
+      "-91.4742971"
+    ],
+    "lat": "34.9109252",
+    "lon": "-91.4942971",
+    "display_name": "Letchworth, Prairie County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "75253619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41205119",
+    "boundingbox": [
+      "-33.8770889",
+      "-33.8761166",
+      "18.5482477",
+      "18.5491376"
+    ],
+    "lat": "-33.8764994",
+    "lon": "18.5484838",
+    "display_name": "Letchworth, Edgemead, Cape Town, City of Cape Town, Western Cape, 7460, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "21067102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2089152132",
+    "boundingbox": [
+      "51.9753709",
+      "51.9853709",
+      "-0.2339035",
+      "-0.2239035"
+    ],
+    "lat": "51.9803709",
+    "lon": "-0.2289035",
+    "display_name": "Letchworth Garden City, Alternative route, The Grange Estate, Jackmans Estate, North Hertfordshire, Hertfordshire, East of England, England, SG6 3AP, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "102039599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163815502",
+    "boundingbox": [
+      "52.9918169",
+      "52.991913",
+      "-1.98668",
+      "-1.9865248"
+    ],
+    "lat": "52.9918519",
+    "lon": "-1.98660141080356",
+    "display_name": "Letchworth, Greenfield Crescent, Cheadle, Staffordshire Moorlands, Staffordshire, West Midlands, England, ST10 1JZ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

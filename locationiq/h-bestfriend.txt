@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "27305240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2587507646",
+    "boundingbox": [
+      "14.8853354",
+      "14.8854354",
+      "120.2362304",
+      "120.2363304"
+    ],
+    "lat": "14.8853854",
+    "lon": "120.2362804",
+    "display_name": "Bestfriend Eatery, Olongapo - Castillejos Road, Subic, Central Luzon, 2209, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2648007776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4590099192",
+    "boundingbox": [
+      "12.9577022",
+      "12.9578022",
+      "100.8883735",
+      "100.8884735"
+    ],
+    "lat": "12.9577522",
+    "lon": "100.8884235",
+    "display_name": "Villa Bestfriend, \u0e19\u0e32\u0e40\u0e01\u0e25\u0e37\u0e2d 16/2\u0e01, \u0e19\u0e32\u0e40\u0e01\u0e25\u0e37\u0e2d, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20150, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

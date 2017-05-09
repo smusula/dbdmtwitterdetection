@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "50427107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3761143897",
+    "boundingbox": [
+      "33.0085582",
+      "33.0485582",
+      "36.2975729",
+      "36.3375729"
+    ],
+    "lat": "33.0285582",
+    "lon": "36.3175729",
+    "display_name": "\u0625\u064a\u0628, Daraa, \u0633\u0648\u0631\u064a\u0627",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69827434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26227855",
+    "boundingbox": [
+      "-0.3175139",
+      "-0.3165552",
+      "-78.5479793",
+      "-78.5477405"
+    ],
+    "lat": "-0.3165552",
+    "lon": "-78.5477405",
+    "display_name": "Eib, Turubamba, Quito, Pichincha, 171606, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "884167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "280175568",
+    "boundingbox": [
+      "27.9077619",
+      "27.9078619",
+      "34.3146467",
+      "34.3147467"
+    ],
+    "lat": "27.9078119",
+    "lon": "34.3146967",
+    "display_name": "EIB, \u0637\u0631\u064a\u0642 \u0627\u0644\u0633\u0644\u0627\u0645, Tower, \u0634\u0631\u0645 \u0627\u0644\u0634\u064a\u062e, \u062c\u0646\u0648\u0628 \u0633\u064a\u0646\u0627\u0621, \u0645\u0635\u0631",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "70391353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27503252",
+    "boundingbox": [
+      "-0.0785333",
+      "-0.0769034",
+      "-78.4693565",
+      "-78.4692316"
+    ],
+    "lat": "-0.0776303",
+    "lon": "-78.4692812",
+    "display_name": "Calle H, Carcel\u00e9n, Quito, Pichincha, 170302, Ecuador",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "110146618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "196974307",
+    "boundingbox": [
+      "50.987753",
+      "50.9971736",
+      "10.4623372",
+      "10.4992169"
+    ],
+    "lat": "50.99274955",
+    "lon": "10.4803858249131",
+    "display_name": "Flugplatz Eisenach-Kindel, Am Flugplatz, H\u00f6rselberg-Hainich, Wartburgkreis, Th\u00fcringen, 99820, Deutschland, Europe",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

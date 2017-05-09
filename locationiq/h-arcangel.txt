@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160397828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1330715",
+    "boundingbox": [
+      "64.3974631",
+      "64.7730598",
+      "40.2849384",
+      "40.8365073"
+    ],
+    "lat": "64.5430227",
+    "lon": "40.5371212",
+    "display_name": "\u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "city",
+    "importance": 0.58388969724227,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "68664177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23366128",
+    "boundingbox": [
+      "-33.4024662",
+      "-33.4002876",
+      "-70.5851153",
+      "-70.5797389"
+    ],
+    "lat": "-33.4016029",
+    "lon": "-70.5828116",
+    "display_name": "El Arcangel, Vitacura, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 7560995, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92669332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "124612293",
+    "boundingbox": [
+      "-33.1946202",
+      "-33.1936759",
+      "-70.6722165",
+      "-70.671152"
+    ],
+    "lat": "-33.194191",
+    "lon": "-70.6717691",
+    "display_name": "El Arcangel, Lo Seco, Colina, Provincia de Chacabuco, Regi\u00f3n Metropolitana de Santiago, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "42529836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3094362158",
+    "boundingbox": [
+      "-33.0095673",
+      "-33.0094673",
+      "-58.5362517",
+      "-58.5361517"
+    ],
+    "lat": "-33.0095173",
+    "lon": "-58.5362017",
+    "display_name": "Arcangel, Urquiza, Hospital, Gualeguaych\u00fa, Municipio de Gualeguaych\u00fa, Distrito Costa Uruguay Sur, Departamento Gualeguaych\u00fa, ER., E2820DNF, Argentina",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55845884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4346548537",
+    "boundingbox": [
+      "-12.1685046",
+      "-12.1684046",
+      "-77.0245772",
+      "-77.0244772"
+    ],
+    "lat": "-12.1684546",
+    "lon": "-77.0245272",
+    "display_name": "Arcangel, Calle Nicanor Cipriano Rivas, Chorillos, Chorrillos, Lima, 4, Per\u00fa",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650169544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4638018097",
+    "boundingbox": [
+      "-34.5371546",
+      "-34.5370546",
+      "-58.7194097",
+      "-58.7193097"
+    ],
+    "lat": "-34.5371046",
+    "lon": "-58.7193597",
+    "display_name": "El Arcangel, Pringles, San Miguel, Partido de San Miguel, Bs. As., B1663, Argentina",
+    "class": "amenity",
+    "type": "doctors",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_doctors.p.20.png"
+  },
+  {
+    "place_id": "55212337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4261044466",
+    "boundingbox": [
+      "-16.4250588",
+      "-16.4249588",
+      "-71.533472",
+      "-71.533372"
+    ],
+    "lat": "-16.4250088",
+    "lon": "-71.533422",
+    "display_name": "Arcangel, Alcides Carri\u00f3n, Los Balcones de arequipa,Urb, Jos\u00e9 Luis Bustamante y Rivero, Arequipa, 5154, Per\u00fa",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "50795747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3778288456",
+    "boundingbox": [
+      "-15.8395815",
+      "-15.8394815",
+      "-70.0279351",
+      "-70.0278351"
+    ],
+    "lat": "-15.8395315",
+    "lon": "-70.0278851",
+    "display_name": "Arcangel, Jr. Lima, Puno, 21000, Per\u00fa",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "2651579023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4674977391",
+    "boundingbox": [
+      "-7.733206",
+      "-7.733106",
+      "-79.3021457",
+      "-79.3020457"
+    ],
+    "lat": "-7.733156",
+    "lon": "-79.3020957",
+    "display_name": "Arcangel, Calle Odonoval, Paij\u00e1n, Ascope, La Libertad, Per\u00fa",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "124694010",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256399197",
+    "boundingbox": [
+      "25.4812496",
+      "25.4823186",
+      "-101.0174981",
+      "-101.0172881"
+    ],
+    "lat": "25.4812496",
+    "lon": "-101.0172881",
+    "display_name": "Arc\u00e1ngel, Saltillo, Coahuila de Zaragoza, 25206, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

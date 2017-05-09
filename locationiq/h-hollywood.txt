@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "18839986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1830231415",
+    "boundingbox": [
+      "34.0828268",
+      "34.1228268",
+      "-118.3499898",
+      "-118.3099898"
+    ],
+    "lat": "34.1028268",
+    "lon": "-118.3299898",
+    "display_name": "Hollywood, LA, Los Angeles County, California, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.81422397377721,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160264690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "117954",
+    "boundingbox": [
+      "25.9951108",
+      "26.0857489",
+      "-80.2485464",
+      "-80.1629147"
+    ],
+    "lat": "26.0112014",
+    "lon": "-80.14949",
+    "display_name": "Hollywood, Broward County, Florida, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58913319454959,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "415333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153763190",
+    "boundingbox": [
+      "35.1545335",
+      "35.1945335",
+      "-89.9953669",
+      "-89.9553669"
+    ],
+    "lat": "35.1745335",
+    "lon": "-89.9753669",
+    "display_name": "Hollywood, Shelby County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.46415097256809,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "454027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158323654",
+    "boundingbox": [
+      "40.0680758",
+      "40.1080758",
+      "-75.114577",
+      "-75.074577"
+    ],
+    "lat": "40.0880758",
+    "lon": "-75.094577",
+    "display_name": "Hollywood, Montgomery County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.4439472180372,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "467186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158327462",
+    "boundingbox": [
+      "36.8137509",
+      "36.8537509",
+      "-79.5161391",
+      "-79.4761391"
+    ],
+    "lat": "36.8337509",
+    "lon": "-79.4961391",
+    "display_name": "Hollywood, Pittsylvania County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42976304828016,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161012004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6621541",
+    "boundingbox": [
+      "53.0368665",
+      "53.113295",
+      "-6.6367254",
+      "-6.5378441"
+    ],
+    "lat": "53.07506655",
+    "lon": "-6.59165005764166",
+    "display_name": "Hollywood, Baltinglass Municipal District, County Wicklow, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "237604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "52242969",
+    "boundingbox": [
+      "53.0726903",
+      "53.1126903",
+      "-6.6153733",
+      "-6.5753733"
+    ],
+    "lat": "53.0926903",
+    "lon": "-6.5953733",
+    "display_name": "Hollywood, County Wicklow, Leinster, Ireland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39244504582027,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "475594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158581109",
+    "boundingbox": [
+      "38.3259143",
+      "38.3659143",
+      "-76.5917291",
+      "-76.5517291"
+    ],
+    "lat": "38.3459143",
+    "lon": "-76.5717291",
+    "display_name": "Hollywood, Saint Mary's County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "469496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158447531",
+    "boundingbox": [
+      "41.2220044",
+      "41.2620044",
+      "-78.5608554",
+      "-78.5208554"
+    ],
+    "lat": "41.2420044",
+    "lon": "-78.5408554",
+    "display_name": "Hollywood, Clearfield County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "459903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157644212",
+    "boundingbox": [
+      "36.8407034",
+      "36.8807034",
+      "-76.2002144",
+      "-76.1602144"
+    ],
+    "lat": "36.8607034",
+    "lon": "-76.1802144",
+    "display_name": "Hollywood, Virginia Beach (city), Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "72648892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32227419",
+    "boundingbox": [
+      "-27.571463",
+      "-27.5707996",
+      "153.0606985",
+      "153.0614764"
+    ],
+    "lat": "-27.5711301",
+    "lon": "153.061088719624",
+    "display_name": "Time Square, Sunnybank, Brisbane, Brisbane City, QLD, 4109, Australia",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80769747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "70949408",
+    "boundingbox": [
+      "53.549857",
+      "53.5505678",
+      "-113.4953923",
+      "-113.4946677"
+    ],
+    "lat": "53.55021245",
+    "lon": "-113.495029999947",
+    "display_name": "Time Square, Downtown Edmonton, Edmonton, Alberta, T5H4G9, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68972449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24060016",
+    "boundingbox": [
+      "14.4822027",
+      "14.4828804",
+      "120.9956816",
+      "120.9962216"
+    ],
+    "lat": "14.48254155",
+    "lon": "120.9959516",
+    "display_name": "8145, Time Square, San Dionisio, Para\u00f1aque, Metro Manila, 1744, Philippines",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "86928008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103913242",
+    "boundingbox": [
+      "42.768502",
+      "42.7690358",
+      "-71.4130473",
+      "-71.4123127"
+    ],
+    "lat": "42.7687689",
+    "lon": "-71.4126799943798",
+    "display_name": "Time Square, Hudson, Hillsborough County, New Hampshire, 03051, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75439636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41591436",
+    "boundingbox": [
+      "51.5488981",
+      "51.5491794",
+      "-0.0731913",
+      "-0.0730082"
+    ],
+    "lat": "51.5491794",
+    "lon": "-0.0731913",
+    "display_name": "Time Square, South Hornsey, Shacklewell, London Borough of Hackney, London, Greater London, England, E8 2LQ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "101937299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163450301",
+    "boundingbox": [
+      "51.5681658",
+      "51.5689343",
+      "0.4536022",
+      "0.4537174"
+    ],
+    "lat": "51.568786",
+    "lon": "0.4536022",
+    "display_name": "Time Square, Lee Chapel, Basildon, Essex, East of England, England, SS16 5UH, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.1
+  },
+  {
+    "place_id": "89725341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114278192",
+    "boundingbox": [
+      "51.8870828",
+      "51.8874358",
+      "-8.58871",
+      "-8.5882029"
+    ],
+    "lat": "51.88725935",
+    "lon": "-8.58845645043197",
+    "display_name": "Time Square, Ballincollig, Ballincollig - Carrigaline, County Cork, Munster, Ireland",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.1
+  },
+  {
+    "place_id": "80572712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "69472208",
+    "boundingbox": [
+      "6.7051871",
+      "6.7057226",
+      "-58.189183",
+      "-58.1868537"
+    ],
+    "lat": "6.7053664",
+    "lon": "-58.1884153",
+    "display_name": "Time Square, Golden Grove, Demerara-Mahaica Region, Demerara-Mahaica, 412221, Guyana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "19473264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1915149844",
+    "boundingbox": [
+      "52.6640813",
+      "52.6641813",
+      "4.8271017",
+      "4.8272017"
+    ],
+    "lat": "52.6641313",
+    "lon": "4.8271517",
+    "display_name": "Time Square, 92, Middenwaard, Stadshart, Heerhugowaard, Noord-Holland, Nederland, 1703SH, Nederland",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "13789039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1255972565",
+    "boundingbox": [
+      "50.4519252",
+      "50.4520252",
+      "3.9497855",
+      "3.9498855"
+    ],
+    "lat": "50.4519752",
+    "lon": "3.9498355",
+    "display_name": "Time Square, 13, Grand Rue, Quartier Rachot, Mons, Hainaut, Wallonie, 7000, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  }
+]

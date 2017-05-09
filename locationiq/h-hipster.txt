@@ -1,0 +1,93 @@
+[
+  {
+    "place_id": "55093081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4246311808",
+    "boundingbox": [
+      "53.2163541",
+      "53.2164541",
+      "6.5664685",
+      "6.5665685"
+    ],
+    "lat": "53.2164041",
+    "lon": "6.5665185",
+    "display_name": "HIPSTER, Pelsterstraat, Binnenstad, Groningen, Nederland, 9711KL, Nederland",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55301826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4271537589",
+    "boundingbox": [
+      "42.1492418",
+      "42.1493418",
+      "24.7489399",
+      "24.7490399"
+    ],
+    "lat": "42.1492918",
+    "lon": "24.7489899",
+    "display_name": "Hipster, \u0425\u0440\u0438\u0441\u0442\u043e \u0414\u044e\u043a\u043c\u0435\u0434\u0436\u0438\u0435\u0432, \u041a\u0430\u043f\u0430\u043d\u0430, \u041a\u044a\u0440\u0448\u0438\u044f\u043a\u0430, \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 4000, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "tourism",
+    "type": "hostel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55843562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4360424490",
+    "boundingbox": [
+      "-28.3196023",
+      "-28.3195023",
+      "-52.7733488",
+      "-52.7732488"
+    ],
+    "lat": "-28.3195523",
+    "lon": "-52.7732988",
+    "display_name": "Hipster, BR-285, Carazinho, Microrregi\u00e3o de Carazinho, Mesorregi\u00e3o Noroeste Rio-Grandense, RS, Regi\u00e3o Sul, Brasil",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18077998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1736765204",
+    "boundingbox": [
+      "49.85909",
+      "49.85919",
+      "8.5613184",
+      "8.5614184"
+    ],
+    "lat": "49.85914",
+    "lon": "8.5613684",
+    "display_name": "Hipster, 48, Bessunger Stra\u00dfe, Griesheim, Landkreis Darmstadt-Dieburg, Regierungsbezirk Darmstadt, Hessen, 64347, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2650468391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4642526049",
+    "boundingbox": [
+      "36.7625021",
+      "36.7626021",
+      "3.0185107",
+      "3.0186107"
+    ],
+    "lat": "36.7625521",
+    "lon": "3.0185607",
+    "display_name": "HIPSTER, Avenue Khalef Mustapha, Ben Aknoun, Da\u00efra Bouzareah, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16030, RADP",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

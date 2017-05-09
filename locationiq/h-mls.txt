@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "5080777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "571192993",
+    "boundingbox": [
+      "35.9841874",
+      "36.0241874",
+      "36.4685569",
+      "36.5085569"
+    ],
+    "lat": "36.0041874",
+    "lon": "36.4885569",
+    "display_name": "\u0645\u0644\u0633, Idlib, \u0633\u0648\u0631\u064a\u0627",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13198480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1223293869",
+    "boundingbox": [
+      "14.559978",
+      "14.599978",
+      "44.147985",
+      "44.187985"
+    ],
+    "lat": "14.579978",
+    "lon": "44.167985",
+    "display_name": "\u0645\u0644\u0635, Dhamar, \u0627\u0644\u064a\u0645\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14566558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1302490731",
+    "boundingbox": [
+      "48.2899843",
+      "48.2900843",
+      "14.2974189",
+      "14.2975189"
+    ],
+    "lat": "48.2900343",
+    "lon": "14.2974689",
+    "display_name": "MLS, 4a, Wiener Stra\u00dfe, Niedernhart, Andreas-Hofer-Platz-Viertel, Linz, Linz (Stadt), Ober\u00f6sterreich, 4020, \u00d6sterreich",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "96955596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "142284580",
+    "boundingbox": [
+      "47.8735961",
+      "47.8739449",
+      "12.1308282",
+      "12.1311943"
+    ],
+    "lat": "47.87382625",
+    "lon": "12.1310112427184",
+    "display_name": "MLS, 13, Lortzingstra\u00dfe, Kaltwies, Erlenau, Rosenheim, OB, Bayern, 83024, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648215681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464359156",
+    "boundingbox": [
+      "35.5752867",
+      "35.5756695",
+      "-97.5500462",
+      "-97.5495748"
+    ],
+    "lat": "35.5754751",
+    "lon": "-97.5497724791414",
+    "display_name": "The Village Library, North Pennsylvania Avenue, The Village, Oklahoma County, Oklahoma, 73003, United States of America",
+    "class": "amenity",
+    "type": "library",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_library.p.20.png"
+  },
+  {
+    "place_id": "121721781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243994607",
+    "boundingbox": [
+      "46.4189974",
+      "46.4360166",
+      "-105.9010475",
+      "-105.8743369"
+    ],
+    "lat": "46.4275893",
+    "lon": "-105.884556968608",
+    "display_name": "Miles City Municipal Airport, MT 59, Smiths Trailer Court, Custer County, Montana, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

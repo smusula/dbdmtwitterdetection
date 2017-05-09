@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "4302085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "471170591",
+    "boundingbox": [
+      "43.6309499",
+      "43.6409499",
+      "-79.4242619",
+      "-79.4142619"
+    ],
+    "lat": "43.6359499",
+    "lon": "-79.4192619",
+    "display_name": "Exhibition, Gardiner Expressway, Liberty Village, Old Toronto, Toronto, Ontario, M6K 1W8, Canada",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.4246364951483,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160978360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6371220",
+    "boundingbox": [
+      "52.092481",
+      "52.1074634",
+      "-106.6824007",
+      "-106.6649638"
+    ],
+    "lat": "52.0997584",
+    "lon": "-106.676393587181",
+    "display_name": "Exhibition, Nutana Suburban Development Area, Saskatoon, Census Division No. 11, Saskatchewan, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.409123069644,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "55648218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4312471390",
+    "boundingbox": [
+      "52.1024622",
+      "52.1025622",
+      "-106.6728925",
+      "-106.6727925"
+    ],
+    "lat": "52.1025122",
+    "lon": "-106.6728425",
+    "display_name": "Exhibition, Nutana Suburban Development Area, Saskatoon, Census Division No. 11, Saskatchewan, S7M0X2, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66485512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19656996",
+    "boundingbox": [
+      "-26.1712324",
+      "-26.1707223",
+      "27.9446772",
+      "27.9534794"
+    ],
+    "lat": "-26.1710277",
+    "lon": "27.9493915",
+    "display_name": "Exhibition, Johannesburg Ward 86, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, 1709, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "8466312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "895292103",
+    "boundingbox": [
+      "43.6358988",
+      "43.6359988",
+      "-79.4167726",
+      "-79.4166726"
+    ],
+    "lat": "43.6359488",
+    "lon": "-79.4167226",
+    "display_name": "Exhibition, Manitoba Drive, Liberty Village, Old Toronto, Toronto, Ontario, M6K 3C3, Canada",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "19143390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1875506650",
+    "boundingbox": [
+      "-27.4554139",
+      "-27.4454139",
+      "153.025803",
+      "153.035803"
+    ],
+    "lat": "-27.4504139",
+    "lon": "153.030803",
+    "display_name": "Exhibition, Inner City Bypass, Royal National Association Exhibition Grounds, Herston, Brisbane, Brisbane City, QLD, 4006, Australia",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "536222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "201068069",
+    "boundingbox": [
+      "-27.4496076",
+      "-27.4495076",
+      "153.0318198",
+      "153.0319198"
+    ],
+    "lat": "-27.4495576",
+    "lon": "153.0318698",
+    "display_name": "Exhibition, Clem Jones Tunnel, Merthyr, New Farm, Brisbane, Brisbane City, QLD, 400, Australia",
+    "class": "railway",
+    "type": "halt",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76273000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43945449",
+    "boundingbox": [
+      "-27.4507001",
+      "-27.4500222",
+      "153.0297669",
+      "153.0311745"
+    ],
+    "lat": "-27.4503612",
+    "lon": "153.030633310052",
+    "display_name": "Exhibition, Inner City Bypass, Royal National Association Exhibition Grounds, Herston, Brisbane, Brisbane City, QLD, 4006, Australia",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4976168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "558801096",
+    "boundingbox": [
+      "53.963137",
+      "53.963237",
+      "-1.0856799",
+      "-1.0855799"
+    ],
+    "lat": "53.963187",
+    "lon": "-1.0856299",
+    "display_name": "Exhibition, Bootham, The Groves, Clifton, York, Yorkshire and the Humber, England, YO30 7BW, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "64826594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17118210",
+    "boundingbox": [
+      "39.1586294",
+      "39.1810288",
+      "-106.8652881",
+      "-106.8560011"
+    ],
+    "lat": "39.1810288",
+    "lon": "-106.8560011",
+    "display_name": "Exhibition, Prospector Road, Aspen, Pitkin County, Colorado, 81611, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  }
+]

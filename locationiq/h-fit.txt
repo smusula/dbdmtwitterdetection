@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "85384729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97163342",
+    "boundingbox": [
+      "42.5492508",
+      "42.5621607",
+      "-71.7669441",
+      "-71.7513501"
+    ],
+    "lat": "42.5556877",
+    "lon": "-71.759434791756",
+    "display_name": "Fitchburg Municipal Airport, Cobbler Drive, Fitchburg, Worcester County, Massachusetts, 01453, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.254561534822,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2609752005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4489249244",
+    "boundingbox": [
+      "59.3662103",
+      "59.3663103",
+      "7.3028095",
+      "7.3029095"
+    ],
+    "lat": "59.3662603",
+    "lon": "7.3028595",
+    "display_name": "Fet, Mosd\u00f8l, Bykle, Aust-Agder, Norge",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "115187388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217921038",
+    "boundingbox": [
+      "-33.6790585",
+      "-33.6784214",
+      "151.0946776",
+      "151.0949301"
+    ],
+    "lat": "-33.6787916",
+    "lon": "151.094925",
+    "display_name": "Firetrail, Hornsby Heights, Hornsby, Sydney, Hornsby, NSW, 2079, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "115181836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217921037",
+    "boundingbox": [
+      "-33.6816623",
+      "-33.6790585",
+      "151.093158",
+      "151.0947361"
+    ],
+    "lat": "-33.6804814",
+    "lon": "151.0944284",
+    "display_name": "Firetrail, Hornsby Heights, Sydney, Hornsby, NSW, 2077, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "154479633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "416538888",
+    "boundingbox": [
+      "-33.702222",
+      "-33.7016266",
+      "151.1353768",
+      "151.1358036"
+    ],
+    "lat": "-33.702222",
+    "lon": "151.1353768",
+    "display_name": "Firetrail, North Wahroonga, Hornsby, Sydney, Ku-ring-gai, NSW, 2076, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "105164800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "175198237",
+    "boundingbox": [
+      "-33.6843979",
+      "-33.6830437",
+      "151.1565038",
+      "151.1630769"
+    ],
+    "lat": "-33.684218",
+    "lon": "151.1600969",
+    "display_name": "Firetrail, North Turramurra, Sydney, Ku-ring-gai, NSW, 2075, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "64376892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16405459",
+    "boundingbox": [
+      "-33.5954112",
+      "-33.5946185",
+      "151.1367241",
+      "151.1374353"
+    ],
+    "lat": "-33.595018",
+    "lon": "151.1369373",
+    "display_name": "Firetrail, Berowra Heights, Collingridge Point, Sydney, Hornsby, NSW, 2081, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "57623321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4901865",
+    "boundingbox": [
+      "-33.6040361",
+      "-33.6021558",
+      "151.1430431",
+      "151.1491323"
+    ],
+    "lat": "-33.6032103",
+    "lon": "151.1471135",
+    "display_name": "Firetrail, Berowra Heights, Cowan, Sydney, Hornsby, NSW, 2081, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "106471540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180660239",
+    "boundingbox": [
+      "-33.7058972",
+      "-33.7052949",
+      "151.0711323",
+      "151.0712456"
+    ],
+    "lat": "-33.7056027",
+    "lon": "151.0711323",
+    "display_name": "Firetrail, Westleigh, Hornsby, Sydney, Hornsby, NSW, 2158, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  },
+  {
+    "place_id": "118093632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229057325",
+    "boundingbox": [
+      "-34.6558906",
+      "-34.6539722",
+      "148.0061526",
+      "148.0087566"
+    ],
+    "lat": "-34.6552873",
+    "lon": "148.0071095",
+    "display_name": "Firetrail, Cootamundra, Gundagai, NSW, 2590, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  }
+]

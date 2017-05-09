@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "63728765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15367357",
+    "boundingbox": [
+      "29.9782293",
+      "29.9802784",
+      "-95.5383761",
+      "-95.5347213"
+    ],
+    "lat": "29.9788505",
+    "lon": "-95.5372884",
+    "display_name": "Seinfeld Court, Champions Park, Louetta, Harris County, Texas, 77069, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68298178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22935929",
+    "boundingbox": [
+      "-27.37236",
+      "-27.3717579",
+      "152.9860714",
+      "152.9866894"
+    ],
+    "lat": "-27.3717579",
+    "lon": "152.9860714",
+    "display_name": "Seinfeld Close, Bridgeman Downs, Brisbane City, QLD, 4035, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

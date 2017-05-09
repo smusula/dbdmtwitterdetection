@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "87002435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104382636",
+    "boundingbox": [
+      "53.3843735",
+      "53.384735",
+      "-1.4668215",
+      "-1.4661928"
+    ],
+    "lat": "53.3845382",
+    "lon": "-1.46647500178696",
+    "display_name": "The Boardwalk, 39, Snig Hill, Moorhead, Wicker, Sheffield, Yorkshire and the Humber, England, S3 8LX, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.39977507250156
+  },
+  {
+    "place_id": "131052910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "291870291",
+    "boundingbox": [
+      "33.8429387",
+      "33.8463843",
+      "-118.0022532",
+      "-118.0002723"
+    ],
+    "lat": "33.8445048",
+    "lon": "-118.001737090472",
+    "display_name": "Boardwalk, Buena Park, Orange County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "120329292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "238278342",
+    "boundingbox": [
+      "29.6600227",
+      "29.6616161",
+      "-98.6305353",
+      "-98.6285486"
+    ],
+    "lat": "29.66064565",
+    "lon": "-98.6295617140113",
+    "display_name": "The Boardwalk, San Antonio, Bexar County, Texas, 78257, United States of America",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "100412202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157728669",
+    "boundingbox": [
+      "43.4315848",
+      "43.4407696",
+      "-80.5679902",
+      "-80.5568853"
+    ],
+    "lat": "43.43613595",
+    "lon": "-80.5619276426733",
+    "display_name": "The Boardwalk, Kitchener, Regional Municipality of Waterloo, Ontario, N2L6C1, Canada",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "150595115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "392540895",
+    "boundingbox": [
+      "29.1788008",
+      "29.1807256",
+      "-94.9775696",
+      "-94.9753207"
+    ],
+    "lat": "29.17978185",
+    "lon": "-94.976448484404",
+    "display_name": "The Boardwalk, Jamaica Beach, Galveston County, Texas, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "108903978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191290745",
+    "boundingbox": [
+      "32.6290651",
+      "32.6356108",
+      "-96.7974744",
+      "-96.786844"
+    ],
+    "lat": "32.6329311",
+    "lon": "-96.7914059727163",
+    "display_name": "Boardwalk, Lancaster, Dallas County, Texas, 75134, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102782097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166329472",
+    "boundingbox": [
+      "-37.8858786",
+      "-37.8739849",
+      "144.7253373",
+      "144.7487724"
+    ],
+    "lat": "-37.88153045",
+    "lon": "144.736634686532",
+    "display_name": "The Boardwalk, Point Cook, City of Wyndham, Greater Melbourne, Victoria, 3027, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "82121651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80393801",
+    "boundingbox": [
+      "16.6077073",
+      "16.6093713",
+      "120.2851652",
+      "120.2860826"
+    ],
+    "lat": "16.60816245",
+    "lon": "120.285764029957",
+    "display_name": "Boardwalk, The Point Residences, La Union, Ilocos Region, 2515, Philippines",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "79212127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59343514",
+    "boundingbox": [
+      "-27.8825758",
+      "-27.8821515",
+      "153.2998513",
+      "153.3018196"
+    ],
+    "lat": "-27.8825486",
+    "lon": "153.3009079",
+    "display_name": "The Boardwalk, Oxenford, Gold Coast, Gold Coast City, QLD, 4210, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94476883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131418680",
+    "boundingbox": [
+      "51.1325227",
+      "51.1329289",
+      "-2.7312671",
+      "-2.7301931"
+    ],
+    "lat": "51.1327706",
+    "lon": "-2.7307517",
+    "display_name": "The Boardwalk, Street CP, Mendip District, Somerset, South West England, England, BA16 0AD, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

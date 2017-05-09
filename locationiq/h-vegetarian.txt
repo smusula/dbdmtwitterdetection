@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "82796917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85146463",
+    "boundingbox": [
+      "39.310853",
+      "39.3237967",
+      "-108.7035482",
+      "-108.6811259"
+    ],
+    "lat": "39.316313",
+    "lon": "-108.6914759",
+    "display_name": "Vegetarian, Grand Junction, Mesa County, Colorado, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "9080645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "935989106",
+    "boundingbox": [
+      "48.2228805",
+      "48.2229805",
+      "16.3517616",
+      "16.3518616"
+    ],
+    "lat": "48.2229305",
+    "lon": "16.3518116",
+    "display_name": "Vegetarian, Wilhelm-Exner-Gasse, Thurygrund II, KG Alsergrund, Alsergrund, Wien, 1090, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "49536422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3677063192",
+    "boundingbox": [
+      "37.7602684",
+      "37.7603684",
+      "-122.469174",
+      "-122.469074"
+    ],
+    "lat": "37.7603184",
+    "lon": "-122.469124",
+    "display_name": "Enjoy Vegetarian Restaurant, 754, Kirkham Street, Inner Sunset, SF, California, 94122, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52605948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3990513781",
+    "boundingbox": [
+      "6.8758273",
+      "6.8759273",
+      "79.8610193",
+      "79.8611193"
+    ],
+    "lat": "6.8758773",
+    "lon": "79.8610693",
+    "display_name": "Vegetarian, Galle Road, Kirulapone, Pamankada, Colombo, \u0d9a\u0ddc\u0dc5\u0db9 \u0daf\u0dd2\u0dc3\u0dca\u0dad\u0dca\u200d\u0dbb\u0dd2\u0d9a\u0dca\u0d9a\u0dba, Western Province, 00600, \u0dc1\u0dca\u200d\u0dbb\u0dd3 \u0dbd\u0d82\u0d9a\u0dcf\u0dc0 \u0b87\u0bb2\u0b99\u0bcd\u0b95\u0bc8",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54784092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4231967989",
+    "boundingbox": [
+      "36.7967624",
+      "36.7968624",
+      "34.6270957",
+      "34.6271957"
+    ],
+    "lat": "36.7968124",
+    "lon": "34.6271457",
+    "display_name": "Vegetarian, \u0130stiklal Caddesi, Mersin, Akdeniz, Mersin, Akdeniz B\u00f6lgesi, 33110, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "40633525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2972684242",
+    "boundingbox": [
+      "13.7564939",
+      "13.7565939",
+      "100.4958977",
+      "100.4959977"
+    ],
+    "lat": "13.7565439",
+    "lon": "100.4959477",
+    "display_name": "Vegetarian, \u0e15\u0e23\u0e2d\u0e01\u0e2a\u0e32\u0e40\u0e01, \u0e1a\u0e32\u0e07\u0e25\u0e33\u0e1e\u0e39, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, \u0e40\u0e02\u0e15\u0e1e\u0e23\u0e30\u0e19\u0e04\u0e23, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10200, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52801654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3996964239",
+    "boundingbox": [
+      "24.1505701",
+      "24.1506701",
+      "120.6462901",
+      "120.6463901"
+    ],
+    "lat": "24.1506201",
+    "lon": "120.6463401",
+    "display_name": "Vegetarian, 207, \u516c\u76ca\u8def\u4e8c\u6bb5, \u4e09\u548c\u91cc, \u4e09\u584a\u539d, \u5357\u5c6f\u5340, \u81fa\u4e2d\u5e02, 40874, \u81fa\u7063",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28202839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2614528947",
+    "boundingbox": [
+      "11.5580986",
+      "11.5581986",
+      "104.9306673",
+      "104.9307673"
+    ],
+    "lat": "11.5581486",
+    "lon": "104.9307173",
+    "display_name": "The Vegetarian, 158, \u179c\u17b7\u1790\u17b8 \u1796\u17d2\u179a\u17c7\u17a2\u1784\u17d2\u1782\u1799\u17bb\u1782\u1793\u17d2\u1792\u179a (\u17e1\u17e9), \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1785\u178f\u17bb\u1798\u17bb\u1781, \u1781\u178e\u17d2\u178c\u178a\u17bc\u1793\u1796\u17c1\u1789, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12207, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56834623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4430018692",
+    "boundingbox": [
+      "-1.3979348",
+      "-1.3978348",
+      "-78.4221531",
+      "-78.4220531"
+    ],
+    "lat": "-1.3978848",
+    "lon": "-78.4221031",
+    "display_name": "Vegetarian, Eloy Alfaro, Ba\u00f1os, Cant\u00f3n Ba\u00f1os, Tungurahua, EC180301, Ecuador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54833753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4228871589",
+    "boundingbox": [
+      "36.7832446",
+      "36.7833446",
+      "34.5959387",
+      "34.5960387"
+    ],
+    "lat": "36.7832946",
+    "lon": "34.5959887",
+    "display_name": "Vegetarian, Gazi Mustafa Kemal Bulvar\u0131, \u00c7iftlikk\u00f6y, Yeni\u015fehir, Mersin, Akdeniz B\u00f6lgesi, 33170, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

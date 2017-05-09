@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "83272333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87693134",
+    "boundingbox": [
+      "51.564066",
+      "51.5651986",
+      "-1.6200126",
+      "-1.6184905"
+    ],
+    "lat": "51.5645653",
+    "lon": "-1.6190864",
+    "display_name": "Malthouse, Ashbury CP, Vale of White Horse, Oxon, South East, England, UK",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85277053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96752347",
+    "boundingbox": [
+      "50.7156777",
+      "50.7162624",
+      "-1.9864602",
+      "-1.9859049"
+    ],
+    "lat": "50.7161261",
+    "lon": "-1.9859049",
+    "display_name": "Malthouse, Old Town, Poole, South West England, England, BH15 1NZ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "85966411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99883650",
+    "boundingbox": [
+      "50.9013051",
+      "50.9020829",
+      "-0.0103698",
+      "-0.0082839"
+    ],
+    "lat": "50.9013051",
+    "lon": "-0.0091431",
+    "display_name": "Malthouse, Hamsey CP, Lewes, East Sussex, South East, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117652545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "227165408",
+    "boundingbox": [
+      "51.7518975",
+      "51.7523815",
+      "-1.2641881",
+      "-1.2637111"
+    ],
+    "lat": "51.7521393",
+    "lon": "-1.26398422585862",
+    "display_name": "The Malthouse, Tidmarsh Lane, Jericho, Oxford, Oxon, South East, England, OX1 1BY, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55690710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4346093022",
+    "boundingbox": [
+      "51.0714218",
+      "51.0715218",
+      "1.080973",
+      "1.081073"
+    ],
+    "lat": "51.0714718",
+    "lon": "1.081023",
+    "display_name": "The Malthouse, Malthouse Hill, Hythe, Shepway, Kent, South East, England, CT21 5AD, UK",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14260000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1274846654",
+    "boundingbox": [
+      "51.2317567",
+      "51.2318567",
+      "-0.3352792",
+      "-0.3351792"
+    ],
+    "lat": "51.2318067",
+    "lon": "-0.3352292",
+    "display_name": "Malthouse, West Street, Goodwyns, Mole Valley, Surrey, South East, England, RH4 2HQ, UK",
+    "class": "shop",
+    "type": "antiques",
+    "importance": 0.101
+  },
+  {
+    "place_id": "112514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "20599979",
+    "boundingbox": [
+      "51.2338893",
+      "51.2339893",
+      "-0.3320771",
+      "-0.3319771"
+    ],
+    "lat": "51.2339393",
+    "lon": "-0.3320271",
+    "display_name": "The Malthouse, Mill Lane, Goodwyns, Mole Valley, Surrey, South East, England, RH4 1BG, UK",
+    "class": "amenity",
+    "type": "disused_pub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "25153267",
+    "boundingbox": [
+      "51.6065706",
+      "51.6066706",
+      "-2.5259971",
+      "-2.5258971"
+    ],
+    "lat": "51.6066206",
+    "lon": "-2.5259471",
+    "display_name": "The Malthouse, High Street, Thornbury CP, Thornbury, South Gloucestershire, South West England, England, BS35 2AH, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "108844245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191269687",
+    "boundingbox": [
+      "51.1035759",
+      "51.1036894",
+      "-1.1278065",
+      "-1.1276175"
+    ],
+    "lat": "51.10363265",
+    "lon": "-1.12771199154466",
+    "display_name": "Malthouse, 1, Malthouse Lane, Bighton, Winchester, Hampshire, South East, England, SO24 9RD, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647883464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "463487620",
+    "boundingbox": [
+      "51.0086901",
+      "51.0088112",
+      "-1.3431353",
+      "-1.3429696"
+    ],
+    "lat": "51.0087515",
+    "lon": "-1.34305165064773",
+    "display_name": "The Malthouse, Main Road, Otterbourne, Winchester, Hampshire, South East, England, SO21 2EE, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

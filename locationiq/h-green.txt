@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160294895",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192778",
+    "boundingbox": [
+      "7.1906045",
+      "12.67563",
+      "-15.2470907",
+      "-7.6381992"
+    ],
+    "lat": "10.7226226",
+    "lon": "-10.7083586",
+    "display_name": "Guin\u00e9e",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68403499721931,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160311313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "343535",
+    "boundingbox": [
+      "41.9383698",
+      "42.0297266",
+      "2.7831004",
+      "2.8982394"
+    ],
+    "lat": "41.9793006",
+    "lon": "2.8199439",
+    "display_name": "GRN, Girona, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "city",
+    "importance": 0.60757351556431,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160575208",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2807130",
+    "boundingbox": [
+      "41.7575413",
+      "42.1166579",
+      "2.6300935",
+      "2.9873808"
+    ],
+    "lat": "41.9371188",
+    "lon": "2.81078575589374",
+    "display_name": "GRN, Girona, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50193584251747,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160486649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1846527",
+    "boundingbox": [
+      "37.109348",
+      "37.471046",
+      "-85.6972499",
+      "-85.3532259"
+    ],
+    "lat": "37.2433976",
+    "lon": "-85.5346301",
+    "display_name": "Green County, Kentucky, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49891172550086,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160481980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1799445",
+    "boundingbox": [
+      "42.500007",
+      "42.8574464",
+      "-89.8383806",
+      "-89.3653061"
+    ],
+    "lat": "42.6791433",
+    "lon": "-89.6076427",
+    "display_name": "Green County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48375675185157,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "79883243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62194345",
+    "boundingbox": [
+      "-62.2164984",
+      "-62.2147926",
+      "-58.4518498",
+      "-58.4374408"
+    ],
+    "lat": "-62.2155502",
+    "lon": "-58.4446362",
+    "display_name": "Green, Antarctica",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160290201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "181957",
+    "boundingbox": [
+      "40.9064965",
+      "40.988627",
+      "-81.5364421",
+      "-81.4163339"
+    ],
+    "lat": "40.9468077",
+    "lon": "-81.467063",
+    "display_name": "Green, Summit County, Ohio, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.41850462100944,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "347951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151241017",
+    "boundingbox": [
+      "54.3817951",
+      "54.3917951",
+      "-3.3226937",
+      "-3.3126937"
+    ],
+    "lat": "54.3867951",
+    "lon": "-3.3176937",
+    "display_name": "Eskdale Green, Gatesyde Place, Eskdale Green, Copeland, Cumbria, North West England, England, CA19 1TX, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41428909659158,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "348459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150958227",
+    "boundingbox": [
+      "38.3257447",
+      "38.3657447",
+      "-121.6596785",
+      "-121.6196785"
+    ],
+    "lat": "38.3457447",
+    "lon": "-121.6396785",
+    "display_name": "Green, Yolo County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40567999588715,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160292622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186215",
+    "boundingbox": [
+      "43.127248",
+      "43.17397",
+      "-123.4172309",
+      "-123.3639559"
+    ],
+    "lat": "43.160394",
+    "lon": "-123.367849",
+    "display_name": "Green, Douglas County, Oregon, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38020667090203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

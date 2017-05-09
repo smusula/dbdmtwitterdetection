@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "326421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141031099",
+    "boundingbox": [
+      "39.4673887",
+      "39.5073887",
+      "-121.2435714",
+      "-121.2035714"
+    ],
+    "lat": "39.4873887",
+    "lon": "-121.2235714",
+    "display_name": "Challenge, Yuba County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41908579539046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41593585",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3022873576",
+    "boundingbox": [
+      "48.6128668",
+      "48.6528668",
+      "-1.0394679",
+      "-0.9994679"
+    ],
+    "lat": "48.6328668",
+    "lon": "-1.0194679",
+    "display_name": "Fontenay, Le Challenge, Avranches, Manche, Normandie, 50140, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "470534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158359539",
+    "boundingbox": [
+      "41.2686719",
+      "41.3086719",
+      "-78.7089151",
+      "-78.6689151"
+    ],
+    "lat": "41.2886719",
+    "lon": "-78.6889151",
+    "display_name": "Challenge, Elk County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81086772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "72656338",
+    "boundingbox": [
+      "14.5296684",
+      "14.5299261",
+      "121.054787",
+      "121.0568693"
+    ],
+    "lat": "14.5299034",
+    "lon": "121.0557972",
+    "display_name": "Challenge, Woodridge I, Fort Bonifacio, Taguig, Metro Manila, 1208, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "114590668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "215133970",
+    "boundingbox": [
+      "49.6830291",
+      "49.6837871",
+      "13.4613159",
+      "13.4627937"
+    ],
+    "lat": "49.6834531",
+    "lon": "13.4620373",
+    "display_name": "Challenge, Star\u00fd Plzenec, okres Plze\u0148-m\u011bsto, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, 33202, \u010cesko",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "12500059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1194059675",
+    "boundingbox": [
+      "47.1024119",
+      "47.1025119",
+      "2.4244175",
+      "2.4245175"
+    ],
+    "lat": "47.1024619",
+    "lon": "2.4244675",
+    "display_name": "Le Challenge, Rue de Turly, Bourges Nord, Bourges, Cher, Centre-Val de Loire, 18000, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "141999691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "344660986",
+    "boundingbox": [
+      "51.8598797",
+      "51.8600175",
+      "1.164534",
+      "1.1646907"
+    ],
+    "lat": "51.85996695",
+    "lon": "1.16461234995483",
+    "display_name": "The Challenge, New Town Road, Thorpe-le-Soken Civil Parish, Tendring, Essex, East of England, England, CO16 0LU, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150415791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391944085",
+    "boundingbox": [
+      "52.5249033",
+      "52.5250909",
+      "0.6160719",
+      "0.6163264"
+    ],
+    "lat": "52.52497555",
+    "lon": "0.616199146259637",
+    "display_name": "The Challenge, Cranwich Road, Cranwich, Breckland District, Norfolk, East of England, England, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "141908114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "343587134",
+    "boundingbox": [
+      "-39.5164797",
+      "-39.5162401",
+      "176.9042263",
+      "176.9043508"
+    ],
+    "lat": "-39.516348",
+    "lon": "176.904300740359",
+    "display_name": "Challenge, 40, Bledisloe Road, Maraenui, Napier, Napier City, Hawke's Bay, 4110, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "50344928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3753837017",
+    "boundingbox": [
+      "-39.0716592",
+      "-39.0715592",
+      "174.0348309",
+      "174.0349309"
+    ],
+    "lat": "-39.0716092",
+    "lon": "174.0348809",
+    "display_name": "Challenge!, Crownhill Street, Spotswood, New Plymouth, New Plymouth District, Taranaki, 4310, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

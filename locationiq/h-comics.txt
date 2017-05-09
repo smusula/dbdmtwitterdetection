@@ -1,0 +1,169 @@
+[
+  {
+    "place_id": "6145223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "631687810",
+    "boundingbox": [
+      "57.6945436",
+      "57.6946436",
+      "11.993404",
+      "11.993504"
+    ],
+    "lat": "57.6945936",
+    "lon": "11.993454",
+    "display_name": "Comics, 5, \u00d6rgrytev\u00e4gen, Heden, Centrum, Gbg, G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 41251, Sverige",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "6978822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "727678238",
+    "boundingbox": [
+      "52.3739959",
+      "52.3740959",
+      "9.7059666",
+      "9.7060666"
+    ],
+    "lat": "52.3740459",
+    "lon": "9.7060166",
+    "display_name": "Comics, Limmerstra\u00dfe, Linden-Nord, Linden-Limmer, Hannover, Region Hannover, Niedersachsen, 30451, Deutschland",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17327622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1660369650",
+    "boundingbox": [
+      "39.0165172",
+      "39.0166172",
+      "-0.1730951",
+      "-0.1729951"
+    ],
+    "lat": "39.0165672",
+    "lon": "-0.1730451",
+    "display_name": "Comics, Calle Formentera, Platja de Gandia / Playa de Gandia, Gandia, Safor, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46730, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "44968730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3192694782",
+    "boundingbox": [
+      "37.686964",
+      "37.687064",
+      "-122.1367396",
+      "-122.1366396"
+    ],
+    "lat": "37.687014",
+    "lon": "-122.1366896",
+    "display_name": "Comics, Lewelling Boulevard, San Leandro, Alameda County, California, 94580, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "925653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "283189933",
+    "boundingbox": [
+      "39.8426609",
+      "39.8427609",
+      "3.1327454",
+      "3.1328454"
+    ],
+    "lat": "39.8427109",
+    "lon": "3.1327954",
+    "display_name": "Comics, Pas de Jaume Vidal Alcover, Port d'Alc\u00fadia, Alc\u00fadia, Raiguer, Illes Balears, 07410, 124",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "152106459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402413518",
+    "boundingbox": [
+      "14.5569985",
+      "14.5570353",
+      "-90.7355062",
+      "-90.7353229"
+    ],
+    "lat": "14.55701685",
+    "lon": "-90.7354142250679",
+    "display_name": "Comics, 6a Avenida Norte, Santa Isabel, El Calvario, Antigua, Antigua Guatemala, Sacatep\u00e9quez, 03001, Guatemala",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53393220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4069677810",
+    "boundingbox": [
+      "41.7679559",
+      "41.7680559",
+      "2.2084112",
+      "2.2085112"
+    ],
+    "lat": "41.7680059",
+    "lon": "2.2084612",
+    "display_name": "El C\u00f2mic's, C-1413b, la Serra de Santa Anna, Sant Mart\u00ed de Centelles, Osona, BCN, CAT, 08540, Espa\u00f1a",
+    "class": "amenity",
+    "type": "social_centre",
+    "importance": 0.001
+  },
+  {
+    "place_id": "2649117864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "466707191",
+    "boundingbox": [
+      "-34.5259268",
+      "-34.52578",
+      "-58.5196016",
+      "-58.519405"
+    ],
+    "lat": "-34.52585735",
+    "lon": "-58.5195037964256",
+    "display_name": "Comic's, Rub\u00e9n Dar\u00edo, Munro, Vicente L\u00f3pez, Partido de Vicente L\u00f3pez, Bs. As., 1605, Argentina",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "54396680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4198923089",
+    "boundingbox": [
+      "-1.3966827",
+      "-1.3965827",
+      "-78.4225522",
+      "-78.4224522"
+    ],
+    "lat": "-1.3966327",
+    "lon": "-78.4225022",
+    "display_name": "Comic's, Oriente, Ba\u00f1os, Cant\u00f3n Ba\u00f1os, Tungurahua, EC180301, Ecuador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

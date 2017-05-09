@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "23648586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2329975930",
+    "boundingbox": [
+      "45.507618",
+      "45.507718",
+      "-73.5600791",
+      "-73.5599791"
+    ],
+    "lat": "45.507668",
+    "lon": "-73.5600291",
+    "display_name": "Kawaii, 1023, Boulevard Saint-Laurent, Quartier Chinois, Centre-Ville, Ville-Marie, Montr\u00e9al, Montr\u00e9al (06), Qu\u00e9bec, H2Z 1J9, Canada",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16011017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1470684977",
+    "boundingbox": [
+      "45.8150648",
+      "45.8151648",
+      "15.8944509",
+      "15.8945509"
+    ],
+    "lat": "45.8151148",
+    "lon": "15.8945009",
+    "display_name": "Kawaii, Bolni\u010dka ulica, Vrap\u010de, Podsused - Vrap\u010de, Zagreb, Grad Zagreb, 10090, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

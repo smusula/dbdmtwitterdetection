@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "129037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26573168",
+    "boundingbox": [
+      "51.510802",
+      "51.510902",
+      "-0.1304909",
+      "-0.1303909"
+    ],
+    "lat": "51.510852",
+    "lon": "-0.1304409",
+    "display_name": "Empire, 5-6, Leicester Square, St. James's, Covent Garden, City of Westminster, London, Greater London, England, WC2H 7NA, UK",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.46590216462374,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "160263147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "113180",
+    "boundingbox": [
+      "37.628024",
+      "37.652466",
+      "-120.9208779",
+      "-120.8930779"
+    ],
+    "lat": "37.6381956",
+    "lon": "-120.9021939",
+    "display_name": "Empire, Stanislaus County, California, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.39899904973499,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160274915",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135118",
+    "boundingbox": [
+      "44.80302",
+      "44.822095",
+      "-86.0732129",
+      "-86.0493549"
+    ],
+    "lat": "44.811108",
+    "lon": "-86.0600929",
+    "display_name": "Empire, Leelanau County, Michigan, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39497837370268,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "402557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153570725",
+    "boundingbox": [
+      "40.2855904",
+      "40.3255904",
+      "-88.7275687",
+      "-88.6875687"
+    ],
+    "lat": "40.3055904",
+    "lon": "-88.7075687",
+    "display_name": "Empire, McLean County, Illinois, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "352541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151336481",
+    "boundingbox": [
+      "44.6391336",
+      "44.6791336",
+      "-93.0346564",
+      "-92.9946564"
+    ],
+    "lat": "44.6591336",
+    "lon": "-93.0146564",
+    "display_name": "Empire, Dakota County, Minnesota, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "340612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150952918",
+    "boundingbox": [
+      "43.3728897",
+      "43.4128897",
+      "-124.2973378",
+      "-124.2573378"
+    ],
+    "lat": "43.3928897",
+    "lon": "-124.2773378",
+    "display_name": "Empire, Coos County, Oregon, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "370170",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151651060",
+    "boundingbox": [
+      "36.7433883",
+      "36.7833883",
+      "-90.3356627",
+      "-90.2956627"
+    ],
+    "lat": "36.7633883",
+    "lon": "-90.3156627",
+    "display_name": "Empire, Butler County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "384749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153341428",
+    "boundingbox": [
+      "33.7884373",
+      "33.8284373",
+      "-87.0305551",
+      "-86.9905551"
+    ],
+    "lat": "33.8084373",
+    "lon": "-87.0105551",
+    "display_name": "Empire, Walker County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "437616",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154087772",
+    "boundingbox": [
+      "32.3204437",
+      "32.3604437",
+      "-83.3162702",
+      "-83.2762702"
+    ],
+    "lat": "32.3404437",
+    "lon": "-83.2962702",
+    "display_name": "Empire, Dodge County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "405515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153528801",
+    "boundingbox": [
+      "37.0664332",
+      "37.1064332",
+      "-87.5172237",
+      "-87.4772237"
+    ],
+    "lat": "37.0864332",
+    "lon": "-87.4972237",
+    "display_name": "Empire, Christian County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160254447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "72596",
+    "boundingbox": [
+      "53.8967893",
+      "56.4504213",
+      "20.653783",
+      "26.8355198"
+    ],
+    "lat": "55.3500003",
+    "lon": "23.7499998",
+    "display_name": "Lietuva",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78265688545131,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160247263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "40783",
+    "boundingbox": [
+      "40.7849283",
+      "41.7148329",
+      "12.530159",
+      "13.8948148"
+    ],
+    "lat": "41.45952605",
+    "lon": "13.0125912121889",
+    "display_name": "LT, LAZ, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43819062238834,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "116898781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224510528",
+    "boundingbox": [
+      "34.7185997",
+      "34.7427827",
+      "-92.2459289",
+      "-92.1981831"
+    ],
+    "lat": "34.7311092",
+    "lon": "-92.2245780780175",
+    "display_name": "Bill and Hillary Clinton National Airport/Adams Field, Dave Grundfest Road, Little Rock, Pulaski County, Arkansas, 72206, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.41239812023006,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "351669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151350889",
+    "boundingbox": [
+      "35.3281286",
+      "35.3681286",
+      "-96.6919617",
+      "-96.6519617"
+    ],
+    "lat": "35.3481286",
+    "lon": "-96.6719617",
+    "display_name": "Little, Seminole County, Oklahoma, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "437687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154386964",
+    "boundingbox": [
+      "37.4198137",
+      "37.4598137",
+      "-83.3818461",
+      "-83.3418461"
+    ],
+    "lat": "37.4398137",
+    "lon": "-83.3618461",
+    "display_name": "Little, Breathitt County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "219849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "43898852",
+    "boundingbox": [
+      "51.7865157",
+      "51.8265157",
+      "5.4204928",
+      "5.4604928"
+    ],
+    "lat": "51.8065157",
+    "lon": "5.4404928",
+    "display_name": "Lith, Noord-Brabant, Nederland, 5397, Nederland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153951280",
+    "boundingbox": [
+      "39.4547984",
+      "39.4947984",
+      "-81.0170536",
+      "-80.9770536"
+    ],
+    "lat": "39.4747984",
+    "lon": "-80.9970536",
+    "display_name": "Little, Tyler County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "150918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29923242",
+    "boundingbox": [
+      "63.2966572",
+      "63.3366572",
+      "14.8299459",
+      "14.8699459"
+    ],
+    "lat": "63.3166572",
+    "lon": "14.8499459",
+    "display_name": "Lit, \u00d6stersund, J\u00e4mtlands l\u00e4n, Norrland, Sverige",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "778019",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "262708743",
+    "boundingbox": [
+      "-25.1013888",
+      "-25.0613888",
+      "27.9086111",
+      "27.9486111"
+    ],
+    "lat": "-25.0813888",
+    "lon": "27.9286111",
+    "display_name": "Little, Moretele Local Municipality, Bojanala Platinum District Municipality, North West, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "130658654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289785832",
+    "boundingbox": [
+      "39.9344096",
+      "39.9586252",
+      "49.3895719",
+      "49.4146132"
+    ],
+    "lat": "39.9477043",
+    "lon": "49.4066384",
+    "display_name": "\u018fl\u0259t, Bak\u0131 \u0130nzibati \u018frazisi, Az\u0259rbaycan",
+    "class": "place",
+    "type": "town",
+    "importance": 0.31966198108865,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  }
+]

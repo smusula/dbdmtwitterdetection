@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "22216548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2193467512",
+    "boundingbox": [
+      "48.4928596",
+      "48.5128596",
+      "6.4984711",
+      "6.5184711"
+    ],
+    "lat": "48.5028596",
+    "lon": "6.5084711",
+    "display_name": "Trex, Gerb\u00e9viller, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54830, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610437545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4506130570",
+    "boundingbox": [
+      "45.690527",
+      "45.690627",
+      "9.6852824",
+      "9.6853824"
+    ],
+    "lat": "45.690577",
+    "lon": "9.6853324",
+    "display_name": "Trex, Via Mauro Gavazzeni, Borgo Palazzo, Bergamo, BG, LOM, 24122, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2608215255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "448351522",
+    "boundingbox": [
+      "-33.5532566",
+      "-33.5530237",
+      "-70.7127421",
+      "-70.712436"
+    ],
+    "lat": "-33.5531311",
+    "lon": "-70.712593886295",
+    "display_name": "TREX, Puerta Sur, Parque Industrial Puerta Sur, San Bernardo, Provincia de Maipo, Regi\u00f3n Metropolitana de Santiago, 648, Chile",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55824063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4329996291",
+    "boundingbox": [
+      "-16.404568",
+      "-16.404468",
+      "-71.546559",
+      "-71.546459"
+    ],
+    "lat": "-16.404518",
+    "lon": "-71.546509",
+    "display_name": "Trex, Geronimo Gustavo Novoa, Magisterial, Umacollo, Arequipa, 54, Per\u00fa",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  }
+]

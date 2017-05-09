@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "77635401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51158216",
+    "boundingbox": [
+      "47.3913731",
+      "47.4094021",
+      "-120.2265528",
+      "-120.1944933"
+    ],
+    "lat": "47.40223795",
+    "lon": "-120.211607760794",
+    "display_name": "Pangborn Memorial Airport, Pangborn Drive, Sunny Hill, Douglas County, Washington, 98828, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.28891132353959,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "4130302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "446307245",
+    "boundingbox": [
+      "51.2375256",
+      "51.2376256",
+      "6.7337008",
+      "6.7338008"
+    ],
+    "lat": "51.2375756",
+    "lon": "6.7337508",
+    "display_name": "eat, 101, Hansaallee, L\u00f6rick, Stadtbezirk 4, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40549, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2646726735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4560997482",
+    "boundingbox": [
+      "1.293557",
+      "1.293657",
+      "103.8597614",
+      "103.8598614"
+    ],
+    "lat": "1.293607",
+    "lon": "103.8598114",
+    "display_name": "EAT, 9, Raffles Boulevard, Clarke Quay, Suntec City, Singapore, Central Singapore Community Development Council, 039799, Singapore",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4162196",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "445685420",
+    "boundingbox": [
+      "51.4908375",
+      "51.4909375",
+      "-0.1613759",
+      "-0.1612759"
+    ],
+    "lat": "51.4908875",
+    "lon": "-0.1613259",
+    "display_name": "Eat, 82, King's Road, Chelsea, Royal Borough of Kensington and Chelsea, London, Greater London, England, SW3 4LY, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "6565606",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "675882463",
+    "boundingbox": [
+      "51.5082125",
+      "51.5083125",
+      "-0.1364268",
+      "-0.1363268"
+    ],
+    "lat": "51.5082625",
+    "lon": "-0.1363768",
+    "display_name": "EAT., Ormond Yard, St. James's, Mayfair, City of Westminster, London, Greater London, England, SW1Y 6DT, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "1325359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "302362637",
+    "boundingbox": [
+      "52.2052273",
+      "52.2053273",
+      "0.1213333",
+      "0.1214333"
+    ],
+    "lat": "52.2052773",
+    "lon": "0.1213833",
+    "display_name": "Eat, 21, Petty Cury, Market Ward, Cambridge, Cambridgeshire, East of England, England, CB2 3NA, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "95942275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137396852",
+    "boundingbox": [
+      "50.8235442",
+      "50.8236716",
+      "-0.1440069",
+      "-0.1438394"
+    ],
+    "lat": "50.8236079",
+    "lon": "-0.14392315",
+    "display_name": "Eat, North Street, Round Hill, Brighton, Brighton and Hove, South East, England, BN1 1ZA, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2570476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "355922688",
+    "boundingbox": [
+      "52.4777741",
+      "52.4778741",
+      "-1.8940803",
+      "-1.8939803"
+    ],
+    "lat": "52.4778241",
+    "lon": "-1.8940303",
+    "display_name": "EAT., St Martin's Walk, Bullring, Digbeth, Attwood Green, Birmingham, West Midlands, England, B4 7SB, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "88978505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "111813630",
+    "boundingbox": [
+      "52.4793119",
+      "52.4793614",
+      "-1.9021224",
+      "-1.9019758"
+    ],
+    "lat": "52.47933835",
+    "lon": "-1.90204718162906",
+    "display_name": "Eat., 82;83, New Street, Jewellery Quarter, Attwood Green, Birmingham, West Midlands, England, B2, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16738230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1549188879",
+    "boundingbox": [
+      "14.6376793",
+      "14.6377793",
+      "121.0733496",
+      "121.0734496"
+    ],
+    "lat": "14.6377293",
+    "lon": "121.0733996",
+    "display_name": "Eat!, 72, Esteban Abada, Social Development Complex, Loyola Heights, Quezon City, District III, Quezon City, Metro Manila, 1108, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

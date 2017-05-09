@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "50583700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3774277794",
+    "boundingbox": [
+      "56.7143802",
+      "57.3543802",
+      "-135.6369672",
+      "-134.9969672"
+    ],
+    "lat": "57.0343802",
+    "lon": "-135.3169672",
+    "display_name": "The Twins, Sitka, Alaska, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2600484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356541396",
+    "boundingbox": [
+      "47.5967948",
+      "48.2367948",
+      "-123.0159678",
+      "-122.3759678"
+    ],
+    "lat": "47.9167948",
+    "lon": "-122.6959678",
+    "display_name": "The Twins, Port Ludlow, Jefferson County, Washington, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "21520607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2118715179",
+    "boundingbox": [
+      "56.0674452",
+      "56.7074452",
+      "-61.2042035",
+      "-60.5642035"
+    ],
+    "lat": "56.3874452",
+    "lon": "-60.8842035",
+    "display_name": "The Twins, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "41995906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3054677496",
+    "boundingbox": [
+      "55.7470975",
+      "55.7471975",
+      "-4.7966529",
+      "-4.7965529"
+    ],
+    "lat": "55.7471475",
+    "lon": "-4.7966029",
+    "display_name": "The Twins, North Ayrshire, Scotland, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2810943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357304948",
+    "boundingbox": [
+      "43.7061821",
+      "43.7062821",
+      "-121.9734142",
+      "-121.9733142"
+    ],
+    "lat": "43.7062321",
+    "lon": "-121.9733642",
+    "display_name": "The Twins, Lane County, Oregon, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "40964794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2984526909",
+    "boundingbox": [
+      "-20.3800256",
+      "-20.3799256",
+      "147.6998109",
+      "147.6999109"
+    ],
+    "lat": "-20.3799756",
+    "lon": "147.6998609",
+    "display_name": "The Twins, QLD, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "41198865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3002570679",
+    "boundingbox": [
+      "-36.3999399",
+      "-36.3998399",
+      "149.04299",
+      "149.04309"
+    ],
+    "lat": "-36.3998899",
+    "lon": "149.04304",
+    "display_name": "The Twins, Snowy Monaro, NSW, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "27161451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2572379233",
+    "boundingbox": [
+      "-36.304552",
+      "-36.304452",
+      "148.2723785",
+      "148.2724785"
+    ],
+    "lat": "-36.304502",
+    "lon": "148.2724285",
+    "display_name": "The Twins, Snowy Valleys, NSW, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "41419153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3019438056",
+    "boundingbox": [
+      "-33.0945003",
+      "-33.0944003",
+      "148.4471492",
+      "148.4472492"
+    ],
+    "lat": "-33.0944503",
+    "lon": "148.4471992",
+    "display_name": "The Twins, Parkes, NSW, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "40977056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3008760721",
+    "boundingbox": [
+      "-42.6770699",
+      "-42.6769699",
+      "145.65187",
+      "145.65197"
+    ],
+    "lat": "-42.6770199",
+    "lon": "145.65192",
+    "display_name": "The Twins, West Coast, Tasmania, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "136212711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315897143",
+    "boundingbox": [
+      "22.4780384",
+      "22.4816728",
+      "114.0619897",
+      "114.0655423"
+    ],
+    "lat": "22.47992615",
+    "lon": "114.063293751705",
+    "display_name": "23, \u8461\u8404\u5712 The Vineyard, \u52a0\u5dde\u8c6a\u5712 Royal Palms, \u570d\u4ed4\u6751 Wai Tsai Tsuen, \u65b0\u754c New Territories, HK, 00852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.44109039448439
+  },
+  {
+    "place_id": "72838404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33236659",
+    "boundingbox": [
+      "38.452569",
+      "38.481672",
+      "-121.3719819",
+      "-121.2975499"
+    ],
+    "lat": "38.4671165",
+    "lon": "-121.334757869786",
+    "display_name": "Vineyard, Bradshaw Road, Walsh Station, Sacramento County, California, 95624, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42673432905931,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160853980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5501214",
+    "boundingbox": [
+      "-33.6642427",
+      "-33.6192559",
+      "150.8261278",
+      "150.8778801"
+    ],
+    "lat": "-33.6483332",
+    "lon": "150.8677778",
+    "display_name": "Vineyard, Sydney, Hawkesbury, NSW, Australia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7536566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "814762636",
+    "boundingbox": [
+      "37.0316548",
+      "37.0716548",
+      "-122.1708934",
+      "-122.1308934"
+    ],
+    "lat": "37.0516548",
+    "lon": "-122.1508934",
+    "display_name": "The Vineyard, Santa Cruz County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "444948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157576824",
+    "boundingbox": [
+      "40.4047994",
+      "40.4447994",
+      "-77.803605",
+      "-77.763605"
+    ],
+    "lat": "40.4247994",
+    "lon": "-77.783605",
+    "display_name": "Vineyard, Mifflin County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "380525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151836800",
+    "boundingbox": [
+      "33.1478939",
+      "33.1878939",
+      "-97.9864279",
+      "-97.9464279"
+    ],
+    "lat": "33.1678939",
+    "lon": "-97.9664279",
+    "display_name": "Vineyard, Jack County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "458218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157618970",
+    "boundingbox": [
+      "42.3728354",
+      "42.4128354",
+      "-79.4825464",
+      "-79.4425464"
+    ],
+    "lat": "42.3928354",
+    "lon": "-79.4625464",
+    "display_name": "Vineyard, Chautauqua County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "425984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153929882",
+    "boundingbox": [
+      "37.8239676",
+      "37.8639676",
+      "-84.6077187",
+      "-84.5677187"
+    ],
+    "lat": "37.8439676",
+    "lon": "-84.5877187",
+    "display_name": "Vineyard, Jessamine County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "401478",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153737482",
+    "boundingbox": [
+      "37.2258808",
+      "37.2658808",
+      "-86.5083151",
+      "-86.4683151"
+    ],
+    "lat": "37.2458808",
+    "lon": "-86.4883151",
+    "display_name": "Vineyard, Butler County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "367845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151597930",
+    "boundingbox": [
+      "34.6378765",
+      "34.6778765",
+      "-90.8901143",
+      "-90.8501143"
+    ],
+    "lat": "34.6578765",
+    "lon": "-90.8701143",
+    "display_name": "Vineyard, Lee County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

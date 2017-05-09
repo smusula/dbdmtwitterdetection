@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "19872155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1984277502",
+    "boundingbox": [
+      "69.0954851",
+      "69.0955851",
+      "-26.8041304",
+      "-26.8040304"
+    ],
+    "lat": "69.0955351",
+    "lon": "-26.8040804",
+    "display_name": "Horse, Kalaallit Nunaat",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "120454548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "238700986",
+    "boundingbox": [
+      "49.9631387",
+      "49.9632793",
+      "-6.3558324",
+      "-6.355413"
+    ],
+    "lat": "49.96320705",
+    "lon": "-6.35556346436418",
+    "display_name": "The Horse, The Town, Isles of Scilly, South West England, England, UK",
+    "class": "place",
+    "type": "islet",
+    "importance": 0.35
+  },
+  {
+    "place_id": "13387669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242470683",
+    "boundingbox": [
+      "42.635641",
+      "42.655641",
+      "-8.4741904",
+      "-8.4541904"
+    ],
+    "lat": "42.645641",
+    "lon": "-8.4641904",
+    "display_name": "Horse, A Estrada, Pontevedra, Galicia, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "105922730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177937188",
+    "boundingbox": [
+      "49.796426",
+      "49.801997",
+      "-119.4268219",
+      "-119.4199229"
+    ],
+    "lat": "49.799933",
+    "lon": "-119.4225949",
+    "display_name": "Horse, South Kelowna, Kelowna, Regional District of Central Okanagan, British Columbia, Canada",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136159424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "315325215",
+    "boundingbox": [
+      "45.307465",
+      "45.30902",
+      "-66.0557369",
+      "-66.0540699"
+    ],
+    "lat": "45.308218",
+    "lon": "-66.0549529",
+    "display_name": "Horse, Saint John, Saint John County, New Brunswick, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "53333467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4062007802",
+    "boundingbox": [
+      "35.2073507",
+      "35.2074507",
+      "-101.8360156",
+      "-101.8359156"
+    ],
+    "lat": "35.2074007",
+    "lon": "-101.8359656",
+    "display_name": "Horse, East 6th Avenue, Amarillo, Potter County, Texas, 79101, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "50934784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3790504306",
+    "boundingbox": [
+      "45.3908718",
+      "45.3909718",
+      "4.414913",
+      "4.415013"
+    ],
+    "lat": "45.3909218",
+    "lon": "4.414963",
+    "display_name": "La Horse, Chemin des Sources, Planfoy, Saint-\u00c9tienne, Loire, Auvergne-Rh\u00f4ne-Alpes, 42660, France",
+    "class": "leisure",
+    "type": "horse_riding",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49480126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3658921461",
+    "boundingbox": [
+      "26.6282048",
+      "26.6283048",
+      "-80.2057596",
+      "-80.2056596"
+    ],
+    "lat": "26.6282548",
+    "lon": "-80.2057096",
+    "display_name": "Horse, Wellington Parc Drive, Wellington, Palm Beach County, Florida, 33449, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "26655640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2539580693",
+    "boundingbox": [
+      "55.4244298",
+      "55.4245298",
+      "-2.7848787",
+      "-2.7847787"
+    ],
+    "lat": "55.4244798",
+    "lon": "-2.7848287",
+    "display_name": "The Horse, High Street, Wilton, Hawick, Scottish Borders, Scotland, TD9 9EE, UK",
+    "class": "historic",
+    "type": "monument",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_monument.p.20.png"
+  },
+  {
+    "place_id": "4665263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "502597240",
+    "boundingbox": [
+      "55.4246908",
+      "55.4247908",
+      "-2.7849715",
+      "-2.7848715"
+    ],
+    "lat": "55.4247408",
+    "lon": "-2.7849215",
+    "display_name": "Horse, Oliver Crescent, Stirches, Hawick, Scottish Borders, Scotland, TD9 9HP, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

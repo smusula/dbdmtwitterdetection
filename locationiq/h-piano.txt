@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160580888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2693684",
+    "boundingbox": [
+      "42.4266939",
+      "42.4546219",
+      "9.383898",
+      "9.408458"
+    ],
+    "lat": "42.4470357",
+    "lon": "9.4032177",
+    "display_name": "Piano, Corte, Haute-Corse, Corse, 20215, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50734441290615,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "26655246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2529071756",
+    "boundingbox": [
+      "42.4780618",
+      "42.4781618",
+      "13.2227231",
+      "13.2228231"
+    ],
+    "lat": "42.4781118",
+    "lon": "13.2227731",
+    "display_name": "il Piano, Cagnano Amiterno, AQ, ABR, Italia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "14216389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1304204879",
+    "boundingbox": [
+      "46.3000018",
+      "46.3400018",
+      "10.8079712",
+      "10.8479712"
+    ],
+    "lat": "46.3200018",
+    "lon": "10.8279712",
+    "display_name": "Piano, Comunit\u00e0 della Valle di Sole, TN, TAA, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26539188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2508325647",
+    "boundingbox": [
+      "37.566954",
+      "37.606954",
+      "15.0470404",
+      "15.0870404"
+    ],
+    "lat": "37.586954",
+    "lon": "15.0670404",
+    "display_name": "Piano, CT, SIC, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44286376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3138932747",
+    "boundingbox": [
+      "46.0256701",
+      "46.0656701",
+      "9.729745",
+      "9.769745"
+    ],
+    "lat": "46.0456701",
+    "lon": "9.749745",
+    "display_name": "Piano, Comunit\u00e0 Montana della Valle Brembana, BG, LOM, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1562253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "331345543",
+    "boundingbox": [
+      "43.5266862",
+      "43.5666862",
+      "11.3379997",
+      "11.3779997"
+    ],
+    "lat": "43.5466862",
+    "lon": "11.3579997",
+    "display_name": "Il Piano, FI, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48613943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3602920747",
+    "boundingbox": [
+      "44.0880081",
+      "44.1280081",
+      "11.332455",
+      "11.372455"
+    ],
+    "lat": "44.1080081",
+    "lon": "11.352455",
+    "display_name": "Piano, FI, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16702053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1542174159",
+    "boundingbox": [
+      "43.41022",
+      "43.45022",
+      "11.0303601",
+      "11.0703601"
+    ],
+    "lat": "43.43022",
+    "lon": "11.0503601",
+    "display_name": "Il Piano, SI, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6119393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "623058430",
+    "boundingbox": [
+      "43.4971283",
+      "43.5371283",
+      "11.6290979",
+      "11.6690979"
+    ],
+    "lat": "43.5171283",
+    "lon": "11.6490979",
+    "display_name": "Il Piano, AR, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12352622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1165050916",
+    "boundingbox": [
+      "44.9573658",
+      "44.9973658",
+      "12.1917263",
+      "12.2317263"
+    ],
+    "lat": "44.9773658",
+    "lon": "12.2117263",
+    "display_name": "Piano, RO, VEN, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

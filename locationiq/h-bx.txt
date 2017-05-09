@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "154998711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "418994320",
+    "boundingbox": [
+      "36.0862801",
+      "36.0863484",
+      "4.7739914",
+      "4.774258"
+    ],
+    "lat": "36.0862939",
+    "lon": "4.7742254",
+    "display_name": "BX, BBA, Da\u00efra Bordj Bou Arreridj, Bordj Bou Arreridj\u200e - \u0628\u0631\u062c \u0628\u0648\u0639\u0631\u064a\u0631\u064a\u062c\u200e, 34000, RADP",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "785874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "266988034",
+    "boundingbox": [
+      "47.7368781",
+      "47.7369781",
+      "11.8598414",
+      "11.8599414"
+    ],
+    "lat": "47.7369281",
+    "lon": "11.8598914",
+    "display_name": "bx, Miesbacher Stra\u00dfe, Westenhofen, Freudenberg, Schliersee, Landkreis Miesbach, OB, Bayern, 83727, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "21354805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117341219",
+    "boundingbox": [
+      "15.2046396",
+      "15.2047396",
+      "120.7069112",
+      "120.7070112"
+    ],
+    "lat": "15.2046896",
+    "lon": "120.7069612",
+    "display_name": "bx, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "3571906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369538332",
+    "boundingbox": [
+      "52.4722155",
+      "52.4723155",
+      "-1.969244",
+      "-1.969144"
+    ],
+    "lat": "52.4722655",
+    "lon": "-1.969194",
+    "display_name": "BX, Adkins Lane, Bearwood, Sandwell, West Midlands, England, B66 4BW, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "20301955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2028805775",
+    "boundingbox": [
+      "54.0839057",
+      "54.0840057",
+      "-4.6338782",
+      "-4.6337782"
+    ],
+    "lat": "54.0839557",
+    "lon": "-4.6338282",
+    "display_name": "BX, A5, Malew, Rushen, IM9 2AS, Isle of Man",
+    "class": "aeroway",
+    "type": "holding_position",
+    "importance": 0.101
+  },
+  {
+    "place_id": "102357713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164871721",
+    "boundingbox": [
+      "48.20034",
+      "48.2004627",
+      "16.3626432",
+      "16.3628212"
+    ],
+    "lat": "48.20040725",
+    "lon": "16.36273219264",
+    "display_name": "Gasflaschenlager, Lehargasse, Untere Windm\u00fchle, KG Mariahilf, Mariahilf, Wien, 1060, \u00d6sterreich",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "109529505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194034452",
+    "boundingbox": [
+      "44.8964614",
+      "44.8968276",
+      "-93.2187557",
+      "-93.218059"
+    ],
+    "lat": "44.8966552",
+    "lon": "-93.2183946801806",
+    "display_name": "Fort Snelling Base Exchange, 755, Earhart Avenue, Morris Park, Minneapolis, Hennepin County, Minnesota, 55450, United States of America",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "104404844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172311951",
+    "boundingbox": [
+      "46.8367066",
+      "46.8369432",
+      "-92.1994226",
+      "-92.1987088"
+    ],
+    "lat": "46.83682175",
+    "lon": "-92.1990657133436",
+    "display_name": "Army Air Force Exchange Service Base Exchange, Airport Road, Duluth, Saint Louis County, Minnesota, 55811, United States of America",
+    "class": "amenity",
+    "type": "shopping",
+    "importance": 0.001
+  },
+  {
+    "place_id": "52528599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3977624371",
+    "boundingbox": [
+      "26.340689",
+      "26.340789",
+      "127.7801513",
+      "127.7802513"
+    ],
+    "lat": "26.340739",
+    "lon": "127.7802013",
+    "display_name": "Exchange, Beeson Avenue, \u6c96\u7e04\u5e02, \u6c96\u7e04\u770c, 9040035, \u65e5\u672c",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.001
+  },
+  {
+    "place_id": "44590709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3163365050",
+    "boundingbox": [
+      "58.1892271",
+      "58.1992271",
+      "15.0498192",
+      "15.0598192"
+    ],
+    "lat": "58.1942271",
+    "lon": "15.0548192",
+    "display_name": "Boxholm, E 574, Boxholm, Landskapet \u00d6sterg\u00f6tland, \u00d6sterg\u00f6tlands l\u00e4n, G\u00f6taland, 59013, Sverige",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

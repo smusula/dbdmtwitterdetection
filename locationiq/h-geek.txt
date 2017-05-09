@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "2646814267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4563212890",
+    "boundingbox": [
+      "40.3775372",
+      "40.3776372",
+      "49.8437352",
+      "49.8438352"
+    ],
+    "lat": "40.3775872",
+    "lon": "49.8437852",
+    "display_name": "Geek, Ki\u00e7ik D\u0259niz k\u00fc\u00e7\u0259si, Montin, Bak\u0131, Bak\u0131 \u0130nzibati \u018frazisi, 1009, Az\u0259rbaycan",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653380559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4716002496",
+    "boundingbox": [
+      "42.8758272",
+      "42.8759272",
+      "74.6196427",
+      "74.6197427"
+    ],
+    "lat": "42.8758772",
+    "lon": "74.6196927",
+    "display_name": "Geek, 129, \u0427\u0443\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0411\u0438\u0448\u043a\u0435\u043a, \u0410\u043b\u0430\u043c\u0443\u0434\u0443\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0438\u0448\u043a\u0435\u043a, 720011, \u041a\u044b\u0440\u0433\u044b\u0437\u0441\u0442\u0430\u043d",
+    "class": "shop",
+    "type": "hifi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50254147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3740475168",
+    "boundingbox": [
+      "-39.2764588",
+      "-39.2763588",
+      "-71.9745612",
+      "-71.9744612"
+    ],
+    "lat": "-39.2764088",
+    "lon": "-71.9745112",
+    "display_name": "The Geek, Miguel Ansorena, Puc\u00f3n, Provincia de Caut\u00edn, IX Regi\u00f3n de la Araucan\u00eda, 4920488, Chile",
+    "class": "amenity",
+    "type": "internet_cafe",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647400408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4575701195",
+    "boundingbox": [
+      "36.8852691",
+      "36.8853691",
+      "10.3242912",
+      "10.3243912"
+    ],
+    "lat": "36.8853191",
+    "lon": "10.3243412",
+    "display_name": "Geek, Rue des Narcisses, La Marsa, Sidi Abdelaziz, \u0627\u0644\u0645\u0631\u0633\u0649, \u0627\u0644\u0645\u0631\u0633\u0649 \u0627\u0644\u0634\u0627\u0637\u0626, La Marsa, \u062a\u0648\u0646\u0633, 2070, \u062a\u0648\u0646\u0633",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

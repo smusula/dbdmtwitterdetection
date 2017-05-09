@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "23685113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2330280126",
+    "boundingbox": [
+      "47.6120673",
+      "47.6121673",
+      "-122.2892014",
+      "-122.2891014"
+    ],
+    "lat": "47.6121173",
+    "lon": "-122.2891514",
+    "display_name": "The Facts, 1112, 34th Avenue, Madrona, Seattle, King County, Washington, 98122, United States of America",
+    "class": "office",
+    "type": "newspaper",
+    "importance": 0.101
+  },
+  {
+    "place_id": "112607229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "206888037",
+    "boundingbox": [
+      "27.6914677",
+      "27.6915733",
+      "85.3429269",
+      "85.3431111"
+    ],
+    "lat": "27.69151555",
+    "lon": "85.3430192032725",
+    "display_name": "Facts, Pariwartan Marga, Srijana Tole, New Baneshwor, Kathmandu, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, 34, \u0928\u0947\u092a\u093e\u0932",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "142733921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351274843",
+    "boundingbox": [
+      "51.9588477",
+      "51.959176",
+      "1.3395997",
+      "1.3400648"
+    ],
+    "lat": "51.9589512",
+    "lon": "1.3397247681892",
+    "display_name": "FACTS, Garrison Lane, Martello Park, Felixstowe, Suffolk, East of England, England, IP11 2BU, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "154722155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "417743164",
+    "boundingbox": [
+      "41.0369717",
+      "41.0371207",
+      "-83.6261026",
+      "-83.6259785"
+    ],
+    "lat": "41.0370109",
+    "lon": "-83.6260405345138",
+    "display_name": "FACTS, Warrington Avenue, Findlay, Hancock County, Ohio, 45840, United States of America",
+    "class": "office",
+    "type": "accountant",
+    "importance": 0.101
+  }
+]

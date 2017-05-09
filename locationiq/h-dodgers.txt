@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "44129020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3129196630",
+    "boundingbox": [
+      "51.9219386",
+      "51.9220386",
+      "4.4753001",
+      "4.4754001"
+    ],
+    "lat": "51.9219886",
+    "lon": "4.4753501",
+    "display_name": "Dodgers, Korte Lijnbaan, Cool, Rotterdam, MRDH, Zuid-Holland, Nederland, 3012EP, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "45064474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3201590024",
+    "boundingbox": [
+      "45.9131738",
+      "45.9132738",
+      "6.0945869",
+      "6.0946869"
+    ],
+    "lat": "45.9132238",
+    "lon": "6.0946369",
+    "display_name": "Le Dodger's, 12, Route de Frangy, Meythet, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74960, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

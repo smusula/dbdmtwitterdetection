@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "74295527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38242547",
+    "boundingbox": [
+      "50.5296137",
+      "50.5300314",
+      "-3.6154611",
+      "-3.6136434"
+    ],
+    "lat": "50.5298722",
+    "lon": "-3.6144796",
+    "display_name": "Lemon, Teignbridge, Devon, South West England, England, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "47810388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3477270300",
+    "boundingbox": [
+      "50.872366",
+      "50.872466",
+      "14.260283",
+      "14.260383"
+    ],
+    "lat": "50.872416",
+    "lon": "14.260333",
+    "display_name": "Lemon, H\u0159ensko, okres D\u011b\u010d\u00edn, \u00dasteck\u00fd kraj, Severoz\u00e1pad, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160559952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2739743",
+    "boundingbox": [
+      "39.4273344",
+      "39.4983853",
+      "-84.4642513",
+      "-84.3366971"
+    ],
+    "lat": "39.4883917",
+    "lon": "-84.3377184",
+    "display_name": "Lemon Township, Butler County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38123150335342,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "447849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157641228",
+    "boundingbox": [
+      "41.5961875",
+      "41.6361875",
+      "-75.9624209",
+      "-75.9224209"
+    ],
+    "lat": "41.6161875",
+    "lon": "-75.9424209",
+    "display_name": "Lemon, Wyoming County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "399908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153429141",
+    "boundingbox": [
+      "37.5611564",
+      "37.6011564",
+      "-87.3983344",
+      "-87.3583344"
+    ],
+    "lat": "37.5811564",
+    "lon": "-87.3783344",
+    "display_name": "Lemon, McLean County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "409450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153690182",
+    "boundingbox": [
+      "32.1159847",
+      "32.1559847",
+      "-89.5214573",
+      "-89.4814573"
+    ],
+    "lat": "32.1359847",
+    "lon": "-89.5014573",
+    "display_name": "Lemon, Smith County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13935878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1271851565",
+    "boundingbox": [
+      "-9.6001723",
+      "-9.5601723",
+      "124.2994759",
+      "124.3394759"
+    ],
+    "lat": "-9.5801723",
+    "lon": "124.3194759",
+    "display_name": "Lemon, Nusa Tenggara Timur, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "769551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "262708568",
+    "boundingbox": [
+      "-31.633611",
+      "-31.593611",
+      "27.4030556",
+      "27.4430556"
+    ],
+    "lat": "-31.613611",
+    "lon": "27.4230556",
+    "display_name": "Lemoen, Emalahleni Local Municipality, Chris Hani District Municipality, Eastern Cape, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61584702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11932927",
+    "boundingbox": [
+      "40.112566",
+      "40.1132117",
+      "-76.5175679",
+      "-76.5173941"
+    ],
+    "lat": "40.1132117",
+    "lon": "-76.5173941",
+    "display_name": "Lemon, Mount Joy, Lancaster County, Pennsylvania, 17552, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "138734757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "328050855",
+    "boundingbox": [
+      "26.1759161",
+      "26.1768252",
+      "-98.0757744",
+      "-98.0756579"
+    ],
+    "lat": "26.1762315",
+    "lon": "-98.0756784",
+    "display_name": "Lemon, Benita Addition Colonia, Hidalgo County, Texas, 78537, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

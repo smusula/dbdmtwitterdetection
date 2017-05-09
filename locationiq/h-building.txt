@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "8107888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "873856957",
+    "boundingbox": [
+      "47.2624077",
+      "47.2824077",
+      "-2.2128889",
+      "-2.1928889"
+    ],
+    "lat": "47.2724077",
+    "lon": "-2.2028889",
+    "display_name": "Le Building, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, 44600, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "157779812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "433858378",
+    "boundingbox": [
+      "36.0576785",
+      "36.0578021",
+      "139.7507259",
+      "139.7508815"
+    ],
+    "lat": "36.05774195",
+    "lon": "139.750804123882",
+    "display_name": "Building, \u5e78\u624b\u5e02, \u5317\u845b\u98fe\u90e1, \u57fc\u7389\u770c, 3450036, \u65e5\u672c",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "152474436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "404227590",
+    "boundingbox": [
+      "12.3723273",
+      "12.372392",
+      "14.214072",
+      "14.214159"
+    ],
+    "lat": "12.37235775",
+    "lon": "14.2141161517602",
+    "display_name": "Building, Gamboru B, Ngala, Borno, Nigeria",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159443944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "442847639",
+    "boundingbox": [
+      "31.1430834",
+      "31.1431626",
+      "-5.6071714",
+      "-5.6070828"
+    ],
+    "lat": "31.1431224",
+    "lon": "-5.60712653474252",
+    "display_name": "Building, Ikniouen \u0625\u0643\u0646\u064a\u0648\u0646, ca\u00efdat d'Ikniouen, cercle de Boulmane-Dad\u00e8s, Province de Tinghir \u0625\u0642\u0644\u064a\u0645 \u062a\u0646\u063a\u064a\u0631, Dr\u00e2a-Tafilalet \u2d37\u2d30\u2d54\u2d44\u2d30-\u2d5c\u2d30\u2d3c\u2d49\u2d4d\u2d30\u2d4d\u2d5c \u062f\u0631\u0639\u0629-\u062a\u0627\u0641\u064a\u0644\u0627\u0644\u062a, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2651175961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4664297719",
+    "boundingbox": [
+      "49.0337062",
+      "49.0537062",
+      "1.0887961",
+      "1.1087961"
+    ],
+    "lat": "49.0437062",
+    "lon": "1.0987961",
+    "display_name": "Maison, Name, Gauville-la-Campagne, \u00c9vreux, Eure, Normandie, Postcode, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

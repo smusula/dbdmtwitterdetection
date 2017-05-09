@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "50696169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3787799664",
+    "boundingbox": [
+      "55.9651375",
+      "55.9652375",
+      "-3.210414",
+      "-3.210314"
+    ],
+    "lat": "55.9651875",
+    "lon": "-3.210364",
+    "display_name": "Girl, Inverleith Place Lane, Goldenacre, Inverleith, Edinburgh, City of Edinburgh, Scotland, EH3 5PY, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "157458680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "432449234",
+    "boundingbox": [
+      "-2.2295633",
+      "-2.2294648",
+      "-79.9078456",
+      "-79.9077838"
+    ],
+    "lat": "-2.22951455",
+    "lon": "-79.9078149537743",
+    "display_name": "Girl, Ernesto Alban Mosquera, Huancavilca, Ximena, Guayaquil, Guayas, 090302, Ecuador",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22463880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2218492120",
+    "boundingbox": [
+      "35.6677247",
+      "35.6678247",
+      "139.3771052",
+      "139.3772052"
+    ],
+    "lat": "35.6677747",
+    "lon": "139.3771552",
+    "display_name": "\u30ac\u30fc\u30eb, 235, \u65e5\u91ce\u5e02, \u6771\u4eac\u90fd, 1900012, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

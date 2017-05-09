@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "4356084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "463186437",
+    "boundingbox": [
+      "47.9045019",
+      "47.9445019",
+      "23.3564845",
+      "23.3964845"
+    ],
+    "lat": "47.9245019",
+    "lon": "23.3764845",
+    "display_name": "Trip, Bixad, Satu Mare, 447057, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.44273772186085,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28514021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2657653036",
+    "boundingbox": [
+      "19.3783805",
+      "19.3784805",
+      "-72.0489658",
+      "-72.0488658"
+    ],
+    "lat": "19.3784305",
+    "lon": "-72.0489158",
+    "display_name": "Le Trip, Commune Ranquitte, Arrondissement Saint-Rapha\u00ebl, D\u00e9partement du Nord, Ayiti",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "19661158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1964818445",
+    "boundingbox": [
+      "43.1360068",
+      "43.1361068",
+      "-0.3518635",
+      "-0.3517635"
+    ],
+    "lat": "43.1360568",
+    "lon": "-0.3518135",
+    "display_name": "Triep, Lys, Oloron-Sainte-Marie, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64260, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "58455410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6700033",
+    "boundingbox": [
+      "51.47665",
+      "51.47824",
+      "6.1802",
+      "6.18079"
+    ],
+    "lat": "51.47783",
+    "lon": "6.18022",
+    "display_name": "Trip, Arcen, Venlo, Limburg, Nederland, 5944CS, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58415483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6700034",
+    "boundingbox": [
+      "51.47824",
+      "51.47918",
+      "6.18022",
+      "6.18052"
+    ],
+    "lat": "51.47824",
+    "lon": "6.18022",
+    "display_name": "Trip, Arcen, Venlo, Limburg, Nederland, 5944CT, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58696638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7096358",
+    "boundingbox": [
+      "51.9965882",
+      "51.9970205",
+      "5.1780513",
+      "5.1783325"
+    ],
+    "lat": "51.9965882",
+    "lon": "5.1780513",
+    "display_name": "Trip, Schalkwijk, Houten, Bestuur Regio Utrecht, Utrecht, Nederland, 3998WN, Nederland",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78380813",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "53586801",
+    "boundingbox": [
+      "51.9976923",
+      "52.0064897",
+      "5.178129",
+      "5.1792495"
+    ],
+    "lat": "52.0012352",
+    "lon": "5.178221",
+    "display_name": "Trip, Schalkwijk, Houten, Bestuur Regio Utrecht, Utrecht, Nederland, 3998WC, Nederland",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72535466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32722199",
+    "boundingbox": [
+      "51.4827032",
+      "51.4829384",
+      "-3.5759482",
+      "-3.5754848"
+    ],
+    "lat": "51.4827032",
+    "lon": "-3.5759482",
+    "display_name": "The Trip, Ewenny, Vale of Glamorgan, Wales, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2647409524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4575926831",
+    "boundingbox": [
+      "43.7741426",
+      "43.7742426",
+      "11.2432225",
+      "11.2433225"
+    ],
+    "lat": "43.7741926",
+    "lon": "11.2432725",
+    "display_name": "Il trip per tre, Borgo Ognissanti, Quartiere 1, Firenze, FI, TOS, 50123, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "41783961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3028803051",
+    "boundingbox": [
+      "64.1443938",
+      "64.1444938",
+      "-21.9233219",
+      "-21.9232219"
+    ],
+    "lat": "64.1444438",
+    "lon": "-21.9232719",
+    "display_name": "Trip, Laugavegur, Tungan, Reykjav\u00edk, H\u00f6fu\u00f0borgarsv\u00e6\u00f0i\u00f0, 105, \u00cdsland",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  }
+]

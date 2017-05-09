@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160254454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "59065",
+    "boundingbox": [
+      "51.2575982",
+      "56.17218",
+      "23.1783344",
+      "32.7627809"
+    ],
+    "lat": "53.4250605",
+    "lon": "27.6971358",
+    "display_name": "\u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76739355087426,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160499226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2145268",
+    "boundingbox": [
+      "47.2701114",
+      "50.5647142",
+      "8.9763497",
+      "13.8396373"
+    ],
+    "lat": "48.9467562",
+    "lon": "11.4038717",
+    "display_name": "Bayern, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.76364921148205,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160426643",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1274043",
+    "boundingbox": [
+      "46.9956752",
+      "47.0291957",
+      "5.8810894",
+      "5.9175753"
+    ],
+    "lat": "47.0127972",
+    "lon": "5.8890807",
+    "display_name": "By, Besan\u00e7on, Doubs, Bourgogne-Franche-Comt\u00e9, 25440, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55895748093831,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160703237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3715844",
+    "boundingbox": [
+      "4.2724991",
+      "5.3805661",
+      "5.3838882",
+      "6.6072412"
+    ],
+    "lat": "4.7629786",
+    "lon": "6.028898",
+    "display_name": "Bayelsa, Nigeria",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45653763144965,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "99345782",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153446714",
+    "boundingbox": [
+      "50.4304885",
+      "50.4371039",
+      "3.9592742",
+      "3.9663016"
+    ],
+    "lat": "50.4340833",
+    "lon": "3.9628147",
+    "display_name": "Le By, Mons, Hainaut, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "79238678",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59393118",
+    "boundingbox": [
+      "50.332448",
+      "50.3376859",
+      "3.8792728",
+      "3.8888471"
+    ],
+    "lat": "50.3355104",
+    "lon": "3.8815162",
+    "display_name": "Le By, Taisni\u00e8res-sur-Hon, Avesnes-sur-Helpe, Nord, Hauts-de-France, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "131677820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295027213",
+    "boundingbox": [
+      "46.3067569",
+      "46.3174287",
+      "6.0582461",
+      "6.0608885"
+    ],
+    "lat": "46.3122389",
+    "lon": "6.0594707",
+    "display_name": "Le By, Cessy, Gex, Ain, Auvergne-Rh\u00f4ne-Alpes, 01170, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "131676651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295027217",
+    "boundingbox": [
+      "46.3176312",
+      "46.3203394",
+      "6.0531454",
+      "6.0600933"
+    ],
+    "lat": "46.3195057",
+    "lon": "6.0577272",
+    "display_name": "Le By, Gex, Ain, Auvergne-Rh\u00f4ne-Alpes, 01170, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "145365962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367467279",
+    "boundingbox": [
+      "50.3440129",
+      "50.3467926",
+      "3.8985246",
+      "3.8989966"
+    ],
+    "lat": "50.3454233",
+    "lon": "3.8988035",
+    "display_name": "Le By, Qu\u00e9vy, Mons, Hainaut, Wallonie, 7040;7041, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160440968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1720055",
+    "boundingbox": [
+      "1.46",
+      "3.9200001",
+      "42.4000015",
+      "44.6899986"
+    ],
+    "lat": "3",
+    "lon": "43.5",
+    "display_name": "Bay, Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33452569928643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

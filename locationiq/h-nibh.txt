@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "98855901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150723048",
+    "boundingbox": [
+      "12.2846399",
+      "12.2848286",
+      "76.6398785",
+      "76.6404713"
+    ],
+    "lat": "12.2847408",
+    "lon": "76.6401747927315",
+    "display_name": "NIEBH B block, Udayaravi Road, Ashokapuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.001
+  },
+  {
+    "place_id": "98695886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150723047",
+    "boundingbox": [
+      "12.2843411",
+      "12.2845298",
+      "76.6397662",
+      "76.6404283"
+    ],
+    "lat": "12.28439",
+    "lon": "76.6402517128932",
+    "display_name": "Niebh A Block, Ambedkar Road, Ashokapuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.001
+  },
+  {
+    "place_id": "98981699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151680370",
+    "boundingbox": [
+      "12.284805",
+      "12.2850435",
+      "76.6400356",
+      "76.6406176"
+    ],
+    "lat": "12.2849269",
+    "lon": "76.6403253528474",
+    "display_name": "NIEBH ground, Udayaravi Road, Ashokapuram, Mysuru, Mysuru taluk, Mysuru district, Karnataka, 570001, India",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.001
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "40669211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2983945421",
+    "boundingbox": [
+      "39.0306718",
+      "39.0307718",
+      "141.6187216",
+      "141.6188216"
+    ],
+    "lat": "39.0307218",
+    "lon": "141.6187716",
+    "display_name": "laugh, \u9ad8\u7530\u8857\u9053, \u9678\u524d\u9ad8\u7530\u5e02, \u6c17\u4ed9\u90e1, \u5ca9\u624b\u770c, 0292292, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "27444663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2578819071",
+    "boundingbox": [
+      "35.6511105",
+      "35.6512105",
+      "139.5509362",
+      "139.5510362"
+    ],
+    "lat": "35.6511605",
+    "lon": "139.5509862",
+    "display_name": "Laugh, \u65e7\u7532\u5dde\u8857\u9053, \u8abf\u5e03\u5e02, \u6771\u4eac\u90fd, 182-0024, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

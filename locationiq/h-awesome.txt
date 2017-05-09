@@ -1,0 +1,150 @@
+[
+  {
+    "place_id": "86661222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103093182",
+    "boundingbox": [
+      "45.8686569",
+      "45.869902",
+      "-66.9337115",
+      "-66.9301062"
+    ],
+    "lat": "45.8692147",
+    "lon": "-66.9318876",
+    "display_name": "Awesome, Joslin Farm, Kingsclear, York County, New Brunswick, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "128595083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279017761",
+    "boundingbox": [
+      "49.0119677",
+      "49.0171882",
+      "-117.8334625",
+      "-117.8258728"
+    ],
+    "lat": "49.0144481",
+    "lon": "-117.8299173",
+    "display_name": "Awesome, Paterson, Regional District of Kootenay Boundary, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "148786287",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383395139",
+    "boundingbox": [
+      "48.778981",
+      "48.78973",
+      "-123.6120746",
+      "-123.6059276"
+    ],
+    "lat": "48.7839504",
+    "lon": "-123.6089628",
+    "display_name": "Awesome, North Cowichan, Cowichan Valley Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "17078948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1628918557",
+    "boundingbox": [
+      "55.683156",
+      "55.683256",
+      "12.574306",
+      "12.574406"
+    ],
+    "lat": "55.683206",
+    "lon": "12.574356",
+    "display_name": "Awesome, Sankt Gertruds Str\u00e6de, Frederiksstaden, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1130, Danmark",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "53733027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4114933895",
+    "boundingbox": [
+      "34.186992",
+      "34.187092",
+      "-118.5364159",
+      "-118.5363159"
+    ],
+    "lat": "34.187042",
+    "lon": "-118.5363659",
+    "display_name": "Awesome, Reseda Boulevard, Reseda, LA, Los Angeles County, California, 91335, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16215048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1474266764",
+    "boundingbox": [
+      "12.9312869",
+      "12.9313869",
+      "77.5861797",
+      "77.5862797"
+    ],
+    "lat": "12.9313369",
+    "lon": "77.5862297",
+    "display_name": "Awesome, 11th Main Road, Canara Bank Colony, Jayanagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2645422003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456680421",
+    "boundingbox": [
+      "23.6575686",
+      "23.6579322",
+      "86.0824861",
+      "86.0827745"
+    ],
+    "lat": "23.65775345",
+    "lon": "86.0826291076271",
+    "display_name": "Awesome, NH320, Bokaro, Jharkhand, India",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653337655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4715161440",
+    "boundingbox": [
+      "33.895426",
+      "33.895526",
+      "35.5206215",
+      "35.5207215"
+    ],
+    "lat": "33.895476",
+    "lon": "35.5206715",
+    "display_name": "Awesome, \u062f\u0631\u062c \u0641\u0644\u0627\u0645, \u0627\u0644\u062d\u0643\u0645\u0629, \u0627\u0644\u0631\u0645\u064a\u0644, \u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0631\u0648\u062a, 2078, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

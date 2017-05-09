@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "61812264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12278040",
+    "boundingbox": [
+      "40.5998669",
+      "40.600266",
+      "-75.1992425",
+      "-75.1965559"
+    ],
+    "lat": "40.6000257",
+    "lon": "-75.198379",
+    "display_name": "Emergency Squad Road, Riegelsville, Bucks County, Pennsylvania, 18077, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67977232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21357681",
+    "boundingbox": [
+      "39.966101",
+      "39.966205",
+      "-83.2296889",
+      "-83.2282629"
+    ],
+    "lat": "39.966129",
+    "lon": "-83.2294359",
+    "display_name": "Squad Court, West Point, Franklin County, Ohio, 43119, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67563059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21397505",
+    "boundingbox": [
+      "39.963238",
+      "39.968594",
+      "-83.2313429",
+      "-83.2275099"
+    ],
+    "lat": "39.965287",
+    "lon": "-83.2282899",
+    "display_name": "Squad Drive, West Point, Franklin County, Ohio, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66583831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19422070",
+    "boundingbox": [
+      "36.019842",
+      "36.0204874",
+      "-88.4137049",
+      "-88.4136991"
+    ],
+    "lat": "36.019842",
+    "lon": "-88.4137049",
+    "display_name": "Rescue Squad Road, Huntingdon, Carroll County, Tennessee, 38344, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61830841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11742568",
+    "boundingbox": [
+      "40.9638366",
+      "40.964805",
+      "-74.2557497",
+      "-74.2546356"
+    ],
+    "lat": "40.9640787",
+    "lon": "-74.2556298",
+    "display_name": "Squad Place, Wayne, Passaic County, New Jersey, 07470, United States of America",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64207779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16200210",
+    "boundingbox": [
+      "36.863697",
+      "36.86429",
+      "-83.3549379",
+      "-83.3549099"
+    ],
+    "lat": "36.864137",
+    "lon": "-83.3549099",
+    "display_name": "Rescue Squad Lane, Keith, Harlan County, Kentucky, 40854, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64564660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16292650",
+    "boundingbox": [
+      "36.726719",
+      "36.727025",
+      "-84.4717029",
+      "-84.4712379"
+    ],
+    "lat": "36.726854",
+    "lon": "-84.4714599",
+    "display_name": "Rescue Squad Drive, Whitley City, McCreary County, Kentucky, 42647, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62100762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12117591",
+    "boundingbox": [
+      "33.403091",
+      "33.404437",
+      "-81.4244869",
+      "-81.4234729"
+    ],
+    "lat": "33.40327",
+    "lon": "-81.4243349",
+    "display_name": "RESCUE SQUAD BOULEVARD, Williston, Barnwell County, South Carolina, 29853, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62267747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12518572",
+    "boundingbox": [
+      "34.888194",
+      "34.888751",
+      "-82.9746309",
+      "-82.9742719"
+    ],
+    "lat": "34.88848",
+    "lon": "-82.9744249",
+    "display_name": "Squad Lane, Salem, Oconee County, South Carolina, 29676, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61702106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12081708",
+    "boundingbox": [
+      "34.0893423",
+      "34.089574",
+      "-82.587386",
+      "-82.5865379"
+    ],
+    "lat": "34.089501",
+    "lon": "-82.5868359",
+    "display_name": "Rescue Squad Road, Calhoun Falls, Abbeville County, South Carolina, 29628, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

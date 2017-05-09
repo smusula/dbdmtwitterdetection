@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "436302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154134215",
+    "boundingbox": [
+      "38.8497985",
+      "38.8897985",
+      "-82.5626603",
+      "-82.5226603"
+    ],
+    "lat": "38.8697985",
+    "lon": "-82.5426603",
+    "display_name": "Kitchen, Jackson County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "415454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153966184",
+    "boundingbox": [
+      "37.9617007",
+      "38.0017007",
+      "-82.0544274",
+      "-82.0144274"
+    ],
+    "lat": "37.9817007",
+    "lon": "-82.0344274",
+    "display_name": "Kitchen, Logan County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "65515656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17728852",
+    "boundingbox": [
+      "44.995726",
+      "44.99589",
+      "-84.9383949",
+      "-84.9285519"
+    ],
+    "lat": "44.995784",
+    "lon": "-84.9316069",
+    "display_name": "Kitchen, Alba, Antrim County, Michigan, 49730, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61857116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11791468",
+    "boundingbox": [
+      "40.9326888",
+      "40.9334205",
+      "-75.0996066",
+      "-75.0973132"
+    ],
+    "lat": "40.9331398",
+    "lon": "-75.0983961",
+    "display_name": "Kitchen, Columbia, Warren County, New Jersey, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "159403939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "442571740",
+    "boundingbox": [
+      "-16.2700823",
+      "-16.2684241",
+      "136.878294",
+      "136.8800173"
+    ],
+    "lat": "-16.269557",
+    "lon": "136.8790557",
+    "display_name": "Kitchen, Bujan, Northern Territory, Australia",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94155108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130355597",
+    "boundingbox": [
+      "42.1635205",
+      "42.164369",
+      "-71.4935329",
+      "-71.4915112"
+    ],
+    "lat": "42.164321",
+    "lon": "-71.4923989",
+    "display_name": "Kitchen, Milford, Worcester County, Massachusetts, 01757, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "65678529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17728851",
+    "boundingbox": [
+      "44.9908674",
+      "44.996076",
+      "-84.9500131",
+      "-84.946501"
+    ],
+    "lat": "44.993638",
+    "lon": "-84.9481109",
+    "display_name": "Kitchen, Alba, Antrim County, Michigan, 49611, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55244309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4284143179",
+    "boundingbox": [
+      "-14.4673705",
+      "-14.4672705",
+      "35.2389421",
+      "35.2390421"
+    ],
+    "lat": "-14.4673205",
+    "lon": "35.2389921",
+    "display_name": "kitchen, M10, Mponda, Southern Region, Malawi",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2654385392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479755610",
+    "boundingbox": [
+      "-14.467858",
+      "-14.4677819",
+      "35.2387501",
+      "35.2388257"
+    ],
+    "lat": "-14.4678125",
+    "lon": "35.2387890997056",
+    "display_name": "kitchen, M10, Mponda, Southern Region, Malawi",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2654058996",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4733125322",
+    "boundingbox": [
+      "-43.5316167",
+      "-43.5315167",
+      "172.6317158",
+      "172.6318158"
+    ],
+    "lat": "-43.5315667",
+    "lon": "172.6317658",
+    "display_name": "The Kitchen, 53, Hereford Street, Merivale, Christchurch, Christchurch City, Canterbury, 8011, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

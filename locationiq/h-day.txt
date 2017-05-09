@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160432940",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1674833",
+    "boundingbox": [
+      "32.9260488",
+      "34.3693334",
+      "65.2275015",
+      "67.4192238"
+    ],
+    "lat": "33.725113",
+    "lon": "66.2196554",
+    "display_name": "Daykundi \u062f\u0627\u06cc\u06a9\u0646\u062f\u06cc, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56170918902438,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160472682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1739805",
+    "boundingbox": [
+      "45.1532845",
+      "45.589207",
+      "-97.9816481",
+      "-97.2251049"
+    ],
+    "lat": "45.3658879",
+    "lon": "-97.615266",
+    "display_name": "Day County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46981891345974,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "73184536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34613885",
+    "boundingbox": [
+      "39.8876941",
+      "39.9225924",
+      "-84.2548969",
+      "-84.1985492"
+    ],
+    "lat": "39.9053187",
+    "lon": "-84.2202453248027",
+    "display_name": "James M. Cox Dayton International Airport, Cargo Road, Dayton, Montgomery County, Ohio, 45377, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.41612825880797,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "312211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "147133410",
+    "boundingbox": [
+      "41.1915526",
+      "41.2315526",
+      "-121.3944265",
+      "-121.3544265"
+    ],
+    "lat": "41.2115526",
+    "lon": "-121.3744265",
+    "display_name": "Day, Modoc County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41045232539126,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "464734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158288690",
+    "boundingbox": [
+      "41.1667311",
+      "41.2067311",
+      "-79.2847632",
+      "-79.2447632"
+    ],
+    "lat": "41.1867311",
+    "lon": "-79.2647632",
+    "display_name": "Day, Clarion County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "411226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153930666",
+    "boundingbox": [
+      "30.1741083",
+      "30.2141083",
+      "-83.3112515",
+      "-83.2712515"
+    ],
+    "lat": "30.1941083",
+    "lon": "-83.2912515",
+    "display_name": "Day, Lafayette County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23223680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2296397420",
+    "boundingbox": [
+      "43.2840314",
+      "43.3240314",
+      "-74.0375995",
+      "-73.9975995"
+    ],
+    "lat": "43.3040314",
+    "lon": "-74.0175995",
+    "display_name": "Day, Town of Day, Saratoga County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158554007",
+    "boundingbox": [
+      "39.3673255",
+      "39.4073255",
+      "-77.0752582",
+      "-77.0352582"
+    ],
+    "lat": "39.3873255",
+    "lon": "-77.0552582",
+    "display_name": "Day, Carroll County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "352486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151336169",
+    "boundingbox": [
+      "36.793114",
+      "36.833114",
+      "-93.2637936",
+      "-93.2237936"
+    ],
+    "lat": "36.813114",
+    "lon": "-93.2437936",
+    "display_name": "Day, Taney County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "427384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153949712",
+    "boundingbox": [
+      "37.0514858",
+      "37.0914858",
+      "-82.8665493",
+      "-82.8265493"
+    ],
+    "lat": "37.0714858",
+    "lon": "-82.8465493",
+    "display_name": "Day, Letcher County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

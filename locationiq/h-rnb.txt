@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "120053507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "237051782",
+    "boundingbox": [
+      "56.2530431",
+      "56.2855422",
+      "15.2531602",
+      "15.2823469"
+    ],
+    "lat": "56.27020805",
+    "lon": "15.2678398883741",
+    "display_name": "Ronneby Airport, Eringsbodav\u00e4gen, Ronneby kommun, Ronneby, Blekinge l\u00e4n, G\u00f6taland, Sverige",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.27483378640496,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2649185018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4616222416",
+    "boundingbox": [
+      "-13.0030015",
+      "-13.0029015",
+      "-38.5318294",
+      "-38.5317294"
+    ],
+    "lat": "-13.0029515",
+    "lon": "-38.5317794",
+    "display_name": "RNB, Avenida Princesa Isabel, Barra, Salvador, Microrregi\u00e3o de Salvador, Regi\u00e3o Metropolitana de Salvador, Mesorregi\u00e3o do Rec\u00f4ncavo baiano, BA, Regi\u00e3o Nordeste, 40140-040, Brasil",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "99462017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153954999",
+    "boundingbox": [
+      "39.7550301",
+      "39.7552885",
+      "-8.5707472",
+      "-8.5704195"
+    ],
+    "lat": "39.7551593",
+    "lon": "-8.57058335",
+    "display_name": "RNB, Rua do Salgueirinho, Urqueira, Our\u00e9m, Santar\u00e9m, M\u00e9dio Tejo, Centro, Portugal",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "42866484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3100351545",
+    "boundingbox": [
+      "36.3121665",
+      "36.3122665",
+      "2.1649468",
+      "2.1650468"
+    ],
+    "lat": "36.3122165",
+    "lon": "2.1649968",
+    "display_name": "RnB, Route de Sidi Medjahed, Djn\u00e8ne El Houareth, Tala Ouchaqouf, Ben Allel, Da\u00efra Miliana, A\u00efn Defla - \u0639\u064a\u0646 \u0627\u0644\u062f\u0641\u0644\u0649, 44210, RADP",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74533352",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37947213",
+    "boundingbox": [
+      "37.3871331",
+      "37.3881135",
+      "-121.9643556",
+      "-121.9627355"
+    ],
+    "lat": "37.3873846",
+    "lon": "-121.963660441783",
+    "display_name": "Robert Noyce Building, Mission College Boulevard, Santa Clara, Santa Clara County, California, 95054, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "167608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "31495130",
+    "boundingbox": [
+      "59.4301829",
+      "59.4401829",
+      "18.0523902",
+      "18.0623902"
+    ],
+    "lat": "59.4351829",
+    "lon": "18.0573902",
+    "display_name": "Roslags N\u00e4sby, \u00d6stra banv\u00e4gen, Roslags-N\u00e4sby, T\u00e4by, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 18302, Sverige",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2650641326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4646118797",
+    "boundingbox": [
+      "36.6178175",
+      "36.6179175",
+      "3.0039537",
+      "3.0040537"
+    ],
+    "lat": "36.6178675",
+    "lon": "3.0040037",
+    "display_name": "\u0627\u0644\u0631\u0627\u0646\u0628\u064a, CW 214, Ouled Chebel, Da\u00efra Birtouta, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, RADP",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

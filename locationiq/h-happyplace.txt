@@ -1,0 +1,147 @@
+[
+  {
+    "place_id": "110160991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "196975738",
+    "boundingbox": [
+      "12.9087364",
+      "12.9093848",
+      "100.9440639",
+      "100.9450598"
+    ],
+    "lat": "12.9092227",
+    "lon": "100.944736089724",
+    "display_name": "Happy Place, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61249647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11184695",
+    "boundingbox": [
+      "28.1569249",
+      "28.1569362",
+      "-81.4394733",
+      "-81.4389979"
+    ],
+    "lat": "28.1569249",
+    "lon": "-81.4394733",
+    "display_name": "Happy Place, Osceola County, Florida, 34746, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "62424582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13183219",
+    "boundingbox": [
+      "38.4944571",
+      "38.494851",
+      "-94.944197",
+      "-94.9415809"
+    ],
+    "lat": "38.494465",
+    "lon": "-94.9426049",
+    "display_name": "Happy Place, Osawatomie, Miami County, Kansas, 66064, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "64809762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17088648",
+    "boundingbox": [
+      "37.4561197",
+      "37.4573576",
+      "-107.5537474",
+      "-107.5536231"
+    ],
+    "lat": "37.4573576",
+    "lon": "-107.5536231",
+    "display_name": "Happy Place, La Plata County, Colorado, 81122, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "63191483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14472991",
+    "boundingbox": [
+      "32.3421567",
+      "32.3436695",
+      "-106.834695",
+      "-106.8339032"
+    ],
+    "lat": "32.3421567",
+    "lon": "-106.8339032",
+    "display_name": "Happy Place, Picacho, Do\u00f1a Ana County, New Mexico, 88005, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "61203718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11327426",
+    "boundingbox": [
+      "28.8129968",
+      "28.8131658",
+      "-81.3724086",
+      "-81.3709046"
+    ],
+    "lat": "28.8130458",
+    "lon": "-81.3716126",
+    "display_name": "Happy Place, Alderene Park, Seminole County, Florida, 32771, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.075
+  },
+  {
+    "place_id": "55008112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4264878518",
+    "boundingbox": [
+      "48.1213214",
+      "48.1214214",
+      "7.8500219",
+      "7.8501219"
+    ],
+    "lat": "48.1213714",
+    "lon": "7.8500719",
+    "display_name": "Happy Place, 6, Kirchstra\u00dfe, \u00dcber der Elz, Emmendingen (Kernstadt), Emmendingen, VVG der Stadt Emmendingen, Landkreis Emmendingen, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 79312, Deutschland",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "146048054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370277494",
+    "boundingbox": [
+      "12.1095522",
+      "12.1097976",
+      "-68.9385259",
+      "-68.9383348"
+    ],
+    "lat": "12.1096749",
+    "lon": "-68.9384303699265",
+    "display_name": "Happy Plaza, 131, Breedestraat, Paris, Otrobanda, Willemstad, Cura\u00e7ao, 0000NA, Nederland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

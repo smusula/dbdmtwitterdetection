@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "3285901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358777231",
+    "boundingbox": [
+      "37.6685001",
+      "38.3085001",
+      "-122.7623504",
+      "-122.1223504"
+    ],
+    "lat": "37.9885001",
+    "lon": "-122.4423504",
+    "display_name": "The Sisters, Marin County, California, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.44630273065884
+  },
+  {
+    "place_id": "160293199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186776",
+    "boundingbox": [
+      "44.277691",
+      "44.302507",
+      "-121.5841629",
+      "-121.5340289"
+    ],
+    "lat": "44.290948",
+    "lon": "-121.5492515",
+    "display_name": "Sisters, Deschutes County, Oregon, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.42516713207519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2936496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357327739",
+    "boundingbox": [
+      "42.8012199",
+      "43.4412199",
+      "-124.7540044",
+      "-124.1140044"
+    ],
+    "lat": "43.1212199",
+    "lon": "-124.4340044",
+    "display_name": "Sisters, Coos County, Oregon, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2725407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357303389",
+    "boundingbox": [
+      "41.7117777",
+      "42.3517777",
+      "-124.5767571",
+      "-123.9367571"
+    ],
+    "lat": "42.0317777",
+    "lon": "-124.2567571",
+    "display_name": "Sisters, Harbor, Curry County, Oregon, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2985995",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358227071",
+    "boundingbox": [
+      "43.4217518",
+      "44.0617518",
+      "-70.0408784",
+      "-69.4008784"
+    ],
+    "lat": "43.7417518",
+    "lon": "-69.7208784",
+    "display_name": "The Sisters, Sagadahoc County, Maine, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "23132646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2292878352",
+    "boundingbox": [
+      "44.0556177",
+      "44.6956177",
+      "-65.5521086",
+      "-64.9121086"
+    ],
+    "lat": "44.3756177",
+    "lon": "-65.2321086",
+    "display_name": "The Sisters, Region of Queens Municipality, Queens County, Nova Scotia, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "7557168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "810605697",
+    "boundingbox": [
+      "44.1274485",
+      "44.7674485",
+      "-63.8498443",
+      "-63.2098443"
+    ],
+    "lat": "44.4474485",
+    "lon": "-63.5298443",
+    "display_name": "The Sisters, Halifax, Halifax Regional Municipality, Halifax County, Nova Scotia, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "63972696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15548021",
+    "boundingbox": [
+      "48.6914438",
+      "48.6919779",
+      "-122.7615101",
+      "-122.7607302"
+    ],
+    "lat": "48.69170045",
+    "lon": "-122.76110140995",
+    "display_name": "The Sisters, San Juan County, Washington, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "19320425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1881825853",
+    "boundingbox": [
+      "52.3992168",
+      "53.0392168",
+      "-56.1341264",
+      "-55.4941264"
+    ],
+    "lat": "52.7192168",
+    "lon": "-55.8141264",
+    "display_name": "The Sisters, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "20497112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2048825196",
+    "boundingbox": [
+      "54.6599805",
+      "55.2999805",
+      "-59.9582885",
+      "-59.3182885"
+    ],
+    "lat": "54.9799805",
+    "lon": "-59.6382885",
+    "display_name": "The Sisters, \u157f\u1433\u1585\u1472\u1585 Postville, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  }
+]

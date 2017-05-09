@@ -1,0 +1,149 @@
+[
+  {
+    "place_id": "48545901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3558915682",
+    "boundingbox": [
+      "50.3292699",
+      "50.3293699",
+      "-86.0711582",
+      "-86.0710582"
+    ],
+    "lat": "50.3293199",
+    "lon": "-86.0711082",
+    "display_name": "Singing Falls, Ontario, Canada",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.425
+  },
+  {
+    "place_id": "142012256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "344597335",
+    "boundingbox": [
+      "50.2063009",
+      "50.2182069",
+      "-86.1767932",
+      "-86.1246682"
+    ],
+    "lat": "50.2103523",
+    "lon": "-86.1498846",
+    "display_name": "Singing River, Ontario, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3058588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357975921",
+    "boundingbox": [
+      "30.0135333",
+      "30.6535333",
+      "-88.8950164",
+      "-88.2550164"
+    ],
+    "lat": "30.3335333",
+    "lon": "-88.5750164",
+    "display_name": "Singing River Island, Jackson County, Mississippi, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "81241988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "72199689",
+    "boundingbox": [
+      "50.0102886",
+      "50.0276046",
+      "-122.9122165",
+      "-122.8872016"
+    ],
+    "lat": "50.0165328",
+    "lon": "-122.8969471",
+    "display_name": "Singing Creek, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "388837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153569658",
+    "boundingbox": [
+      "31.2843378",
+      "31.3243378",
+      "-85.8652155",
+      "-85.8252155"
+    ],
+    "lat": "31.3043378",
+    "lon": "-85.8452155",
+    "display_name": "Singing Brook, Coffee County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18534988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1797705409",
+    "boundingbox": [
+      "35.0461075",
+      "35.0861075",
+      "-106.5280482",
+      "-106.4880482"
+    ],
+    "lat": "35.0661075",
+    "lon": "-106.5080482",
+    "display_name": "Singing Arrow, Bernalillo County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "427128",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154161538",
+    "boundingbox": [
+      "34.6387124",
+      "34.6787124",
+      "-82.9482021",
+      "-82.9082021"
+    ],
+    "lat": "34.6587124",
+    "lon": "-82.9282021",
+    "display_name": "Singing Pines, Oconee County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "71982543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31314205",
+    "boundingbox": [
+      "-32.6698254",
+      "-32.6686343",
+      "152.1668437",
+      "152.1696427"
+    ],
+    "lat": "-32.6686343",
+    "lon": "152.1696427",
+    "display_name": "Tea Gardens-Hawks Nest Bridge, Hawks Nest, Mid-Coast, NSW, Australia",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.36704474917533
+  }
+]

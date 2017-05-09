@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "160285978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170624",
+    "boundingbox": [
+      "40.858698",
+      "40.913285",
+      "-74.0683849",
+      "-74.0247369"
+    ],
+    "lat": "40.8859326",
+    "lon": "-74.0434735",
+    "display_name": "Hackensack, Bergen County, New Jersey, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.56334813648488,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160274760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "137809",
+    "boundingbox": [
+      "46.913806",
+      "46.936266",
+      "-94.5327169",
+      "-94.4975749"
+    ],
+    "lat": "46.93003",
+    "lon": "-94.5204073",
+    "display_name": "Hackensack, Cass County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40567999588715,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "61187095",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10819900",
+    "boundingbox": [
+      "26.884041",
+      "26.886539",
+      "-82.2101039",
+      "-82.2100739"
+    ],
+    "lat": "26.885624",
+    "lon": "-82.2100849",
+    "display_name": "Hackensack, Charlotte County, Florida, 33927, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

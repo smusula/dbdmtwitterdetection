@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "54524359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4210173133",
+    "boundingbox": [
+      "40.7291369",
+      "40.7292369",
+      "-73.984435",
+      "-73.984335"
+    ],
+    "lat": "40.7291869",
+    "lon": "-73.984385",
+    "display_name": "Momofuku Noodle Bar, 171, 1st Avenue, East Village, Manhattan, New York County, NYC, New York, 10003, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56217252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4396465094",
+    "boundingbox": [
+      "40.7442892",
+      "40.7443892",
+      "-73.9988268",
+      "-73.9987268"
+    ],
+    "lat": "40.7443392",
+    "lon": "-73.9987768",
+    "display_name": "Momofuku Nishi, 232, 8th Avenue, Chelsea, Manhattan, New York County, NYC, New York, 10011, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56486337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4396459593",
+    "boundingbox": [
+      "40.7316011",
+      "40.7317011",
+      "-73.9857649",
+      "-73.9856649"
+    ],
+    "lat": "40.7316511",
+    "lon": "-73.9857149",
+    "display_name": "Momofuku Ss\u00e4m Bar, 207, 2nd Avenue, East Village, Manhattan, New York County, NYC, New York, 10003, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "26823320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2539225297",
+    "boundingbox": [
+      "40.7871784",
+      "40.7872784",
+      "-73.9714593",
+      "-73.9713593"
+    ],
+    "lat": "40.7872284",
+    "lon": "-73.9714093",
+    "display_name": "Momofuku Milk Bar, 561, Columbus Avenue, Upper West Side, Manhattan, New York County, NYC, New York, 10024, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

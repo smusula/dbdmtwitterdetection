@@ -1,0 +1,149 @@
+[
+  {
+    "place_id": "123636345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251912828",
+    "boundingbox": [
+      "52.4406673",
+      "52.44149",
+      "4.8042952",
+      "4.8083268"
+    ],
+    "lat": "52.4410986",
+    "lon": "4.8062622",
+    "display_name": "Musical, Zaandam, Zaanstad, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1507TN, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "123631126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251912829",
+    "boundingbox": [
+      "52.4410845",
+      "52.4411575",
+      "4.8060734",
+      "4.8067678"
+    ],
+    "lat": "52.4411575",
+    "lon": "4.8064044",
+    "display_name": "Musical, Zaandam, Zaanstad, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1507TS, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63087271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14310044",
+    "boundingbox": [
+      "36.177226",
+      "36.177271",
+      "-115.2639943",
+      "-115.2633171"
+    ],
+    "lat": "36.177271",
+    "lon": "-115.2638571",
+    "display_name": "Musical, The Pueblo, Las Vegas, Clark County, Nevada, 89145, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100444082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157917775",
+    "boundingbox": [
+      "51.9415768",
+      "51.9422253",
+      "5.893849",
+      "5.8950342"
+    ],
+    "lat": "51.9419792",
+    "lon": "5.8942924",
+    "display_name": "Musical, Winkelcentrum RIjkerswoerd, Arnhem, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6836NB, Nederland",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2649890094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "468873311",
+    "boundingbox": [
+      "39.3967386",
+      "39.3970288",
+      "-0.4187914",
+      "-0.4182764"
+    ],
+    "lat": "39.39687745",
+    "lon": "-0.418539597997983",
+    "display_name": "'El Musical', Calle de Cervantes, Albal, L'Horta Sud, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46469, Espa\u00f1a",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10962935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1050462233",
+    "boundingbox": [
+      "39.5448637",
+      "39.5449637",
+      "-0.3936733",
+      "-0.3935733"
+    ],
+    "lat": "39.5449137",
+    "lon": "-0.3936233",
+    "display_name": "Musical, Calle Veinticinco de abril, Barrio Virgen de los Dolores, Moncada, L'Horta Nord, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46113, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2648935255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4610493190",
+    "boundingbox": [
+      "38.7059721",
+      "38.7060721",
+      "-9.4291465",
+      "-9.4290465"
+    ],
+    "lat": "38.7060221",
+    "lon": "-9.4290965",
+    "display_name": "Musical, Rua Ant\u00f3nio Andrade Junior, Bairro Tremil, Cascais, Cascais e Estoril, Cascais, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, 2750-841, Portugal",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "15989038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1461779536",
+    "boundingbox": [
+      "39.9641672",
+      "39.9642672",
+      "-0.2671361",
+      "-0.2670361"
+    ],
+    "lat": "39.9642172",
+    "lon": "-0.2670861",
+    "display_name": "El Musical, Calle Cervantes, Urbanizaci\u00f3n Nueva Onda, Onda, Plana Baixa, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, 12200, Espa\u00f1a",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

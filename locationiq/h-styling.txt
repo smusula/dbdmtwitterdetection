@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "2654237181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4736398777",
+    "boundingbox": [
+      "43.2617261",
+      "43.2618261",
+      "-2.933608",
+      "-2.933508"
+    ],
+    "lat": "43.2617761",
+    "lon": "-2.933558",
+    "display_name": "Styling, Calle Marqu\u00e9s del Puerto, Uribitarte, Zabalburu, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "46805222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3396913873",
+    "boundingbox": [
+      "45.5763075",
+      "45.5764075",
+      "9.2925468",
+      "9.2926468"
+    ],
+    "lat": "45.5763575",
+    "lon": "9.2925968",
+    "display_name": "Styling, 59, Viale Ugo Foscolo, Sobborghi, Cederna, Monza, MB, LOM, 20900, Italia",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53825436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4089932290",
+    "boundingbox": [
+      "43.2857167",
+      "43.2858167",
+      "-2.9944282",
+      "-2.9943282"
+    ],
+    "lat": "43.2857667",
+    "lon": "-2.9943782",
+    "display_name": "Styling, 66, Avenida de Euskadi, Ansio, Arteagabeitia, Barakaldo, Bilboaldea, Bizkaia, Euskadi, 48902, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "95030347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "134224013",
+    "boundingbox": [
+      "49.3020057",
+      "49.30211",
+      "-0.0776849",
+      "-0.0775221"
+    ],
+    "lat": "49.30206505",
+    "lon": "-0.0776016024420682",
+    "display_name": "Styl'ing, Rue du G\u00e9n\u00e9ral Leclerc, La Butte de Houlgate, Houlgate, Lisieux, Calvados, Normandie, 14510, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "11639899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1126116835",
+    "boundingbox": [
+      "49.3771302",
+      "49.3772302",
+      "2.4144147",
+      "2.4145147"
+    ],
+    "lat": "49.3771802",
+    "lon": "2.4144647",
+    "display_name": "Styl'Ing, Rue de la R\u00e9publique, Clermont, Oise, Hauts-de-France, 60600, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

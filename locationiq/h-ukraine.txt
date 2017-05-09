@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160254866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "60199",
+    "boundingbox": [
+      "44.184598",
+      "52.3791473",
+      "22.137059",
+      "40.2275801"
+    ],
+    "lat": "49.4871968",
+    "lon": "31.2718321",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.84928622345796,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "82804826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85209247",
+    "boundingbox": [
+      "36.8734727",
+      "36.8742164",
+      "10.312442",
+      "10.3141368"
+    ],
+    "lat": "36.8737831",
+    "lon": "10.3131495",
+    "display_name": "Ukraine, La Marsa, \u062d\u064a \u0627\u0644\u0637\u0627\u0628\u0642, \u0627\u0644\u0645\u0631\u0633\u0649 \u062d\u062f\u0627\u0626\u0642, La Marsa, \u062a\u0648\u0646\u0633, 2070, \u062a\u0648\u0646\u0633",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71687338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30643028",
+    "boundingbox": [
+      "50.4481872",
+      "50.4488662",
+      "30.526764",
+      "30.5277951"
+    ],
+    "lat": "50.44852835",
+    "lon": "30.5272691354414",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, 4, \u0413\u0435\u0440\u043e\u0457\u0432 \u041d\u0435\u0431\u0435\u0441\u043d\u043e\u0457 \u0421\u043e\u0442\u043d\u0456 \u0430\u043b\u0435\u044f, \u0416\u041a \u041b\u0438\u043f\u0441\u044c\u043a\u0430 \u0432\u0435\u0436\u0430, \u041b\u0438\u043f\u043a\u0438, \u041f\u0435\u0447\u0435\u0440\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 01001, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.13958297447186,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "1301318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303803782",
+    "boundingbox": [
+      "52.2953664",
+      "52.2954664",
+      "8.0365834",
+      "8.0366834"
+    ],
+    "lat": "52.2954164",
+    "lon": "8.0366334",
+    "display_name": "Ukraine, 206, Bramscher Stra\u00dfe, Altstadt, Hafen, Osnabr\u00fcck, Niedersachsen, 49090, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "145945872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369981992",
+    "boundingbox": [
+      "37.9381651",
+      "37.9384211",
+      "58.3877251",
+      "58.3881711"
+    ],
+    "lat": "37.9382397",
+    "lon": "58.3879936250936",
+    "display_name": "Embassy of Ukraine, 49, Dowletmamed Azady (2011) kocesi, A\u015fgabat, Ahal wela\u00fdaty, 744005, T\u00fcrkmenistan",
+    "class": "amenity",
+    "type": "embassy",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4741591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "508304250",
+    "boundingbox": [
+      "41.988953",
+      "41.989053",
+      "21.4124977",
+      "21.4125977"
+    ],
+    "lat": "41.989003",
+    "lon": "21.4125477",
+    "display_name": "\u0423\u043a\u0440\u0430\u0438\u043d\u0430, \u041f\u0438\u0442\u0443 \u0413\u0443\u043b\u0438, \u0412\u043e\u0434\u043d\u043e, \u0426\u0435\u043d\u0442\u0430\u0440, \u0421\u043a\u043e\u043f\u0458\u0435, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u0426\u0435\u043d\u0442\u0430\u0440, \u0413\u0440\u0430\u0434 \u0421\u043a\u043e\u043f\u0458\u0435, \u0421\u043a\u043e\u043f\u0441\u043a\u0438 \u0420\u0435\u0433\u0438\u043e\u043d, 1000, \u041c\u0430\u043a\u0435\u0434\u043e\u043d\u0438\u0458\u0430",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "16830364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1612922345",
+    "boundingbox": [
+      "48.0318263",
+      "48.0319263",
+      "37.7839255",
+      "37.7840255"
+    ],
+    "lat": "48.0318763",
+    "lon": "37.7839755",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, 99, \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0413\u043b\u0430\u0434\u043a\u0456\u0432\u043a\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a, \u0412\u043e\u0440\u043e\u0448\u0438\u043b\u043e\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043e\u043d\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 83000-83490, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "97768975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145442910",
+    "boundingbox": [
+      "49.5908994",
+      "49.5911479",
+      "34.5452026",
+      "34.5455587"
+    ],
+    "lat": "49.59102365",
+    "lon": "34.54538065",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, 41\u0430, \u0421\u043e\u0431\u043e\u0440\u043d\u043e\u0441\u0442\u0456 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u043e\u043b\u0442\u0430\u0432\u0430, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u043e\u043b\u0442\u0430\u0432\u0430, \u041f\u043e\u043b\u0442\u0430\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 36000-36499, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "15753990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1424083340",
+    "boundingbox": [
+      "48.2633217",
+      "48.2634217",
+      "25.9504102",
+      "25.9505102"
+    ],
+    "lat": "48.2633717",
+    "lon": "25.9504602",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, 1, \u041a\u043e\u043c\u0430\u0440\u043e\u0432\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u0442\u0438\u043d\u043a\u0430, \u0428\u0435\u0432\u0447\u0435\u043d\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0427\u0435\u0440\u043d\u0456\u0432\u0446\u0456, \u0427\u0435\u0440\u043d\u0456\u0432\u0435\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 58018, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56252386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4408390098",
+    "boundingbox": [
+      "45.354043",
+      "45.354143",
+      "28.8304894",
+      "28.8305894"
+    ],
+    "lat": "45.354093",
+    "lon": "28.8305394",
+    "display_name": "\u0423\u043a\u0440\u0430\u0457\u043d\u0430, \u041c\u0438\u0440\u0443 \u043f\u043b\u043e\u0449\u0430, \u0406\u0437\u043c\u0430\u0457\u043b, \u041e\u0434\u0435\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 68600-68633, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

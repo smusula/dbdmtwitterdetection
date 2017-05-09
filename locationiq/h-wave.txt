@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160298262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "224757",
+    "boundingbox": [
+      "50.6827188",
+      "50.7637583",
+      "4.5297035",
+      "4.6467709"
+    ],
+    "lat": "50.7164189",
+    "lon": "4.607744",
+    "display_name": "Wavre, Nivelles, Brabant wallon, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46488211292526,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "359163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151407899",
+    "boundingbox": [
+      "34.0075999",
+      "34.0475999",
+      "-92.7084949",
+      "-92.6684949"
+    ],
+    "lat": "34.0275999",
+    "lon": "-92.6884949",
+    "display_name": "Wave, Dallas County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47178480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3399412636",
+    "boundingbox": [
+      "18.5537748",
+      "18.5937748",
+      "73.2266271",
+      "73.2666271"
+    ],
+    "lat": "18.5737748",
+    "lon": "73.2466271",
+    "display_name": "Wave, Kul\u0101ba, Maharashtra, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7671401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "821389089",
+    "boundingbox": [
+      "36.9959111",
+      "36.9960111",
+      "-112.0063817",
+      "-112.0062817"
+    ],
+    "lat": "36.9959611",
+    "lon": "-112.0063317",
+    "display_name": "The Wave, Sand Cove, Coconino County, Arizona, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.30108919297929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "2650167281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "327162816",
+    "boundingbox": [
+      "23.6182331",
+      "23.6347831",
+      "58.2598366",
+      "58.2815901"
+    ],
+    "lat": "23.62632925",
+    "lon": "58.2680318811674",
+    "display_name": "The Wave, Muscat, Oman, \u0645\u062d\u0627\u0641\u0638\u0629 \u0645\u0633\u0642\u0637, 121, \u0639\u0645\u0627\u0646",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2608881543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4468779604",
+    "boundingbox": [
+      "45.4331455",
+      "45.4332455",
+      "-75.6748739",
+      "-75.6747739"
+    ],
+    "lat": "45.4331955",
+    "lon": "-75.6748239",
+    "display_name": "Wave, Rideau Street, Byward Market, Sandy Hill, Rideau-Vanier, Ottawa, Ontario, K1N 6A3, Canada",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "11432336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1106955936",
+    "boundingbox": [
+      "51.4620912",
+      "51.4621912",
+      "-2.59104",
+      "-2.59094"
+    ],
+    "lat": "51.4621412",
+    "lon": "-2.59099",
+    "display_name": "Wave, Hillgrove Street, Kingsdown, Broadmead, Bristol, City of Bristol, South West England, England, BS2, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "28456093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2666344217",
+    "boundingbox": [
+      "34.706889",
+      "34.706989",
+      "135.562433",
+      "135.562533"
+    ],
+    "lat": "34.706939",
+    "lon": "135.562483",
+    "display_name": "WAVE, \u5e73\u91ce\u5b88\u53e3\u7dda, \u9db4\u898b\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 5340024, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "126936082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "267078747",
+    "boundingbox": [
+      "53.8359855",
+      "53.8363445",
+      "-1.7736748",
+      "-1.7731725"
+    ],
+    "lat": "53.83611025",
+    "lon": "-1.77348663808603",
+    "display_name": "The Wave, View Croft Road, Temple Rhydding, Bradford, Yorkshire and the Humber, England, BD17 7EP, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "31837737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2760039204",
+    "boundingbox": [
+      "41.3075464",
+      "41.3076464",
+      "-72.9298601",
+      "-72.9297601"
+    ],
+    "lat": "41.3075964",
+    "lon": "-72.9298101",
+    "display_name": "Wave, Sherman's Alley, Downtown, New Haven, New Haven County, Connecticut, 06511-6610, United States of America",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "55510388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4321974404",
+    "boundingbox": [
+      "40.7759761",
+      "40.7760761",
+      "-73.9759508",
+      "-73.9758508"
+    ],
+    "lat": "40.7760261",
+    "lon": "-73.9759008",
+    "display_name": "CitiBike, Central Park West 72nd Approach, Central Park, Manhattan, New York County, NYC, New York, 10023, United States of America",
+    "class": "amenity",
+    "type": "bicycle_rental",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3909607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "419360759",
+    "boundingbox": [
+      "40.757949",
+      "40.758049",
+      "-73.9660836",
+      "-73.9659836"
+    ],
+    "lat": "40.757999",
+    "lon": "-73.9660336",
+    "display_name": "Citibike, East 55th Street, Tudor City, Manhattan, New York County, NYC, New York, 10022, United States of America",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52715973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4014640859",
+    "boundingbox": [
+      "48.0031684",
+      "48.0032684",
+      "0.1957474",
+      "0.1958474"
+    ],
+    "lat": "48.0032184",
+    "lon": "0.1957974",
+    "display_name": "Citibike, 4, Rue du Docteur Leroy, Cit\u00e9 Plantagen\u00eat, Le Grand Pr\u00e9 Fortier, Le Mans, Sarthe, Pays de la Loire, 72000, France",
+    "class": "shop",
+    "type": "bicycle",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bicycle.p.20.png"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "125387115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "259491793",
+    "boundingbox": [
+      "45.794772",
+      "45.809639",
+      "-123.3700677",
+      "-123.3650975"
+    ],
+    "lat": "45.8020889",
+    "lon": "-123.3679648",
+    "display_name": "Nofo Road, Clatsop County, Oregon, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "15136801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1354120898",
+    "boundingbox": [
+      "59.3155351",
+      "59.3156351",
+      "18.078919",
+      "18.079019"
+    ],
+    "lat": "59.3155851",
+    "lon": "18.078969",
+    "display_name": "Nofo Hotel, Tj\u00e4rhovsgatan, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 11622, Sverige",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "150283214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391476670",
+    "boundingbox": [
+      "45.7678652",
+      "45.7717272",
+      "9.1613421",
+      "9.1640617"
+    ],
+    "lat": "45.7697884",
+    "lon": "9.16268777113043",
+    "display_name": "runway, Alzate Brianza, CO, LOM, 22032, Italia",
+    "class": "landuse",
+    "type": "meadow",
+    "importance": 0.31
+  },
+  {
+    "place_id": "121646129",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243729471",
+    "boundingbox": [
+      "-43.5505712",
+      "-43.5485331",
+      "172.5604186",
+      "172.5641788"
+    ],
+    "lat": "-43.5495166",
+    "lon": "172.5624169",
+    "display_name": "The Runway, Wigram, Christchurch, Christchurch City, Canterbury, 8443, New Zealand/Aotearoa",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129968056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286180052",
+    "boundingbox": [
+      "-43.5528811",
+      "-43.5521655",
+      "172.5559659",
+      "172.5574419"
+    ],
+    "lat": "-43.5525089",
+    "lon": "172.5567177",
+    "display_name": "The Runway, Wigram, Christchurch, Christchurch City, Canterbury, 8004, New Zealand/Aotearoa",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57299711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4515227",
+    "boundingbox": [
+      "51.7662812",
+      "51.7680931",
+      "-0.2515645",
+      "-0.2469025"
+    ],
+    "lat": "51.7677968",
+    "lon": "-0.2490818",
+    "display_name": "The Runway, Hatfield Business Park, Welwyn Hatfield, Hertfordshire, East of England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101074691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160218800",
+    "boundingbox": [
+      "50.7358183",
+      "50.7363466",
+      "-1.7345274",
+      "-1.7342336"
+    ],
+    "lat": "50.7360025",
+    "lon": "-1.7343408",
+    "display_name": "The Runway, Mudeford, Christchurch, Dorset, South West England, England, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "135744998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313436757",
+    "boundingbox": [
+      "51.3368296",
+      "51.3413801",
+      "-2.9451081",
+      "-2.9325787"
+    ],
+    "lat": "51.3377759",
+    "lon": "-2.9424947",
+    "display_name": "The Runway, Weston-Super-Mare CP, Hutton, North Somerset, South West England, England, BS22, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146010213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370196322",
+    "boundingbox": [
+      "51.332802",
+      "51.3331622",
+      "-2.9445018",
+      "-2.9439231"
+    ],
+    "lat": "51.3329933",
+    "lon": "-2.94421143566351",
+    "display_name": "The Runway, Weston-Super-Mare CP, Hutton, North Somerset, South West England, England, BS22, UK",
+    "class": "highway",
+    "type": "construction",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63384741",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14527703",
+    "boundingbox": [
+      "32.188944",
+      "32.188969",
+      "-107.8196639",
+      "-107.8155569"
+    ],
+    "lat": "32.188944",
+    "lon": "-107.8196639",
+    "display_name": "Runway, Luna County, New Mexico, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63606060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14645980",
+    "boundingbox": [
+      "34.763375",
+      "34.7637764",
+      "-106.7440576",
+      "-106.7407709"
+    ],
+    "lat": "34.763555",
+    "lon": "-106.7423179",
+    "display_name": "Runway, Los Chaves, Valencia County, New Mexico, 87060, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62353755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12548985",
+    "boundingbox": [
+      "33.729583",
+      "33.73042",
+      "-79.5174429",
+      "-79.5172449"
+    ],
+    "lat": "33.729976",
+    "lon": "-79.5173329",
+    "display_name": "Runway, Stuckey, Williamsburg County, South Carolina, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,169 @@
+[
+  {
+    "place_id": "1490348",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "330192080",
+    "boundingbox": [
+      "62.5386867",
+      "62.5786867",
+      "17.6430578",
+      "17.6830578"
+    ],
+    "lat": "62.5586867",
+    "lon": "17.6630578",
+    "display_name": "Bye, Timr\u00e5, Medelpad, V\u00e4sternorrlands l\u00e4n, Norrland, Sverige",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44729168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3160616265",
+    "boundingbox": [
+      "5.4741",
+      "5.5141",
+      "-9.2363799",
+      "-9.1963799"
+    ],
+    "lat": "5.4941",
+    "lon": "-9.2163799",
+    "display_name": "Byeh, Sanquin Dist# 1, Sinoe County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60090506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9367571",
+    "boundingbox": [
+      "51.5181491",
+      "51.5189473",
+      "-0.2521123",
+      "-0.2520236"
+    ],
+    "lat": "51.5186025",
+    "lon": "-0.2520236",
+    "display_name": "The Bye, Acton, London Borough of Ealing, London, Greater London, England, NW10, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71229934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28664397",
+    "boundingbox": [
+      "54.8437585",
+      "54.8447347",
+      "-1.8558657",
+      "-1.8557876"
+    ],
+    "lat": "54.8442583",
+    "lon": "-1.8557876",
+    "display_name": "The Bye, Bridgehill Circular, Rowley, County Durham, North East England, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "27267922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2592646775",
+    "boundingbox": [
+      "43.4609108",
+      "43.4610108",
+      "-3.8085684",
+      "-3.8084684"
+    ],
+    "lat": "43.4609608",
+    "lon": "-3.8085184",
+    "display_name": "Bye, 14, Calle de la Lealtad, Marqu\u00e9s de Valdecilla, Santander, Comarca de Santander, Cantabria, 39002, Espa\u00f1a",
+    "class": "shop",
+    "type": "photo",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52584521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3986833340",
+    "boundingbox": [
+      "-27.357683",
+      "-27.357583",
+      "-55.9075518",
+      "-55.9074518"
+    ],
+    "lat": "-27.357633",
+    "lon": "-55.9075018",
+    "display_name": "ByE, Avenida Comodoro Rivadavia, Chacra 176, Delegacion Municipal Villa Urquiza, Posadas, Municipio de Posadas, Departamento Capital, Mnes., N3300ORR, Argentina",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "8188380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "878673404",
+    "boundingbox": [
+      "37.1821525",
+      "37.1822525",
+      "-116.0462317",
+      "-116.0461317"
+    ],
+    "lat": "37.1822025",
+    "lon": "-116.0461817",
+    "display_name": "Bye, Groom Lake Road, Nye County, Nevada, United States of America",
+    "class": "military",
+    "type": "nuclear_explosion_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14438366",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289231691",
+    "boundingbox": [
+      "59.8540932",
+      "59.8541932",
+      "11.0993018",
+      "11.0994018"
+    ],
+    "lat": "59.8541432",
+    "lon": "11.0993518",
+    "display_name": "Bye, Nedre R\u00e6lingsveg, Tveterhagen, Fiskerbygda, R\u00e6lingen, Akershus, 2009, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "20814898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2078424348",
+    "boundingbox": [
+      "62.5575484",
+      "62.5576484",
+      "17.6613802",
+      "17.6614802"
+    ],
+    "lat": "62.5575984",
+    "lon": "17.6614302",
+    "display_name": "Bye, E 4, H\u00e4ssj\u00f6 distrikt, Timr\u00e5, Medelpad, V\u00e4sternorrlands l\u00e4n, Norrland, Sverige",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

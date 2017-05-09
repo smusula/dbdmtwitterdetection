@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "21504980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2132778295",
+    "boundingbox": [
+      "43.7060027",
+      "43.7061027",
+      "-79.360792",
+      "-79.360692"
+    ],
+    "lat": "43.7060527",
+    "lon": "-79.360742",
+    "display_name": "Cupcakes, 91, Laird Drive, Leaside Business Park, East York, Toronto, Ontario, M4G 3V2, Canada",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "21633383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2128941585",
+    "boundingbox": [
+      "51.3433238",
+      "51.3434238",
+      "12.3730763",
+      "12.3731763"
+    ],
+    "lat": "51.3433738",
+    "lon": "12.3731263",
+    "display_name": "Cupcakes, 1, Br\u00fchl, Zentrum, Mitte, Leipzig, Sachsen, 04109, Deutschland",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26042474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2488959830",
+    "boundingbox": [
+      "49.287634",
+      "49.287734",
+      "-123.1409904",
+      "-123.1408904"
+    ],
+    "lat": "49.287684",
+    "lon": "-123.1409404",
+    "display_name": "Cupcakes, 1152, Denman Street, West End, Vancouver, Greater Vancouver Regional District, British Columbia, V6G, Canada",
+    "class": "craft",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16627655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1543034676",
+    "boundingbox": [
+      "50.5918692",
+      "50.5919692",
+      "-4.8317734",
+      "-4.8316734"
+    ],
+    "lat": "50.5919192",
+    "lon": "-4.8317234",
+    "display_name": "Cupcakes, Dolphin, St. Endellion, Port Isaac, Cornwall, South West England, England, PL29 3SB, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2653734172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4725297593",
+    "boundingbox": [
+      "49.2272454",
+      "49.2273454",
+      "-123.0004021",
+      "-123.0003021"
+    ],
+    "lat": "49.2272954",
+    "lon": "-123.0003521",
+    "display_name": "Cupcakes, Kingsway, Metrotown, Burnaby, Greater Vancouver Regional District, British Columbia, V5H 4L3, Canada",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "49909518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3718895671",
+    "boundingbox": [
+      "51.3470793",
+      "51.3471793",
+      "-2.9784238",
+      "-2.9783238"
+    ],
+    "lat": "51.3471293",
+    "lon": "-2.9783738",
+    "display_name": "Cupcakes, High Street, Weston-Super-Mare CP, Weston, North Somerset, South West England, England, BS23 1JF, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "44494789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149116392",
+    "boundingbox": [
+      "52.722834",
+      "52.722934",
+      "-1.2157623",
+      "-1.2156623"
+    ],
+    "lat": "52.722884",
+    "lon": "-1.2157123",
+    "display_name": "Cupcakes, Maplewell Road, Woodhouse, Charnwood, Leicestershire, East Midlands, England, LE12 8RZ, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "148514994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "382356708",
+    "boundingbox": [
+      "8.9924914",
+      "8.9926039",
+      "-79.5134817",
+      "-79.5132728"
+    ],
+    "lat": "8.99254795",
+    "lon": "-79.5133773899995",
+    "display_name": "Cupcakes, Calle Jose A. Fernandez, OBarrio, Ciudad de Panam\u00e1, Provincia de Panam\u00e1, Panam\u00e1",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "2654654816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4746285042",
+    "boundingbox": [
+      "49.1898431",
+      "49.1899431",
+      "-122.8036968",
+      "-122.8035968"
+    ],
+    "lat": "49.1898931",
+    "lon": "-122.8036468",
+    "display_name": "Cupcakes, 10355, 152 Street, Johnson Heights, Surrey, Greater Vancouver Regional District, British Columbia, V3S 8E7, Canada",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "16892077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1581360692",
+    "boundingbox": [
+      "55.8577026",
+      "55.8578026",
+      "-4.2439668",
+      "-4.2438668"
+    ],
+    "lat": "55.8577526",
+    "lon": "-4.2439168",
+    "display_name": "Cupcakes, 70, Bell Street, Pinkston, Merchant City, Glasgow City, Scotland, G1 1LQ, UK",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  }
+]

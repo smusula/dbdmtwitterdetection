@@ -1,0 +1,95 @@
+[
+  {
+    "place_id": "127055368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "267777839",
+    "boundingbox": [
+      "51.587889",
+      "51.5879804",
+      "4.7753967",
+      "4.7755978"
+    ],
+    "lat": "51.58793745",
+    "lon": "4.77551613198456",
+    "display_name": "Experience, Karrestraat, Breda, Noord-Brabant, Nederland, 4811WT, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "42478555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3079731058",
+    "boundingbox": [
+      "12.59205",
+      "12.59215",
+      "-7.9904799",
+      "-7.9903799"
+    ],
+    "lat": "12.5921",
+    "lon": "-7.9904299",
+    "display_name": "EXPERIENCE, Route de l'A\u00e9roport, Daoudabougou, Bamako, District de Bamako, 00223, Mali",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "138459684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "326764438",
+    "boundingbox": [
+      "51.28126",
+      "51.2814268",
+      "-0.8424165",
+      "-0.8421407"
+    ],
+    "lat": "51.2813444",
+    "lon": "-0.842278979774835",
+    "display_name": "Experience, Fleet Road, Fleet, Hart, Hampshire, South East, England, GU51 3BN, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "110644422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198765556",
+    "boundingbox": [
+      "51.9377598",
+      "51.9378827",
+      "1.2815202",
+      "1.2817187"
+    ],
+    "lat": "51.93782125",
+    "lon": "1.28161943909033",
+    "display_name": "Experience, Station Road, Peninsula, Harwich Civil Parish, Tendring, Essex, East of England, England, CO12 3AL, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120613778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239382257",
+    "boundingbox": [
+      "34.8202949",
+      "34.8205696",
+      "135.7146867",
+      "135.7149297"
+    ],
+    "lat": "34.8203962",
+    "lon": "135.71482241674",
+    "display_name": "Experience, \u679a\u65b9\u9ad8\u69fb\u7dda, \u85e4\u962a\u6771\u753a\u4e09\u4e01\u76ee, \u679a\u65b9\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, \u65e5\u672c",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

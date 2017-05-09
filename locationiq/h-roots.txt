@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "468581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158568148",
+    "boundingbox": [
+      "40.5933992",
+      "40.6333992",
+      "-78.3811262",
+      "-78.3411262"
+    ],
+    "lat": "40.6133992",
+    "lon": "-78.3611262",
+    "display_name": "Roots, Blair County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "395953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153476060",
+    "boundingbox": [
+      "37.9978297",
+      "38.0378297",
+      "-89.9923316",
+      "-89.9523316"
+    ],
+    "lat": "38.0178297",
+    "lon": "-89.9723316",
+    "display_name": "Roots, Randolph County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "422595",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153886568",
+    "boundingbox": [
+      "42.3155914",
+      "42.3555914",
+      "-84.3421819",
+      "-84.3021819"
+    ],
+    "lat": "42.3355914",
+    "lon": "-84.3221819",
+    "display_name": "Roots, Jackson County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149451559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "386380633",
+    "boundingbox": [
+      "51.0652272",
+      "51.0653875",
+      "3.1025169",
+      "3.1026591"
+    ],
+    "lat": "51.0653025",
+    "lon": "3.1025923",
+    "display_name": "The Roots, Torhout, Brugge, West-Vlaanderen, Vlaanderen, 8820, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "133339968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "302620654",
+    "boundingbox": [
+      "50.571784",
+      "50.5751796",
+      "-105.4033055",
+      "-105.3971205"
+    ],
+    "lat": "50.572897",
+    "lon": "-105.4005979",
+    "display_name": "Roots, Moose Jaw, Census Division No. 7, Saskatchewan, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "111504312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "202607607",
+    "boundingbox": [
+      "37.2836271",
+      "37.2841791",
+      "-107.892225",
+      "-107.8917089"
+    ],
+    "lat": "37.2838464",
+    "lon": "-107.8919779",
+    "display_name": "Roots, Durango, La Plata County, Colorado, 81302, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "99132608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "152286178",
+    "boundingbox": [
+      "41.7517122",
+      "41.7551917",
+      "-71.1904425",
+      "-71.1882672"
+    ],
+    "lat": "41.7534331",
+    "lon": "-71.1892462",
+    "display_name": "Roots, Swansea, Bristol County, Massachusetts, 02777, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2609322829",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "450848439",
+    "boundingbox": [
+      "49.476753",
+      "49.4805264",
+      "-115.0585419",
+      "-115.0462581"
+    ],
+    "lat": "49.478827",
+    "lon": "-115.0529279",
+    "display_name": "Roots, Regional District of East Kootenay, British Columbia, V0B1M7, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "33933362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2799744127",
+    "boundingbox": [
+      "45.3574391",
+      "45.3575391",
+      "-75.6550419",
+      "-75.6549419"
+    ],
+    "lat": "45.3574891",
+    "lon": "-75.6549919",
+    "display_name": "Roots, Bank Street, South Keys, Gloucester-Southgate, Ottawa, Ontario, K1V 8A8, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "158509863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437094872",
+    "boundingbox": [
+      "45.3471141",
+      "45.3473735",
+      "-75.806187",
+      "-75.8058531"
+    ],
+    "lat": "45.34722825",
+    "lon": "-75.8059866096496",
+    "display_name": "Roots, Richmond Road, Britannia Bay, Bay, Ottawa, Ontario, K2B 8C1, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

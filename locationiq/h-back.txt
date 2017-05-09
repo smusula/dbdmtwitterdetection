@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "487343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158857828",
+    "boundingbox": [
+      "40.6301038",
+      "40.6701038",
+      "-73.9695822",
+      "-73.9295822"
+    ],
+    "lat": "40.6501038",
+    "lon": "-73.9495822",
+    "display_name": "BK, Kings County, NYC, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.68454442710904,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160544551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2634533",
+    "boundingbox": [
+      "4.2262685",
+      "5.68825",
+      "20.4648773",
+      "22.150625"
+    ],
+    "lat": "5.1283201",
+    "lon": "21.3883825",
+    "display_name": "Basse-Kotto, K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka - R\u00e9publique Centrafricaine",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160459102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1903471",
+    "boundingbox": [
+      "21.804335",
+      "22.7396014",
+      "105.4311192",
+      "106.2469976"
+    ],
+    "lat": "22.2504445",
+    "lon": "105.70529",
+    "display_name": "T\u1ec9nh B\u1eafc K\u1ea1n, Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43670219728837,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160439308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1720052",
+    "boundingbox": [
+      "3.25",
+      "4.9504394",
+      "42.8841549",
+      "44.7999992"
+    ],
+    "lat": "4.000003",
+    "lon": "43.999993",
+    "display_name": "Bakool, Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40184191797745,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "372413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151529331",
+    "boundingbox": [
+      "35.3447702",
+      "35.3847702",
+      "-100.6298566",
+      "-100.5898566"
+    ],
+    "lat": "35.3647702",
+    "lon": "-100.6098566",
+    "display_name": "Back, Gray County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15076205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1356998868",
+    "boundingbox": [
+      "63.3563345",
+      "63.3963345",
+      "22.6511467",
+      "22.6911467"
+    ],
+    "lat": "63.3763345",
+    "lon": "22.6711467",
+    "display_name": "Jeppo, Back, Pietarsaaren seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, 66850, Suomi",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4574050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "497143416",
+    "boundingbox": [
+      "58.2592694",
+      "58.2992694",
+      "-6.3178994",
+      "-6.2778994"
+    ],
+    "lat": "58.2792694",
+    "lon": "-6.2978994",
+    "display_name": "Bac, Na h-Eileanan Siar, Scotland, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.32621598500338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "82887103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "85512383",
+    "boundingbox": [
+      "53.5902063",
+      "53.6062772",
+      "12.7458734",
+      "12.7544406"
+    ],
+    "lat": "53.5986016",
+    "lon": "12.749324",
+    "display_name": "B\u00e4ck, Peenehagen, Seenlandschaft Waren, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "11337080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1101490980",
+    "boundingbox": [
+      "47.8153986",
+      "47.8553986",
+      "11.8481206",
+      "11.8881206"
+    ],
+    "lat": "47.8353986",
+    "lon": "11.8681206",
+    "display_name": "B\u00e4ck, Landkreis Miesbach, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52060844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3913512206",
+    "boundingbox": [
+      "58.282381",
+      "58.322381",
+      "15.5725632",
+      "15.6125632"
+    ],
+    "lat": "58.302381",
+    "lon": "15.5925632",
+    "display_name": "B\u00e4ck, Link\u00f6ping, Landskapet \u00d6sterg\u00f6tland, \u00d6sterg\u00f6tlands l\u00e4n, G\u00f6taland, Sverige",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

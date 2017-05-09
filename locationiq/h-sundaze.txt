@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "158805659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438907205",
+    "boundingbox": [
+      "-38.0831782",
+      "-38.0811339",
+      "145.346697",
+      "145.3470638"
+    ],
+    "lat": "-38.0811339",
+    "lon": "145.3470638",
+    "display_name": "Sundaze Street, Clyde North, City of Casey, Greater Melbourne, Victoria, 3806, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146302620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371391276",
+    "boundingbox": [
+      "18.4809203",
+      "18.4810424",
+      "-77.9293248",
+      "-77.9289278"
+    ],
+    "lat": "18.4809801",
+    "lon": "-77.9291970613022",
+    "display_name": "Sundaze Bar & Grill, Gloucester Ave, Sam Sharpe Square, Saint James, Cornwall County, Jamaica",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

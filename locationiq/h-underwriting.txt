@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "20107482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2007139804",
+    "boundingbox": [
+      "51.9243905",
+      "51.9244905",
+      "1.1265369",
+      "1.1266369"
+    ],
+    "lat": "51.9244405",
+    "lon": "1.1265869",
+    "display_name": "Iprism Underwriting Agency, Bradfield Road, Wix Civil Parish, Tendring, Essex, East of England, England, CO11 2SP, UK",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.101
+  },
+  {
+    "place_id": "99881464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "155430505",
+    "boundingbox": [
+      "51.5134974",
+      "51.5138328",
+      "-0.0837115",
+      "-0.0833798"
+    ],
+    "lat": "51.5136631",
+    "lon": "-0.0835560735957393",
+    "display_name": "Nexus Underwriting, 150, Leadenhall Street, City of London, Greater London, England, EC3, UK",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "139513559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "332027309",
+    "boundingbox": [
+      "55.0211889",
+      "55.0222689",
+      "-1.5818688",
+      "-1.5805518"
+    ],
+    "lat": "55.0217852",
+    "lon": "-1.58100076540301",
+    "display_name": "Tesco Underwriting, Balliol Business Park East, Benton, North Tyneside, Tyne and Wear, North East England, England, NE12 8EW, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

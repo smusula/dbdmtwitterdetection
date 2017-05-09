@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "53327778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4052261493",
+    "boundingbox": [
+      "31.8666238",
+      "31.8667238",
+      "-102.3266773",
+      "-102.3265773"
+    ],
+    "lat": "31.8666738",
+    "lon": "-102.3266273",
+    "display_name": "Performance, Odessa, Ector County, Texas, 79761, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "31658973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2756763457",
+    "boundingbox": [
+      "52.5641031",
+      "52.5642031",
+      "13.3931311",
+      "13.3932311"
+    ],
+    "lat": "52.5641531",
+    "lon": "13.3931811",
+    "display_name": "Performance, 99, Wollankstra\u00dfe, Gesundbrunnen, Mitte, Berlin, 13359, Deutschland",
+    "class": "amenity",
+    "type": "driving_school",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53693094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4090055853",
+    "boundingbox": [
+      "45.7299055",
+      "45.7300055",
+      "3.0999332",
+      "3.1000332"
+    ],
+    "lat": "45.7299555",
+    "lon": "3.0999832",
+    "display_name": "Performance, Avenue Gergovia, Romagnat, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 63540, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "27247653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2586640540",
+    "boundingbox": [
+      "46.8139379",
+      "46.8140379",
+      "0.5474414",
+      "0.5475414"
+    ],
+    "lat": "46.8139879",
+    "lon": "0.5474914",
+    "display_name": "Performance, Rue Hilaire Gilbert, La Renaitrie, Ch\u00e2tellerault, Vienne, Nouvelle-Aquitaine, 86100, France",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "55686572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4339053536",
+    "boundingbox": [
+      "52.5650165",
+      "52.5651165",
+      "13.3632539",
+      "13.3633539"
+    ],
+    "lat": "52.5650665",
+    "lon": "13.3633039",
+    "display_name": "Performance, 44, Residenzstra\u00dfe, Reinickendorf, Berlin, 13409, Deutschland",
+    "class": "amenity",
+    "type": "driving_school",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20344559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2035069721",
+    "boundingbox": [
+      "-12.6723718",
+      "-12.6722718",
+      "-39.1006504",
+      "-39.1005504"
+    ],
+    "lat": "-12.6723218",
+    "lon": "-39.1006004",
+    "display_name": "Performance, Avenida Rio Branco, Centro, Cruz das Almas, Microrregi\u00e3o de Santo Ant\u00f4nio de Jesus, Mesorregi\u00e3o do Rec\u00f4ncavo baiano, BA, Regi\u00e3o Nordeste, 44380-000, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "22438981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2215372714",
+    "boundingbox": [
+      "-27.4600223",
+      "-27.4599223",
+      "-58.9772017",
+      "-58.9771017"
+    ],
+    "lat": "-27.4599723",
+    "lon": "-58.9771517",
+    "display_name": "Performance, Lisandro de la Torre, Central Norte, Resistencia, Departamento San Fernando, CCO, H3500, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "104240337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171829897",
+    "boundingbox": [
+      "49.6113104",
+      "49.611445",
+      "6.1329487",
+      "6.1330017"
+    ],
+    "lat": "49.6113771",
+    "lon": "6.13297519028799",
+    "display_name": "Performance, 14, Rue de la Boucherie, Ville Haute, Ville-Haute, Luxembourg, Canton Luxembourg, 1247, L\u00ebtzebuerg",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "20102273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2006210514",
+    "boundingbox": [
+      "40.8389775",
+      "40.8390775",
+      "-8.4793229",
+      "-8.4792229"
+    ],
+    "lat": "40.8390275",
+    "lon": "-8.4792729",
+    "display_name": "Performance, Avenida Ernesto Pinto Basto, Oliveira de Azem\u00e9is, Oliveira de Azem\u00e9is, Santiago de Riba-Ul, Ul, Macinhata da Seixa e Madail, Oliveira de Azem\u00e9is, Aveiro, \u00c1rea Metropolitana do Porto, Norte, 3720-218, Portugal",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17393489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1672077576",
+    "boundingbox": [
+      "18.8041636",
+      "18.8042636",
+      "-72.511506",
+      "-72.511406"
+    ],
+    "lat": "18.8042136",
+    "lon": "-72.511456",
+    "display_name": "Performance, Boca Boule, 1re Boucassin, Commune Arcahaie, Arrondissement de l\u2019Arcahaie, D\u00e9partement de l'Ouest, Ayiti",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.101
+  }
+]

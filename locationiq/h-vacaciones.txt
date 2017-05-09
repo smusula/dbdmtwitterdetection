@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "28625171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2663023166",
+    "boundingbox": [
+      "40.425205",
+      "40.425305",
+      "-3.7035915",
+      "-3.7034915"
+    ],
+    "lat": "40.425255",
+    "lon": "-3.7035415",
+    "display_name": "Vacaciones, 15, Calle del Esp\u00edritu Santo, Barrio Universidad, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28004, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "6223412",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "639637275",
+    "boundingbox": [
+      "49.8702176",
+      "49.8703176",
+      "8.6506023",
+      "8.6507023"
+    ],
+    "lat": "49.8702676",
+    "lon": "8.6506523",
+    "display_name": "Vacaciones, 23, Elisabethenstra\u00dfe, Darmstadt-Mitte, Darmstadt, Regierungsbezirk Darmstadt, Hessen, 64283, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "55263756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4268844591",
+    "boundingbox": [
+      "-0.2041717",
+      "-0.2040717",
+      "-78.49515",
+      "-78.49505"
+    ],
+    "lat": "-0.2041217",
+    "lon": "-78.4951",
+    "display_name": "Vacaciones, Avenida Amazonas, Mariscal Sucre, Quito, Pichincha, 170526, Ecuador",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

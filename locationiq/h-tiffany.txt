@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "384855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153345142",
+    "boundingbox": [
+      "42.5625138",
+      "42.6025138",
+      "-88.9470528",
+      "-88.9070528"
+    ],
+    "lat": "42.5825138",
+    "lon": "-88.9270528",
+    "display_name": "Tiffany, Town of Turtle, Rock County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37810883699101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "455904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157570838",
+    "boundingbox": [
+      "41.8170214",
+      "41.8570214",
+      "-75.8407471",
+      "-75.8007471"
+    ],
+    "lat": "41.8370214",
+    "lon": "-75.8207471",
+    "display_name": "Tiffany, Susquehanna County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "374640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151588815",
+    "boundingbox": [
+      "37.0127823",
+      "37.0527823",
+      "-107.558108",
+      "-107.518108"
+    ],
+    "lat": "37.0327823",
+    "lon": "-107.538108",
+    "display_name": "Tiffany, La Plata County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "361251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151685646",
+    "boundingbox": [
+      "33.7031218",
+      "33.7431218",
+      "-106.9633623",
+      "-106.9233623"
+    ],
+    "lat": "33.7231218",
+    "lon": "-106.9433623",
+    "display_name": "Tiffany, Socorro County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "146061238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370378435",
+    "boundingbox": [
+      "45.5146635",
+      "45.514866",
+      "-122.6867161",
+      "-122.6862851"
+    ],
+    "lat": "45.51476475",
+    "lon": "-122.6865006",
+    "display_name": "Tiffany, University District, Portland, Multnomah County, Oregon, 97205, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "93125238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126140848",
+    "boundingbox": [
+      "53.5520672",
+      "53.5524705",
+      "-113.5230079",
+      "-113.5222603"
+    ],
+    "lat": "53.55226885",
+    "lon": "-113.5226341",
+    "display_name": "The Tiffany, Old Strathcona, Edmonton, Alberta, T5H3J7, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "149608048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "387209033",
+    "boundingbox": [
+      "32.5629914",
+      "32.5710486",
+      "-83.7097823",
+      "-83.6969844"
+    ],
+    "lat": "32.56502965",
+    "lon": "-83.7048569983517",
+    "display_name": "The Tiffany, Warner Robins, Houston County, Georgia, 31099, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "71092397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28993502",
+    "boundingbox": [
+      "14.5354396",
+      "14.5377926",
+      "121.0606521",
+      "121.0622365"
+    ],
+    "lat": "14.5366239",
+    "lon": "121.0615",
+    "display_name": "Tiffany, Rizal, Makati, District II, Makati, Metro Manila, 1208, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "123765744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "252441766",
+    "boundingbox": [
+      "32.6615089",
+      "32.6620748",
+      "-96.5454706",
+      "-96.544767"
+    ],
+    "lat": "32.6615654",
+    "lon": "-96.5454004",
+    "display_name": "Tiffany, Seagoville, Dallas County, Texas, 75159, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65274766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17859835",
+    "boundingbox": [
+      "41.8798663",
+      "41.8799016",
+      "-84.0280196",
+      "-84.025449"
+    ],
+    "lat": "41.8798864",
+    "lon": "-84.0263631",
+    "display_name": "Tiffany, Madison Center, Lenawee County, Michigan, 49221, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

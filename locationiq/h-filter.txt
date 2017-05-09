@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "50791399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3797567364",
+    "boundingbox": [
+      "38.9325409",
+      "38.9326409",
+      "-76.9948882",
+      "-76.9947882"
+    ],
+    "lat": "38.9325909",
+    "lon": "-76.9948382",
+    "display_name": "Filter, 620, Michigan Avenue Northeast, University Heights, Washington, District of Columbia, 20018, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "53459260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4075555789",
+    "boundingbox": [
+      "38.9010946",
+      "38.9011946",
+      "-77.0443075",
+      "-77.0442075"
+    ],
+    "lat": "38.9011446",
+    "lon": "-77.0442575",
+    "display_name": "Filter, I Street Northwest, Golden Triangle, Dupont Circle, Washington, District of Columbia, 20006, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2651978736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "991529358",
+    "boundingbox": [
+      "51.7180556",
+      "51.7181556",
+      "8.7494494",
+      "8.7495494"
+    ],
+    "lat": "51.7181056",
+    "lon": "8.7494994",
+    "display_name": "Filter, 22, Marienstra\u00dfe, Paderborn, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33098, Deutschland",
+    "class": "shop",
+    "type": "vacant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55260961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4284129059",
+    "boundingbox": [
+      "5.8333396",
+      "5.8334396",
+      "9.5784401",
+      "9.5785401"
+    ],
+    "lat": "5.8333896",
+    "lon": "9.5784901",
+    "display_name": "Filter, Tafu-Amebisu, Bakumba, Manyu, SW, Cameroun",
+    "class": "man_made",
+    "type": "reservoir_covered",
+    "importance": 0.101
+  }
+]

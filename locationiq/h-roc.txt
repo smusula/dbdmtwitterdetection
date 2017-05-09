@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160272637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "123255",
+    "boundingbox": [
+      "44.8517878",
+      "44.8783879",
+      "1.4091445",
+      "1.4643231"
+    ],
+    "lat": "44.8668362",
+    "lon": "1.4379514",
+    "display_name": "Le Roc, Gourdon, Lot, Occitanie, 46200, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49603191779386,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "149949581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388684371",
+    "boundingbox": [
+      "45.5729399",
+      "45.5795517",
+      "0.3142634",
+      "0.3422617"
+    ],
+    "lat": "45.5737888",
+    "lon": "0.3272576",
+    "display_name": "Le Roc, Sers, Angoul\u00eame, Charente, Nouvelle-Aquitaine, 16410, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "116823887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224437301",
+    "boundingbox": [
+      "43.1010534",
+      "43.1308266",
+      "-77.6932622",
+      "-77.6497729"
+    ],
+    "lat": "43.1162444",
+    "lon": "-77.6725491158735",
+    "display_name": "Greater Rochester International Airport, Weidner Road, Genesee Junction, Chili Town, Monroe County, New York, 14624, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.42410162999415,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "4299644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "455880645",
+    "boundingbox": [
+      "45.3747963",
+      "45.4147963",
+      "14.0240448",
+      "14.0640448"
+    ],
+    "lat": "45.3947963",
+    "lon": "14.0440448",
+    "display_name": "Ro\u010d, Grad Buzet, Istarska \u017eupanija, Hrvatska",
+    "class": "place",
+    "type": "village",
+    "importance": 0.41185115349309,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42975306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3110173312",
+    "boundingbox": [
+      "46.1293294",
+      "46.1693294",
+      "2.8728122",
+      "2.9128122"
+    ],
+    "lat": "46.1493294",
+    "lon": "2.8928122",
+    "display_name": "Le Roc, Riom, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17301159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1651561304",
+    "boundingbox": [
+      "44.9217786",
+      "44.9617786",
+      "0.5108643",
+      "0.5508643"
+    ],
+    "lat": "44.9417786",
+    "lon": "0.5308643",
+    "display_name": "Le Roc, Bergerac, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15811789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1430880798",
+    "boundingbox": [
+      "44.830807",
+      "44.870807",
+      "1.1343716",
+      "1.1743716"
+    ],
+    "lat": "44.850807",
+    "lon": "1.1543716",
+    "display_name": "Le Roc, Sarlat-la-Can\u00e9da, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652200862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4688678583",
+    "boundingbox": [
+      "48.1412078",
+      "48.1812078",
+      "-2.8698816",
+      "-2.8298816"
+    ],
+    "lat": "48.1612078",
+    "lon": "-2.8498816",
+    "display_name": "Le Roc, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15452748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1407617442",
+    "boundingbox": [
+      "44.5515119",
+      "44.5915119",
+      "2.0242579",
+      "2.0642579"
+    ],
+    "lat": "44.5715119",
+    "lon": "2.0442579",
+    "display_name": "Le Roc, Villefranche-de-Rouergue, Aveyron, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15002614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1344531270",
+    "boundingbox": [
+      "48.8079552",
+      "48.8479552",
+      "-0.036348",
+      "0.003652"
+    ],
+    "lat": "48.8279552",
+    "lon": "-0.016348",
+    "display_name": "Roc, Argentan, Orne, Normandie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

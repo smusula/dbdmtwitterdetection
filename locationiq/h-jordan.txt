@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "160291166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "184818",
+    "boundingbox": [
+      "29.183401",
+      "33.3751558",
+      "34.8844372",
+      "39.3012981"
+    ],
+    "lat": "31.1667049",
+    "lon": "36.941628",
+    "display_name": "\u0627\u0644\u0623\u0631\u062f\u0646",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72238320005962,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2644782451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2246907",
+    "boundingbox": [
+      "31.7597753",
+      "33.1864496",
+      "35.5189087",
+      "35.6309601"
+    ],
+    "lat": "32.3482888",
+    "lon": "35.5595898",
+    "display_name": "Jordan, Irbid, \u0627\u0644\u0623\u0631\u062f\u0646",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.63547682182618
+  },
+  {
+    "place_id": "160672819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3512050",
+    "boundingbox": [
+      "10.5378127",
+      "10.6910595",
+      "122.4078085",
+      "122.6356296"
+    ],
+    "lat": "10.6115886",
+    "lon": "122.535946336233",
+    "display_name": "Jordan, Guimaras, Western Visayas, Philippines",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "146620270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372724201",
+    "boundingbox": [
+      "52.4510698",
+      "52.4567188",
+      "-0.860594",
+      "-0.8369678"
+    ],
+    "lat": "52.4515406",
+    "lon": "-0.8468383",
+    "display_name": "Jordan, Kettering, Northamptonshire, East Midlands, England, UK",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "119276320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "233307417",
+    "boundingbox": [
+      "51.159608",
+      "51.1596639",
+      "12.5546625",
+      "12.555331"
+    ],
+    "lat": "51.1596639",
+    "lon": "12.555331",
+    "display_name": "Jordan, Kitzscher, Landkreis Leipzig, Sachsen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "114950659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "216950473",
+    "boundingbox": [
+      "51.0837686",
+      "51.0886312",
+      "10.8825778",
+      "10.9009749"
+    ],
+    "lat": "51.0868521",
+    "lon": "10.8917642",
+    "display_name": "Jordan, Gebesee, Gera-Aue, Landkreis S\u00f6mmerda, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "150538515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "393053952",
+    "boundingbox": [
+      "51.0591477",
+      "51.0592545",
+      "10.8467451",
+      "10.846796"
+    ],
+    "lat": "51.0591477",
+    "lon": "10.846796",
+    "display_name": "Jordan, Gro\u00dffahner, Fahner H\u00f6he, Landkreis Gotha, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "154390055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "415871692",
+    "boundingbox": [
+      "51.0798917",
+      "51.0814099",
+      "10.8647517",
+      "10.8722753"
+    ],
+    "lat": "51.0803753",
+    "lon": "10.86815",
+    "display_name": "Jordan, Dachwig, Fahner H\u00f6he, Landkreis Gotha, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "82205912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80859950",
+    "boundingbox": [
+      "51.1593886",
+      "51.1665982",
+      "12.555331",
+      "12.5934236"
+    ],
+    "lat": "51.1607035",
+    "lon": "12.5740176",
+    "display_name": "Jordan, Bad Lausick, Landkreis Leipzig, Sachsen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "134317206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "307010747",
+    "boundingbox": [
+      "49.7893201",
+      "49.7901361",
+      "21.6542877",
+      "21.6549114"
+    ],
+    "lat": "49.7897918",
+    "lon": "21.6546631",
+    "display_name": "Jordan, Przyb\u00f3wka, gmina Wojasz\u00f3wka, powiat kro\u015bnie\u0144ski, podkarpackie, Polska",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  }
+]

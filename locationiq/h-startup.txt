@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "160299132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "237254",
+    "boundingbox": [
+      "47.851403",
+      "47.881498",
+      "-121.7980769",
+      "-121.6954219"
+    ],
+    "lat": "47.8671924",
+    "lon": "-121.7444587",
+    "display_name": "Startup, Snohomish County, Washington, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "343146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150963028",
+    "boundingbox": [
+      "40.6685582",
+      "40.6885582",
+      "-111.8760458",
+      "-111.8560458"
+    ],
+    "lat": "40.6785582",
+    "lon": "-111.8660458",
+    "display_name": "Startup, Millcreek, Salt Lake County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "120526828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239128285",
+    "boundingbox": [
+      "55.1010151",
+      "55.102521",
+      "-1.7391682",
+      "-1.7332542"
+    ],
+    "lat": "55.1018187",
+    "lon": "-1.73621963804249",
+    "display_name": "Startup, Twizell, Northumberland, North East England, England, UK",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "82947113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "84507303",
+    "boundingbox": [
+      "50.8158899",
+      "50.8164147",
+      "12.9249915",
+      "12.9261594"
+    ],
+    "lat": "50.8160677",
+    "lon": "12.9260096802931",
+    "display_name": "StartUp - Technopark Chemnitz, 1, Technologie-Campus, Smart System Campus, Bernsdorf, Chemnitz, Sachsen, 09126, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23351375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2308524290",
+    "boundingbox": [
+      "52.5477059",
+      "52.5478059",
+      "13.3571676",
+      "13.3572676"
+    ],
+    "lat": "52.5477559",
+    "lon": "13.3572176",
+    "display_name": "Startup, 31, M\u00fcllerstra\u00dfe, Br\u00fcsseler Kiez, Wedding, Mitte, Berlin, 13353, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "113553297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210177534",
+    "boundingbox": [
+      "48.0635193",
+      "48.0649524",
+      "15.1368365",
+      "15.1381842"
+    ],
+    "lat": "48.06452535",
+    "lon": "15.1376305048026",
+    "display_name": "Startup, 1, Im Gewerbepark, Gro\u00dfsteinfeld, Purgstall an der Erlauf, Bezirk Scheibbs, Nieder\u00f6sterreich, 3251, \u00d6sterreich",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

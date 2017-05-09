@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "48788666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3623047837",
+    "boundingbox": [
+      "46.7670675",
+      "46.7671675",
+      "23.5464171",
+      "23.5465171"
+    ],
+    "lat": "46.7671175",
+    "lon": "23.5464671",
+    "display_name": "Motivation, 180, Strada Donath, Grigorescu, Cluj-Napoca, Cluj, 400321, Rom\u00e2nia",
+    "class": "shop",
+    "type": "medical_supply",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52271309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3948488249",
+    "boundingbox": [
+      "-17.7968641",
+      "-17.7967641",
+      "25.1536806",
+      "25.1537806"
+    ],
+    "lat": "-17.7968141",
+    "lon": "25.1537306",
+    "display_name": "Motivation, Presiden Ave, Kasane, North-West District, Botswana",
+    "class": "shop",
+    "type": "car_parts",
+    "importance": 0.101
+  }
+]

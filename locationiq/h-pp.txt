@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "122773039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248541657",
+    "boundingbox": [
+      "11.2454812",
+      "11.2463414",
+      "-74.188168",
+      "-74.1880963"
+    ],
+    "lat": "11.2454812",
+    "lon": "-74.188168",
+    "display_name": "pp, Portal Universitario, Comuna 4, Santa Marta, Magdalena, 470004, Colombia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "73268253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34912355",
+    "boundingbox": [
+      "-6.1526831",
+      "-6.1526512",
+      "106.7230582",
+      "106.7245154"
+    ],
+    "lat": "-6.1526512",
+    "lon": "106.7230582",
+    "display_name": "PP, RT 08, RW 04, Cengkareng Barat, Cengkareng, Jakarta Barat, Daerah Khusus Ibukota Jakarta, 11840, Indonesia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92349867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123537237",
+    "boundingbox": [
+      "43.6737015",
+      "43.6739258",
+      "105.5377582",
+      "105.539091"
+    ],
+    "lat": "43.6737739",
+    "lon": "105.5382863",
+    "display_name": "PP, \u04e8\u043c\u043d\u04e9\u0433\u043e\u0432\u044c, \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2649312217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "467255461",
+    "boundingbox": [
+      "39.4494365",
+      "39.4540101",
+      "8.6497531",
+      "8.6518991"
+    ],
+    "lat": "39.4514989",
+    "lon": "8.6505627",
+    "display_name": "pp, Gonnos/Gonnosfanadiga, Sud Sardegna, SAR, 09035, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.185
+  },
+  {
+    "place_id": "2651751777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473886321",
+    "boundingbox": [
+      "8.7366491",
+      "8.7371263",
+      "28.0063522",
+      "28.0098315"
+    ],
+    "lat": "8.7369646",
+    "lon": "28.0079727",
+    "display_name": "pp, \u0648\u0627\u0631\u0627\u0628, South Sudan",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.185
+  },
+  {
+    "place_id": "119461800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234038307",
+    "boundingbox": [
+      "45.1400533",
+      "45.1406474",
+      "14.8449358",
+      "14.8455119"
+    ],
+    "lat": "45.1403515",
+    "lon": "14.8451809",
+    "display_name": "PP, Ledenice, Primorsko-Goranska \u017eupanija, 51251, Hrvatska",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "48423233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3560639256",
+    "boundingbox": [
+      "28.4287901",
+      "28.4288901",
+      "-16.4950621",
+      "-16.4949621"
+    ],
+    "lat": "28.4288401",
+    "lon": "-16.4950121",
+    "display_name": "pp, Calle Bicacarera, La Quinta, Santa \u00darsula, Santa Cruz de Tenerife, Canarias, 38390, Espa\u00f1a",
+    "class": "amenity",
+    "type": "post_box",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2653549544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4720679890",
+    "boundingbox": [
+      "43.5160567",
+      "43.5161567",
+      "16.4333648",
+      "16.4334648"
+    ],
+    "lat": "43.5161067",
+    "lon": "16.4334148",
+    "display_name": "Pp, Plan\u010di\u0107eva, Table, Lovret, Split, Splitsko-Dalmatinska \u017eupanija, 21105, Hrvatska",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "51102598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3813795504",
+    "boundingbox": [
+      "43.8449895",
+      "43.8450895",
+      "10.5096391",
+      "10.5097391"
+    ],
+    "lat": "43.8450395",
+    "lon": "10.5096891",
+    "display_name": "PP, 49, Piazza San Francesco, San Concordio, Lucca, LU, TOS, 55100, Italia",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "3394583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "367681132",
+    "boundingbox": [
+      "52.5136494",
+      "52.5137494",
+      "-1.9018359",
+      "-1.9017359"
+    ],
+    "lat": "52.5136994",
+    "lon": "-1.9017859",
+    "display_name": "PP, Birchfield Road, Handsworth Wood, Birchfield, Birmingham, West Midlands, England, B20, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

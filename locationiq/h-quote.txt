@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "361362",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151362777",
+    "boundingbox": [
+      "39.5191837",
+      "39.5591837",
+      "-93.7032681",
+      "-93.6632681"
+    ],
+    "lat": "39.5391837",
+    "lon": "-93.6832681",
+    "display_name": "Quote, Carroll County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "147743323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "378129620",
+    "boundingbox": [
+      "51.022152",
+      "51.0222095",
+      "4.013991",
+      "4.0143189"
+    ],
+    "lat": "51.022152",
+    "lon": "4.013991",
+    "display_name": "Qu\u00f4te, Berlare, Dendermonde, Oost-Vlaanderen, Vlaanderen, 9290, Belgi\u00eb - Belgique - Belgien",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

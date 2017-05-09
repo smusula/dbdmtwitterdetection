@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "95105582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "134084440",
+    "boundingbox": [
+      "44.6086485",
+      "44.6140143",
+      "-123.3231621",
+      "-123.3176582"
+    ],
+    "lat": "44.6098782",
+    "lon": "-123.3191924",
+    "display_name": "Face, Benton County, Oregon, 97330, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "16391566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1540157417",
+    "boundingbox": [
+      "49.4403494",
+      "49.4404494",
+      "11.082428",
+      "11.082528"
+    ],
+    "lat": "49.4403994",
+    "lon": "11.082478",
+    "display_name": "face, 20, W\u00f6lckernstra\u00dfe, Tafelhof, N\u00fcrnberg, Mittelfranken, Bayern, 90459, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.111
+  },
+  {
+    "place_id": "3653176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "401464127",
+    "boundingbox": [
+      "31.2204321",
+      "31.2205321",
+      "121.5895659",
+      "121.5896659"
+    ],
+    "lat": "31.2204821",
+    "lon": "121.5896159",
+    "display_name": "face, \u6768\u9547\u8def, \u6d66\u4e1c\u65b0\u533a, \u5f20\u6c5f\u9547, \u6d66\u4e1c\u65b0\u533a, \u4e0a\u6d77\u5e02, 201203, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "44459149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149233268",
+    "boundingbox": [
+      "59.3184443",
+      "59.3185443",
+      "18.0709363",
+      "18.0710363"
+    ],
+    "lat": "59.3184943",
+    "lon": "18.0709863",
+    "display_name": "Face, Sankt Paulsgatan, S\u00f6dermalm, S\u00f6dermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet S\u00f6dermanland, Stockholms l\u00e4n, Svealand, 11846, Sverige",
+    "class": "shop",
+    "type": "cosmetics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7763481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "838496467",
+    "boundingbox": [
+      "45.798419",
+      "45.798519",
+      "15.9924659",
+      "15.9925659"
+    ],
+    "lat": "45.798469",
+    "lon": "15.9925159",
+    "display_name": "Face, Pile I, Kruge, Trnje, Zagreb, Grad Zagreb, 10000, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "114696602",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "215463833",
+    "boundingbox": [
+      "57.7059403",
+      "57.7060188",
+      "11.96884",
+      "11.9689542"
+    ],
+    "lat": "57.70598095",
+    "lon": "11.968911172366",
+    "display_name": "Face, Drottninggatan, Inom Vallgraven, Centrum, Gbg, G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 41107, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "25229723",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2437510411",
+    "boundingbox": [
+      "52.3773208",
+      "52.3774208",
+      "9.7326485",
+      "9.7327485"
+    ],
+    "lat": "52.3773708",
+    "lon": "9.7326985",
+    "display_name": "Face, 4, Goseriede, Mitte, Hannover, Region Hannover, Niedersachsen, 30159, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17317670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1684322884",
+    "boundingbox": [
+      "46.9490311",
+      "46.9491311",
+      "7.4458004",
+      "7.4459004"
+    ],
+    "lat": "46.9490811",
+    "lon": "7.4458504",
+    "display_name": "Face, 12, Zeughausgasse, Gelbes Quartier, Stadtteil I, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3011, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "13897910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1256737678",
+    "boundingbox": [
+      "52.4942927",
+      "52.4943927",
+      "13.4168306",
+      "13.4169306"
+    ],
+    "lat": "52.4943427",
+    "lon": "13.4168806",
+    "display_name": "Face, B\u00f6ckhstra\u00dfe, Graefekiez, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10967, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "130519146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "288999495",
+    "boundingbox": [
+      "-15.7590789",
+      "-15.7579349",
+      "-47.8724078",
+      "-47.8713005"
+    ],
+    "lat": "-15.75854455",
+    "lon": "-47.8718677442534",
+    "display_name": "FACE, Bal\u00e3o do Centro Comunit\u00e1rio, SQN 408, Asa Norte, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70904-970, Brasil",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "136077902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314794000",
+    "boundingbox": [
+      "51.5403118",
+      "51.5405302",
+      "0.0820342",
+      "0.0824155"
+    ],
+    "lat": "51.54044535",
+    "lon": "0.0821867485245447",
+    "display_name": "Bonfire, 35, Longbridge Road, Roding Riverside, Thames View, London Borough of Barking and Dagenham, London, Greater London, England, IG11 8EA, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2655150029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "482570470",
+    "boundingbox": [
+      "52.0831123",
+      "52.0832409",
+      "-1.8992175",
+      "-1.899072"
+    ],
+    "lat": "52.08318555",
+    "lon": "-1.89913531573276",
+    "display_name": "Bonfire, Glebe Path, Badsey CP, Badsey Village, Worcestershire, West Midlands, England, WR11 7HJ, UK",
+    "class": "leisure",
+    "type": "firepit",
+    "importance": 0.101
+  },
+  {
+    "place_id": "78238728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "54029153",
+    "boundingbox": [
+      "14.631353",
+      "14.6314981",
+      "121.0839724",
+      "121.0841666"
+    ],
+    "lat": "14.63142555",
+    "lon": "121.0840695",
+    "display_name": "Bonfire, St. Agnes, Provident Villages, Tanong, Marikina, Metro Manila, 1803, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "128714382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279673493",
+    "boundingbox": [
+      "39.2410991",
+      "39.2412755",
+      "-76.6802464",
+      "-76.6798947"
+    ],
+    "lat": "39.2411718",
+    "lon": "-76.6800493862062",
+    "display_name": "Bonfire, 4122, Washington Boulevard, Wynnewood, Halethorpe, Arbutus, Baltimore County, Maryland, 21227, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "121272320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242110586",
+    "boundingbox": [
+      "38.3919582",
+      "38.392345",
+      "-75.0650781",
+      "-75.0644232"
+    ],
+    "lat": "38.39215155",
+    "lon": "-75.0647506547822",
+    "display_name": "The Bonfire, 7001, Coastal Highway, Caine Harbor Mile, Worcester County, Maryland, 21842, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21803890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2177243351",
+    "boundingbox": [
+      "51.6017774",
+      "51.6018774",
+      "5.5998583",
+      "5.5999583"
+    ],
+    "lat": "51.6018274",
+    "lon": "5.5999083",
+    "display_name": "Bonfire, Veghelsedijk, Erp, Meierijstad, Noord-Brabant, Nederland, 5469SJ, Nederland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "39170774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2916052411",
+    "boundingbox": [
+      "-18.8039203",
+      "-18.8038203",
+      "-174.6482865",
+      "-174.6481865"
+    ],
+    "lat": "-18.8038703",
+    "lon": "-174.6482365",
+    "display_name": "Late, Vava\u02bbu, Tonga",
+    "class": "natural",
+    "type": "volcano",
+    "importance": 0.4
+  },
+  {
+    "place_id": "23740031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2331538868",
+    "boundingbox": [
+      "18.0530712",
+      "18.0930712",
+      "74.3871518",
+      "74.4271518"
+    ],
+    "lat": "18.0730712",
+    "lon": "74.4071518",
+    "display_name": "Late, Pune, Maharashtra, India",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54531336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4217510196",
+    "boundingbox": [
+      "46.1538399",
+      "46.1738399",
+      "5.624804",
+      "5.644804"
+    ],
+    "lat": "46.1638399",
+    "lon": "5.634804",
+    "display_name": "La Late, Nantua, Ain, Auvergne-Rh\u00f4ne-Alpes, 01130, France",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2653748074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4725766235",
+    "boundingbox": [
+      "44.2114161",
+      "44.2314161",
+      "0.3562555",
+      "0.3762555"
+    ],
+    "lat": "44.2214161",
+    "lon": "0.3662555",
+    "display_name": "Late, Feugarolles, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47230, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46779965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3382013147",
+    "boundingbox": [
+      "46.7074866",
+      "46.7274866",
+      "1.4230573",
+      "1.4430573"
+    ],
+    "lat": "46.7174866",
+    "lon": "1.4330573",
+    "display_name": "Le Late, M\u00e9obecq, Ch\u00e2teauroux, Indre, Centre-Val de Loire, 36500, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38667681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2891840565",
+    "boundingbox": [
+      "44.8757043",
+      "44.8957043",
+      "4.4087244",
+      "4.4287244"
+    ],
+    "lat": "44.8857043",
+    "lon": "4.4187244",
+    "display_name": "La Late, Le Cheylard, Tournon-sur-Rh\u00f4ne, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, 07160, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160703234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3820836",
+    "boundingbox": [
+      "-18.8269151",
+      "-18.7818839",
+      "-174.6702769",
+      "-174.6190836"
+    ],
+    "lat": "-18.8043981",
+    "lon": "-174.645278103592",
+    "display_name": "Late, Vava\u02bbu, Tonga",
+    "class": "place",
+    "type": "island",
+    "importance": 0.3423836653823
+  },
+  {
+    "place_id": "54014201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4147023571",
+    "boundingbox": [
+      "46.4576963",
+      "46.4776963",
+      "1.4884143",
+      "1.5084143"
+    ],
+    "lat": "46.4676963",
+    "lon": "1.4984143",
+    "display_name": "Le Lat\u00e9, Vigoux, Le Blanc, Indre, Centre-Val de Loire, 36170, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23885236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2349141562",
+    "boundingbox": [
+      "57.895515",
+      "57.895615",
+      "27.794378",
+      "27.794478"
+    ],
+    "lat": "57.895565",
+    "lon": "27.794428",
+    "display_name": "L\u00e4te, Perdaku k\u00fcla, V\u00e4rska vald, P\u00f5lva maakond, Eesti",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "53454441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4076129304",
+    "boundingbox": [
+      "-31.4248306",
+      "-31.4247306",
+      "-64.1900178",
+      "-64.1899178"
+    ],
+    "lat": "-31.4247806",
+    "lon": "-64.1899678",
+    "display_name": "Late, 152, Ach\u00e1val Rodr\u00edguez, Nueva C\u00f3rdoba, C\u00f3rdoba, Departamento Capital, Cba., X5000BKD, Argentina",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

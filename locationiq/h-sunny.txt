@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "387159",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151916105",
+    "boundingbox": [
+      "46.8094382",
+      "46.8494382",
+      "-100.9770782",
+      "-100.9370782"
+    ],
+    "lat": "46.8294382",
+    "lon": "-100.9570782",
+    "display_name": "Sunny, Morton County, North Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2086161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "341812673",
+    "boundingbox": [
+      "49.0054437",
+      "49.0454437",
+      "103.9987304",
+      "104.0387304"
+    ],
+    "lat": "49.0254437",
+    "lon": "104.0187304",
+    "display_name": "Sunny, \u042d\u0440\u0434\u044d\u043d\u044d\u0442, \u041e\u0440\u0445\u043e\u043d, \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "58407611",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6627253",
+    "boundingbox": [
+      "34.77546",
+      "34.77675",
+      "-87.4757319",
+      "-87.4731369"
+    ],
+    "lat": "34.776743",
+    "lon": "-87.4740539",
+    "display_name": "Sunny, Hatton, Colbert County, Alabama, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55752862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4345617998",
+    "boundingbox": [
+      "11.9485744",
+      "11.9486744",
+      "108.434319",
+      "108.434419"
+    ],
+    "lat": "11.9486244",
+    "lon": "108.434369",
+    "display_name": "sunny, T\u00f4 Ng\u1ecdc V\u00e2n, \u0110\u00e0 L\u1ea1t, L\u00e2m \u0110\u1ed3ng, 670000, Vi\u1ec7t Nam",
+    "class": "tourism",
+    "type": "chalet",
+    "importance": 0.111
+  },
+  {
+    "place_id": "4725213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "505371324",
+    "boundingbox": [
+      "51.7450579",
+      "51.7451579",
+      "-1.230205",
+      "-1.230105"
+    ],
+    "lat": "51.7451079",
+    "lon": "-1.230155",
+    "display_name": "Sunny, 286, Cowley Road, Iffley, Oxford, Oxon, South East, England, OX4 1UR, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16715870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1582791970",
+    "boundingbox": [
+      "-19.8902091",
+      "-19.8901091",
+      "-43.9665417",
+      "-43.9664417"
+    ],
+    "lat": "-19.8901591",
+    "lon": "-43.9664917",
+    "display_name": "Sunny, Avenida Presidente Carlos Luz, Vila Sumar\u00e9, Regional Noroeste, BH, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, 31250160, Brasil",
+    "class": "tourism",
+    "type": "motel",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54841046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4220753284",
+    "boundingbox": [
+      "33.5817869",
+      "33.5818869",
+      "130.4262711",
+      "130.4263711"
+    ],
+    "lat": "33.5818369",
+    "lon": "130.4263211",
+    "display_name": "Sunny, \u99c5\u5357\u3084\u3088\u3044\u901a\u308a, \u535a\u591a\u533a, \u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, 8120016, \u65e5\u672c",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "54743856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4237167186",
+    "boundingbox": [
+      "33.5811905",
+      "33.5812905",
+      "130.3519626",
+      "130.3520626"
+    ],
+    "lat": "33.5812405",
+    "lon": "130.3520126",
+    "display_name": "Sunny, \u660e\u6cbb\u901a\u308a, \u65e9\u826f\u533a, \u798f\u5ca1\u5e02, \u7cdf\u5c4b\u90e1, \u798f\u5ca1\u770c, 8140006, \u65e5\u672c",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "3682966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "380046855",
+    "boundingbox": [
+      "40.702571",
+      "40.702671",
+      "-73.983028",
+      "-73.982928"
+    ],
+    "lat": "40.702621",
+    "lon": "-73.982978",
+    "display_name": "Sunny, 251, Front Street, DUMBO, Kings County, NYC, New York, 11201, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "129127989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "282070089",
+    "boundingbox": [
+      "51.3517891",
+      "51.3518849",
+      "1.2575775",
+      "1.2577231"
+    ],
+    "lat": "51.35183775",
+    "lon": "1.25765002097059",
+    "display_name": "Sunny, The Length, St Nicholas-at-Wade, Thanet, Kent, South East, England, CT7 0PJ, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

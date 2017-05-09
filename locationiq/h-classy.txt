@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "26559810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2535952409",
+    "boundingbox": [
+      "34.7352749",
+      "34.7353749",
+      "135.4838021",
+      "135.4839021"
+    ],
+    "lat": "34.7353249",
+    "lon": "135.4838521",
+    "display_name": "CLASSY, \u56fd\u9053176\u53f7\u7dda, \u6dc0\u5ddd\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 5330032, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2653917625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4729797691",
+    "boundingbox": [
+      "49.2187005",
+      "49.2188005",
+      "-122.9605513",
+      "-122.9604513"
+    ],
+    "lat": "49.2187505",
+    "lon": "-122.9605013",
+    "display_name": "Classy, Kingsway, Middlegate, Burnaby, Greater Vancouver Regional District, British Columbia, V3M4X1, Canada",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  }
+]

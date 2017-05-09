@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "44688638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3155520471",
+    "boundingbox": [
+      "49.7063632",
+      "49.7263632",
+      "-86.8958733",
+      "-86.8758733"
+    ],
+    "lat": "49.7163632",
+    "lon": "-86.8858733",
+    "display_name": "Hardrock, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46911500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3388467782",
+    "boundingbox": [
+      "-37.8074111",
+      "-37.8073111",
+      "144.9624521",
+      "144.9625521"
+    ],
+    "lat": "-37.8073611",
+    "lon": "144.9625021",
+    "display_name": "Hardrock, 501, Swanston Street, Chinatown, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3000, Australia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "120952559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240635842",
+    "boundingbox": [
+      "-37.8202999",
+      "-37.820012",
+      "145.1718833",
+      "145.172236"
+    ],
+    "lat": "-37.82018545",
+    "lon": "145.172035947861",
+    "display_name": "Hardrock, 16-18, Varman Court, Nunawading, City of Whitehorse, Greater Melbourne, Victoria, 3131, Australia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "151037142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396396043",
+    "boundingbox": [
+      "-37.8203184",
+      "-37.820049",
+      "145.1721676",
+      "145.1723515"
+    ],
+    "lat": "-37.82019775",
+    "lon": "145.172250150569",
+    "display_name": "Hardrock, Varman Court, Nunawading, City of Whitehorse, Greater Melbourne, Victoria, 3131, Australia",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

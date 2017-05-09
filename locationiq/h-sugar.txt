@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "369303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151624318",
+    "boundingbox": [
+      "38.1302861",
+      "38.1702861",
+      "-102.6885281",
+      "-102.6485281"
+    ],
+    "lat": "38.1502861",
+    "lon": "-102.6685281",
+    "display_name": "Sugar, Prowers County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647466721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6545447",
+    "boundingbox": [
+      "35.1265153",
+      "35.3238334",
+      "1.2889794",
+      "1.5634288"
+    ],
+    "lat": "35.186167",
+    "lon": "1.496745",
+    "display_name": "Sougueur, da\u00efra Sougueur, Tiaret, RADP",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3246364951483,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "75020254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40126459",
+    "boundingbox": [
+      "14.6878",
+      "14.6878242",
+      "120.9693039",
+      "120.9704841"
+    ],
+    "lat": "14.6878242",
+    "lon": "120.9693443",
+    "display_name": "Sugar, Llenado Subdivision, Valenzuela, Metro Manila, 0560, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144549808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363413520",
+    "boundingbox": [
+      "50.8984783",
+      "50.9097217",
+      "-119.912453",
+      "-119.8928132"
+    ],
+    "lat": "50.9051815",
+    "lon": "-119.9022494",
+    "display_name": "Sugar, Sun Peaks Mountain Resort, Thompson-Nicola Regional District, British Columbia, V0E 5N-, Canada",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "7801161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "847059689",
+    "boundingbox": [
+      "49.4689974",
+      "49.4690974",
+      "7.1688349",
+      "7.1689349"
+    ],
+    "lat": "49.4690474",
+    "lon": "7.1688849",
+    "display_name": "sugar, 1, Br\u00fchlstra\u00dfe, Sankt Wendel, Landkreis St. Wendel, Saarland, 66606, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2654854486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4750763542",
+    "boundingbox": [
+      "15.5352953",
+      "15.5353953",
+      "32.581539",
+      "32.581639"
+    ],
+    "lat": "15.5353453",
+    "lon": "32.581589",
+    "display_name": "sugar, Wad Medani Highway, Maamoura, \u0627\u0644\u062e\u0631\u0637\u0648\u0645, \u0648\u0644\u0627\u064a\u0629 \u0627\u0644\u062e\u0631\u0637\u0648\u0645, 11114, Sudan \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "23867446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2340693362",
+    "boundingbox": [
+      "47.5025593",
+      "47.5026593",
+      "19.0604768",
+      "19.0605768"
+    ],
+    "lat": "47.5026093",
+    "lon": "19.0605268",
+    "display_name": "SUGAR!, 48, Paulay Ede utca, Ter\u00e9zv\u00e1ros, 6. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1061, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "17263980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1649025756",
+    "boundingbox": [
+      "50.1279023",
+      "50.1280023",
+      "8.7098942",
+      "8.7099942"
+    ],
+    "lat": "50.1279523",
+    "lon": "8.7099442",
+    "display_name": "Sugar, 235, Berger Stra\u00dfe, Bornheim, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60385, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "25422422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2447719458",
+    "boundingbox": [
+      "43.6062973",
+      "43.6063973",
+      "1.4461803",
+      "1.4462803"
+    ],
+    "lat": "43.6063473",
+    "lon": "1.4462303",
+    "display_name": "Sugar, Place Victor Hugo, Capitole, Toulouse Centre, Toulouse, Haute-Garonne, Occitanie, 31000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "47159136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3415201994",
+    "boundingbox": [
+      "49.3597145",
+      "49.3598145",
+      "0.0766268",
+      "0.0767268"
+    ],
+    "lat": "49.3597645",
+    "lon": "0.0766768",
+    "display_name": "Sugar, Rue D\u00e9sir\u00e9 le Hoc, Deauville, Lisieux, Calvados, Normandie, 14800, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

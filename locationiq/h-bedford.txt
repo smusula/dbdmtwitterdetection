@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "105549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4085941",
+    "boundingbox": [
+      "52.0963806",
+      "52.1763806",
+      "-0.507504",
+      "-0.427504"
+    ],
+    "lat": "52.1363806",
+    "lon": "-0.467504",
+    "display_name": "Bedford, East of England, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.61219640377658,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160330918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "417156",
+    "boundingbox": [
+      "39.7224647",
+      "40.325272",
+      "-78.8082758",
+      "-78.1363299"
+    ],
+    "lat": "40.0271453",
+    "lon": "-78.5237446",
+    "display_name": "Bedford County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53256373919061,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160275975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127887",
+    "boundingbox": [
+      "38.825504",
+      "38.886501",
+      "-86.5263539",
+      "-86.4380149"
+    ],
+    "lat": "38.8611619",
+    "lon": "-86.4872148",
+    "display_name": "Bedford, Lawrence County, Indiana, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.51795765427247,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160569040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2532615",
+    "boundingbox": [
+      "37.009243",
+      "37.6179754",
+      "-79.8576809",
+      "-79.1833019"
+    ],
+    "lat": "37.3123905",
+    "lon": "-79.5399002",
+    "display_name": "Bedford County, Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50857610290703,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160297727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "206965",
+    "boundingbox": [
+      "37.315353",
+      "37.356226",
+      "-79.5594529",
+      "-79.4872109"
+    ],
+    "lat": "37.3344561",
+    "lon": "-79.5235082",
+    "display_name": "Bedford, Bedford County, Virginia, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50671998773647,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160294070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "188612",
+    "boundingbox": [
+      "40.003287",
+      "40.025596",
+      "-78.5167459",
+      "-78.4860639"
+    ],
+    "lat": "40.0186921",
+    "lon": "-78.5039068",
+    "display_name": "Bedford, Bedford County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48844676960817,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160486851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1848165",
+    "boundingbox": [
+      "35.320904",
+      "35.703079",
+      "-86.6656189",
+      "-86.2354129"
+    ],
+    "lat": "35.5099479",
+    "lon": "-86.4507188",
+    "display_name": "Bedford County, Tennessee, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.486778976445,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160453425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1838335",
+    "boundingbox": [
+      "42.459663",
+      "42.5267134",
+      "-71.3213572",
+      "-71.2306014"
+    ],
+    "lat": "42.4917301",
+    "lon": "-71.2817946",
+    "display_name": "Bedford, Middlesex County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48528487167148,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160306121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "305525",
+    "boundingbox": [
+      "42.8963522",
+      "42.982799",
+      "-71.6171693",
+      "-71.4523902"
+    ],
+    "lat": "42.9464737",
+    "lon": "-71.5159014",
+    "display_name": "Bedford, Hillsborough County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47579531509901,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161005785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6571609",
+    "boundingbox": [
+      "32.822086",
+      "32.867784",
+      "-97.1686279",
+      "-97.0997218"
+    ],
+    "lat": "32.844017",
+    "lon": "-97.143067",
+    "display_name": "Bedford, Tarrant County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46760882998797,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

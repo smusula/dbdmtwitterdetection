@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "90559705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117142591",
+    "boundingbox": [
+      "44.9758412",
+      "44.9763236",
+      "-66.9060447",
+      "-66.9049136"
+    ],
+    "lat": "44.97605675",
+    "lon": "-66.9054471464813",
+    "display_name": "The Pup, Charlotte County, New Brunswick, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "14604256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1319544005",
+    "boundingbox": [
+      "44.656061",
+      "45.296061",
+      "-67.2254303",
+      "-66.5854303"
+    ],
+    "lat": "44.976061",
+    "lon": "-66.9054303",
+    "display_name": "The Pup, Charlotte County, New Brunswick, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "7117804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "752887778",
+    "boundingbox": [
+      "56.2691835",
+      "56.2891835",
+      "39.889329",
+      "39.909329"
+    ],
+    "lat": "56.2791835",
+    "lon": "39.899329",
+    "display_name": "\u041f\u0443\u043f, \u041d\u0435\u0431\u044b\u043b\u043e\u0432\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u042e\u0440\u044c\u0435\u0432-\u041f\u043e\u043b\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043b\u0430\u0434\u0438\u043c\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, \u0420\u0424",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "147328998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "376021162",
+    "boundingbox": [
+      "52.2387311",
+      "52.238938",
+      "18.2356008",
+      "18.2364263"
+    ],
+    "lat": "52.23883455",
+    "lon": "18.2360135529773",
+    "display_name": "PUP, 4A, Zak\u0142adowa, Chorze\u0144, Konin, wielkopolskie, 62-510, Polska",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "119912712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236075937",
+    "boundingbox": [
+      "50.4832505",
+      "50.4834963",
+      "17.3311324",
+      "17.3314924"
+    ],
+    "lat": "50.48336375",
+    "lon": "17.3313008318536",
+    "display_name": "PUP, 19, S\u0142owia\u0144ska, Zawodzie, Nysa, gmina Nysa, powiat nyski, opolskie, 48-300, Polska",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "151305195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398054832",
+    "boundingbox": [
+      "51.6631842",
+      "51.663403",
+      "19.3480199",
+      "19.34884"
+    ],
+    "lat": "51.6632977",
+    "lon": "19.3487328554204",
+    "display_name": "PUP, 11, Ludwika Wary\u0144skiego, Nowe Miasto, Jutrzkowice, Pabianice, powiat pabianicki, \u0142\u00f3dzkie, Polska",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "142502724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "348212865",
+    "boundingbox": [
+      "52.3267878",
+      "52.3271179",
+      "17.5765822",
+      "17.577043"
+    ],
+    "lat": "52.3269529",
+    "lon": "17.5768125813391",
+    "display_name": "PUP, 2, Wojska Polskiego, Soko\u0142owo-Osiedle, Wrze\u015bnia, gmina Wrze\u015bnia, powiat wrzesi\u0144ski, wielkopolskie, 62-300, Polska",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "140298177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "335536735",
+    "boundingbox": [
+      "51.692737",
+      "51.6930223",
+      "17.4269274",
+      "17.4271626"
+    ],
+    "lat": "51.69288365",
+    "lon": "17.4270359046845",
+    "display_name": "PUP, 7b, Rawicka, Folwark Zamkowy, Krotoszyn, gmina Krotoszyn, powiat krotoszy\u0144ski, wielkopolskie, 63-700, Polska",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "142435759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "348339908",
+    "boundingbox": [
+      "51.9670156",
+      "51.9673013",
+      "17.4886929",
+      "17.4889265"
+    ],
+    "lat": "51.96715845",
+    "lon": "17.4888097",
+    "display_name": "PUP, 2, Zaciszna, Jarocin-\u0141ugi, Jarocin, gmina Jarocin, powiat jaroci\u0144ski, wielkopolskie, 63-200, Polska",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150194734",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "390923116",
+    "boundingbox": [
+      "51.6085832",
+      "51.6087107",
+      "16.8732993",
+      "16.8736857"
+    ],
+    "lat": "51.6086469",
+    "lon": "16.8734924964049",
+    "display_name": "PUP, 19a, Porucznika Stanis\u0142awa Kami\u0144skiego, Osiedle Sierakowo, Rawicz, gmina Rawicz, powiat rawicki, wielkopolskie, Polska",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  }
+]

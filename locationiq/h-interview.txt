@@ -1,0 +1,135 @@
+[
+  {
+    "place_id": "54833902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4246414208",
+    "boundingbox": [
+      "21.025696",
+      "21.025796",
+      "105.7962558",
+      "105.7963558"
+    ],
+    "lat": "21.025746",
+    "lon": "105.7963058",
+    "display_name": "Interview, Hoa B\u1eb1ng, H\u00e0 N\u1ed9i, 122000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "54829520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4238368957",
+    "boundingbox": [
+      "21.0510497",
+      "21.0511497",
+      "105.807824",
+      "105.807924"
+    ],
+    "lat": "21.0510997",
+    "lon": "105.807874",
+    "display_name": "INTERVIEW, L\u1ea1c Long Qu\u00e2n, H\u00e0 N\u1ed9i, 100000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "18764077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1820033233",
+    "boundingbox": [
+      "44.6551928",
+      "44.6552928",
+      "-0.3649056",
+      "-0.3648056"
+    ],
+    "lat": "44.6552428",
+    "lon": "-0.3648556",
+    "display_name": "Interview, Cours du Mar\u00e9chal Foch, Podensac, Langon, Gironde, Nouvelle-Aquitaine, 33720, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "92775870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125335829",
+    "boundingbox": [
+      "44.1205169",
+      "44.1206482",
+      "4.8387287",
+      "4.838829"
+    ],
+    "lat": "44.1206055",
+    "lon": "4.83877903556806",
+    "display_name": "Interview, G Monsieur Galant, Zone Commerciale du Coudoulet, Coudoulet Ouest, Orange, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84100, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "49180094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3655632625",
+    "boundingbox": [
+      "45.5745654",
+      "45.5746654",
+      "5.9458388",
+      "5.9459388"
+    ],
+    "lat": "45.5746154",
+    "lon": "5.9458888",
+    "display_name": "Interview, Rue Centrale, Bassens, Chamb\u00e9ry, Savoie, Auvergne-Rh\u00f4ne-Alpes, 73000, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "36440275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2845744326",
+    "boundingbox": [
+      "43.8644213",
+      "43.8645213",
+      "-0.4798057",
+      "-0.4797057"
+    ],
+    "lat": "43.8644713",
+    "lon": "-0.4797557",
+    "display_name": "Interview, Boulevard Oscar Niemeyer, Saint-Pierre-du-Mont, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40280, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "103583470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169389583",
+    "boundingbox": [
+      "49.6114861",
+      "49.6116124",
+      "6.1269413",
+      "6.1271007"
+    ],
+    "lat": "49.61154855",
+    "lon": "6.12702160618271",
+    "display_name": "Interview, Rue Aldringen, Ville Haute, Ville-Haute, Luxembourg, Canton Luxembourg, 1118, L\u00ebtzebuerg",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

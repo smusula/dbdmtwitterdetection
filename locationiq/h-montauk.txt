@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "160286342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175770",
+    "boundingbox": [
+      "40.999104",
+      "41.0872665",
+      "-72.0583749",
+      "-71.8527116"
+    ],
+    "lat": "41.0359353",
+    "lon": "-71.9545145",
+    "display_name": "Montauk, Suffolk County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47871426287808,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "137848173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "323206064",
+    "boundingbox": [
+      "41.0481259",
+      "41.0483591",
+      "-71.9533664",
+      "-71.9531121"
+    ],
+    "lat": "41.0482141",
+    "lon": "-71.9532343633105",
+    "display_name": "Montauk, Fort Pond Road, Montauk, Suffolk County, New York, 11954, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "152261488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402958698",
+    "boundingbox": [
+      "40.6842197",
+      "40.6851134",
+      "-73.3464367",
+      "-73.3451998"
+    ],
+    "lat": "40.6846584",
+    "lon": "-73.3458721773384",
+    "display_name": "Montauk, West Babylon, Suffolk County, New York, 11702, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "377003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151636377",
+    "boundingbox": [
+      "37.4278226",
+      "37.4678226",
+      "-91.7157044",
+      "-91.6757044"
+    ],
+    "lat": "37.4478226",
+    "lon": "-91.6957044",
+    "display_name": "Montauk, Dent County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.28177847009039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63583026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15153152",
+    "boundingbox": [
+      "29.443877",
+      "29.445189",
+      "-98.7065569",
+      "-98.7063259"
+    ],
+    "lat": "29.444299",
+    "lon": "-98.7065569",
+    "display_name": "Montauk, San Antonio, Bexar County, Texas, 78251, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "137875365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "323206063",
+    "boundingbox": [
+      "41.0473159",
+      "41.0484148",
+      "-71.9539846",
+      "-71.9529507"
+    ],
+    "lat": "41.0478844",
+    "lon": "-71.953427",
+    "display_name": "Montauk, Fort Pond Road, Montauk, Suffolk County, New York, 11954, United States of America",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.101
+  }
+]

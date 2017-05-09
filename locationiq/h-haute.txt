@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "125534566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260284593",
+    "boundingbox": [
+      "43.1866602",
+      "43.1889679",
+      "0.1999536",
+      "0.2170183"
+    ],
+    "lat": "43.1871757",
+    "lon": "0.2083502",
+    "display_name": "La Haute, Bordes, Tarbes, Hautes-Pyr\u00e9n\u00e9es, Occitanie, 65190, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "32431967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2774994331",
+    "boundingbox": [
+      "45.5401932",
+      "45.5601932",
+      "4.8874819",
+      "4.9074819"
+    ],
+    "lat": "45.5501932",
+    "lon": "4.8974819",
+    "display_name": "Haute, Serpaize, Vienne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38200, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51783199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3867861147",
+    "boundingbox": [
+      "47.9555737",
+      "47.9556737",
+      "-0.9504443",
+      "-0.9503443"
+    ],
+    "lat": "47.9556237",
+    "lon": "-0.9503943",
+    "display_name": "La Haute, Coss\u00e9-le-Vivien, Ch\u00e2teau-Gontier, Mayenne, Pays de la Loire, 53230, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2645114110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4284502946",
+    "boundingbox": [
+      "47.2133064",
+      "47.2134064",
+      "7.1403562",
+      "7.1404562"
+    ],
+    "lat": "47.2133564",
+    "lon": "7.1404062",
+    "display_name": "La Haute, Corg\u00e9mont, Verwaltungskreis Berner Jura, Verwaltungsregion Berner Jura, Bern - Berne, 2606, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

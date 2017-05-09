@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "11758851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1110892593",
+    "boundingbox": [
+      "51.4432496",
+      "51.4433496",
+      "-0.1514969",
+      "-0.1513969"
+    ],
+    "lat": "51.4432996",
+    "lon": "-0.1514469",
+    "display_name": "Exhibit, 12, Balham Station Road, Balham, London Borough of Wandsworth, London, Greater London, England, SW12 9SG, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "47141740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3413110280",
+    "boundingbox": [
+      "54.0013166",
+      "54.0014166",
+      "-6.3991019",
+      "-6.3990019"
+    ],
+    "lat": "54.0013666",
+    "lon": "-6.3990519",
+    "display_name": "EXHIBIT, Marshes Avenue, Marshes Lower, Dundalk No. 4 Urban, Dundalk, County Louth, Leinster, Ireland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

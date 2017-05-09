@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160284101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "162069",
+    "boundingbox": [
+      "38.7916303",
+      "38.9958524",
+      "-77.1197662",
+      "-76.9093659"
+    ],
+    "lat": "38.89366125",
+    "lon": "-76.987883153882",
+    "display_name": "District of Columbia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71665678197628,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1287071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "306394560",
+    "boundingbox": [
+      "1.8024881",
+      "6.9224881",
+      "-76.7437702",
+      "-71.6237702"
+    ],
+    "lat": "4.3624881",
+    "lon": "-74.1837702",
+    "display_name": "Distrito Capital de Bogot\u00e1, Colombia",
+    "class": "place",
+    "type": "state",
+    "importance": 0.65464977753628,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160409478",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1387968",
+    "boundingbox": [
+      "3.7284407",
+      "4.8369",
+      "-74.4517633",
+      "-73.9963152"
+    ],
+    "lat": "4.28234055",
+    "lon": "-74.1758038821991",
+    "display_name": "Bogot\u00e1, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.65464977753628,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160373398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070329",
+    "boundingbox": [
+      "39.567497",
+      "40.002172",
+      "-100.7412719",
+      "-100.1784322"
+    ],
+    "lat": "39.7940527",
+    "lon": "-100.4727689",
+    "display_name": "Decatur County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46361744565932,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "102834845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166332177",
+    "boundingbox": [
+      "57.4652404",
+      "57.4656953",
+      "10.5301624",
+      "10.5309452"
+    ],
+    "lat": "57.46546785",
+    "lon": "10.5305537848102",
+    "display_name": "Dc, K\u00e6ret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "81754254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "77670500",
+    "boundingbox": [
+      "44.8013058",
+      "44.8249577",
+      "24.8979029",
+      "24.9150876"
+    ],
+    "lat": "44.81025",
+    "lon": "24.9105546",
+    "display_name": "DC, Pite\u0219ti, Arge\u0219, 117140, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116199005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222136765",
+    "boundingbox": [
+      "45.5902591",
+      "45.5904618",
+      "22.9696415",
+      "22.970363"
+    ],
+    "lat": "45.5902685",
+    "lon": "22.9698963",
+    "display_name": "DC, S\u00e2nt\u0103m\u0103ria Orlea, Hunedoara, 337440, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "116935516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "225072829",
+    "boundingbox": [
+      "45.1228086",
+      "45.1437547",
+      "23.7101003",
+      "23.7703105"
+    ],
+    "lat": "45.1307037",
+    "lon": "23.7424102",
+    "display_name": "DC, Poienari, Gorj, 217112, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "125811637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261419998",
+    "boundingbox": [
+      "44.4828469",
+      "44.486745",
+      "24.1156292",
+      "24.1209875"
+    ],
+    "lat": "44.4853545",
+    "lon": "24.1186671",
+    "display_name": "DC, Morune\u0219ti, Olt, 237273, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "125659722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260816703",
+    "boundingbox": [
+      "44.4260397",
+      "44.4378917",
+      "24.6888715",
+      "24.7019607"
+    ],
+    "lat": "44.432866",
+    "lon": "24.6966959",
+    "display_name": "DC, Ursoaia, Olt, 237227, Rom\u00e2nia",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  }
+]

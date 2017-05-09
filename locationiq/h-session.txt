@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "100230758",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156961965",
+    "boundingbox": [
+      "19.1975471",
+      "19.1977681",
+      "-72.6237657",
+      "-72.6219304"
+    ],
+    "lat": "19.1977641",
+    "lon": "-72.6228517",
+    "display_name": "La session, 5e Bocozelle, Commune de Saint-Marc, Arrondissement de Saint-Marc, D\u00e9partement de l'Artibonite, Ayiti",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "11097656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1007390253",
+    "boundingbox": [
+      "50.7327972",
+      "50.7328972",
+      "7.099078",
+      "7.099178"
+    ],
+    "lat": "50.7328472",
+    "lon": "7.099128",
+    "display_name": "Session, 4, Gerhard-von-Are-Stra\u00dfe, Bonn-Zentrum, Stadtbezirk Bonn, Bonn, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 53111, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2645064808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456138164",
+    "boundingbox": [
+      "47.6173971",
+      "47.6179863",
+      "-122.3044175",
+      "-122.3038544"
+    ],
+    "lat": "47.6177217",
+    "lon": "-122.30405848434",
+    "display_name": "Session, 22nd Avenue, Madison Valley, Seattle, King County, Washington, 98122, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "13827369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1262129279",
+    "boundingbox": [
+      "58.9711297",
+      "58.9712297",
+      "5.7322873",
+      "5.7323873"
+    ],
+    "lat": "58.9711797",
+    "lon": "5.7323373",
+    "display_name": "Session, Kirkegata, Jammerdalen, Storhaug, Stavanger, Rogaland, 4006, Norge",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "4265732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "449399599",
+    "boundingbox": [
+      "58.9711454",
+      "58.9712454",
+      "5.7322776",
+      "5.7323776"
+    ],
+    "lat": "58.9711954",
+    "lon": "5.7323276",
+    "display_name": "Session, Kirkegata, Jammerdalen, Storhaug, Stavanger, Rogaland, 4006, Norge",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52251685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3946010568",
+    "boundingbox": [
+      "60.3941901",
+      "60.3942901",
+      "5.3219005",
+      "5.3220005"
+    ],
+    "lat": "60.3942401",
+    "lon": "5.3219505",
+    "display_name": "Session, Strandgaten, Sentrum, Bergenhus, Bergen, Hordaland, 5012, Norge",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "50949120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3792776055",
+    "boundingbox": [
+      "40.3241825",
+      "40.3242825",
+      "-3.7666642",
+      "-3.7665642"
+    ],
+    "lat": "40.3242325",
+    "lon": "-3.7666142",
+    "display_name": "Session, Calle Pedro de Alvarado, San Nicasio, Legan\u00e9s, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28914, Espa\u00f1a",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

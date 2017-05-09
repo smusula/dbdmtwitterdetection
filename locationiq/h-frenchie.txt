@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "24690958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2383363287",
+    "boundingbox": [
+      "48.8677707",
+      "48.8678707",
+      "2.3478485",
+      "2.3479485"
+    ],
+    "lat": "48.8678207",
+    "lon": "2.3478985",
+    "display_name": "Restaurant Frenchie, 5, Rue du Nil, Sentier, Bonne-Nouvelle, 2e, Paris, \u00cele-de-France, 75002, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "47659753",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3461183720",
+    "boundingbox": [
+      "48.8676824",
+      "48.8677824",
+      "2.3478827",
+      "2.3479827"
+    ],
+    "lat": "48.8677324",
+    "lon": "2.3479327",
+    "display_name": "Frenchie, Rue du Nil, Sentier, Bonne-Nouvelle, 2e, Paris, \u00cele-de-France, 75002, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654057778",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4733006091",
+    "boundingbox": [
+      "1.3008132",
+      "1.3009132",
+      "103.8599872",
+      "103.8600872"
+    ],
+    "lat": "1.3008632",
+    "lon": "103.8600372",
+    "display_name": "Le Frenchie, 73, Bussorah Street, Clarke Quay, Beach Road, Singapore, Central Singapore Community Development Council, 199550, Singapore",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "127647994",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "272697553",
+    "boundingbox": [
+      "51.5647456",
+      "51.5648595",
+      "-0.1095828",
+      "-0.1093447"
+    ],
+    "lat": "51.56480255",
+    "lon": "-0.109463749999998",
+    "display_name": "Frenchie, 98, Fonthill Road, New Orleans Estate, Finsbury Park, London Borough of Islington, London, Greater London, England, N4 3TX, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609308225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4476768997",
+    "boundingbox": [
+      "18.7939867",
+      "18.7940867",
+      "98.9916138",
+      "98.9917138"
+    ],
+    "lat": "18.7940367",
+    "lon": "98.9916638",
+    "display_name": "Le Frenchie, 44, \u0e16\u0e19\u0e19\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e0b\u0e2d\u0e22 9, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50200, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2609307906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4476756596",
+    "boundingbox": [
+      "18.7940596",
+      "18.7941596",
+      "98.9916059",
+      "98.9917059"
+    ],
+    "lat": "18.7941096",
+    "lon": "98.9916559",
+    "display_name": "Le Frenchie, 44/3, \u0e16\u0e19\u0e19\u0e21\u0e39\u0e25\u0e40\u0e21\u0e37\u0e2d\u0e07 \u0e0b\u0e2d\u0e22 9, \u0e0a\u0e49\u0e32\u0e07\u0e40\u0e1c\u0e37\u0e2d\u0e01, \u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50200, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  },
+  {
+    "place_id": "103653006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169622645",
+    "boundingbox": [
+      "49.609762",
+      "49.6099157",
+      "6.1288265",
+      "6.1290989"
+    ],
+    "lat": "49.60983855",
+    "lon": "6.12896268364169",
+    "display_name": "Frenchie, Rue Notre-Dame, Ville Haute, Ville-Haute, Luxembourg, Canton Luxembourg, 2240, L\u00ebtzebuerg",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160262395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "111190",
+    "boundingbox": [
+      "33.626562",
+      "33.69785",
+      "-93.6257909",
+      "-93.5531049"
+    ],
+    "lat": "33.6670616",
+    "lon": "-93.5915664",
+    "display_name": "Hope, Hempstead County, Arkansas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.5088805262029,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160536260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2221185",
+    "boundingbox": [
+      "49.3481265",
+      "49.4298553",
+      "-121.5758248",
+      "-121.3570602"
+    ],
+    "lat": "49.383333",
+    "lon": "-121.4333329",
+    "display_name": "Hope, Fraser Valley Regional District, British Columbia, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47847580713286,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "112122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "21068150",
+    "boundingbox": [
+      "53.0980417",
+      "53.1380417",
+      "-3.0541706",
+      "-3.0141706"
+    ],
+    "lat": "53.1180417",
+    "lon": "-3.0341706",
+    "display_name": "Hope, Flintshire, Wales, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.4358910050999,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "102219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "419664",
+    "boundingbox": [
+      "53.3409706",
+      "53.3509706",
+      "-1.7346437",
+      "-1.7246437"
+    ],
+    "lat": "53.3459706",
+    "lon": "-1.7296437",
+    "display_name": "Hope, Station Road, Hope, High Peak, Derbyshire, East Midlands, England, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.43025481034543,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "112632197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "206811618",
+    "boundingbox": [
+      "-23.6404545",
+      "-23.5862573",
+      "15.1957397",
+      "15.2565599"
+    ],
+    "lat": "-23.6174987",
+    "lon": "15.2267144",
+    "display_name": "Hope, Erongo Region, Namibia",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "377219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153343728",
+    "boundingbox": [
+      "43.0316641",
+      "43.0716641",
+      "-89.2662273",
+      "-89.2262273"
+    ],
+    "lat": "43.0516641",
+    "lon": "-89.2462273",
+    "display_name": "Hope, Town of Cottage Grove, Dane County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42079972394797,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "377866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151753034",
+    "boundingbox": [
+      "33.6270616",
+      "33.7070616",
+      "-93.6315664",
+      "-93.5515664"
+    ],
+    "lat": "33.6670616",
+    "lon": "-93.5915664",
+    "display_name": "Hope, Hempstead County, Arkansas, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160276942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "129975",
+    "boundingbox": [
+      "38.685367",
+      "38.6961282",
+      "-97.0844789",
+      "-97.0683409"
+    ],
+    "lat": "38.6902839",
+    "lon": "-97.0766843",
+    "display_name": "Hope, Dickinson County, Kansas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2610492403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6527813",
+    "boundingbox": [
+      "60.829861",
+      "60.963469",
+      "-149.7640029",
+      "-149.4724359"
+    ],
+    "lat": "60.896474",
+    "lon": "-149.622029149899",
+    "display_name": "Hope, Resurrection Creek Road, Hope, Kenai Peninsula, Alaska, 99605, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3870721613232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "337835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150917859",
+    "boundingbox": [
+      "60.9002778",
+      "60.9402778",
+      "-149.6602777",
+      "-149.6202777"
+    ],
+    "lat": "60.9202778",
+    "lon": "-149.6402777",
+    "display_name": "Hope, Kenai Peninsula, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3870721613232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

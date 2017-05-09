@@ -1,0 +1,150 @@
+[
+  {
+    "place_id": "17315728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1683879094",
+    "boundingbox": [
+      "47.2746849",
+      "47.2747849",
+      "12.485152",
+      "12.485252"
+    ],
+    "lat": "47.2747349",
+    "lon": "12.485202",
+    "display_name": "outside, Klausgasse, Klausen, Mittersill, Zell am See, Salzburg, 5730, \u00d6sterreich",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "29592408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2718101441",
+    "boundingbox": [
+      "52.0791761",
+      "52.0792761",
+      "4.3169045",
+      "4.3170045"
+    ],
+    "lat": "52.0792261",
+    "lon": "4.3169545",
+    "display_name": "The Outside, 9, Korte Houtstraat, Museumkwartier, Den Haag, MRDH, Zuid-Holland, Nederland, 2511CC, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16261236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1487239476",
+    "boundingbox": [
+      "53.3299469",
+      "53.3300469",
+      "-1.6554524",
+      "-1.6553524"
+    ],
+    "lat": "53.3299969",
+    "lon": "-1.6554024",
+    "display_name": "Outside, Main Road, Hathersage CP, Derbyshire Dales, Derbyshire, East Midlands, England, S32 1BB, UK",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23451137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2327984135",
+    "boundingbox": [
+      "49.4373142",
+      "49.4374142",
+      "7.2345475",
+      "7.2346475"
+    ],
+    "lat": "49.4373642",
+    "lon": "7.2345975",
+    "display_name": "Outside, 3, Br\u00fcckwiesstra\u00dfe, D\u00f6rrenbach, Sankt Wendel, Landkreis St. Wendel, Saarland, 66606, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "133584887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "303748398",
+    "boundingbox": [
+      "52.0912963",
+      "52.0914994",
+      "8.3693721",
+      "8.3697223"
+    ],
+    "lat": "52.0914021",
+    "lon": "8.36954726069511",
+    "display_name": "Outside, 98, Borgholzhausener Stra\u00dfe, Theenhausen, Werther, Kreis G\u00fctersloh, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33824, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654195524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4735271927",
+    "boundingbox": [
+      "50.7849029",
+      "50.7850029",
+      "-1.0887224",
+      "-1.0886224"
+    ],
+    "lat": "50.7849529",
+    "lon": "-1.0886724",
+    "display_name": "New World Payphones, 53-57, Palmerston Road, Southsea, Portsmouth, South East, England, PO5 3QE, UK",
+    "class": "amenity",
+    "type": "telephone",
+    "importance": 0.001
+  },
+  {
+    "place_id": "53948746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4110443290",
+    "boundingbox": [
+      "50.788034",
+      "50.788134",
+      "-1.043396",
+      "-1.043296"
+    ],
+    "lat": "50.788084",
+    "lon": "-1.043346",
+    "display_name": "BT, 7, Fort Cumberland Road, Eastney, Portsmouth, South East, England, PO4 9LG, UK",
+    "class": "amenity",
+    "type": "telephone",
+    "importance": 0.001
+  },
+  {
+    "place_id": "11419808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1073026563",
+    "boundingbox": [
+      "50.8516067",
+      "50.8517067",
+      "-0.9843751",
+      "-0.9842751"
+    ],
+    "lat": "50.8516567",
+    "lon": "-0.9843251",
+    "display_name": "BT, 38, West Street Precinct, Brockhampton, Bedhampton, Havant, Hampshire, South East, England, PO9 1PG, UK",
+    "class": "amenity",
+    "type": "telephone",
+    "importance": 0.001
+  }
+]

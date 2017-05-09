@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "71537581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29400717",
+    "boundingbox": [
+      "61.7982269",
+      "61.8288185",
+      "12.717713",
+      "12.851697"
+    ],
+    "lat": "61.8036196",
+    "lon": "12.7921101",
+    "display_name": "Vegan, \u00c4lvdalen, Dalarna, Svealand, Sverige",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "424179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154109484",
+    "boundingbox": [
+      "38.9439901",
+      "38.9839901",
+      "-80.1336907",
+      "-80.0936907"
+    ],
+    "lat": "38.9639901",
+    "lon": "-80.1136907",
+    "display_name": "Vegan, Upshur County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "63939214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15659606",
+    "boundingbox": [
+      "38.9556421",
+      "38.9604278",
+      "-80.1395611",
+      "-80.1309772"
+    ],
+    "lat": "38.9583061",
+    "lon": "-80.1347738",
+    "display_name": "Vegan, Excelsior, Upshur County, West Virginia, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "16192125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1473383496",
+    "boundingbox": [
+      "40.6043944",
+      "40.6044944",
+      "15.4691167",
+      "15.4692167"
+    ],
+    "lat": "40.6044444",
+    "lon": "15.4691667",
+    "display_name": "VEGAN, SR94/b, Salvitelle, SA, CAM, 84031, Italia",
+    "class": "aeroway",
+    "type": "waypoint",
+    "importance": 0.101
+  },
+  {
+    "place_id": "36098173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2833506765",
+    "boundingbox": [
+      "39.5702737",
+      "39.5703737",
+      "2.6453726",
+      "2.6454726"
+    ],
+    "lat": "39.5703237",
+    "lon": "2.6454226",
+    "display_name": "Bon Lloc, 7, carrer de Sant Feliu, Canavall, Palma, Illes Balears, 07012, 124",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

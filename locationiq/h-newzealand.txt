@@ -1,0 +1,116 @@
+[
+  {
+    "place_id": "2647222207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4571429546",
+    "boundingbox": [
+      "-43.903029",
+      "-43.902929",
+      "171.7501671",
+      "171.7502671"
+    ],
+    "lat": "-43.902979",
+    "lon": "171.7502171",
+    "display_name": "NewZealand Post, East Street, Hampstead, Ashburton, Ashburton District, Canterbury, 7700, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "2648772140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4607062888",
+    "boundingbox": [
+      "-45.8733961",
+      "-45.8732961",
+      "170.5051473",
+      "170.5052473"
+    ],
+    "lat": "-45.8733461",
+    "lon": "170.5051973",
+    "display_name": "KiwiBank, Moray Place, Dunedin Central, Dunedin, Dunedin City, Otago, 9016, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "2649660661",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4627595102",
+    "boundingbox": [
+      "-46.4109095",
+      "-46.4108095",
+      "168.3515642",
+      "168.3516642"
+    ],
+    "lat": "-46.4108595",
+    "lon": "168.3516142",
+    "display_name": "KiwiBank, Don Street, Invercargill, Invercargill City, Southland, 9810, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "2648595338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4603131498",
+    "boundingbox": [
+      "-45.0976167",
+      "-45.0975167",
+      "170.970076",
+      "170.970176"
+    ],
+    "lat": "-45.0975667",
+    "lon": "170.970126",
+    "display_name": "KiwiBank and Postshop, Coquet Street, South Hill, Oamaru, Waitaki District, Otago, 9400, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "2648595339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4603131499",
+    "boundingbox": [
+      "-45.0976508",
+      "-45.0975508",
+      "170.970076",
+      "170.970176"
+    ],
+    "lat": "-45.0976008",
+    "lon": "170.970126",
+    "display_name": "Post Oamaru, Coquet Street, South Hill, Oamaru, Waitaki District, Otago, 9400, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "2650660441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4646455682",
+    "boundingbox": [
+      "-45.2560829",
+      "-45.2559829",
+      "169.392626",
+      "169.392726"
+    ],
+    "lat": "-45.2560329",
+    "lon": "169.392676",
+    "display_name": "KiwiBank, Tarbert Street, Alexandra, Central Otago District, Otago, 9320, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

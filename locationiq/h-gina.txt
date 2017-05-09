@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "49806304",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3700514286",
+    "boundingbox": [
+      "18.9678872",
+      "19.0078872",
+      "-69.1478707",
+      "-69.1078707"
+    ],
+    "lat": "18.9878872",
+    "lon": "-69.1278707",
+    "display_name": "La Gina, El Seibo, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50390827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3738538815",
+    "boundingbox": [
+      "18.6924969",
+      "18.7324969",
+      "-68.6333606",
+      "-68.5933606"
+    ],
+    "lat": "18.7124969",
+    "lon": "-68.6133606",
+    "display_name": "La Gina, La Altagracia, Rep\u00fablica Dominicana",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12288480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1157931734",
+    "boundingbox": [
+      "1.7736139",
+      "1.8136139",
+      "30.366675",
+      "30.406675"
+    ],
+    "lat": "1.7936139",
+    "lon": "30.386675",
+    "display_name": "Gina, Orientale, Ituri, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12354053",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1150954233",
+    "boundingbox": [
+      "11.59",
+      "11.61",
+      "37.69",
+      "37.71"
+    ],
+    "lat": "11.6",
+    "lon": "37.7",
+    "display_name": "Gina, South Gonder, \u12a0\u121b\u122b, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646121462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547103809",
+    "boundingbox": [
+      "-12.8645877",
+      "-12.8644877",
+      "132.5695878",
+      "132.5696878"
+    ],
+    "lat": "-12.8645377",
+    "lon": "132.5696378",
+    "display_name": "Red Lily, Northern Territory, Australia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "104693039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173297539",
+    "boundingbox": [
+      "-33.4499135",
+      "-33.449856",
+      "-70.7139027",
+      "-70.7129718"
+    ],
+    "lat": "-33.449856",
+    "lon": "-70.7129718",
+    "display_name": "Gina, Lo Prado, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9010290, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654363967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740344521",
+    "boundingbox": [
+      "25.935698",
+      "25.935798",
+      "-80.3174705",
+      "-80.3173705"
+    ],
+    "lat": "25.935748",
+    "lon": "-80.3174205",
+    "display_name": "gina, Northwest 179th Street, Miami Lakes, Country Club, Miami-Dade County, Florida, 33015, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48030341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3498946496",
+    "boundingbox": [
+      "47.3234836",
+      "47.3235836",
+      "5.0392436",
+      "5.0393436"
+    ],
+    "lat": "47.3235336",
+    "lon": "5.0392936",
+    "display_name": "Gina, 18, Rue Odebert, Faubourg Saint-Pierre, Centre-Ville, Dijon, C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9, 21000, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "87193824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104925777",
+    "boundingbox": [
+      "44.8615197",
+      "44.861666",
+      "13.8191359",
+      "13.8193518"
+    ],
+    "lat": "44.86159285",
+    "lon": "13.81924385",
+    "display_name": "Gina, 23, Stoja, Pula, Grad Pula, Istarska \u017eupanija, 52100, Hrvatska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2610580077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4510192957",
+    "boundingbox": [
+      "45.5424344",
+      "45.5425344",
+      "9.2323818",
+      "9.2324818"
+    ],
+    "lat": "45.5424844",
+    "lon": "9.2324318",
+    "display_name": "Gina, 78, Via Fratelli Picardi, Rondinella, Sesto San Giovanni, MI, LOM, 20099, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

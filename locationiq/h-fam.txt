@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "72439024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32493485",
+    "boundingbox": [
+      "52.1172599",
+      "52.1192086",
+      "11.5876989",
+      "11.5930251"
+    ],
+    "lat": "52.11794475",
+    "lon": "11.5898122984263",
+    "display_name": "FAM, Sudenburg, Magdeburg, Sachsen-Anhalt, 39112, Deutschland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "26062064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2496164326",
+    "boundingbox": [
+      "35.607748",
+      "35.607848",
+      "139.6473639",
+      "139.6474639"
+    ],
+    "lat": "35.607798",
+    "lon": "139.6474139",
+    "display_name": "fam, \u7528\u8cc0\u4e2d\u753a\u901a\u308a, \u8239\u6a4b, \u4e16\u7530\u8c37\u533a, \u6771\u4eac\u90fd, 158-0082, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "76784605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46114551",
+    "boundingbox": [
+      "51.1224661",
+      "51.1233864",
+      "4.4545757",
+      "4.4559239"
+    ],
+    "lat": "51.12290965",
+    "lon": "4.45526048087308",
+    "display_name": "Fam, 2, Neerveld, Blauwesteen, Kontich, Antwerpen, Vlaanderen, 2550, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49354626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3661806660",
+    "boundingbox": [
+      "47.3916037",
+      "47.3917037",
+      "8.0827071",
+      "8.0828071"
+    ],
+    "lat": "47.3916537",
+    "lon": "8.0827571",
+    "display_name": "FAM, 43, Lenzburgerstrasse, Buchs, Bezirk Aarau, Aargau, 5033, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "143232858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "354563185",
+    "boundingbox": [
+      "14.1696847",
+      "14.1697314",
+      "121.2445278",
+      "121.2445729"
+    ],
+    "lat": "14.1697063",
+    "lon": "121.24454990998",
+    "display_name": "Fam, Lopez Avenue, Batong Malake, Los Ba\u00f1os, Laguna, Calabarzon, 4031, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "115762089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "220270171",
+    "boundingbox": [
+      "42.6691684",
+      "42.6694798",
+      "0.650642",
+      "0.6509505"
+    ],
+    "lat": "42.6692897",
+    "lon": "0.650785519311147",
+    "display_name": "Refugio de la Renclusa, Camino de Antonio, Benasque, La Ribagorza, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "tourism",
+    "type": "alpine_hut",
+    "importance": 0.001
+  },
+  {
+    "place_id": "118803619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231866443",
+    "boundingbox": [
+      "42.6754381",
+      "42.6756187",
+      "0.4850986",
+      "0.4853221"
+    ],
+    "lat": "42.67554465",
+    "lon": "0.485218130581148",
+    "display_name": "Refugio de Estos, GR-11, Benasque, La Ribagorza, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "tourism",
+    "type": "alpine_hut",
+    "importance": 0.001
+  },
+  {
+    "place_id": "137259916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "320563817",
+    "boundingbox": [
+      "42.6273651",
+      "42.6275549",
+      "0.4572291",
+      "0.4576241"
+    ],
+    "lat": "42.6274595",
+    "lon": "0.457426600990064",
+    "display_name": "Refugio Angel Orus, Canal Fonda Nevero inferior, Sah\u00fan, La Ribagorza, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "tourism",
+    "type": "alpine_hut",
+    "importance": 0.001
+  },
+  {
+    "place_id": "137280111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "320664347",
+    "boundingbox": [
+      "42.8981414",
+      "42.8983365",
+      "-0.7997314",
+      "-0.7992885"
+    ],
+    "lat": "42.8982861",
+    "lon": "-0.799433360254372",
+    "display_name": "Refugio de Linza, Senda de Linza a Petrechema, Ans\u00f3, La Jacetania, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "tourism",
+    "type": "alpine_hut",
+    "importance": 0.001
+  },
+  {
+    "place_id": "105021507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174653581",
+    "boundingbox": [
+      "42.7798379",
+      "42.7801036",
+      "-0.2278506",
+      "-0.2274605"
+    ],
+    "lat": "42.7799584",
+    "lon": "-0.22765275443897",
+    "display_name": "Refugio de Bachima\u00f1a, GR 11 - nueva variante, Panticosa, Alto G\u00e1llego, Huesca, Arag\u00f3n, 22650, Espa\u00f1a",
+    "class": "amenity",
+    "type": "shelter",
+    "importance": 0.001
+  }
+]

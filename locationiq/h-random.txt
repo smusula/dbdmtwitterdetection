@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "17862825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1736272277",
+    "boundingbox": [
+      "52.3719302",
+      "52.4119302",
+      "-2.6028817",
+      "-2.5628817"
+    ],
+    "lat": "52.3919302",
+    "lon": "-2.5828817",
+    "display_name": "Random, Shropshire, West Midlands, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "106813543",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "181990632",
+    "boundingbox": [
+      "35.7121327",
+      "35.7122339",
+      "139.4494367",
+      "139.4496132"
+    ],
+    "lat": "35.71218335",
+    "lon": "139.449524954131",
+    "display_name": "RANDOM, \u53173, \u56fd\u5206\u5bfa\u5e02, \u6771\u4eac\u90fd, 1920022, \u65e5\u672c",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "61378702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11050239",
+    "boundingbox": [
+      "26.590581",
+      "26.590613",
+      "-81.5684879",
+      "-81.5663589"
+    ],
+    "lat": "26.590598",
+    "lon": "-81.5673419",
+    "display_name": "Random, Lehigh Acres, Lee County, Florida, 33974, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2608355427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4456611090",
+    "boundingbox": [
+      "40.4307287",
+      "40.4308287",
+      "-3.6946236",
+      "-3.6945236"
+    ],
+    "lat": "40.4307787",
+    "lon": "-3.6945736",
+    "display_name": "Random, 21, Calle de Caracas, Barrio Almagro, Chamber\u00ed, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28010, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "12883571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1199442669",
+    "boundingbox": [
+      "39.9026382",
+      "39.9027382",
+      "32.8599744",
+      "32.8600744"
+    ],
+    "lat": "39.9026882",
+    "lon": "32.8600244",
+    "display_name": "Random, Tunal\u0131 Hilmi Cad., Barbaros Mahallesi, Ankara, \u00c7ankaya, Ankara, \u0130\u00e7 Anadolu B\u00f6lgesi, 06540, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "49200427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3646626002",
+    "boundingbox": [
+      "53.4389196",
+      "53.4390196",
+      "-113.6434565",
+      "-113.6433565"
+    ],
+    "lat": "53.4389696",
+    "lon": "-113.6434065",
+    "display_name": "Random, Windermere Boulevard SW, Windermere, Edmonton, Alberta, Canada",
+    "class": "tourism",
+    "type": "camp_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610058078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4497188267",
+    "boundingbox": [
+      "47.190216",
+      "47.190316",
+      "18.4116248",
+      "18.4117248"
+    ],
+    "lat": "47.190266",
+    "lon": "18.4116748",
+    "display_name": "Random, Kossuth utca, \u0150sz utca, Sz\u00e9kesfeh\u00e9rv\u00e1r, Sz\u00e9kesfeh\u00e9rv\u00e1ri j\u00e1r\u00e1s, Fej\u00e9r megye, K\u00f6z\u00e9p-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 8000, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "119566524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234951467",
+    "boundingbox": [
+      "34.4230634",
+      "34.4235132",
+      "-119.7053335",
+      "-119.7048367"
+    ],
+    "lat": "34.4232395",
+    "lon": "-119.705136986383",
+    "display_name": "Random, 1207, State Street, Santa Barbara, Santa Barbara County, California, 93101, United States of America",
+    "class": "shop",
+    "type": "second_hand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24235400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2356865787",
+    "boundingbox": [
+      "34.65078",
+      "34.65088",
+      "135.578096",
+      "135.578196"
+    ],
+    "lat": "34.65083",
+    "lon": "135.578146",
+    "display_name": "Random, \u5927\u962a\u6771\u5927\u962a\u7dda, \u5cb8\u7530\u5802\u5317\u753a, \u6771\u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 5770809, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "19528754",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1923411304",
+    "boundingbox": [
+      "35.7121332",
+      "35.7122332",
+      "139.4494647",
+      "139.4495647"
+    ],
+    "lat": "35.7121832",
+    "lon": "139.4495147",
+    "display_name": "RANDOM, 2-15-35, \u6749\u4e26\u3042\u304d\u308b\u91ce\u7dda, \u6771\u604b\u30b1\u7aaa4, \u53173, \u56fd\u5206\u5bfa\u5e02, \u6771\u4eac\u90fd, 185-0005, \u65e5\u672c",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

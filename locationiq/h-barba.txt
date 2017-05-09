@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160643795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3284102",
+    "boundingbox": [
+      "48.0959305",
+      "48.1466047",
+      "6.6170566",
+      "6.7681445"
+    ],
+    "lat": "48.136712",
+    "lon": "6.6957695",
+    "display_name": "Le Barba, \u00c9pinal, Vosges, Grand-Est, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "121474282",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242976166",
+    "boundingbox": [
+      "48.1431391",
+      "48.1439078",
+      "6.6264016",
+      "6.6274742"
+    ],
+    "lat": "48.1435046",
+    "lon": "6.6268956",
+    "display_name": "Le Barba, Docelles, \u00c9pinal, Vosges, Grand-Est, 88460, France",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "116667487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "223848460",
+    "boundingbox": [
+      "48.1315511",
+      "48.1381315",
+      "6.6773028",
+      "6.7106137"
+    ],
+    "lat": "48.1367469",
+    "lon": "6.6944485",
+    "display_name": "Le Barba, Laveline-du-Houx, \u00c9pinal, Vosges, Grand-Est, 88640, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121469007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242973485",
+    "boundingbox": [
+      "48.1334678",
+      "48.1335892",
+      "6.676496",
+      "6.6773028"
+    ],
+    "lat": "48.1334678",
+    "lon": "6.6769489",
+    "display_name": "Le Barba, Faucompierre, \u00c9pinal, Vosges, Grand-Est, 88460, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121467524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242969081",
+    "boundingbox": [
+      "48.116247",
+      "48.1163063",
+      "6.7328674",
+      "6.7329078"
+    ],
+    "lat": "48.1163063",
+    "lon": "6.7329078",
+    "display_name": "Le Barba, Rehaupal, Saint-Di\u00e9-des-Vosges, Vosges, Grand-Est, 88640, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121462757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242969079",
+    "boundingbox": [
+      "48.1074305",
+      "48.1074463",
+      "6.7551433",
+      "6.7551795"
+    ],
+    "lat": "48.1074463",
+    "lon": "6.7551433",
+    "display_name": "Le Barba, Le Tholy, \u00c9pinal, Vosges, Grand-Est, 88530, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "29168588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2698696766",
+    "boundingbox": [
+      "38.0970158",
+      "38.1370158",
+      "14.8727934",
+      "14.9127934"
+    ],
+    "lat": "38.1170158",
+    "lon": "14.8927934",
+    "display_name": "Barba, ME, SIC, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19152663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1872468120",
+    "boundingbox": [
+      "43.8615802",
+      "43.9015802",
+      "10.9533511",
+      "10.9933511"
+    ],
+    "lat": "43.8815802",
+    "lon": "10.9733511",
+    "display_name": "Barba, PT, TOS, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "629677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "243044534",
+    "boundingbox": [
+      "52.587115",
+      "52.607115",
+      "31.366816",
+      "31.386816"
+    ],
+    "lat": "52.597115",
+    "lon": "31.376816",
+    "display_name": "\u0411\u043e\u0440\u044c\u0431\u0430, \u0412\u0435\u0442\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.33122765667354,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44576746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3178615417",
+    "boundingbox": [
+      "40.1065647",
+      "40.1066647",
+      "22.4246915",
+      "22.4247915"
+    ],
+    "lat": "40.1066147",
+    "lon": "22.4247415",
+    "display_name": "\u039c\u03c0\u03ac\u03c1\u03bc\u03c0\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0394\u03af\u03bf\u03c5 - \u039f\u03bb\u03cd\u03bc\u03c0\u03bf\u03c5, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u03a0\u03b9\u03b5\u03c1\u03af\u03b1\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "55012075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4258918391",
+    "boundingbox": [
+      "52.0259395",
+      "52.0260395",
+      "5.5546774",
+      "5.5547774"
+    ],
+    "lat": "52.0259895",
+    "lon": "5.5547274",
+    "display_name": "Tribute, Markt, Veenendaal, Utrecht, Nederland, 3901DM, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "52158598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3900209158",
+    "boundingbox": [
+      "24.5846343",
+      "24.5847343",
+      "73.6804517",
+      "73.6805517"
+    ],
+    "lat": "24.5846843",
+    "lon": "73.6805017",
+    "display_name": "Tribute, Amba Pol Road, Udaipur, Rajasthan, 313001, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "131284709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "292985071",
+    "boundingbox": [
+      "45.0362503",
+      "45.0563954",
+      "-84.6634391",
+      "-84.6405226"
+    ],
+    "lat": "45.0464998",
+    "lon": "-84.6542878964759",
+    "display_name": "The Tribute, Hayes Road, Otsego County, Michigan, 49735, United States of America",
+    "class": "leisure",
+    "type": "golf_course",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_golf.p.20.png"
+  }
+]

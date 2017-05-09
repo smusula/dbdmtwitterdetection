@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "76726229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "46892075",
+    "boundingbox": [
+      "47.7661308",
+      "47.7666898",
+      "11.3592508",
+      "11.3598707"
+    ],
+    "lat": "47.76641035",
+    "lon": "11.3595607701671",
+    "display_name": "BeYou, 56, Seeshaupter Stra\u00dfe, Steigenberg, Penzberg, Landkreis Weilheim-Schongau, OB, Bayern, 82377, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "119571148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234969983",
+    "boundingbox": [
+      "45.6777463",
+      "45.6783684",
+      "11.5467011",
+      "11.5476939"
+    ],
+    "lat": "45.6780342",
+    "lon": "11.5472211728108",
+    "display_name": "BeYou, Via Bruso, Montecchio Precalcino, VI, VEN, 36042, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "42763084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3105819836",
+    "boundingbox": [
+      "26.9328961",
+      "26.9329961",
+      "-105.6593173",
+      "-105.6592173"
+    ],
+    "lat": "26.9329461",
+    "lon": "-105.6592673",
+    "display_name": "Beyou, 29, Avenida Independencia, Hidalgo del Parral, Chihuahua, 33800, M\u00e9xico",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  }
+]

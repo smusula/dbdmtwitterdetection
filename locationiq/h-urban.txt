@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "456471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157580035",
+    "boundingbox": [
+      "40.6611958",
+      "40.7011958",
+      "-76.7916346",
+      "-76.7516346"
+    ],
+    "lat": "40.6811958",
+    "lon": "-76.7716346",
+    "display_name": "Urban, Northumberland County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "449179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154286211",
+    "boundingbox": [
+      "37.1373118",
+      "37.1773118",
+      "-83.8668675",
+      "-83.8268675"
+    ],
+    "lat": "37.1573118",
+    "lon": "-83.8468675",
+    "display_name": "Urban, Clay County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "341774",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150939429",
+    "boundingbox": [
+      "48.5978828",
+      "48.6378828",
+      "-122.712122",
+      "-122.672122"
+    ],
+    "lat": "48.6178828",
+    "lon": "-122.692122",
+    "display_name": "Urban, Skagit County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41178697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009759737",
+    "boundingbox": [
+      "51.5834033",
+      "51.6234033",
+      "18.0203901",
+      "18.0603901"
+    ],
+    "lat": "51.6034033",
+    "lon": "18.0403901",
+    "display_name": "Urban, gmina Sieroszewice, powiat ostrowski, wielkopolskie, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16023949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1468342642",
+    "boundingbox": [
+      "48.2025626",
+      "48.2225626",
+      "18.615158",
+      "18.635158"
+    ],
+    "lat": "48.2125626",
+    "lon": "18.625158",
+    "display_name": "Urban, Levice, okres Levice, Nitriansky kraj, Z\u00e1padn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28738421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2684783447",
+    "boundingbox": [
+      "48.5400697",
+      "48.5600697",
+      "18.5071241",
+      "18.5271241"
+    ],
+    "lat": "48.5500697",
+    "lon": "18.5171241",
+    "display_name": "Urban, Ve\u013ek\u00e9 Pole, okres \u017darnovica, Banskobystrick\u00fd kraj, Stredn\u00e9 Slovensko, Slovensko",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "148269985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "380855449",
+    "boundingbox": [
+      "-1.6403761",
+      "-1.6391673",
+      "29.2445097",
+      "29.245407"
+    ],
+    "lat": "-1.6399246",
+    "lon": "29.2450151748871",
+    "display_name": "urban, Buzove, Goma, Nord-Kivu, 000000, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.31
+  },
+  {
+    "place_id": "127894370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "274445307",
+    "boundingbox": [
+      "47.9618246",
+      "47.9645322",
+      "10.1838363",
+      "10.1870475"
+    ],
+    "lat": "47.9632862",
+    "lon": "10.1856202047018",
+    "display_name": "Urban, Dickenreishausen, Memmingen, Schwaben, Bayern, 87700, Deutschland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "124498219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255668937",
+    "boundingbox": [
+      "44.563618",
+      "44.5641725",
+      "27.374398",
+      "27.3753687"
+    ],
+    "lat": "44.5638018",
+    "lon": "27.3749302686772",
+    "display_name": "Urban, Slobozia, Ialomi\u021ba, 920073, Rom\u00e2nia",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "158546136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "437461087",
+    "boundingbox": [
+      "46.498649",
+      "46.5002478",
+      "11.1022479",
+      "11.1036054"
+    ],
+    "lat": "46.4996164",
+    "lon": "11.1029751862152",
+    "display_name": "Urban, Unsere Liebe Frau im Walde-St. Felix - Senale-San Felice, Burggrafenamt - Burgraviato, BZ, TAA, Italia",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  }
+]

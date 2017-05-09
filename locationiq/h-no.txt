@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160606044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2978650",
+    "boundingbox": [
+      "-54.6539999",
+      "81.028076",
+      "-9.6848145",
+      "34.6891253"
+    ],
+    "lat": "60.5000209",
+    "lon": "9.0999715",
+    "display_name": "Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.94327127610462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160441716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1552704",
+    "boundingbox": [
+      "45.2916099",
+      "45.8767896",
+      "8.3105682",
+      "8.8428962"
+    ],
+    "lat": "45.58425005",
+    "lon": "8.54599697089457",
+    "display_name": "NO, PIE, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55371650848701,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81660555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "75231375",
+    "boundingbox": [
+      "45.821003",
+      "45.8367011",
+      "24.272805",
+      "24.2894146"
+    ],
+    "lat": "45.828903",
+    "lon": "24.2812299844697",
+    "display_name": "Nou, Sibiu, Rom\u00e2nia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160387433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1217099",
+    "boundingbox": [
+      "43.3399274",
+      "43.3890233",
+      "1.2469868",
+      "1.293871"
+    ],
+    "lat": "43.3545352",
+    "lon": "1.2749497",
+    "display_name": "No\u00e9, Muret, Haute-Garonne, Occitanie, 31410, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53445767985789,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "109656087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194796228",
+    "boundingbox": [
+      "49.1774527",
+      "49.1776956",
+      "-0.3659087",
+      "-0.3656726"
+    ],
+    "lat": "49.1775372",
+    "lon": "-0.3658212",
+    "display_name": "La No\u00e9, Caen, Calvados, Normandie, 14000, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.52157296297667
+  },
+  {
+    "place_id": "160370717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070411",
+    "boundingbox": [
+      "37.3838359",
+      "37.733219",
+      "-95.5262299",
+      "-95.0871959"
+    ],
+    "lat": "37.5566345",
+    "lon": "-95.3316599",
+    "display_name": "Neosho County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46177828344292,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160579259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2868511",
+    "boundingbox": [
+      "49.1710138",
+      "49.1785654",
+      "-0.3668339",
+      "-0.364407"
+    ],
+    "lat": "49.1757974",
+    "lon": "-0.3649355",
+    "display_name": "La No\u00e9, Caen, Calvados, Normandie, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "1512914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "321446203",
+    "boundingbox": [
+      "16.44",
+      "21.56",
+      "27.44",
+      "32.56"
+    ],
+    "lat": "19",
+    "lon": "30",
+    "display_name": "\u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629 Northern State, Sudan \u0627\u0644\u0633\u0648\u062f\u0627\u0646",
+    "class": "place",
+    "type": "state",
+    "importance": 0.43498389370501,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160449255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1490835",
+    "boundingbox": [
+      "47.2483112",
+      "47.7619541",
+      "-75.3924996",
+      "-74.4510004"
+    ],
+    "lat": "47.5047898",
+    "lon": "-74.7655310437828",
+    "display_name": "Lac-Bazinet, MRC Antoine-Labelle, Qu\u00e9bec, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "87169246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "105028274",
+    "boundingbox": [
+      "47.5860938",
+      "47.6359525",
+      "-74.7003557",
+      "-74.6300353"
+    ],
+    "lat": "47.61069035",
+    "lon": "-74.6592871995809",
+    "display_name": "Lac-Wagwabika, Qu\u00e9bec, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

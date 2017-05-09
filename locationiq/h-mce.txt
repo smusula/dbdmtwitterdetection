@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "2646914279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "459973943",
+    "boundingbox": [
+      "-37.8104215",
+      "-37.8096628",
+      "144.9615648",
+      "144.9634015"
+    ],
+    "lat": "-37.81000265",
+    "lon": "144.962594397764",
+    "display_name": "Melbourne Central, La Trobe Street, Chinatown, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3000, Australia",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.24591738766298,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "122288575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246633823",
+    "boundingbox": [
+      "48.1043644",
+      "48.1048923",
+      "-1.6741976",
+      "-1.6737126"
+    ],
+    "lat": "48.1046185",
+    "lon": "-1.67395009941361",
+    "display_name": "MCE, 48, Boulevard Magenta, Colombier - Champ de Mars, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Bretagne, 35000, France",
+    "class": "amenity",
+    "type": "public_building",
+    "importance": 0.101
+  },
+  {
+    "place_id": "70696034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28164914",
+    "boundingbox": [
+      "48.104415",
+      "48.1047154",
+      "-1.6740182",
+      "-1.673717"
+    ],
+    "lat": "48.10457035",
+    "lon": "-1.6738080895734",
+    "display_name": "MCE, 48, Boulevard Magenta, Colombier - Champ de Mars, Centre, Quartiers Centre, Rennes, Ille-et-Vilaine, Bretagne, 35000, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "24346345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2373964711",
+    "boundingbox": [
+      "13.0223698",
+      "13.0224698",
+      "76.1043815",
+      "76.1044815"
+    ],
+    "lat": "13.0224198",
+    "lon": "76.1044315",
+    "display_name": "MCE Swimming Pool, Sri Vidyaganapathi Road, Saraswathipuram, Vidyuth Nagara, Dasarakoppalu, Hasana taluk, Hassan district, Karnataka, 573201, India",
+    "class": "amenity",
+    "type": "swimming_pool",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94962647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133434784",
+    "boundingbox": [
+      "59.4317357",
+      "59.4318964",
+      "17.7939109",
+      "17.7941654"
+    ],
+    "lat": "59.4318197",
+    "lon": "17.7940436386103",
+    "display_name": "MCE, 1, Snutenv\u00e4gen, Viksj\u00f6, G\u00f6rv\u00e4ln, J\u00e4rf\u00e4lla, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 17544, Sverige",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "96537134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140564541",
+    "boundingbox": [
+      "1.2730308",
+      "1.2737744",
+      "103.8490461",
+      "103.8519394"
+    ],
+    "lat": "1.2736756",
+    "lon": "103.8505229",
+    "display_name": "Marina Coastal Expressway, Chinatown, Shenton Way, Singapore, Central Singapore Community Development Council, 018962, Singapore",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.1
+  },
+  {
+    "place_id": "126600351",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265150828",
+    "boundingbox": [
+      "1.2708634",
+      "1.2773446",
+      "103.8607642",
+      "103.8700595"
+    ],
+    "lat": "1.2744297",
+    "lon": "103.8657711",
+    "display_name": "Marina Coastal Expressway, Marina South, Singapore, Central Singapore Community Development Council, Singapore",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.1
+  },
+  {
+    "place_id": "96714647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140564538",
+    "boundingbox": [
+      "1.2704064",
+      "1.2736969",
+      "103.8519394",
+      "103.8593998"
+    ],
+    "lat": "1.2715154",
+    "lon": "103.8557664",
+    "display_name": "Marina Coastal Expressway, Chinatown, Marina South, Singapore, Central Singapore Community Development Council, Singapore",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.1
+  },
+  {
+    "place_id": "94443795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131384443",
+    "boundingbox": [
+      "1.282883",
+      "1.2885654",
+      "103.8765355",
+      "103.8782055"
+    ],
+    "lat": "1.285881",
+    "lon": "103.8781925",
+    "display_name": "Marina Coastal Expressway, Tanjong Katong, South East Community Development Council, Singapore",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.1
+  },
+  {
+    "place_id": "90488762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "116796563",
+    "boundingbox": [
+      "1.2773446",
+      "1.2826853",
+      "103.8700595",
+      "103.8773146"
+    ],
+    "lat": "1.2821473",
+    "lon": "103.8766246",
+    "display_name": "Marina Coastal Expressway, South East Community Development Council, Singapore",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.1
+  }
+]

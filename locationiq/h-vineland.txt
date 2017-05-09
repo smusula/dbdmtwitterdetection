@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160285527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170410",
+    "boundingbox": [
+      "39.377715",
+      "39.5686048",
+      "-75.0871289",
+      "-74.8966259"
+    ],
+    "lat": "39.473152",
+    "lon": "-75.0020264495217",
+    "display_name": "Vineland, Cumberland County, New Jersey, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.52665513579505,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "449960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158261248",
+    "boundingbox": [
+      "39.4861745",
+      "39.4862745",
+      "-75.025774",
+      "-75.025674"
+    ],
+    "lat": "39.4862245",
+    "lon": "-75.025724",
+    "display_name": "Vineland, 2950, East Landis Avenue, Vineland, Cumberland County, New Jersey, 08360, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.52665513579505
+  },
+  {
+    "place_id": "160379547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1126304",
+    "boundingbox": [
+      "28.3913475",
+      "28.4022337",
+      "-81.5063576",
+      "-81.4953888"
+    ],
+    "lat": "28.39673155",
+    "lon": "-81.5027775090832",
+    "display_name": "Vineland, Orange County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "380122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153408168",
+    "boundingbox": [
+      "42.0414305",
+      "42.0814305",
+      "-86.490299",
+      "-86.450299"
+    ],
+    "lat": "42.0614305",
+    "lon": "-86.470299",
+    "display_name": "Vineland, Berrien County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "372126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151671559",
+    "boundingbox": [
+      "38.0753301",
+      "38.1153301",
+      "-90.6329053",
+      "-90.5929053"
+    ],
+    "lat": "38.0953301",
+    "lon": "-90.6129053",
+    "display_name": "Vineland, Jefferson County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "330866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150967710",
+    "boundingbox": [
+      "46.3771052",
+      "46.4171052",
+      "-117.0740467",
+      "-117.0340467"
+    ],
+    "lat": "46.3971052",
+    "lon": "-117.0540467",
+    "display_name": "Vineland, Asotin County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "406239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153675521",
+    "boundingbox": [
+      "32.0157048",
+      "32.0557048",
+      "-87.6794479",
+      "-87.6394479"
+    ],
+    "lat": "32.0357048",
+    "lon": "-87.6594479",
+    "display_name": "Vineland, Marengo County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3713907126481,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160274877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "137911",
+    "boundingbox": [
+      "46.156552",
+      "46.207906",
+      "-93.8032149",
+      "-93.7276729"
+    ],
+    "lat": "46.1635704",
+    "lon": "-93.7574723",
+    "display_name": "Vineland, Mille Lacs County, Minnesota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.34761685113657,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "16904113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1613626156",
+    "boundingbox": [
+      "43.1306843",
+      "43.1706843",
+      "-79.411479",
+      "-79.371479"
+    ],
+    "lat": "43.1506843",
+    "lon": "-79.391479",
+    "display_name": "Vineland, Regional Municipality of Niagara, Ontario, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.3187004523946,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "357239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151381403",
+    "boundingbox": [
+      "38.2255583",
+      "38.2655583",
+      "-104.4794146",
+      "-104.4394146"
+    ],
+    "lat": "38.2455583",
+    "lon": "-104.4594146",
+    "display_name": "Vineland, Pueblo County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.29764611922243,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

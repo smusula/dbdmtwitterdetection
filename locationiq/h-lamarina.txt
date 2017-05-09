@@ -1,0 +1,129 @@
+[
+  {
+    "place_id": "84338193",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "92006835",
+    "boundingbox": [
+      "40.5511623",
+      "40.5533893",
+      "17.7160735",
+      "17.716538"
+    ],
+    "lat": "40.5524395",
+    "lon": "17.7162707",
+    "display_name": "Via Anania Lamarina, Latiano, BR, PUG, 72022, Italia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "140113667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "334768956",
+    "boundingbox": [
+      "40.6464266",
+      "40.6474094",
+      "17.5147217",
+      "17.5148263"
+    ],
+    "lat": "40.6469168",
+    "lon": "17.5147668",
+    "display_name": "Via Orto Lamarina, Ceglie Messapica, BR, PUG, 72013, Italia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149135676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "384836939",
+    "boundingbox": [
+      "40.6471816",
+      "40.6472402",
+      "17.5148102",
+      "17.5155869"
+    ],
+    "lat": "40.6471979",
+    "lon": "17.5153423",
+    "display_name": "Vico I Orto Lamarina, Ceglie Messapica, BR, PUG, 72013, Italia",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "140971811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "337681233",
+    "boundingbox": [
+      "40.6441642",
+      "40.644443",
+      "17.5087179",
+      "17.5090484"
+    ],
+    "lat": "40.6443983",
+    "lon": "17.5090162",
+    "display_name": "Via Teresa Lamarina, Ceglie Messapica, BR, PUG, 72013, Italia",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "142366660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "347525006",
+    "boundingbox": [
+      "40.6461113",
+      "40.6463163",
+      "17.5172164",
+      "17.5174719"
+    ],
+    "lat": "40.64620075",
+    "lon": "17.5173541516176",
+    "display_name": "Palazzo Lamarina, Piazza Plebiscito, Ceglie Messapica, BR, PUG, 72013, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "142335770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "347525014",
+    "boundingbox": [
+      "40.6459745",
+      "40.646222",
+      "17.5176491",
+      "17.5180428"
+    ],
+    "lat": "40.64608325",
+    "lon": "17.5178537362778",
+    "display_name": "Palazzo Padolecchia (fu Lamarina), Via Ospedale Vecchio, Centro Storico, Ceglie Messapica, BR, PUG, 72013, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654511971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66334299",
+    "boundingbox": [
+      "44.5257777",
+      "44.5259723",
+      "6.3250815",
+      "6.3253332"
+    ],
+    "lat": "44.52587495",
+    "lon": "6.3252072480459",
+    "display_name": "L'Amarina (by Team Sorcier), N 94, Chorges, Gap, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, 05230, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

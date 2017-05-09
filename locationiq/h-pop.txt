@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "2646690112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4560240202",
+    "boundingbox": [
+      "51.1073742",
+      "51.1074742",
+      "15.05983",
+      "15.05993"
+    ],
+    "lat": "51.1074242",
+    "lon": "15.05988",
+    "display_name": "Pop, Studniska Dolne, gmina Sulik\u00f3w, powiat zgorzelecki, dolno\u015bl\u0105skie, Polska",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "863137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "274078179",
+    "boundingbox": [
+      "42.6296699",
+      "42.6297699",
+      "24.3335155",
+      "24.3336155"
+    ],
+    "lat": "42.6297199",
+    "lon": "24.3335655",
+    "display_name": "\u041f\u043e\u043f, \u041a\u043e\u043f\u0440\u0438\u0432\u0449\u0438\u0446\u0430, \u0421\u043e\u0444\u0438\u0439\u0441\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "51354198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3838486357",
+    "boundingbox": [
+      "43.1082412",
+      "43.1083412",
+      "23.5166088",
+      "23.5167088"
+    ],
+    "lat": "43.1082912",
+    "lon": "23.5166588",
+    "display_name": "\u041f\u043e\u043f, \u041c\u0435\u0437\u0434\u0440\u0430, \u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0440\u0430\u0446\u0430, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "49929854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3715250496",
+    "boundingbox": [
+      "53.9709597",
+      "53.9809597",
+      "-1.1534068",
+      "-1.1434068"
+    ],
+    "lat": "53.9759597",
+    "lon": "-1.1484068",
+    "display_name": "Poppleton, Station Road, Beckfield, Upper Poppleton, York, Yorkshire and the Humber, England, YO26 6QE, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.2901800738083,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "94548952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131740789",
+    "boundingbox": [
+      "40.856996",
+      "40.8919098",
+      "71.072227",
+      "71.1223168"
+    ],
+    "lat": "40.8743693",
+    "lon": "71.0970171",
+    "display_name": "Pop, Chust Tumani, Namangan Viloyati, O\u02bbzbekiston",
+    "class": "place",
+    "type": "town",
+    "importance": 0.27714730829695,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "128762905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279767440",
+    "boundingbox": [
+      "19.7505264",
+      "19.7644796",
+      "-70.5866055",
+      "-70.5527584"
+    ],
+    "lat": "19.7573955",
+    "lon": "-70.5694371312645",
+    "display_name": "Aeropuerto Internacional Gregorio Luper\u00f3n, Puerto Plata - Sos\u00faa, Villa Liberaci\u00f3n, Puerto Plata, Rep\u00fablica Dominicana",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.20748690992775,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "72831447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32675109",
+    "boundingbox": [
+      "52.8044941",
+      "52.8055373",
+      "-3.9031736",
+      "-3.9014116"
+    ],
+    "lat": "52.8053014",
+    "lon": "-3.9018408",
+    "display_name": "Pop, Ganllwyd, Gwynedd, Wales, UK",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "44207187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3129331335",
+    "boundingbox": [
+      "35.7117158",
+      "35.7118158",
+      "139.6271663",
+      "139.6272663"
+    ],
+    "lat": "35.7117658",
+    "lon": "139.6272163",
+    "display_name": "pop, \u65e9\u7a32\u7530\u901a\u308a, \u5584\u798f\u5bfa, \u6749\u4e26\u533a, \u6771\u4eac\u90fd, 1770041, \u65e5\u672c",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "45167684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3211239792",
+    "boundingbox": [
+      "60.4499879",
+      "60.4500879",
+      "22.2686869",
+      "22.2687869"
+    ],
+    "lat": "60.4500379",
+    "lon": "22.2687369",
+    "display_name": "Pop, Linnankatu, VI, Turku, Turun seutukunta, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etel\u00e4-Suomi, 20101, Suomi",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22043112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2169740223",
+    "boundingbox": [
+      "53.7975314",
+      "53.7976314",
+      "-1.5396848",
+      "-1.5395848"
+    ],
+    "lat": "53.7975814",
+    "lon": "-1.5396348",
+    "display_name": "Pop, Ludgate Hill, Lovell Park, Leeds, Yorkshire and the Humber, England, LS1 6DE, UK",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  }
+]

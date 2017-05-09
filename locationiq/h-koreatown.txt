@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "26577609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2511053877",
+    "boundingbox": [
+      "40.7475919",
+      "40.7476919",
+      "-73.9865656",
+      "-73.9864656"
+    ],
+    "lat": "40.7476419",
+    "lon": "-73.9865156",
+    "display_name": "Koreatown, Manhattan, New York County, NYC, New York, 10123, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.48036014761661
+  },
+  {
+    "place_id": "6119510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "622108347",
+    "boundingbox": [
+      "43.6643642",
+      "43.6644642",
+      "-79.4156411",
+      "-79.4155411"
+    ],
+    "lat": "43.6644142",
+    "lon": "-79.4155911",
+    "display_name": "Koreatown, Old Toronto, Toronto, Ontario, M6G3N1, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.4632579409261
+  },
+  {
+    "place_id": "2652347885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150968103",
+    "boundingbox": [
+      "34.0180134",
+      "34.0980134",
+      "-118.3408094",
+      "-118.2608094"
+    ],
+    "lat": "34.0580134",
+    "lon": "-118.3008094",
+    "display_name": "Koreatown, Los Angeles County, California, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "32079587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2759477967",
+    "boundingbox": [
+      "33.7539014",
+      "33.7939014",
+      "-117.9975387",
+      "-117.9575387"
+    ],
+    "lat": "33.7739014",
+    "lon": "-117.9775387",
+    "display_name": "Koreatown, Garden Grove, Orange County, California, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

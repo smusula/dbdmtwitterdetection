@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "48475388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3547781248",
+    "boundingbox": [
+      "42.0782486",
+      "42.1182486",
+      "2.8515254",
+      "2.8915254"
+    ],
+    "lat": "42.0982486",
+    "lon": "2.8715254",
+    "display_name": "Olives, Pla de l'Estany, Girona, CAT, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50456589",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3766706615",
+    "boundingbox": [
+      "42.6658028",
+      "42.7058028",
+      "-8.4059685",
+      "-8.3659685"
+    ],
+    "lat": "42.6858028",
+    "lon": "-8.3859685",
+    "display_name": "Olives, Pontevedra, Galicia, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "115606802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219721097",
+    "boundingbox": [
+      "-35.3568129",
+      "-35.3505127",
+      "-71.8257852",
+      "-71.8221524"
+    ],
+    "lat": "-35.3542859",
+    "lon": "-71.8241347796296",
+    "display_name": "Olives, Pencahue, Provincia de Talca, VII Regi\u00f3n del Maule, Chile",
+    "class": "landuse",
+    "type": "orchard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "101240573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160994387",
+    "boundingbox": [
+      "23.7449099",
+      "23.7452636",
+      "-99.1332328",
+      "-99.1284556"
+    ],
+    "lat": "23.7450694",
+    "lon": "-99.1305884",
+    "display_name": "Olives, Colonia La Gloria, Ciudad Victoria, Victoria, Tamaulipas, 87050, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "115463581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219229254",
+    "boundingbox": [
+      "35.1675086",
+      "35.1699161",
+      "-0.8948491",
+      "-0.8893776"
+    ],
+    "lat": "35.16887385",
+    "lon": "-0.89112508489151",
+    "display_name": "olives, RN 101, Sehala Thaoura, da\u00efra Tessala, Sidi Bel Abb\u00e8s - \u0633\u064a\u062f\u064a \u0628\u0644\u0639\u0628\u0627\u0633, RADP",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  },
+  {
+    "place_id": "46584565",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3320076057",
+    "boundingbox": [
+      "51.7526701",
+      "51.7527701",
+      "-1.2502054",
+      "-1.2501054"
+    ],
+    "lat": "51.7527201",
+    "lon": "-1.2501554",
+    "display_name": "Olives, Carrodus Quad, Grandpont, Oxford, Oxon, South East, England, OX1 4AP, UK",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18611316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1800676664",
+    "boundingbox": [
+      "39.1438187",
+      "39.1439187",
+      "-84.5212148",
+      "-84.5211148"
+    ],
+    "lat": "39.1438687",
+    "lon": "-84.5211648",
+    "display_name": "Olives at the Ludlow Garage, 342, Ludlow Avenue, Clifton Business District, Clifton, Cincinnati, Hamilton County, Ohio, 45220, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "55456072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4309138355",
+    "boundingbox": [
+      "-2.2573013",
+      "-2.2572013",
+      "-79.8773561",
+      "-79.8772561"
+    ],
+    "lat": "-2.2572513",
+    "lon": "-79.8773061",
+    "display_name": "Olives, 2 Transversal 12 SE, R\u00edo Guayas, Ximena, Guayaquil, Guayas, Ecuador",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2652987641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477380221",
+    "boundingbox": [
+      "25.729725",
+      "25.7297905",
+      "32.656634",
+      "32.6566989"
+    ],
+    "lat": "25.72975625",
+    "lon": "32.6566654862218",
+    "display_name": "Olives, Hilton Entrance, \u0627\u0644\u0623\u0642\u0635\u0631, \u0627\u0644\u0623\u0642\u0635\u0631 / Luxor, \u0645\u0635\u0631",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "147603579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377540696",
+    "boundingbox": [
+      "39.5854677",
+      "39.5861462",
+      "2.6871498",
+      "2.6881318"
+    ],
+    "lat": "39.58588155",
+    "lon": "2.68734305649329",
+    "display_name": "Olives, passeig de Marratx\u00ed, Son Gibert, Palma, Illes Balears, 07008, 124",
+    "class": "shop",
+    "type": "farm",
+    "importance": 0.101
+  }
+]

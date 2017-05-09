@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "85859711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99156854",
+    "boundingbox": [
+      "43.3866381",
+      "43.3946603",
+      "0.7610981",
+      "0.7791878"
+    ],
+    "lat": "43.3922713",
+    "lon": "0.770505",
+    "display_name": "Le Canon, Saint-Gaudens, Haute-Garonne, Occitanie, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "77565085",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50827016",
+    "boundingbox": [
+      "43.7249684",
+      "43.8061327",
+      "4.6072161",
+      "4.6311961"
+    ],
+    "lat": "43.7643348",
+    "lon": "4.6216482",
+    "display_name": "Le Canon, Beaucaire, Nimes, Gard, Occitanie, 30300, France",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2596172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "352910127",
+    "boundingbox": [
+      "-1.6666435",
+      "-1.6665435",
+      "-78.417919",
+      "-78.417819"
+    ],
+    "lat": "-1.6665935",
+    "lon": "-78.417869",
+    "display_name": "Canon, La Candelaria, Cant\u00f3n Penipe, Chimborazo, Ecuador",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "6754563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "695509406",
+    "boundingbox": [
+      "44.8211011",
+      "44.8611011",
+      "-0.5203995",
+      "-0.4803995"
+    ],
+    "lat": "44.8411011",
+    "lon": "-0.5003995",
+    "display_name": "Le Canon, Bordeaux, Gironde, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2609806381",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4491157335",
+    "boundingbox": [
+      "18.2393164",
+      "18.2793164",
+      "-73.9605191",
+      "-73.9205191"
+    ],
+    "lat": "18.2593164",
+    "lon": "-73.9405191",
+    "display_name": "Canon, Arrondissement des Cayes, D\u00e9partement du Sud, Ayiti",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17029622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1602655532",
+    "boundingbox": [
+      "44.8509798",
+      "44.8709798",
+      "-0.2415934",
+      "-0.2215934"
+    ],
+    "lat": "44.8609798",
+    "lon": "-0.2315934",
+    "display_name": "Canon, G\u00e9nissac, Libourne, Gironde, Nouvelle-Aquitaine, 33420, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46993126",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3401759490",
+    "boundingbox": [
+      "43.8151425",
+      "43.8351425",
+      "-0.5331413",
+      "-0.5131413"
+    ],
+    "lat": "43.8251425",
+    "lon": "-0.5231413",
+    "display_name": "Canon, Benquet, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40280, France",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "40442292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2971734785",
+    "boundingbox": [
+      "44.0646096",
+      "44.0647096",
+      "0.3487006",
+      "0.3488006"
+    ],
+    "lat": "44.0646596",
+    "lon": "0.3487506",
+    "display_name": "Canon, Moncrabeau, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47600, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160807238",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4759421",
+    "boundingbox": [
+      "-38.819717",
+      "-38.8154191",
+      "-68.0659429",
+      "-68.061088"
+    ],
+    "lat": "-38.81757685",
+    "lon": "-68.063365629092",
+    "display_name": "Ca\u00f1\u00f3n, Cinco Saltos, Departamento General Roca, RN, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "360917",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151427312",
+    "boundingbox": [
+      "37.0233452",
+      "37.0633452",
+      "-106.1658587",
+      "-106.1258587"
+    ],
+    "lat": "37.0433452",
+    "lon": "-106.1458587",
+    "display_name": "Ca\u00f1on, Conejos County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160280124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "148838",
+    "boundingbox": [
+      "-14.7608357",
+      "71.6048217",
+      "-179.9999999",
+      "180"
+    ],
+    "lat": "39.7837304",
+    "lon": "-100.4458824",
+    "display_name": "United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.944692348398,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160516834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2108121",
+    "boundingbox": [
+      "0.853821",
+      "7.5111989",
+      "98.9372144",
+      "119.4390876"
+    ],
+    "lat": "4.5693754",
+    "lon": "102.2656823",
+    "display_name": "Malaysia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78641148999304,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160306402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307829",
+    "boundingbox": [
+      "17.9099291",
+      "20.2181368",
+      "-74.6575356",
+      "-71.6221296"
+    ],
+    "lat": "19.1399952",
+    "lon": "-72.3570971",
+    "display_name": "Ayiti",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.70277779683166,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "644725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244081179",
+    "boundingbox": [
+      "33.490278",
+      "34.770278",
+      "107.195",
+      "108.475"
+    ],
+    "lat": "34.130278",
+    "lon": "107.835",
+    "display_name": "\u7709\u53bf, \u5b9d\u9e21\u5e02 / Baoji, \u4e2d\u56fd",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "52002951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3911541390",
+    "boundingbox": [
+      "47.4410615",
+      "47.4810615",
+      "-2.0428672",
+      "-2.0028672"
+    ],
+    "lat": "47.4610615",
+    "lon": "-2.0228672",
+    "display_name": "My, Saint-Nazaire, Loire-Atlantique, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "743539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "258591812",
+    "boundingbox": [
+      "50.38526",
+      "50.42526",
+      "5.5526031",
+      "5.5926031"
+    ],
+    "lat": "50.40526",
+    "lon": "5.5726031",
+    "display_name": "My, Huy, Li\u00e8ge, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160652583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3315051",
+    "boundingbox": [
+      "4.3551568",
+      "5.1424426",
+      "-8.0877137",
+      "-7.5295947"
+    ],
+    "lat": "4.7478527",
+    "lon": "-7.68236210809866",
+    "display_name": "Maryland County, Liberia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.34857837983063,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2648265164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464104956",
+    "boundingbox": [
+      "52.5891181",
+      "52.7619678",
+      "140.5143006",
+      "141.2605632"
+    ],
+    "lat": "52.631608",
+    "lon": "140.8794927",
+    "display_name": "\u041c\u044b, \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "17321598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1645284663",
+    "boundingbox": [
+      "12.980345",
+      "13.020345",
+      "109.2261089",
+      "109.2661089"
+    ],
+    "lat": "13.000345",
+    "lon": "109.2461089",
+    "display_name": "M\u1ef9 L\u1ec7, T\u00e2y H\u00f2a, T\u1ec9nh Ph\u00fa Y\u00ean, Vi\u1ec7t Nam",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98754083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150796204",
+    "boundingbox": [
+      "56.2369812",
+      "56.2371674",
+      "10.0937537",
+      "10.0939369"
+    ],
+    "lat": "56.2369812",
+    "lon": "10.093792",
+    "display_name": "My, Favrskov Kommune, Region Midtjylland, 8382, Danmark",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

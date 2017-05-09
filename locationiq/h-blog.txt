@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "2653048825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477585656",
+    "boundingbox": [
+      "-34.6336532",
+      "-34.6335169",
+      "-58.4799196",
+      "-58.4797961"
+    ],
+    "lat": "-34.6335851",
+    "lon": "-58.4798578432074",
+    "display_name": "Blog, Avenida Rivadavia, Floresta, CABA, Comuna 10, CABA, C1407DYE, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650873856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "471285038",
+    "boundingbox": [
+      "-34.6177212",
+      "-34.6175326",
+      "-58.5026279",
+      "-58.5023639"
+    ],
+    "lat": "-34.617626",
+    "lon": "-58.5024926377122",
+    "display_name": "Blog, Avenida Segurola, Monte Castro, CABA, Comuna 10, CABA, C1407GPO, Argentina",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

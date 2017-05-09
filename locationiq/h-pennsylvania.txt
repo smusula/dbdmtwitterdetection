@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "160283905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "162109",
+    "boundingbox": [
+      "39.7197662",
+      "42.5146891",
+      "-80.5210832",
+      "-74.6895019"
+    ],
+    "lat": "40.9699889",
+    "lon": "-77.727883",
+    "display_name": "Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.88569624202177,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "400526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153763206",
+    "boundingbox": [
+      "30.8513577",
+      "30.8913577",
+      "-88.0682705",
+      "-88.0282705"
+    ],
+    "lat": "30.8713577",
+    "lon": "-88.0482705",
+    "display_name": "Pennsylvania, Mobile County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "105049795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174576486",
+    "boundingbox": [
+      "32.3109778",
+      "32.3122937",
+      "-106.7886703",
+      "-106.7867713"
+    ],
+    "lat": "32.3116471",
+    "lon": "-106.787335826881",
+    "display_name": "Pennsylvania, Las Cruces, Do\u00f1a Ana County, New Mexico, 88005, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "682321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "250426764",
+    "boundingbox": [
+      "50.7207652",
+      "50.7607652",
+      "-3.5418653",
+      "-3.5018653"
+    ],
+    "lat": "50.7407652",
+    "lon": "-3.5218653",
+    "display_name": "Pennsylvania, Exeter, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.22027225158296,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "69203695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24762204",
+    "boundingbox": [
+      "51.5148215",
+      "51.5150014",
+      "-3.1552209",
+      "-3.1549829"
+    ],
+    "lat": "51.5149406",
+    "lon": "-3.1551332",
+    "display_name": "Pennsylvania, Pentwyn, Cardiff, Wales, CF, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64980043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17282594",
+    "boundingbox": [
+      "38.283501",
+      "38.2896399",
+      "-85.7460136",
+      "-85.7437899"
+    ],
+    "lat": "38.286526",
+    "lon": "-85.7449109",
+    "display_name": "Pennsylvania, Jeffersonville, Clark County, Indiana, 47130, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75884826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43415891",
+    "boundingbox": [
+      "42.4739973",
+      "42.474299",
+      "-83.4711121",
+      "-83.4705472"
+    ],
+    "lat": "42.474299",
+    "lon": "-83.4705472",
+    "display_name": "Pennsylvania, Novi, Oakland County, Michigan, 48375, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "135401313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311935471",
+    "boundingbox": [
+      "42.4766561",
+      "42.4768052",
+      "-83.4701254",
+      "-83.4700001"
+    ],
+    "lat": "42.4766561",
+    "lon": "-83.4701254",
+    "display_name": "Pennsylvania, Novi, Oakland County, Michigan, 48377, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61424156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11174746",
+    "boundingbox": [
+      "27.2056213",
+      "27.2071171",
+      "-80.828585",
+      "-80.8285765"
+    ],
+    "lat": "27.2071171",
+    "lon": "-80.828585",
+    "display_name": "Pennsylvania, Taylor Creek, Okeechobee County, Florida, 34974, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65382980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17244267",
+    "boundingbox": [
+      "38.7849691",
+      "38.7855533",
+      "-75.1498115",
+      "-75.1494818"
+    ],
+    "lat": "38.7855533",
+    "lon": "-75.1494818",
+    "display_name": "Pennsylvania, Lewes, Sussex County, Delaware, 19958, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

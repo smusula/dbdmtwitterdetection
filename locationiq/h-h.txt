@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160255590",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62650",
+    "boundingbox": [
+      "49.3952611",
+      "51.657817",
+      "7.7724063",
+      "10.2364858"
+    ],
+    "lat": "50.6118537",
+    "lon": "9.1909725",
+    "display_name": "Hessen, Deutschland, Europe",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.7894576630047,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160326223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "396197",
+    "boundingbox": [
+      "-21.5084018",
+      "-18.3487979",
+      "-65.6956758",
+      "-62.1934318"
+    ],
+    "lat": "-19.9999999",
+    "lon": "-64.4166669",
+    "display_name": "CHQ, Bolivia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52144714246806,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160256092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "54417",
+    "boundingbox": [
+      "55.9133182",
+      "58.1424216",
+      "15.3373574",
+      "17.5206911"
+    ],
+    "lat": "57.02790085",
+    "lon": "16.5751476711859",
+    "display_name": "Kalmar l\u00e4n, G\u00f6taland, Sverige",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48363000698349,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160281623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153554",
+    "boundingbox": [
+      "-28.0836018",
+      "-24.0792508",
+      "-63.4222976",
+      "-58.3775588"
+    ],
+    "lat": "-26.3829646",
+    "lon": "-60.8816091",
+    "display_name": "CCO, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46314544316019,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160619780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3221947",
+    "boundingbox": [
+      "9.9593118",
+      "10.7924623",
+      "-84.2000344",
+      "-83.7115907"
+    ],
+    "lat": "10.3768307",
+    "lon": "-84.0683909",
+    "display_name": "Provincia Heredia, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44434558847462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160301998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "272662",
+    "boundingbox": [
+      "8.533",
+      "10.085031",
+      "-68.9873025",
+      "-67.7520379"
+    ],
+    "lat": "9.333333",
+    "lon": "-68.3333329",
+    "display_name": "Cojedes, Venezuela",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43083416919723,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "131848526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295783196",
+    "boundingbox": [
+      "61.6705704",
+      "61.6748569",
+      "45.0881782",
+      "45.0890382"
+    ],
+    "lat": "61.6730449",
+    "lon": "45.0881782",
+    "display_name": "H, \u0421\u0438\u043d\u0438\u0446\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u0423\u0441\u0442\u044c\u044f\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "135800255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313965078",
+    "boundingbox": [
+      "61.724086",
+      "61.7275546",
+      "45.2068086",
+      "45.2128659"
+    ],
+    "lat": "61.7270919",
+    "lon": "45.2093125",
+    "display_name": "H, \u0427\u0435\u0440\u0435\u0432\u043a\u043e\u0432\u0441\u043a\u043e\u0435 \u0441\u0435\u043b\u044c\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435, \u041a\u0440\u0430\u0441\u043d\u043e\u0431\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u0440\u0445\u0430\u043d\u0433\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160396607",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1252928",
+    "boundingbox": [
+      "-30.1697399",
+      "-29.7094594",
+      "28.2256482",
+      "29.1696599"
+    ],
+    "lat": "-29.9656501",
+    "lon": "28.7380611",
+    "display_name": "Qacha's Nek District, Lesotho",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3870721613232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1451264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "320622472",
+    "boundingbox": [
+      "36.4401351",
+      "36.4801351",
+      "-5.0644142",
+      "-5.0244142"
+    ],
+    "lat": "36.4601351",
+    "lon": "-5.0444142",
+    "display_name": "h, M\u00e1laga, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.385,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160303487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "279141",
+    "boundingbox": [
+      "49.2409462",
+      "49.2696706",
+      "-0.4757777",
+      "-0.4150209"
+    ],
+    "lat": "49.2578465",
+    "lon": "-0.4547544",
+    "display_name": "Thaon, Caen, Calvados, Normandie, 14610, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56651431622502,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "629256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244076933",
+    "boundingbox": [
+      "44.9973688",
+      "46.2773688",
+      "127.0628287",
+      "128.3428287"
+    ],
+    "lat": "45.6373688",
+    "lon": "127.7028287",
+    "display_name": "\u5bbe\u53bf, \u54c8\u5c14\u6ee8\u5e02 / Harbin, \u9ed1\u9f99\u6c5f\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "620956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244082434",
+    "boundingbox": [
+      "30.997778",
+      "32.277778",
+      "114.183333",
+      "115.463333"
+    ],
+    "lat": "31.637778",
+    "lon": "114.823333",
+    "display_name": "\u65b0\u53bf, \u4fe1\u9633\u5e02 / Xinyang, \u6cb3\u5357\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "county",
+    "importance": 0.40251317578818,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11820247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1133570921",
+    "boundingbox": [
+      "39.5399874",
+      "39.5799874",
+      "39.0230202",
+      "39.0630202"
+    ],
+    "lat": "39.5599874",
+    "lon": "39.0430202",
+    "display_name": "Tan, Kemah, Erzincan, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25530268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2461017415",
+    "boundingbox": [
+      "6.045295",
+      "6.085295",
+      "10.669364",
+      "10.709364"
+    ],
+    "lat": "6.065295",
+    "lon": "10.689364",
+    "display_name": "Tan, Bui, NW, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22226376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2191423928",
+    "boundingbox": [
+      "14.1905246",
+      "14.2305246",
+      "-4.0231919",
+      "-3.9831919"
+    ],
+    "lat": "14.2105246",
+    "lon": "-4.0031919",
+    "display_name": "Tan, Cercle de Bandiagara, Mopti, Mali",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41858879",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3056955955",
+    "boundingbox": [
+      "5.86892",
+      "5.90892",
+      "-9.8602899",
+      "-9.8202899"
+    ],
+    "lat": "5.88892",
+    "lon": "-9.8402899",
+    "display_name": "Tan, Neekreen, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38292688",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2888622149",
+    "boundingbox": [
+      "37.314277",
+      "37.314377",
+      "37.0936674",
+      "37.0937674"
+    ],
+    "lat": "37.314327",
+    "lon": "37.0937174",
+    "display_name": "Tan, Osmandede, Pazarc\u0131k, Kahramanmara\u015f, Akdeniz B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "151483568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398743841",
+    "boundingbox": [
+      "58.2951497",
+      "58.2991688",
+      "11.3258725",
+      "11.333004"
+    ],
+    "lat": "58.297165",
+    "lon": "11.3295415536194",
+    "display_name": "T\u00e5n, Lysekil, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, Sverige",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "96076488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138188242",
+    "boundingbox": [
+      "50.1413784",
+      "50.2282129",
+      "133.9918351",
+      "134.124701"
+    ],
+    "lat": "50.1549911",
+    "lon": "134.044621",
+    "display_name": "\u0422\u0430\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

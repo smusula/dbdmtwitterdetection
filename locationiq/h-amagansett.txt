@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "160287230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175685",
+    "boundingbox": [
+      "40.9551399",
+      "41.007444",
+      "-72.1627459",
+      "-72.1017974"
+    ],
+    "lat": "40.98134715",
+    "lon": "-72.1331268288885",
+    "display_name": "Amagansett, Suffolk County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46561345354774,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "499517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158853925",
+    "boundingbox": [
+      "40.9536557",
+      "40.9936557",
+      "-72.1637715",
+      "-72.1237715"
+    ],
+    "lat": "40.9736557",
+    "lon": "-72.1437715",
+    "display_name": "Amagansett, Suffolk County, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651584153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472760416",
+    "boundingbox": [
+      "40.9799545",
+      "40.9799833",
+      "-72.1326455",
+      "-72.132569"
+    ],
+    "lat": "40.97996885",
+    "lon": "-72.132607250347",
+    "display_name": "Amagansett, Main Street, Amagansett, Suffolk County, New York, 11930, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

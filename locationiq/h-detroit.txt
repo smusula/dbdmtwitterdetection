@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160273035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "134591",
+    "boundingbox": [
+      "42.255192",
+      "42.450232",
+      "-83.2879589",
+      "-82.9104229"
+    ],
+    "lat": "42.3486635",
+    "lon": "-83.0567374",
+    "display_name": "Detroit, Wayne County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.78121835697037,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160290199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "183940",
+    "boundingbox": [
+      "48.8571705",
+      "48.8883322",
+      "-0.3667162",
+      "-0.3246142"
+    ],
+    "lat": "48.8668453",
+    "lon": "-0.3494524",
+    "display_name": "Le D\u00e9troit, Caen, Calvados, Normandie, 14690, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48525587165245,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160291966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "186606",
+    "boundingbox": [
+      "44.727515",
+      "44.742187",
+      "-122.1627339",
+      "-122.1363929"
+    ],
+    "lat": "44.7340108",
+    "lon": "-122.1497981",
+    "display_name": "Detroit, Marion County, Oregon, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40425174579944,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160269466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127012",
+    "boundingbox": [
+      "39.616535",
+      "39.62377",
+      "-90.6807159",
+      "-90.6712559"
+    ],
+    "lat": "39.6205965",
+    "lon": "-90.6767319",
+    "display_name": "Detroit, Pike County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "365495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151501760",
+    "boundingbox": [
+      "38.9149995",
+      "38.9549995",
+      "-97.1408506",
+      "-97.1008506"
+    ],
+    "lat": "38.9349995",
+    "lon": "-97.1208506",
+    "display_name": "Detroit, Dickinson County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153689505",
+    "boundingbox": [
+      "35.5689694",
+      "35.6089694",
+      "-89.8336938",
+      "-89.7936938"
+    ],
+    "lat": "35.5889694",
+    "lon": "-89.8136938",
+    "display_name": "Detroit, Tipton County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "495233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158858861",
+    "boundingbox": [
+      "44.773044",
+      "44.813044",
+      "-69.3169509",
+      "-69.2769509"
+    ],
+    "lat": "44.793044",
+    "lon": "-69.2969509",
+    "display_name": "Detroit, Somerset County, Maine, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72712524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33173945",
+    "boundingbox": [
+      "33.6445652",
+      "33.672943",
+      "-95.2872129",
+      "-95.2511779"
+    ],
+    "lat": "33.6614698",
+    "lon": "-95.2666906",
+    "display_name": "Detroit, Red River County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33470384519613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "72666378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33030896",
+    "boundingbox": [
+      "34.020475",
+      "34.038462",
+      "-88.1842089",
+      "-88.1548029"
+    ],
+    "lat": "34.0281608",
+    "lon": "-88.1700367",
+    "display_name": "Detroit, Lamar County, Alabama, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "13551460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243722863",
+    "boundingbox": [
+      "46.7088581",
+      "46.7288581",
+      "-1.2580027",
+      "-1.2380027"
+    ],
+    "lat": "46.7188581",
+    "lon": "-1.2480027",
+    "display_name": "Le D\u00e9troit, Saint-Martin-des-Noyers, La Roche-sur-Yon, Vend\u00e9e, Pays de la Loire, 85140, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

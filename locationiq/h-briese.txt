@@ -1,0 +1,148 @@
+[
+  {
+    "place_id": "70628146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28075133",
+    "boundingbox": [
+      "52.7423626",
+      "52.7436486",
+      "13.3937493",
+      "13.3968376"
+    ],
+    "lat": "52.742472",
+    "lon": "13.395092",
+    "display_name": "Briese, Oranienburg, Landkreis Oberhavel, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "149887918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "389091208",
+    "boundingbox": [
+      "50.9620273",
+      "50.9665552",
+      "13.8177311",
+      "13.8291436"
+    ],
+    "lat": "50.9639368",
+    "lon": "13.8245956",
+    "display_name": "Briese, Dohna, Dohna-M\u00fcglitztal, Landkreis S\u00e4chsische Schweiz-Osterzgebirge, Sachsen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "144873207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365092328",
+    "boundingbox": [
+      "52.7488308",
+      "52.7504414",
+      "13.424945",
+      "13.4352319"
+    ],
+    "lat": "52.7491254",
+    "lon": "13.4307136",
+    "display_name": "Briese, Wandlitz, Landkreis Barnim, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "86280628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101175920",
+    "boundingbox": [
+      "52.6880686",
+      "52.688079",
+      "13.2539385",
+      "13.2541522"
+    ],
+    "lat": "52.688079",
+    "lon": "13.2541522",
+    "display_name": "Briese, Birkenwerder, Landkreis Oberhavel, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2652512006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475863524",
+    "boundingbox": [
+      "52.7416666",
+      "52.7423539",
+      "13.3901059",
+      "13.3936426"
+    ],
+    "lat": "52.7420563",
+    "lon": "13.39153",
+    "display_name": "Briese, M\u00fchlenbecker Land, Landkreis Oberhavel, Brandenburg, Deutschland",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "119032070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232701541",
+    "boundingbox": [
+      "45.9376622",
+      "45.9400218",
+      "5.7128755",
+      "5.7139752"
+    ],
+    "lat": "45.9387063",
+    "lon": "5.7138736",
+    "display_name": "La Brise, Belley, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2654489617",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "693590673",
+    "boundingbox": [
+      "46.2265265",
+      "46.2665265",
+      "14.6229554",
+      "14.6629554"
+    ],
+    "lat": "46.2465265",
+    "lon": "14.6429554",
+    "display_name": "Bri\u0161e, Upravna Enota Kamnik, Osrednjeslovenska, Slovenija",
+    "class": "place",
+    "type": "village",
+    "importance": 0.31490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4498335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "492056858",
+    "boundingbox": [
+      "46.1326406",
+      "46.1726406",
+      "14.8744676",
+      "14.9144676"
+    ],
+    "lat": "46.1526406",
+    "lon": "14.8944676",
+    "display_name": "Bri\u0161e, Zasavska, 1411, Slovenija",
+    "class": "place",
+    "type": "village",
+    "importance": 0.29330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

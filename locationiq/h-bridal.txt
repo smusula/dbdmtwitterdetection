@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2651662675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4676867617",
+    "boundingbox": [
+      "-34.6044022",
+      "-34.6043022",
+      "-58.3954391",
+      "-58.3953391"
+    ],
+    "lat": "-34.6043522",
+    "lon": "-58.3953891",
+    "display_name": "Bridal, Avenida Corrientes, Once, Balvanera, CABA, Comuna 3, CABA, C1045AAO, Argentina",
+    "class": "shop",
+    "type": "wedding",
+    "importance": 0.101
+  },
+  {
+    "place_id": "156546698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426908332",
+    "boundingbox": [
+      "54.665309",
+      "54.6654208",
+      "-2.7538284",
+      "-2.7536003"
+    ],
+    "lat": "54.6653594",
+    "lon": "-2.7537278380615",
+    "display_name": "? Bridal, Middlegate, Penrith Town Centre, Penrith, Cumbria, North West England, England, CA11 7UR, UK",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51971422",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3889756851",
+    "boundingbox": [
+      "54.3435748",
+      "54.3436748",
+      "-1.4384596",
+      "-1.4383596"
+    ],
+    "lat": "54.3436248",
+    "lon": "-1.4384096",
+    "display_name": "Bridal, Anchorage Lane, Romanby, Hambleton, North Yorkshire, Yorkshire and the Humber, England, DL7 8DX, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

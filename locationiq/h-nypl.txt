@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": "28048400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2622767704",
+    "boundingbox": [
+      "40.7157249",
+      "40.7158249",
+      "-74.0157453",
+      "-74.0156453"
+    ],
+    "lat": "40.7157749",
+    "lon": "-74.0156953",
+    "display_name": "NYPL : Battery Park City Library, 175, North End Avenue, Battery Park City, Manhattan, New York County, NYC, New York, 10282, United States of America",
+    "class": "amenity",
+    "type": "library",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_library.p.20.png"
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "145196376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366889703",
+    "boundingbox": [
+      "50.079993",
+      "50.0887322",
+      "-123.0569329",
+      "-123.0401043"
+    ],
+    "lat": "50.0848626",
+    "lon": "-123.0486322",
+    "display_name": "Trainwreck Trail, Sproatt, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "110298776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "197622001",
+    "boundingbox": [
+      "50.074944",
+      "50.0787003",
+      "-123.0814463",
+      "-123.0770963"
+    ],
+    "lat": "50.0765416",
+    "lon": "-123.0789349",
+    "display_name": "Trainwreck Extension, Whistler Olympic Village, Whistler Resort Municipality, Squamish-Lillooet Regional District, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "2647360248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "462022979",
+    "boundingbox": [
+      "26.2642704",
+      "26.2655697",
+      "81.5048479",
+      "81.5097931"
+    ],
+    "lat": "26.2643844",
+    "lon": "81.5077545",
+    "display_name": "Streets, Jais, R\u0101e Bareli, Rae Bareilly, Uttar Pradesh, 229305, India",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "83850193",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "90301289",
+    "boundingbox": [
+      "9.382832",
+      "9.383651",
+      "13.4985842",
+      "13.5148388"
+    ],
+    "lat": "9.3830754",
+    "lon": "13.5073174",
+    "display_name": "Streets, Pitoa, B\u00e9nou\u00e9, NO, Cameroun",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84591131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93713316",
+    "boundingbox": [
+      "5.9454061",
+      "5.9489208",
+      "10.4206593",
+      "10.4220263"
+    ],
+    "lat": "5.9473817",
+    "lon": "10.4212865",
+    "display_name": "Streets, Ndop, Ngoketunjia, NW, Cameroun",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2609644074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4486515206",
+    "boundingbox": [
+      "32.0850105",
+      "32.0851105",
+      "34.7818681",
+      "34.7819681"
+    ],
+    "lat": "32.0850605",
+    "lon": "34.7819181",
+    "display_name": "The Streets, \u05e9\u05d1\u05d9\u05dc \u05d0\u05d1\u05df \u05d2\u05d1\u05d9\u05e8\u05d5\u05dc, \u05de\u05d5\u05e0\u05d8\u05d9\u05e4\u05d9\u05d5\u05e8\u05d9, \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5, \u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, 64733, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17153630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1643304613",
+    "boundingbox": [
+      "32.0760565",
+      "32.0761565",
+      "34.7768821",
+      "34.7769821"
+    ],
+    "lat": "32.0761065",
+    "lon": "34.7769321",
+    "display_name": "The Streets, \u05e9\u05d3\u05e8\u05d5\u05ea \u05d4\u05e0\u05d1\u05d9\u05d0\u05d9\u05dd, \u05de\u05d5\u05e0\u05d8\u05d9\u05e4\u05d9\u05d5\u05e8\u05d9, \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5, \u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, 64284, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "17252448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1641861506",
+    "boundingbox": [
+      "39.4342045",
+      "39.4343045",
+      "-8.9788172",
+      "-8.9787172"
+    ],
+    "lat": "39.4342545",
+    "lon": "-8.9787672",
+    "display_name": "Streets, Rua Rei da Mem\u00f3ria, Turquel, Alcoba\u00e7a, Leiria, Oeste, Centro, Portugal",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

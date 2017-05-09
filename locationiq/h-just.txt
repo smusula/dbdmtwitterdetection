@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "11506345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1096163204",
+    "boundingbox": [
+      "49.7243708",
+      "49.7244708",
+      "20.640828",
+      "20.640928"
+    ],
+    "lat": "49.7244208",
+    "lon": "20.640878",
+    "display_name": "Just, \u015awidnik, gmina \u0141ososina Dolna, powiat nowos\u0105decki, ma\u0142opolskie, Polska",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "41028492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009710617",
+    "boundingbox": [
+      "49.7055556",
+      "49.7455556",
+      "20.6247222",
+      "20.6647222"
+    ],
+    "lat": "49.7255556",
+    "lon": "20.6447222",
+    "display_name": "Just, gmina \u0141ososina Dolna, powiat nowos\u0105decki, ma\u0142opolskie, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160629378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3355571",
+    "boundingbox": [
+      "53.6645146",
+      "53.6887509",
+      "6.8589188",
+      "7.1050957"
+    ],
+    "lat": "53.67668",
+    "lon": "6.98237213815791",
+    "display_name": "Juist, Landkreis Aurich, Niedersachsen, Deutschland",
+    "class": "place",
+    "type": "island",
+    "importance": 0.325
+  },
+  {
+    "place_id": "38101095",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2877849670",
+    "boundingbox": [
+      "45.1017212",
+      "45.1018212",
+      "4.6699115",
+      "4.6700115"
+    ],
+    "lat": "45.1017712",
+    "lon": "4.6699615",
+    "display_name": "Just, Bessonnet, Saint-Victor, Tournon-sur-Rh\u00f4ne, Ard\u00e8che, Auvergne-Rh\u00f4ne-Alpes, 07410, France",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "74370174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38257996",
+    "boundingbox": [
+      "-33.7752429",
+      "-33.7745676",
+      "18.9597066",
+      "18.9606865"
+    ],
+    "lat": "-33.7752429",
+    "lon": "18.9606865",
+    "display_name": "Just, Drakenstein Ward 15, Drakenstein Local Municipality, Cape Winelands District Municipality, Western Cape, 7646, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "23969649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2353576087",
+    "boundingbox": [
+      "45.4821975",
+      "45.4822975",
+      "9.1874927",
+      "9.1875927"
+    ],
+    "lat": "45.4822475",
+    "lon": "9.1875427",
+    "display_name": "Just, 12, Corso Como, Porta Garibaldi, Milano, MI, LOM, 20154, Italia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18486668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1781389244",
+    "boundingbox": [
+      "51.526375",
+      "51.526475",
+      "-0.0797167",
+      "-0.0796167"
+    ],
+    "lat": "51.526425",
+    "lon": "-0.0796667",
+    "display_name": "Just, 5A, Standard Place, Shoreditch, London Borough of Hackney, London, Greater London, England, EC2, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46004318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3298982269",
+    "boundingbox": [
+      "46.0988804",
+      "46.0989804",
+      "14.5419514",
+      "14.5420514"
+    ],
+    "lat": "46.0989304",
+    "lon": "14.5420014",
+    "display_name": "JUST, 13, Brn\u010di\u010deva ulica, Je\u017ea, Ljubljana, Upravna Enota Ljubljana, Osrednjeslovenska, 1231, Slovenija",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55386733",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4317368190",
+    "boundingbox": [
+      "55.6066806",
+      "55.6067806",
+      "37.2857542",
+      "37.2858542"
+    ],
+    "lat": "55.6067306",
+    "lon": "37.2858042",
+    "display_name": "Just, 2 \u043a5, 2-\u044f \u0420\u0435\u0439\u0441\u043e\u0432\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0440\u0430\u0439\u043e\u043d \u0412\u043d\u0443\u043a\u043e\u0432\u043e, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 111674, \u0420\u0424",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "107365346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184355984",
+    "boundingbox": [
+      "48.7295005",
+      "48.7296857",
+      "11.1806249",
+      "11.1810309"
+    ],
+    "lat": "48.7295931",
+    "lon": "11.1808279",
+    "display_name": "JUST, Doktor-Karl-Lexer-Weg, Feldkirchen, Neuburg a.d.Donau, Landkreis Neuburg-Schrobenhausen, OB, Bayern, 86633, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

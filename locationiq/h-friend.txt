@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "453161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157558955",
+    "boundingbox": [
+      "42.6428461",
+      "42.6828461",
+      "-77.2035863",
+      "-77.1635863"
+    ],
+    "lat": "42.6628461",
+    "lon": "-77.1835863",
+    "display_name": "Friend, Yates County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "367115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151440831",
+    "boundingbox": [
+      "38.2399614",
+      "38.2799614",
+      "-100.9328933",
+      "-100.8928933"
+    ],
+    "lat": "38.2599614",
+    "lon": "-100.9128933",
+    "display_name": "Friend, Finney County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35247139157771,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "331305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150969036",
+    "boundingbox": [
+      "45.3267839",
+      "45.3667839",
+      "-121.2872912",
+      "-121.2472912"
+    ],
+    "lat": "45.3467839",
+    "lon": "-121.2672912",
+    "display_name": "Friend, Wasco County, Oregon, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.35089190172262,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160284442",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "169638",
+    "boundingbox": [
+      "40.640294",
+      "40.658212",
+      "-97.2976429",
+      "-97.2729229"
+    ],
+    "lat": "40.653617",
+    "lon": "-97.2861569",
+    "display_name": "Friend, Saline County, Nebraska, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.33050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "64629631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16735916",
+    "boundingbox": [
+      "34.95569",
+      "34.956479",
+      "-79.7284599",
+      "-79.7283229"
+    ],
+    "lat": "34.956213",
+    "lon": "-79.7284179",
+    "display_name": "Friend, Philadelphia, Richmond County, North Carolina, 28379, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "41820013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3053446513",
+    "boundingbox": [
+      "35.4232059",
+      "35.4233059",
+      "139.6005005",
+      "139.6006005"
+    ],
+    "lat": "35.4232559",
+    "lon": "139.6005505",
+    "display_name": "friend, \u5f18\u660e\u5bfa\u304b\u3093\u306e\u3093\u901a\u308a, \u5f18\u660e\u5bfa\u5546\u5e97\u8857, \u5357\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 2, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56563534",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4419759889",
+    "boundingbox": [
+      "39.9216799",
+      "39.9217799",
+      "116.3847363",
+      "116.3848363"
+    ],
+    "lat": "39.9217299",
+    "lon": "116.3847863",
+    "display_name": "friend, \u666f\u5c71\u524d\u8857, \u897f\u57ce\u533a, \u5317\u4eac\u5e02, 100032, \u4e2d\u56fd",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "127728631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "273254233",
+    "boundingbox": [
+      "33.999497",
+      "33.9997131",
+      "71.4943372",
+      "71.4946354"
+    ],
+    "lat": "33.9996548",
+    "lon": "71.4944675379169",
+    "display_name": "Friend CNG, Shaheen Town, JAHANGIR ABAD / \u062c\u0647\u0627\u0646\u06af\u06cc\u0631\u0622\u0628\u0627\u062f, Peshawar, Pesh\u0101war District, \u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627, 25000, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "44374228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3162548461",
+    "boundingbox": [
+      "35.658995",
+      "35.659095",
+      "139.696215",
+      "139.696315"
+    ],
+    "lat": "35.659045",
+    "lon": "139.696265",
+    "display_name": "FRIEND, \u9053\u7384\u5742, \u6e0b\u8c371, \u6e0b\u8c37\u533a, \u6771\u4eac\u90fd, 150-0043, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "21576358",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2146027478",
+    "boundingbox": [
+      "35.687581",
+      "35.687681",
+      "139.69763",
+      "139.69773"
+    ],
+    "lat": "35.687631",
+    "lon": "139.69768",
+    "display_name": "Friend, \u8475\u901a\u308a, \u6e0b\u8c371, \u6e0b\u8c37\u533a, \u6771\u4eac\u90fd, 151-0053, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

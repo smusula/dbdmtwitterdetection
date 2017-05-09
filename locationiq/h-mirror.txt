@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "28747130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2656126089",
+    "boundingbox": [
+      "52.4457704",
+      "52.4857704",
+      "-113.127778",
+      "-113.087778"
+    ],
+    "lat": "52.4657704",
+    "lon": "-113.107778",
+    "display_name": "Mirror, Lacombe County, Alberta, Canada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16698230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1555267532",
+    "boundingbox": [
+      "52.4549292",
+      "52.4749292",
+      "-113.1233395",
+      "-113.1033395"
+    ],
+    "lat": "52.4649292",
+    "lon": "-113.1133395",
+    "display_name": "Mirror, Lacombe County, Alberta, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.29764611922243,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59576670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8910890",
+    "boundingbox": [
+      "61.4180455",
+      "61.4180581",
+      "-149.4336421",
+      "-149.4318997"
+    ],
+    "lat": "61.4180455",
+    "lon": "-149.4318997",
+    "display_name": "Mirror, Peters Creek, Anchorage, Alaska, 99567, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63423360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14321902",
+    "boundingbox": [
+      "36.058848",
+      "36.06004",
+      "-115.0264159",
+      "-115.0263899"
+    ],
+    "lat": "36.058848",
+    "lon": "-115.0263899",
+    "display_name": "Mirror, Whitney Ranch, Henderson, Clark County, Nevada, 89015, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "43119212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3112510126",
+    "boundingbox": [
+      "52.3635841",
+      "52.3636841",
+      "4.8883992",
+      "4.8884992"
+    ],
+    "lat": "52.3636341",
+    "lon": "4.8884492",
+    "display_name": "Mirror, 149, Kerkstraat, Grachtengordel, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017GG, Nederland",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609761637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4489479214",
+    "boundingbox": [
+      "55.6777363",
+      "55.6778363",
+      "12.5745502",
+      "12.5746502"
+    ],
+    "lat": "55.6777863",
+    "lon": "12.5746002",
+    "display_name": "The Mirror, Knabrostr\u00e6de, K\u00f8dbyen, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1211, Danmark",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "45214908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3212681834",
+    "boundingbox": [
+      "51.985616",
+      "51.985716",
+      "5.9142576",
+      "5.9143576"
+    ],
+    "lat": "51.985666",
+    "lon": "5.9143076",
+    "display_name": "Mirror, Hommelstraat, Arnhem, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6828AL, Nederland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "53784059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4124528785",
+    "boundingbox": [
+      "51.998327",
+      "51.998427",
+      "4.3537745",
+      "4.3538745"
+    ],
+    "lat": "51.998377",
+    "lon": "4.3538245",
+    "display_name": "Mirror, 7b, Troelstralaan, Poptahof, Delft, MRDH, Zuid-Holland, Nederland, 2624, Nederland",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51859603",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3895353239",
+    "boundingbox": [
+      "51.5419168",
+      "51.5420168",
+      "-0.346089",
+      "-0.345989"
+    ],
+    "lat": "51.5419668",
+    "lon": "-0.346039",
+    "display_name": "Mirror, 376, Oldfield Lane North, Wood End, Greenford, London Borough of Ealing, London, Greater London, England, W13, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "48156735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3500348680",
+    "boundingbox": [
+      "43.5155331",
+      "43.5156331",
+      "16.448994",
+      "16.449094"
+    ],
+    "lat": "43.5155831",
+    "lon": "16.449044",
+    "display_name": "Mirror, Put Plokita, Brodarica, Bol, Split, Splitsko-Dalmatinska \u017eupanija, 21104, Hrvatska",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  }
+]

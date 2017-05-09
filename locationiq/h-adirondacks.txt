@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "76734558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45800031",
+    "boundingbox": [
+      "45.5996573",
+      "45.5997922",
+      "-73.8229199",
+      "-73.8220323"
+    ],
+    "lat": "45.5996573",
+    "lon": "-73.8229199",
+    "display_name": "Rue des Adirondacks, Laval, Laval (13), Qu\u00e9bec, H7P4V9, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "7948327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "864137285",
+    "boundingbox": [
+      "44.219775",
+      "44.219875",
+      "-74.43869",
+      "-74.43859"
+    ],
+    "lat": "44.219825",
+    "lon": "-74.43864",
+    "display_name": "The Wild Center, Stetson Road, Moody, Franklin County, New York, 12986, United States of America",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.10803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "14964605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1349387824",
+    "boundingbox": [
+      "47.4635938",
+      "47.4636938",
+      "3.2557902",
+      "3.2558902"
+    ],
+    "lat": "47.4636438",
+    "lon": "3.2558402",
+    "display_name": "Maison des Adirondacks, Place Saint-Sulpice, Entrains-sur-Nohain, Clamecy, Ni\u00e8vre, Bourgogne-Franche-Comt\u00e9, 58410, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

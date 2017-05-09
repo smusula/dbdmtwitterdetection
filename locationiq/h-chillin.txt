@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "2608705385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "449480915",
+    "boundingbox": [
+      "38.2951184",
+      "38.2954223",
+      "-77.4773363",
+      "-77.4769554"
+    ],
+    "lat": "38.2952622",
+    "lon": "-77.4771406775392",
+    "display_name": "Chillin, 1417, Hanover Street, Fredericksburg, Fredericksburg City, Virginia, 22401, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19857233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1966900075",
+    "boundingbox": [
+      "57.8471742",
+      "57.8472742",
+      "26.9958427",
+      "26.9959427"
+    ],
+    "lat": "57.8472242",
+    "lon": "26.9958927",
+    "display_name": "Chillin, 29, Tartu, Kesklinn, V\u00f5ru linn, V\u00f5ru maakond, 65608, Eesti",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "place_id": "42464545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3097314889",
+    "boundingbox": [
+      "6.4581029",
+      "6.4981029",
+      "-9.990473",
+      "-9.950473"
+    ],
+    "lat": "6.4781029",
+    "lon": "-9.970473",
+    "display_name": "Saturday, Gibi, Margibi County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "43308302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3119358942",
+    "boundingbox": [
+      "6.1963243",
+      "6.2363243",
+      "-9.7527743",
+      "-9.7127743"
+    ],
+    "lat": "6.2163243",
+    "lon": "-9.7327743",
+    "display_name": "Saturday, District # 3, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44476780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3139564564",
+    "boundingbox": [
+      "5.7939999",
+      "5.7940999",
+      "-9.7903559",
+      "-9.7902559"
+    ],
+    "lat": "5.7940499",
+    "lon": "-9.7903059",
+    "display_name": "Saturday, Wralakfa, District # 4, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "84263492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91662153",
+    "boundingbox": [
+      "14.3419183",
+      "14.3427498",
+      "121.0630864",
+      "121.0640251"
+    ],
+    "lat": "14.3427498",
+    "lon": "121.0638964",
+    "display_name": "Saturday, Purok 6, San Pedro, Laguna, Calabarzon, 4023, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70285939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27258656",
+    "boundingbox": [
+      "14.4570023",
+      "14.4599196",
+      "120.9538619",
+      "120.9580469"
+    ],
+    "lat": "14.4580455",
+    "lon": "120.9561297",
+    "display_name": "Saturday, St. Joseph Village, Espiritu 2, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44720300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3166597570",
+    "boundingbox": [
+      "5.69685",
+      "5.69695",
+      "-8.4237299",
+      "-8.4236299"
+    ],
+    "lat": "5.6969",
+    "lon": "-8.4236799",
+    "display_name": "Saturday, Pynestown, Pynes Town, Sinoe County, Liberia",
+    "class": "place",
+    "type": "unknown",
+    "importance": 0.101
+  },
+  {
+    "place_id": "42758499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3105456284",
+    "boundingbox": [
+      "6.3321",
+      "6.3322",
+      "-10.6314699",
+      "-10.6313699"
+    ],
+    "lat": "6.33215",
+    "lon": "-10.6314199",
+    "display_name": "Saturday, Franklin, Boeworh, Mambah Kaba, Margibi County, Liberia",
+    "class": "place",
+    "type": "unknown",
+    "importance": 0.101
+  }
+]

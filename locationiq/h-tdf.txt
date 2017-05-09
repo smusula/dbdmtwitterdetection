@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "160281324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153550",
+    "boundingbox": [
+      "-55.0572699",
+      "-52.6584005",
+      "-68.6076075",
+      "-63.7957081"
+    ],
+    "lat": "-54.4071063",
+    "lon": "-67.8974894",
+    "display_name": "TDF, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53867951909935,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "79795681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "61732592",
+    "boundingbox": [
+      "44.8185332",
+      "44.8210604",
+      "-0.5072683",
+      "-0.5038613"
+    ],
+    "lat": "44.81958505",
+    "lon": "-0.505519732219661",
+    "display_name": "TDF, Bouliac, Bordeaux, Gironde, Nouvelle-Aquitaine, 33270, France",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "145649673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368834917",
+    "boundingbox": [
+      "49.203057",
+      "49.205644",
+      "-124.1254349",
+      "-124.1189199"
+    ],
+    "lat": "49.203793",
+    "lon": "-124.1219789",
+    "display_name": "TDF, Lantzville, Regional District of Nanaimo, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "826860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269292937",
+    "boundingbox": [
+      "45.1428886",
+      "45.1429886",
+      "5.5150492",
+      "5.5151492"
+    ],
+    "lat": "45.1429386",
+    "lon": "5.5150992",
+    "display_name": "TDF, Route des Narces, Lotissement au C\u0153ur du Village, Ferme de la Balme, M\u00e9audre, Autrans-M\u00e9audre-en-Vercors, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38112, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "822750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269296196",
+    "boundingbox": [
+      "45.154756",
+      "45.154856",
+      "5.5235825",
+      "5.5236825"
+    ],
+    "lat": "45.154806",
+    "lon": "5.5236325",
+    "display_name": "TDF, Route de M\u00e9audre \u00e0 Autrans, Ferme de la Balme, M\u00e9audre, Autrans-M\u00e9audre-en-Vercors, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38112, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "811390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269267694",
+    "boundingbox": [
+      "45.1771901",
+      "45.1772901",
+      "5.6146312",
+      "5.6147312"
+    ],
+    "lat": "45.1772401",
+    "lon": "5.6146812",
+    "display_name": "TDF, Route Joseph Coynel, L'Olagnier, Au del\u00e0 du Furon, Engins, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38360, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "865400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "278456464",
+    "boundingbox": [
+      "45.2938723",
+      "45.2939723",
+      "5.8754451",
+      "5.8755451"
+    ],
+    "lat": "45.2939223",
+    "lon": "5.8754951",
+    "display_name": "TDF, Chemin de la Cascade, Crolles, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38920, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "814342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "269465879",
+    "boundingbox": [
+      "45.1407324",
+      "45.1408324",
+      "5.4201786",
+      "5.4202786"
+    ],
+    "lat": "45.1407824",
+    "lon": "5.4202286",
+    "display_name": "TDF, Chemin de Pr\u00e9 Bourret, Izeron, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38160, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "122808846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248658123",
+    "boundingbox": [
+      "45.7723657",
+      "45.7724588",
+      "2.9644176",
+      "2.9645511"
+    ],
+    "lat": "45.77241225",
+    "lon": "2.96448435",
+    "display_name": "TDF, Chemin des P\u00e8lerins, Chez Coulaud, Orcines, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 63870, France",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81536115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74403093",
+    "boundingbox": [
+      "44.5755277",
+      "44.5757954",
+      "4.7399776",
+      "4.7404425"
+    ],
+    "lat": "44.5756605",
+    "lon": "4.74028388141864",
+    "display_name": "TDF, Avenue Gaston Vernier, Mont\u00e9limar, Nyons, Dr\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 26200, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

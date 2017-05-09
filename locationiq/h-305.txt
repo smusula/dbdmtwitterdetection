@@ -1,0 +1,179 @@
+[
+  {
+    "place_id": "160530796",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2525741",
+    "boundingbox": [
+      "65.488042",
+      "66.4862015",
+      "28.3682077",
+      "30.138463"
+    ],
+    "lat": "65.9647019",
+    "lon": "29.1867006",
+    "display_name": "Kuusamo, Koillismaan seutukunta, Pohjois-Pohjanmaa, Pohjois-Suomen aluehallintovirasto, Pohjois-Suomi, Suomi",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54027669784954,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "20128505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2001663037",
+    "boundingbox": [
+      "35.8281381",
+      "35.8282381",
+      "139.6911349",
+      "139.6912349"
+    ],
+    "lat": "35.8281881",
+    "lon": "139.6911849",
+    "display_name": "\u307f\u305a\u307b\u9280\u884c (Mizuho Bank), \u585a\u8d8a\u5927\u901a\u308a, \u8568\u5e02, \u5317\u845b\u98fe\u90e1, \u57fc\u7389\u770c, 335-0002, \u65e5\u672c",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.47513524770902,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "37863338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2875428962",
+    "boundingbox": [
+      "53.8846565",
+      "53.8847565",
+      "139.2115009",
+      "139.2116009"
+    ],
+    "lat": "53.8847065",
+    "lon": "139.2115509",
+    "display_name": "(305), \u041d\u0438\u043a\u043e\u043b\u0430\u0435\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "161873222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "37.812432588198",
+      "37.812532588198",
+      "-121.2567917103",
+      "-121.2566917103"
+    ],
+    "lat": "37.8124825881978",
+    "lon": "-121.256741710303",
+    "display_name": "West Manteca, San Joaquin County, California, 305, United States of America",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161842721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "24.834693809274",
+      "24.834793809274",
+      "121.08255240339",
+      "121.08265240339"
+    ],
+    "lat": "24.8347438092743",
+    "lon": "121.082602403391",
+    "display_name": "\u65f1\u5751\u91cc, \u65b0\u57d4\u93ae, \u65b0\u7af9\u7e23, 305, \u81fa\u7063",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161781289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "39.4551702",
+      "39.4552702",
+      "-31.1269753",
+      "-31.1268753"
+    ],
+    "lat": "39.4552202",
+    "lon": "-31.1269253",
+    "display_name": "Santa Cruz das Flores, Flores, A\u00e7ores, 305, Portugal (\u00e1guas territoriais)",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "160801345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4785991",
+    "boundingbox": [
+      "48.6797849",
+      "48.6838403",
+      "6.076095",
+      "6.0812379"
+    ],
+    "lat": "48.68149175",
+    "lon": "6.07877441942447",
+    "display_name": "305, Laxou, Nancy, Meurthe-et-Moselle, Grand-Est, 54520, France",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.31
+  },
+  {
+    "place_id": "132290316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298005200",
+    "boundingbox": [
+      "41.6039378",
+      "41.604393",
+      "13.6590018",
+      "13.6602665"
+    ],
+    "lat": "41.60417235",
+    "lon": "13.6596208525084",
+    "display_name": "305, Mele, Santopadre, FR, LAZ, Italia",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.31
+  },
+  {
+    "place_id": "128682686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279651537",
+    "boundingbox": [
+      "53.1562085",
+      "53.1564146",
+      "15.4008458",
+      "15.4012009"
+    ],
+    "lat": "53.1563115",
+    "lon": "15.4010233422804",
+    "display_name": "305, Choszczno, gmina Choszczno, powiat choszcze\u0144ski, zachodniopomorskie, Polska",
+    "class": "landuse",
+    "type": "allotments",
+    "importance": 0.31
+  },
+  {
+    "place_id": "117259567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226092292",
+    "boundingbox": [
+      "56.3268271",
+      "56.3269396",
+      "9.114679",
+      "9.1148769"
+    ],
+    "lat": "56.32688335",
+    "lon": "9.11477795",
+    "display_name": "305, K\u00f8lvr\u00e5, Viborg Kommune, Region Midtjylland, Danmark",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.31
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "49102952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3631771996",
+    "boundingbox": [
+      "37.3940062",
+      "37.3941062",
+      "-5.9918261",
+      "-5.9917261"
+    ],
+    "lat": "37.3940562",
+    "lon": "-5.9917761",
+    "display_name": "Gazpacho, Calle Regina, Encarnaci\u00f3n-Regina, Casco Antiguo, Sevilla, Andaluc\u00eda, 41003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2646072431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4543880673",
+    "boundingbox": [
+      "-34.8826368",
+      "-34.8825368",
+      "-56.135148",
+      "-56.135048"
+    ],
+    "lat": "-34.8825868",
+    "lon": "-56.135098",
+    "display_name": "Gazpacho, Comercio, Boix y Merino, Uni\u00f3n, Montevideo, 12000, Uruguay",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2648709365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4605840389",
+    "boundingbox": [
+      "-34.5678137",
+      "-34.5677137",
+      "-58.4438924",
+      "-58.4437924"
+    ],
+    "lat": "-34.5677637",
+    "lon": "-58.4438424",
+    "display_name": "Gazpacho, Teodoro Garc\u00eda, Las Ca\u00f1itas, Palermo, CABA, Comuna 14, CABA, C1426CPG, Argentina",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  }
+]

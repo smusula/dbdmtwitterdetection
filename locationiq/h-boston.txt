@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160530658",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2315704",
+    "boundingbox": [
+      "42.227654",
+      "42.3969775",
+      "-71.1912599",
+      "-70.804488"
+    ],
+    "lat": "42.3604823",
+    "lon": "-71.0595677",
+    "display_name": "Boston, Suffolk County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.82997821709893,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160450949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1507233",
+    "boundingbox": [
+      "7.82241",
+      "8.0011839",
+      "126.14732",
+      "126.5030348"
+    ],
+    "lat": "7.91199",
+    "lon": "126.262943459821",
+    "display_name": "Boston, Davao Oriental, Davao, Philippines",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160255794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "58553",
+    "boundingbox": [
+      "52.8628045",
+      "53.0866624",
+      "-0.2467139",
+      "0.2386859"
+    ],
+    "lat": "52.9770408",
+    "lon": "-0.0239835",
+    "display_name": "Boston, Lincolnshire, East Midlands, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54499747803523,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "372724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151534347",
+    "boundingbox": [
+      "33.4215086",
+      "33.4615086",
+      "-94.4396451",
+      "-94.3996451"
+    ],
+    "lat": "33.4415086",
+    "lon": "-94.4196451",
+    "display_name": "Boston, Bowie County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.48128284560463,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "418871",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153782997",
+    "boundingbox": [
+      "38.2172927",
+      "38.2572927",
+      "-85.4552362",
+      "-85.4152362"
+    ],
+    "lat": "38.2372927",
+    "lon": "-85.4352362",
+    "display_name": "Boston, Jefferson County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.4632579409261,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "477572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158490861",
+    "boundingbox": [
+      "37.5892987",
+      "37.6292987",
+      "-75.8627095",
+      "-75.8227095"
+    ],
+    "lat": "37.6092987",
+    "lon": "-75.8427095",
+    "display_name": "Boston, Accomack County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42410162999415,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "112812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "20473093",
+    "boundingbox": [
+      "52.9730637",
+      "52.9830637",
+      "-0.0362409",
+      "-0.0262409"
+    ],
+    "lat": "52.9780637",
+    "lon": "-0.0312409",
+    "display_name": "Boston, Station Approach, Boston, Lincolnshire, East Midlands, England, PE21 8XZ, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.40279244437698,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "156482041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426681629",
+    "boundingbox": [
+      "4.7977462",
+      "4.8019209",
+      "-75.6990791",
+      "-75.6941202"
+    ],
+    "lat": "4.7998305",
+    "lon": "-75.6964120909216",
+    "display_name": "Boston, Pereira, Risaralda, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2646600685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6797904",
+    "boundingbox": [
+      "52.9992896",
+      "53.0876418",
+      "-9.0014206",
+      "-8.883421"
+    ],
+    "lat": "53.04354735",
+    "lon": "-8.94453382162667",
+    "display_name": "Boston, Killaloe, County Clare, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "540402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198499196",
+    "boundingbox": [
+      "7.828904",
+      "7.908904",
+      "126.3333501",
+      "126.4133501"
+    ],
+    "lat": "7.868904",
+    "lon": "126.3733501",
+    "display_name": "Boston, Davao Oriental, Davao, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  }
+]

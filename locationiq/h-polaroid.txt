@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "2647235867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4571685090",
+    "boundingbox": [
+      "41.3794129",
+      "41.3795129",
+      "2.1785189",
+      "2.1786189"
+    ],
+    "lat": "41.3794629",
+    "lon": "2.1785689",
+    "display_name": "Polaroid, Carrer dels C\u00f2dols, el G\u00f2tic, Ciutat Vella, Barcelona, BCN, CAT, 80002, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "155748830",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "422863068",
+    "boundingbox": [
+      "47.4252593",
+      "47.4254841",
+      "19.2462195",
+      "19.2464899"
+    ],
+    "lat": "47.42537175",
+    "lon": "19.2463546937727",
+    "display_name": "Polaroid, Ferihegyi rep\u00fcl\u0151t\u00e9rre vezet\u0151 \u00fat, Ferihegy, 18. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1185, Magyarorsz\u00e1g",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55217002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4279724791",
+    "boundingbox": [
+      "50.3342776",
+      "50.3343776",
+      "18.8867499",
+      "18.8868499"
+    ],
+    "lat": "50.3343276",
+    "lon": "18.8867999",
+    "display_name": "Polaroid, Orzegowska, Osiedle Hutnicze, Szombierki, Bytom, \u015bl\u0105skie, 41-907, Polska",
+    "class": "craft",
+    "type": "photographer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646594252",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4557856959",
+    "boundingbox": [
+      "42.6883659",
+      "42.6884659",
+      "23.327145",
+      "23.327245"
+    ],
+    "lat": "42.6884159",
+    "lon": "23.327195",
+    "display_name": "Polaroid, 10, \u0431\u0443\u043b. \u041f\u0430\u0442\u0440\u0438\u0430\u0440\u0445 \u0415\u0432\u0442\u0438\u043c\u0438\u0439, \u0426\u0435\u043d\u0442\u044a\u0440, \u0440\u0430\u0439\u043e\u043d \u0421\u0440\u0435\u0434\u0435\u0446, \u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u043e\u0444\u0438\u044f-\u0413\u0440\u0430\u0434, 1040, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "shop",
+    "type": "sunglasses",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51527954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3857076973",
+    "boundingbox": [
+      "42.1455383",
+      "42.1456383",
+      "24.7500261",
+      "24.7501261"
+    ],
+    "lat": "42.1455883",
+    "lon": "24.7500761",
+    "display_name": "\u041f\u043e\u043b\u0430\u0440\u043e\u0438\u0434, \u041e\u0442\u0435\u0446 \u041f\u0430\u0438\u0441\u0438\u0439, \u041a\u0430\u043f\u0430\u043d\u0430, \u041a\u044a\u0440\u0448\u0438\u044f\u043a\u0430, \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 4000, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "shop",
+    "type": "optician",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/health_opticians.p.20.png"
+  }
+]

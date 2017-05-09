@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "2608966728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "450381",
+    "boundingbox": [
+      "49.0608244",
+      "49.1487955",
+      "6.1360042",
+      "6.256451"
+    ],
+    "lat": "49.1196964",
+    "lon": "6.1763552",
+    "display_name": "Metz, Moselle, Grand-Est, 57000;57050;57070, France",
+    "class": "place",
+    "type": "city",
+    "importance": 0.66152475284431,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "21072027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2103482831",
+    "boundingbox": [
+      "37.9560903",
+      "37.9760903",
+      "23.7309496",
+      "23.7509496"
+    ],
+    "lat": "37.9660903",
+    "lon": "23.7409496",
+    "display_name": "\u039c\u03ad\u03c4\u03c2, \u0391\u03b8\u03ae\u03bd\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u03a0.\u0395. \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "111051681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200358113",
+    "boundingbox": [
+      "37.9627784",
+      "37.970007",
+      "23.7332737",
+      "23.7463275"
+    ],
+    "lat": "37.96632715",
+    "lon": "23.7395559915667",
+    "display_name": "\u039c\u03ad\u03c4\u03c2, \u0391\u03b8\u03ae\u03bd\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u03a0.\u0395. \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 11636, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "56319997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4394710189",
+    "boundingbox": [
+      "58.5308722",
+      "58.5309722",
+      "23.9853893",
+      "23.9854893"
+    ],
+    "lat": "58.5309222",
+    "lon": "23.9854393",
+    "display_name": "mets, Kalli \u2014 T\u00f5stamaa \u2014 V\u00e4rati, Palatu k\u00fcla, Koonga vald, P\u00e4rnu maakond, Eesti",
+    "class": "amenity",
+    "type": "fire_station",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_firestation3.p.20.png"
+  },
+  {
+    "place_id": "96129220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137971314",
+    "boundingbox": [
+      "53.3184484",
+      "53.318526",
+      "-1.505031",
+      "-1.5048769"
+    ],
+    "lat": "53.3184872",
+    "lon": "-1.50495395",
+    "display_name": "Mets, Twentywell Lane, Bradway, Sheffield, Yorkshire and the Humber, England, S17, UK",
+    "class": "shop",
+    "type": "butcher",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_butcher.p.20.png"
+  },
+  {
+    "place_id": "27060109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2560848746",
+    "boundingbox": [
+      "35.858078",
+      "35.858178",
+      "139.657311",
+      "139.657411"
+    ],
+    "lat": "35.858128",
+    "lon": "139.657361",
+    "display_name": "METS, 34, \u6d66\u548c\u533a, \u3055\u3044\u305f\u307e\u5e02, \u5317\u845b\u98fe\u90e1, \u57fc\u7389\u770c, 330-0055, \u65e5\u672c",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "915929",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "285986532",
+    "boundingbox": [
+      "59.2070764",
+      "59.2071764",
+      "9.6094091",
+      "9.6095091"
+    ],
+    "lat": "59.2071264",
+    "lon": "9.6094591",
+    "display_name": "Mets, R\u00e5dhusgata, Skien, Telemark, 3724, Norge",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "56447843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405371089",
+    "boundingbox": [
+      "31.6187714",
+      "31.6188714",
+      "74.2860735",
+      "74.2861735"
+    ],
+    "lat": "31.6188214",
+    "lon": "74.2861235",
+    "display_name": "Mets, Jaranwala - Lahore Road, Rana Town, Shahdara Bagh, Lahore District, \u067e\u0646\u062c\u0627\u0628, 54950, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "man_made",
+    "type": "chimney",
+    "importance": 0.101
+  },
+  {
+    "place_id": "102123093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "164031038",
+    "boundingbox": [
+      "48.4766698",
+      "48.47702",
+      "35.0318748",
+      "35.0323898"
+    ],
+    "lat": "48.4768422",
+    "lon": "35.0321316491308",
+    "display_name": "\u041c\u042d\u0426, \u0421\u0456\u0447\u0435\u0441\u043b\u0430\u0432\u0441\u044c\u043a\u0430 \u041d\u0430\u0431\u0435\u0440\u0435\u0436\u043d\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0414\u043d\u0456\u043f\u0440\u043e, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0414\u043d\u0456\u043f\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0414\u043d\u0456\u043f\u0440\u043e\u043f\u0435\u0442\u0440\u043e\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 49020, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "45171231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3214499507",
+    "boundingbox": [
+      "37.9692025",
+      "37.9693025",
+      "23.7372985",
+      "23.7373985"
+    ],
+    "lat": "37.9692525",
+    "lon": "23.7373485",
+    "display_name": "\u039c\u03b5\u03c4\u03c2, \u0392\u03b1\u03c3\u03b9\u03bb\u03af\u03c3\u03c3\u03b7\u03c2 \u038c\u03bb\u03b3\u03b1\u03c2, \u03a0\u03bb\u03ac\u03ba\u03b1, \u0391\u03b8\u03ae\u03bd\u03b1, \u0394\u03ae\u03bc\u03bf\u03c2 \u0391\u03b8\u03b7\u03bd\u03b1\u03af\u03c9\u03bd, \u03a0.\u0395. \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03bf\u03cd \u03a4\u03bf\u03bc\u03ad\u03b1 \u0391\u03b8\u03b7\u03bd\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u0391\u03c4\u03c4\u03b9\u03ba\u03ae\u03c2, 11636, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "55394552",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4278331486",
+    "boundingbox": [
+      "6.1436584",
+      "6.1437584",
+      "1.2292201",
+      "1.2293201"
+    ],
+    "lat": "6.1437084",
+    "lon": "1.2292701",
+    "display_name": "Streetwear, Rue de France, Doulassam\u00e9, 3e Arr., Lom\u00e9, 13395, Togo",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "41892981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3048325136",
+    "boundingbox": [
+      "51.8933223",
+      "51.8934223",
+      "17.7857205",
+      "17.7858205"
+    ],
+    "lat": "51.8933723",
+    "lon": "17.7857705",
+    "display_name": "Streetwear, 25, Henryka Sienkiewicza, Malinie, Pleszew, gmina Pleszew, powiat pleszewski, wielkopolskie, 63-300, Polska",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

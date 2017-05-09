@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "153035332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "406911165",
+    "boundingbox": [
+      "-43.6024046",
+      "-43.6023441",
+      "172.7208646",
+      "172.720929"
+    ],
+    "lat": "-43.60237435",
+    "lon": "172.7208968",
+    "display_name": "Hashtag, London Street, Lyttelton, Christchurch, Christchurch City, Canterbury, 8082, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "18190923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1744458075",
+    "boundingbox": [
+      "43.8793936",
+      "43.8794936",
+      "11.103017",
+      "11.103117"
+    ],
+    "lat": "43.8794436",
+    "lon": "11.103067",
+    "display_name": "Hashtag, 133, Piazza Mercatale, il Cantiere, Prato, PO, TOS, 59100, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "53503741",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4081122395",
+    "boundingbox": [
+      "50.4590606",
+      "50.4591606",
+      "30.5132405",
+      "30.5133405"
+    ],
+    "lat": "50.4591106",
+    "lon": "30.5132905",
+    "display_name": "Hashtag, 48, \u0412\u043e\u0437\u0434\u0432\u0438\u0436\u0435\u043d\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u041f\u043e\u0434\u0456\u043b, \u041f\u043e\u0434\u0456\u043b\u044c\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 04072, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2647602705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4581099991",
+    "boundingbox": [
+      "45.8163327",
+      "45.8164327",
+      "13.3548313",
+      "13.3549313"
+    ],
+    "lat": "45.8163827",
+    "lon": "13.3548813",
+    "display_name": "Hashtag, Via Costantino Dardi, Localit\u00e0 Pradiziolo, Cervignano del Friuli, UD, FVG, 33052, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "145306202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367448873",
+    "boundingbox": [
+      "18.0660349",
+      "18.0661702",
+      "-63.085558",
+      "-63.0854043"
+    ],
+    "lat": "18.06610545",
+    "lon": "-63.0854795747881",
+    "display_name": "Hashtag#, 11, Rue du G\u00e9n\u00e9ral de Gaulle, Concordia, Marigot, Saint-Martin, 97150, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

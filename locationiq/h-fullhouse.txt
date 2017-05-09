@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "8262928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "889588693",
+    "boundingbox": [
+      "49.264545",
+      "49.264645",
+      "-123.1370369",
+      "-123.1369369"
+    ],
+    "lat": "49.264595",
+    "lon": "-123.1369869",
+    "display_name": "Fullhouse, 1445, West 8th Avenue, Cambie Village, Fairview, Vancouver, Greater Vancouver Regional District, British Columbia, V5Z, Canada",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18766885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1813639394",
+    "boundingbox": [
+      "48.1553727",
+      "48.1554727",
+      "11.5340713",
+      "11.5341713"
+    ],
+    "lat": "48.1554227",
+    "lon": "11.5341213",
+    "display_name": "Fullhouse, 20, Volkartstra\u00dfe, Bezirksteil Dom Pedro, Stadtbezirk 09 Neuhausen-Nymphenburg, M\u00fcnchen, OB, Bayern, 80634, Deutschland",
+    "class": "shop",
+    "type": "interior_decoration",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6469756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "670707120",
+    "boundingbox": [
+      "52.6529594",
+      "52.6530594",
+      "-8.657653",
+      "-8.657553"
+    ],
+    "lat": "52.6530094",
+    "lon": "-8.657603",
+    "display_name": "Fullhouse, Corcanree Business Park, Corkanree, Ballinacurra A, Metropolitan District of Limerick, County Limerick, Munster, Ireland",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "46097841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3264818205",
+    "boundingbox": [
+      "16.7248082",
+      "16.7249082",
+      "98.5754739",
+      "98.5755739"
+    ],
+    "lat": "16.7248582",
+    "lon": "98.5755239",
+    "display_name": "The Fullhouse, 12, \u0e41\u0e21\u0e48\u0e2a\u0e2d\u0e14, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e15\u0e32\u0e01, 63110, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

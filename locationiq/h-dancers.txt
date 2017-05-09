@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "48887567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3633788203",
+    "boundingbox": [
+      "44.9788796",
+      "44.9789796",
+      "-93.2611111",
+      "-93.2610111"
+    ],
+    "lat": "44.9789296",
+    "lon": "-93.2610611",
+    "display_name": "Dancers, Washington Avenue South, St Anthony West, Phillips, Minneapolis, Hennepin County, Minnesota, 55415:55454, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "136645203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "317470129",
+    "boundingbox": [
+      "39.7429644",
+      "39.7431098",
+      "-104.9993444",
+      "-104.9991558"
+    ],
+    "lat": "39.7430428",
+    "lon": "-104.999250719456",
+    "display_name": "The Dancers, Speer Boulevard, Theatre District, Denver, Denver County, Colorado, 80204, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "3311671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "365317796",
+    "boundingbox": [
+      "32.8798556",
+      "32.8799556",
+      "-117.1620474",
+      "-117.1619474"
+    ],
+    "lat": "32.8799056",
+    "lon": "-117.1619974",
+    "display_name": "Dancers, Miramar Road, Mira Mesa, San Diego, San Diego County, California, 92126, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2649791292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4631205442",
+    "boundingbox": [
+      "42.282458",
+      "42.282558",
+      "-89.071044",
+      "-89.070944"
+    ],
+    "lat": "42.282508",
+    "lon": "-89.070994",
+    "display_name": "Dancers, Rock RIver Bike Path, Rockford, Winnebago County, Illinois, 61104, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "41017109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3005042903",
+    "boundingbox": [
+      "41.3347088",
+      "41.3348088",
+      "-72.9002519",
+      "-72.9001519"
+    ],
+    "lat": "41.3347588",
+    "lon": "-72.9002019",
+    "display_name": "Dancer's, Merritt Street, Hamden, New Haven County, Connecticut, 06517, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

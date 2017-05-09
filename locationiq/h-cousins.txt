@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "15175535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1385443858",
+    "boundingbox": [
+      "45.7619129",
+      "46.4019129",
+      "-83.1289117",
+      "-82.4889117"
+    ],
+    "lat": "46.0819129",
+    "lon": "-82.8089117",
+    "display_name": "The Cousins, Elliot Lake, Ontario, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2926359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357290107",
+    "boundingbox": [
+      "41.707889",
+      "42.347889",
+      "-124.5756457",
+      "-123.9356457"
+    ],
+    "lat": "42.027889",
+    "lon": "-124.2556457",
+    "display_name": "Cousins, Curry County, Oregon, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "36367718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2844344406",
+    "boundingbox": [
+      "-22.6925499",
+      "-22.6924499",
+      "149.9863389",
+      "149.9864389"
+    ],
+    "lat": "-22.6924999",
+    "lon": "149.9863889",
+    "display_name": "The Cousins, QLD, Australia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "75357213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41538563",
+    "boundingbox": [
+      "52.5080209",
+      "52.5096994",
+      "-2.0808694",
+      "-2.0789671"
+    ],
+    "lat": "52.5086018",
+    "lon": "-2.07994961557848",
+    "display_name": "Cousins, Netherton, Dudley, West Midlands, England, WV14, UK",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "122666526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248181647",
+    "boundingbox": [
+      "47.6463383",
+      "47.6475865",
+      "-121.944927",
+      "-121.9407231"
+    ],
+    "lat": "47.6469984",
+    "lon": "-121.9433586",
+    "display_name": "Cousins, Stuart, King County, Washington, 98014, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55574843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4328330534",
+    "boundingbox": [
+      "55.6839486",
+      "55.6840486",
+      "12.5675437",
+      "12.5676437"
+    ],
+    "lat": "55.6839986",
+    "lon": "12.5675937",
+    "display_name": "Cousins, Vendersgade, K\u00f8dbyen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1363, Danmark",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18340945",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1769660071",
+    "boundingbox": [
+      "39.9918795",
+      "39.9919795",
+      "-75.1366324",
+      "-75.1365324"
+    ],
+    "lat": "39.9919295",
+    "lon": "-75.1365824",
+    "display_name": "Cousins, West Lehigh Avenue, West Kensington, Philadelphia, Philadelphia County, Pennsylvania, 19132, United States of America",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "25436822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2453751952",
+    "boundingbox": [
+      "51.6108629",
+      "51.6109629",
+      "-0.065727",
+      "-0.065627"
+    ],
+    "lat": "51.6109129",
+    "lon": "-0.065677",
+    "display_name": "Cousins, 77, Fore Street, Edmonton, London Borough of Enfield, London, Greater London, England, N18 2RS, UK",
+    "class": "office",
+    "type": "estate_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "78855299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "57786563",
+    "boundingbox": [
+      "52.4527737",
+      "52.4533368",
+      "-1.8379914",
+      "-1.8362662"
+    ],
+    "lat": "52.45304075",
+    "lon": "-1.83736271995513",
+    "display_name": "Cousins, 770, Warwick Road, Acocks Green, Tyseley, West Midlands Combined Authority, West Midlands, England, B11 2EW, UK",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646231968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4549917493",
+    "boundingbox": [
+      "46.2697361",
+      "46.2698361",
+      "-119.1829792",
+      "-119.1828792"
+    ],
+    "lat": "46.2697861",
+    "lon": "-119.1829292",
+    "display_name": "Cousins, 4605, North Road 68, Pasco, Franklin County, Washington, 99301, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "22632982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2242821252",
+    "boundingbox": [
+      "12.2348093",
+      "17.3548093",
+      "-19.5129271",
+      "-14.3929271"
+    ],
+    "lat": "14.7948093",
+    "lon": "-16.9529271",
+    "display_name": "Thi\u00e8s, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "state",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160622566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3281808",
+    "boundingbox": [
+      "49.7414623",
+      "49.76074",
+      "4.5856742",
+      "4.6332466"
+    ],
+    "lat": "49.74903",
+    "lon": "4.60862",
+    "display_name": "This, Charleville-M\u00e9zi\u00e8res, Ardennes, Grand-Est, 08090, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52055973284519,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6583973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "671824694",
+    "boundingbox": [
+      "14.631461",
+      "14.951461",
+      "-17.0856049",
+      "-16.7656049"
+    ],
+    "lat": "14.791461",
+    "lon": "-16.9256049",
+    "display_name": "Thi\u00e8s, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40933458805843,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160576545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2906477",
+    "boundingbox": [
+      "14.131123",
+      "15.3579807",
+      "-17.1722618",
+      "-16.1208284"
+    ],
+    "lat": "14.7454807",
+    "lon": "-16.8631965773042",
+    "display_name": "Thi\u00e8s, S\u00e9n\u00e9gal",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37169479023248,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "157732770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "433777043",
+    "boundingbox": [
+      "-28.0746198",
+      "-28.0716063",
+      "153.4208125",
+      "153.423727"
+    ],
+    "lat": "-28.073074",
+    "lon": "153.422473925991",
+    "display_name": "This, Varsity Lakes, Gold Coast, Gold Coast City, QLD, 4227, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "21066108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2086405393",
+    "boundingbox": [
+      "12.705206",
+      "12.745206",
+      "-16.4084062",
+      "-16.3684062"
+    ],
+    "lat": "12.725206",
+    "lon": "-16.3884062",
+    "display_name": "Thi\u00e8s, D\u00e9partement de Bignona, Ziguinchor, S\u00e9n\u00e9gal",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "97231618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "143580586",
+    "boundingbox": [
+      "52.1031844",
+      "52.103905",
+      "7.0485924",
+      "7.0501542"
+    ],
+    "lat": "52.1035138",
+    "lon": "7.04937554860342",
+    "display_name": "Thies, Heek, Kreis Borken, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48619, Deutschland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.2
+  },
+  {
+    "place_id": "45098141",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3191081692",
+    "boundingbox": [
+      "38.655652",
+      "38.655752",
+      "-90.3035158",
+      "-90.3034158"
+    ],
+    "lat": "38.655702",
+    "lon": "-90.3034658",
+    "display_name": "This!, Delmar Boulevard, St. Louis, City of St. Louis, Missouri, 63130; 63124, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "58426472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6339244",
+    "boundingbox": [
+      "47.4146179",
+      "47.4159483",
+      "-121.9469202",
+      "-121.9324342"
+    ],
+    "lat": "47.4147341",
+    "lon": "-121.9394689",
+    "display_name": "Southeast 208th Street, Hobart, King County, Washington, 98038, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "158685485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438041260",
+    "boundingbox": [
+      "47.4144085",
+      "47.416377",
+      "-121.9324342",
+      "-121.916845"
+    ],
+    "lat": "47.4144855",
+    "lon": "-121.9248962",
+    "display_name": "Southeast 208th Street, Hobart, King County, Washington, 98038, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.1
+  }
+]

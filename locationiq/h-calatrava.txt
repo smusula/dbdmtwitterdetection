@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160694198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3589473",
+    "boundingbox": [
+      "12.596462",
+      "12.7698229",
+      "121.9411575",
+      "122.1801484"
+    ],
+    "lat": "12.675558",
+    "lon": "122.047249692416",
+    "display_name": "Calatrava, Romblon, Mimaropa, Philippines",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "540569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198504308",
+    "boundingbox": [
+      "10.5540442",
+      "10.6340442",
+      "123.4363844",
+      "123.5163844"
+    ],
+    "lat": "10.5940442",
+    "lon": "123.4763844",
+    "display_name": "Calatrava, Negros Occidental, Negros Island Region, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "23770201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2338355401",
+    "boundingbox": [
+      "9.8831708",
+      "9.9231708",
+      "124.128307",
+      "124.168307"
+    ],
+    "lat": "9.9031708",
+    "lon": "124.148307",
+    "display_name": "Calatrava, Bohol, Central Visayas, Philippines",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13517186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243099590",
+    "boundingbox": [
+      "38.1025111",
+      "38.1225111",
+      "-3.3926874",
+      "-3.3726874"
+    ],
+    "lat": "38.1125111",
+    "lon": "-3.3826874",
+    "display_name": "Calatrava, \u00dabeda, Ja\u00e9n, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13765405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243128273",
+    "boundingbox": [
+      "37.9502376",
+      "37.9702376",
+      "-3.5004261",
+      "-3.4804261"
+    ],
+    "lat": "37.9602376",
+    "lon": "-3.4904261",
+    "display_name": "Calatrava, Baeza, Ja\u00e9n, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13815456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243233195",
+    "boundingbox": [
+      "39.8789912",
+      "39.8989912",
+      "-0.0809256",
+      "-0.0609256"
+    ],
+    "lat": "39.8889912",
+    "lon": "-0.0709256",
+    "display_name": "Calatrava, Burriana / Borriana, Plana Baixa, Castell\u00f3n/Castell\u00f3, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13705874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243166900",
+    "boundingbox": [
+      "38.0483737",
+      "38.0683737",
+      "-3.0365624",
+      "-3.0165624"
+    ],
+    "lat": "38.0583737",
+    "lon": "-3.0265624",
+    "display_name": "Calatrava, Villacarrillo, Ja\u00e9n, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13258763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241905566",
+    "boundingbox": [
+      "36.3643155",
+      "36.3843155",
+      "-5.9131388",
+      "-5.8931388"
+    ],
+    "lat": "36.3743155",
+    "lon": "-5.9031388",
+    "display_name": "Calatrava, Medina-Sidonia, C\u00e1diz, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13370117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242374755",
+    "boundingbox": [
+      "42.0581507",
+      "42.0781507",
+      "-4.0085248",
+      "-3.9885248"
+    ],
+    "lat": "42.0681507",
+    "lon": "-3.9985248",
+    "display_name": "Calatrava, Santa Mar\u00eda del Campo, Arlanza, Burgos, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "541365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198526244",
+    "boundingbox": [
+      "12.5794021",
+      "12.6594021",
+      "122.030392",
+      "122.110392"
+    ],
+    "lat": "12.6194021",
+    "lon": "122.070392",
+    "display_name": "Calatrava, Romblon, Mimaropa, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.33050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  }
+]

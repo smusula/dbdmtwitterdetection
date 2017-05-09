@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "29958255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2725588921",
+    "boundingbox": [
+      "44.6837396",
+      "44.7237396",
+      "7.884149",
+      "7.924149"
+    ],
+    "lat": "44.7037396",
+    "lon": "7.904149",
+    "display_name": "Valentino, CN, PIE, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4303400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "452992243",
+    "boundingbox": [
+      "42.8566515",
+      "42.8966515",
+      "13.6916498",
+      "13.7316498"
+    ],
+    "lat": "42.8766515",
+    "lon": "13.7116498",
+    "display_name": "Valentino, AP, MAR, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8097968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "874028842",
+    "boundingbox": [
+      "45.1059166",
+      "45.1459166",
+      "8.4302877",
+      "8.4702877"
+    ],
+    "lat": "45.1259166",
+    "lon": "8.4502877",
+    "display_name": "Valentino, Casale Monferrato, AL, PIE, Italia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "83273484",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87700682",
+    "boundingbox": [
+      "45.1287578",
+      "45.1290746",
+      "8.4507125",
+      "8.4507409"
+    ],
+    "lat": "45.1289611",
+    "lon": "8.4507274",
+    "display_name": "Corso Valentino, Valentino, Casale Monferrato, AL, PIE, 15033, Italia",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  }
+]

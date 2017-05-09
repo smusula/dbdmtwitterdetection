@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160294910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "192795",
+    "boundingbox": [
+      "-13.4590349",
+      "5.3920026",
+      "12.0374291",
+      "31.3056758"
+    ],
+    "lat": "-2.9814343",
+    "lon": "23.8222636",
+    "display_name": "R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.60428351162217,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160370710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070393",
+    "boundingbox": [
+      "39.307137",
+      "39.654579",
+      "-97.9304659",
+      "-97.3681789"
+    ],
+    "lat": "39.4850226",
+    "lon": "-97.6705136",
+    "display_name": "Cloud County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46663924765761,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160942209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6094207",
+    "boundingbox": [
+      "53.3518444",
+      "53.3659993",
+      "-8.9306812",
+      "-8.9093766"
+    ],
+    "lat": "53.35894415",
+    "lon": "-8.92133449064696",
+    "display_name": "CD, Claregalway ED, Baile Chl\u00e1ir, County Galway, Connacht, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "52705148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4005682898",
+    "boundingbox": [
+      "9.4943546",
+      "9.5143546",
+      "-7.5718075",
+      "-7.5518075"
+    ],
+    "lat": "9.5043546",
+    "lon": "-7.5618075",
+    "display_name": "CD, Odienn\u00e9, Kabadougou, Dengu\u00e9l\u00e9, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "126525944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264999012",
+    "boundingbox": [
+      "28.6250766",
+      "28.6261553",
+      "77.1040573",
+      "77.1063905"
+    ],
+    "lat": "28.6254886",
+    "lon": "77.1052197204559",
+    "display_name": "CD, Hari Nagar, New Delhi, Delhi, 110064, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102785101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166338424",
+    "boundingbox": [
+      "57.4643967",
+      "57.464764",
+      "10.5291327",
+      "10.5297061"
+    ],
+    "lat": "57.4645725",
+    "lon": "10.5294562663154",
+    "display_name": "Cd, K\u00e6ret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1431116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "318021752",
+    "boundingbox": [
+      "45.8463705",
+      "45.8663705",
+      "8.722805",
+      "8.742805"
+    ],
+    "lat": "45.8563705",
+    "lon": "8.732805",
+    "display_name": "Cadd\u00e8, Comerio, VA, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "128955891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281006621",
+    "boundingbox": [
+      "22.7479507",
+      "22.7479935",
+      "-83.5557387",
+      "-83.5555597"
+    ],
+    "lat": "22.7479507",
+    "lon": "-83.5557387",
+    "display_name": "CD, La Palma, Pinar del R\u00edo, Cuba",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124796348",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256775149",
+    "boundingbox": [
+      "22.9587926",
+      "22.9589581",
+      "-82.7595626",
+      "-82.7592985"
+    ],
+    "lat": "22.9589581",
+    "lon": "-82.7592985",
+    "display_name": "CD, San Miguel, Nodarse, Mariel, Artemisa, Cuba",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "119671888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "235498837",
+    "boundingbox": [
+      "22.5200949",
+      "22.5204889",
+      "-84.1477085",
+      "-84.147166"
+    ],
+    "lat": "22.5204889",
+    "lon": "-84.147166",
+    "display_name": "CD, San Ram\u00f3n, Mantua, Pinar del R\u00edo, Cuba",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  }
+]

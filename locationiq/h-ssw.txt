@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "52745463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4017642540",
+    "boundingbox": [
+      "54.4801024",
+      "54.4802024",
+      "9.0467636",
+      "9.0468636"
+    ],
+    "lat": "54.4801524",
+    "lon": "9.0468136",
+    "display_name": "SSW, 81, Neustadt, Zentrum, Husum, Kreis Nordfriesland, Schleswig-Holstein, 25813, Deutschland",
+    "class": "office",
+    "type": "political_party",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609293248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186654300",
+    "boundingbox": [
+      "53.1102008",
+      "53.1103787",
+      "8.849452",
+      "8.8497943"
+    ],
+    "lat": "53.1102897",
+    "lon": "8.84962315077724",
+    "display_name": "SSW, James-Watt-Stra\u00dfe, Lehe, Horn-Lehe, Stadtbezirk Bremen-Ost, Bremen, 28359, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "105341941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "175882585",
+    "boundingbox": [
+      "3.019134",
+      "3.0196968",
+      "101.561104",
+      "101.5614636"
+    ],
+    "lat": "3.0194127",
+    "lon": "101.561283821344",
+    "display_name": "SSW, Jalan Tajuh 27/29, Taman Alam Indah, Sekysen 27, Shah Alam, Selangor, 40400, Malaysia",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "160453800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1710832",
+    "boundingbox": [
+      "30.280052",
+      "30.2810657",
+      "-97.7331324",
+      "-97.7321214"
+    ],
+    "lat": "30.28058705",
+    "lon": "-97.73237882716",
+    "display_name": "School of Social Work Building, 1925, San Jacinto Boulevard, Austin, Travis County, Texas, 78705, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "3460647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369034895",
+    "boundingbox": [
+      "48.6581678",
+      "48.6881678",
+      "-123.1910563",
+      "-123.1610563"
+    ],
+    "lat": "48.6731678",
+    "lon": "-123.1760563",
+    "display_name": "Stuart Island Airpark, Cove Road, Prevost, San Juan County, Washington, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2654913715",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1761043358",
+    "boundingbox": [
+      "30.0187921",
+      "30.0287921",
+      "77.4192744",
+      "77.4292744"
+    ],
+    "lat": "30.0237921",
+    "lon": "77.4242744",
+    "display_name": "Sarsawa, NH344, Sarsawa, Saharanpur, Uttar Pradesh, 247232, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

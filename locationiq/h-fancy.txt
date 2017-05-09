@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "401747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153781920",
+    "boundingbox": [
+      "36.3464497",
+      "36.3864497",
+      "-88.6744981",
+      "-88.6344981"
+    ],
+    "lat": "36.3664497",
+    "lon": "-88.6544981",
+    "display_name": "Fancy, Weakley County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1539902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "332372775",
+    "boundingbox": [
+      "53.1050012",
+      "53.1051012",
+      "-6.2835046",
+      "-6.2834046"
+    ],
+    "lat": "53.1050512",
+    "lon": "-6.2834546",
+    "display_name": "Luggala, Wicklow Municipal District, County Wicklow, Leinster, Ireland",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3084484386218,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "148982854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "384341090",
+    "boundingbox": [
+      "13.3784118",
+      "13.3824885",
+      "-61.1733854",
+      "-61.1699737"
+    ],
+    "lat": "13.3798235",
+    "lon": "-61.1714127697435",
+    "display_name": "Fancy, Charlotte, Saint Vincent and the Grenadines",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "901440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "281174402",
+    "boundingbox": [
+      "13.3414563",
+      "13.4214563",
+      "-61.2107267",
+      "-61.1307267"
+    ],
+    "lat": "13.3814563",
+    "lon": "-61.1707267",
+    "display_name": "Fancy, Charlotte, Saint Vincent and the Grenadines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.20803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "23625072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2327741554",
+    "boundingbox": [
+      "47.6114072",
+      "47.6115072",
+      "-122.3410035",
+      "-122.3409035"
+    ],
+    "lat": "47.6114572",
+    "lon": "-122.3409535",
+    "display_name": "Fancy, 1914, 2nd Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23452593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2306709207",
+    "boundingbox": [
+      "52.5031772",
+      "52.5032772",
+      "13.3074762",
+      "13.3075762"
+    ],
+    "lat": "52.5032272",
+    "lon": "13.3075262",
+    "display_name": "Fancy, Wilmersdorfer Stra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10629, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "151966176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "401800823",
+    "boundingbox": [
+      "45.50517",
+      "45.5053077",
+      "-122.6539261",
+      "-122.6538651"
+    ],
+    "lat": "45.50527295",
+    "lon": "-122.653895190131",
+    "display_name": "Fancy!, 1125, Southeast Division Street, Ladd's Addition, Central East Side, Portland, Multnomah County, Oregon, 97202, United States of America",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "49277286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3644683827",
+    "boundingbox": [
+      "45.6438189",
+      "45.6439189",
+      "25.593403",
+      "25.593503"
+    ],
+    "lat": "45.6438689",
+    "lon": "25.593453",
+    "display_name": "Fancy, 47, Strada Republicii, Bra\u0219ov, 500030, Rom\u00e2nia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "23497331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2330781929",
+    "boundingbox": [
+      "46.5504416",
+      "46.5505416",
+      "15.6440308",
+      "15.6441308"
+    ],
+    "lat": "46.5504916",
+    "lon": "15.6440808",
+    "display_name": "Fancy, \u017ditna ulica, Magdalena, Maribor, Podravska, 2000, Slovenija",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2610668700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4512126806",
+    "boundingbox": [
+      "47.392159",
+      "47.392259",
+      "8.0444751",
+      "8.0445751"
+    ],
+    "lat": "47.392209",
+    "lon": "8.0445251",
+    "display_name": "Fancy, Zwischen den Toren, Scheibenschachen, Aarau, Bezirk Aarau, Aargau, 5000, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

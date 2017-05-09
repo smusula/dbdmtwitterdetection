@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160306497",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307573",
+    "boundingbox": [
+      "23.5393916",
+      "37.084107",
+      "60.872855",
+      "77.1203914"
+    ],
+    "lat": "30.3308401",
+    "lon": "71.247499",
+    "display_name": "\u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.79010788891512,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160271784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130957",
+    "boundingbox": [
+      "49.0020468",
+      "50.8205481",
+      "21.1400033",
+      "23.5479126"
+    ],
+    "lat": "49.9927121",
+    "lon": "22.177107",
+    "display_name": "podkarpackie, Polska",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5667893903104,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160347791",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "439376",
+    "boundingbox": [
+      "38.690659",
+      "39.565609",
+      "-106.2102059",
+      "-105.3289085"
+    ],
+    "lat": "39.1089299",
+    "lon": "-105.7561638",
+    "display_name": "Park County, Colorado, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55011751080014,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160389841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1242989",
+    "boundingbox": [
+      "44.999999",
+      "46.193325",
+      "-111.046725",
+      "-109.7978589"
+    ],
+    "lat": "45.5027347",
+    "lon": "-110.5298099",
+    "display_name": "Park County, Montana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52547953268768,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160304207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "288537",
+    "boundingbox": [
+      "43.801156",
+      "45.0058281",
+      "-111.0553309",
+      "-108.5505619"
+    ],
+    "lat": "44.6076072",
+    "lon": "-109.5678483",
+    "display_name": "Park County, Wyoming, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5111207303807,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160467396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1800726",
+    "boundingbox": [
+      "39.3951852",
+      "39.844166",
+      "-91.3700089",
+      "-90.5673449"
+    ],
+    "lat": "39.6108707",
+    "lon": "-90.8538305",
+    "display_name": "Pike County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48412686507501,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7992462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "849075933",
+    "boundingbox": [
+      "54.845111",
+      "54.885111",
+      "-7.1007097",
+      "-7.0607097"
+    ],
+    "lat": "54.865111",
+    "lon": "-7.0807097",
+    "display_name": "Park, County Londonderry, Northern Ireland, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.4439472180372,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160333609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "417783",
+    "boundingbox": [
+      "41.0813515",
+      "41.6019514",
+      "-75.3589958",
+      "-74.6895019"
+    ],
+    "lat": "41.340546",
+    "lon": "-75.0083259",
+    "display_name": "Pike County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42826713968404,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160455011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1846577",
+    "boundingbox": [
+      "37.196118",
+      "37.745384",
+      "-82.7322919",
+      "-81.9645412"
+    ],
+    "lat": "37.4512431",
+    "lon": "-82.3855721",
+    "display_name": "Pike County, Kentucky, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40593119814647,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160372566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1029445",
+    "boundingbox": [
+      "32.968384",
+      "33.208725",
+      "-84.5383829",
+      "-84.2479019"
+    ],
+    "lat": "33.081484",
+    "lon": "-84.396948",
+    "display_name": "Pike County, Georgia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40334291715277,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

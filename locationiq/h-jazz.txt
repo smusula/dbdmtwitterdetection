@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "156665438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "427563329",
+    "boundingbox": [
+      "50.3222687",
+      "50.3224822",
+      "17.5835866",
+      "17.5836949"
+    ],
+    "lat": "50.3224081",
+    "lon": "17.5836293",
+    "display_name": "Jazz, Prudnik, gmina Prudnik, powiat prudnicki, opolskie, Polska",
+    "class": "waterway",
+    "type": "weir",
+    "importance": 0.425
+  },
+  {
+    "place_id": "121819578",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244394111",
+    "boundingbox": [
+      "51.104931",
+      "51.1049541",
+      "16.8301812",
+      "16.8304165"
+    ],
+    "lat": "51.1049541",
+    "lon": "16.8301812",
+    "display_name": "Jazz, Samotw\u00f3r, gmina K\u0105ty Wroc\u0142awskie, powiat wroc\u0142awski, dolno\u015bl\u0105skie, Polska",
+    "class": "waterway",
+    "type": "weir",
+    "importance": 0.425
+  },
+  {
+    "place_id": "56298419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4392811801",
+    "boundingbox": [
+      "20.6726416",
+      "20.6727416",
+      "-103.4112899",
+      "-103.4111899"
+    ],
+    "lat": "20.6726916",
+    "lon": "-103.4112399",
+    "display_name": "jazz, San Vicente de Paul, Zapopan, Jalisco, 45049, M\u00e9xico",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.111
+  },
+  {
+    "place_id": "53912076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4140719306",
+    "boundingbox": [
+      "39.9502621",
+      "39.9503621",
+      "-75.1653922",
+      "-75.1652922"
+    ],
+    "lat": "39.9503121",
+    "lon": "-75.1653422",
+    "display_name": "Jazz, Sansom Street, Rittenhouse Square, Philadelphia, Philadelphia County, Pennsylvania, 19103, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2651086323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4661181820",
+    "boundingbox": [
+      "42.3345323",
+      "42.3346323",
+      "-83.0488522",
+      "-83.0487522"
+    ],
+    "lat": "42.3345823",
+    "lon": "-83.0488022",
+    "display_name": "Jazz, Woodward Avenue, Detroit, Wayne County, Michigan, 48226, United States of America",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "45087735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3203443944",
+    "boundingbox": [
+      "59.4226647",
+      "59.4227647",
+      "24.7962739",
+      "24.7963739"
+    ],
+    "lat": "59.4227147",
+    "lon": "24.7963239",
+    "display_name": "Jazz, 4, Suur-S\u00f5jam\u00e4e, Lasnam\u00e4e linnaosa, Tallinn, Harju maakond, 11415, Eesti",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15515222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1395235497",
+    "boundingbox": [
+      "43.5092857",
+      "43.5093857",
+      "16.4547873",
+      "16.4548873"
+    ],
+    "lat": "43.5093357",
+    "lon": "16.4548373",
+    "display_name": "Jazz, Kranj\u010devi\u0107eva, Plakalu\u0161a, Gradski kotar Gripe, Split, Splitsko-Dalmatinska \u017eupanija, 21000, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "20165001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1987539609",
+    "boundingbox": [
+      "68.9616798",
+      "68.9617798",
+      "33.0655746",
+      "33.0656746"
+    ],
+    "lat": "68.9617298",
+    "lon": "33.0656246",
+    "display_name": "Jazz, 3, \u0422\u0435\u0430\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, \u0413\u0432\u0430\u0440\u0434\u0435\u0439\u0441\u043a\u0438\u0439, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a, \u041c\u0443\u0440\u043c\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 183038, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "115329817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218364267",
+    "boundingbox": [
+      "51.7471778",
+      "51.7472703",
+      "18.077652",
+      "18.0778066"
+    ],
+    "lat": "51.7472262",
+    "lon": "18.0777261106422",
+    "display_name": "Jazz, 54a, Ostrowska, Marii Konopnickiej, Osiedle Adama Asnyka, Kalisz, wielkopolskie, 62-800, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "45634216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3235695154",
+    "boundingbox": [
+      "39.1262885",
+      "39.1263885",
+      "-94.8283436",
+      "-94.8282436"
+    ],
+    "lat": "39.1263385",
+    "lon": "-94.8282936",
+    "display_name": "Jazz, North Village West Parkway, Kansas City, Wyandotte County, Kansas, 66109, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

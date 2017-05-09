@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160249577",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "47540",
+    "boundingbox": [
+      "52.6121849",
+      "53.2038323",
+      "6.11982",
+      "7.0927397"
+    ],
+    "lat": "52.9067922",
+    "lon": "6.6368423",
+    "display_name": "Drenthe, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68342897155488,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "159738408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444490479",
+    "boundingbox": [
+      "54.3305451",
+      "54.3307557",
+      "-2.7355856",
+      "-2.7353563"
+    ],
+    "lat": "54.3306437",
+    "lon": "-2.73554031770762",
+    "display_name": "Drive, Netherfield, South Lakeland, Cumbria, North West England, England, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160677158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3473655",
+    "boundingbox": [
+      "46.8857767",
+      "46.8895159",
+      "17.9868963",
+      "17.9954524"
+    ],
+    "lat": "46.88672365",
+    "lon": "17.9895387663439",
+    "display_name": "DRV, F\u00fcrd\u0151telep, Zam\u00e1rdi, Si\u00f3foki j\u00e1r\u00e1s, Somogy megye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 8621, Magyarorsz\u00e1g",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "114934049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "216699514",
+    "boundingbox": [
+      "39.617611",
+      "39.6181265",
+      "-105.183113",
+      "-105.1823289"
+    ],
+    "lat": "39.61786875",
+    "lon": "-105.18272095",
+    "display_name": "driving_range, Twin Forks, Jefferson County, Colorado, 80465, United States of America",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1487137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336179994",
+    "boundingbox": [
+      "31.9368333",
+      "31.9768333",
+      "-114.7591666",
+      "-114.7191666"
+    ],
+    "lat": "31.9568333",
+    "lon": "-114.7391666",
+    "display_name": "El Doctor, San Luis R\u00edo Colorado, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21387886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2135487353",
+    "boundingbox": [
+      "20.8303606",
+      "20.8703606",
+      "-99.6080183",
+      "-99.5680183"
+    ],
+    "lat": "20.8503606",
+    "lon": "-99.5880183",
+    "display_name": "El Doctor, Cadereyta de Montes, Quer\u00e9taro, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45263936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3232763461",
+    "boundingbox": [
+      "33.2685424",
+      "33.3085424",
+      "50.6095517",
+      "50.6495517"
+    ],
+    "lat": "33.2885424",
+    "lon": "50.6295517",
+    "display_name": "\u062f\u0631, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06af\u0644\u067e\u0627\u06cc\u06af\u0627\u0646, \u0627\u0633\u062a\u0627\u0646 \u0627\u0635\u0641\u0647\u0627\u0646, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56997016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4433306926",
+    "boundingbox": [
+      "25.7795569",
+      "25.8195569",
+      "61.0964572",
+      "61.1364572"
+    ],
+    "lat": "25.7995569",
+    "lon": "61.1164572",
+    "display_name": "\u062f\u0631, \u0628\u062e\u0634 \u062a\u0644\u0646\u06af, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0642\u0635\u0631\u0642\u0646\u062f, \u0627\u0633\u062a\u0627\u0646 \u0633\u06cc\u0633\u062a\u0627\u0646 \u0648 \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13029496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241421767",
+    "boundingbox": [
+      "40.9039538",
+      "40.9239538",
+      "-4.9755765",
+      "-4.9555765"
+    ],
+    "lat": "40.9139538",
+    "lon": "-4.9655765",
+    "display_name": "El Doctor, Fontiveros, \u00c1vila, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13325235",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242022567",
+    "boundingbox": [
+      "41.5570596",
+      "41.5770596",
+      "-1.9760167",
+      "-1.9560167"
+    ],
+    "lat": "41.5670596",
+    "lon": "-1.9660167",
+    "display_name": "El Doctor, Berdejo, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

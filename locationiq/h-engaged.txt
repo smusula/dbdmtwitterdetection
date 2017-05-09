@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "3204704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358950512",
+    "boundingbox": [
+      "39.7386967",
+      "39.7387967",
+      "-104.9656857",
+      "-104.9655857"
+    ],
+    "lat": "39.7387467",
+    "lon": "-104.9656357",
+    "display_name": "Althea Center for Engaged Spirituality, 1400, Williams Street, City Park West, Denver, Denver County, Colorado, 80218, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "51596229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3843585051",
+    "boundingbox": [
+      "38.6497991",
+      "38.6498991",
+      "-90.3004685",
+      "-90.3003685"
+    ],
+    "lat": "38.6498491",
+    "lon": "-90.3004185",
+    "display_name": "Office for Socially Engaged Practice, 282, North Skinker Boulevard, St. Louis, City of St. Louis, Missouri, 63130, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3171891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358843154",
+    "boundingbox": [
+      "33.9371879",
+      "33.9372879",
+      "-117.3895391",
+      "-117.3894391"
+    ],
+    "lat": "33.9372379",
+    "lon": "-117.3894891",
+    "display_name": "Catholic Engaged Encounter, Mary Street, Riverside, Riverside County, California, 92506, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "137845334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "323174030",
+    "boundingbox": [
+      "39.7389225",
+      "39.7390542",
+      "-104.9658447",
+      "-104.9654259"
+    ],
+    "lat": "39.7389884",
+    "lon": "-104.965635299924",
+    "display_name": "Althea, Williams Street, City Park West, Denver, Denver County, Colorado, 80218, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.001
+  }
+]

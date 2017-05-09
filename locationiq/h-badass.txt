@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "6268191",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "655118350",
+    "boundingbox": [
+      "53.52234",
+      "53.52244",
+      "-113.5116927",
+      "-113.5115927"
+    ],
+    "lat": "53.52239",
+    "lon": "-113.5116427",
+    "display_name": "BadAss Jacks, 109 Street NW, Garneau, Old Strathcona, Edmonton, Alberta, T6G 1E8, Canada",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16606404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1539243264",
+    "boundingbox": [
+      "53.539512",
+      "53.539612",
+      "-113.6143979",
+      "-113.6142979"
+    ],
+    "lat": "53.539562",
+    "lon": "-113.6143479",
+    "display_name": "Badass Jack's, 100 Avenue NW, Jasper Place, Edmonton, Alberta, T5T 5L5, Canada",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2610189521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4499960700",
+    "boundingbox": [
+      "38.4965519",
+      "38.4966519",
+      "-122.7482328",
+      "-122.7481328"
+    ],
+    "lat": "38.4966019",
+    "lon": "-122.7481828",
+    "display_name": "Badass Coffee, East Fulton Road, Fulton, Sonoma County, California, 95403, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "105425418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "175992147",
+    "boundingbox": [
+      "-8.4617923",
+      "-8.4610866",
+      "117.3653285",
+      "117.3660956"
+    ],
+    "lat": "-8.46147925",
+    "lon": "117.365730221606",
+    "display_name": "Sekolah Badass, Jalan Pantai Goa, Labuhan Badas, Nusa Tenggara Barat, 84316, Indonesia",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "51488735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3834476049",
+    "boundingbox": [
+      "35.9186784",
+      "35.9187784",
+      "14.4894022",
+      "14.4895022"
+    ],
+    "lat": "35.9187284",
+    "lon": "14.4894522",
+    "display_name": "Badass Burgers, 1, Triq Wied Ghomor, San \u0120iljan, Malta, STJ1963, Malta",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

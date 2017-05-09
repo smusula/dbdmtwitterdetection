@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "25833201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2479777980",
+    "boundingbox": [
+      "48.8077954",
+      "48.8078954",
+      "2.127771",
+      "2.127871"
+    ],
+    "lat": "48.8078454",
+    "lon": "2.127821",
+    "display_name": "YR, Rue de la Paroisse, Notre-Dame, Versailles, Yvelines, \u00cele-de-France, 78000, France",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "125927539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261969845",
+    "boundingbox": [
+      "40.8026429",
+      "40.8031165",
+      "-77.8639232",
+      "-77.8631506"
+    ],
+    "lat": "40.802872",
+    "lon": "-77.8635388130573",
+    "display_name": "YR, Curtin Road, State College, Centre County, Pennsylvania, 16802-2604, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  }
+]

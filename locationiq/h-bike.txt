@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "160747457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4103471",
+    "boundingbox": [
+      "51.408841",
+      "51.4134489",
+      "8.4924648",
+      "8.5115142"
+    ],
+    "lat": "51.4131847",
+    "lon": "8.5028867",
+    "display_name": "Bieke, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.35
+  },
+  {
+    "place_id": "104727815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173306415",
+    "boundingbox": [
+      "51.3930478",
+      "51.3931005",
+      "8.5982491",
+      "8.598528"
+    ],
+    "lat": "51.3930478",
+    "lon": "8.5982491",
+    "display_name": "Bieke, Brilon, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "137774031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "322729041",
+    "boundingbox": [
+      "51.3161548",
+      "51.3259567",
+      "8.294048",
+      "8.2961448"
+    ],
+    "lat": "51.320943",
+    "lon": "8.2943872",
+    "display_name": "Bieke, Meschede, Hochsauerlandkreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  }
+]

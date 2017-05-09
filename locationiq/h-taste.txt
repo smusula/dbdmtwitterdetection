@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "53053684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4041795587",
+    "boundingbox": [
+      "44.2675216",
+      "44.3075216",
+      "-0.2622626",
+      "-0.2222626"
+    ],
+    "lat": "44.2875216",
+    "lon": "-0.2422626",
+    "display_name": "Taste, Langon, Gironde, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1533700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336169268",
+    "boundingbox": [
+      "30.4826667",
+      "30.5226667",
+      "-110.7203332",
+      "-110.6803332"
+    ],
+    "lat": "30.5026667",
+    "lon": "-110.7003332",
+    "display_name": "El Taste, Cucurpe, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1604139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336172417",
+    "boundingbox": [
+      "27.1493333",
+      "27.1893333",
+      "-109.4244999",
+      "-109.3844999"
+    ],
+    "lat": "27.1693333",
+    "lon": "-109.4044999",
+    "display_name": "El Taste, Navojoa, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647591424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4580820137",
+    "boundingbox": [
+      "12.1778872",
+      "12.2178872",
+      "-61.6458366",
+      "-61.6058366"
+    ],
+    "lat": "12.1978872",
+    "lon": "-61.6258366",
+    "display_name": "La Taste, Grenada",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24291820",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2381740823",
+    "boundingbox": [
+      "44.8418237",
+      "44.8618237",
+      "-0.7892391",
+      "-0.7692391"
+    ],
+    "lat": "44.8518237",
+    "lon": "-0.7792391",
+    "display_name": "La Taste, Martignas-sur-Jalle, Bordeaux, Gironde, Nouvelle-Aquitaine, 33127, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55474540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4311428867",
+    "boundingbox": [
+      "44.1719366",
+      "44.1919366",
+      "0.0412962",
+      "0.0612962"
+    ],
+    "lat": "44.1819366",
+    "lon": "0.0512962",
+    "display_name": "La Taste, Houeill\u00e8s, N\u00e9rac, Lot-et-Garonne, Nouvelle-Aquitaine, 47420, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8094353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "881723820",
+    "boundingbox": [
+      "43.8317383",
+      "43.8318383",
+      "0.5143151",
+      "0.5144151"
+    ],
+    "lat": "43.8317883",
+    "lon": "0.5143651",
+    "display_name": "La Taste, La Sauvetat, Condom, Gers, Occitanie, 32500, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "112296831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205514629",
+    "boundingbox": [
+      "44.2868584",
+      "44.2906018",
+      "-0.2487247",
+      "-0.2414032"
+    ],
+    "lat": "44.289265",
+    "lon": "-0.2450177",
+    "display_name": "Taste, Captieux, Langon, Gironde, Nouvelle-Aquitaine, 33840, France",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654300785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4738263349",
+    "boundingbox": [
+      "1.3097372",
+      "1.3098372",
+      "103.8520228",
+      "103.8521228"
+    ],
+    "lat": "1.3097872",
+    "lon": "103.8520728",
+    "display_name": "Taste, Race Course Road, Little India, Singapore, Central Singapore Community Development Council, 218583, Singapore",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654565374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3940362196",
+    "boundingbox": [
+      "52.2252242",
+      "52.2253242",
+      "5.1726173",
+      "5.1727173"
+    ],
+    "lat": "52.2252742",
+    "lon": "5.1726673",
+    "display_name": "Taste, Schoutenstraat, Hilversum, MRA, Noord-Holland, Nederland, 1211BM, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

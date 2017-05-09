@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160262762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112204",
+    "boundingbox": [
+      "39.700031",
+      "39.787111",
+      "-105.2419609",
+      "-105.1618589"
+    ],
+    "lat": "39.755543",
+    "lon": "-105.2210996",
+    "display_name": "Golden, Jefferson County, Colorado, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57242099801353,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "72779144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33113233",
+    "boundingbox": [
+      "39.700031",
+      "39.786761",
+      "-105.2419609",
+      "-105.1618589"
+    ],
+    "lat": "39.755543",
+    "lon": "-105.2210996",
+    "display_name": "Golden, Jefferson County, Colorado, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57242099801353,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160506448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2238685",
+    "boundingbox": [
+      "51.2760126",
+      "51.3220715",
+      "-116.9934222",
+      "-116.9366534"
+    ],
+    "lat": "51.2975991",
+    "lon": "-116.9646043",
+    "display_name": "Golden, Columbia-Shuswap Regional District, British Columbia, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45924466365066,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "419849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154055808",
+    "boundingbox": [
+      "37.9909535",
+      "38.0309535",
+      "-80.3250737",
+      "-80.2850737"
+    ],
+    "lat": "38.0109535",
+    "lon": "-80.3050737",
+    "display_name": "Golden, Greenbrier County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.4246364951483,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646293718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6788828",
+    "boundingbox": [
+      "52.4675147",
+      "52.5227485",
+      "-8.0265487",
+      "-7.9274013"
+    ],
+    "lat": "52.49513195",
+    "lon": "-7.96965092109948",
+    "display_name": "Golden, Cashel-Tipperary, County Tipperary, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160268096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126107",
+    "boundingbox": [
+      "40.105713",
+      "40.114483",
+      "-91.0307139",
+      "-91.0071849"
+    ],
+    "lat": "40.1092135",
+    "lon": "-91.0176356",
+    "display_name": "Golden, Adams County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "433119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154300806",
+    "boundingbox": [
+      "43.5900261",
+      "43.6300261",
+      "-84.1883196",
+      "-84.1483196"
+    ],
+    "lat": "43.6100261",
+    "lon": "-84.1683196",
+    "display_name": "Golden, Midland County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "408811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153679028",
+    "boundingbox": [
+      "46.1227247",
+      "46.1627247",
+      "-88.040689",
+      "-88.000689"
+    ],
+    "lat": "46.1427247",
+    "lon": "-88.020689",
+    "display_name": "Golden, Dickinson County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "332975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150921748",
+    "boundingbox": [
+      "60.95",
+      "60.99",
+      "-148.006111",
+      "-147.966111"
+    ],
+    "lat": "60.97",
+    "lon": "-147.986111",
+    "display_name": "Golden, Valdez-Cordova, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "375750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151612209",
+    "boundingbox": [
+      "42.3705451",
+      "42.4105451",
+      "-91.4904315",
+      "-91.4504315"
+    ],
+    "lat": "42.3905451",
+    "lon": "-91.4704315",
+    "display_name": "Golden, Delaware County, Iowa, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160442915",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1742105",
+    "boundingbox": [
+      "42.3275388",
+      "43.113441",
+      "-113.2435379",
+      "-112.3795204"
+    ],
+    "lat": "42.6769078",
+    "lon": "-112.8869774",
+    "display_name": "Power County, Idaho, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46174263455481,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "452171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154396063",
+    "boundingbox": [
+      "40.1911821",
+      "40.2311821",
+      "-80.6792439",
+      "-80.6392439"
+    ],
+    "lat": "40.2111821",
+    "lon": "-80.6592439",
+    "display_name": "Power, Brooke County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "343580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151378806",
+    "boundingbox": [
+      "46.5355233",
+      "46.5755233",
+      "-97.2581461",
+      "-97.2181461"
+    ],
+    "lat": "46.5555233",
+    "lon": "-97.2381461",
+    "display_name": "Power, Richland County, North Dakota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52833117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4027955838",
+    "boundingbox": [
+      "36.5580647",
+      "36.5980647",
+      "72.8050734",
+      "72.8450734"
+    ],
+    "lat": "36.5780647",
+    "lon": "72.8250734",
+    "display_name": "Power, Chitr\u0101l District, \u062e\u06cc\u0628\u0631 \u067e\u062e\u062a\u0648\u0646\u062e\u0648\u0627, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47834458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3497401453",
+    "boundingbox": [
+      "52.6432485",
+      "52.6632485",
+      "12.3175855",
+      "12.3375855"
+    ],
+    "lat": "52.6532485",
+    "lon": "12.3275855",
+    "display_name": "Der Power, G\u00f6ttlin, Rathenow, Landkreis Havelland, Brandenburg, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160278156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "142566",
+    "boundingbox": [
+      "47.712272",
+      "47.740066",
+      "-111.7099799",
+      "-111.6777329"
+    ],
+    "lat": "47.7157905",
+    "lon": "-111.6869281",
+    "display_name": "Power, Teton County, Montana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.33470384519613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2610165853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453122669",
+    "boundingbox": [
+      "24.0710242",
+      "24.0910962",
+      "53.4323559",
+      "53.4392141"
+    ],
+    "lat": "24.07792285",
+    "lon": "53.4356040602554",
+    "display_name": "Power, \u0623\u0628\u0648 \u0638\u0628\u064a, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "landuse",
+    "type": "yes",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66663600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19357515",
+    "boundingbox": [
+      "41.606471",
+      "41.607395",
+      "-71.2423779",
+      "-71.2421869"
+    ],
+    "lat": "41.606937",
+    "lon": "-71.2423779",
+    "display_name": "Power, Portsmouth, Newport County, Rhode Island, 02871, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118343034",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229785184",
+    "boundingbox": [
+      "-28.9980556",
+      "-28.9974526",
+      "29.8389294",
+      "29.8413495"
+    ],
+    "lat": "-28.9979821",
+    "lon": "29.8402328",
+    "display_name": "Power, Umtshezi Ward 4, Umtshezi Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118357620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229785194",
+    "boundingbox": [
+      "-28.9947311",
+      "-28.9927588",
+      "29.8329639",
+      "29.8335887"
+    ],
+    "lat": "-28.9937047",
+    "lon": "29.8329639",
+    "display_name": "Power, Umtshezi Ward 4, Umtshezi Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  }
+]

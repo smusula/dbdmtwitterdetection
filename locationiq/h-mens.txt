@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160302136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "271971",
+    "boundingbox": [
+      "44.7839059",
+      "44.8396432",
+      "5.6908299",
+      "5.8165939"
+    ],
+    "lat": "44.8170544",
+    "lon": "5.7508768",
+    "display_name": "Mens, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38710, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.60977452448715,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "26514736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2505462063",
+    "boundingbox": [
+      "46.1401379",
+      "46.1801379",
+      "5.4632884",
+      "5.5032884"
+    ],
+    "lat": "46.1601379",
+    "lon": "5.4832884",
+    "display_name": "Mens, Nantua, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26011457",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2490175717",
+    "boundingbox": [
+      "43.27911",
+      "43.31911",
+      "-8.8906692",
+      "-8.8506692"
+    ],
+    "lat": "43.29911",
+    "lon": "-8.8706692",
+    "display_name": "Mens, A Coru\u00f1a, Galicia, Espa\u00f1a",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50676160",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3789928757",
+    "boundingbox": [
+      "-36.8630874",
+      "-36.8629874",
+      "174.7717175",
+      "174.7718175"
+    ],
+    "lat": "-36.8630374",
+    "lon": "174.7717675",
+    "display_name": "mens, Grandstand Road North, Grafton, Waitemata, Auckland, 1052, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "toilets",
+    "importance": 0.111
+  },
+  {
+    "place_id": "14274910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1270253817",
+    "boundingbox": [
+      "51.1765768",
+      "51.1766768",
+      "4.831746",
+      "4.831846"
+    ],
+    "lat": "51.1766268",
+    "lon": "4.831796",
+    "display_name": "Mens, 7, Wasserijstraat, Herentals, Turnhout, Antwerpen, Vlaanderen, 2200, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "774857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "264468378",
+    "boundingbox": [
+      "51.052626",
+      "51.052726",
+      "13.7842695",
+      "13.7843695"
+    ],
+    "lat": "51.052676",
+    "lon": "13.7843195",
+    "display_name": "Mensologie, 84, Blasewitzer Stra\u00dfe, Johannstadt-Nord, Altstadt, Dresden, Sachsen, 01307, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "98444862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149422101",
+    "boundingbox": [
+      "44.81412",
+      "44.814228",
+      "5.750687",
+      "5.75093"
+    ],
+    "lat": "44.8141555",
+    "lon": "5.750801984375",
+    "display_name": "Mens, D 66, Lotissement Pr\u00e9 Garron, Mens, Grenoble, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38710, France",
+    "class": "amenity",
+    "type": "post_office",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_post_office.p.20.png"
+  },
+  {
+    "place_id": "25436550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2449298514",
+    "boundingbox": [
+      "53.2606435",
+      "53.2607435",
+      "-2.1271294",
+      "-2.1270294"
+    ],
+    "lat": "53.2606935",
+    "lon": "-2.1270794",
+    "display_name": "Mens Den, 32A, Chestergate, Tytherington, Macclesfield, Cheshire East, North West England, England, SK11 6BA, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "3585838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "375975488",
+    "boundingbox": [
+      "51.3536923",
+      "51.3537923",
+      "-2.9911559",
+      "-2.9910559"
+    ],
+    "lat": "51.3537423",
+    "lon": "-2.9911059",
+    "display_name": "Mens, Birnbeck Road, Weston-Super-Mare CP, Weston, North Somerset, South West England, England, BS23 2AD, UK",
+    "class": "amenity",
+    "type": "toilets",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7390531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "795530565",
+    "boundingbox": [
+      "43.5661741",
+      "43.5662741",
+      "-89.8105091",
+      "-89.8104091"
+    ],
+    "lat": "43.5662241",
+    "lon": "-89.8104591",
+    "display_name": "Mens, E10320, Fern Dell Road, Dellwood, Sauk County, Wisconsin, 53913, United States of America",
+    "class": "amenity",
+    "type": "toilets",
+    "importance": 0.101
+  }
+]

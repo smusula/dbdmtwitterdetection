@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "101959163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163418949",
+    "boundingbox": [
+      "52.3984194",
+      "52.3996972",
+      "-1.4620669",
+      "-1.4596475"
+    ],
+    "lat": "52.39897745",
+    "lon": "-1.46085213185538",
+    "display_name": "Copsewood WIW Cricket, Sowe Valley Footpath, Ernesford Grange, Coventry, West Midlands, England, CV3 1HQ, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47737270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3467566058",
+    "boundingbox": [
+      "50.1635204",
+      "50.1636204",
+      "23.1172866",
+      "23.1173866"
+    ],
+    "lat": "50.1635704",
+    "lon": "23.1173366",
+    "display_name": "WIW-BUD, Arcybiskupa Eugeniusza Baziaka, Osiedle Adama Mickiewicza, Lubacz\u00f3w, powiat lubaczowski, podkarpackie, Polska",
+    "class": "shop",
+    "type": "trade",
+    "importance": 0.101
+  },
+  {
+    "place_id": "148268939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "380256057",
+    "boundingbox": [
+      "33.079906",
+      "33.080011",
+      "-116.8754101",
+      "-116.8719179"
+    ],
+    "lat": "33.0799548",
+    "lon": "-116.8752502",
+    "display_name": "Katherines Wiew Way, Ramona, San Diego County, California, 92065, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "68653400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23609004",
+    "boundingbox": [
+      "52.9445791",
+      "52.9507286",
+      "-1.0289053",
+      "-1.0139166"
+    ],
+    "lat": "52.94751515",
+    "lon": "-1.02041496258051",
+    "display_name": "Harlequin, Rushcliffe, Nottinghamshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.17374459342567,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72121650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31620396",
+    "boundingbox": [
+      "43.7613165",
+      "43.7616732",
+      "-79.3529685",
+      "-79.3522401"
+    ],
+    "lat": "43.76149485",
+    "lon": "-79.3526043",
+    "display_name": "Harlequin, 225, Duncan Mill Road, Henry Farm, North York, Toronto, Ontario, M3B 2S7, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101892025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163272356",
+    "boundingbox": [
+      "51.5298057",
+      "51.5298777",
+      "-0.1062902",
+      "-0.1060886"
+    ],
+    "lat": "51.5298436",
+    "lon": "-0.106202752348994",
+    "display_name": "The Harlequin, 27, Arlington Way, Pentonville, London Borough of Islington, London, Greater London, England, EC1R 4TN, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "131210654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "292460370",
+    "boundingbox": [
+      "51.4726513",
+      "51.4727768",
+      "-0.4499045",
+      "-0.4497237"
+    ],
+    "lat": "51.4727098",
+    "lon": "-0.449814178665972",
+    "display_name": "The Harlequin, Cranwell Road, Harmondsworth, London Borough of Hillingdon, London, Greater London, England, TW6 1EW, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "144091227",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "360905408",
+    "boundingbox": [
+      "51.5299537",
+      "51.530057",
+      "-0.1854892",
+      "-0.1853356"
+    ],
+    "lat": "51.53000535",
+    "lon": "-0.185412400000001",
+    "display_name": "Harlequin, 296, Elgin Avenue, Maida Vale, City of Westminster, London, Greater London, England, W9, UK",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "88276846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109300872",
+    "boundingbox": [
+      "53.388397",
+      "53.3885411",
+      "-1.4665008",
+      "-1.4661899"
+    ],
+    "lat": "53.3884864",
+    "lon": "-1.46634043333938",
+    "display_name": "The Harlequin, Spitalfields, Moorhead, Wicker, Sheffield, Yorkshire and the Humber, England, S3 8HT, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "55448076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4308130889",
+    "boundingbox": [
+      "-25.7689964",
+      "-25.7688964",
+      "28.2172474",
+      "28.2173474"
+    ],
+    "lat": "-25.7689464",
+    "lon": "28.2172974",
+    "display_name": "The Harlequin, 56, Totius Street, Tshwane Ward 59, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0181, South Africa",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4562756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "489449305",
+    "boundingbox": [
+      "51.5982542",
+      "51.5983542",
+      "-2.998471",
+      "-2.998371"
+    ],
+    "lat": "51.5983042",
+    "lon": "-2.998421",
+    "display_name": "Harlequin, Heidenheim Drive, Shaftesbury, Newport, Wales, NP20, UK",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.101
+  },
+  {
+    "place_id": "42709468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3102976406",
+    "boundingbox": [
+      "42.424424",
+      "42.424524",
+      "18.7716285",
+      "18.7717285"
+    ],
+    "lat": "42.424474",
+    "lon": "18.7716785",
+    "display_name": "Harlequin, Zanatska ulica, \u0160kaljari, Kotor, Op\u0161tina Kotor, 85339, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "85483887",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97354419",
+    "boundingbox": [
+      "52.536285",
+      "52.5363384",
+      "-1.8268196",
+      "-1.8266749"
+    ],
+    "lat": "52.53631355",
+    "lon": "-1.82674714916362",
+    "display_name": "Harlequin, 399, Birmingham Road, Sutton Coldfield, Wylde Green, Birmingham, West Midlands, England, B72 1AU, UK",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  }
+]

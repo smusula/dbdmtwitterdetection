@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "33991776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2801341582",
+    "boundingbox": [
+      "45.4218192",
+      "45.4219192",
+      "-75.6969322",
+      "-75.6968322"
+    ],
+    "lat": "45.4218692",
+    "lon": "-75.6968822",
+    "display_name": "The Dancer, 111, Albert Street, Centretown, Somerset, Ottawa, Ontario, K1P 1A0, Canada",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "23395241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2323210943",
+    "boundingbox": [
+      "45.5865432",
+      "45.5866432",
+      "5.274787",
+      "5.274887"
+    ],
+    "lat": "45.5865932",
+    "lon": "5.274837",
+    "display_name": "Dancer, Place Hector Berlioz, Coteau des Ayes, Bourgoin-Jallieu, La Tour-du-Pin, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38300, France",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.101
+  },
+  {
+    "place_id": "82615161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83665691",
+    "boundingbox": [
+      "53.6814339",
+      "53.6817001",
+      "-1.4903251",
+      "-1.4894905"
+    ],
+    "lat": "53.6815728",
+    "lon": "-1.48989922555169",
+    "display_name": "The Dancer, 8, Peterson Road, Eastmoor, Wakefield, Yorkshire and the Humber, England, WF1 4PW, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2608776025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1965376115",
+    "boundingbox": [
+      "59.714429",
+      "59.714529",
+      "30.3924534",
+      "30.3925534"
+    ],
+    "lat": "59.714479",
+    "lon": "30.3925034",
+    "display_name": "\u0422\u0430\u043d\u0446\u043e\u0432\u0449\u0438\u0446\u0430, \u0420\u0430\u043c\u043f\u043e\u0432\u0430\u044f \u0430\u043b\u043b\u0435\u044f, \u0421\u043e\u0444\u0438\u044f, \u041f\u0443\u0448\u043a\u0438\u043d, \u041f\u0443\u0448\u043a\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "48256452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3544616009",
+    "boundingbox": [
+      "-13.8764723",
+      "-13.8364723",
+      "-72.7959925",
+      "-72.7559925"
+    ],
+    "lat": "-13.8564723",
+    "lon": "-72.7759925",
+    "display_name": "Itunes, Abancay, Apur\u00edmac, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19872683",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1984329774",
+    "boundingbox": [
+      "49.6042937",
+      "49.6043937",
+      "6.1292569",
+      "6.1293569"
+    ],
+    "lat": "49.6043437",
+    "lon": "6.1293069",
+    "display_name": "iTunes, Rue Sainte-Zithe, Gare, Luxembourg, Canton Luxembourg, 2763, L\u00ebtzebuerg",
+    "class": "office",
+    "type": "electronics",
+    "importance": 0.101
+  }
+]

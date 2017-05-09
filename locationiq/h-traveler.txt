@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "2984677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358225049",
+    "boundingbox": [
+      "46.0728418",
+      "46.0729418",
+      "-68.8449877",
+      "-68.8448877"
+    ],
+    "lat": "46.0728918",
+    "lon": "-68.8449377",
+    "display_name": "The Traveler, Piscataquis County, Maine, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "101985084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163530781",
+    "boundingbox": [
+      "46.1280473",
+      "46.1337245",
+      "-69.00657",
+      "-68.9944428"
+    ],
+    "lat": "46.1285688",
+    "lon": "-68.99857",
+    "display_name": "TRAVELER, Piscataquis County, Maine, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2645697860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4536993737",
+    "boundingbox": [
+      "34.0200082",
+      "34.0201082",
+      "-118.2852188",
+      "-118.2851188"
+    ],
+    "lat": "34.0200582",
+    "lon": "-118.2851688",
+    "display_name": "Traveler, Hahn Plaza, Saint James Park, LA, Los Angeles County, California, 90089-0374, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "50695346",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3786328448",
+    "boundingbox": [
+      "54.5202595",
+      "54.5203595",
+      "18.535207",
+      "18.535307"
+    ],
+    "lat": "54.5203095",
+    "lon": "18.535257",
+    "display_name": "Traveler, 22/24B, 3 Maja, Port, \u015ar\u00f3dmie\u015bcie, Gdynia, pomorskie, 81-364, Polska",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22529372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2254754099",
+    "boundingbox": [
+      "35.4084875",
+      "35.4085875",
+      "139.5963174",
+      "139.5964174"
+    ],
+    "lat": "35.4085375",
+    "lon": "139.5963674",
+    "display_name": "Traveler, \u938c\u5009\u8857\u9053, \u4e0a\u5927\u5ca1\u897f, \u6e2f\u5357\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, \u65e5\u672c",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "13672732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1249288349",
+    "boundingbox": [
+      "47.6249452",
+      "47.6250452",
+      "-122.5190915",
+      "-122.5189915"
+    ],
+    "lat": "47.6249952",
+    "lon": "-122.5190415",
+    "display_name": "The Traveler, 265, Winslow Way East, Bainbridge Island, Kitsap County, Washington, 98110, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2648619247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4603748894",
+    "boundingbox": [
+      "24.8102714",
+      "24.8103714",
+      "120.9745183",
+      "120.9746183"
+    ],
+    "lat": "24.8103214",
+    "lon": "120.9745683",
+    "display_name": "Traveler, \u6c11\u6b0a\u8def, \u5fa9\u4e2d\u91cc, \u7530\u5fc3\u5e84, \u6771\u5340, \u65b0\u7af9\u5e02, 30051, \u81fa\u7063",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "8346768",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "886780509",
+    "boundingbox": [
+      "37.1370063",
+      "37.1371063",
+      "-116.1381895",
+      "-116.1380895"
+    ],
+    "lat": "37.1370563",
+    "lon": "-116.1381395",
+    "display_name": "Traveler, Mesa Road, Nye County, Nevada, United States of America",
+    "class": "military",
+    "type": "nuclear_explosion_site",
+    "importance": 0.101
+  }
+]

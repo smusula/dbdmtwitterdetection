@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "25628795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2478628079",
+    "boundingbox": [
+      "50.7425349",
+      "51.0625349",
+      "-1.5641889",
+      "-1.2441889"
+    ],
+    "lat": "50.9025349",
+    "lon": "-1.4041889",
+    "display_name": "Southampton, South East, England, UK",
+    "class": "place",
+    "type": "city",
+    "importance": 0.71667735665,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160270353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127864",
+    "boundingbox": [
+      "50.8715095",
+      "50.9561307",
+      "-1.4790049",
+      "-1.3219861"
+    ],
+    "lat": "50.9137978",
+    "lon": "-1.39904038346365",
+    "display_name": "Southampton, South East, England, UK",
+    "class": "place",
+    "type": "city",
+    "importance": 0.71667735665,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160569321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2534205",
+    "boundingbox": [
+      "36.5438253",
+      "36.997852",
+      "-77.5031049",
+      "-76.8182909"
+    ],
+    "lat": "36.6959378",
+    "lon": "-77.1586001",
+    "display_name": "Southampton County, Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50593119814647,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160485784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1839165",
+    "boundingbox": [
+      "42.1833902",
+      "42.2781202",
+      "-72.8143166",
+      "-72.6677569"
+    ],
+    "lat": "42.2292572",
+    "lon": "-72.7300928",
+    "display_name": "Southampton, Hampshire County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4063828842121,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "465881",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158309996",
+    "boundingbox": [
+      "37.5354246",
+      "37.5754246",
+      "-77.5691536",
+      "-77.5291536"
+    ],
+    "lat": "37.5554246",
+    "lon": "-77.5491536",
+    "display_name": "Southampton, Richmond City, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11151507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1052015722",
+    "boundingbox": [
+      "42.0578525",
+      "42.0978525",
+      "-88.4499116",
+      "-88.4099116"
+    ],
+    "lat": "42.0778525",
+    "lon": "-88.4299116",
+    "display_name": "Southampton, Kane County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "455746",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157593119",
+    "boundingbox": [
+      "36.8720924",
+      "36.9120924",
+      "-76.4088337",
+      "-76.3688337"
+    ],
+    "lat": "36.8920924",
+    "lon": "-76.3888337",
+    "display_name": "Southampton, Portsmouth, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "479073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158493992",
+    "boundingbox": [
+      "37.2454157",
+      "37.2854157",
+      "-79.9114258",
+      "-79.8714258"
+    ],
+    "lat": "37.2654157",
+    "lon": "-79.8914258",
+    "display_name": "Southampton, Roanoke County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158601798",
+    "boundingbox": [
+      "38.2334582",
+      "38.2734582",
+      "-76.4535625",
+      "-76.4135625"
+    ],
+    "lat": "38.2534582",
+    "lon": "-76.4335625",
+    "display_name": "Southampton, Saint Mary's County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "448928",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158239140",
+    "boundingbox": [
+      "39.5317739",
+      "39.5717739",
+      "-76.3463477",
+      "-76.3063477"
+    ],
+    "lat": "39.5517739",
+    "lon": "-76.3263477",
+    "display_name": "Southampton, Harford County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

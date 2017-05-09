@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160556174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2560066",
+    "boundingbox": [
+      "39.2620501",
+      "39.729909",
+      "-74.9852229",
+      "-74.231815"
+    ],
+    "lat": "39.5143268",
+    "lon": "-74.6632882",
+    "display_name": "Atlantic County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53435385118802,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "469680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158350365",
+    "boundingbox": [
+      "37.88068",
+      "37.92068",
+      "-75.5277033",
+      "-75.4877033"
+    ],
+    "lat": "37.90068",
+    "lon": "-75.5077033",
+    "display_name": "Atlantic, Accomack County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42301894165642,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160270914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "129030",
+    "boundingbox": [
+      "41.378176",
+      "41.417801",
+      "-95.0629499",
+      "-94.9745069"
+    ],
+    "lat": "41.4036007",
+    "lon": "-95.0138775",
+    "display_name": "Atlantic, Cass County, Iowa, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41552078659246,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160294277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "189189",
+    "boundingbox": [
+      "41.500412",
+      "41.514777",
+      "-80.3411679",
+      "-80.3374919"
+    ],
+    "lat": "41.5047757",
+    "lon": "-80.3389546",
+    "display_name": "Atlantic, Crawford County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39899904973499,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "457716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158371248",
+    "boundingbox": [
+      "40.8247813",
+      "40.8647813",
+      "-78.4150191",
+      "-78.3750191"
+    ],
+    "lat": "40.8447813",
+    "lon": "-78.3950191",
+    "display_name": "Atlantic, Clearfield County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "489351",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158621955",
+    "boundingbox": [
+      "39.7581471",
+      "39.7981471",
+      "-79.9359685",
+      "-79.8959685"
+    ],
+    "lat": "39.7781471",
+    "lon": "-79.9159685",
+    "display_name": "Atlantic, Fayette County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "490527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158624450",
+    "boundingbox": [
+      "40.3375694",
+      "40.3775694",
+      "-79.3394802",
+      "-79.2994802"
+    ],
+    "lat": "40.3575694",
+    "lon": "-79.3194802",
+    "display_name": "Atlantic, Westmoreland County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "497247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158843545",
+    "boundingbox": [
+      "42.2606544",
+      "42.3006544",
+      "-71.0486604",
+      "-71.0086604"
+    ],
+    "lat": "42.2806544",
+    "lon": "-71.0286604",
+    "display_name": "Atlantic, Norfolk County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "487866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158860864",
+    "boundingbox": [
+      "42.2470446",
+      "42.2870446",
+      "-70.8678223",
+      "-70.8278223"
+    ],
+    "lat": "42.2670446",
+    "lon": "-70.8478223",
+    "display_name": "Atlantic, Plymouth County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "496596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158811345",
+    "boundingbox": [
+      "44.1517483",
+      "44.1917483",
+      "-68.4441853",
+      "-68.4041853"
+    ],
+    "lat": "44.1717483",
+    "lon": "-68.4241853",
+    "display_name": "Atlantic, Hancock County, Maine, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

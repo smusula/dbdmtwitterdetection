@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": "44293174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3152094271",
+    "boundingbox": [
+      "45.6510463",
+      "45.6511463",
+      "0.1163039",
+      "0.1164039"
+    ],
+    "lat": "45.6510963",
+    "lon": "0.1163539",
+    "display_name": "Verrazano, Rue de Basseau, Angoul\u00eame, Charente, Nouvelle-Aquitaine, 16000, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

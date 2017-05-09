@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "50688852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3787177758",
+    "boundingbox": [
+      "51.7106882",
+      "51.7107882",
+      "39.1593596",
+      "39.1594596"
+    ],
+    "lat": "51.7107382",
+    "lon": "39.1594096",
+    "display_name": "Funday, 23\u0411, \u0431\u0443\u043b\u044c\u0432\u0430\u0440 \u041f\u043e\u0431\u0435\u0434\u044b, \u0421\u0435\u0432\u0435\u0440\u043d\u044b\u0439, \u041a\u043e\u043c\u0438\u043d\u0442\u0435\u0440\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0412\u043e\u0440\u043e\u043d\u0435\u0436, \u0413\u041e \u0412\u043e\u0440\u043e\u043d\u0435\u0436, \u0412\u043e\u0440\u043e\u043d\u0435\u0436\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 394077, \u0420\u0424",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "37103995",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2856273830",
+    "boundingbox": [
+      "51.5332455",
+      "51.5333455",
+      "81.2043008",
+      "81.2044008"
+    ],
+    "lat": "51.5332955",
+    "lon": "81.2043508",
+    "display_name": "Funday, 17, \u0422\u0440\u0430\u043a\u0442\u043e\u0440\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0420\u0443\u0431\u0446\u043e\u0432\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0420\u0443\u0431\u0446\u043e\u0432\u0441\u043a, \u0410\u043b\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0421\u0424\u041e, 658200, \u0420\u0424",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

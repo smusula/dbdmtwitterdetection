@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "49509452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3662916148",
+    "boundingbox": [
+      "50.8825125",
+      "50.8826125",
+      "4.7115736",
+      "4.7116736"
+    ],
+    "lat": "50.8825625",
+    "lon": "4.7116236",
+    "display_name": "The Footloose, 12, Vanden Tymplestraat, Sint-Maartensdal, Leuven, Vlaams-Brabant, Vlaanderen, 3000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "12308305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1174834475",
+    "boundingbox": [
+      "52.669261",
+      "52.669361",
+      "-0.7269777",
+      "-0.7268777"
+    ],
+    "lat": "52.669311",
+    "lon": "-0.7269277",
+    "display_name": "FootLoose, Mill Street, Catmose, Oakham CP, Oakham, Rutland, East Midlands, England, LE15 6AL, UK",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "157331808",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "431547150",
+    "boundingbox": [
+      "51.3473255",
+      "51.3474279",
+      "-2.2498584",
+      "-2.2496728"
+    ],
+    "lat": "51.34737355",
+    "lon": "-2.24975246539027",
+    "display_name": "Footloose, Lamb Yard, Bradford-on-Avon, Bradford on Avon, Wiltshire, South West England, England, BA15 1, UK",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53677694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4109310157",
+    "boundingbox": [
+      "-37.6937253",
+      "-37.6936253",
+      "176.1090192",
+      "176.1091192"
+    ],
+    "lat": "-37.6936753",
+    "lon": "176.1090692",
+    "display_name": "Footloose, Bethlehem Road, Bethlehem, Tauranga, Tauranga City, Bay of Plenty, 3110, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55238827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4293948002",
+    "boundingbox": [
+      "-39.4906858",
+      "-39.4905858",
+      "176.9165525",
+      "176.9166525"
+    ],
+    "lat": "-39.4906358",
+    "lon": "176.9166025",
+    "display_name": "Footloose, Emerson Street, Bluff Hill, Napier, Napier City, Hawke's Bay, 4110, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12470388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1183086492",
+    "boundingbox": [
+      "37.6465955",
+      "37.6466955",
+      "-118.9667627",
+      "-118.9666627"
+    ],
+    "lat": "37.6466455",
+    "lon": "-118.9667127",
+    "display_name": "Footloose, 3069, Main Street, Mammoth Lakes, Mono County, California, 93546, United States of America",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55000407",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4257333989",
+    "boundingbox": [
+      "34.990243",
+      "34.990343",
+      "33.9917629",
+      "33.9918629"
+    ],
+    "lat": "34.990293",
+    "lon": "33.9918129",
+    "display_name": "Footloose, Gianni Ritsou, Ayia Napa, \u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2 - Ma\u011fusa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 5342, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "25813248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2481221905",
+    "boundingbox": [
+      "35.923862",
+      "35.923962",
+      "14.489043",
+      "14.489143"
+    ],
+    "lat": "35.923912",
+    "lon": "14.489093",
+    "display_name": "Footloose, Triq San \u0120or\u0121, San \u0120iljan, Malta, 3180, Malta",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "151369861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "398387572",
+    "boundingbox": [
+      "13.7302704",
+      "13.7303712",
+      "-60.9527372",
+      "-60.9525707"
+    ],
+    "lat": "13.73032075",
+    "lon": "-60.9526539185819",
+    "display_name": "Footloose, Clarke Street, Vieux Fort, Saint Lucia",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "145211642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366649431",
+    "boundingbox": [
+      "18.0362896",
+      "18.0364714",
+      "-63.0829733",
+      "-63.0827987"
+    ],
+    "lat": "18.0363704",
+    "lon": "-63.0828860123219",
+    "display_name": "Footloose, Well Road, Pelican Key, Saint John's Estate, Koolbaai, Sint Maarten, 46226, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

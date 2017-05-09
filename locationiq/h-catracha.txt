@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "155420816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421143524",
+    "boundingbox": [
+      "14.0901438",
+      "14.0902575",
+      "-87.2104522",
+      "-87.2103426"
+    ],
+    "lat": "14.090187",
+    "lon": "-87.2103980834608",
+    "display_name": "Pulperia la Catracha, 16 Calle, Colonia El Prado, Vila Adela, Tegucigalpa, Francisco Moraz\u00e1n, 12101, Honduras",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "147338569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "376122800",
+    "boundingbox": [
+      "17.507557",
+      "17.5077302",
+      "-88.2031036",
+      "-88.2028976"
+    ],
+    "lat": "17.5076436",
+    "lon": "-88.2030006005708",
+    "display_name": "La Catracha Bar, Coney Drive, Belize City, Belize District, 96022, Belize",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "154689838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "417642118",
+    "boundingbox": [
+      "14.5980023",
+      "14.5981093",
+      "-87.8305758",
+      "-87.8305076"
+    ],
+    "lat": "14.5980478",
+    "lon": "-87.8305424977465",
+    "display_name": "Bodega La Catracha, 1 Avenida NE, Siguatepeque, Comayagua, Honduras",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

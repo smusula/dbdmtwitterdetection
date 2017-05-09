@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160369234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "962252",
+    "boundingbox": [
+      "48.6091492",
+      "48.7212375",
+      "10.8713454",
+      "11.0395493"
+    ],
+    "lat": "48.6896503",
+    "lon": "10.9165334",
+    "display_name": "Rain, Rain (Schwaben), Landkreis Donau-Ries, Schwaben, Bayern, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45429461659391,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "103973933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "170705287",
+    "boundingbox": [
+      "48.8125512",
+      "48.8130424",
+      "9.5209944",
+      "9.522972"
+    ],
+    "lat": "48.8128903",
+    "lon": "9.5218071",
+    "display_name": "Rain, Schorndorf, Vereinbarte Verwaltungsgemeinschaft der Stadt Schorndorf, Rems-Murr-Kreis, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "17068800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1611017174",
+    "boundingbox": [
+      "51.2338253",
+      "51.2339253",
+      "10.2784506",
+      "10.2785506"
+    ],
+    "lat": "51.2338753",
+    "lon": "10.2785006",
+    "display_name": "Rain, Effelder, Westerwald-Obereichsfeld, Landkreis Eichsfeld, Th\u00fcringen, Deutschland, Europe",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "76313584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45035972",
+    "boundingbox": [
+      "47.7403451",
+      "47.7420495",
+      "11.4151329",
+      "11.4186208"
+    ],
+    "lat": "47.7413856",
+    "lon": "11.4163135",
+    "display_name": "Rain, Weilheim-Schongau, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4668098",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501799897",
+    "boundingbox": [
+      "48.1612387",
+      "48.2012387",
+      "12.1088037",
+      "12.1488037"
+    ],
+    "lat": "48.1812387",
+    "lon": "12.1288037",
+    "display_name": "Rain, Bayern, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4704308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "512653010",
+    "boundingbox": [
+      "48.1768722",
+      "48.2168722",
+      "12.5109245",
+      "12.5509245"
+    ],
+    "lat": "48.1968722",
+    "lon": "12.5309245",
+    "display_name": "Rain, Polling (VGem), Landkreis M\u00fchldorf am Inn, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56844517",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4440168590",
+    "boundingbox": [
+      "47.6886353",
+      "47.7286353",
+      "11.5481636",
+      "11.5881636"
+    ],
+    "lat": "47.7086353",
+    "lon": "11.5681636",
+    "display_name": "Rain, Bad T\u00f6lz-Wolfratshausen, OB, Bayern, 83674, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24852773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2410767700",
+    "boundingbox": [
+      "48.1415341",
+      "48.1815341",
+      "12.0596834",
+      "12.0996834"
+    ],
+    "lat": "48.1615341",
+    "lon": "12.0796834",
+    "display_name": "Rain, Maitenbeth Verwg., Landkreis M\u00fchldorf am Inn, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21441487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2130417684",
+    "boundingbox": [
+      "47.7759676",
+      "47.8159676",
+      "11.5632016",
+      "11.6032016"
+    ],
+    "lat": "47.7959676",
+    "lon": "11.5832016",
+    "display_name": "Rain, Landkreis Bad T\u00f6lz-Wolfratshausen, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6186475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "635741642",
+    "boundingbox": [
+      "47.7712288",
+      "47.8112288",
+      "11.7572074",
+      "11.7972074"
+    ],
+    "lat": "47.7912288",
+    "lon": "11.7772074",
+    "display_name": "Rain, Bayern, OB, Bayern, 83627, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

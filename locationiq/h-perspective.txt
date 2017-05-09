@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "99322279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153357026",
+    "boundingbox": [
+      "50.6355273",
+      "50.6361539",
+      "3.0768295",
+      "3.0786056"
+    ],
+    "lat": "50.63584745",
+    "lon": "3.0777088223494",
+    "display_name": "Perspective, Lille, Nord, Hauts-de-France, 59000;59160;59260;59777;59800, France",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "115118268",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217628059",
+    "boundingbox": [
+      "43.0169893",
+      "43.0189509",
+      "6.4356647",
+      "6.4375069"
+    ],
+    "lat": "43.0176709",
+    "lon": "6.4363108",
+    "display_name": "La Perspective, H\u00e9liopolis, Hy\u00e8res, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83400, France",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "115089418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "217628058",
+    "boundingbox": [
+      "43.0189509",
+      "43.0195758",
+      "6.4375069",
+      "6.4380854"
+    ],
+    "lat": "43.0195758",
+    "lon": "6.4380854",
+    "display_name": "La Perspective, H\u00e9liopolis, Hy\u00e8res, Toulon, Var, Provence-Alpes-C\u00f4te d'Azur, 83400, France",
+    "class": "highway",
+    "type": "steps",
+    "importance": 0.175
+  },
+  {
+    "place_id": "13955213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1260555396",
+    "boundingbox": [
+      "44.1330011",
+      "44.1331011",
+      "4.8068356",
+      "4.8069356"
+    ],
+    "lat": "44.1330511",
+    "lon": "4.8068856",
+    "display_name": "perspective, All\u00e9e du Capitaine Marius Augier, Colline Saint-Eutrope, Orange, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84100, France",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "8933766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "927909524",
+    "boundingbox": [
+      "46.1003169",
+      "46.1004169",
+      "19.6655213",
+      "19.6656213"
+    ],
+    "lat": "46.1003669",
+    "lon": "19.6655713",
+    "display_name": "Perspective, 2, \u0422\u0440\u0433 \u0441\u043b\u043e\u0431\u043e\u0434\u0435, \u0410\u043b\u0435\u043a\u0441\u0430\u043d\u0434\u0440\u043e\u0432\u043e, \u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430, \u0413\u0440\u0430\u0434 \u0421\u0443\u0431\u043e\u0442\u0438\u0446\u0430, \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0431\u0430\u0447\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0412\u043e\u0458\u0432\u043e\u0434\u0438\u043d\u0430, 24116, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

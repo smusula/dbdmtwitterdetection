@@ -1,0 +1,110 @@
+[
+  {
+    "place_id": "75106194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40709921",
+    "boundingbox": [
+      "40.7223842",
+      "40.7242313",
+      "-73.9933218",
+      "-73.9926443"
+    ],
+    "lat": "40.7228282",
+    "lon": "-73.9931526",
+    "display_name": "Bowery, NoHo, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.55540818436019
+  },
+  {
+    "place_id": "102645894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165777195",
+    "boundingbox": [
+      "40.7172159",
+      "40.7200948",
+      "-73.9954864",
+      "-73.994132"
+    ],
+    "lat": "40.7184578",
+    "lon": "-73.9948123",
+    "display_name": "Bowery, Chinatown, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.55540818436019
+  },
+  {
+    "place_id": "126384822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264223322",
+    "boundingbox": [
+      "45.4151511",
+      "45.415678",
+      "-75.7040452",
+      "-75.7033371"
+    ],
+    "lat": "45.41541285",
+    "lon": "-75.7037401207516",
+    "display_name": "Bowery, Centretown, Somerset, Ottawa, Ontario, K1R5C1, Canada",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102645938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165777255",
+    "boundingbox": [
+      "40.7216124",
+      "40.7223416",
+      "-73.9934648",
+      "-73.9932042"
+    ],
+    "lat": "40.7216124",
+    "lon": "-73.9934648",
+    "display_name": "The Bowery, NoHo, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155281343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420355077",
+    "boundingbox": [
+      "40.7200948",
+      "40.7203456",
+      "-73.994132",
+      "-73.9941172"
+    ],
+    "lat": "40.7203456",
+    "lon": "-73.9941172",
+    "display_name": "Bowery, Little Italy, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "155273620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420355082",
+    "boundingbox": [
+      "40.7140611",
+      "40.7144225",
+      "-73.9975943",
+      "-73.997323"
+    ],
+    "lat": "40.7141496",
+    "lon": "-73.9975205",
+    "display_name": "Bowery, Five Points, Manhattan, New York County, NYC, New York, 10012, United States of America",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  }
+]

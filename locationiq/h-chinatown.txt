@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "488906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158856492",
+    "boundingbox": [
+      "40.7164413",
+      "40.7165413",
+      "-73.9963003",
+      "-73.9962003"
+    ],
+    "lat": "40.7164913",
+    "lon": "-73.9962503",
+    "display_name": "Chinatown, Manhattan, New York, NYC, New York, 10013, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.52849429801145
+  },
+  {
+    "place_id": "577389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "239164261",
+    "boundingbox": [
+      "43.653172",
+      "43.653272",
+      "-79.3977947",
+      "-79.3976947"
+    ],
+    "lat": "43.653222",
+    "lon": "-79.3977447",
+    "display_name": "Chinatown, Old Toronto, Toronto, Ontario, M5T2E7, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.51271729740322
+  },
+  {
+    "place_id": "26307601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2511049756",
+    "boundingbox": [
+      "1.2836872",
+      "1.2837872",
+      "103.8437476",
+      "103.8438476"
+    ],
+    "lat": "1.2837372",
+    "lon": "103.8437976",
+    "display_name": "Chinatown, Pagoda Street, Chinatown, Outram, Singapore, Central Singapore Community Development Council, 059191, Singapore",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.50350764170583,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "397408",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153480529",
+    "boundingbox": [
+      "41.8516079",
+      "41.8517079",
+      "-87.6331882",
+      "-87.6330882"
+    ],
+    "lat": "41.8516579",
+    "lon": "-87.6331382",
+    "display_name": "Chinatown, Chicago, Cook County, Illinois, 60616, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.48550036213484
+  },
+  {
+    "place_id": "157904709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "434309411",
+    "boundingbox": [
+      "-33.8794584",
+      "-33.8775382",
+      "151.2033431",
+      "151.2047986"
+    ],
+    "lat": "-33.8783214",
+    "lon": "151.204044187017",
+    "display_name": "Chinatown, North Sydney, Sydney, NSW, Australia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.47702700509989,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6884373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "704270672",
+    "boundingbox": [
+      "49.260068",
+      "49.300068",
+      "-123.1215159",
+      "-123.0815159"
+    ],
+    "lat": "49.280068",
+    "lon": "-123.1015159",
+    "display_name": "Chinatown, Vancouver, Greater Vancouver Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.47653703780265,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160798745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4638963",
+    "boundingbox": [
+      "38.897207",
+      "38.9021051",
+      "-77.0259839",
+      "-77.0151614"
+    ],
+    "lat": "38.8998025",
+    "lon": "-77.0209888",
+    "display_name": "Chinatown, Washington, District of Columbia, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.46204844474975,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "343052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150960053",
+    "boundingbox": [
+      "37.7998801",
+      "37.7999801",
+      "-122.2702885",
+      "-122.2701885"
+    ],
+    "lat": "37.7999301",
+    "lon": "-122.2702385",
+    "display_name": "Chinatown, Oakland, Alameda County, California, ca, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.45987792515574
+  },
+  {
+    "place_id": "89951583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115023662",
+    "boundingbox": [
+      "52.3719592",
+      "52.3745918",
+      "4.8995989",
+      "4.9015939"
+    ],
+    "lat": "52.37333925",
+    "lon": "4.9006342635989",
+    "display_name": "Chinatown, Geldersekade, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1012BK, Nederland",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.45360614674645,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "108478147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189773715",
+    "boundingbox": [
+      "51.5105786",
+      "51.5127535",
+      "-0.1327257",
+      "-0.1284277"
+    ],
+    "lat": "51.5116803",
+    "lon": "-0.130495829409569",
+    "display_name": "Chinatown, City of Westminster, London, Greater London, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.44513530607377,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

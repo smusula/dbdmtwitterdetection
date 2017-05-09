@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "64896757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16517805",
+    "boundingbox": [
+      "35.056187",
+      "35.056916",
+      "-78.9660569",
+      "-78.9646949"
+    ],
+    "lat": "35.056482",
+    "lon": "-78.9652459",
+    "display_name": "Relaxing Road, Fayetteville, Cumberland County, North Carolina, 28314, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65814813",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18668360",
+    "boundingbox": [
+      "37.866617",
+      "37.867889",
+      "-92.2568799",
+      "-92.2479529"
+    ],
+    "lat": "37.867305",
+    "lon": "-92.2527119",
+    "display_name": "Relaxing Drive, Pippin Place, Pulaski County, Missouri, 65452, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59996016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8986797",
+    "boundingbox": [
+      "61.592456",
+      "61.592522",
+      "-149.0166159",
+      "-149.0113729"
+    ],
+    "lat": "61.592456",
+    "lon": "-149.0113729",
+    "display_name": "East Relaxing Road, Matanuska-Susitna, Alaska, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64503530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16601755",
+    "boundingbox": [
+      "35.414759",
+      "35.415134",
+      "-82.4643319",
+      "-82.4620569"
+    ],
+    "lat": "35.414861",
+    "lon": "-82.4631659",
+    "display_name": "Relaxing View Drive, Hoopers Creek, Henderson County, North Carolina, 28732, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "53865786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4099728388",
+    "boundingbox": [
+      "60.3921725",
+      "60.3922725",
+      "5.3318959",
+      "5.3319959"
+    ],
+    "lat": "60.3922225",
+    "lon": "5.3319459",
+    "display_name": "Siri Spa Relaxing, Tverrgaten, Marken, Bergenhus, Bergen, Hordaland, 5016, Norge",
+    "class": "shop",
+    "type": "massage",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651881665",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4681986482",
+    "boundingbox": [
+      "37.9169138",
+      "37.9170138",
+      "139.0568691",
+      "139.0569691"
+    ],
+    "lat": "37.9169638",
+    "lon": "139.0569191",
+    "display_name": "green label relaxing, \u5b89\u7530\u65b0\u6f5f\u81ea\u8ee2\u8eca\u9053\u7dda, \u4e2d\u592e\u533a, \u65b0\u6f5f\u5e02, \u5357\u84b2\u539f\u90e1, \u65b0\u6f5f\u770c, 950, \u65e5\u672c",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2654488855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5494055",
+    "boundingbox": [
+      "34.9902205",
+      "34.9905644",
+      "33.9564923",
+      "33.9568435"
+    ],
+    "lat": "34.99039265",
+    "lon": "33.9567567927365",
+    "display_name": "Adult Relaxing Pool, A3, Gazima\u011fusa, \u0391\u03bc\u03bc\u03cc\u03c7\u03c9\u03c3\u03c4\u03bf\u03c2 - Ma\u011fusa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 5330, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "leisure",
+    "type": "swimming_pool",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_swimming_outdoor.p.20.png"
+  },
+  {
+    "place_id": "100256572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157062189",
+    "boundingbox": [
+      "47.575133",
+      "47.576187",
+      "8.8508534",
+      "8.8545629"
+    ],
+    "lat": "47.57568845",
+    "lon": "8.85211370616462",
+    "display_name": "Klaus Romantic Relaxing, Chasper\u00e4cker, Frauenfeld, Bezirk Frauenfeld, Thurgau, 8532, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "natural",
+    "type": "water",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56548870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4428721658",
+    "boundingbox": [
+      "54.9061075",
+      "54.9062075",
+      "-1.7246342",
+      "-1.7245342"
+    ],
+    "lat": "54.9061575",
+    "lon": "-1.7245842",
+    "display_name": "Your Relaxing Times, Front Street, Crookgate Bank, Tanfield Manor, Burnopfield, County Durham, North East England, England, NE16 6ED, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47121456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3417084084",
+    "boundingbox": [
+      "41.75474",
+      "41.75484",
+      "12.6401867",
+      "12.6402867"
+    ],
+    "lat": "41.75479",
+    "lon": "12.6402367",
+    "display_name": "Villa D Relaxing Holiday House, Via Confini di Castel Gandolfo, Castel Gandolfo, RM, LAZ, 00040, Italia",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

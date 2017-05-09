@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "62050370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12056367",
+    "boundingbox": [
+      "40.3064786",
+      "40.3080624",
+      "-78.9463237",
+      "-78.9443441"
+    ],
+    "lat": "40.3073856",
+    "lon": "-78.9458459",
+    "display_name": "Lettuce, Southmont, Cambria County, Pennsylvania, 15905, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61216291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10863166",
+    "boundingbox": [
+      "27.0779683",
+      "27.0801407",
+      "-81.9826689",
+      "-81.9825266"
+    ],
+    "lat": "27.0791047",
+    "lon": "-81.9826689",
+    "display_name": "Lettuce, Southfort, DeSoto County, Florida, 34269, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "133204186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "302007536",
+    "boundingbox": [
+      "14.8649537",
+      "14.867948",
+      "120.8155456",
+      "120.8172386"
+    ],
+    "lat": "14.8663836",
+    "lon": "120.816399",
+    "display_name": "Lettuce, Grand Royale Subdivision, Felicisima Village, Bulacan, Central Luzon, 3000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "93952624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "129601775",
+    "boundingbox": [
+      "37.9009462",
+      "37.9012006",
+      "-122.0627977",
+      "-122.0622932"
+    ],
+    "lat": "37.90107335",
+    "lon": "-122.062545451595",
+    "display_name": "Lettuce, Commercial Lane, Walnut Creek, Contra Costa County, California, 94596, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

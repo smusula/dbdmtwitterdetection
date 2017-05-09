@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "48396413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3579042805",
+    "boundingbox": [
+      "48.2981206",
+      "48.2982206",
+      "14.2916036",
+      "14.2917036"
+    ],
+    "lat": "48.2981706",
+    "lon": "14.2916536",
+    "display_name": "Kungfu, 71, Landstra\u00dfe, Niedernhart, Volksgartenviertel, Linz (Stadt), Ober\u00f6sterreich, 4020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "31854642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2760629478",
+    "boundingbox": [
+      "58.3793339",
+      "58.3794339",
+      "26.7222911",
+      "26.7223911"
+    ],
+    "lat": "58.3793839",
+    "lon": "26.7223411",
+    "display_name": "KungFu, 5, \u00dclikooli, Kesklinn, Tartu, Tartu maakond, 51003, Eesti",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52606328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3990645121",
+    "boundingbox": [
+      "13.6994362",
+      "13.6995362",
+      "-89.2033751",
+      "-89.2032751"
+    ],
+    "lat": "13.6994862",
+    "lon": "-89.2033251",
+    "display_name": "Kungfu, Calle Rub\u00e9n Dar\u00edo, Urbanizaci\u00f3n Siglo 21, Col. Cucumacay\u00e1n, San Salvador, Municipio de San Salvador, Departamento de San Salvador, 00503, El Salvador",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "19715849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1939124588",
+    "boundingbox": [
+      "22.2568472",
+      "22.2569472",
+      "112.7825958",
+      "112.7826958"
+    ],
+    "lat": "22.2568972",
+    "lon": "112.7826458",
+    "display_name": "\u771f\u529f\u592b Kungfu, 220\u53f7, \u53f0\u897f\u8def Taixi Lu, \u53f0\u5c71\u5e02 Taishan, \u53f0\u5c71\u5e02 (Taishan), \u6c5f\u95e8\u5e02 / Jiangmen, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "28282299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2637045598",
+    "boundingbox": [
+      "22.5702056",
+      "22.5703056",
+      "113.8639615",
+      "113.8640615"
+    ],
+    "lat": "22.5702556",
+    "lon": "113.8640115",
+    "display_name": "Kungfu, \u6d77\u57ce\u8def, \u5b9d\u5b89\u533a Bao'an, \u6e14\u4e1a\u6751, \u5b9d\u5b89\u533a (Bao'an), \u6df1\u5733\u5e02 / Shenzhen, \u5e7f\u4e1c\u7701, 518100, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2608296952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4455294470",
+    "boundingbox": [
+      "-33.4526764",
+      "-33.4525764",
+      "-70.6844356",
+      "-70.6843356"
+    ],
+    "lat": "-33.4526264",
+    "lon": "-70.6843856",
+    "display_name": "Kungfu, Avenida Libertador Bernardo O'Higgins, Barrio Rep\u00fablica, Santiago, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 8370261, Chile",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49601189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3686916132",
+    "boundingbox": [
+      "22.9455976",
+      "22.9456976",
+      "113.6930751",
+      "113.6931751"
+    ],
+    "lat": "22.9456476",
+    "lon": "113.6931251",
+    "display_name": "\u771f\u529f\u592b Kungfu, \u539a\u8857\u670d\u52a1\u533a Houjie Service Area, \u539a\u8857\u9547 (Houjie), \u4e1c\u839e\u5e02 / Dongguan, \u5e7f\u4e1c\u7701, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

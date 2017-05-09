@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "889426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "280755635",
+    "boundingbox": [
+      "44.9072861",
+      "44.9472861",
+      "26.5685974",
+      "26.6085974"
+    ],
+    "lat": "44.9272861",
+    "lon": "26.5885974",
+    "display_name": "Amaru, Buz\u0103u, 127005, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.45565072780129,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160979923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6075610",
+    "boundingbox": [
+      "-22.7492478",
+      "-22.4352406",
+      "-152.8356467",
+      "-152.5739123"
+    ],
+    "lat": "-22.58906395",
+    "lon": "-152.697613450471",
+    "display_name": "Amaru, Rimatara, \u00celes Australes, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "53456849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4075714865",
+    "boundingbox": [
+      "-22.6670638",
+      "-22.6270638",
+      "-152.8103654",
+      "-152.7703654"
+    ],
+    "lat": "-22.6470638",
+    "lon": "-152.7903654",
+    "display_name": "Amaru, \u00celes Australes, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55681293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4315105000",
+    "boundingbox": [
+      "-13.3986313",
+      "-13.3586313",
+      "-71.8358193",
+      "-71.7958193"
+    ],
+    "lat": "-13.3786313",
+    "lon": "-71.8158193",
+    "display_name": "Amaru, Calca, Cusco, Per\u00fa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4597655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501526178",
+    "boundingbox": [
+      "6.746667",
+      "6.786667",
+      "6.563333",
+      "6.603333"
+    ],
+    "lat": "6.766667",
+    "lon": "6.583333",
+    "display_name": "Amaru, Esan South-East, Edo, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652641253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4698537458",
+    "boundingbox": [
+      "-17.5529475",
+      "-17.5129475",
+      "-66.5320978",
+      "-66.4920978"
+    ],
+    "lat": "-17.5329475",
+    "lon": "-66.5120978",
+    "display_name": "Amaru, Tapacar\u00ed, CBA, Bolivia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6818395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703187102",
+    "boundingbox": [
+      "6.905418",
+      "6.925418",
+      "-74.6622327",
+      "-74.6422327"
+    ],
+    "lat": "6.915418",
+    "lon": "-74.6522327",
+    "display_name": "Amaru, Las Brisas, Remedios, Antioquia, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2652875486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "477069376",
+    "boundingbox": [
+      "-17.5331604",
+      "-17.5318623",
+      "-66.5153913",
+      "-66.5109752"
+    ],
+    "lat": "-17.53248165",
+    "lon": "-66.5131753680109",
+    "display_name": "Amaru, Municipio Tapacar\u00ed, Tapacar\u00ed, CBA, Bolivia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157418781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "432211909",
+    "boundingbox": [
+      "-0.2922442",
+      "-0.2911051",
+      "-78.5459533",
+      "-78.5441123"
+    ],
+    "lat": "-0.2911997",
+    "lon": "-78.5458085",
+    "display_name": "Amaru, Quitumbe, Quito, Pichincha, 170702, Ecuador",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "157435931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "432209591",
+    "boundingbox": [
+      "-0.2911286",
+      "-0.2895479",
+      "-78.5500493",
+      "-78.5457744"
+    ],
+    "lat": "-0.2897894",
+    "lon": "-78.5481335",
+    "display_name": "Amaru, Ejercito Nacional, Quitumbe, Quito, Pichincha, 170702, Ecuador",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  }
+]

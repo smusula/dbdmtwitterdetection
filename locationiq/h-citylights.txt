@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "147519212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "376938845",
+    "boundingbox": [
+      "12.9285234",
+      "12.9291313",
+      "77.6792499",
+      "77.6795317"
+    ],
+    "lat": "12.92873455",
+    "lon": "77.6793728936264",
+    "display_name": "Citylights, Service Road, Green Glen Layout, Bellanduru, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "82509256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83203856",
+    "boundingbox": [
+      "48.8285345",
+      "48.8289821",
+      "2.2311175",
+      "2.2317942"
+    ],
+    "lat": "48.8287561",
+    "lon": "2.23141027267737",
+    "display_name": "Citylights, All\u00e9e du Forum, Boulogne-Billancourt, Hauts-de-Seine, \u00cele-de-France, 92100, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

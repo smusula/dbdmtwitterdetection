@@ -1,0 +1,169 @@
+[
+  {
+    "place_id": "47058828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3377399727",
+    "boundingbox": [
+      "-32.2133851",
+      "-32.1933851",
+      "149.2104708",
+      "149.2304708"
+    ],
+    "lat": "-32.2033851",
+    "lon": "149.2204708",
+    "display_name": "Dapper, 1198, Warrumbungle, NSW, Australia",
+    "class": "place",
+    "type": "farm",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2654186047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "504265760",
+    "boundingbox": [
+      "52.3657981",
+      "52.3658981",
+      "4.8733426",
+      "4.8734426"
+    ],
+    "lat": "52.3658481",
+    "lon": "4.8733926",
+    "display_name": "Dapper, Jacob van Lennepkade, Oud-West, Amsterdam, West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1053XJ, Nederland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "159632973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444072994",
+    "boundingbox": [
+      "51.3922737",
+      "51.392357",
+      "-0.3121594",
+      "-0.3120185"
+    ],
+    "lat": "51.39231655",
+    "lon": "-0.31208801846575",
+    "display_name": "Dapper, Irongate Mews, Seething Wells, Surbiton, Royal Borough of Kingston upon Thames, London, Greater London, England, KT6 5NF, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "47999903",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3474124341",
+    "boundingbox": [
+      "51.4266226",
+      "51.4267226",
+      "-0.3369259",
+      "-0.3368259"
+    ],
+    "lat": "51.4266726",
+    "lon": "-0.3368759",
+    "display_name": "Dapper, 11, Church Road, Strawberry Hill, London Borough of Richmond upon Thames, London, Greater London, England, TW11 8PF, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "130632449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289446720",
+    "boundingbox": [
+      "51.4370799",
+      "51.4371415",
+      "-0.0547139",
+      "-0.0544827"
+    ],
+    "lat": "51.4371108",
+    "lon": "-0.0545982911347384",
+    "display_name": "Dapper, 59, Dartmouth Road, Forest Hill, London Borough of Lewisham, London, Greater London, England, SE23 3XU, UK",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.101
+  },
+  {
+    "place_id": "101081243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160404364",
+    "boundingbox": [
+      "51.2130047",
+      "51.2131599",
+      "-0.5648775",
+      "-0.5647505"
+    ],
+    "lat": "51.2131046",
+    "lon": "-0.564813982901354",
+    "display_name": "Dapper, Kings Road, Shalford CP, Guildford, Surrey, South East, England, GU4 8JX, UK",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135046388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310636572",
+    "boundingbox": [
+      "54.2817923",
+      "54.2818886",
+      "-0.4005397",
+      "-0.4003367"
+    ],
+    "lat": "54.2818401",
+    "lon": "-0.400438250250888",
+    "display_name": "Dapper, 12, Huntriss Row, The Old Town, Scarborough, North Yorkshire, Yorkshire and the Humber, England, YO11 1NA, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144457380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "362906970",
+    "boundingbox": [
+      "53.9833822",
+      "53.9834782",
+      "-2.1046893",
+      "-2.1045414"
+    ],
+    "lat": "53.98343205",
+    "lon": "-2.1046146348214",
+    "display_name": "Dapper, 29, High Street, Gargrave, Craven, Yorkshire and the Humber, England, BD23 3RA, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2649244572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4617406391",
+    "boundingbox": [
+      "13.8159028",
+      "13.8160028",
+      "100.560854",
+      "100.560954"
+    ],
+    "lat": "13.8159528",
+    "lon": "100.560904",
+    "display_name": "Dapper, \u0e16\u0e19\u0e19\u0e1e\u0e2b\u0e25\u0e42\u0e22\u0e18\u0e34\u0e19, \u0e23\u0e31\u0e0a\u0e42\u0e22\u0e18\u0e34\u0e19, \u0e40\u0e02\u0e15\u0e08\u0e15\u0e38\u0e08\u0e31\u0e01\u0e23, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10900, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

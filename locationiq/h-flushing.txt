@@ -1,0 +1,133 @@
+[
+  {
+    "place_id": "504000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158859327",
+    "boundingbox": [
+      "40.7653801",
+      "40.7654801",
+      "-73.817479",
+      "-73.817379"
+    ],
+    "lat": "40.7654301",
+    "lon": "-73.817429",
+    "display_name": "Flushing, 159-16, Northern Boulevard, Murray Hill, Queens, Queens County, NYC, New York, 11366, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.56381872083767
+  },
+  {
+    "place_id": "160275039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135180",
+    "boundingbox": [
+      "43.050215",
+      "43.074772",
+      "-83.8676039",
+      "-83.8130149"
+    ],
+    "lat": "43.0630834",
+    "lon": "-83.8510731",
+    "display_name": "Flushing, Genesee County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160289916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182854",
+    "boundingbox": [
+      "40.138172",
+      "40.154149",
+      "-81.0755119",
+      "-81.0432959"
+    ],
+    "lat": "40.1495133",
+    "lon": "-81.0662111",
+    "display_name": "Flushing, Belmont County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "16775342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1603608977",
+    "boundingbox": [
+      "50.0649578",
+      "50.1049578",
+      "-5.1212679",
+      "-5.0812679"
+    ],
+    "lat": "50.0849578",
+    "lon": "-5.1012679",
+    "display_name": "Flushing, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "489518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158859996",
+    "boundingbox": [
+      "40.0984435",
+      "40.1384435",
+      "-74.926555",
+      "-74.886555"
+    ],
+    "lat": "40.1184435",
+    "lon": "-74.906555",
+    "display_name": "Flushing, Bucks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "143890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "29285388",
+    "boundingbox": [
+      "50.1454227",
+      "50.1854227",
+      "-5.0902331",
+      "-5.0502331"
+    ],
+    "lat": "50.1654227",
+    "lon": "-5.0702331",
+    "display_name": "Flushing, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.3423836653823,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "138951147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329474106",
+    "boundingbox": [
+      "29.7053541",
+      "29.7068803",
+      "-98.1042068",
+      "-98.1025412"
+    ],
+    "lat": "29.7063489",
+    "lon": "-98.1036121",
+    "display_name": "Flushing, New Braunfels, Comal County, Texas, 78130, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

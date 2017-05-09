@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "18439935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1766542443",
+    "boundingbox": [
+      "46.0291374",
+      "46.0491374",
+      "4.4419702",
+      "4.4619702"
+    ],
+    "lat": "46.0391374",
+    "lon": "4.4519702",
+    "display_name": "Le Noir, Grandris, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69870, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47424530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3426859666",
+    "boundingbox": [
+      "47.0735819",
+      "47.0736819",
+      "2.0935487",
+      "2.0936487"
+    ],
+    "lat": "47.0736319",
+    "lon": "2.0935987",
+    "display_name": "Le Noir, Lazenay, Vierzon, Cher, Centre-Val de Loire, 18120, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "49370332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3659464568",
+    "boundingbox": [
+      "41.9034008",
+      "41.9035008",
+      "-87.6711344",
+      "-87.6710344"
+    ],
+    "lat": "41.9034508",
+    "lon": "-87.6710844",
+    "display_name": "Noir, 1726-1728, West Division Street, Wicker Park, Chicago, Cook County, Illinois, 60651, United States of America",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22270433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2193145440",
+    "boundingbox": [
+      "59.3378129",
+      "59.3379129",
+      "18.0673631",
+      "18.0674631"
+    ],
+    "lat": "59.3378629",
+    "lon": "18.0674131",
+    "display_name": "Noir, Snickarbacken, Norrmalm, Norrmalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 11139, Sverige",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "21849537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2165495953",
+    "boundingbox": [
+      "45.4359246",
+      "45.4360246",
+      "12.3252287",
+      "12.3253287"
+    ],
+    "lat": "45.4359746",
+    "lon": "12.3252787",
+    "display_name": "Noir, Crosera, Dorsoduro, Venezia-Murano-Burano, Venezia, VE, VEN, 30123, Italia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48998320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3629250848",
+    "boundingbox": [
+      "39.9262492",
+      "39.9263492",
+      "-75.167549",
+      "-75.167449"
+    ],
+    "lat": "39.9262992",
+    "lon": "-75.167499",
+    "display_name": "Noir, 1909, East Passyunk Avenue, Hawthorne, Philadelphia, Philadelphia County, Pennsylvania, 19148, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48754716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3614829599",
+    "boundingbox": [
+      "44.4886977",
+      "44.4887977",
+      "11.3428837",
+      "11.3429837"
+    ],
+    "lat": "44.4887477",
+    "lon": "11.3429337",
+    "display_name": "Noir, 6, Piazza del Tribunale, Santo Stefano, Bologna, BO, EMR, 40124, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "77140714",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47776803",
+    "boundingbox": [
+      "35.7857854",
+      "35.7858997",
+      "-78.6477863",
+      "-78.647512"
+    ],
+    "lat": "35.78584225",
+    "lon": "-78.6476491575386",
+    "display_name": "Noir, 425, Glenwood Avenue, Historic Oakwood, Glenwood South, Raleigh, Wake County, North Carolina, 27605, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "23269012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2293728993",
+    "boundingbox": [
+      "55.605001",
+      "55.605101",
+      "12.9976769",
+      "12.9977769"
+    ],
+    "lat": "55.605051",
+    "lon": "12.9977269",
+    "display_name": "Noir, Landbygatan, Gamla Staden, Norr, Malm\u00f6, Sk\u00e5ne, G\u00f6taland, 211 21, Sverige",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "50316978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3731454681",
+    "boundingbox": [
+      "23.7459432",
+      "23.7460432",
+      "90.37108",
+      "90.37118"
+    ],
+    "lat": "23.7459932",
+    "lon": "90.37113",
+    "display_name": "NOIR, 10/A, Nijhum Residential Area, Hazaribagh, \u09a2\u09be\u0995\u09be, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1209, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

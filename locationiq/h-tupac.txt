@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "144223637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "361625657",
+    "boundingbox": [
+      "-0.9634449",
+      "-0.9619906",
+      "-78.8989162",
+      "-78.8983175"
+    ],
+    "lat": "-0.9627766",
+    "lon": "-78.8986651",
+    "display_name": "Tupac, Zumbahua, Pujil\u00ed, Cotopaxi, 050405, Ecuador",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "111989495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204309437",
+    "boundingbox": [
+      "-0.9645855",
+      "-0.9634449",
+      "-78.8983175",
+      "-78.8971736"
+    ],
+    "lat": "-0.9644793",
+    "lon": "-78.8974709",
+    "display_name": "Tupac, Zumbahua, Pujil\u00ed, Cotopaxi, 050405, Ecuador",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54119335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4170961322",
+    "boundingbox": [
+      "-12.0686473",
+      "-12.0685473",
+      "-77.0442198",
+      "-77.0441198"
+    ],
+    "lat": "-12.0685973",
+    "lon": "-77.0441698",
+    "display_name": "Tupac, Avenida de la Peruanidad, Jes\u00fas Mar\u00eda, Lima, 15046, Per\u00fa",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.101
+  }
+]

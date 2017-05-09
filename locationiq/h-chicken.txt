@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "2645576868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33042333",
+    "boundingbox": [
+      "63.968295",
+      "64.202004",
+      "-142.0399839",
+      "-141.5647309"
+    ],
+    "lat": "64.0849365",
+    "lon": "-141.874448747455",
+    "display_name": "Chicken, Taylor Highway, Southeast Fairbanks, Alaska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39330015574966,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "332031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150920521",
+    "boundingbox": [
+      "64.0530955",
+      "64.0930955",
+      "-141.9583951",
+      "-141.9183951"
+    ],
+    "lat": "64.0730955",
+    "lon": "-141.9383951",
+    "display_name": "Chicken, Southeast Fairbanks, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "111947123",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204143232",
+    "boundingbox": [
+      "54.1678272",
+      "54.1678821",
+      "12.3459918",
+      "12.3461033"
+    ],
+    "lat": "54.16785465",
+    "lon": "12.3460475681555",
+    "display_name": "chicken, Blankenhagen, Rostocker Heide, Landkreis Rostock, Mecklenburg-Vorpommern, 18182, Deutschland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.31
+  },
+  {
+    "place_id": "124699988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256416885",
+    "boundingbox": [
+      "51.8258841",
+      "51.8261164",
+      "5.8389975",
+      "5.8393902"
+    ],
+    "lat": "51.8260085",
+    "lon": "5.83920888236025",
+    "display_name": "Chicken, Nijmegen, Nijmegen-Midden, Nijmegen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6532AD, Nederland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "125115955",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258323688",
+    "boundingbox": [
+      "51.8258235",
+      "51.8258621",
+      "5.8396214",
+      "5.8396777"
+    ],
+    "lat": "51.82584305",
+    "lon": "5.83964908675989",
+    "display_name": "Chicken, Nijmegen, Nijmegen-Midden, Nijmegen, Stadsregio Arnhem Nijmegen, Gelderland, Nederland, 6531MP, Nederland",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "123653285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "252040814",
+    "boundingbox": [
+      "42.5589016",
+      "42.5612383",
+      "-71.3484132",
+      "-71.3460112"
+    ],
+    "lat": "42.5601837",
+    "lon": "-71.3472716",
+    "display_name": "Chicken, Carlisle, Middlesex County, Massachusetts, 01741, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2651480615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3695214532",
+    "boundingbox": [
+      "10.1787151",
+      "10.1788151",
+      "76.3305747",
+      "76.3306747"
+    ],
+    "lat": "10.1787651",
+    "lon": "76.3306247",
+    "display_name": "chicken, Manjaly Athani Road, Athani, Ernakulam, Kerala, 683578, India",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "56215142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405959294",
+    "boundingbox": [
+      "43.2992494",
+      "43.2993494",
+      "5.3824301",
+      "5.3825301"
+    ],
+    "lat": "43.2992994",
+    "lon": "5.3824801",
+    "display_name": "Chicken, Rue Lemaitre, Le Chapitre, Marseille 1er Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13001, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "51123679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3822613283",
+    "boundingbox": [
+      "43.3470386",
+      "43.3471386",
+      "5.3592107",
+      "5.3593107"
+    ],
+    "lat": "43.3470886",
+    "lon": "5.3592607",
+    "display_name": "Le Chicken, Avenue de Saint-Louis, Saint-Louis, Marseille 15e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13015, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "140422838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "336244374",
+    "boundingbox": [
+      "52.5030655",
+      "52.5033319",
+      "-1.9327695",
+      "-1.9325835"
+    ],
+    "lat": "52.5031515",
+    "lon": "-1.93269827981939",
+    "display_name": "Chicken, Soho Road, Winson Green, Hockley Port, Birmingham, West Midlands, England, B21, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

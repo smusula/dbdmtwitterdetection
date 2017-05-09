@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "88299174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109369362",
+    "boundingbox": [
+      "14.1482213",
+      "14.1509607",
+      "121.2596204",
+      "121.2625551"
+    ],
+    "lat": "14.149701",
+    "lon": "121.26113806477",
+    "display_name": "National Institute of Molecular Biology and Biotechnology, Sampaguita, Paciano Rizal, Bay, Laguna, Calabarzon, 4033, Philippines",
+    "class": "office",
+    "type": "research",
+    "importance": 0.409123069644
+  },
+  {
+    "place_id": "70736271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28294037",
+    "boundingbox": [
+      "49.383539",
+      "49.3862087",
+      "8.7072944",
+      "8.7118607"
+    ],
+    "lat": "49.3845214",
+    "lon": "8.7096210407721",
+    "display_name": "EMBL Heidelberg, Meyerhofstra\u00dfe, Rohrbach, Heidelberg, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 69117, Deutschland",
+    "class": "amenity",
+    "type": "research_institute",
+    "importance": 0.31552078659246
+  },
+  {
+    "place_id": "71420297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29978378",
+    "boundingbox": [
+      "52.4436224",
+      "52.445584",
+      "13.2715056",
+      "13.2743018"
+    ],
+    "lat": "52.4443126",
+    "lon": "13.2728291996846",
+    "display_name": "Max-Planck-Institut f\u00fcr Molekulare Genetik (MPIMG), Von-Wettstein-Stra\u00dfe, Dahlem, Steglitz-Zehlendorf, Berlin, 14195, Deutschland",
+    "class": "amenity",
+    "type": "research_institution",
+    "importance": 0.23670773196559
+  },
+  {
+    "place_id": "75652914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42656096",
+    "boundingbox": [
+      "49.9890584",
+      "49.9896993",
+      "8.2322276",
+      "8.2334372"
+    ],
+    "lat": "49.9893842",
+    "lon": "8.23283775555021",
+    "display_name": "Institute of Molecular Biology, 4, Ackermannweg, Oberstadt, Mainz, Rheinland-Pfalz, 55128, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.22027225158296
+  },
+  {
+    "place_id": "70565014",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27192081",
+    "boundingbox": [
+      "52.4440883",
+      "52.4447102",
+      "13.2723532",
+      "13.2739026"
+    ],
+    "lat": "52.44440225",
+    "lon": "13.2726011426154",
+    "display_name": "Max-Planck-Institut f\u00fcr molekulare Genetik, Von-Wettstein-Stra\u00dfe, Dahlem, Steglitz-Zehlendorf, Berlin, 14195, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.16679990974024
+  },
+  {
+    "place_id": "111149936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200854033",
+    "boundingbox": [
+      "48.188971",
+      "48.1896883",
+      "16.4014322",
+      "16.4024617"
+    ],
+    "lat": "48.18924905",
+    "lon": "16.4018570204167",
+    "display_name": "Institute of Molecular Biotechnology and Gregor Mende-Institute, 3, Dr.-Bohr-Gasse, St. Marx, KG Landstra\u00dfe, Landstra\u00dfe, Wien, 1030, \u00d6sterreich",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "2650682668",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4647114189",
+    "boundingbox": [
+      "-26.1776215",
+      "-26.1775215",
+      "28.0394918",
+      "28.0395918"
+    ],
+    "lat": "-26.1775715",
+    "lon": "28.0395418",
+    "display_name": "Sydney Brenner Institute for Molecular Bioscience, 9, Jubilee Road, Johannesburg Ward 67, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2193, South Africa",
+    "class": "office",
+    "type": "research",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47636355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3466266305",
+    "boundingbox": [
+      "-15.7668889",
+      "-15.7667889",
+      "-47.8654952",
+      "-47.8653952"
+    ],
+    "lat": "-15.7668389",
+    "lon": "-47.8654452",
+    "display_name": "Laborat\u00f3rio de Biologia Molecular, Bal\u00e3o do ICC Sul, SQN 406, Asa Norte, Bras\u00edlia, Regi\u00e3o Integrada de Desenvolvimento do Distrito Federal e Entorno, DF, Regi\u00e3o Centro-Oeste, 70910-900, Brasil",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "106635506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "181103775",
+    "boundingbox": [
+      "14.6505842",
+      "14.6508516",
+      "121.0713099",
+      "121.0719343"
+    ],
+    "lat": "14.65073635",
+    "lon": "121.071621466701",
+    "display_name": "National Institute of Molecular Biology and Biotechnology, Ma. Regidor, UP Campus, Quezon City, District IV, Quezon City, Metro Manila, 1101, Philippines",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111107884",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200854035",
+    "boundingbox": [
+      "48.188516",
+      "48.1891556",
+      "16.4007583",
+      "16.4017785"
+    ],
+    "lat": "48.18886505",
+    "lon": "16.4013311463576",
+    "display_name": "IMP, 7, Dr.-Bohr-Gasse, St. Marx, KG Landstra\u00dfe, Landstra\u00dfe, Wien, 1030, \u00d6sterreich",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  }
+]

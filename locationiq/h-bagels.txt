@@ -1,0 +1,173 @@
+[
+  {
+    "place_id": "29246868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2707480470",
+    "boundingbox": [
+      "48.8268475",
+      "48.8269475",
+      "2.3251327",
+      "2.3252327"
+    ],
+    "lat": "48.8268975",
+    "lon": "2.3251827",
+    "display_name": "Bagels, Avenue Jean Moulin, Petit-Montrouge, 14e, Paris, \u00cele-de-France, 75014, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "41058485",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2993590449",
+    "boundingbox": [
+      "43.6052488",
+      "43.6053488",
+      "1.4470694",
+      "1.4471694"
+    ],
+    "lat": "43.6052988",
+    "lon": "1.4471194",
+    "display_name": "Bagels, Passage Lafayette, Capitole, Toulouse Centre, Toulouse, Haute-Garonne, Occitanie, 31000, France",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "55857365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4333191807",
+    "boundingbox": [
+      "55.680841",
+      "55.680941",
+      "12.533794",
+      "12.533894"
+    ],
+    "lat": "55.680891",
+    "lon": "12.533844",
+    "display_name": "Bagels, Solbjergvej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 1860, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "50008153",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3710053198",
+    "boundingbox": [
+      "38.9820501",
+      "38.9821501",
+      "-76.5345005",
+      "-76.5344005"
+    ],
+    "lat": "38.9821001",
+    "lon": "-76.5344505",
+    "display_name": "Bagels And, 2019, West Street, Greenbriar, Annapolis, Anne Arundel County, Maryland, 21401, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "15038030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1370603675",
+    "boundingbox": [
+      "42.9550214",
+      "42.9551214",
+      "-81.2886205",
+      "-81.2885205"
+    ],
+    "lat": "42.9550714",
+    "lon": "-81.2885705",
+    "display_name": "Bagels, Commissioners Road West, Berkshire Village, London, Ontario, N6J1Y4, Canada",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2655402244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4758899775",
+    "boundingbox": [
+      "44.4884999",
+      "44.4885999",
+      "-88.0651511",
+      "-88.0650511"
+    ],
+    "lat": "44.4885499",
+    "lon": "-88.0651011",
+    "display_name": "Bagels, South Oneida Street, Ashwaubenon, Brown County, Wisconsin, 54304, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "49720902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3681530913",
+    "boundingbox": [
+      "40.4144389",
+      "40.4145389",
+      "-74.1423023",
+      "-74.1422023"
+    ],
+    "lat": "40.4144889",
+    "lon": "-74.1422523",
+    "display_name": "Bagels, Laurel Avenue, Holmdel Township, Monmouth County, New Jersey, 07734, United States of America",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "146126689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370497634",
+    "boundingbox": [
+      "12.5393071",
+      "12.5393811",
+      "-70.0613771",
+      "-70.0613023"
+    ],
+    "lat": "12.5393441",
+    "lon": "-70.0613396901302",
+    "display_name": "Bagels, J.E. Irausquin Boulevard, Washington, Bushiri, Bubali, Aruba, 00000, Nederland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2647053025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4567704408",
+    "boundingbox": [
+      "49.741405",
+      "49.741505",
+      "13.3713092",
+      "13.3714092"
+    ],
+    "lat": "49.741455",
+    "lon": "13.3713592",
+    "display_name": "Bagel's, Klatovsk\u00e1 t\u0159\u00edda, Bory, Plze\u0148, okres Plze\u0148-m\u011bsto, Plze\u0148sk\u00fd kraj, Jihoz\u00e1pad, 30100, \u010cesko",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "14111709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1279480846",
+    "boundingbox": [
+      "53.2245938",
+      "53.2445938",
+      "-122.4565903",
+      "-122.4365903"
+    ],
+    "lat": "53.2345938",
+    "lon": "-122.4465903",
+    "display_name": "Cinema, Quesnel, Cariboo Regional District, British Columbia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16760042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1577234965",
+    "boundingbox": [
+      "51.2255287",
+      "51.2256287",
+      "6.7732286",
+      "6.7733286"
+    ],
+    "lat": "51.2255787",
+    "lon": "6.7732786",
+    "display_name": "Cinema, 5, Schneider-Wibbel-Gasse, Altstadt, Stadtbezirk 1, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40213, Deutschland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "23075426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2280476469",
+    "boundingbox": [
+      "53.2012838",
+      "53.2013838",
+      "5.7909552",
+      "5.7910552"
+    ],
+    "lat": "53.2013338",
+    "lon": "5.7910052",
+    "display_name": "Cinema, 38-42, Nieuwestad, Leeuwarden, Friesland, Nederland, 8911 CL, Nederland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "1303195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "297512119",
+    "boundingbox": [
+      "52.4667475",
+      "52.4668475",
+      "13.3284939",
+      "13.3285939"
+    ],
+    "lat": "52.4667975",
+    "lon": "13.3285439",
+    "display_name": "Cinema, 111, Bundesallee, Friedenau, Tempelhof-Sch\u00f6neberg, Berlin, 12161, Deutschland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "57170367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4449663526",
+    "boundingbox": [
+      "47.0609705",
+      "47.0610705",
+      "-0.8840098",
+      "-0.8839098"
+    ],
+    "lat": "47.0610205",
+    "lon": "-0.8839598",
+    "display_name": "Cinema, Rue Bretonnaise, Cholet, Maine-et-Loire, Pays de la Loire, 49300, France",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654303314",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4738683022",
+    "boundingbox": [
+      "43.7856798",
+      "43.7857798",
+      "19.2936804",
+      "19.2937804"
+    ],
+    "lat": "43.7857298",
+    "lon": "19.2937304",
+    "display_name": "Cinema, Trg Nikole Tesla, Vi\u0161egrad, Op\u0161tina Vi\u0161egrad, Republika Srpska, 73240, Bosna i Hercegovina",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "3921311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420930491",
+    "boundingbox": [
+      "7.0779354",
+      "7.0780354",
+      "125.6138106",
+      "125.6139106"
+    ],
+    "lat": "7.0779854",
+    "lon": "125.6138606",
+    "display_name": "Cinema, J. P. Laurel Ave, Mitsui Bussan, Poblacion, Davao City, Davao, 8016, Philippines",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "3966818",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420930068",
+    "boundingbox": [
+      "7.0690349",
+      "7.0691349",
+      "125.6065079",
+      "125.6066079"
+    ],
+    "lat": "7.0690849",
+    "lon": "125.6065579",
+    "display_name": "Cinema, Ilustre Street, Don Isidro Village, Poblacion, Davao City, Davao, 8016, Philippines",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "3995447",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420930870",
+    "boundingbox": [
+      "7.0864019",
+      "7.0865019",
+      "125.6119653",
+      "125.6120653"
+    ],
+    "lat": "7.0864519",
+    "lon": "125.6120153",
+    "display_name": "Cinema, Jose P. Laurel Avenue, Mitsui Bussan, Poblacion, Davao City, Davao, 8000, Philippines",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "3995449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "420931584",
+    "boundingbox": [
+      "7.0496525",
+      "7.0497525",
+      "125.587978",
+      "125.588078"
+    ],
+    "lat": "7.0497025",
+    "lon": "125.588028",
+    "display_name": "Cinema, Quimpo Boulevard, Ecoland Subdivision, Timburana Compound, Davao City, Davao, 8000, Philippines",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  }
+]

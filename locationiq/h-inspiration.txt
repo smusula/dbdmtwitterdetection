@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "335716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150942691",
+    "boundingbox": [
+      "33.3925545",
+      "33.4325545",
+      "-110.9034458",
+      "-110.8634458"
+    ],
+    "lat": "33.4125545",
+    "lon": "-110.8834458",
+    "display_name": "Inspiration, Gila County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "75458036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41849032",
+    "boundingbox": [
+      "33.9412508",
+      "33.9460986",
+      "-117.6019177",
+      "-117.5978528"
+    ],
+    "lat": "33.94364445",
+    "lon": "-117.598545179156",
+    "display_name": "Inspiration, Eastvale, Riverside County, California, 92880, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "111202178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "201081900",
+    "boundingbox": [
+      "36.0153756",
+      "36.0192215",
+      "-115.0978547",
+      "-115.0915945"
+    ],
+    "lat": "36.0172609",
+    "lon": "-115.094476832489",
+    "display_name": "Inspiration, Green Valley Ranch, Henderson, Clark County, Nevada, 89074, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "108552342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "189975247",
+    "boundingbox": [
+      "41.7785949",
+      "41.7787949",
+      "-88.1278609",
+      "-88.1276999"
+    ],
+    "lat": "41.7786855",
+    "lon": "-88.1277706682524",
+    "display_name": "Inspiration, DuPage County, Illinois, 60566, United States of America",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "60881479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10285689",
+    "boundingbox": [
+      "38.491151",
+      "38.491576",
+      "-120.5105029",
+      "-120.5099459"
+    ],
+    "lat": "38.491576",
+    "lon": "-120.5099459",
+    "display_name": "Inspiration, Barton, Amador County, California, 95666, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "134217916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306462072",
+    "boundingbox": [
+      "52.0446024",
+      "52.0452907",
+      "8.4922861",
+      "8.4934049"
+    ],
+    "lat": "52.045008",
+    "lon": "8.49280637170482",
+    "display_name": "Inspiration, Dornberg, Bielefeld, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33619, Deutschland",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "8962104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "935859241",
+    "boundingbox": [
+      "51.068647",
+      "51.068747",
+      "13.7551793",
+      "13.7552793"
+    ],
+    "lat": "51.068697",
+    "lon": "13.7552293",
+    "display_name": "inspiration, 39, G\u00f6rlitzer Stra\u00dfe, \u00c4u\u00dfere Neustadt, Neustadt, Dresden, Sachsen, 01099, Deutschland",
+    "class": "shop",
+    "type": "fabric",
+    "importance": 0.111
+  },
+  {
+    "place_id": "21155693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2098927126",
+    "boundingbox": [
+      "50.0558676",
+      "50.0559676",
+      "19.9457505",
+      "19.9458505"
+    ],
+    "lat": "50.0559176",
+    "lon": "19.9458005",
+    "display_name": "Inspiration, Starowi\u015blna, Kazimierz, \u015ar\u00f3dmie\u015bcie, Krak\u00f3w, ma\u0142opolskie, 31-038, Polska",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14534989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1298363643",
+    "boundingbox": [
+      "55.6786838",
+      "55.6787838",
+      "12.5094552",
+      "12.5095552"
+    ],
+    "lat": "55.6787338",
+    "lon": "12.5095052",
+    "display_name": "Inspiration, Peter Bangs Vej, Frederiksberg, Frederiksberg Kommune, Region Hovedstaden, 2000, Danmark",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22901591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2280052552",
+    "boundingbox": [
+      "47.2152364",
+      "47.2153364",
+      "-1.5547151",
+      "-1.5546151"
+    ],
+    "lat": "47.2152864",
+    "lon": "-1.5546651",
+    "display_name": "Inspiration, Rue de la Paix, Decr\u00e9 - Cath\u00e9drale, Centre Ville, Nantes, Loire-Atlantique, Pays de la Loire, 44000;44100;44200;44300, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

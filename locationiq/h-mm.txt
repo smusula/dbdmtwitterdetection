@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160252317",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "50371",
+    "boundingbox": [
+      "9.5375",
+      "28.547835",
+      "92.1719423",
+      "101.1700796"
+    ],
+    "lat": "17.1750495",
+    "lon": "95.9999652",
+    "display_name": "\u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72206660470303,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160499290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2000090",
+    "boundingbox": [
+      "41.6913381",
+      "42.766372",
+      "44.225881",
+      "45.3109101"
+    ],
+    "lat": "42.2276489",
+    "lon": "44.8569083981276",
+    "display_name": "\u10db\u10ea\u10ee\u10d4\u10d7\u10d0-\u10db\u10d7\u10d8\u10d0\u10dc\u10d4\u10d7\u10d8, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45953120427441,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "13943486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1259880744",
+    "boundingbox": [
+      "54.0190955",
+      "54.0390955",
+      "9.351986",
+      "9.371986"
+    ],
+    "lat": "54.0290955",
+    "lon": "9.361986",
+    "display_name": "MM, Gribbohm, Schenefeld, Kreis Steinburg, Schleswig-Holstein, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610494229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4507513566",
+    "boundingbox": [
+      "15.5539957",
+      "15.5739957",
+      "48.9993823",
+      "49.0193823"
+    ],
+    "lat": "15.5639957",
+    "lon": "49.0093823",
+    "display_name": "MM, \u1e28a\u1e11ramawt, \u0627\u0644\u064a\u0645\u0646",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160574059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2872193",
+    "boundingbox": [
+      "53.3670637",
+      "53.4455801",
+      "14.5328612",
+      "14.6335334"
+    ],
+    "lat": "53.40628085",
+    "lon": "14.583063498074",
+    "display_name": "Mi\u0119dzyodrze-Wyspa Pucka, \u015ar\u00f3dmie\u015bcie, Szczecin, zachodniopomorskie, Polska",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.28224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "103175000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167792273",
+    "boundingbox": [
+      "-37.9229971",
+      "-37.9217762",
+      "146.8013327",
+      "146.8018879"
+    ],
+    "lat": "-37.9222462",
+    "lon": "146.8016356",
+    "display_name": "MM, Coongulla, Shire of Wellington, Gippsland, Victoria, Australia",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "41154736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3007564272",
+    "boundingbox": [
+      "45.4630326",
+      "45.4631326",
+      "9.1872473",
+      "9.1873473"
+    ],
+    "lat": "45.4630826",
+    "lon": "9.1872973",
+    "display_name": "MM, Via Torino, Cordusio, Municipio 1, Milano, MI, LOM, 20123, Italia",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651491949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4673201399",
+    "boundingbox": [
+      "-34.6229269",
+      "-34.6228269",
+      "-58.3913286",
+      "-58.3912286"
+    ],
+    "lat": "-34.6228769",
+    "lon": "-58.3912786",
+    "display_name": "MM, Avenida San Juan, San Crist\u00f3bal, CABA, Comuna 3, CABA, 1133, Argentina",
+    "class": "shop",
+    "type": "paint",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651479401",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473088577",
+    "boundingbox": [
+      "-34.6079371",
+      "-34.6078366",
+      "-58.3891751",
+      "-58.3889673"
+    ],
+    "lat": "-34.6078929",
+    "lon": "-58.3890712108546",
+    "display_name": "MM, Bartolom\u00e9 Mitre, Microcentro, San Nicol\u00e1s, CABA, Comuna 1, CABA, C1033AAR, Argentina",
+    "class": "shop",
+    "type": "paint",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650716942",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470727674",
+    "boundingbox": [
+      "-34.6167391",
+      "-34.616581",
+      "-58.4776659",
+      "-58.4774024"
+    ],
+    "lat": "-34.6166484",
+    "lon": "-58.4775336130931",
+    "display_name": "MM, Doctor Luis Bel\u00e1ustegui, Villa Santa Rita, CABA, Comuna 11, CABA, C1416DLA, Argentina",
+    "class": "shop",
+    "type": "paint",
+    "importance": 0.101
+  }
+]

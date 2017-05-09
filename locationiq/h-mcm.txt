@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "157420451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "431895550",
+    "boundingbox": [
+      "43.725118",
+      "43.7265319",
+      "7.4187308",
+      "7.4207304"
+    ],
+    "lat": "43.72582265",
+    "lon": "7.41956957722265",
+    "display_name": "H\u00e9liport de Monaco, Avenue des Ligures, Fontvieille, Monaco, 98020, Monaco",
+    "class": "aeroway",
+    "type": "heliport",
+    "importance": 0.22603047907589
+  },
+  {
+    "place_id": "53830146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4090881274",
+    "boundingbox": [
+      "41.9519232",
+      "41.9520232",
+      "-87.7475169",
+      "-87.7474169"
+    ],
+    "lat": "41.9519732",
+    "lon": "-87.7474669",
+    "display_name": "MCM, 3906-3910, North Cicero Avenue, Six Corners, Chicago, Cook County, Illinois, 60641, United States of America",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "134676717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "308434275",
+    "boundingbox": [
+      "50.0440073",
+      "50.04432",
+      "19.9457433",
+      "19.9460105"
+    ],
+    "lat": "50.04415385",
+    "lon": "19.9458459331619",
+    "display_name": "MCM, Tadeusza Rejtana, Podg\u00f3rze, Krak\u00f3w, ma\u0142opolskie, 30-510, Polska",
+    "class": "amenity",
+    "type": "doctors",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_doctors.p.20.png"
+  },
+  {
+    "place_id": "125561188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260381304",
+    "boundingbox": [
+      "-37.7964092",
+      "-37.7963226",
+      "144.9572794",
+      "144.957592"
+    ],
+    "lat": "-37.7963659",
+    "lon": "144.957435685032",
+    "display_name": "MCM, 21, Royal Parade, Parkville, Melbourne, City of Melbourne, Greater Melbourne, Victoria, 3052, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49288243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3645780693",
+    "boundingbox": [
+      "47.3702613",
+      "47.3703613",
+      "8.5407792",
+      "8.5408792"
+    ],
+    "lat": "47.3703113",
+    "lon": "8.5408292",
+    "display_name": "MCM, 13, M\u00fcnsterhof, Lindenhof, Altstadt, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8022, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "12814883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1217747531",
+    "boundingbox": [
+      "52.5006962",
+      "52.5007962",
+      "13.3154226",
+      "13.3155226"
+    ],
+    "lat": "52.5007462",
+    "lon": "13.3154726",
+    "display_name": "MCM, Kurf\u00fcrstendamm, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10707, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50145925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3730265264",
+    "boundingbox": [
+      "50.1147288",
+      "50.1148288",
+      "8.6728131",
+      "8.6729131"
+    ],
+    "lat": "50.1147788",
+    "lon": "8.6728631",
+    "display_name": "MCM, 34, Goethestra\u00dfe, Innenstadt, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60313, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "131512224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294197141",
+    "boundingbox": [
+      "51.1981856",
+      "51.1983249",
+      "5.9880037",
+      "5.9881503"
+    ],
+    "lat": "51.19824975",
+    "lon": "5.98807707207354",
+    "display_name": "MCM, 116, Stadsweide, Roermond, Limburg, Nederland, 6041TD, Nederland",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "8098839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "860305491",
+    "boundingbox": [
+      "52.5242362",
+      "52.5243362",
+      "13.4026969",
+      "13.4027969"
+    ],
+    "lat": "52.5242862",
+    "lon": "13.4027469",
+    "display_name": "MCM, 38, Rosenthaler Stra\u00dfe, Scheunenviertel, Mitte, Alt-Berlin, Berlin, 10178, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "78172097",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52532457",
+    "boundingbox": [
+      "43.8084358",
+      "43.8091088",
+      "4.3089937",
+      "4.3100701"
+    ],
+    "lat": "43.8088209",
+    "lon": "4.30960833246007",
+    "display_name": "MCM, Avenue Joliot-Curie, Zone Industrielle Saint-C\u00e9zaire, Saint-C\u00e9saire, N\u00eemes, Nimes, Gard, Occitanie, 30000;30900, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "12897481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1227046421",
+    "boundingbox": [
+      "15.266794",
+      "15.306794",
+      "44.045333",
+      "44.085333"
+    ],
+    "lat": "15.286794",
+    "lon": "44.065333",
+    "display_name": "\u0645\u0646\u062f, San\u02bfa\u02be, \u0627\u0644\u064a\u0645\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "89022312",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "111835030",
+    "boundingbox": [
+      "51.760334",
+      "51.7604481",
+      "-1.2664129",
+      "-1.2662296"
+    ],
+    "lat": "51.7603971",
+    "lon": "-1.26631181776315",
+    "display_name": "Mind, 118, Walton Street, Jericho, Oxford, Oxon, South East, England, OX2 6AJ, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648058542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4591231755",
+    "boundingbox": [
+      "51.4312932",
+      "51.4313932",
+      "-0.3072852",
+      "-0.3071852"
+    ],
+    "lat": "51.4313432",
+    "lon": "-0.3072352",
+    "display_name": "Mind, 27, Upper Ham Road, Ham, London Borough of Richmond upon Thames, London, Greater London, England, KT2 5QX, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26706586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2519937453",
+    "boundingbox": [
+      "53.368499",
+      "53.368599",
+      "-1.4762385",
+      "-1.4761385"
+    ],
+    "lat": "53.368549",
+    "lon": "-1.4761885",
+    "display_name": "Mind, Alderson Road, Little Sheffield, Highfield, Sheffield, Yorkshire and the Humber, England, S2 4UN, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "26486680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2519937457",
+    "boundingbox": [
+      "53.379482",
+      "53.379582",
+      "-1.4771136",
+      "-1.4770136"
+    ],
+    "lat": "53.379532",
+    "lon": "-1.4770636",
+    "display_name": "Mind, Devonshire Street, Moorfoot, Saint George's, Sheffield, Yorkshire and the Humber, England, S1 4HQ, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "95859919",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "137427153",
+    "boundingbox": [
+      "50.821063",
+      "50.8211769",
+      "-0.1357024",
+      "-0.1355588"
+    ],
+    "lat": "50.82112",
+    "lon": "-0.13563060957906",
+    "display_name": "Mind, 5, St. James's Street, Queen's Park, Brighton, Brighton and Hove, South East, England, BN2 1RE, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "97818837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "146338156",
+    "boundingbox": [
+      "51.3173957",
+      "51.3175227",
+      "-0.6185949",
+      "-0.6184234"
+    ],
+    "lat": "51.3174494",
+    "lon": "-0.618505893294427",
+    "display_name": "Mind, Broadway, Hermitage Woods, Hook Heath, Woking, Surrey, South East, England, GU21 2PP, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "85520341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97760426",
+    "boundingbox": [
+      "51.7310323",
+      "51.7313665",
+      "0.6787758",
+      "0.6788576"
+    ],
+    "lat": "51.73114045",
+    "lon": "0.678810017661959",
+    "display_name": "Mind, 70, High Street, Maldon CP, Maldon, Essex, East of England, England, CM9 5ET, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "110631322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "198726281",
+    "boundingbox": [
+      "51.8305585",
+      "51.8306172",
+      "1.2454147",
+      "1.2455602"
+    ],
+    "lat": "51.83058665",
+    "lon": "1.24548822986582",
+    "display_name": "Mind, Connaught Avenue, Frinton and Walton Civil Parish, Tendring, Essex, East of England, England, CO13 9PN, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649060518",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4613147027",
+    "boundingbox": [
+      "52.4036903",
+      "52.4037903",
+      "-0.7264766",
+      "-0.7263766"
+    ],
+    "lat": "52.4037403",
+    "lon": "-0.7264266",
+    "display_name": "Mind, Rockingham Road, Brambleside, Kettering, Northamptonshire, East Midlands, England, NN16 9DF, UK",
+    "class": "shop",
+    "type": "variety_store",
+    "importance": 0.101
+  }
+]

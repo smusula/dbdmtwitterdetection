@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "345403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150966737",
+    "boundingbox": [
+      "36.3805066",
+      "36.4205066",
+      "-120.1590354",
+      "-120.1190354"
+    ],
+    "lat": "36.4005066",
+    "lon": "-120.1390354",
+    "display_name": "Westside, Fresno County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.47009012684562,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127448989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "270769378",
+    "boundingbox": [
+      "33.5045654",
+      "33.5189848",
+      "-117.188181",
+      "-117.1688175"
+    ],
+    "lat": "33.51179545",
+    "lon": "-117.178862531441",
+    "display_name": "Westside, Temecula, Riverside County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160276544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "129159",
+    "boundingbox": [
+      "42.064858",
+      "42.086575",
+      "-95.1110279",
+      "-95.0916899"
+    ],
+    "lat": "42.0737345",
+    "lon": "-95.097805",
+    "display_name": "Westside, Crawford County, Iowa, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "53335844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4053585147",
+    "boundingbox": [
+      "31.8312671",
+      "31.8712671",
+      "-102.4153525",
+      "-102.3753525"
+    ],
+    "lat": "31.8512671",
+    "lon": "-102.3953525",
+    "display_name": "Westside, Ector County, Texas, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "423590",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153974039",
+    "boundingbox": [
+      "39.0439465",
+      "39.0839465",
+      "-84.9271737",
+      "-84.8871737"
+    ],
+    "lat": "39.0639465",
+    "lon": "-84.9071737",
+    "display_name": "Westside, Dearborn County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "404571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153515973",
+    "boundingbox": [
+      "35.1684141",
+      "35.2084141",
+      "-87.2333478",
+      "-87.1933478"
+    ],
+    "lat": "35.1884141",
+    "lon": "-87.2133478",
+    "display_name": "Westside, Giles County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153681561",
+    "boundingbox": [
+      "32.6251337",
+      "32.6651337",
+      "-85.4227246",
+      "-85.3827246"
+    ],
+    "lat": "32.6451337",
+    "lon": "-85.4027246",
+    "display_name": "Westside, Lee County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "393729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153433892",
+    "boundingbox": [
+      "34.9381312",
+      "34.9781312",
+      "-85.2432878",
+      "-85.2032878"
+    ],
+    "lat": "34.9581312",
+    "lon": "-85.2232878",
+    "display_name": "Westside, Catoosa County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "359350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151408727",
+    "boundingbox": [
+      "31.8851596",
+      "31.9251596",
+      "-91.1487197",
+      "-91.1087197"
+    ],
+    "lat": "31.9051596",
+    "lon": "-91.1287197",
+    "display_name": "Westside, Claiborne County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23519860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2333079491",
+    "boundingbox": [
+      "43.0522742",
+      "43.0523742",
+      "-76.1726705",
+      "-76.1725705"
+    ],
+    "lat": "43.0523242",
+    "lon": "-76.1726205",
+    "display_name": "Westside, Syracuse, Onondaga County, New York, 13204, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.35089190172262
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160305656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "299133",
+    "boundingbox": [
+      "63.0859177",
+      "67.353",
+      "-25.0135068",
+      "-12.8046161"
+    ],
+    "lat": "64.9841821",
+    "lon": "-18.1059012",
+    "display_name": "\u00cdsland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.75494543474693,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "116789246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "224291321",
+    "boundingbox": [
+      "60.6012502",
+      "60.6032936",
+      "-1.0390864",
+      "-1.0353313"
+    ],
+    "lat": "60.60208755",
+    "lon": "-1.03718877100811",
+    "display_name": "Island, Scotland, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160516424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2355257",
+    "boundingbox": [
+      "47.4283612",
+      "47.484836",
+      "3.816059",
+      "3.8905353"
+    ],
+    "lat": "47.47019",
+    "lon": "3.84568",
+    "display_name": "Island, Avallon, Yonne, Bourgogne-Franche-Comt\u00e9, 89200, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.53159634535305,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160387031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1165268",
+    "boundingbox": [
+      "47.8174478",
+      "48.4156353",
+      "-122.9889864",
+      "-122.3284629"
+    ],
+    "lat": "48.2162669",
+    "lon": "-122.6842401",
+    "display_name": "Island County, Washington, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49873531220172,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "80041691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "64297811",
+    "boundingbox": [
+      "50.4155235",
+      "50.4160089",
+      "-5.0831885",
+      "-5.0825233"
+    ],
+    "lat": "50.41575255",
+    "lon": "-5.08285126799461",
+    "display_name": "The Island, Truro, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3068039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358273606",
+    "boundingbox": [
+      "41.821768",
+      "42.461768",
+      "-71.1472644",
+      "-70.5072644"
+    ],
+    "lat": "42.141768",
+    "lon": "-70.8272644",
+    "display_name": "The Island, Norwell, Plymouth County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2660445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356566492",
+    "boundingbox": [
+      "37.3620873",
+      "38.0020873",
+      "-77.4630288",
+      "-76.8230288"
+    ],
+    "lat": "37.6820873",
+    "lon": "-77.1430288",
+    "display_name": "The Island, King William County, Virginia, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2494434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "354003623",
+    "boundingbox": [
+      "42.7789157",
+      "43.4189157",
+      "-83.2599344",
+      "-82.6199344"
+    ],
+    "lat": "43.0989157",
+    "lon": "-82.9399344",
+    "display_name": "The Island, Lynn Township, Saint Clair County, Michigan, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3185119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358706025",
+    "boundingbox": [
+      "30.7149433",
+      "31.3549433",
+      "-82.6845751",
+      "-82.0445751"
+    ],
+    "lat": "31.0349433",
+    "lon": "-82.3645751",
+    "display_name": "The Island, Ware County, Georgia, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3005559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357955522",
+    "boundingbox": [
+      "45.0661029",
+      "45.7061029",
+      "-104.3882714",
+      "-103.7482714"
+    ],
+    "lat": "45.3861029",
+    "lon": "-104.0682714",
+    "display_name": "The Island, Carter County, Montana, United States of America",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  }
+]

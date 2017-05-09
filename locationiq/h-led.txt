@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160387014",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1187316",
+    "boundingbox": [
+      "59.7862792",
+      "59.8171355",
+      "30.1990778",
+      "30.3217847"
+    ],
+    "lat": "59.80168175",
+    "lon": "30.2676239863922",
+    "display_name": "\u041f\u0443\u043b\u043a\u043e\u0432\u043e, \u0410\u044d\u0440\u043e\u0434\u0440\u043e\u043c\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0441\u0434\u0442 \u00ab\u042d\u043b\u0435\u043a\u0442\u0440\u043e\u0430\u0432\u0442\u043e\u043c\u0430\u0442\u0438\u043a\u0430\u00bb, \u0410\u0432\u0438\u0430\u0433\u043e\u0440\u043e\u0434\u043e\u043a, \u043e\u043a\u0440\u0443\u0433 \u041f\u0443\u043b\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u043c\u0435\u0440\u0438\u0434\u0438\u0430\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.38309104171738,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "112816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "21280124",
+    "boundingbox": [
+      "52.0402676",
+      "52.0502676",
+      "-2.4306064",
+      "-2.4206064"
+    ],
+    "lat": "52.0452676",
+    "lon": "-2.4256064",
+    "display_name": "Ledbury, Bromyard Road, Ledbury, Herefordshire, West Midlands, England, HR8 1AR, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.33050715237377,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "84838908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94931251",
+    "boundingbox": [
+      "54.4110305",
+      "54.4111209",
+      "18.6294049",
+      "18.6295823"
+    ],
+    "lat": "54.4110757",
+    "lon": "18.6294936",
+    "display_name": "LED, 277, Aleja Genera\u0142a J\u00f3zefa Hallera, Brze\u017ano, Gda\u0144sk, pomorskie, 80-509, Polska",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "15811240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1430722404",
+    "boundingbox": [
+      "52.5189258",
+      "52.5190258",
+      "13.2998952",
+      "13.2999952"
+    ],
+    "lat": "52.5189758",
+    "lon": "13.2999452",
+    "display_name": "LED, Kaiser-Friedrich-Stra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10585, Deutschland",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "75856192",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43231240",
+    "boundingbox": [
+      "-27.6032165",
+      "-27.6030191",
+      "-48.5203296",
+      "-48.5200717"
+    ],
+    "lat": "-27.60311775",
+    "lon": "-48.5202006477953",
+    "display_name": "LED, Rua Engenheiro Agr\u00f4nomo Andrey Cristian Ferreira, Serrinha, Trindade, Florian\u00f3polis, Microrregi\u00e3o de Florian\u00f3polis, Mesorregi\u00e3o da Grande Florian\u00f3polis, SC, Regi\u00e3o Sul, 88040-901, Brasil",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44495659",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3149333448",
+    "boundingbox": [
+      "42.2162328",
+      "42.2163328",
+      "-8.7392124",
+      "-8.7391124"
+    ],
+    "lat": "42.2162828",
+    "lon": "-8.7391624",
+    "display_name": "+led, Avenida da Florida, A Mi\u00f1oqui\u00f1a, Coia, Vigo, Pontevedra, Galicia, 36210, Espa\u00f1a",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "148334781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381301573",
+    "boundingbox": [
+      "-21.7839557",
+      "-21.7837961",
+      "-48.1963996",
+      "-48.1961534"
+    ],
+    "lat": "-21.7838912",
+    "lon": "-48.1962783995509",
+    "display_name": "LED, 9, Avenida Jo\u00e3o Soares Arruda, Jardim dos Manac\u00e1s, Araraquara, Microrregi\u00e3o de Araraquara, Mesorregi\u00e3o de Araraquara, SP, Regi\u00e3o Sudeste, 14804-700, Brasil",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "88923047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "111606085",
+    "boundingbox": [
+      "52.9203199",
+      "52.9207557",
+      "-1.4485615",
+      "-1.4477592"
+    ],
+    "lat": "52.9205487",
+    "lon": "-1.44818944374663",
+    "display_name": "LED, Chequers Road, Castleward, Pride Park, Derby, East Midlands, England, DE21 6AW, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653927853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4730063992",
+    "boundingbox": [
+      "61.7822347",
+      "61.7823347",
+      "34.3792195",
+      "34.3793195"
+    ],
+    "lat": "61.7822847",
+    "lon": "34.3792695",
+    "display_name": "Led, 10, \u0443\u043b\u0438\u0446\u0430 \u0412\u043e\u043b\u043e\u0434\u0430\u0440\u0441\u043a\u043e\u0433\u043e, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0417\u0430\u0440\u0435\u043a\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a, \u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 185000, \u0420\u0424",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653927846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4730063791",
+    "boundingbox": [
+      "61.7852119",
+      "61.7853119",
+      "34.3484418",
+      "34.3485418"
+    ],
+    "lat": "61.7852619",
+    "lon": "34.3484918",
+    "display_name": "Led, 37, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u041b\u0435\u043d\u0438\u043d\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a, \u041f\u0435\u0442\u0440\u043e\u0437\u0430\u0432\u043e\u0434\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u0430\u0440\u0435\u043b\u0438\u044f, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 185000, \u0420\u0424",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  }
+]

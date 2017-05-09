@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160236136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "11772",
+    "boundingbox": [
+      "47.5009733",
+      "47.5015312",
+      "19.0459635",
+      "19.0469539"
+    ],
+    "lat": "47.50124495",
+    "lon": "19.0467503408381",
+    "display_name": "MTA, 9, Sz\u00e9chenyi Istv\u00e1n t\u00e9r, Lip\u00f3tv\u00e1ros, 5. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1051, Magyarorsz\u00e1g",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.64029814018216,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "6905398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "727276547",
+    "boundingbox": [
+      "-4.4970381",
+      "-4.4570381",
+      "38.2151984",
+      "38.2551984"
+    ],
+    "lat": "-4.4770381",
+    "lon": "38.2351984",
+    "display_name": "Mtae, Lushoto, Tanga, Northern, Tanzania",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "119375669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234091217",
+    "boundingbox": [
+      "47.7613942",
+      "47.7617882",
+      "19.5366514",
+      "19.5372866"
+    ],
+    "lat": "47.76156085",
+    "lon": "19.5370653139937",
+    "display_name": "MTA Kast\u00e9lyhotel, 1, Pet\u0151fi utca, Erd\u0151tarcsa, P\u00e1szt\u00f3i j\u00e1r\u00e1s, N\u00f3gr\u00e1d megye, \u00c9szak-Magyarorsz\u00e1g, Alf\u00f6ld \u00e9s \u00c9szak, 2177, Magyarorsz\u00e1g",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.14652765815729,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "29624551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2715588472",
+    "boundingbox": [
+      "39.9038996",
+      "39.9138996",
+      "32.7913754",
+      "32.8013754"
+    ],
+    "lat": "39.9088996",
+    "lon": "32.7963754",
+    "display_name": "MTA, Dumlup\u0131nar Bulvar\u0131, \u00c7ukurambar Mahallesi, Ankara, \u00c7ankaya, Ankara, \u0130\u00e7 Anadolu B\u00f6lgesi, 06530, T\u00fcrkiye",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "82700941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "84483979",
+    "boundingbox": [
+      "47.2108542",
+      "47.2112294",
+      "-0.7180572",
+      "-0.7175237"
+    ],
+    "lat": "47.21103545",
+    "lon": "-0.717788206368329",
+    "display_name": "MTA, Rue du Bompas, Chemill\u00e9, Chemill\u00e9-en-Anjou, Cholet, Maine-et-Loire, Pays de la Loire, 49120, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "81969413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "79360510",
+    "boundingbox": [
+      "44.9448556",
+      "44.9450903",
+      "-0.2357289",
+      "-0.2351846"
+    ],
+    "lat": "44.94497405",
+    "lon": "-0.235456835150157",
+    "display_name": "MTA, Rue de l'Industrie, ZI de la Balasti\u00e8re, La Bordette, Libourne, Gironde, Nouvelle-Aquitaine, 33500, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15692451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1416166239",
+    "boundingbox": [
+      "37.9653294",
+      "37.9654294",
+      "32.5146015",
+      "32.5147015"
+    ],
+    "lat": "37.9653794",
+    "lon": "32.5146515",
+    "display_name": "MTA, Yeni \u0130stanbul Caddesi, Yaz\u0131r Mahallesi, Konya, Sel\u00e7uklu, Konya, \u0130\u00e7 Anadolu B\u00f6lgesi, 42050, T\u00fcrkiye",
+    "class": "railway",
+    "type": "tram_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_tram_stop.p.20.png"
+  },
+  {
+    "place_id": "104727771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173431615",
+    "boundingbox": [
+      "47.5950553",
+      "47.5956567",
+      "-0.3391694",
+      "-0.3385378"
+    ],
+    "lat": "47.59535605",
+    "lon": "-0.338853585184887",
+    "display_name": "MTA, D 323, Seiches-sur-le-Loir, Angers, Maine-et-Loire, Pays de la Loire, 49140, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25374724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2461629581",
+    "boundingbox": [
+      "43.2409246",
+      "43.2410246",
+      "2.1239752",
+      "2.1240752"
+    ],
+    "lat": "43.2409746",
+    "lon": "2.1240252",
+    "display_name": "MTA, Voie d'\u00c9vitement de Bram, Saint-Jean, Bram, Carcassonne, Aude, Occitanie, 11150, France",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609628834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218385169",
+    "boundingbox": [
+      "44.0610161",
+      "44.061406",
+      "1.0999994",
+      "1.1010925"
+    ],
+    "lat": "44.06121105",
+    "lon": "1.10054595",
+    "display_name": "MTA, D 118, Castelsarrasin, Tarn-et-Garonne, Occitanie, 82100, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

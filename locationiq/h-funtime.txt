@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "50764571",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3793936458",
+    "boundingbox": [
+      "53.6494461",
+      "53.6495461",
+      "-3.0060383",
+      "-3.0059383"
+    ],
+    "lat": "53.6494961",
+    "lon": "-3.0059883",
+    "display_name": "Silcock's Funtime Amusements, Nevill Street, Birkdale, Southport, Sefton, North West England, England, PR9 0DE, UK",
+    "class": "leisure",
+    "type": "amusement_arcade",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44312620",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3136314786",
+    "boundingbox": [
+      "32.3299877",
+      "32.3300877",
+      "-90.3061795",
+      "-90.3060795"
+    ],
+    "lat": "32.3300377",
+    "lon": "-90.3061295",
+    "display_name": "Funtime Skate Land, US 80, Clinton, Hinds County, Mississippi, 39058, United States of America",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160364482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "957239",
+    "boundingbox": [
+      "40.642149",
+      "40.823569",
+      "-74.1660869",
+      "-73.9848829"
+    ],
+    "lat": "40.7322695",
+    "lon": "-74.0766299",
+    "display_name": "Hudson County, New Jersey, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5612931222686,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160286654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "174904",
+    "boundingbox": [
+      "42.239187",
+      "42.263473",
+      "-73.8089739",
+      "-73.7680789"
+    ],
+    "lat": "42.2528649",
+    "lon": "-73.7909589",
+    "display_name": "Hudson, Columbia County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.4982032733132,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160300491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "251563",
+    "boundingbox": [
+      "44.938768",
+      "44.989177",
+      "-92.7704643",
+      "-92.689402"
+    ],
+    "lat": "44.9746896",
+    "lon": "-92.7568702",
+    "display_name": "Hudson, Saint Croix County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.49802498576698,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160289005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "181817",
+    "boundingbox": [
+      "41.2028503",
+      "41.277053",
+      "-81.4896359",
+      "-81.3918343"
+    ],
+    "lat": "41.240056",
+    "lon": "-81.4406669",
+    "display_name": "Hudson, Summit County, Ohio, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.46954659981371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160307307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "305528",
+    "boundingbox": [
+      "42.6988443",
+      "42.82489",
+      "-71.4638672",
+      "-71.361005"
+    ],
+    "lat": "42.7654433",
+    "lon": "-71.4397166",
+    "display_name": "Hudson, Hillsborough County, New Hampshire, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46204844474975,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160470243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1832796",
+    "boundingbox": [
+      "42.3672906",
+      "42.4119435",
+      "-71.6081469",
+      "-71.4726714"
+    ],
+    "lat": "42.3913088",
+    "lon": "-71.5678235",
+    "display_name": "Hudson, Middlesex County, Massachusetts, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4559855176309,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11362591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1074484148",
+    "boundingbox": [
+      "45.424465",
+      "45.504465",
+      "-74.1908479",
+      "-74.1108479"
+    ],
+    "lat": "45.464465",
+    "lon": "-74.1508479",
+    "display_name": "Hudson, Qu\u00e9bec, Canada",
+    "class": "place",
+    "type": "town",
+    "importance": 0.43940162059147,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "506566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158867282",
+    "boundingbox": [
+      "44.9811783",
+      "45.0211783",
+      "-68.9005922",
+      "-68.8605922"
+    ],
+    "lat": "45.0011783",
+    "lon": "-68.8805922",
+    "display_name": "Hudson, Penobscot County, Maine, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.40979098780839,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160275000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "135108",
+    "boundingbox": [
+      "41.847572",
+      "41.869582",
+      "-84.3619119",
+      "-84.3239449"
+    ],
+    "lat": "41.855048",
+    "lon": "-84.3538358",
+    "display_name": "Hudson, Lenawee County, Michigan, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.4063828842121,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160269279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126784",
+    "boundingbox": [
+      "40.590818",
+      "40.616285",
+      "-88.9966869",
+      "-88.9787809"
+    ],
+    "lat": "40.6058688",
+    "lon": "-88.9872964",
+    "display_name": "Hudson, McLean County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40352606065929,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

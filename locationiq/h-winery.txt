@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "82155578",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "80629499",
+    "boundingbox": [
+      "38.4709615",
+      "38.4720598",
+      "-1.309736",
+      "-1.3088907"
+    ],
+    "lat": "38.4716252",
+    "lon": "-1.30915979936498",
+    "display_name": "Winery, La Estacada, Jumilla, Altiplano, Murcia, 30520, Espa\u00f1a",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "64444926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16502107",
+    "boundingbox": [
+      "35.920611",
+      "35.922257",
+      "-75.6701989",
+      "-75.6672569"
+    ],
+    "lat": "35.921222",
+    "lon": "-75.6688609",
+    "display_name": "The Winery, Mother Vineyard, Dare County, North Carolina, 27954, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "83414897",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "88376299",
+    "boundingbox": [
+      "43.3801935",
+      "43.3816646",
+      "40.0456996",
+      "40.0470283"
+    ],
+    "lat": "43.3811248",
+    "lon": "40.0463778972207",
+    "display_name": "\u0412\u0438\u043d\u0437\u0430\u0432\u043e\u0434, \u0413\u044c\u0430\u0447\u0440\u044b\u04a7\u0448\u044c - \u0413\u044f\u0447\u0440\u044b\u043f\u0448, \u0413\u0430\u0433\u0440\u0430 \u0430\u0440\u0430\u0438\u043e\u043d - \u0413\u0430\u0433\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u10d0\u10e4\u10ee\u10d0\u10d6\u10d4\u10d7\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0 - \u0410\u04a7\u0441\u043d\u044b \u0410\u0432\u0442\u043e\u043d\u043e\u043c\u0442\u04d9 \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430, \u0410\u0431\u0445\u0430\u0437\u0438\u044f - \u0410\u04a7\u0441\u043d\u044b, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "127485239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "271291933",
+    "boundingbox": [
+      "40.8043441",
+      "40.8045845",
+      "-73.9548959",
+      "-73.9546767"
+    ],
+    "lat": "40.8044226",
+    "lon": "-73.9548098130387",
+    "display_name": "The Winery, 257, West 116th Street, Harlem, Manhattan, New York County, NYC, New York, 10026, United States of America",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "2650741972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4649989826",
+    "boundingbox": [
+      "-34.5846785",
+      "-34.5845785",
+      "-58.434152",
+      "-58.434052"
+    ],
+    "lat": "-34.5846285",
+    "lon": "-58.434102",
+    "display_name": "Winery, Avenida Juan Bautista Justo, Palermo Soho, Palermo, CABA, Comuna 14, CABA, C1414CWN, Argentina",
+    "class": "craft",
+    "type": "winery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651502337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4673591583",
+    "boundingbox": [
+      "-34.6126176",
+      "-34.6125176",
+      "-58.3705479",
+      "-58.3704479"
+    ],
+    "lat": "-34.6125676",
+    "lon": "-58.3704979",
+    "display_name": "Winery, Balcarce, Monserrat, CABA, Comuna 1, CABA, C1063ACF, Argentina",
+    "class": "craft",
+    "type": "winery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651387118",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4670196864",
+    "boundingbox": [
+      "-34.5895588",
+      "-34.5894588",
+      "-58.3814535",
+      "-58.3813535"
+    ],
+    "lat": "-34.5895088",
+    "lon": "-58.3814035",
+    "display_name": "Winery, Carlos Pellegrini, Retiro, CABA, Comuna 1, CABA, 1011, Argentina",
+    "class": "shop",
+    "type": "wine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651387704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472818138",
+    "boundingbox": [
+      "-34.5809373",
+      "-34.5807646",
+      "-58.3984296",
+      "-58.3982439"
+    ],
+    "lat": "-34.58086265",
+    "lon": "-58.3983367539888",
+    "display_name": "Winery, Avenida Presidente Figueroa Alcorta, Barrio Norte, Recoleta, CABA, Comuna 2, CABA, C1113AAX, Argentina",
+    "class": "shop",
+    "type": "wine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654933479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4752022048",
+    "boundingbox": [
+      "-34.5649906",
+      "-34.5648906",
+      "-58.4365364",
+      "-58.4364364"
+    ],
+    "lat": "-34.5649406",
+    "lon": "-58.4364864",
+    "display_name": "Winery, Migueletes, Las Ca\u00f1itas, Palermo, CABA, Comuna 14, CABA, C1426CRF, Argentina",
+    "class": "shop",
+    "type": "wine",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120506978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "238965600",
+    "boundingbox": [
+      "52.8002004",
+      "52.8006731",
+      "-1.6293552",
+      "-1.628874"
+    ],
+    "lat": "52.8003768",
+    "lon": "-1.6290483173012",
+    "display_name": "The Winery, Coors Ac controlled water, Burton, East Staffordshire, Staffordshire, West Midlands, England, DE14 3RL, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

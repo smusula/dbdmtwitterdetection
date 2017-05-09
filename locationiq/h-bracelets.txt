@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "24055177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2353971338",
+    "boundingbox": [
+      "52.4826848",
+      "52.4827848",
+      "-1.9109785",
+      "-1.9108785"
+    ],
+    "lat": "52.4827348",
+    "lon": "-1.9109285",
+    "display_name": "Charm Bracelets, Newhall Hill, Jewellery Quarter, Park Central, Birmingham, West Midlands, England, B1, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2644741594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4514947292",
+    "boundingbox": [
+      "13.7246431",
+      "13.7247431",
+      "100.519553",
+      "100.519653"
+    ],
+    "lat": "13.7246931",
+    "lon": "100.519603",
+    "display_name": "Teeraluck cheap gem bracelets and necklace, 30 \u0e2a\u0e35\u0e25\u0e21, \u0e2a\u0e35\u0e25\u0e21, \u0e41\u0e02\u0e27\u0e07\u0e2a\u0e38\u0e23\u0e34\u0e22\u0e27\u0e07\u0e28\u0e4c, \u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e23\u0e31\u0e01, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10500, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "52240988",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3907709416",
+    "boundingbox": [
+      "6.3634558",
+      "6.3635558",
+      "2.3991605",
+      "2.3992605"
+    ],
+    "lat": "6.3635058",
+    "lon": "2.3992105",
+    "display_name": "LES BRACELETS PARACO, Avenue du Canada, Cadjehoun, 12\u00e8me Arrondissement, Cotonou, Littoral, 0123, B\u00e9nin",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  }
+]

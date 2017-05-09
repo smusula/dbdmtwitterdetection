@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "58942048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7577196",
+    "boundingbox": [
+      "51.892712",
+      "51.8932",
+      "4.1605",
+      "4.1621673"
+    ],
+    "lat": "51.8930165",
+    "lon": "4.1613633",
+    "display_name": "Hulk, Brielle, MRDH, Zuid-Holland, Nederland, 3232CK, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58367006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6560083",
+    "boundingbox": [
+      "53.1957489",
+      "53.1971789",
+      "5.5419",
+      "5.5446867"
+    ],
+    "lat": "53.1968524",
+    "lon": "5.5427246",
+    "display_name": "Hulk, Franeker, Franekeradeel, Friesland, Nederland, 8802NJ, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59351476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7577163",
+    "boundingbox": [
+      "51.893107",
+      "51.8935817",
+      "4.1610172",
+      "4.1612741"
+    ],
+    "lat": "51.893107",
+    "lon": "4.1610172",
+    "display_name": "Hulk, Brielle, MRDH, Zuid-Holland, Nederland, 3232CK, Nederland",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "23168515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2314234811",
+    "boundingbox": [
+      "34.695931",
+      "34.696031",
+      "135.546418",
+      "135.546518"
+    ],
+    "lat": "34.695981",
+    "lon": "135.546468",
+    "display_name": "HULK, \u4eca\u91cc\u7b4b, \u57ce\u6771\u533a, \u5927\u962a\u5e02, \u6cc9\u5317\u90e1, \u5927\u962a\u5e9c, 5340024, \u65e5\u672c",
+    "class": "shop",
+    "type": "motorcycle",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51712067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3881413193",
+    "boundingbox": [
+      "43.3529185",
+      "43.3530185",
+      "19.3442014",
+      "19.3443014"
+    ],
+    "lat": "43.3529685",
+    "lon": "19.3442514",
+    "display_name": "Hulk, Oslobo\u0111enja, Pljevlja, Op\u0161tina Pljevlja, 84210, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "2608355700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4456679950",
+    "boundingbox": [
+      "51.2358795",
+      "51.2359795",
+      "51.4038359",
+      "51.4039359"
+    ],
+    "lat": "51.2359295",
+    "lon": "51.4038859",
+    "display_name": "Hulk, 1, \u0443\u043b\u0438\u0446\u0430 \u041b\u0435\u0432\u043e\u043d\u0430 \u041c\u0438\u0440\u0437\u043e\u044f\u043d\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a, \u0423\u0440\u0430\u043b\u044c\u0441\u043a \u0413.\u0410., \u0417\u0430\u043f\u0430\u0434\u043d\u043e-\u041a\u0430\u0437\u0430\u0445\u0441\u0442\u0430\u043d\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 090003, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "shop",
+    "type": "nutrition_supplements",
+    "importance": 0.101
+  },
+  {
+    "place_id": "125164007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258520850",
+    "boundingbox": [
+      "53.3265712",
+      "53.3266522",
+      "-6.499302",
+      "-6.4991658"
+    ],
+    "lat": "53.3266117",
+    "lon": "-6.4992339",
+    "display_name": "The Hulk, Grand Canal Way, Hazelhatch, Newcastle ED, Hazelhatch Bridge, South Dublin, County Dublin, Leinster, Ireland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74667249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39035413",
+    "boundingbox": [
+      "54.2837988",
+      "54.284467",
+      "8.7936791",
+      "8.7950439"
+    ],
+    "lat": "54.284467",
+    "lon": "8.7944571",
+    "display_name": "H\u00fclk, Vollerwiek, Eiderstedt, Kreis Nordfriesland, Schleswig-Holstein, 25836, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "16322386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1496567748",
+    "boundingbox": [
+      "51.775943",
+      "51.776043",
+      "7.3818294",
+      "7.3819294"
+    ],
+    "lat": "51.775993",
+    "lon": "7.3818794",
+    "display_name": "H\u00fclk, Ondrup, L\u00fcdinghausen, Kreis Coesfeld, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 59348, Deutschland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "14056522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1250317275",
+    "boundingbox": [
+      "51.7232141",
+      "51.7233141",
+      "7.4169444",
+      "7.4170444"
+    ],
+    "lat": "51.7232641",
+    "lon": "7.4169944",
+    "display_name": "H\u00fclk, 5, Vo\u00dfkamp, Vinnum, Olfen, Kreis Coesfeld, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 59399, Deutschland",
+    "class": "craft",
+    "type": "beekeeper",
+    "importance": 0.001
+  }
+]

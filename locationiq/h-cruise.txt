@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "51486743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3848626862",
+    "boundingbox": [
+      "54.9038112",
+      "54.9438112",
+      "-4.8726875",
+      "-4.8326875"
+    ],
+    "lat": "54.9238112",
+    "lon": "-4.8526875",
+    "display_name": "Cruise, Dumfries and Galloway, Scotland, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "439504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154192079",
+    "boundingbox": [
+      "37.2984198",
+      "37.3384198",
+      "-84.1429872",
+      "-84.1029872"
+    ],
+    "lat": "37.3184198",
+    "lon": "-84.1229872",
+    "display_name": "Cruise, Laurel County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60967687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10419141",
+    "boundingbox": [
+      "35.255276",
+      "35.255865",
+      "-118.6222859",
+      "-118.6220399"
+    ],
+    "lat": "35.255559",
+    "lon": "-118.6222769",
+    "display_name": "Cruise, Keene, Kern County, California, 93531, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "56218458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4383601189",
+    "boundingbox": [
+      "59.9061257",
+      "59.9062257",
+      "10.734669",
+      "10.734769"
+    ],
+    "lat": "59.9061757",
+    "lon": "10.734719",
+    "display_name": "Cruise, Akershusstranda, Vika, Sentrum, Oslo, 15, Norge",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "44711217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3164519188",
+    "boundingbox": [
+      "55.9524078",
+      "55.9525078",
+      "-3.2023894",
+      "-3.2022894"
+    ],
+    "lat": "55.9524578",
+    "lon": "-3.2023394",
+    "display_name": "Cruise, 94, George Street, New Town, Edinburgh, City of Edinburgh, Scotland, EH2 3DF, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "80096894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65038090",
+    "boundingbox": [
+      "49.4301712",
+      "49.4306121",
+      "1.0844503",
+      "1.0849606"
+    ],
+    "lat": "49.43033495",
+    "lon": "1.08466476928256",
+    "display_name": "The Cruise, Rue Saint-Julien, Saint-Sever, Centre Ville Rive Gauche, Rouen, Seine-Maritime, Normandie, 76000;76100, France",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "46260863",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3278134971",
+    "boundingbox": [
+      "52.6361597",
+      "52.6362597",
+      "-1.1335559",
+      "-1.1334559"
+    ],
+    "lat": "52.6362097",
+    "lon": "-1.1335059",
+    "display_name": "Cruise, Church Gate, St Matthew's, Leicester, City of Leicester, East Midlands, England, LE1 5EA, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "90659781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117238008",
+    "boundingbox": [
+      "52.9232068",
+      "52.9233666",
+      "-1.4797533",
+      "-1.4795284"
+    ],
+    "lat": "52.9232897",
+    "lon": "-1.47963401185392",
+    "display_name": "Cruise, George Yard, Cathedral Quarter, Little Chester, Derby, East Midlands, England, DE1 3NQ, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "42616458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3083082633",
+    "boundingbox": [
+      "45.8910574",
+      "45.8911574",
+      "8.4077459",
+      "8.4078459"
+    ],
+    "lat": "45.8911074",
+    "lon": "8.4077959",
+    "display_name": "Cruise, Via dei Conti, Alpe del Tredes, Omegna, VB, PIE, 28887, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "18955286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1831389483",
+    "boundingbox": [
+      "47.1576594",
+      "47.1577594",
+      "9.813209",
+      "9.813309"
+    ],
+    "lat": "47.1577094",
+    "lon": "9.813259",
+    "display_name": "Cruise, 53, Werdenbergerstra\u00dfe, Bludenz, Vorarlberg, 6700, \u00d6sterreich",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

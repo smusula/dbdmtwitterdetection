@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "70107701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26580976",
+    "boundingbox": [
+      "34.9711891",
+      "34.9731885",
+      "135.7536166",
+      "135.7556931"
+    ],
+    "lat": "34.9726094",
+    "lon": "135.754664115948",
+    "display_name": "Nintendo, \u5357\u533a, \u4eac\u90fd\u5e02, \u4eac\u90fd\u5e9c, 6018436, \u65e5\u672c",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "73847429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36807082",
+    "boundingbox": [
+      "45.5215744",
+      "45.5220049",
+      "-73.5367547",
+      "-73.5360266"
+    ],
+    "lat": "45.5218025",
+    "lon": "-73.5364606738667",
+    "display_name": "Nintendo, Chemin de La Ronde, Ville-Marie, Montr\u00e9al, Montr\u00e9al (06), Qu\u00e9bec, H2L 2R7, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "153294712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "408586009",
+    "boundingbox": [
+      "-17.7835292",
+      "-17.7834426",
+      "-63.1836675",
+      "-63.1835521"
+    ],
+    "lat": "-17.7834859",
+    "lon": "-63.1836098",
+    "display_name": "Nintendo, Calle 21 de Mayo, Palermo, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "shop",
+    "type": "video_games",
+    "importance": 0.101
+  }
+]

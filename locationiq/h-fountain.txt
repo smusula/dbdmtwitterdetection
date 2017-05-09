@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "72797046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33156595",
+    "boundingbox": [
+      "38.7194029",
+      "38.7302674",
+      "-104.6567663",
+      "-104.6278199"
+    ],
+    "lat": "38.725168",
+    "lon": "-104.645359029556",
+    "display_name": "Fountain, El Paso County, Colorado, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.54811611370009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160263066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "113002",
+    "boundingbox": [
+      "38.5633931",
+      "38.751395",
+      "-104.7478429",
+      "-104.6278199"
+    ],
+    "lat": "38.682219",
+    "lon": "-104.7008055",
+    "display_name": "Fountain, El Paso County, Colorado, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.54811611370009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "72725369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33156674",
+    "boundingbox": [
+      "38.750817",
+      "38.751395",
+      "-104.7456879",
+      "-104.7441859"
+    ],
+    "lat": "38.751126",
+    "lon": "-104.744631054412",
+    "display_name": "Fountain, El Paso County, Colorado, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54811611370009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160450672",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1802225",
+    "boundingbox": [
+      "39.953773",
+      "40.366394",
+      "-87.4401859",
+      "-87.0909189"
+    ],
+    "lat": "40.125252",
+    "lon": "-87.2497417",
+    "display_name": "Fountain County, Indiana, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49340657451432,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2650087101",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469290920",
+    "boundingbox": [
+      "33.5093852",
+      "33.5094812",
+      "-112.1024459",
+      "-112.102188"
+    ],
+    "lat": "33.50943685",
+    "lon": "-112.102319675041",
+    "display_name": "fountain, Phoenix, Maricopa County, Arizona, United States of America",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.435
+  },
+  {
+    "place_id": "159991386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "446171781",
+    "boundingbox": [
+      "49.4349743",
+      "49.4349906",
+      "18.2532885",
+      "18.2533109"
+    ],
+    "lat": "49.43498245",
+    "lon": "18.2532997230132",
+    "display_name": "fountain, Prost\u0159edn\u00ed Be\u010dva, okres Vset\u00edn, Zl\u00ednsk\u00fd kraj, St\u0159edn\u00ed Morava, \u010cesko",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.435
+  },
+  {
+    "place_id": "477413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158642926",
+    "boundingbox": [
+      "41.0195031",
+      "41.0595031",
+      "-77.9430591",
+      "-77.9030591"
+    ],
+    "lat": "41.0395031",
+    "lon": "-77.9230591",
+    "display_name": "Fountain, Centre County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "469626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158450915",
+    "boundingbox": [
+      "40.6353656",
+      "40.6753656",
+      "-76.4666235",
+      "-76.4266235"
+    ],
+    "lat": "40.6553656",
+    "lon": "-76.4466235",
+    "display_name": "Fountain, Schuylkill County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "373066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151733872",
+    "boundingbox": [
+      "30.6524204",
+      "30.6924204",
+      "-96.5038549",
+      "-96.4638549"
+    ],
+    "lat": "30.6724204",
+    "lon": "-96.4838549",
+    "display_name": "Fountain, Brazos County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "362960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151381383",
+    "boundingbox": [
+      "38.3425537",
+      "38.3825537",
+      "-90.302894",
+      "-90.262894"
+    ],
+    "lat": "38.3625537",
+    "lon": "-90.282894",
+    "display_name": "Fountain, Monroe County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

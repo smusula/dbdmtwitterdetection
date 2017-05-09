@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "346841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151418352",
+    "boundingbox": [
+      "30.4243717",
+      "30.4643717",
+      "-97.3752739",
+      "-97.3352739"
+    ],
+    "lat": "30.4443717",
+    "lon": "-97.3552739",
+    "display_name": "Type, Williamson County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654855396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4750843209",
+    "boundingbox": [
+      "52.1173053",
+      "52.1174053",
+      "8.6758052",
+      "8.6759052"
+    ],
+    "lat": "52.1173553",
+    "lon": "8.6758552",
+    "display_name": "Le Type, 28, Berliner Stra\u00dfe, Neustadt, Herford-Stadt, Herford, Kreis Herford, Regierungsbezirk Detmold, Nordrhein-Westfalen, 32052, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "94984005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133482626",
+    "boundingbox": [
+      "52.9064914",
+      "52.9066139",
+      "-1.4777463",
+      "-1.4774898"
+    ],
+    "lat": "52.90653385",
+    "lon": "-1.47765111847448",
+    "display_name": "Pretty, Pear Tree Road, Rose Hill, New Normanton, Derby, East Midlands, England, DE23 6QF, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53666305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4107977407",
+    "boundingbox": [
+      "49.1906935",
+      "49.1907935",
+      "9.2263263",
+      "9.2264263"
+    ],
+    "lat": "49.1907435",
+    "lon": "9.2263763",
+    "display_name": "Pretty, 24, Lammgasse, Neckarsulm, Verwaltungsgemeinschaft Neckarsulm, Landkreis Heilbronn, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 74172, Deutschland",
+    "class": "craft",
+    "type": "tailor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54859177",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4252023198",
+    "boundingbox": [
+      "41.2379005",
+      "41.2380005",
+      "69.3291489",
+      "69.3292489"
+    ],
+    "lat": "41.2379505",
+    "lon": "69.3291989",
+    "display_name": "Pretty, TOSHKENT HALQA AVTOMOBIL YO'LI, Bektemir Tumani, Yakkasaroy Tumani, Toshkent, 100000, O\u02bbzbekiston",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

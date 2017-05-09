@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "158385579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "436666441",
+    "boundingbox": [
+      "34.7395601",
+      "34.7428813",
+      "126.3643371",
+      "126.3701839"
+    ],
+    "lat": "34.7413574",
+    "lon": "126.367342421096",
+    "display_name": "Seaport, \ubaa9\ud3ec, \uc804\ub0a8, \ub300\ud55c\ubbfc\uad6d",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "62773033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13292704",
+    "boundingbox": [
+      "33.5184493",
+      "33.5189859",
+      "-117.6857169",
+      "-117.6853221"
+    ],
+    "lat": "33.518807",
+    "lon": "-117.6857169",
+    "display_name": "Seaport, Laguna Niguel, Orange County, California, 92677, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54255792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4191907748",
+    "boundingbox": [
+      "42.3501536",
+      "42.3502536",
+      "-71.0427911",
+      "-71.0426911"
+    ],
+    "lat": "42.3502036",
+    "lon": "-71.0427411",
+    "display_name": "Seaport, B Street, Church Green, Financial District, Boston, Suffolk County, Massachusetts, 02210, United States of America",
+    "class": "place",
+    "type": "quarter",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86729207",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "103240538",
+    "boundingbox": [
+      "48.3080195",
+      "48.3089888",
+      "14.3158785",
+      "14.3180931"
+    ],
+    "lat": "48.3085041",
+    "lon": "14.3169857922652",
+    "display_name": "Seaport, 47, Industriezeile, Hafenviertel, Linz (Stadt), Ober\u00f6sterreich, 4020, \u00d6sterreich",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

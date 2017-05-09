@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "72038940",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31615646",
+    "boundingbox": [
+      "7.1283016",
+      "7.1301006",
+      "125.6305138",
+      "125.6318003"
+    ],
+    "lat": "7.1298434",
+    "lon": "125.6312638",
+    "display_name": "Watermelon, Ciudad de Esperanza Subdivision Phase 3, El Punto Vista, Davao City, Davao, 8001, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90973188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118402112",
+    "boundingbox": [
+      "10.6217416",
+      "10.6227944",
+      "-61.2614091",
+      "-61.2594985"
+    ],
+    "lat": "10.6224739",
+    "lon": "-61.2600813",
+    "display_name": "Watermelon, Santa Rosa, Wallerfield, Trinidad and Tobago",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654235499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4736189861",
+    "boundingbox": [
+      "56.95348",
+      "56.95358",
+      "24.0710349",
+      "24.0711349"
+    ],
+    "lat": "56.95353",
+    "lon": "24.0710849",
+    "display_name": "Watermelon, 10, Durbes iela, Dzirciems, R\u012bga, Vidzeme, LV-1047, Latvija",
+    "class": "office",
+    "type": "advertising_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610437524",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4506129489",
+    "boundingbox": [
+      "35.8723153",
+      "35.8724153",
+      "14.5208018",
+      "14.5209018"
+    ],
+    "lat": "35.8723653",
+    "lon": "14.5208518",
+    "display_name": "Watermelon, Triq Haz-Zabar, Fgura, Malta, FGR1242, Malta",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2609385120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4478209490",
+    "boundingbox": [
+      "49.1699648",
+      "49.1700648",
+      "-122.5777566",
+      "-122.5776566"
+    ],
+    "lat": "49.1700148",
+    "lon": "-122.5777066",
+    "display_name": "Watermelon, Glover Road, Fort Langley, Township of Langley, Greater Vancouver Regional District, British Columbia, V1M 2R6, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "99006579",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151748890",
+    "boundingbox": [
+      "32.861285",
+      "32.861797",
+      "35.245254",
+      "35.245899"
+    ],
+    "lat": "32.86148",
+    "lon": "35.245652",
+    "display_name": "\u05d0\u05d1\u05d8\u05d9\u05d7, \u05de\u05d5\u05e2\u05e6\u05d4 \u05d0\u05d6\u05d5\u05e8\u05d9\u05ea \u05de\u05e9\u05d2\u05d1, \u05de\u05d7\u05d5\u05d6 \u05d4\u05e6\u05e4\u05d5\u05df, 20174, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.075
+  },
+  {
+    "place_id": "55657084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4316660091",
+    "boundingbox": [
+      "42.9805507",
+      "42.9806507",
+      "47.482897",
+      "47.482997"
+    ],
+    "lat": "42.9806007",
+    "lon": "47.482947",
+    "display_name": "\u0410\u0440\u0431\u0443\u0437, 65, \u0443\u043b\u0438\u0446\u0430 \u0422\u0430\u043d\u043a\u0430\u0435\u0432\u0430, \u0433\u043e\u0440\u043e\u0434\u043e\u043a \u041d\u0435\u0444\u0442\u044f\u043d\u0438\u043a\u043e\u0432, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0423\u0437\u0431\u0435\u043a\u0438\u0441\u0442\u0430\u043d, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0430\u0445\u0430\u0447\u043a\u0430\u043b\u0430, \u0414\u0430\u0433\u0435\u0441\u0442\u0430\u043d, \u0421\u041a\u0424\u041e, 367000, \u0420\u0424",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

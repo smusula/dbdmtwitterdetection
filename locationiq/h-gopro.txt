@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "85267438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96677384",
+    "boundingbox": [
+      "37.5342432",
+      "37.5347833",
+      "-122.3316666",
+      "-122.3308995"
+    ],
+    "lat": "37.5345165",
+    "lon": "-122.331279007248",
+    "display_name": "GoPro, 3000, Clearview Way, San Mateo, San Mateo County, California, 94402, United States of America",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40344510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2969144947",
+    "boundingbox": [
+      "36.7697876",
+      "36.7698876",
+      "3.0362238",
+      "3.0363238"
+    ],
+    "lat": "36.7698376",
+    "lon": "3.0362738",
+    "display_name": "Gopro, Avenue Khodja Mustapha dit Ali, El Biar, Da\u00efra Bouzareah, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16340, RADP",
+    "class": "shop",
+    "type": "hifi",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "49869321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3715250489",
+    "boundingbox": [
+      "53.7326543",
+      "53.7426543",
+      "-2.0139467",
+      "-2.0039467"
+    ],
+    "lat": "53.7376543",
+    "lon": "-2.0089467",
+    "display_name": "Hebden Bridge, Palace House Road, Calderdale, Yorkshire and the Humber, England, HX7 8EE, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.32079972394797,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "12898038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1227072665",
+    "boundingbox": [
+      "14.763055",
+      "14.803055",
+      "43.865435",
+      "43.905435"
+    ],
+    "lat": "14.783055",
+    "lon": "43.885435",
+    "display_name": "\u062d\u0628\u0636, Dhamar, \u0627\u0644\u064a\u0645\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "748099",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "260198646",
+    "boundingbox": [
+      "52.6644999",
+      "52.6645999",
+      "8.1218046",
+      "8.1219046"
+    ],
+    "lat": "52.6645499",
+    "lon": "8.1218546",
+    "display_name": "HBD, Samskamp, Dinklage, Landkreis Vechta, Niedersachsen, 49413, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "8548526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "910351631",
+    "boundingbox": [
+      "22.747982",
+      "22.757982",
+      "77.7119245",
+      "77.7219245"
+    ],
+    "lat": "22.752982",
+    "lon": "77.7169245",
+    "display_name": "Hoshangabad, SH15, Sethani Ghat, Hoshangabad, Hoshang\u0101b\u0101d, Hoshangabad, Madhya Pradesh, 461001, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "674962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "251411320",
+    "boundingbox": [
+      "59.5523251",
+      "59.5623251",
+      "13.0476727",
+      "13.0576727"
+    ],
+    "lat": "59.5573251",
+    "lon": "13.0526727",
+    "display_name": "H\u00f6gboda, S 687, H\u00f6gboda, Kil, V\u00e4rmlands l\u00e4n, Svealand, Sverige",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

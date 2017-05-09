@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160301835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "254046",
+    "boundingbox": [
+      "30.560374",
+      "30.843458",
+      "-88.2212529",
+      "-87.9566159"
+    ],
+    "lat": "30.6943566",
+    "lon": "-88.043054",
+    "display_name": "Mobile, Mobile County, Alabama, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.65345563984194,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160455209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1848791",
+    "boundingbox": [
+      "30.1384813",
+      "31.1734642",
+      "-88.4320129",
+      "-87.924204"
+    ],
+    "lat": "30.6488242",
+    "lon": "-88.1946419",
+    "display_name": "Mobile County, Alabama, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50872848713068,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "12218448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1156635622",
+    "boundingbox": [
+      "-2.7349074",
+      "-2.6949074",
+      "26.8413804",
+      "26.8813804"
+    ],
+    "lat": "-2.7149074",
+    "lon": "26.8613804",
+    "display_name": "Mobile, Pangi, Maniema, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47670325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3440692119",
+    "boundingbox": [
+      "12.1836881",
+      "12.2236881",
+      "13.6557319",
+      "13.6957319"
+    ],
+    "lat": "12.2036881",
+    "lon": "13.6757319",
+    "display_name": "Mobile, Mafa, Borno, Nigeria",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "44748655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3174331488",
+    "boundingbox": [
+      "33.0179792",
+      "33.0979792",
+      "-112.3104578",
+      "-112.2304578"
+    ],
+    "lat": "33.0579792",
+    "lon": "-112.2704578",
+    "display_name": "Mobile, Maricopa County, Arizona, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.27217279423731,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "15782853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1437685055",
+    "boundingbox": [
+      "47.2348779",
+      "47.2548779",
+      "-52.8500926",
+      "-52.8300926"
+    ],
+    "lat": "47.2448779",
+    "lon": "-52.8400926",
+    "display_name": "Mobile, Tors Cove, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.23061965013967,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "67231158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20902764",
+    "boundingbox": [
+      "29.422903",
+      "29.423455",
+      "-94.6933929",
+      "-94.6924319"
+    ],
+    "lat": "29.423179",
+    "lon": "-94.6929269",
+    "display_name": "Mobile, Gulfport Village, Bolivar Beach, Galveston County, Texas, 77650, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67933520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21952013",
+    "boundingbox": [
+      "38.896167",
+      "38.896175",
+      "-90.0320469",
+      "-90.0302139"
+    ],
+    "lat": "38.896171",
+    "lon": "-90.0310319",
+    "display_name": "Mobile, Bethalto, Madison County, Illinois, 60205, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66150148",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18555861",
+    "boundingbox": [
+      "37.623672",
+      "37.627655",
+      "-92.7892569",
+      "-92.7889249"
+    ],
+    "lat": "37.625816",
+    "lon": "-92.7892059",
+    "display_name": "Mobile, Laclede County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65650511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18528385",
+    "boundingbox": [
+      "38.26538",
+      "38.2657668",
+      "-90.6087553",
+      "-90.6087529"
+    ],
+    "lat": "38.2657668",
+    "lon": "-90.6087553",
+    "display_name": "Mobile, Morse Mill, Jefferson County, Missouri, 63050, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "117280828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226241507",
+    "boundingbox": [
+      "40.7344936",
+      "40.734682",
+      "-73.9887471",
+      "-73.9885055"
+    ],
+    "lat": "40.73458785",
+    "lon": "-73.9886262783181",
+    "display_name": "NYSC, East 15th Street, East Village, Manhattan, New York County, NYC, New York, 10003, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "20389763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2043309113",
+    "boundingbox": [
+      "40.7642761",
+      "40.7643761",
+      "-73.9155212",
+      "-73.9154212"
+    ],
+    "lat": "40.7643261",
+    "lon": "-73.9154712",
+    "display_name": "NYSC, 38-11, 30th Avenue, Astoria, Queens County, NYC, New York, 11103, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "54768823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4237467794",
+    "boundingbox": [
+      "47.3680595",
+      "47.3681595",
+      "8.5373417",
+      "8.5374417"
+    ],
+    "lat": "47.3681095",
+    "lon": "8.5373917",
+    "display_name": "Luxor fitness, Gl\u00e4rnischstrasse, Enge, Kreis 2, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8002, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.001
+  }
+]

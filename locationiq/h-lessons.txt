@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "76766564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47043674",
+    "boundingbox": [
+      "46.4110189",
+      "46.4111933",
+      "-0.1986694",
+      "-0.1982087"
+    ],
+    "lat": "46.4110189",
+    "lon": "-0.1982087",
+    "display_name": "Rue Porte des Lessons, Saint-Maixent-l'\u00c9cole, Niort, Deux-S\u00e8vres, Nouvelle-Aquitaine, 79400, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76772882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47043557",
+    "boundingbox": [
+      "46.4113039",
+      "46.4124091",
+      "-0.200536",
+      "-0.2001539"
+    ],
+    "lat": "46.4118095",
+    "lon": "-0.2004451",
+    "display_name": "Rue des Lessons, Saint-Maixent-l'\u00c9cole, Niort, Deux-S\u00e8vres, Nouvelle-Aquitaine, 79400, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "91162451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "119053380",
+    "boundingbox": [
+      "54.9608475",
+      "54.9611263",
+      "-4.4694871",
+      "-4.4687828"
+    ],
+    "lat": "54.9608475",
+    "lon": "-4.4687828",
+    "display_name": "Lessons Park, Newton Stewart, Minnigaff, Dumfries and Galloway, Scotland, DG8 6PL, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "51629783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3870409369",
+    "boundingbox": [
+      "34.1853843",
+      "34.1854843",
+      "-118.6054144",
+      "-118.6053144"
+    ],
+    "lat": "34.1854343",
+    "lon": "-118.6053644",
+    "display_name": "Bitter Root Pottery / Ceramic Lessons, Topanga Canyon Boulevard, Warner Center, LA, Los Angeles County, California, 91303, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "100894479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159761332",
+    "boundingbox": [
+      "52.3885399",
+      "52.3886594",
+      "9.7095906",
+      "9.7098557"
+    ],
+    "lat": "52.3886032",
+    "lon": "9.7097116807919",
+    "display_name": "CK Voice Lessons, Blumenhagenstra\u00dfe, Nordstadt, Nord, Hannover, Region Hannover, Niedersachsen, 30167, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25302019",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2441002789",
+    "boundingbox": [
+      "35.7832631",
+      "35.7833631",
+      "-78.8060242",
+      "-78.8059242"
+    ],
+    "lat": "35.7833131",
+    "lon": "-78.8059742",
+    "display_name": "AKG Guitar Lessons, 123, Springfork Drive, Cedar Pointe Condominiums, Cary, Wake County, North Carolina, 27513-4278, United States of America",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "40629657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2966235591",
+    "boundingbox": [
+      "44.4553155",
+      "44.4554155",
+      "-93.160367",
+      "-93.160267"
+    ],
+    "lat": "44.4553655",
+    "lon": "-93.160317",
+    "display_name": "Goat Man Gigs Music Lessons, 418, Division Street South, Northfield, Rice County, Minnesota, 55057, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "44430224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3145054820",
+    "boundingbox": [
+      "28.2552938",
+      "28.2553938",
+      "-81.589205",
+      "-81.589105"
+    ],
+    "lat": "28.2553438",
+    "lon": "-81.589155",
+    "display_name": "Taylor Robinson Music & Voice Lessons, 2103, Victoria Park Drive, Loughman, Polk County, Florida, 33896, United States of America",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "49553073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3678105266",
+    "boundingbox": [
+      "41.0514294",
+      "41.0515294",
+      "-83.6176327",
+      "-83.6175327"
+    ],
+    "lat": "41.0514794",
+    "lon": "-83.6175827",
+    "display_name": "Dave's Guitar Lessons, Queenswood Drive, Fox Run Professional & Office Center, Findlay, Hancock County, Ohio, 45840, United States of America",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "84137583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91528264",
+    "boundingbox": [
+      "45.396418",
+      "45.3964829",
+      "-122.7520372",
+      "-122.7519138"
+    ],
+    "lat": "45.3964495",
+    "lon": "-122.751974918103",
+    "display_name": "Young Art Lessons, 7407, Southwest Bridgeport Road, Tualatin, Washington County, Oregon, 97224, United States of America",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  }
+]

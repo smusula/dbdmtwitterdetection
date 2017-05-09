@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "6914784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703478655",
+    "boundingbox": [
+      "0.8427349",
+      "0.8627349",
+      "-77.7292325",
+      "-77.7092325"
+    ],
+    "lat": "0.8527349",
+    "lon": "-77.7192325",
+    "display_name": "El Pirlo, Cuaspud, Ipiales, Nari\u00f1o, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56829926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4429161922",
+    "boundingbox": [
+      "46.2595806",
+      "46.2795806",
+      "9.1526143",
+      "9.1726143"
+    ],
+    "lat": "46.2695806",
+    "lon": "9.1626143",
+    "display_name": "P\u00edrlo, Grono, Mo\u00ebsa, Graub\u00fcnden - Grigioni - Grischun, 6537, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

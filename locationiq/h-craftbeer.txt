@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "2608755530",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4465447033",
+    "boundingbox": [
+      "50.9371497",
+      "50.9372497",
+      "6.9588648",
+      "6.9589648"
+    ],
+    "lat": "50.9371997",
+    "lon": "6.9589148",
+    "display_name": "Craftbeer Corner Coeln, 32, Martinstra\u00dfe, Altstadt-Nord, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50667, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "54561035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4221700896",
+    "boundingbox": [
+      "49.4880741",
+      "49.4881741",
+      "8.4723136",
+      "8.4724136"
+    ],
+    "lat": "49.4881241",
+    "lon": "8.4723636",
+    "display_name": "upperglass \u2013 craftbeer shop & warehouse, 6, Schulstra\u00dfe, S6, Innenstadt/Jungbusch, Mannheim, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 68161, Deutschland",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "55383347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4316785248",
+    "boundingbox": [
+      "51.7607039",
+      "51.7608039",
+      "14.3332097",
+      "14.3333097"
+    ],
+    "lat": "51.7607539",
+    "lon": "14.3332597",
+    "display_name": "Craftbeer-Bar Labyrinth, Berliner Stra\u00dfe, Mitte, Cottbus - Ch\u00f3\u015bebuz, Cottbus, Brandenburg, 03046, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

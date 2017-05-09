@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "134029698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305491216",
+    "boundingbox": [
+      "-27.5335425",
+      "-27.5315394",
+      "151.9823912",
+      "151.9883689"
+    ],
+    "lat": "-27.5323012",
+    "lon": "151.9850801",
+    "display_name": "Highlife, Prince Henry Heights, Toowoomba, QLD, 4352, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "16967822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1635430109",
+    "boundingbox": [
+      "46.6820829",
+      "46.6821829",
+      "7.851567",
+      "7.851667"
+    ],
+    "lat": "46.6821329",
+    "lon": "7.851617",
+    "display_name": "HighLife, 2, Rugenparkstrasse, Wagneren, Interlaken, Verwaltungskreis Interlaken-Oberhasli, Verwaltungsregion Oberland, Bern - Berne, 3800, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50197600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3740250989",
+    "boundingbox": [
+      "53.3013489",
+      "53.3014489",
+      "-6.1776659",
+      "-6.1775659"
+    ],
+    "lat": "53.3013989",
+    "lon": "-6.1776159",
+    "display_name": "Highlife, Blackrock Market, Newtown Blackrock, Blackrock-Central ED, Blackrock, D\u00fan Laoghaire-Rathdown, County Dublin, Leinster, A94 X660, Ireland",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  }
+]

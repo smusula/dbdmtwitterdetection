@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "75529489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41965225",
+    "boundingbox": [
+      "38.8883363",
+      "38.8912204",
+      "-77.0150616",
+      "-77.0125497"
+    ],
+    "lat": "38.8897904",
+    "lon": "-77.0138238428898",
+    "display_name": "The Mall, Union Square, Center Leg Freeway, Penn Quarter, Washington, District of Columbia, 20202, United States of America",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.44283486774515
+  },
+  {
+    "place_id": "69423474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25278818",
+    "boundingbox": [
+      "37.7875221",
+      "37.7883445",
+      "-122.4082275",
+      "-122.4067805"
+    ],
+    "lat": "37.78794125",
+    "lon": "-122.407502671706",
+    "display_name": "Union Square, Post Street, Union Square, SF, California, 94115, United States of America",
+    "class": "leisure",
+    "type": "park",
+    "importance": 0.37871426287808
+  },
+  {
+    "place_id": "18060523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1735303358",
+    "boundingbox": [
+      "51.5023652",
+      "51.5024652",
+      "0.0042633",
+      "0.0043633"
+    ],
+    "lat": "51.5024152",
+    "lon": "0.0043133",
+    "display_name": "Union Square, Peninsula Square, Greenwich Peninsula, Royal Borough of Greenwich, London, Greater London, England, SE10 0DX, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.36235286804561,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "470501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158365807",
+    "boundingbox": [
+      "40.1625942",
+      "40.2025942",
+      "-76.483854",
+      "-76.443854"
+    ],
+    "lat": "40.1825942",
+    "lon": "-76.463854",
+    "display_name": "Union Square, Lancaster County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "481930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158813412",
+    "boundingbox": [
+      "40.6387139",
+      "40.6787139",
+      "-74.222367",
+      "-74.182367"
+    ],
+    "lat": "40.6587139",
+    "lon": "-74.202367",
+    "display_name": "Union Square, Union County, New Jersey, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "334272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150938677",
+    "boundingbox": [
+      "40.5596704",
+      "40.5996704",
+      "-111.8929897",
+      "-111.8529897"
+    ],
+    "lat": "40.5796704",
+    "lon": "-111.8729897",
+    "display_name": "Union Square, Salt Lake County, Utah, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48085369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3511012662",
+    "boundingbox": [
+      "44.5422744",
+      "44.5622744",
+      "-64.6488225",
+      "-64.6288225"
+    ],
+    "lat": "44.5522744",
+    "lon": "-64.6388225",
+    "display_name": "Union Square, Municipality of the District of Lunenburg, Lunenburg County, Nova Scotia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160599849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3115499",
+    "boundingbox": [
+      "47.6093921",
+      "47.6105029",
+      "-122.333316",
+      "-122.3322335"
+    ],
+    "lat": "47.6099459",
+    "lon": "-122.332658592491",
+    "display_name": "Union Square, 6th Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.24761685113657
+  },
+  {
+    "place_id": "69707621",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25590118",
+    "boundingbox": [
+      "22.3028556",
+      "22.3070506",
+      "114.1597255",
+      "114.1635541"
+    ],
+    "lat": "22.30543995",
+    "lon": "114.162088626325",
+    "display_name": "1, Union Square, \u897f\u4e5d\u9f8d West Kowloon, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.23050715237377
+  },
+  {
+    "place_id": "2648875002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4609282251",
+    "boundingbox": [
+      "37.7874638",
+      "37.7875638",
+      "-122.4072089",
+      "-122.4071089"
+    ],
+    "lat": "37.7875138",
+    "lon": "-122.4071589",
+    "display_name": "Union Square, SF, California, 94104, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  }
+]

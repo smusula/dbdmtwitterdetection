@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "2654587641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4745690464",
+    "boundingbox": [
+      "50.0601553",
+      "50.0602553",
+      "19.9380184",
+      "19.9381184"
+    ],
+    "lat": "50.0602053",
+    "lon": "19.9380684",
+    "display_name": "Lookbook, Rynek G\u0142\u00f3wny, Stare Miasto, \u015ar\u00f3dmie\u015bcie, Krak\u00f3w, ma\u0142opolskie, 31-008, Polska",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "53767604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4121538097",
+    "boundingbox": [
+      "19.457413",
+      "19.457513",
+      "-70.674952",
+      "-70.674852"
+    ],
+    "lat": "19.457463",
+    "lon": "-70.674902",
+    "display_name": "LookBook, Avenida Benito Juarez, Cerros De Gurabo, Hato Mayor, Santiago de los Caballeros, Santiago, 51051, Rep\u00fablica Dominicana",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

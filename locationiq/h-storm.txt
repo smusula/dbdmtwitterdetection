@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "104684066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173338504",
+    "boundingbox": [
+      "41.7058209",
+      "41.7059186",
+      "2.8273888",
+      "2.8279432"
+    ],
+    "lat": "41.7058735",
+    "lon": "2.827666",
+    "display_name": "Storm, Lloret de Mar, Selva, Girona, CAT, 17310, Espa\u00f1a",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "46776163",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3381410945",
+    "boundingbox": [
+      "49.562868",
+      "49.582868",
+      "9.4428415",
+      "9.4628415"
+    ],
+    "lat": "49.572868",
+    "lon": "9.4528415",
+    "display_name": "Storm, H\u00f6pfingen, Verwaltungsverband Hardheim-Walld\u00fcrn, Neckar-Odenwald-Kreis, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "73809059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "36882113",
+    "boundingbox": [
+      "52.3573898",
+      "52.3585629",
+      "7.4702391",
+      "7.47232"
+    ],
+    "lat": "52.357725",
+    "lon": "7.47160413813209",
+    "display_name": "STORM, Spelle, Samtgemeinde Spelle, Landkreis Emsland, Niedersachsen, 48480, Deutschland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "1248221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "297038638",
+    "boundingbox": [
+      "52.1580589",
+      "52.1581589",
+      "4.4889921",
+      "4.4890921"
+    ],
+    "lat": "52.1581089",
+    "lon": "4.4890421",
+    "display_name": "Storm, Pieterskerk-Choorsteeg, Binnenstad, Leiden, Zuid-Holland, Nederland, 2311NE, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2651715004",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4407424255",
+    "boundingbox": [
+      "50.0787701",
+      "50.0788701",
+      "14.4609745",
+      "14.4610745"
+    ],
+    "lat": "50.0788201",
+    "lon": "14.4610245",
+    "display_name": "Storm, Ji\u010d\u00ednsk\u00e1, \u017di\u017ekov, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 13000, \u010cesko",
+    "class": "shop",
+    "type": "watches",
+    "importance": 0.101
+  },
+  {
+    "place_id": "98521676",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149549443",
+    "boundingbox": [
+      "53.8283033",
+      "53.8283803",
+      "-1.4297644",
+      "-1.4295981"
+    ],
+    "lat": "53.8283415",
+    "lon": "-1.42968144974972",
+    "display_name": "Storm, Station Road, Barwick in Elmet and Scholes, Leeds, East Riding of Yorkshire, Yorkshire and the Humber, England, UK",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2655291121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4757259528",
+    "boundingbox": [
+      "-43.5328483",
+      "-43.5327483",
+      "172.6374402",
+      "172.6375402"
+    ],
+    "lat": "-43.5327983",
+    "lon": "172.6374902",
+    "display_name": "Storm, High Street Mall, Edgeware, Christchurch, Christchurch City, Canterbury, 8104, New Zealand/Aotearoa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "50558326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3754726077",
+    "boundingbox": [
+      "60.3933935",
+      "60.3934935",
+      "5.3103403",
+      "5.3104403"
+    ],
+    "lat": "60.3934435",
+    "lon": "5.3103903",
+    "display_name": "Storm, 1, Nordre N\u00f8stekaien, Verftet, Bergenhus, Bergen, Hordaland, 5005, Norge",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "42655262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3086954097",
+    "boundingbox": [
+      "50.4513768",
+      "50.4514768",
+      "3.949147",
+      "3.949247"
+    ],
+    "lat": "50.4514268",
+    "lon": "3.949197",
+    "display_name": "Storm, 5, Passage du Centre, Quartier Rachot, Mons, Hainaut, Wallonie, 7000, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "5059507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "567513964",
+    "boundingbox": [
+      "39.5324557",
+      "39.5325557",
+      "2.7248951",
+      "2.7249951"
+    ],
+    "lat": "39.5325057",
+    "lon": "2.7249451",
+    "display_name": "Storm, Avinguda de Bartomeu Riutort, Can Pastilla, Palma, Illes Balears, 07610, 124",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

@@ -1,0 +1,134 @@
+[
+  {
+    "place_id": "160390052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1231686",
+    "boundingbox": [
+      "28.292019",
+      "28.3325539",
+      "-81.5767279",
+      "-81.5212729"
+    ],
+    "lat": "28.312333",
+    "lon": "-81.5540852801497",
+    "display_name": "Celebration, Osceola County, Florida, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.46019232957918,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "39414798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2918063332",
+    "boundingbox": [
+      "32.8515215",
+      "32.8516215",
+      "-96.8333353",
+      "-96.8332353"
+    ],
+    "lat": "32.8515715",
+    "lon": "-96.8332853",
+    "display_name": "Celebration, 4503, West Lovers Lane, Dallas, Dallas County, Texas, 75209, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "46085345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3283274156",
+    "boundingbox": [
+      "36.8532366",
+      "36.8533366",
+      "-76.2868379",
+      "-76.2867379"
+    ],
+    "lat": "36.8532866",
+    "lon": "-76.2867879",
+    "display_name": "Celebration, 201, East Brambleton Avenue, Huntersville, Berkley, Norfolk, Virginia, 23510, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "45700655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3250334870",
+    "boundingbox": [
+      "15.479071",
+      "15.479171",
+      "73.8123304",
+      "73.8124304"
+    ],
+    "lat": "15.479121",
+    "lon": "73.8123804",
+    "display_name": "Celebration, St. Inez Road, Patto Centre, Panaji, North Goa, Goa, 403002, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "36110809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2838957822",
+    "boundingbox": [
+      "39.202793",
+      "39.202893",
+      "-85.8992935",
+      "-85.8991935"
+    ],
+    "lat": "39.202843",
+    "lon": "-85.8992435",
+    "display_name": "Celebration, Hope Avenue, Columbus, Bartholomew County, Indiana, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "4899531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "544023068",
+    "boundingbox": [
+      "33.7746416",
+      "33.7747416",
+      "-84.2957848",
+      "-84.2956848"
+    ],
+    "lat": "33.7746916",
+    "lon": "-84.2957348",
+    "display_name": "Celebration, Decatur MARTA Plaza, Winnona Park, Oakhurst, Decatur, DeKalb County, Georgia, 30030, United States of America",
+    "class": "amenity",
+    "type": "fountain",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111307243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "201711933",
+    "boundingbox": [
+      "44.7078454",
+      "44.7085088",
+      "-93.2873554",
+      "-93.2863174"
+    ],
+    "lat": "44.70813495",
+    "lon": "-93.2868655386347",
+    "display_name": "Celebration, Kenyon Avenue, Lakeville, Dakota County, Minnesota, 55044, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  }
+]

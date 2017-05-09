@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160284575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170100",
+    "boundingbox": [
+      "43.6454189",
+      "43.7607635",
+      "7.1819535",
+      "7.323912"
+    ],
+    "lat": "43.7009358",
+    "lon": "7.2683912",
+    "display_name": "Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, 06000;06100;06200;06300, France",
+    "class": "place",
+    "type": "city",
+    "importance": 0.77995610892433,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160434706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1670977",
+    "boundingbox": [
+      "43.6454189",
+      "44.3625081",
+      "6.6891402",
+      "7.7184776"
+    ],
+    "lat": "44.0040293",
+    "lon": "7.23521295426402",
+    "display_name": "Nice, Alpes-Maritimes, Provence-Alpes-C\u00f4te d'Azur, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.44434558847462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "72852395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33261390",
+    "boundingbox": [
+      "39.103901",
+      "39.13866",
+      "-122.8857129",
+      "-122.8126779"
+    ],
+    "lat": "39.121271",
+    "lon": "-122.835602036283",
+    "display_name": "Nice, Dawes Avenue, Nice, Lake County, California, 95464, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41966198108865,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "326499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141031202",
+    "boundingbox": [
+      "39.1032253",
+      "39.1432253",
+      "-122.8683269",
+      "-122.8283269"
+    ],
+    "lat": "39.1232253",
+    "lon": "-122.8483269",
+    "display_name": "Nice, Lake County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41966198108865,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27832637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2617375205",
+    "boundingbox": [
+      "-7.1468196",
+      "-7.1068196",
+      "-35.0074815",
+      "-34.9674815"
+    ],
+    "lat": "-7.1268196",
+    "lon": "-34.9874815",
+    "display_name": "Santa Rita, Nice, Microrregi\u00e3o de Jo\u00e3o Pessoa, Regi\u00e3o Metropolitana de Jo\u00e3o Pessoa, Mesorregi\u00e3o da Mata Paraibana, PB, Regi\u00e3o Nordeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52161999",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3924474133",
+    "boundingbox": [
+      "45.5457812",
+      "45.5657812",
+      "10.2911656",
+      "10.3111656"
+    ],
+    "lat": "45.5557812",
+    "lon": "10.3011656",
+    "display_name": "Nice, Botticino, BS, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6885609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "712337071",
+    "boundingbox": [
+      "40.7960729",
+      "40.8360729",
+      "20.5493663",
+      "20.5893663"
+    ],
+    "lat": "40.8160729",
+    "lon": "20.5693663",
+    "display_name": "Ni\u00e7\u00eb, Pogradec, Qarku i Kor\u00e7\u00ebs, Shqip\u00ebria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41679244",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037825931",
+    "boundingbox": [
+      "35.2313318",
+      "35.2713318",
+      "46.5829985",
+      "46.6229985"
+    ],
+    "lat": "35.2513318",
+    "lon": "46.6029985",
+    "display_name": "\u0646\u062c\u06cc\u200e\u200e, \u0628\u062e\u0634 \u06a9\u0644\u0627\u062a\u0631\u0632\u0627\u0646, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0633\u0646\u0646\u062f\u062c, \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u062f\u0633\u062a\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "62490198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "13295113",
+    "boundingbox": [
+      "33.5107608",
+      "33.5115485",
+      "-117.7350322",
+      "-117.7343498"
+    ],
+    "lat": "33.5110619",
+    "lon": "-117.7346588",
+    "display_name": "Nice, Laguna Niguel, Orange County, California, 92677, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142707846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "351179945",
+    "boundingbox": [
+      "14.8802166",
+      "14.8804846",
+      "120.7991196",
+      "120.7994"
+    ],
+    "lat": "14.8802728",
+    "lon": "120.7993354",
+    "display_name": "Nice, Provence - Camella Homes, Malolos, Bulacan, Central Luzon, 3000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

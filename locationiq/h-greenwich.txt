@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "18317686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1767164377",
+    "boundingbox": [
+      "52.0167323",
+      "52.0567323",
+      "1.148934",
+      "1.188934"
+    ],
+    "lat": "52.0367323",
+    "lon": "1.168934",
+    "display_name": "Greenwich, Ipswich, Suffolk, East of England, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.67898922627441,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "143245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27365302",
+    "boundingbox": [
+      "51.4420845",
+      "51.5220845",
+      "-0.0445416",
+      "0.0354584"
+    ],
+    "lat": "51.4820845",
+    "lon": "-0.0045416",
+    "display_name": "Greenwich, London, Greater London, England, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.67898922627441,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160753535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4119957",
+    "boundingbox": [
+      "40.9492617",
+      "41.143992",
+      "-73.7277749",
+      "-73.5474831"
+    ],
+    "lat": "41.0264862",
+    "lon": "-73.6284597",
+    "display_name": "Greenwich, Fairfield County, Connecticut, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.57703251244206,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160287357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175892",
+    "boundingbox": [
+      "43.074771",
+      "43.098167",
+      "-73.5081729",
+      "-73.4853699"
+    ],
+    "lat": "43.0906318",
+    "lon": "-73.498725",
+    "display_name": "Greenwich, Town of Greenwich, Washington County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46927317694406,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160291121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "182930",
+    "boundingbox": [
+      "41.018747",
+      "41.043694",
+      "-82.5334169",
+      "-82.5088969"
+    ],
+    "lat": "41.0300548",
+    "lon": "-82.5157263",
+    "display_name": "Greenwich, Huron County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "446400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157610568",
+    "boundingbox": [
+      "38.7294437",
+      "38.7694437",
+      "-77.6689691",
+      "-77.6289691"
+    ],
+    "lat": "38.7494437",
+    "lon": "-77.6489691",
+    "display_name": "Greenwich, Prince William County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "365798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151559470",
+    "boundingbox": [
+      "37.7627911",
+      "37.8027911",
+      "-97.2236524",
+      "-97.1836524"
+    ],
+    "lat": "37.7827911",
+    "lon": "-97.2036524",
+    "display_name": "Greenwich, Sedgwick County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37703481053105,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "458226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157629593",
+    "boundingbox": [
+      "40.6656222",
+      "40.7056222",
+      "-78.8386396",
+      "-78.7986396"
+    ],
+    "lat": "40.6856222",
+    "lon": "-78.8186396",
+    "display_name": "Greenwich, Cambria County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "403817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153608389",
+    "boundingbox": [
+      "41.0980498",
+      "41.1380498",
+      "-87.9475851",
+      "-87.9075851"
+    ],
+    "lat": "41.1180498",
+    "lon": "-87.9275851",
+    "display_name": "Greenwich, Kankakee County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "463536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158455212",
+    "boundingbox": [
+      "39.3698359",
+      "39.4098359",
+      "-75.3585266",
+      "-75.3185266"
+    ],
+    "lat": "39.3898359",
+    "lon": "-75.3385266",
+    "display_name": "Greenwich, Cumberland County, New Jersey, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "55211339",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4267517889",
+    "boundingbox": [
+      "29.0981927",
+      "29.0982927",
+      "-81.0437767",
+      "-81.0436767"
+    ],
+    "lat": "29.0982427",
+    "lon": "-81.0437267",
+    "display_name": "Girls SummerCamp, Taylor Road, Port Orange, Volusia County, Florida, 32128, United States of America",
+    "class": "tourism",
+    "type": "camp_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40756011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2991954113",
+    "boundingbox": [
+      "52.4241601",
+      "52.4242601",
+      "6.2212366",
+      "6.2213366"
+    ],
+    "lat": "52.4242101",
+    "lon": "6.2212866",
+    "display_name": "Summercamp Heino, Schaarshoekweg, Wijhe, Olst-Wijhe, Overijssel, Nederland, 8141SK, Nederland",
+    "class": "tourism",
+    "type": "chalet",
+    "importance": 0.101
+  },
+  {
+    "place_id": "127496413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "271127852",
+    "boundingbox": [
+      "41.5029855",
+      "41.5031595",
+      "-73.3761103",
+      "-73.3756401"
+    ],
+    "lat": "41.50308225",
+    "lon": "-73.3758756583765",
+    "display_name": "Camp Silverman Summercamp, 100, Benson Road, Bridgewater, Litchfield County, Connecticut, 06752, United States of America",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4431990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "470938633",
+    "boundingbox": [
+      "67.1288919",
+      "67.1289919",
+      "20.6769713",
+      "20.6770713"
+    ],
+    "lat": "67.1289419",
+    "lon": "20.6770213",
+    "display_name": "Sommarviste, Vassaragatan, Fj\u00e4lln\u00e4s, Malmsta, G\u00e4llivare, Norrbottens l\u00e4n, Norrland, 98234, Sverige",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "2610492389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2294424",
+    "boundingbox": [
+      "32.826722",
+      "32.873932",
+      "-116.9468749",
+      "-116.8729019"
+    ],
+    "lat": "32.85041",
+    "lon": "-116.896001239709",
+    "display_name": "Lakeside, Audubon Road, Riverview, Lakeview, San Diego County, California, 92040, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45256001822201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "346102",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150973615",
+    "boundingbox": [
+      "32.8172719",
+      "32.8972719",
+      "-116.9622488",
+      "-116.8822488"
+    ],
+    "lat": "32.8572719",
+    "lon": "-116.9222488",
+    "display_name": "Lakeside, San Diego County, California, United States of America",
+    "class": "place",
+    "type": "town",
+    "importance": 0.45256001822201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "11555405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1102389836",
+    "boundingbox": [
+      "37.8037835",
+      "37.8038835",
+      "-122.2631306",
+      "-122.2630306"
+    ],
+    "lat": "37.8038335",
+    "lon": "-122.2630806",
+    "display_name": "Lakeside, Oakland, Alameda County, California, 94612, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.41908579539046
+  },
+  {
+    "place_id": "234114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "50983599",
+    "boundingbox": [
+      "54.2732637",
+      "54.2832637",
+      "-2.960624",
+      "-2.950624"
+    ],
+    "lat": "54.2782637",
+    "lon": "-2.955624",
+    "display_name": "Lakeside, Woodland Vale, South Lakeland, Cumbria, North West England, England, LA12 8AS, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41552078659246,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "348306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151325005",
+    "boundingbox": [
+      "39.7571527",
+      "39.7971527",
+      "-105.074911",
+      "-105.034911"
+    ],
+    "lat": "39.7771527",
+    "lon": "-105.054911",
+    "display_name": "Lakeside, Jefferson County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "480860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158810464",
+    "boundingbox": [
+      "40.1314987",
+      "40.1714987",
+      "-74.8362742",
+      "-74.7962742"
+    ],
+    "lat": "40.1514987",
+    "lon": "-74.8162742",
+    "display_name": "Lakeside, Bucks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "460906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158250005",
+    "boundingbox": [
+      "41.8373556",
+      "41.8773556",
+      "-75.6782168",
+      "-75.6382168"
+    ],
+    "lat": "41.8573556",
+    "lon": "-75.6582168",
+    "display_name": "Lakeside, Susquehanna County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "493045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158804113",
+    "boundingbox": [
+      "41.6467694",
+      "41.6867694",
+      "-71.1278213",
+      "-71.0878213"
+    ],
+    "lat": "41.6667694",
+    "lon": "-71.1078213",
+    "display_name": "Lakeside, Bristol County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "474361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158567939",
+    "boundingbox": [
+      "43.085067",
+      "43.125067",
+      "-76.2727057",
+      "-76.2327057"
+    ],
+    "lat": "43.105067",
+    "lon": "-76.2527057",
+    "display_name": "Lakeside, Town of Geddes, Onondaga County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "458828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "157559007",
+    "boundingbox": [
+      "43.2356188",
+      "43.2756188",
+      "-77.358323",
+      "-77.318323"
+    ],
+    "lat": "43.2556188",
+    "lon": "-77.338323",
+    "display_name": "Lakeside, Ontario Town, Wayne County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

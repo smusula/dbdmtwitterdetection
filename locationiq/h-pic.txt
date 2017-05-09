@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160287511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "178392",
+    "boundingbox": [
+      "39.468062",
+      "39.8134437",
+      "-83.2668284",
+      "-82.7315337"
+    ],
+    "lat": "39.6725327",
+    "lon": "-83.0373283",
+    "display_name": "Pickaway County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50624782713774,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160624790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3061683",
+    "boundingbox": [
+      "45.8617801",
+      "45.8952137",
+      "1.7927938",
+      "1.8587927"
+    ],
+    "lat": "45.8821295",
+    "lon": "1.8261444",
+    "display_name": "Le Pic, Aubusson, Creuse, Nouvelle-Aquitaine, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.45
+  },
+  {
+    "place_id": "17388744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1682153467",
+    "boundingbox": [
+      "42.9027023",
+      "42.9028023",
+      "-0.4620842",
+      "-0.4619842"
+    ],
+    "lat": "42.9027523",
+    "lon": "-0.4620342",
+    "display_name": "Pic d'Er, Laruns, Oloron-Sainte-Marie, Pyr\u00e9n\u00e9es-Atlantiques, Nouvelle-Aquitaine, 64440, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "21848630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2167649130",
+    "boundingbox": [
+      "44.7151817",
+      "44.7152817",
+      "6.6983965",
+      "6.6984965"
+    ],
+    "lat": "44.7152317",
+    "lon": "6.6984465",
+    "display_name": "Le Pic, Eygliers, Brian\u00e7on, Hautes-Alpes, Provence-Alpes-C\u00f4te d'Azur, 05600, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "15336679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1399444380",
+    "boundingbox": [
+      "-22.1233016",
+      "-22.1232016",
+      "166.4924221",
+      "166.4925221"
+    ],
+    "lat": "-22.1232516",
+    "lon": "166.4924721",
+    "display_name": "Le Pic, Dumb\u00e9a, Province Sud, Nouvelle-Cal\u00e9donie, 98830;98835;98837;98839, France",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2654417894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2197631541",
+    "boundingbox": [
+      "10.163009",
+      "10.163109",
+      "1.1403989",
+      "1.1404989"
+    ],
+    "lat": "10.163059",
+    "lon": "1.1404489",
+    "display_name": "Le pic, Boukomb\u00e9, Atakora, B\u00e9nin",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "13002084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1240035011",
+    "boundingbox": [
+      "45.6693004",
+      "45.7093004",
+      "3.4006039",
+      "3.4406039"
+    ],
+    "lat": "45.6893004",
+    "lon": "3.4206039",
+    "display_name": "Le Pic, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2645641625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1640918877",
+    "boundingbox": [
+      "44.7191493",
+      "44.7591493",
+      "0.6901827",
+      "0.7301827"
+    ],
+    "lat": "44.7391493",
+    "lon": "0.7101827",
+    "display_name": "Le Pic, Bergerac, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654186891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4019940502",
+    "boundingbox": [
+      "44.9819344",
+      "45.0219344",
+      "0.6734654",
+      "0.7134654"
+    ],
+    "lat": "45.0019344",
+    "lon": "0.6934654",
+    "display_name": "Le Pic, P\u00e9rigueux, Dordogne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23438618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2305191879",
+    "boundingbox": [
+      "43.673831",
+      "43.713831",
+      "0.4637407",
+      "0.5037407"
+    ],
+    "lat": "43.693831",
+    "lon": "0.4837407",
+    "display_name": "Pic, Auch, Gers, Occitanie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160405566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1396171",
+    "boundingbox": [
+      "48.3730988",
+      "48.4119969",
+      "3.3342032",
+      "3.3581489"
+    ],
+    "lat": "48.3955294",
+    "lon": "3.3427924",
+    "display_name": "Baby, Provins, Seine-et-Marne, \u00cele-de-France, 77480, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52984133762996,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "28196436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2613796389",
+    "boundingbox": [
+      "49.063283",
+      "49.063383",
+      "18.60245",
+      "18.60255"
+    ],
+    "lat": "49.063333",
+    "lon": "18.6025",
+    "display_name": "Baby, okres Pova\u017esk\u00e1 Bystrica, Tren\u010diansky kraj, Z\u00e1padn\u00e9 Slovensko, Slovensko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "5968221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "605030485",
+    "boundingbox": [
+      "45.3939209",
+      "45.4339209",
+      "1.491278",
+      "1.531278"
+    ],
+    "lat": "45.4139209",
+    "lon": "1.511278",
+    "display_name": "Baby, Tulle, Corr\u00e8ze, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19259522",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1877166013",
+    "boundingbox": [
+      "52.7964681",
+      "52.8364681",
+      "20.5807658",
+      "20.6207658"
+    ],
+    "lat": "52.8164681",
+    "lon": "20.6007658",
+    "display_name": "Baby, gmina Ciechan\u00f3w, powiat ciechanowski, mazowieckie, 06-400, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26269411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2490096609",
+    "boundingbox": [
+      "51.6655734",
+      "51.7055734",
+      "17.8621445",
+      "17.9021445"
+    ],
+    "lat": "51.6855734",
+    "lon": "17.8821445",
+    "display_name": "Baby, gmina Ostr\u00f3w Wielkopolski, powiat ostrowski, wielkopolskie, 63-400, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41155779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009688136",
+    "boundingbox": [
+      "51.5825888",
+      "51.6225888",
+      "17.6513864",
+      "17.6913864"
+    ],
+    "lat": "51.6025888",
+    "lon": "17.6713864",
+    "display_name": "Baby, gmina Odolan\u00f3w, powiat ostrowski, wielkopolskie, 63-430, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28873382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2690283359",
+    "boundingbox": [
+      "53.8132909",
+      "53.8532909",
+      "18.2752934",
+      "18.3152934"
+    ],
+    "lat": "53.8332909",
+    "lon": "18.2952934",
+    "display_name": "Baby, gmina Lubichowo, powiat starogardzki, pomorskie, 83-240, Polska",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41740512",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037769046",
+    "boundingbox": [
+      "6.5480281",
+      "6.5880281",
+      "-10.7257613",
+      "-10.6857613"
+    ],
+    "lat": "6.5680281",
+    "lon": "-10.7057613",
+    "display_name": "Baby, St. Paul River, Montserrado County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42662949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3105235943",
+    "boundingbox": [
+      "6.36488",
+      "6.40488",
+      "-10.7036499",
+      "-10.6636499"
+    ],
+    "lat": "6.38488",
+    "lon": "-10.6836499",
+    "display_name": "Baby, Commonwealth, Montserrado County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23763599",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2337933565",
+    "boundingbox": [
+      "45.187239",
+      "45.187339",
+      "0.5300165",
+      "0.5301165"
+    ],
+    "lat": "45.187289",
+    "lon": "0.5300665",
+    "display_name": "Baby, L\u00e9guillac-de-l'Auche, P\u00e9rigueux, Dordogne, Nouvelle-Aquitaine, 24110, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  }
+]

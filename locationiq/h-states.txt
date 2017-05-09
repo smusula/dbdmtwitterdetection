@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "160280124",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "148838",
+    "boundingbox": [
+      "-14.7608357",
+      "71.6048217",
+      "-179.9999999",
+      "180"
+    ],
+    "lat": "39.7837304",
+    "lon": "-100.4458824",
+    "display_name": "United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 1.044692348398,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160306402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "307829",
+    "boundingbox": [
+      "17.9099291",
+      "20.2181368",
+      "-74.6575356",
+      "-71.6221296"
+    ],
+    "lat": "19.1399952",
+    "lon": "-72.3570971",
+    "display_name": "Ayiti",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.70277779683166,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

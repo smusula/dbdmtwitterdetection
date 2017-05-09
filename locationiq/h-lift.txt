@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "46027854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3278244476",
+    "boundingbox": [
+      "31.0921395",
+      "31.1121395",
+      "77.1664577",
+      "77.1864577"
+    ],
+    "lat": "31.1021395",
+    "lon": "77.1764577",
+    "display_name": "The Lift, Shimla, Solan, Himachal Pradesh, 171001, India",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "136658448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "317528767",
+    "boundingbox": [
+      "51.9027282",
+      "51.9027633",
+      "4.4681623",
+      "4.4682223"
+    ],
+    "lat": "51.90274575",
+    "lon": "4.46819227558309",
+    "display_name": "Lift, Nieuwe Werk, Rotterdam, MRDH, Zuid-Holland, Nederland, 3016GN, Nederland",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136575825",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "317528886",
+    "boundingbox": [
+      "51.8973184",
+      "51.8973498",
+      "4.4682387",
+      "4.4682868"
+    ],
+    "lat": "51.8973353",
+    "lon": "4.46826286505853",
+    "display_name": "Lift, Rotterdam, MRDH, Zuid-Holland, Nederland, 3087XD, Nederland",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.2
+  },
+  {
+    "place_id": "97619257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145420778",
+    "boundingbox": [
+      "51.8292929",
+      "51.8293496",
+      "4.7428543",
+      "4.7429438"
+    ],
+    "lat": "51.82932125",
+    "lon": "4.74289921974282",
+    "display_name": "Lift, Sliedrecht, Zuid-Holland, Nederland, 3363LP, Nederland",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.2
+  },
+  {
+    "place_id": "140974839",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "338075335",
+    "boundingbox": [
+      "53.5433826",
+      "53.5434259",
+      "-2.6334763",
+      "-2.6333978"
+    ],
+    "lat": "53.54340425",
+    "lon": "-2.63343705195957",
+    "display_name": "Lift, Wallgate, Wigan, Greater Manchester, North West England, England, WN1 1BE, UK",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.2
+  },
+  {
+    "place_id": "134727063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "308771168",
+    "boundingbox": [
+      "22.3129664",
+      "22.3130123",
+      "114.0439124",
+      "114.0439554"
+    ],
+    "lat": "22.31298935",
+    "lon": "114.0439339",
+    "display_name": "Lift, \u7af9\u7bd9\u7063 Penny's Bay, \u82b1\u576a Fa Peng, \u65b0\u754c New Territories, HK, NT, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72712991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32972833",
+    "boundingbox": [
+      "47.9928643",
+      "47.9929076",
+      "7.8552384",
+      "7.8552893"
+    ],
+    "lat": "47.9928643",
+    "lon": "7.8552384",
+    "display_name": "lift, Altstadt-Mitte, Altstadt, Freiburg, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 79098, Deutschland",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.185
+  },
+  {
+    "place_id": "110730542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "199073896",
+    "boundingbox": [
+      "47.4953772",
+      "47.4957398",
+      "19.0384395",
+      "19.0393868"
+    ],
+    "lat": "47.4953772",
+    "lon": "19.0387853",
+    "display_name": "Lift, V\u00e1r, 1. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1013, Magyarorsz\u00e1g",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "69543922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25589777",
+    "boundingbox": [
+      "52.9641657",
+      "52.9642369",
+      "-3.0861279",
+      "-3.0860834"
+    ],
+    "lat": "52.9641657",
+    "lon": "-3.0861279",
+    "display_name": "Lift, Froncysyllte, Wrexham, Wales, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "50556334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3754494795",
+    "boundingbox": [
+      "48.1866297",
+      "48.1867297",
+      "16.3766872",
+      "16.3767872"
+    ],
+    "lat": "48.1866797",
+    "lon": "16.3767372",
+    "display_name": "Lift, Wiedner G\u00fcrtel, KG Wieden, Wieden, Wien, 1040, \u00d6sterreich",
+    "class": "highway",
+    "type": "elevator",
+    "importance": 0.101
+  }
+]

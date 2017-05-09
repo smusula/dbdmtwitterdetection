@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "87053112",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "104385903",
+    "boundingbox": [
+      "-35.073502",
+      "-35.0715603",
+      "-71.1616038",
+      "-71.1597546"
+    ],
+    "lat": "-35.0725194",
+    "lon": "-71.1606435",
+    "display_name": "Delicious, Curic\u00f3, Provincia de Curic\u00f3, VII Regi\u00f3n del Maule, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "46544785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3359348285",
+    "boundingbox": [
+      "40.4276659",
+      "40.4277659",
+      "-3.7102554",
+      "-3.7101554"
+    ],
+    "lat": "40.4277159",
+    "lon": "-3.7102054",
+    "display_name": "Delicious, 30, Calle del Conde Duque, Barrio Universidad, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28015, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28827504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2683693092",
+    "boundingbox": [
+      "53.484581",
+      "53.484681",
+      "-2.2400669",
+      "-2.2399669"
+    ],
+    "lat": "53.484631",
+    "lon": "-2.2400169",
+    "display_name": "Delicious, Shudehill, Smithfield Gardens, Central Manchester, Manchester, Greater Manchester, North West England, England, M4 2AF, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "24596479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2391228960",
+    "boundingbox": [
+      "55.9650786",
+      "55.9651786",
+      "-3.2696995",
+      "-3.2695995"
+    ],
+    "lat": "55.9651286",
+    "lon": "-3.2696495",
+    "display_name": "Delicious, Corbiehill Road, Davidson's Mains, Edinburgh, City of Edinburgh, Scotland, EH4 5AB, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "26098104",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2498667454",
+    "boundingbox": [
+      "52.5128921",
+      "52.5129921",
+      "6.0916168",
+      "6.0917168"
+    ],
+    "lat": "52.5129421",
+    "lon": "6.0916668",
+    "display_name": "Delicious, 22, Melkmarkt, Zwolle, Overijssel, Nederland, 8011MC, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "19348662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1913725439",
+    "boundingbox": [
+      "14.5976728",
+      "14.5977728",
+      "120.9841534",
+      "120.9842534"
+    ],
+    "lat": "14.5977228",
+    "lon": "120.9842034",
+    "display_name": "Delicious, Quezon Boulevard, Residences de Manila, Quiapo, Manila, Third District, Manila, Metro Manila, 1002, Philippines",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "6970319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "724213276",
+    "boundingbox": [
+      "43.6110199",
+      "43.6111199",
+      "3.8745282",
+      "3.8746282"
+    ],
+    "lat": "43.6110699",
+    "lon": "3.8745782",
+    "display_name": "Delicious, Rue du Pistolet, Centre Historique, Centre, Montpellier, H\u00e9rault, Occitanie, 34000;34070;34080;34090, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "19427566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1923781313",
+    "boundingbox": [
+      "51.4677841",
+      "51.4678841",
+      "-0.9728998",
+      "-0.9727998"
+    ],
+    "lat": "51.4678341",
+    "lon": "-0.9728498",
+    "display_name": "Delicious, Prospect Street, Caversham, Reading, South East, England, RG4 8JB, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "14767749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1332198137",
+    "boundingbox": [
+      "52.5868522",
+      "52.5869522",
+      "-2.125002",
+      "-2.124902"
+    ],
+    "lat": "52.5869022",
+    "lon": "-2.124952",
+    "display_name": "Delicious, Lichfield Street, Heath Town, Wolverhampton, West Midlands, England, WV1 1EQ, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48472271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3582592793",
+    "boundingbox": [
+      "44.8019493",
+      "44.8020493",
+      "-0.6466217",
+      "-0.6465217"
+    ],
+    "lat": "44.8019993",
+    "lon": "-0.6465717",
+    "display_name": "Delicious, Place du Monteil, L'Alouette, Pessac, Bordeaux, Gironde, Nouvelle-Aquitaine, 33600, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

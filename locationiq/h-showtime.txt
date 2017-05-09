@@ -1,0 +1,130 @@
+[
+  {
+    "place_id": "48879891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3617859650",
+    "boundingbox": [
+      "48.8403219",
+      "48.8404219",
+      "2.3993346",
+      "2.3994346"
+    ],
+    "lat": "48.8403719",
+    "lon": "2.3993846",
+    "display_name": "Showtime, Rue de Picpus, 12e Arrondissement (urbain), Picpus, 12e, Paris, \u00cele-de-France, 75012, France",
+    "class": "shop",
+    "type": "motorcycle",
+    "importance": 0.101
+  },
+  {
+    "place_id": "557509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "226059617",
+    "boundingbox": [
+      "63.4216328",
+      "63.4217328",
+      "10.4469255",
+      "10.4470255"
+    ],
+    "lat": "63.4216828",
+    "lon": "10.4469755",
+    "display_name": "Showtime, Magnus Berrf\u00f8tts veg, Valentinlyst, Moholt, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7046, Norge",
+    "class": "shop",
+    "type": "kiosk",
+    "importance": 0.101
+  },
+  {
+    "place_id": "551679",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "206140887",
+    "boundingbox": [
+      "60.4505938",
+      "60.4506938",
+      "22.2560293",
+      "22.2561293"
+    ],
+    "lat": "60.4506438",
+    "lon": "22.2560793",
+    "display_name": "Showtime, K\u00e4sity\u00f6l\u00e4iskatu, VII, Turku, Turun seutukunta, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etel\u00e4-Suomi, 20100, Suomi",
+    "class": "amenity",
+    "type": "stripclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7547405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "808272105",
+    "boundingbox": [
+      "52.9792831",
+      "52.9793831",
+      "-2.1019469",
+      "-2.1018469"
+    ],
+    "lat": "52.9793331",
+    "lon": "-2.1018969",
+    "display_name": "Showtime, Weston Road, Meir, Meir Hay, Stoke-on-Trent, West Midlands, England, UK",
+    "class": "shop",
+    "type": "audio_video",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86243731",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101001413",
+    "boundingbox": [
+      "52.6679096",
+      "52.6684342",
+      "-8.660381",
+      "-8.6593092"
+    ],
+    "lat": "52.66817175",
+    "lon": "-8.65984542062507",
+    "display_name": "Showtime, Ashbrook Gardens, Coolraine, Castle D, Metropolitan District of Limerick, County Limerick, Munster, Ireland",
+    "class": "leisure",
+    "type": "cinema",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4185630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "443714091",
+    "boundingbox": [
+      "53.5211289",
+      "53.5212289",
+      "-6.413817",
+      "-6.413717"
+    ],
+    "lat": "53.5211789",
+    "lon": "-6.413767",
+    "display_name": "Showtime, R135, Rath, Kilbrew, Ashbourne, County Meath, Leinster, Ireland",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "22786446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2262714733",
+    "boundingbox": [
+      "18.679781",
+      "18.679881",
+      "-68.4156315",
+      "-68.4155315"
+    ],
+    "lat": "18.679831",
+    "lon": "-68.4155815",
+    "display_name": "Showtime, Plaza, B\u00e1varo, La Altagracia, 23301, Rep\u00fablica Dominicana",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

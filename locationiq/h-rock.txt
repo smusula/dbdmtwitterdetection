@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160442697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1739849",
+    "boundingbox": [
+      "43.5000913",
+      "43.8494878",
+      "-96.4534079",
+      "-96.0525648"
+    ],
+    "lat": "43.6733632",
+    "lon": "-96.2574327",
+    "display_name": "Rock County, Minnesota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50116387967007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160450977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1799455",
+    "boundingbox": [
+      "42.4919436",
+      "42.8463115",
+      "-89.3690566",
+      "-88.774342"
+    ],
+    "lat": "42.6654418",
+    "lon": "-89.0817719",
+    "display_name": "Rock County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49802498576698,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160425147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1425454",
+    "boundingbox": [
+      "42.086445",
+      "42.8069405",
+      "-99.6784577",
+      "-99.2330319"
+    ],
+    "lat": "42.4152603",
+    "lon": "-99.4560709",
+    "display_name": "Rock County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46385461349205,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "16719510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1595259983",
+    "boundingbox": [
+      "50.5246768",
+      "50.5646768",
+      "-4.9318107",
+      "-4.8918107"
+    ],
+    "lat": "50.5446768",
+    "lon": "-4.9118107",
+    "display_name": "Rock, Cornwall, South West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.44434558847462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "801080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "267762803",
+    "boundingbox": [
+      "54.573333",
+      "54.593333",
+      "-6.8433329",
+      "-6.8233329"
+    ],
+    "lat": "54.583333",
+    "lon": "-6.8333329",
+    "display_name": "The Rock, County Tyrone, Northern Ireland, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.42926765694173,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81312901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74441741",
+    "boundingbox": [
+      "53.5961778",
+      "53.5976217",
+      "-6.0051808",
+      "-6.0033513"
+    ],
+    "lat": "53.59676115",
+    "lon": "-6.00434798355",
+    "display_name": "The Rock, Dublin, Ireland",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "53821190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4089020608",
+    "boundingbox": [
+      "47.9611554",
+      "48.6011554",
+      "-74.5840948",
+      "-73.9440948"
+    ],
+    "lat": "48.2811554",
+    "lon": "-74.2640948",
+    "display_name": "Rock, Qu\u00e9bec, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "132993628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "301010754",
+    "boundingbox": [
+      "45.0252554",
+      "45.15829",
+      "-122.7378763",
+      "-122.5282771"
+    ],
+    "lat": "45.1161682",
+    "lon": "-122.6421536",
+    "display_name": "Rock, Clackamas County, Oregon, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "24016427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2355050260",
+    "boundingbox": [
+      "47.849482",
+      "47.849582",
+      "106.9718698",
+      "106.9719698"
+    ],
+    "lat": "47.849532",
+    "lon": "106.9719198",
+    "display_name": "rock, \u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440, \u0423\u043b\u0430\u0430\u043d\u0431\u0430\u0430\u0442\u0430\u0440 - \u0422\u04e9\u0432 \u0430\u0439\u043c\u0433\u0438\u0439\u043d \u0445\u0438\u043b, \u041c\u043e\u043d\u0433\u043e\u043b \u0443\u043b\u0441",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.41,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "52685395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3961765654",
+    "boundingbox": [
+      "52.5610533",
+      "52.5611533",
+      "-2.9581528",
+      "-2.9580528"
+    ],
+    "lat": "52.5611033",
+    "lon": "-2.9581028",
+    "display_name": "The Rock, Shropshire, West Midlands, England, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  }
+]

@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160266705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "121459",
+    "boundingbox": [
+      "45.166419",
+      "45.189711",
+      "-113.9247119",
+      "-113.8757779"
+    ],
+    "lat": "45.1757547",
+    "lon": "-113.8959007",
+    "display_name": "Salmon, Lemhi County, Idaho, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.41490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "55103828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4277439774",
+    "boundingbox": [
+      "48.1817743",
+      "48.2217743",
+      "-2.0065481",
+      "-1.9665481"
+    ],
+    "lat": "48.2017743",
+    "lon": "-1.9865481",
+    "display_name": "Salmon, Rennes, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "351108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151486518",
+    "boundingbox": [
+      "31.5529542",
+      "31.5929542",
+      "-95.5182842",
+      "-95.4782842"
+    ],
+    "lat": "31.5729542",
+    "lon": "-95.4982842",
+    "display_name": "Salmon, Anderson County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1577092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336167783",
+    "boundingbox": [
+      "30.0541667",
+      "30.0941667",
+      "-110.2533332",
+      "-110.2133332"
+    ],
+    "lat": "30.0741667",
+    "lon": "-110.2333332",
+    "display_name": "El Salmon, Ban\u00e1michi, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48228523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3539518391",
+    "boundingbox": [
+      "45.2935387",
+      "45.2936387",
+      "0.0275613",
+      "0.0276613"
+    ],
+    "lat": "45.2935887",
+    "lon": "0.0276113",
+    "display_name": "Le Salmon, Curac, Angoul\u00eame, Charente, Nouvelle-Aquitaine, 16210, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "4548845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "500354368",
+    "boundingbox": [
+      "16.3134468",
+      "16.3334468",
+      "-61.3216604",
+      "-61.3016604"
+    ],
+    "lat": "16.3234468",
+    "lon": "-61.3116604",
+    "display_name": "Salmon, Le Moule, Pointe-\u00e0-Pitre, Guadeloupe, 97160, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160525914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2268040",
+    "boundingbox": [
+      "53.5637626",
+      "53.5757814",
+      "-6.1899929",
+      "-6.1682978"
+    ],
+    "lat": "53.5702677",
+    "lon": "-6.17714742807234",
+    "display_name": "Salmon, Balbriggan Rural ED, Balbriggan, Fingal, County Dublin, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "6760114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703345517",
+    "boundingbox": [
+      "4.9810867",
+      "5.0010867",
+      "-73.533368",
+      "-73.513368"
+    ],
+    "lat": "4.9910867",
+    "lon": "-73.523368",
+    "display_name": "Salmon, Manta, Cundinamarca, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25683927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2472915709",
+    "boundingbox": [
+      "42.5710816",
+      "42.6110816",
+      "-9.0235272",
+      "-8.9835272"
+    ],
+    "lat": "42.5910816",
+    "lon": "-9.0035272",
+    "display_name": "Salm\u00f3n, A Coru\u00f1a, Galicia, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13451394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243204739",
+    "boundingbox": [
+      "42.2179729",
+      "42.2379729",
+      "-4.4496028",
+      "-4.4296028"
+    ],
+    "lat": "42.2279729",
+    "lon": "-4.4396028",
+    "display_name": "El Salm\u00f3n, Pi\u00f1a de Campos, Palencia, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

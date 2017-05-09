@@ -1,0 +1,129 @@
+[
+  {
+    "place_id": "2593952",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356559314",
+    "boundingbox": [
+      "18.3304599",
+      "18.3305599",
+      "-64.846857",
+      "-64.846757"
+    ],
+    "lat": "18.3305099",
+    "lon": "-64.846807",
+    "display_name": "Redhook Hill, St. Thomas Island, United States Virgin Islands, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "92770468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "124990305",
+    "boundingbox": [
+      "43.0861467",
+      "43.0898112",
+      "-70.8057965",
+      "-70.8002333"
+    ],
+    "lat": "43.0872308",
+    "lon": "-70.8033905912196",
+    "display_name": "Redhook Brewery, Portsmouth, Rockingham County, New Hampshire, 03801, United States of America",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66353936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18894759",
+    "boundingbox": [
+      "35.9140356",
+      "35.9141453",
+      "-78.7455853",
+      "-78.7451125"
+    ],
+    "lat": "35.9140633",
+    "lon": "-78.7452956",
+    "display_name": "Redhook Court, Dominion Park, Raleigh, Wake County, North Carolina, 27617, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58319432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6373913",
+    "boundingbox": [
+      "37.7320154",
+      "37.7325542",
+      "-122.2385413",
+      "-122.2374389"
+    ],
+    "lat": "37.7320154",
+    "lon": "-122.2374389",
+    "display_name": "Redhook Lane, Bay Farm Island, Alameda, Alameda County, California, 94502, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92857653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "124990306",
+    "boundingbox": [
+      "43.0866335",
+      "43.0889551",
+      "-70.8048425",
+      "-70.8021237"
+    ],
+    "lat": "43.0872625",
+    "lon": "-70.8035616",
+    "display_name": "Redhook Way, Redhook Brewery, Portsmouth, Rockingham County, New Hampshire, 03801, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61507966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11746944",
+    "boundingbox": [
+      "39.954429",
+      "39.957015",
+      "-74.2286589",
+      "-74.2261439"
+    ],
+    "lat": "39.957011",
+    "lon": "-74.2272189",
+    "display_name": "Redhook Bay Drive, Berkeley Township, Ocean County, New Jersey, 08757, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "3497755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "368382049",
+    "boundingbox": [
+      "18.3279599",
+      "18.3280599",
+      "-64.8399123",
+      "-64.8398123"
+    ],
+    "lat": "18.3280099",
+    "lon": "-64.8398623",
+    "display_name": "Redhook Bay, Ridge Road, St. Thomas Island, United States Virgin Islands, 000830, United States of America",
+    "class": "natural",
+    "type": "bay",
+    "importance": 0.101
+  }
+]

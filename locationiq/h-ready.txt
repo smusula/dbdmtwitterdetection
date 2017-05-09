@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "402982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153771172",
+    "boundingbox": [
+      "37.3517172",
+      "37.3917172",
+      "-86.4913697",
+      "-86.4513697"
+    ],
+    "lat": "37.3717172",
+    "lon": "-86.4713697",
+    "display_name": "Ready, Grayson County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41256136",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009882012",
+    "boundingbox": [
+      "47.4923648",
+      "47.4924648",
+      "19.0697469",
+      "19.0698469"
+    ],
+    "lat": "47.4924148",
+    "lon": "19.0697969",
+    "display_name": "Ready, 5, R\u00f6kk Szil\u00e1rd utca, Palotanegyed, 8. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1085, Magyarorsz\u00e1g",
+    "class": "shop",
+    "type": "health",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647436223",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "145621113",
+    "boundingbox": [
+      "50.9465568",
+      "50.9481115",
+      "5.8412625",
+      "5.8438052"
+    ],
+    "lat": "50.9473671",
+    "lon": "5.84252389416348",
+    "display_name": "Ready, A76, Spaubeek, Beek, Limburg, Nederland, 6176BL, Nederland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "42305959",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3082615247",
+    "boundingbox": [
+      "49.6200178",
+      "49.6201178",
+      "6.1243154",
+      "6.1244154"
+    ],
+    "lat": "49.6200678",
+    "lon": "6.1243654",
+    "display_name": "Ready, 35, Avenue du Bois, Limpertsberg, Luxembourg, Canton Luxembourg, 1250, 1251, L\u00ebtzebuerg",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54066664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4161814112",
+    "boundingbox": [
+      "5.521956",
+      "5.522056",
+      "-0.4723874",
+      "-0.4722874"
+    ],
+    "lat": "5.522006",
+    "lon": "-0.4723374",
+    "display_name": "Ready, N1, Ojubi, Central Region, Ghana",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "50315416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3731304735",
+    "boundingbox": [
+      "5.734932",
+      "5.735032",
+      "-0.3134724",
+      "-0.3133724"
+    ],
+    "lat": "5.734982",
+    "lon": "-0.3134224",
+    "display_name": "Ready, Nsawam Road, Medie, Ga West, Greater Accra Region, Ghana",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

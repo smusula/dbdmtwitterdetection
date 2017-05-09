@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "27096169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2584496057",
+    "boundingbox": [
+      "55.8605383",
+      "55.9005383",
+      "-2.1546982",
+      "-2.1146982"
+    ],
+    "lat": "55.8805383",
+    "lon": "-2.1346982",
+    "display_name": "Fleurs, Scottish Borders, Scotland, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "81335526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "74647985",
+    "boundingbox": [
+      "50.6574595",
+      "50.6576085",
+      "3.0834997",
+      "3.0837385"
+    ],
+    "lat": "50.65755145",
+    "lon": "3.08363922576602",
+    "display_name": "Fleurs, Parc Europe, Marcq-en-Bar\u0153ul, Lille, Nord, Hauts-de-France, 59700, France",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "74546689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38624491",
+    "boundingbox": [
+      "56.2522049",
+      "56.2523878",
+      "-3.2034403",
+      "-3.2023101"
+    ],
+    "lat": "56.2522049",
+    "lon": "-3.2034403",
+    "display_name": "The Fleurs, Darnoe, Falkland, Fife, Scotland, UK",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "44788392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3195385699",
+    "boundingbox": [
+      "48.8632277",
+      "48.8633277",
+      "2.3662942",
+      "2.3663942"
+    ],
+    "lat": "48.8632777",
+    "lon": "2.3663442",
+    "display_name": "Fleurs, Boulevard du Temple, Beaubourg, R\u00e9publique, Paris, \u00cele-de-France, 750011, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "28496344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2650968884",
+    "boundingbox": [
+      "48.8387274",
+      "48.8388274",
+      "2.360505",
+      "2.360605"
+    ],
+    "lat": "48.8387774",
+    "lon": "2.360555",
+    "display_name": "Fleurs, Rue des Wallons, Salp\u00eatri\u00e8re, 13e, Paris, \u00cele-de-France, 75013, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "34795974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2815050901",
+    "boundingbox": [
+      "48.885714",
+      "48.885814",
+      "2.289374",
+      "2.289474"
+    ],
+    "lat": "48.885764",
+    "lon": "2.289424",
+    "display_name": "Fleurs, Place de la Porte de Champerret, Ternes, 17e, Paris, \u00cele-de-France, 75017, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18543433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1791356258",
+    "boundingbox": [
+      "45.906266",
+      "45.906366",
+      "6.1157978",
+      "6.1158978"
+    ],
+    "lat": "45.906316",
+    "lon": "6.1158478",
+    "display_name": "Fleurs, Rue Aim\u00e9 Levet, Annecy, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74000, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "15691504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1415912361",
+    "boundingbox": [
+      "47.3288981",
+      "47.3289981",
+      "5.0433277",
+      "5.0434277"
+    ],
+    "lat": "47.3289481",
+    "lon": "5.0433777",
+    "display_name": "Fleurs, Cours Fleury, Faubourg Saint-Pierre, Centre-Ville, Dijon, C\u00f4te-d'Or, Bourgogne-Franche-Comt\u00e9, 21000, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80401431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67993160",
+    "boundingbox": [
+      "48.6012943",
+      "48.6013683",
+      "-2.8263212",
+      "-2.8262362"
+    ],
+    "lat": "48.60133135",
+    "lon": "-2.82627907575033",
+    "display_name": "Fleurs, Rue Joffre, Binic, Binic-\u00c9tables-sur-Mer, Saint-Brieuc, C\u00f4tes-d'Armor, Bretagne, 22520, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  },
+  {
+    "place_id": "139614413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "332323370",
+    "boundingbox": [
+      "49.149138",
+      "49.149189",
+      "-0.3745769",
+      "-0.3744119"
+    ],
+    "lat": "49.149165",
+    "lon": "-0.374494297515528",
+    "display_name": "Fleurs, Rue Fran\u00e7ois Mitterrand, Fleury-sur-Orne, Caen, Calvados, Normandie, 14123, France",
+    "class": "shop",
+    "type": "florist",
+    "importance": 0.101
+  }
+]

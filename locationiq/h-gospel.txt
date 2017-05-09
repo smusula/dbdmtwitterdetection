@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "57292644",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5019234",
+    "boundingbox": [
+      "14.6259357",
+      "14.626178",
+      "121.1041311",
+      "121.1083977"
+    ],
+    "lat": "14.6261295",
+    "lon": "121.1064017",
+    "display_name": "Gospel, St. Gregory Village, Cainta, Rizal, Calabarzon, 1900, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "9579439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "951780189",
+    "boundingbox": [
+      "35.0255939",
+      "35.0256939",
+      "135.794865",
+      "135.794965"
+    ],
+    "lat": "35.0256439",
+    "lon": "135.794915",
+    "display_name": "GOSPEL, \u9e7f\u30f6\u8c37\u901a, \u5de6\u4eac\u533a, \u4eac\u90fd\u5e02, \u4e0e\u8b1d\u90e1, \u4eac\u90fd\u5e9c, 6050073, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "16448846",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1511753040",
+    "boundingbox": [
+      "15.4317134",
+      "15.4318134",
+      "-61.435963",
+      "-61.435863"
+    ],
+    "lat": "15.4317634",
+    "lon": "-61.435913",
+    "display_name": "Gospel, Edward Olivier Leblanc Highway, Salisbury, Saint Joseph Parish, Dominica",
+    "class": "amenity",
+    "type": "grave_yard",
+    "importance": 0.101
+  }
+]

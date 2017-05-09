@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "18488205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1790562775",
+    "boundingbox": [
+      "44.2896347",
+      "44.3096347",
+      "9.5104472",
+      "9.5304472"
+    ],
+    "lat": "44.2996347",
+    "lon": "9.5204472",
+    "display_name": "One, Castiglione Chiavarese, GE, LIG, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "134306216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306695456",
+    "boundingbox": [
+      "45.9865327",
+      "45.9872174",
+      "4.755622",
+      "4.7567183"
+    ],
+    "lat": "45.986812",
+    "lon": "4.75614211658309",
+    "display_name": "The One, Jassans-Riottier, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01480, France",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "153799737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412210704",
+    "boundingbox": [
+      "21.7830083",
+      "21.7838265",
+      "-72.2530908",
+      "-72.250827"
+    ],
+    "lat": "21.78337885",
+    "lon": "-72.2520014092937",
+    "display_name": "One, Providenciales, Provinciales and West Caicos, Turks and Caicos Islands",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "160430399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1505776",
+    "boundingbox": [
+      "52.323698",
+      "52.3642971",
+      "6.0226248",
+      "6.0948575"
+    ],
+    "lat": "52.34402105",
+    "lon": "6.05009771340625",
+    "display_name": "Oene, Epe, Gelderland, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.27594331946278,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "19468059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1914459760",
+    "boundingbox": [
+      "52.3243982",
+      "52.3643982",
+      "6.0291498",
+      "6.0691498"
+    ],
+    "lat": "52.3443982",
+    "lon": "6.0491498",
+    "display_name": "Oene, Gelderland, Nederland, 8167, Nederland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "149618115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "387291815",
+    "boundingbox": [
+      "-0.3611378",
+      "-0.3594193",
+      "117.1057738",
+      "117.1102152"
+    ],
+    "lat": "-0.3605513",
+    "lon": "117.1079942",
+    "display_name": "one, Bangun Rejo, Kalimantan Timur, Indonesia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "78526510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55386421",
+    "boundingbox": [
+      "52.3877031",
+      "52.3879513",
+      "-1.5600556",
+      "-1.5594497"
+    ],
+    "lat": "52.38786605",
+    "lon": "-1.55975263230319",
+    "display_name": "one, Sovereign Court, University of Warwick Science Park, Cannon Park, Coventry, West Midlands, England, CV4 8GL, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "18293122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1756692074",
+    "boundingbox": [
+      "50.8243052",
+      "50.8244052",
+      "4.4003393",
+      "4.4004393"
+    ],
+    "lat": "50.8243552",
+    "lon": "4.4003893",
+    "display_name": "one, Chauss\u00e9e de Wavre - Waversesteenweg, Auderghem - Oudergem, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1160, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "children",
+    "importance": 0.111
+  },
+  {
+    "place_id": "2609471404",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "451481671",
+    "boundingbox": [
+      "33.9040874",
+      "33.9045005",
+      "35.5050455",
+      "35.5055409"
+    ],
+    "lat": "33.90427855",
+    "lon": "35.505292688108",
+    "display_name": "The One, \u0634\u0627\u0631\u0639 \u0627\u0644\u0645\u064a\u0631 \u0645\u062c\u064a\u062f \u0625\u0631\u0633\u0644\u0627\u0646, \u0627\u0644\u0628\u0631\u0628\u064a\u0631, \u0628\u064a\u0631\u0648\u062a, \u0627\u0644\u0645\u0631\u0641\u0623, \u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u064a\u0631\u0648\u062a, 00961, \u0644\u0628\u0646\u0627\u0646",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651635182",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473532740",
+    "boundingbox": [
+      "50.4507705",
+      "50.4508926",
+      "4.4781724",
+      "4.4783978"
+    ],
+    "lat": "50.45084355",
+    "lon": "4.47828365327235",
+    "display_name": "ONE, Rue Paul Pastur, Ransart, Charleroi, Hainaut, Wallonie, 6043, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "childcare",
+    "importance": 0.101
+  }
+]

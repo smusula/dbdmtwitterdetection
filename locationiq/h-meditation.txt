@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "30572429",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2735715496",
+    "boundingbox": [
+      "35.443087",
+      "35.443187",
+      "139.6358858",
+      "139.6359858"
+    ],
+    "lat": "35.443137",
+    "lon": "139.6359358",
+    "display_name": "La meditation, \u65b0\u6a2a\u6d5c\u901a\u308a, \u4e2d\u533a, \u6a2a\u6d5c\u5e02, \u4e09\u6d66\u90e1, \u795e\u5948\u5ddd\u770c, 231-0032, \u65e5\u672c",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "45812870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3264382061",
+    "boundingbox": [
+      "33.561395",
+      "33.561495",
+      "-86.7528549",
+      "-86.7527549"
+    ],
+    "lat": "33.561445",
+    "lon": "-86.7528049",
+    "display_name": "Meditation, Messer Airport Highway, Woodlawn, Birmingham, Jefferson County, Alabama, 35212, United States of America",
+    "class": "amenity",
+    "type": "place_of_worship",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/place_of_worship_unknown3.p.20.png"
+  },
+  {
+    "place_id": "39276091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2913021802",
+    "boundingbox": [
+      "49.7240917",
+      "49.7241917",
+      "10.2662873",
+      "10.2663873"
+    ],
+    "lat": "49.7241417",
+    "lon": "10.2663373",
+    "display_name": "Meditation, Zur Weinbergsklause, Fr\u00f6hstockheim, R\u00f6delsee, Iphofen (VGem), Landkreis Kitzingen, Unterfranken, Bayern, 97348, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "73468622",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35142781",
+    "boundingbox": [
+      "47.7079035",
+      "47.7083457",
+      "11.4001337",
+      "11.4007261"
+    ],
+    "lat": "47.7081299",
+    "lon": "11.4004336752985",
+    "display_name": "Meditation, Zeilerweg, Stra\u00dfberg, Benediktbeuern, Benediktbeuern (VGem), Landkreis Bad T\u00f6lz-Wolfratshausen, OB, Bayern, 83671, Deutschland",
+    "class": "leisure",
+    "type": "garden",
+    "importance": 0.101
+  },
+  {
+    "place_id": "128598388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279115971",
+    "boundingbox": [
+      "48.8541638",
+      "48.8541816",
+      "2.3153622",
+      "2.3153891"
+    ],
+    "lat": "48.85417275",
+    "lon": "2.31537565837455",
+    "display_name": "La M\u00e9ditation, Boulevard des Invalides, \u00c9cole-Militaire, 7e, Paris, \u00cele-de-France, 75007, France",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "25891224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2482284002",
+    "boundingbox": [
+      "43.8916093",
+      "43.8917093",
+      "-0.5016192",
+      "-0.5015192"
+    ],
+    "lat": "43.8916593",
+    "lon": "-0.5015692",
+    "display_name": "M\u00e9ditation, Pont Gis\u00e8le Halimi, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40000, France",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

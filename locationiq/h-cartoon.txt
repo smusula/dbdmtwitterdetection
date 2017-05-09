@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "20213032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1990246005",
+    "boundingbox": [
+      "53.5476477",
+      "53.5876477",
+      "-7.9576623",
+      "-7.9176623"
+    ],
+    "lat": "53.5676477",
+    "lon": "-7.9376623",
+    "display_name": "Cashel West ED, Cartoon, County Longford, Leinster, Ireland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160762157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4260152",
+    "boundingbox": [
+      "54.2244365",
+      "54.2360709",
+      "-9.2583232",
+      "-9.2308051"
+    ],
+    "lat": "54.23025605",
+    "lon": "-9.23596875582399",
+    "display_name": "Cartoon, Kilalla ED, Ballina, County Mayo, Connacht, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160554560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2544742",
+    "boundingbox": [
+      "53.5646434",
+      "53.5709475",
+      "-7.9445601",
+      "-7.931732"
+    ],
+    "lat": "53.5676774",
+    "lon": "-7.93789035858657",
+    "display_name": "Cartoon, Cashel West ED, Ballymahon Municipal District, County Longford, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "121731612",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244135884",
+    "boundingbox": [
+      "51.7871545",
+      "51.7872902",
+      "6.1382121",
+      "6.1385117"
+    ],
+    "lat": "51.7872175",
+    "lon": "6.13835924287737",
+    "display_name": "cartoon, 59a, Gro\u00dfe Stra\u00dfe, Kleve, Kreis Kleve, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 47533, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "118903711",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232220495",
+    "boundingbox": [
+      "51.4578009",
+      "51.4579596",
+      "7.0082366",
+      "7.0083811"
+    ],
+    "lat": "51.45788005",
+    "lon": "7.00830872359974",
+    "display_name": "Cartoon, 68 - 66, Limbecker Stra\u00dfe, Stadtmitte, Stadtkern, Stadtbezirk I, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 45127, Deutschland",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19594878",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1935077908",
+    "boundingbox": [
+      "53.5539619",
+      "53.5540619",
+      "9.9893465",
+      "9.9894465"
+    ],
+    "lat": "53.5540119",
+    "lon": "9.9893965",
+    "display_name": "Cartoon, 2, Gerhofstra\u00dfe, Neustadt, Hamburg-Mitte, Hamburg, 20354, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "4443467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "482249272",
+    "boundingbox": [
+      "50.7363514",
+      "50.7364514",
+      "7.0983422",
+      "7.0984422"
+    ],
+    "lat": "50.7364014",
+    "lon": "7.0983922",
+    "display_name": "Cartoon, Kasernenstra\u00dfe, Bonn-Zentrum, Stadtbezirk Bonn, Bonn, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 53111, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "13909048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1246509140",
+    "boundingbox": [
+      "-34.5957072",
+      "-34.5956072",
+      "-58.3948291",
+      "-58.3947291"
+    ],
+    "lat": "-34.5956572",
+    "lon": "-58.3947791",
+    "display_name": "Cartoon, Riobamba, Barrio Norte, Recoleta, CABA, Comuna 2, CABA, 1123, Argentina",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2645311452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "456459209",
+    "boundingbox": [
+      "-34.8824363",
+      "-34.8823049",
+      "-56.1777568",
+      "-56.1774547"
+    ],
+    "lat": "-34.8823555",
+    "lon": "-56.1775956951949",
+    "display_name": "Cartoon, Isla de Gorriti, La Comercial, Montevideo, 11800, Uruguay",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17288164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1653823224",
+    "boundingbox": [
+      "49.0070565",
+      "49.0071565",
+      "12.0998251",
+      "12.0999251"
+    ],
+    "lat": "49.0071065",
+    "lon": "12.0998751",
+    "display_name": "Cartoon, 20, Galgenbergstra\u00dfe, Eisbuckel, Galgenberg, Rgbg, Regensburg, OPf, Bayern, 93053, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

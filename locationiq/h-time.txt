@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160328898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "405786",
+    "boundingbox": [
+      "58.6127926",
+      "58.8018866",
+      "5.6033774",
+      "5.930301"
+    ],
+    "lat": "58.70646305",
+    "lon": "5.75077272310324",
+    "display_name": "Time, Rogaland, Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160268503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126989",
+    "boundingbox": [
+      "39.556358",
+      "39.565909",
+      "-90.7296859",
+      "-90.7170269"
+    ],
+    "lat": "39.5614368",
+    "lon": "-90.7242937",
+    "display_name": "Time, Pike County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38421533777039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "38016789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2878369502",
+    "boundingbox": [
+      "58.7064536",
+      "58.7464536",
+      "5.6728483",
+      "5.7128483"
+    ],
+    "lat": "58.7264536",
+    "lon": "5.6928483",
+    "display_name": "Time, Rogaland, Norge",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4560686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501524177",
+    "boundingbox": [
+      "7.113333",
+      "7.153333",
+      "8.746667",
+      "8.786667"
+    ],
+    "lat": "7.133333",
+    "lon": "8.766667",
+    "display_name": "Time, Ushongo, Benue, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "202338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "38996034",
+    "boundingbox": [
+      "34.7115951",
+      "34.7515951",
+      "32.496006",
+      "32.536006"
+    ],
+    "lat": "34.7315951",
+    "lon": "32.516006",
+    "display_name": "\u03a4\u03af\u03bc\u03b7, \u03a0\u03ac\u03c6\u03bf\u03c2, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "place",
+    "type": "village",
+    "importance": 0.37089725346413,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16073462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1441041897",
+    "boundingbox": [
+      "28.5335129",
+      "28.5735129",
+      "-13.9229942",
+      "-13.8829942"
+    ],
+    "lat": "28.5535129",
+    "lon": "-13.9029942",
+    "display_name": "El Time, Puerto del Rosario, Las Palmas, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "145641140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "368769035",
+    "boundingbox": [
+      "12.9807635",
+      "12.9812853",
+      "77.6401578",
+      "77.6403746"
+    ],
+    "lat": "12.981023",
+    "lon": "77.6402661654088",
+    "display_name": "Time, Hoysala Nagar, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "4116852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "443224124",
+    "boundingbox": [
+      "9.5032254",
+      "9.5832254",
+      "-7.3576697",
+      "-7.2776697"
+    ],
+    "lat": "9.5432254",
+    "lon": "-7.3176697",
+    "display_name": "Ti\u00e9me, Kabadougou, Dengu\u00e9l\u00e9, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "21825379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2148637695",
+    "boundingbox": [
+      "14.9514312",
+      "14.9914312",
+      "-3.8795523",
+      "-3.8395523"
+    ],
+    "lat": "14.9714312",
+    "lon": "-3.8595523",
+    "display_name": "Tim\u00e9, Cercle de Mopti, Mopti, Mali",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40745213",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2988080600",
+    "boundingbox": [
+      "5.198952",
+      "5.238952",
+      "-4.6655449",
+      "-4.6255449"
+    ],
+    "lat": "5.218952",
+    "lon": "-4.6455449",
+    "display_name": "Ti\u00e9m\u00e9, Grands Ponts, Lagunes, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

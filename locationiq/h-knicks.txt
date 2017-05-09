@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "61929984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12502706",
+    "boundingbox": [
+      "33.498136",
+      "33.498595",
+      "-80.4925759",
+      "-80.4923729"
+    ],
+    "lat": "33.498595",
+    "lon": "-80.4925759",
+    "display_name": "Knicks Lane, Parler, Orangeburg County, South Carolina, 29142, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54568931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4205400825",
+    "boundingbox": [
+      "34.088309",
+      "34.088409",
+      "-117.9587239",
+      "-117.9586239"
+    ],
+    "lat": "34.088359",
+    "lon": "-117.9586739",
+    "display_name": "Knicks and Knacks, Ramona Parkway, Baldwin Park, Los Angeles County, California, 91706, United States of America",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "28728002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2677431114",
+    "boundingbox": [
+      "53.5412054",
+      "53.5413054",
+      "8.6517097",
+      "8.6518097"
+    ],
+    "lat": "53.5412554",
+    "lon": "8.6517597",
+    "display_name": "Wallhecken und Knicks, Am Orint, Schiffdorf, Landkreis Cuxhaven, Niedersachsen, 27619, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  }
+]

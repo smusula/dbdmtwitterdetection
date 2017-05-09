@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "80197384",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66024072",
+    "boundingbox": [
+      "-33.9925248",
+      "-33.9508677",
+      "18.5903947",
+      "18.6178582"
+    ],
+    "lat": "-33.97109375",
+    "lon": "18.6020542427743",
+    "display_name": "Cape Town International Airport, Elevated Road, Cape Town Ward 24, Cape Town, City of Cape Town, Western Cape, 7490, South Africa",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36732738210526,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2610750880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "196580458",
+    "boundingbox": [
+      "53.4019732",
+      "53.4024124",
+      "-2.9781424",
+      "-2.9774853"
+    ],
+    "lat": "53.4021932",
+    "lon": "-2.97779419834895",
+    "display_name": "FACT, 88, Wood Street, Baltic Triangle, Ropewalks, Liverpool, North West England, England, L1 4DQ, UK",
+    "class": "amenity",
+    "type": "arts_centre",
+    "importance": 0.32123378027701,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "152619965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "404759681",
+    "boundingbox": [
+      "51.3043921",
+      "51.3045908",
+      "9.4500949",
+      "9.4505226"
+    ],
+    "lat": "51.30444625",
+    "lon": "9.45030873510018",
+    "display_name": "FACT, 13, Johanna-Waescher-Stra\u00dfe, Bad Wilhelmsh\u00f6he, Kassel, Regierungsbezirk Kassel, Hessen, 34131, Deutschland, Europe",
+    "class": "office",
+    "type": "accountant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18683834",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1838845199",
+    "boundingbox": [
+      "51.9619269",
+      "51.9620269",
+      "7.6494767",
+      "7.6495767"
+    ],
+    "lat": "51.9619769",
+    "lon": "7.6495267",
+    "display_name": "FAC'T, 72, Hohenzollernring, Mauritz-West, Innenstadtring, M\u00fcnster-Mitte, M\u00fcnster, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 48145, Deutschland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.001
+  }
+]

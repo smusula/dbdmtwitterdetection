@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "57831382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5974392",
+    "boundingbox": [
+      "33.114059",
+      "33.11578",
+      "-117.1434479",
+      "-117.1413729"
+    ],
+    "lat": "33.115273",
+    "lon": "-117.1416469",
+    "display_name": "Seeforever Drive, San Marcos, San Diego County, California, 92078, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60537777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10331442",
+    "boundingbox": [
+      "38.765474",
+      "38.766565",
+      "-120.7578449",
+      "-120.7575419"
+    ],
+    "lat": "38.765847",
+    "lon": "-120.7577219",
+    "display_name": "Seeforever Court, Smithflat, El Dorado County, California, 95667, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

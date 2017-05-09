@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160532954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2328730",
+    "boundingbox": [
+      "42.8581194",
+      "42.8812166",
+      "0.0094107",
+      "0.0363276"
+    ],
+    "lat": "42.8766878",
+    "lon": "0.0137833",
+    "display_name": "Viella, Argel\u00e8s-Gazost, Hautes-Pyr\u00e9n\u00e9es, Occitanie, 65120, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42803921001958,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "99473981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154008569",
+    "boundingbox": [
+      "45.1512225",
+      "45.1686592",
+      "11.671519",
+      "11.685027"
+    ],
+    "lat": "45.1607528",
+    "lon": "11.678562",
+    "display_name": "Villa, Villa Estense, PD, VEN, Italia",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "161005278",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6323780",
+    "boundingbox": [
+      "64.5408844",
+      "64.5522736",
+      "10.6747919",
+      "10.7100015"
+    ],
+    "lat": "64.5466137",
+    "lon": "10.6927964740689",
+    "display_name": "Villa, Flatanger, Nord-Tr\u00f8ndelag, Norge",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "156548233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "426681951",
+    "boundingbox": [
+      "4.804434",
+      "4.8075349",
+      "-75.750976",
+      "-75.7470325"
+    ],
+    "lat": "4.8059401",
+    "lon": "-75.7483379339256",
+    "display_name": "La Villa, Pereira, Risaralda, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160318277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "353084",
+    "boundingbox": [
+      "58.2526895",
+      "58.2838016",
+      "25.8664136",
+      "25.9470076"
+    ],
+    "lat": "58.268063",
+    "lon": "25.9005177008634",
+    "display_name": "Villa k\u00fcla, Tarvastu vald, Viljandi maakond, Eesti",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160337046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "353722",
+    "boundingbox": [
+      "57.6777424",
+      "57.6992427",
+      "27.0658341",
+      "27.0952061"
+    ],
+    "lat": "57.68863955",
+    "lon": "27.079367006388",
+    "display_name": "Villa k\u00fcla, Haanja vald, V\u00f5ru maakond, Eesti",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161031321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6587484",
+    "boundingbox": [
+      "26.289419",
+      "26.301728",
+      "-97.9344859",
+      "-97.9165079"
+    ],
+    "lat": "26.2986827",
+    "lon": "-97.9286116",
+    "display_name": "La Villa, Hidalgo County, Texas, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.38891132353959,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "52253062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3946169465",
+    "boundingbox": [
+      "46.3708439",
+      "46.4108439",
+      "4.9831428",
+      "5.0231428"
+    ],
+    "lat": "46.3908439",
+    "lon": "5.0031428",
+    "display_name": "Le Villa, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49609673",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3674771248",
+    "boundingbox": [
+      "46.2371614",
+      "46.2771614",
+      "6.6323009",
+      "6.6723009"
+    ],
+    "lat": "46.2571614",
+    "lon": "6.6523009",
+    "display_name": "La Villa, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "19331281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1882028756",
+    "boundingbox": [
+      "45.6322242",
+      "45.6722242",
+      "1.6276524",
+      "1.6676524"
+    ],
+    "lat": "45.6522242",
+    "lon": "1.6476524",
+    "display_name": "La Villa, Limoges, Haute-Vienne, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

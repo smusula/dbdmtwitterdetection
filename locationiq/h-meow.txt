@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "18512941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1793900196",
+    "boundingbox": [
+      "-41.2906965",
+      "-41.2905965",
+      "174.7747895",
+      "174.7748895"
+    ],
+    "lat": "-41.2906465",
+    "lon": "174.7748395",
+    "display_name": "Meow, 9, Edward Street, Te Aro, Wellington, Wellington City, Wellington, 6011, New Zealand/Aotearoa",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "49554785",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3678527432",
+    "boundingbox": [
+      "37.2995464",
+      "37.2996464",
+      "-121.8404352",
+      "-121.8403352"
+    ],
+    "lat": "37.2995964",
+    "lon": "-121.8403852",
+    "display_name": "Meow!, Antigua Road, Caribees Mobile Home Park, Little Saigon, San Jos\u00e9, Santa Clara County, California, 95121, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

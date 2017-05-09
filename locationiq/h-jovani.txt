@@ -1,0 +1,21 @@
+[
+  {
+    "place_id": "12457652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1180203660",
+    "boundingbox": [
+      "42.5808641",
+      "42.5809641",
+      "43.434182",
+      "43.434282"
+    ],
+    "lat": "42.5809141",
+    "lon": "43.434232",
+    "display_name": "\u10ef\u10dd\u10d5\u10d0\u10dc\u10d8 (Jovani), \u10e8 16, \u10dd\u10dc\u10d8, \u10e0\u10d0\u10ed\u10d0-\u10da\u10d4\u10e9\u10ee\u10e3\u10db\u10d8 \u10d3\u10d0 \u10e5\u10d5\u10d4\u10db\u10dd \u10e1\u10d5\u10d0\u10dc\u10d4\u10d7\u10d8, 3600, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

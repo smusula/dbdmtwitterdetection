@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "46578858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3363560663",
+    "boundingbox": [
+      "47.031838",
+      "47.051838",
+      "2.3885568",
+      "2.4085568"
+    ],
+    "lat": "47.041838",
+    "lon": "2.3985568",
+    "display_name": "Le Pacage des Noms, Plaimpied-Givaudins, Bourges, Cher, Centre-Val de Loire, 18340, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "142407900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "348281473",
+    "boundingbox": [
+      "47.0392835",
+      "47.0401683",
+      "2.4004318",
+      "2.4013635"
+    ],
+    "lat": "47.03973885",
+    "lon": "2.4009569921316",
+    "display_name": "Les Noms, Plaimpied-Givaudins, Bourges, Cher, Centre-Val de Loire, 18340, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "24766597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2403985006",
+    "boundingbox": [
+      "47.3448394",
+      "47.3449394",
+      "-1.7110385",
+      "-1.7109385"
+    ],
+    "lat": "47.3448894",
+    "lon": "-1.7109885",
+    "display_name": "Cent Noms, Vigneux-de-Bretagne, Ch\u00e2teaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, 44360, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "49343265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3657424376",
+    "boundingbox": [
+      "43.5174942",
+      "43.5175942",
+      "0.3634943",
+      "0.3635943"
+    ],
+    "lat": "43.5175442",
+    "lon": "0.3635443",
+    "display_name": "Aux Noms, Saint-Martin, Mirande, Gers, Occitanie, 32300, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "13565030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242614792",
+    "boundingbox": [
+      "39.5364894",
+      "39.5564894",
+      "3.0297891",
+      "3.0497891"
+    ],
+    "lat": "39.5464894",
+    "lon": "3.0397891",
+    "display_name": "So n'Oms, Porreres, Pla de Mallorca, Illes Balears, 124",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "48759297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3615454409",
+    "boundingbox": [
+      "41.826516",
+      "41.826616",
+      "2.8044417",
+      "2.8045417"
+    ],
+    "lat": "41.826566",
+    "lon": "2.8044917",
+    "display_name": "Ca n'Oms, Caldes de Malavella, Selva, Girona, CAT, 17455, Espa\u00f1a",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "92933173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "125667109",
+    "boundingbox": [
+      "45.9520648",
+      "45.9526967",
+      "-1.3794634",
+      "-1.3782946"
+    ],
+    "lat": "45.9526967",
+    "lon": "-1.3782946",
+    "display_name": "Chemin des Beaux Noms, Saint-Georges-d'Ol\u00e9ron, Rochefort, Charente-Maritime, Nouvelle-Aquitaine, 17190, France",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100413523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "157736691",
+    "boundingbox": [
+      "41.6007821",
+      "41.6009268",
+      "2.4417999",
+      "2.4440472"
+    ],
+    "lat": "41.6007821",
+    "lon": "2.4431521",
+    "display_name": "Carrer de l'Olivar d'en Noms, Can Canyamars, Can Lleuger, Dosrius, Maresme, BCN, CAT, 08304, Espa\u00f1a",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "105719653",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177353303",
+    "boundingbox": [
+      "41.4816838",
+      "41.4817265",
+      "2.325851",
+      "2.3258968"
+    ],
+    "lat": "41.4816966",
+    "lon": "2.3258719",
+    "display_name": "Carrer Capit\u00e0 Maristany Noms, Santa Maria de Maricel, el Masnou, Maresme, BCN, CAT, 08320, Espa\u00f1a",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "3611386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "373218474",
+    "boundingbox": [
+      "47.2009573",
+      "47.2010573",
+      "-1.5733797",
+      "-1.5732797"
+    ],
+    "lat": "47.2010073",
+    "lon": "-1.5733297",
+    "display_name": "Th\u00e9\u00e2tre 100 Noms, TH\u00c9\u00c2TRE 100 NOMS, Quai des Antilles, Sainte-Anne - Zone portuaire, \u00cele de Nantes, Nantes, Loire-Atlantique, Pays de la Loire, 44200, France",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  }
+]

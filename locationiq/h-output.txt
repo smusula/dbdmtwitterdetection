@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "26552920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2535218213",
+    "boundingbox": [
+      "41.8909703",
+      "41.8910703",
+      "-87.6719348",
+      "-87.6718348"
+    ],
+    "lat": "41.8910203",
+    "lon": "-87.6718848",
+    "display_name": "Output, 1758, West Grand Avenue, Near West Side, Chicago, Cook County, Illinois, 60622, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "54340155",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4159335790",
+    "boundingbox": [
+      "40.722155",
+      "40.722255",
+      "-73.9577384",
+      "-73.9576384"
+    ],
+    "lat": "40.722205",
+    "lon": "-73.9576884",
+    "display_name": "Output, 74, Wythe Avenue, Greenpoint, Kings County, NYC, New York, 11211, United States of America",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "125788857",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261307082",
+    "boundingbox": [
+      "-28.0483729",
+      "-28.0027329",
+      "150.648527",
+      "150.675592"
+    ],
+    "lat": "-28.0214899",
+    "lon": "150.65713",
+    "display_name": "Wavehill Road, QLD, Australia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "143219703",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "354449737",
+    "boundingbox": [
+      "-34.7753982",
+      "-34.745781",
+      "148.1430206",
+      "148.1476359"
+    ],
+    "lat": "-34.7601251",
+    "lon": "148.1446121",
+    "display_name": "Wavehill Road, Muttama, Gundagai, NSW, Australia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  }
+]

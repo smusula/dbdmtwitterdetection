@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "98600656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149522340",
+    "boundingbox": [
+      "50.7509207",
+      "50.7654675",
+      "-126.6307356",
+      "-126.6012492"
+    ],
+    "lat": "50.75814925",
+    "lon": "-126.617814451368",
+    "display_name": "Insect Island, Regional District of Mount Waddington, British Columbia, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "100911681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159458424",
+    "boundingbox": [
+      "55.0425449",
+      "55.0432271",
+      "-128.4999999",
+      "-128.4892999"
+    ],
+    "lat": "55.0429807",
+    "lon": "-128.4947098",
+    "display_name": "Insect Creek, Regional District of Kitimat-Stikine, British Columbia, Canada",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2610086495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4497792653",
+    "boundingbox": [
+      "49.8214311",
+      "49.8215311",
+      "-117.2403229",
+      "-117.2402229"
+    ],
+    "lat": "49.8214811",
+    "lon": "-117.2402729",
+    "display_name": "Insect Peak, Regional District of Central Kootenay, British Columbia, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "15754434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1420978737",
+    "boundingbox": [
+      "35.434282",
+      "35.434382",
+      "136.773047",
+      "136.773147"
+    ],
+    "lat": "35.434332",
+    "lon": "136.773097",
+    "display_name": "\u540d\u548c\u6606\u866b\u535a\u7269\u9928 (Nawa Insect Museum), \u9577\u826f\u6a4b\u901a\u308a, \u5c90\u961c\u5e02, \u5c90\u961c\u770c, 500-8018, \u65e5\u672c",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.28177847009039,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "66162306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18585567",
+    "boundingbox": [
+      "40.308624",
+      "40.308651",
+      "-93.5949619",
+      "-93.5925679"
+    ],
+    "lat": "40.308647",
+    "lon": "-93.5940989",
+    "display_name": "Insect Street, Mill Grove, Mercer County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

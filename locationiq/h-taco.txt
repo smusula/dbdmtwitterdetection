@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "111938319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203930804",
+    "boundingbox": [
+      "20.481162",
+      "20.5165723",
+      "-74.7032793",
+      "-74.6747001"
+    ],
+    "lat": "20.4996486",
+    "lon": "-74.6913155",
+    "display_name": "Taco, Baracoa, Guant\u00e1namo, Cuba",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3184784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358808046",
+    "boundingbox": [
+      "36.0374045",
+      "36.0375045",
+      "-120.0829648",
+      "-120.0828648"
+    ],
+    "lat": "36.0374545",
+    "lon": "-120.0829148",
+    "display_name": "El Taco, Kings County, California, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "24142925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2361042962",
+    "boundingbox": [
+      "28.0371414",
+      "28.0771414",
+      "-17.2313183",
+      "-17.1913183"
+    ],
+    "lat": "28.0571414",
+    "lon": "-17.2113183",
+    "display_name": "Taco, Santa Cruz de Tenerife, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "521763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "198449236",
+    "boundingbox": [
+      "-28.7204926",
+      "-28.6804926",
+      "-65.6265827",
+      "-65.5865827"
+    ],
+    "lat": "-28.7004926",
+    "lon": "-65.6065827",
+    "display_name": "El Taco, Departamento Ancasti, CTM, Argentina",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "674592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "249423647",
+    "boundingbox": [
+      "-1.4009647",
+      "-1.3609647",
+      "-79.6246691",
+      "-79.5846691"
+    ],
+    "lat": "-1.3809647",
+    "lon": "-79.6046691",
+    "display_name": "El Taco, Cant\u00f3n Vinces, Los R\u00edos, Ecuador",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13692365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1244136882",
+    "boundingbox": [
+      "39.8367222",
+      "39.8567222",
+      "-1.8629391",
+      "-1.8429391"
+    ],
+    "lat": "39.8467222",
+    "lon": "-1.8529391",
+    "display_name": "El Taco, Arguisuelas, Cuenca, Castilla-La Mancha, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13477006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242995262",
+    "boundingbox": [
+      "40.3952557",
+      "40.4152557",
+      "-1.0061791",
+      "-0.9861791"
+    ],
+    "lat": "40.4052557",
+    "lon": "-0.9961791",
+    "display_name": "El Taco, Corbal\u00e1n, Teruel, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "8893757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "920203509",
+    "boundingbox": [
+      "28.4265064",
+      "28.4665064",
+      "-16.3188785",
+      "-16.2788785"
+    ],
+    "lat": "28.4465064",
+    "lon": "-16.2988785",
+    "display_name": "Taco, San Crist\u00f3bal de La Laguna, Santa Cruz de Tenerife, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13163876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241565679",
+    "boundingbox": [
+      "38.316231",
+      "38.336231",
+      "-6.1100091",
+      "-6.0900091"
+    ],
+    "lat": "38.326231",
+    "lon": "-6.1000091",
+    "display_name": "El Taco, Villagarc\u00eda de la Torre, Badajoz, Extremadura, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17287023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1639974753",
+    "boundingbox": [
+      "41.2348168",
+      "41.2349168",
+      "1.7276831",
+      "1.7277831"
+    ],
+    "lat": "41.2348668",
+    "lon": "1.7277331",
+    "display_name": "el Tac\u00f3, Torre de l'Onclet, Vilanova, Garraf, BCN, CAT, 08800, Espa\u00f1a",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  }
+]

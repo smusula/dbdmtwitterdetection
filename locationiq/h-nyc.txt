@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "2647380423",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175905",
+    "boundingbox": [
+      "40.477399",
+      "40.9161785",
+      "-74.2590899",
+      "-73.7001808"
+    ],
+    "lat": "40.7305991",
+    "lon": "-73.9865811",
+    "display_name": "NYC, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.88292818999099,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "106232740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "179501319",
+    "boundingbox": [
+      "39.3995233",
+      "39.4789468",
+      "-88.7895491",
+      "-88.3971668"
+    ],
+    "lat": "39.438837",
+    "lon": "-88.5876169",
+    "display_name": "NYC, Shelby County, Illinois, 61957, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "26925847",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2547245953",
+    "boundingbox": [
+      "40.7197099",
+      "40.7198099",
+      "-73.9982414",
+      "-73.9981414"
+    ],
+    "lat": "40.7197599",
+    "lon": "-73.9981914",
+    "display_name": "Open Door Senior Center, 168, Grand Street, Little Italy, Manhattan, New York County, NYC, New York, 10013, United States of America",
+    "class": "amenity",
+    "type": "community_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649248057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2404210863",
+    "boundingbox": [
+      "47.612194",
+      "47.612294",
+      "-122.3337027",
+      "-122.3336027"
+    ],
+    "lat": "47.612244",
+    "lon": "-122.3336527",
+    "display_name": "NYC, 1520, 7th Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "42390957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3079803068",
+    "boundingbox": [
+      "42.3894864",
+      "42.3895864",
+      "18.9244394",
+      "18.9245394"
+    ],
+    "lat": "42.3895364",
+    "lon": "18.9244894",
+    "display_name": "NYC, Bal\u0161i\u0107a Pazar, Borovik, Cetinje, Op\u0161tina Cetinje, 81250, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "51619766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3869479703",
+    "boundingbox": [
+      "41.8105259",
+      "41.8106259",
+      "12.3002866",
+      "12.3003866"
+    ],
+    "lat": "41.8105759",
+    "lon": "12.3003366",
+    "display_name": "NYC, Via Alessandro Volta, Pleiadi, Fiumicino, RM, LAZ, 00119, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "128332108",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "277176271",
+    "boundingbox": [
+      "40.763427",
+      "40.7638735",
+      "-73.7698392",
+      "-73.768903"
+    ],
+    "lat": "40.76365535",
+    "lon": "-73.7693714286312",
+    "display_name": "Bayside Municipal Parking Field, 214th Place, Bayside, Queens, Queens County, NYC, New York, 11361, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4076900",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "439672772",
+    "boundingbox": [
+      "45.3548384",
+      "45.3549384",
+      "9.6542601",
+      "9.6543601"
+    ],
+    "lat": "45.3548884",
+    "lon": "9.6543101",
+    "display_name": "Nyc, Piazza Benvenuti, Ombriano, Crema, CR, LOM, 26013, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15692209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1416117213",
+    "boundingbox": [
+      "55.8629835",
+      "55.8630835",
+      "-4.2580839",
+      "-4.2579839"
+    ],
+    "lat": "55.8630335",
+    "lon": "-4.2580339",
+    "display_name": "NYC, 185, Hope Street, Cranston Hill, Blythswood Hill, Glasgow City, Scotland, G2 2UL, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "103104425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167556128",
+    "boundingbox": [
+      "38.8791497",
+      "38.9674309",
+      "-87.0869171",
+      "-86.9806276"
+    ],
+    "lat": "38.9232887",
+    "lon": "-87.0343533",
+    "display_name": "NYC, Slinkard Road, Greene County, Indiana, 47449, United States of America",
+    "class": "railway",
+    "type": "abandoned",
+    "importance": 0.101
+  }
+]

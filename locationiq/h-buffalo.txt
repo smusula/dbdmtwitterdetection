@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160286989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175031",
+    "boundingbox": [
+      "42.8260387",
+      "42.9664686",
+      "-78.9194527",
+      "-78.7951676"
+    ],
+    "lat": "42.8867166",
+    "lon": "-78.8783921",
+    "display_name": "Buffalo, Erie County, New York, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.72098847269264,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160271038",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "129014",
+    "boundingbox": [
+      "41.451254",
+      "41.490974",
+      "-90.7862159",
+      "-90.6688809"
+    ],
+    "lat": "41.4564205",
+    "lon": "-90.7234746",
+    "display_name": "Buffalo, Scott County, Iowa, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50577232180795,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160300880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "252241",
+    "boundingbox": [
+      "44.3245918",
+      "44.3650086",
+      "-106.7506094",
+      "-106.6697279"
+    ],
+    "lat": "44.348308",
+    "lon": "-106.6989379",
+    "display_name": "Buffalo, Johnson County, Wyoming, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50464953206564,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160275144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "137858",
+    "boundingbox": [
+      "45.137386",
+      "45.212331",
+      "-93.9101389",
+      "-93.8270319"
+    ],
+    "lat": "45.1719084",
+    "lon": "-93.874694",
+    "display_name": "Buffalo, Wright County, Minnesota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.5039994037711,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160461546",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1797826",
+    "boundingbox": [
+      "44.025315",
+      "44.5977556",
+      "-92.0838028",
+      "-91.5285419"
+    ],
+    "lat": "44.4073658",
+    "lon": "-91.7547857",
+    "display_name": "Buffalo County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48309104171738,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160430410",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1425468",
+    "boundingbox": [
+      "40.652958",
+      "41.047852",
+      "-99.4269029",
+      "-98.7218169"
+    ],
+    "lat": "40.8421618",
+    "lon": "-99.0845815",
+    "display_name": "Buffalo County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47653703780265,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160461157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1739796",
+    "boundingbox": [
+      "43.933184",
+      "44.198231",
+      "-99.5735019",
+      "-98.9256669"
+    ],
+    "lat": "44.0646363",
+    "lon": "-99.1707338",
+    "display_name": "Buffalo County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4653234953358,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160275686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "141791",
+    "boundingbox": [
+      "37.626567",
+      "37.669373",
+      "-93.1171609",
+      "-93.0731979"
+    ],
+    "lat": "37.6439289",
+    "lon": "-93.0924092",
+    "display_name": "Buffalo, Dallas County, Missouri, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.44354646925471,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160291147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "184812",
+    "boundingbox": [
+      "36.826261",
+      "36.847034",
+      "-99.6402889",
+      "-99.6202409"
+    ],
+    "lat": "36.8355869",
+    "lon": "-99.6303971",
+    "display_name": "Buffalo, Harper County, Oklahoma, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41673028276881,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160274885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "126291",
+    "boundingbox": [
+      "39.845949",
+      "39.854509",
+      "-89.4155519",
+      "-89.4026299"
+    ],
+    "lat": "39.852547",
+    "lon": "-89.4087031",
+    "display_name": "Buffalo, Sangamon County, Illinois, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39821395047302,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

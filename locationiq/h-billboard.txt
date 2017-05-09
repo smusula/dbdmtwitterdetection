@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "2730843",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356674503",
+    "boundingbox": [
+      "38.5398542",
+      "38.5598542",
+      "-109.6509176",
+      "-109.6309176"
+    ],
+    "lat": "38.5498542",
+    "lon": "-109.6409176",
+    "display_name": "The Billboard, Grand County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2654578914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4745393499",
+    "boundingbox": [
+      "1.2794444",
+      "1.2795444",
+      "103.8421156",
+      "103.8422156"
+    ],
+    "lat": "1.2794944",
+    "lon": "103.8421656",
+    "display_name": "Billboard, Neil Road, Chinatown, Tanjong Pagar, Singapore, Central Singapore Community Development Council, 088897, Singapore",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45858271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3255304186",
+    "boundingbox": [
+      "45.0539714",
+      "45.0540714",
+      "7.6891346",
+      "7.6892346"
+    ],
+    "lat": "45.0540214",
+    "lon": "7.6891846",
+    "display_name": "Billboard, Corso Moncalieri, San Salvario, Circoscrizione 8, Torino, TO, PIE, 10131, Italia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "21599993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2145181453",
+    "boundingbox": [
+      "50.9486929",
+      "50.9487929",
+      "3.1295235",
+      "3.1296235"
+    ],
+    "lat": "50.9487429",
+    "lon": "3.1295735",
+    "display_name": "Billboard, Stationsplein, Krottegem, Aardappelhoek, Roeselare, West-Vlaanderen, Vlaanderen, 8800, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2860212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357303285",
+    "boundingbox": [
+      "46.0456167",
+      "46.0457167",
+      "-123.1957234",
+      "-123.1956234"
+    ],
+    "lat": "46.0456667",
+    "lon": "-123.1956734",
+    "display_name": "The Billboard, Clatskanie Heights Road, Clatskanie Heights, Columbia County, Oregon, 97016, United States of America",
+    "class": "natural",
+    "type": "cliff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650832567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4652876302",
+    "boundingbox": [
+      "13.7415212",
+      "13.7416212",
+      "100.5532559",
+      "100.5533559"
+    ],
+    "lat": "13.7415712",
+    "lon": "100.5533059",
+    "display_name": "Billboard, \u0e16\u0e19\u0e19\u0e2a\u0e38\u0e02\u0e38\u0e21\u0e27\u0e34\u0e17, \u0e40\u0e02\u0e15\u0e04\u0e25\u0e2d\u0e07\u0e40\u0e15\u0e22, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10330, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

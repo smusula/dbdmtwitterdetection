@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "89796916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114528788",
+    "boundingbox": [
+      "48.8448659",
+      "48.8456867",
+      "2.3174312",
+      "2.3187321"
+    ],
+    "lat": "48.8452878",
+    "lon": "2.31808398972586",
+    "display_name": "Futur Institut des Maladies G\u00e9n\u00e9tiques - Imagine, Necker, 15e, Paris, \u00cele-de-France, 75015, France",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "56623702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4424600923",
+    "boundingbox": [
+      "47.3774534",
+      "47.3775534",
+      "8.5407383",
+      "8.5408383"
+    ],
+    "lat": "47.3775034",
+    "lon": "8.5407883",
+    "display_name": "imagine, Passage Bahnhofstrasse, City, Altstadt, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8059, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "46730056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3388728193",
+    "boundingbox": [
+      "35.704868",
+      "35.704968",
+      "139.617901",
+      "139.618001"
+    ],
+    "lat": "35.704918",
+    "lon": "139.617951",
+    "display_name": "imagine, \u3059\u305a\u3089\u3093\u901a\u308a, \u5584\u798f\u5bfa, \u6749\u4e26\u533a, \u6771\u4eac\u90fd, 167-0043, \u65e5\u672c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2647087374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4568627822",
+    "boundingbox": [
+      "50.95607",
+      "50.95617",
+      "6.918974",
+      "6.919074"
+    ],
+    "lat": "50.95612",
+    "lon": "6.919024",
+    "display_name": "Imagine+, 28, Landmannstra\u00dfe, Neuehrenfeld, Ehrenfeld, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50825, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "3678242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "378321321",
+    "boundingbox": [
+      "47.3580261",
+      "47.3581261",
+      "8.5234595",
+      "8.5235595"
+    ],
+    "lat": "47.3580761",
+    "lon": "8.5235095",
+    "display_name": "Imagine, Kalanderplatz, Alt-Wiedikon, Wiedikon, Z\u00fcrich, Bezirk Z\u00fcrich, Z\u00fcrich, 8027, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "25482315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2458144402",
+    "boundingbox": [
+      "43.6029677",
+      "43.6030677",
+      "1.445843",
+      "1.445943"
+    ],
+    "lat": "43.6030177",
+    "lon": "1.445893",
+    "display_name": "Imagine, Rue de la Pomme, Capitole, Toulouse Centre, Toulouse, Haute-Garonne, Occitanie, 31000, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  },
+  {
+    "place_id": "46693247",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3349625272",
+    "boundingbox": [
+      "45.5527653",
+      "45.5528653",
+      "10.2233602",
+      "10.2234602"
+    ],
+    "lat": "45.5528153",
+    "lon": "10.2234102",
+    "display_name": "Imagine, Via Trento, Borgo Trento, Zona Nord, Brescia, BS, LOM, 25128, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56701451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4416760965",
+    "boundingbox": [
+      "50.8222767",
+      "50.8223767",
+      "12.9264462",
+      "12.9265462"
+    ],
+    "lat": "50.8223267",
+    "lon": "12.9264962",
+    "display_name": "Imagine, 9, Reichenhainer Stra\u00dfe, Bernsdorf, Chemnitz, Sachsen, 09126, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "82251526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81128620",
+    "boundingbox": [
+      "48.893325",
+      "48.8938703",
+      "2.264134",
+      "2.2648987"
+    ],
+    "lat": "48.8935993",
+    "lon": "2.26450604971573",
+    "display_name": "Imagine, Rue Benjamin Constant, Neuilly-sur-Seine, Arrondissement de Nanterre, Hauts-de-Seine, \u00cele-de-France, 92200, France",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "76006519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42969135",
+    "boundingbox": [
+      "45.4444802",
+      "45.4446984",
+      "-0.4357431",
+      "-0.4355718"
+    ],
+    "lat": "45.44455525",
+    "lon": "-0.435652404742503",
+    "display_name": "Imagine, 20-22, Rue de Verdun, Le Vert Galant, Bellevue, Jonzac, Charente-Maritime, Nouvelle-Aquitaine, 17500, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

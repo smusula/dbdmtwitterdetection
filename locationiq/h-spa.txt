@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160545592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2422528",
+    "boundingbox": [
+      "50.433642",
+      "50.5120846",
+      "5.8153032",
+      "5.9317147"
+    ],
+    "lat": "50.4920838",
+    "lon": "5.8626233",
+    "display_name": "Spa, Verviers, Li\u00e8ge, Wallonie, 4900, Belgi\u00eb - Belgique - Belgien",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.58797463590201,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "24884827",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2406235556",
+    "boundingbox": [
+      "54.3555173",
+      "54.3955173",
+      "-5.9189249",
+      "-5.8789249"
+    ],
+    "lat": "54.3755173",
+    "lon": "-5.8989249",
+    "display_name": "Spa, County Down, Northern Ireland, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.43897270397755,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74807782",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "39673486",
+    "boundingbox": [
+      "34.0938894",
+      "34.0956633",
+      "-117.6154766",
+      "-117.613286"
+    ],
+    "lat": "34.0943503",
+    "lon": "-117.614381315658",
+    "display_name": "KSPA-AM, 8729, 9th Street, Alta Loma, Rancho Cucamonga, San Bernardino County, California, 91730, United States of America",
+    "class": "man_made",
+    "type": "broadcast_station",
+    "importance": 0.43634000491239
+  },
+  {
+    "place_id": "405593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153657179",
+    "boundingbox": [
+      "36.9417114",
+      "36.9817114",
+      "-87.0247198",
+      "-86.9847198"
+    ],
+    "lat": "36.9617114",
+    "lon": "-87.0047198",
+    "display_name": "Spa, Logan County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "38784345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2901483230",
+    "boundingbox": [
+      "52.6320084",
+      "52.6520084",
+      "-0.5056299",
+      "-0.4856299"
+    ],
+    "lat": "52.6420084",
+    "lon": "-0.4956299",
+    "display_name": "The Spa, South Kesteven, Lincolnshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "244405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "52259441",
+    "boundingbox": [
+      "52.273333",
+      "52.293333",
+      "-9.7933329",
+      "-9.7733329"
+    ],
+    "lat": "52.283333",
+    "lon": "-9.7833329",
+    "display_name": "Spa, Ballynahaglish, Tralee, County Kerry, Munster, Ireland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160621426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3266706",
+    "boundingbox": [
+      "53.9773135",
+      "53.9894946",
+      "-8.3237584",
+      "-8.306038"
+    ],
+    "lat": "53.98344235",
+    "lon": "-8.31554297631086",
+    "display_name": "Spa, Boyle Rural ED, Municipal District of Boyle, County Roscommon, Connacht, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160915638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5639954",
+    "boundingbox": [
+      "52.3471185",
+      "52.3515198",
+      "-7.6889268",
+      "-7.676144"
+    ],
+    "lat": "52.3494635",
+    "lon": "-7.68257008181311",
+    "display_name": "Spa, St. Mary's, Comeragh, County Waterford, Munster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "27066361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2581891487",
+    "boundingbox": [
+      "48.1096874",
+      "48.1097874",
+      "-1.733834",
+      "-1.733734"
+    ],
+    "lat": "48.1097374",
+    "lon": "-1.733784",
+    "display_name": "SPA, 5, Rue Lieutenant-Colonel Dubois, Z.A. Ouest, Bourg l'\u00c9vesque - La Touche - Moulin du Comte, Quartiers Ouest, Rennes, Ille-et-Vilaine, Bretagne, 35000, France",
+    "class": "amenity",
+    "type": "animal_shelter",
+    "importance": 0.31606775332943
+  },
+  {
+    "place_id": "96709664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "140791747",
+    "boundingbox": [
+      "-28.2226193",
+      "-28.222548",
+      "-65.8748562",
+      "-65.8748052"
+    ],
+    "lat": "-28.22258325",
+    "lon": "-65.8748307610422",
+    "display_name": "Spa, El Rodeo, Departamento Ambato, CTM, Argentina",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "51411844",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3843990901",
+    "boundingbox": [
+      "34.1842555",
+      "34.1843555",
+      "-118.8876474",
+      "-118.8875474"
+    ],
+    "lat": "34.1843055",
+    "lon": "-118.8875974",
+    "display_name": "Cheesecake, 350, West Hillcrest Drive, Thousand Oaks, Ventura County, California, 91360, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "159579555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443505279",
+    "boundingbox": [
+      "39.0013559",
+      "39.0013769",
+      "-76.5845807",
+      "-76.5845553"
+    ],
+    "lat": "39.00136635",
+    "lon": "-76.5845679768093",
+    "display_name": "Cheesecake, Kenwood Lane, Sylmac, Anne Arundel County, Maryland, 21401, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49220714",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3638341036",
+    "boundingbox": [
+      "14.6357867",
+      "14.6358867",
+      "121.0013874",
+      "121.0014874"
+    ],
+    "lat": "14.6358367",
+    "lon": "121.0014374",
+    "display_name": "Cheesecake, 780, Banawe, Lourdes, Santa Mesa Heights, District I, Quezon City, Metro Manila, 1115, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

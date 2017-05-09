@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "128556250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278346578",
+    "boundingbox": [
+      "40.7612683",
+      "40.7619557",
+      "-73.9781234",
+      "-73.9769665"
+    ],
+    "lat": "40.7616124",
+    "lon": "-73.9774990821081",
+    "display_name": "MOMA, 11, West 53rd Street, Diamond District, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.63531537988207,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "160308670",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "314826",
+    "boundingbox": [
+      "-19.9349999",
+      "-19.7549999",
+      "-45.5093166",
+      "-45.2899999"
+    ],
+    "lat": "-19.8435408",
+    "lon": "-45.410624",
+    "display_name": "Moema, Microrregi\u00e3o Bom Despacho, Mesorregi\u00e3o Central Mineira, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.51051364851009,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "29445596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2714628617",
+    "boundingbox": [
+      "-23.6170849",
+      "-23.5770849",
+      "-46.6828883",
+      "-46.6428883"
+    ],
+    "lat": "-23.5970849",
+    "lon": "-46.6628883",
+    "display_name": "Moema, SP, Microrregi\u00e3o de S\u00e3o Paulo, RMSP, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35360614674645,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160286745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "174359",
+    "boundingbox": [
+      "65.5379649",
+      "66.4407304",
+      "143.178382",
+      "146.6422215"
+    ],
+    "lat": "65.9399363",
+    "lon": "144.9639974",
+    "display_name": "\u041c\u043e\u043c\u0430, \u041c\u043e\u043c\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.35
+  },
+  {
+    "place_id": "2609700604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298564912",
+    "boundingbox": [
+      "66.1966381",
+      "66.2071338",
+      "143.5486493",
+      "143.5725682"
+    ],
+    "lat": "66.1994885",
+    "lon": "143.5579923",
+    "display_name": "\u041c\u043e\u043c\u0430, \u0421\u043e\u0431\u043e\u043b\u043e\u0445\u0441\u043a\u0438\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0430\u0441\u043b\u0435\u0433, \u041c\u043e\u043c\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2610169009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154902661",
+    "boundingbox": [
+      "65.0852916",
+      "65.4554439",
+      "146.7367091",
+      "147.0978361"
+    ],
+    "lat": "65.3104111",
+    "lon": "146.891989",
+    "display_name": "\u041c\u043e\u043c\u0430, \u0423\u043b\u0430\u0445\u0430\u043d-\u0427\u0438\u0441\u0442\u0430\u0439\u0441\u043a\u0438\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0430\u0441\u043b\u0435\u0433, \u041c\u043e\u043c\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2609754015",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "452121894",
+    "boundingbox": [
+      "66.346102",
+      "66.3472769",
+      "143.3209774",
+      "143.3229084"
+    ],
+    "lat": "66.3466558",
+    "lon": "143.3222012",
+    "display_name": "\u041c\u043e\u043c\u0430, \u041c\u043e\u043c\u0441\u043a\u0438\u0439 \u043d\u0430\u0446\u0438\u043e\u043d\u0430\u043b\u044c\u043d\u044b\u0439 \u043d\u0430\u0441\u043b\u0435\u0433, \u041c\u043e\u043c\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  }
+]

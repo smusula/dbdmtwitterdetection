@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "67273091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20965927",
+    "boundingbox": [
+      "32.213507",
+      "32.214806",
+      "-95.8916429",
+      "-95.8909759"
+    ],
+    "lat": "32.214141",
+    "lon": "-95.8913689",
+    "display_name": "Legendary, Henderson County, Texas, 75751, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "149817343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388269279",
+    "boundingbox": [
+      "42.4935375",
+      "42.4954796",
+      "-73.2943424",
+      "-73.2917417"
+    ],
+    "lat": "42.4944017",
+    "lon": "-73.2929814",
+    "display_name": "Legendary, Pittsfield, Berkshire County, Massachusetts, 01237, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2654362398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740150408",
+    "boundingbox": [
+      "1.3162024",
+      "1.3163024",
+      "103.8533401",
+      "103.8534401"
+    ],
+    "lat": "1.3162524",
+    "lon": "103.8533901",
+    "display_name": "Legendary, Rangoon Road, Little India, Singapore, Central Singapore Community Development Council, 218431, Singapore",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "50024306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3711673192",
+    "boundingbox": [
+      "38.7988355",
+      "38.7989355",
+      "-9.3873009",
+      "-9.3872009"
+    ],
+    "lat": "38.7988855",
+    "lon": "-9.3872509",
+    "display_name": "Legendary, Rua Doutor Alfredo da Costa, Estef\u00e2nea, Santa Maria e S\u00e3o Miguel, Sintra, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, 2710-529, Portugal",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

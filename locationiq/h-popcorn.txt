@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "399331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153745308",
+    "boundingbox": [
+      "38.9558813",
+      "38.9958813",
+      "-86.6769436",
+      "-86.6369436"
+    ],
+    "lat": "38.9758813",
+    "lon": "-86.6569436",
+    "display_name": "Popcorn, Lawrence County, Indiana, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37483378640496,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "61722800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12106350",
+    "boundingbox": [
+      "33.1800862",
+      "33.186484",
+      "-81.0402422",
+      "-81.0362111"
+    ],
+    "lat": "33.1830404",
+    "lon": "-81.0377424",
+    "display_name": "Popcorn, Clear Pond, Bamberg County, South Carolina, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18342880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1781389246",
+    "boundingbox": [
+      "51.526383",
+      "51.526483",
+      "-0.0795933",
+      "-0.0794933"
+    ],
+    "lat": "51.526433",
+    "lon": "-0.0795433",
+    "display_name": "Popcorn, 6-8, Standard Place, Shoreditch, London Borough of Hackney, London, Greater London, England, EC2, UK",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652476418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475721744",
+    "boundingbox": [
+      "28.4763525",
+      "28.4763888",
+      "-81.4693597",
+      "-81.469315"
+    ],
+    "lat": "28.4763707",
+    "lon": "-81.4693373441808",
+    "display_name": "Popcorn, Backlot Drive, Florida Center, Orlando, Orange County, Florida, 32819, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49784598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3688860645",
+    "boundingbox": [
+      "33.8047943",
+      "33.8048943",
+      "-117.9221264",
+      "-117.9220264"
+    ],
+    "lat": "33.8048443",
+    "lon": "-117.9220764",
+    "display_name": "Popcorn Paradise Pier, 1620, South Disneyland Drive, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+    "class": "shop",
+    "type": "kiosk",
+    "importance": 0.101
+  },
+  {
+    "place_id": "105121648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "175020011",
+    "boundingbox": [
+      "33.808178",
+      "33.8081922",
+      "-117.9204668",
+      "-117.9204303"
+    ],
+    "lat": "33.8081851",
+    "lon": "-117.920448525177",
+    "display_name": "Popcorn Grizzly Peak, Red Top Road, Anaheim Resort District, Anaheim, Orange County, California, 92802, United States of America",
+    "class": "amenity",
+    "type": "snack_stand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645470976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4530481931",
+    "boundingbox": [
+      "-19.9395755",
+      "-19.9394755",
+      "-43.9357607",
+      "-43.9356607"
+    ],
+    "lat": "-19.9395255",
+    "lon": "-43.9357107",
+    "display_name": "Popcorn, Rua Fernandes Tourinho, Savassi, Regional Centro-Sul, BH, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, 30320-380, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "15977133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1446275790",
+    "boundingbox": [
+      "50.9534781",
+      "50.9535781",
+      "3.1163065",
+      "3.1164065"
+    ],
+    "lat": "50.9535281",
+    "lon": "3.1163565",
+    "display_name": "Popcorn, 124, Hoogleedsesteenweg, Beekkwartier, Rijgerie, Roeselare, West-Vlaanderen, Vlaanderen, 8800, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "music",
+    "importance": 0.101
+  },
+  {
+    "place_id": "124991492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "257626145",
+    "boundingbox": [
+      "48.4242191",
+      "48.4242699",
+      "10.3026847",
+      "10.3027612"
+    ],
+    "lat": "48.4242437",
+    "lon": "10.302723904244",
+    "display_name": "Popcorn, Wartebereich 54, Deffingen, G\u00fcnzburg, Landkreis G\u00fcnzburg, Schwaben, Bayern, 89312, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "112381645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205740146",
+    "boundingbox": [
+      "22.3071551",
+      "22.3088921",
+      "114.2584187",
+      "114.2610203"
+    ],
+    "lat": "22.30802665",
+    "lon": "114.260195295553",
+    "display_name": "PopCorn, \u5bf6\u9091\u8def Po Yap Road, \u5c07\u8ecd\u6fb3\u5e02\u4e2d\u5fc3 Tseung Kwan O Town Centre, \u5c07\u8ecd\u6fb3 Tseung Kwan O, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.101
+  }
+]

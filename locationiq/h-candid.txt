@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "97186968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "142970760",
+    "boundingbox": [
+      "48.1128428",
+      "48.1129816",
+      "11.5647595",
+      "11.5665486"
+    ],
+    "lat": "48.1129282",
+    "lon": "11.565769",
+    "display_name": "Candidstra\u00dfe, Siebenbrunn, Bezirksteil Siebenbrunn, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81543, Deutschland",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.2
+  },
+  {
+    "place_id": "131238709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "292773763",
+    "boundingbox": [
+      "48.1117549",
+      "48.1118806",
+      "11.5707424",
+      "11.5730996"
+    ],
+    "lat": "48.1117702",
+    "lon": "11.5717687",
+    "display_name": "Candidstra\u00dfe, Bezirksteil Untergiesing, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81543, Deutschland",
+    "class": "highway",
+    "type": "trunk",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98942728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151652975",
+    "boundingbox": [
+      "48.1107946",
+      "48.1120684",
+      "11.5702682",
+      "11.5760429"
+    ],
+    "lat": "48.1116046",
+    "lon": "11.5729966",
+    "display_name": "Candidstra\u00dfe, Bezirksteil Untergiesing, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81543, Deutschland",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "118337242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229715420",
+    "boundingbox": [
+      "48.110697",
+      "48.1116668",
+      "11.5704909",
+      "11.5732354"
+    ],
+    "lat": "48.1107301",
+    "lon": "11.5719382",
+    "display_name": "Candidstra\u00dfe, Siebenbrunn, Bezirksteil Siebenbrunn, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81543, Deutschland",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "137486727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321353354",
+    "boundingbox": [
+      "48.1116923",
+      "48.1118378",
+      "11.5750531",
+      "11.5757625"
+    ],
+    "lat": "48.1118157",
+    "lon": "11.575217",
+    "display_name": "Candidstra\u00dfe, Bezirksteil Giesing, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81539, Deutschland",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  }
+]

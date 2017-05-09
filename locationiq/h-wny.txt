@@ -1,0 +1,132 @@
+[
+  {
+    "place_id": "46512399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3355110371",
+    "boundingbox": [
+      "36.5106444",
+      "36.5506444",
+      "50.6675008",
+      "50.7075008"
+    ],
+    "lat": "36.5306444",
+    "lon": "50.6875008",
+    "display_name": "\u06af\u0648\u0633\u0641\u0646\u062f \u0633\u0631\u0627\u06cc \u0648\u0646\u06cc, \u0628\u062e\u0634 \u062e\u0631\u0645 \u0622\u0628\u0627\u062f, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0646\u06a9\u0627\u0628\u0646, \u0627\u0633\u062a\u0627\u0646 \u0645\u0627\u0632\u0646\u062f\u0631\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610013883",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4496582180",
+    "boundingbox": [
+      "36.8605919",
+      "36.9005919",
+      "48.8752174",
+      "48.9152174"
+    ],
+    "lat": "36.8805919",
+    "lon": "48.8952174",
+    "display_name": "\u0648\u0646\u06cc \u0633\u0631, \u0628\u062e\u0634 \u0686\u0648\u0631\u0632\u0642, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u0637\u0627\u0631\u0645, \u0627\u0633\u062a\u0627\u0646 \u0632\u0646\u062c\u0627\u0646\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25654365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2480203133",
+    "boundingbox": [
+      "36.499511",
+      "36.539511",
+      "41.392015",
+      "41.432015"
+    ],
+    "lat": "36.519511",
+    "lon": "41.412015",
+    "display_name": "\u0623\u0628\u0648 \u0648\u0646\u064a, \u0646\u06cc\u0646\u0648\u0649, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "85951505",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "99658849",
+    "boundingbox": [
+      "42.8868335",
+      "42.8869927",
+      "-78.8732418",
+      "-78.8729896"
+    ],
+    "lat": "42.8869062",
+    "lon": "-78.8731153370814",
+    "display_name": "WNY Book Arts Center, 468, Washington Street, Allentown, Buffalo, Erie County, New York, 14203, United States of America",
+    "class": "craft",
+    "type": "bookbinder",
+    "importance": 0.101
+  },
+  {
+    "place_id": "127926376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "274459973",
+    "boundingbox": [
+      "42.884735",
+      "42.8859802",
+      "-78.8836202",
+      "-78.8821214"
+    ],
+    "lat": "42.8853564",
+    "lon": "-78.8828715323302",
+    "display_name": "Blue Cross Blue Shield Of WNY, 4th Street, Allentown, Buffalo, Erie County, New York, 14202, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2650999218",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4658539341",
+    "boundingbox": [
+      "42.8242563",
+      "42.8243563",
+      "-78.8027226",
+      "-78.8026226"
+    ],
+    "lat": "42.8243063",
+    "lon": "-78.8026726",
+    "display_name": "All American Sign WNY, 1486, Abbott Road, Lackawanna, Erie County, New York, 14218, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25839003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2480203146",
+    "boundingbox": [
+      "36.524788",
+      "36.524888",
+      "41.399398",
+      "41.399498"
+    ],
+    "lat": "36.524838",
+    "lon": "41.399448",
+    "display_name": "\u062a\u0644 \u0623\u0628\u0648 \u0648\u0646\u064a, Al-Hasakah, \u0633\u0648\u0631\u064a\u0627",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  }
+]

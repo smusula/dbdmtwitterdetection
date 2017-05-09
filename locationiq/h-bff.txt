@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "3479024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "368386851",
+    "boundingbox": [
+      "41.8587645",
+      "41.8887645",
+      "-103.6104261",
+      "-103.5804261"
+    ],
+    "lat": "41.8737645",
+    "lon": "-103.5954261",
+    "display_name": "Western Nebraska Regional Airport, Apron Drive, Hillerage, Scotts Bluff County, Nebraska, 69361, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.2187004523946,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "45288560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3204446961",
+    "boundingbox": [
+      "12.1387131",
+      "12.1388131",
+      "75.2532696",
+      "75.2533696"
+    ],
+    "lat": "12.1387631",
+    "lon": "75.2533196",
+    "display_name": "bff, Perumba-Korom-Mathil, Perumba, Kanayi, Kannur district, Kerala, India",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2645962209",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4390635304",
+    "boundingbox": [
+      "-17.7665331",
+      "-17.7664331",
+      "-63.1945002",
+      "-63.1944002"
+    ],
+    "lat": "-17.7664831",
+    "lon": "-63.1944502",
+    "display_name": "BFF, Avenida San Mart\u00edn, Faremafu, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18886231",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1836862135",
+    "boundingbox": [
+      "52.9895942",
+      "52.9995942",
+      "-3.9429223",
+      "-3.9329223"
+    ],
+    "lat": "52.9945942",
+    "lon": "-3.9379223",
+    "display_name": "Blaenau Ffestiniog, Church Street, Maen-offeren, Ffestiniog Community, Blaenau Ffestiniog, Gwynedd, Wales, LL41 3HE, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

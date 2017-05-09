@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": "2655326055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4758073503",
+    "boundingbox": [
+      "24.3717263",
+      "24.3718263",
+      "54.48311",
+      "54.48321"
+    ],
+    "lat": "24.3717763",
+    "lon": "54.48316",
+    "display_name": "Techno, 8th Street, Musaffah Industrial Area, Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 38575, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "craft",
+    "type": "window_construction",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46855804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3392164235",
+    "boundingbox": [
+      "45.3141259",
+      "45.3142259",
+      "18.4133567",
+      "18.4134567"
+    ],
+    "lat": "45.3141759",
+    "lon": "18.4134067",
+    "display_name": "TECHNO, 68, Bana Josipa Jela\u010di\u0107a, Centar, \u0110akovo, Osje\u010dko-Baranjska \u017eupanija, 31400, Hrvatska",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "144859089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365173440",
+    "boundingbox": [
+      "36.4726582",
+      "36.4729688",
+      "2.8206945",
+      "2.8211022"
+    ],
+    "lat": "36.4728178",
+    "lon": "2.82090143329072",
+    "display_name": "Techno, Rue Mekerkeb Benyoucef, Cit\u00e9 les Rosiers, Blida, Da\u00efra Blida, Blida - \u0627\u0644\u0628\u0644\u064a\u062f\u0629, 09000, RADP",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55611253",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4322802089",
+    "boundingbox": [
+      "-21.4475149",
+      "-21.4474149",
+      "47.0878287",
+      "47.0879287"
+    ],
+    "lat": "-21.4474649",
+    "lon": "47.0878787",
+    "display_name": "Techno, Place Leong Ku, Ambatomena, Tanana Ambany, Fianarantsoa, District de Fianarantsoa, Province de Fianarantsoa, 301, Madagasikara",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52290508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3941644417",
+    "boundingbox": [
+      "1.071476",
+      "1.071576",
+      "34.1808234",
+      "34.1809234"
+    ],
+    "lat": "1.071526",
+    "lon": "34.1808734",
+    "display_name": "Techno, 13, Naboa, Mbale, Bugisa sub-region, Mbale, Eastern Region, 2021, Uganda",
+    "class": "shop",
+    "type": "phone shop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17673090",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1727617175",
+    "boundingbox": [
+      "36.7560261",
+      "36.7561261",
+      "2.9514697",
+      "2.9515697"
+    ],
+    "lat": "36.7560761",
+    "lon": "2.9515197",
+    "display_name": "Techno, Lot n\u00b0 1, Boulevard Berraf Djilali, Zone d'Activit\u00e9 Ameur Djemaa, El Karia (Cheraga), Cheraga, Da\u00efra Cheraga, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16014, RADP",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27032707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2559486901",
+    "boundingbox": [
+      "36.7378871",
+      "36.7379871",
+      "3.043478",
+      "3.043578"
+    ],
+    "lat": "36.7379371",
+    "lon": "3.043528",
+    "display_name": "Techno, Chemin Sa\u00efd Hamdine, Said Hamdine, Bir Mourad Ra\u00efs, Da\u00efra Bir Mourad Rais, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16035, RADP",
+    "class": "shop",
+    "type": "stationery",
+    "importance": 0.101
+  }
+]

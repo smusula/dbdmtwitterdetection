@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "108991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "13973356",
+    "boundingbox": [
+      "50.8368688",
+      "50.8468688",
+      "-1.0723901",
+      "-1.0623901"
+    ],
+    "lat": "50.8418688",
+    "lon": "-1.0673901",
+    "display_name": "Cosham Station, Windsor Road, Wymering, Cosham, Portsmouth, South East, England, PO6 2SN, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.29977507250156,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "85297553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "96621663",
+    "boundingbox": [
+      "56.0567317",
+      "56.0585919",
+      "-6.2479308",
+      "-6.2382916"
+    ],
+    "lat": "56.0576151",
+    "lon": "-6.24318242237544",
+    "display_name": "Colonsay Airport, B8086, Upper Kilchattan, Argyll and Bute, Scotland, UK",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.25699840250201,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "130577390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289294977",
+    "boundingbox": [
+      "-22.9311292",
+      "-22.898292",
+      "-43.7772453",
+      "-43.7153098"
+    ],
+    "lat": "-22.91399625",
+    "lon": "-43.7403956359642",
+    "display_name": "CSA, Santa Cruz, Rio de Janeiro, Microrregi\u00e3o Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, Brasil",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.254561534822
+  },
+  {
+    "place_id": "80231376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66725044",
+    "boundingbox": [
+      "49.8338663",
+      "49.8343455",
+      "18.47099",
+      "18.4736484"
+    ],
+    "lat": "49.8339495",
+    "lon": "18.4725374",
+    "display_name": "\u010cSA, Karvin\u00e1-Doly, Karvin\u00e1, okres Karvin\u00e1, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 73533, \u010cesko",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "77146640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "48687896",
+    "boundingbox": [
+      "49.8452163",
+      "49.849037",
+      "18.5048285",
+      "18.5144037"
+    ],
+    "lat": "49.8477375",
+    "lon": "18.5093642",
+    "display_name": "\u010cSA, Karvin\u00e1-Doly, Karvin\u00e1, okres Karvin\u00e1, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 73506, \u010cesko",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "80245915",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66725045",
+    "boundingbox": [
+      "49.8339454",
+      "49.8341963",
+      "18.4735334",
+      "18.4739596"
+    ],
+    "lat": "49.8341963",
+    "lon": "18.4735334",
+    "display_name": "\u010cSA, Karvin\u00e1-Doly, Karvin\u00e1, okres Karvin\u00e1, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 73533, \u010cesko",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "76784666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47042628",
+    "boundingbox": [
+      "49.7300348",
+      "49.731375",
+      "17.2965969",
+      "17.2972081"
+    ],
+    "lat": "49.7307301",
+    "lon": "17.2970544",
+    "display_name": "\u010cSA, Sv\u011btlov, \u0160ternberk, okres Olomouc, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 78501, \u010cesko",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "76130134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44198819",
+    "boundingbox": [
+      "49.9075083",
+      "49.9079589",
+      "16.9156694",
+      "16.9206321"
+    ],
+    "lat": "49.9079589",
+    "lon": "16.9206321",
+    "display_name": "\u010cSA, Post\u0159elmov, okres \u0160umperk, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 78969, \u010cesko",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "2608130588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "174579961",
+    "boundingbox": [
+      "50.3103615",
+      "50.3132314",
+      "12.8613895",
+      "12.8669424"
+    ],
+    "lat": "50.311354",
+    "lon": "12.863954",
+    "display_name": "\u010cSA, Hrozn\u011bt\u00edn, okres Karlovy Vary, Karlovarsk\u00fd kraj, Severoz\u00e1pad, 36233, \u010cesko",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.1
+  },
+  {
+    "place_id": "88736657",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110890271",
+    "boundingbox": [
+      "49.5925953",
+      "49.5928422",
+      "17.3548698",
+      "17.3565786"
+    ],
+    "lat": "49.5927091",
+    "lon": "17.3557475",
+    "display_name": "\u010cSA, Velk\u00e1 Byst\u0159ice, okres Olomouc, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 78353, \u010cesko",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.1
+  }
+]

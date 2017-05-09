@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "713701",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "255130835",
+    "boundingbox": [
+      "42.670611",
+      "42.670711",
+      "23.2673265",
+      "23.2674265"
+    ],
+    "lat": "42.670661",
+    "lon": "23.2673765",
+    "display_name": "\u0412\u0438\u0441\u0448\u0435 \u0443\u0447\u0438\u043b\u0438\u0449\u0435 \u043f\u043e \u0437\u0430\u0441\u0442\u0440\u0430\u0445\u043e\u0432\u0430\u043d\u0435 \u0438 \u0444\u0438\u043d\u0430\u043d\u0441\u0438, 1, \u0413\u0443\u0441\u043b\u0430, \u043a\u0432. \u041e\u0432\u0447\u0430 \u043a\u0443\u043f\u0435\u043b, \u0440\u0430\u0439\u043e\u043d \u041e\u0432\u0447\u0430 \u041a\u0443\u043f\u0435\u043b, \u041e\u0431\u043b\u0430\u0441\u0442 \u0421\u043e\u0444\u0438\u044f-\u0413\u0440\u0430\u0434, 1618, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.31490776660872,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "2912216",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357648474",
+    "boundingbox": [
+      "40.6916587",
+      "40.6917587",
+      "-73.9333113",
+      "-73.9332113"
+    ],
+    "lat": "40.6917087",
+    "lon": "-73.9332613",
+    "display_name": "K385 School of Business Finance and Entrepreneurship, 125, Stuyvesant Avenue, Bedford-Stuyvesant, BK, Kings County, NYC, New York, 11233, United States of America",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "90326469",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "116077923",
+    "boundingbox": [
+      "52.2086007",
+      "52.2089477",
+      "0.0895936",
+      "0.0901831"
+    ],
+    "lat": "52.2087769",
+    "lon": "0.0896981732186742",
+    "display_name": "Entrepreneurship Centre, Hauser Forum, 3, Charles Babbage Road, Newnham Ward, Cambridge, Cambridgeshire, East of England, England, CB3 0GT, UK",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "2943815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357363643",
+    "boundingbox": [
+      "45.5684655",
+      "45.5685655",
+      "-122.5782269",
+      "-122.5781269"
+    ],
+    "lat": "45.5685155",
+    "lon": "-122.5781769",
+    "display_name": "Leadership and Entrepreneurship Public Charter High School, Northeast 82nd Avenue Frontage Road, Cully, Portland, Multnomah County, Oregon, 97218, United States of America",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "45394697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3223783394",
+    "boundingbox": [
+      "38.9671771",
+      "38.9672771",
+      "-95.263687",
+      "-95.263587"
+    ],
+    "lat": "38.9672271",
+    "lon": "-95.263637",
+    "display_name": "Lawrence Center for Entrepreneurship, 925, Iowa Street, Lawrence, Douglas County, Kansas, 66044, United States of America",
+    "class": "office",
+    "type": "association",
+    "importance": 0.101
+  },
+  {
+    "place_id": "74305563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37974511",
+    "boundingbox": [
+      "13.0137429",
+      "13.0139687",
+      "77.5701649",
+      "77.5705163"
+    ],
+    "lat": "13.013857",
+    "lon": "77.5703418795505",
+    "display_name": "Entrepreneurship Centre, SID, CV Raman Road, RMV Stage II - 1st Block, Sadhashivanagar, Bengaluru, Bangalore Urban, Karnataka, 560012, India",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "93422712",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "127291730",
+    "boundingbox": [
+      "43.1583354",
+      "43.1589458",
+      "-77.605098",
+      "-77.6045768"
+    ],
+    "lat": "43.15861185",
+    "lon": "-77.60486440962",
+    "display_name": "RIT Center For Urban Entrepreneurship, 40, Franklin Street, Rochester, Monroe County, New York, 14604, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651562598",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4674491990",
+    "boundingbox": [
+      "51.4520087",
+      "51.4521087",
+      "7.3534663",
+      "7.3535663"
+    ],
+    "lat": "51.4520587",
+    "lon": "7.3535163",
+    "display_name": "EZW Entrepreneurship Zentrum Witten gGmbH, 45, Alfred-Herrhausen-Stra\u00dfe, Wullen, Annen, Witten, Ennepe-Ruhr-Kreis, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 58455, Deutschland",
+    "class": "amenity",
+    "type": "coworking_space",
+    "importance": 0.101
+  },
+  {
+    "place_id": "125700516",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260986707",
+    "boundingbox": [
+      "49.0119043",
+      "49.0119831",
+      "8.4115571",
+      "8.411701"
+    ],
+    "lat": "49.01194395",
+    "lon": "8.41165686974435",
+    "display_name": "Center f\u00fcr Innovation & Entrepreneurship, 9, Engesserstra\u00dfe, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 76131, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "100894176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "159352644",
+    "boundingbox": [
+      "35.3291069",
+      "35.329259",
+      "-120.743562",
+      "-120.7434074"
+    ],
+    "lat": "35.32918295",
+    "lon": "-120.7434847",
+    "display_name": "Business and Entrepreneurship Center (2800), Chorro Valley Road, San Luis Obispo, San Luis Obispo County, California, 93403, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

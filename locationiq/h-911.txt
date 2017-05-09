@@ -1,0 +1,182 @@
+[
+  {
+    "place_id": "17530406",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1686035468",
+    "boundingbox": [
+      "41.6694044",
+      "41.6695044",
+      "1.9915271",
+      "1.9916271"
+    ],
+    "lat": "41.6694544",
+    "lon": "1.9915771",
+    "display_name": "911, Mura, Bages, BCN, CAT, Espa\u00f1a",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.41,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160547948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2521596",
+    "boundingbox": [
+      "63.5610243",
+      "63.882017",
+      "28.3592325",
+      "29.1952268"
+    ],
+    "lat": "63.6791229",
+    "lon": "28.8148724",
+    "display_name": "Valtimo, Pielisen Karjalan seutukunta, Pohjois-Karjala, It\u00e4-Suomen aluehallintovirasto, It\u00e4-Suomi, Suomi",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38803369001725,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161843613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "22.586607321249",
+      "22.586707321249",
+      "120.53528855094",
+      "120.53538855094"
+    ],
+    "lat": "22.5866573212493",
+    "lon": "120.535338550943",
+    "display_name": "\u7af9\u7530\u9109, \u5c4f\u6771\u7e23, 911, \u81fa\u7063",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "88280020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109402741",
+    "boundingbox": [
+      "43.5428637",
+      "43.5537344",
+      "27.8434002",
+      "27.8487754"
+    ],
+    "lat": "43.5478134",
+    "lon": "27.8463028284052",
+    "display_name": "911, \u0436.\u043a. \u0414\u0440\u0443\u0436\u0431\u0430 3, \u041e\u0431\u0449\u0438\u043d\u0430 \u0414\u043e\u0431\u0440\u0438\u0447, \u041e\u0431\u043b\u0430\u0441\u0442 \u0414\u043e\u0431\u0440\u0438\u0447, 9300, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.31
+  },
+  {
+    "place_id": "106571003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180930074",
+    "boundingbox": [
+      "61.3344922",
+      "61.3357627",
+      "76.6878115",
+      "76.6897194"
+    ],
+    "lat": "61.3352226",
+    "lon": "76.6887515242559",
+    "display_name": "\u041a\u0443\u0441\u0442 911, \u041d\u0438\u0436\u043d\u0435\u0432\u0430\u0440\u0442\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "77634596",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51086183",
+    "boundingbox": [
+      "15.4747537",
+      "15.4770727",
+      "-87.9800432",
+      "-87.9795414"
+    ],
+    "lat": "15.4760936",
+    "lon": "-87.9798395",
+    "display_name": "911, Rivera Hernandez, San Pedro Sula, Cort\u00e9s, 504, Honduras",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "91955982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "121754752",
+    "boundingbox": [
+      "68.6927979",
+      "68.6928271",
+      "14.6009165",
+      "14.6021073"
+    ],
+    "lat": "68.6928271",
+    "lon": "14.6009165",
+    "display_name": "911, Mj\u00e5sund, B\u00f8, Nordland, 8475, Norge",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.21
+  },
+  {
+    "place_id": "77945427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51538665",
+    "boundingbox": [
+      "26.1109775",
+      "26.1123746",
+      "50.4985855",
+      "50.5016296"
+    ],
+    "lat": "26.1116573",
+    "lon": "50.4998698",
+    "display_name": "911, \u0645\u062f\u064a\u0646\u0629 \u062d\u0645\u062f\u200e, \u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0629 \u0627\u0644\u0634\u0645\u0627\u0644\u064a\u0629, \u200f\u0627\u0644\u0628\u062d\u0631\u064a\u0646\u200e",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "67981910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21982430",
+    "boundingbox": [
+      "40.6886543",
+      "40.6990435",
+      "-89.6943542",
+      "-89.6935022"
+    ],
+    "lat": "40.6937484",
+    "lon": "-89.6941235",
+    "display_name": "North Maxwell Road, Maxwell, Peoria County, Illinois, 61604, United States of America",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.1
+  },
+  {
+    "place_id": "116330397",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "222801078",
+    "boundingbox": [
+      "42.2191617",
+      "42.2208445",
+      "-83.5239324",
+      "-83.5154969"
+    ],
+    "lat": "42.22005705",
+    "lon": "-83.51944359924",
+    "display_name": "Belleville Rest Area, Van Buren Township, Wayne County, Michigan, 48111, United States of America",
+    "class": "highway",
+    "type": "rest_area",
+    "importance": 0.1
+  }
+]

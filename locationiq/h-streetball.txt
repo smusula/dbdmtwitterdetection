@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "16629854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1540713206",
+    "boundingbox": [
+      "51.3062357",
+      "51.3063357",
+      "12.3691383",
+      "12.3692383"
+    ],
+    "lat": "51.3062857",
+    "lon": "12.3691883",
+    "display_name": "Streetball, Ro\u00dfm\u00e4\u00dflerstra\u00dfe, Connewitz, S\u00fcd, Leipzig, Sachsen, 04277, Deutschland",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23479926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2329963757",
+    "boundingbox": [
+      "52.5100283",
+      "52.5101283",
+      "13.290836",
+      "13.290936"
+    ],
+    "lat": "52.5100783",
+    "lon": "13.290886",
+    "display_name": "Streetball, Erwin-Barth-Platz, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 14057, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "109054823",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "192094774",
+    "boundingbox": [
+      "46.0786247",
+      "46.0788247",
+      "18.247657",
+      "18.2477781"
+    ],
+    "lat": "46.0787259",
+    "lon": "18.2477158627",
+    "display_name": "Streetball, Fels\u0151v\u00e1mh\u00e1z utca, Budai v\u00e1rosr\u00e9sz, P\u00e9cs, P\u00e9csi j\u00e1r\u00e1s, Baranya megye, D\u00e9l-Dun\u00e1nt\u00fal, Dun\u00e1nt\u00fal, 7626, Magyarorsz\u00e1g",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "72669983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32890639",
+    "boundingbox": [
+      "48.1781973",
+      "48.1784034",
+      "11.576079",
+      "11.576355"
+    ],
+    "lat": "48.1783003",
+    "lon": "11.5762179780759",
+    "display_name": "Streetball, Petuelpark, Bezirksteil Milbertshofen, Stadtbezirk 11 Milbertshofen-Am Hart, M\u00fcnchen, OB, Bayern, 80807, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80132297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65395814",
+    "boundingbox": [
+      "48.0947559",
+      "48.0948377",
+      "11.5559793",
+      "11.5560972"
+    ],
+    "lat": "48.09479685",
+    "lon": "11.5560382616266",
+    "display_name": "Streetball, Hochleite, Bezirksteil Harlaching, Stadtbezirk 18 Untergiesing-Harlaching, M\u00fcnchen, OB, Bayern, 81545, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135759608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "313758443",
+    "boundingbox": [
+      "52.4602427",
+      "52.4603475",
+      "13.4158943",
+      "13.4160334"
+    ],
+    "lat": "52.460309",
+    "lon": "13.4159676343783",
+    "display_name": "Streetball, A 100, Tempelhof, Tempelhof-Sch\u00f6neberg, Berlin, 12099, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "71397609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29879657",
+    "boundingbox": [
+      "52.3527116",
+      "52.3530377",
+      "14.551157",
+      "14.5515236"
+    ],
+    "lat": "52.3528965",
+    "lon": "14.5513132353562",
+    "display_name": "Streetball, Ziegelstra\u00dfe, Lebuser Vorstadt, Ragoser M\u00fchle, Frankfurt (Oder), Brandenburg, 15230,15232,15234,15236, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6107707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "638207442",
+    "boundingbox": [
+      "14.5938906",
+      "14.5939906",
+      "120.9591561",
+      "120.9592561"
+    ],
+    "lat": "14.5939406",
+    "lon": "120.9592061",
+    "display_name": "Streetball, Community Gardens Alley, Gawad Kalinga Habitat for Humanity Village, Port Area, Fifth District, Manila, Metro Manila, 1018, Philippines",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "73689047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35815908",
+    "boundingbox": [
+      "53.8329123",
+      "53.8330889",
+      "11.964128",
+      "11.9642895"
+    ],
+    "lat": "53.83300065",
+    "lon": "11.9642087463089",
+    "display_name": "Streetball, Ahornweg, Dreibergen, Wolken, B\u00fctzow, B\u00fctzow-Land, Landkreis Rostock, Mecklenburg-Vorpommern, 18246, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  },
+  {
+    "place_id": "85421267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97392090",
+    "boundingbox": [
+      "53.222236",
+      "53.22229",
+      "12.8388545",
+      "12.8389448"
+    ],
+    "lat": "53.22226295",
+    "lon": "12.8388996578808",
+    "display_name": "Streetball, Kranichweg, Forsthof, Mirow, Mecklenburgische Kleinseenplatte, Landkreis Mecklenburgische Seenplatte, Mecklenburg-Vorpommern, 17252, Deutschland",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

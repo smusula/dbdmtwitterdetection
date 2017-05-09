@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "135330790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311946144",
+    "boundingbox": [
+      "38.6994114",
+      "38.699683",
+      "-109.6438639",
+      "-109.6423806"
+    ],
+    "lat": "38.6995082",
+    "lon": "-109.6431206",
+    "display_name": "Hotdog, Grand County, Utah, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "56447732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4426220646",
+    "boundingbox": [
+      "36.0683863",
+      "36.0684863",
+      "103.8375605",
+      "103.8376605"
+    ],
+    "lat": "36.0684363",
+    "lon": "103.8376105",
+    "display_name": "\u70ed\u72d7, 333, \u76d0\u573a\u8def, \u4e94\u4e00\u5c71\u65b0\u6751, \u8349\u573a\u8857\u8857\u9053, \u57ce\u5173\u533a (Chengguan), \u5170\u5dde\u5e02 (Lanzhou), \u7518\u8083\u7701, 730000, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

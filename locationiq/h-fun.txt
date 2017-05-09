@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "131967",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26608924",
+    "boundingbox": [
+      "-8.5397111",
+      "-8.5097111",
+      "179.1803053",
+      "179.2103053"
+    ],
+    "lat": "-8.5247111",
+    "lon": "179.1953053",
+    "display_name": "Funafuti International, 1, Funafuti, Tuvalu",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.34927434823075,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "13223078",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242021347",
+    "boundingbox": [
+      "41.6476974",
+      "41.6676974",
+      "-0.4423519",
+      "-0.4223519"
+    ],
+    "lat": "41.6576974",
+    "lon": "-0.4323519",
+    "display_name": "La Fu\u00e9n, Monegrillo, Los Monegros, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13463315",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242050348",
+    "boundingbox": [
+      "41.56905",
+      "41.58905",
+      "-0.6892412",
+      "-0.6692412"
+    ],
+    "lat": "41.57905",
+    "lon": "-0.6792412",
+    "display_name": "La Fuen, Nuez de Ebro, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55460376",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4318463654",
+    "boundingbox": [
+      "48.2499161",
+      "48.2500161",
+      "16.4424376",
+      "16.4425376"
+    ],
+    "lat": "48.2499661",
+    "lon": "16.4424876",
+    "display_name": "FUN, Donaufelder Stra\u00dfe, KG Kagran, Donaustadt, Wien, 1220, \u00d6sterreich",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "11659462",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1111372460",
+    "boundingbox": [
+      "51.2650176",
+      "51.2651176",
+      "4.4608803",
+      "4.4609803"
+    ],
+    "lat": "51.2650676",
+    "lon": "4.4609303",
+    "display_name": "Fun, Bredabaan, Merksem, Antwerpen, Vlaanderen, 2170, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "151622266",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "399543133",
+    "boundingbox": [
+      "51.018077",
+      "51.0185055",
+      "3.6687684",
+      "3.6696082"
+    ],
+    "lat": "51.0182027",
+    "lon": "3.66919749865507",
+    "display_name": "Fun, Kortrijksesteenweg, Sint-Denijs-Westrem, Gent, Oost-Vlaanderen, Vlaanderen, 9051, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51793956",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3887404723",
+    "boundingbox": [
+      "49.7599508",
+      "49.7600508",
+      "3.7883659",
+      "3.7884659"
+    ],
+    "lat": "49.7600008",
+    "lon": "3.7884159",
+    "display_name": "Le Fun, 22, Avenue de Belgique, Thiernu, Laon, Aisne, Hauts-de-France, 02250, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "16346498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1482117567",
+    "boundingbox": [
+      "50.9428031",
+      "50.9429031",
+      "5.2807898",
+      "5.2808898"
+    ],
+    "lat": "50.9428531",
+    "lon": "5.2808398",
+    "display_name": "Fun, Kuringersteenweg, Kuringen, Hasselt, Limburg, Vlaanderen, 3511, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50779058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3777693267",
+    "boundingbox": [
+      "51.0347617",
+      "51.0348617",
+      "4.1160622",
+      "4.1161622"
+    ],
+    "lat": "51.0348117",
+    "lon": "4.1161122",
+    "display_name": "Fun Dendermonde, 138, Mechelsesteenweg, Dendermonde, Oost-Vlaanderen, Vlaanderen, 9200, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  },
+  {
+    "place_id": "20587794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2050571342",
+    "boundingbox": [
+      "51.3076918",
+      "51.3077918",
+      "4.9214601",
+      "4.9215601"
+    ],
+    "lat": "51.3077418",
+    "lon": "4.9215101",
+    "display_name": "Fun, 341, Steenweg op Gierle, cpt, Turnhout, Antwerpen, Vlaanderen, 2300, Belgi\u00eb - Belgique - Belgien",
+    "class": "shop",
+    "type": "toys",
+    "importance": 0.101
+  }
+]

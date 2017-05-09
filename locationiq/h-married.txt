@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "121927448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "244814402",
+    "boundingbox": [
+      "-20.6427426",
+      "-20.6016684",
+      "148.5990069",
+      "148.6388313"
+    ],
+    "lat": "-20.6319026",
+    "lon": "148.6103116",
+    "display_name": "Married Mans Creek, QLD, Australia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2646252329",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "459153856",
+    "boundingbox": [
+      "-32.7824763",
+      "-32.7654431",
+      "149.6114109",
+      "149.6169983"
+    ],
+    "lat": "-32.7740671",
+    "lon": "149.6144216",
+    "display_name": "Married Mans Creek, Mid-Western, NSW, Australia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "42916728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3107167210",
+    "boundingbox": [
+      "6.72232",
+      "6.76232",
+      "-10.9662899",
+      "-10.9262899"
+    ],
+    "lat": "6.74232",
+    "lon": "-10.9462899",
+    "display_name": "Married Camp, Senjeh, Bomi County, Liberia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "120577436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239139896",
+    "boundingbox": [
+      "50.8519321",
+      "50.8524514",
+      "-1.0688711",
+      "-1.0675994"
+    ],
+    "lat": "50.85219795",
+    "lon": "-1.06822021999326",
+    "display_name": "Fort Widley Married Quarters, Cosham, Portsmouth, South East, England, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "112372921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205746126",
+    "boundingbox": [
+      "22.3512071",
+      "22.3519807",
+      "114.1066778",
+      "114.1075919"
+    ],
+    "lat": "22.3516334",
+    "lon": "114.107134500716",
+    "display_name": "\u9752\u8863\u5df2\u5a5a\u8b66\u5bdf\u5bbf\u820d Tsing Yi Police Married Quarters, \u9752\u8863 Tsing Yi, \u9752\u88d5\u65b0\u6751 Tsing Yu New Village, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "86290508",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101218244",
+    "boundingbox": [
+      "22.2658191",
+      "22.2668671",
+      "114.2390353",
+      "114.2400882"
+    ],
+    "lat": "22.266346",
+    "lon": "114.239563451419",
+    "display_name": "\u67f4\u7063\u5df2\u5a5a\u8b66\u5bdf\u5bbf\u820d Chai Wan Police Married Quarters, \u67f4\u7063 Chai Wan, \u6771\u5340 Eastern District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 999077, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "107214020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183635646",
+    "boundingbox": [
+      "52.8987068",
+      "52.9007209",
+      "-0.6149849",
+      "-0.6118574"
+    ],
+    "lat": "52.8998903",
+    "lon": "-0.613448610775548",
+    "display_name": "Other Ranks Married Quarters, Londonthorpe and Harrowby Without CP, South Kesteven, Lincolnshire, East Midlands, England, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "107185707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "183635572",
+    "boundingbox": [
+      "52.9005901",
+      "52.9036265",
+      "-0.6138986",
+      "-0.6119245"
+    ],
+    "lat": "52.90184875",
+    "lon": "-0.612849764085608",
+    "display_name": "Officers Married Quarters, Londonthorpe and Harrowby Without CP, South Kesteven, Lincolnshire, East Midlands, England, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "117880973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "228006842",
+    "boundingbox": [
+      "22.4431287",
+      "22.443401",
+      "114.0226952",
+      "114.0233335"
+    ],
+    "lat": "22.4432388",
+    "lon": "114.023013808788",
+    "display_name": "150, \u5143\u6717\u8b66\u5bdf\u5df2\u5a5a\u5bbf\u820d Yuen Long Junior Police Officers Married Quarters, \u5341\u516b\u9109 Shap Pat Heung, \u5143\u6717 Yuen Long, \u65b0\u754c New Territories, HK, 00852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "88509083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110114510",
+    "boundingbox": [
+      "22.3353941",
+      "22.3363158",
+      "114.208991",
+      "114.2098719"
+    ],
+    "lat": "22.3359277",
+    "lon": "114.209469352312",
+    "display_name": "\u6c38\u5b9a\u9053\u6d88\u9632\u5df2\u5a5a\u5bbf\u820d Wing Ting Road Fire Services Married Quarters, \u725b\u6c60\u7063 Ngau Chi Wan, \u9ec3\u5927\u4ed9\u5340 Wong Tai Sin District, \u4e5d\u9f8d Kowloon, HK, 852, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

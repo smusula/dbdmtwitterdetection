@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "2564222",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "345887283",
+    "boundingbox": [
+      "51.5078696",
+      "51.5079696",
+      "-0.1246039",
+      "-0.1245039"
+    ],
+    "lat": "51.5079196",
+    "lon": "-0.1245539",
+    "display_name": "Heaven, Villiers Street, St Clement Danes, Covent Garden, City of Westminster, London, Greater London, England, WC2N 6NG, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.45497609677909
+  },
+  {
+    "place_id": "45623351",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3225837213",
+    "boundingbox": [
+      "52.3705222",
+      "52.3706222",
+      "0.8905293",
+      "0.8906293"
+    ],
+    "lat": "52.3705722",
+    "lon": "0.8905793",
+    "display_name": "Heaven, St Edmundsbury, Suffolk, East of England, England, UK",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "124618246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256123205",
+    "boundingbox": [
+      "50.5761621",
+      "50.581546",
+      "-105.4010549",
+      "-105.3993087"
+    ],
+    "lat": "50.578672",
+    "lon": "-105.4004119",
+    "display_name": "Heaven, Moose Jaw, Census Division No. 7, Saskatchewan, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "54279203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4185463513",
+    "boundingbox": [
+      "21.0550734",
+      "21.0551734",
+      "105.8212684",
+      "105.8213684"
+    ],
+    "lat": "21.0551234",
+    "lon": "105.8213184",
+    "display_name": "heaven, Qu\u1ea3ng An, H\u00e0 N\u1ed9i, 1000000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "23917466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2349395070",
+    "boundingbox": [
+      "51.6908",
+      "51.6909",
+      "7.4658798",
+      "7.4659798"
+    ],
+    "lat": "51.69085",
+    "lon": "7.4659298",
+    "display_name": "heaven, Kreisstra\u00dfe, Selm, Kreis Unna, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 59379, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2653556323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4720962291",
+    "boundingbox": [
+      "55.679735",
+      "55.679835",
+      "12.5761976",
+      "12.5762976"
+    ],
+    "lat": "55.679785",
+    "lon": "12.5762476",
+    "display_name": "Heaven, Gr\u00e5br\u00f8dretorv, Christianshavn, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1154, Danmark",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "3670385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "388428408",
+    "boundingbox": [
+      "52.3812433",
+      "52.3813433",
+      "9.7459242",
+      "9.7460242"
+    ],
+    "lat": "52.3812933",
+    "lon": "9.7459742",
+    "display_name": "Heaven, Wei\u00dfekreuzstra\u00dfe, Oststadt, Mitte, Hannover, Region Hannover, Niedersachsen, 30161, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2651478201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4672610423",
+    "boundingbox": [
+      "-34.6032817",
+      "-34.6031817",
+      "-58.3893948",
+      "-58.3892948"
+    ],
+    "lat": "-34.6032317",
+    "lon": "-58.3893448",
+    "display_name": "Heaven, Montevideo, Microcentro, San Nicol\u00e1s, CABA, Comuna 1, CABA, C1037ADA, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41132228",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009161078",
+    "boundingbox": [
+      "38.9937915",
+      "38.9938915",
+      "-1.8527727",
+      "-1.8526727"
+    ],
+    "lat": "38.9938415",
+    "lon": "-1.8527227",
+    "display_name": "Heaven, Calle Caldereros, Albacete, Carretas-Huerta Marzo, Albacete, Castilla-La Mancha, 02002, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2647814361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4585973151",
+    "boundingbox": [
+      "50.8713111",
+      "50.8714111",
+      "8.0229863",
+      "8.0230863"
+    ],
+    "lat": "50.8713611",
+    "lon": "8.0230363",
+    "display_name": "Heaven, 1, Frankfurter Stra\u00dfe, Alt-Siegen, Siegen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57074, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  }
+]

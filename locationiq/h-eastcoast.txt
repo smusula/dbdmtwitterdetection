@@ -1,0 +1,111 @@
+[
+  {
+    "place_id": "66778874",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20151599",
+    "boundingbox": [
+      "43.404563",
+      "43.406323",
+      "-76.0407809",
+      "-76.0400079"
+    ],
+    "lat": "43.405242",
+    "lon": "-76.0404989",
+    "display_name": "Eastcoast Highway, Parish Center, Town of Parish, Oswego County, New York, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124160453",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "254310673",
+    "boundingbox": [
+      "-37.8277689",
+      "-37.8259544",
+      "147.6481566",
+      "147.6486348"
+    ],
+    "lat": "-37.8277689",
+    "lon": "147.6481566",
+    "display_name": "Eastcoast Court, East Bairnsdale, Bairnsdale, Shire of East Gippsland, Gippsland, Victoria, 3875, Australia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "129162760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "282093964",
+    "boundingbox": [
+      "50.8068625",
+      "50.8071676",
+      "12.9089454",
+      "12.9095355"
+    ],
+    "lat": "50.80701",
+    "lon": "12.9092248396897",
+    "display_name": "EastCoast Kundenparkplatz, Paul-Gruner-Stra\u00dfe, Altchemnitz, Chemnitz, Sachsen, 09120, Deutschland",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2610614682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4510883129",
+    "boundingbox": [
+      "55.0410541",
+      "55.0411541",
+      "-1.442634",
+      "-1.442534"
+    ],
+    "lat": "55.0411041",
+    "lon": "-1.442584",
+    "display_name": "Eastcoast Taxis, 21 - 23, Station Road, Monkseaton, North Tyneside, Tyne and Wear, North East England, England, NE26 2QY, UK",
+    "class": "amenity",
+    "type": "taxi",
+    "importance": 0.101
+  },
+  {
+    "place_id": "49903493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3697320130",
+    "boundingbox": [
+      "37.520038",
+      "37.520138",
+      "-77.3314072",
+      "-77.3313072"
+    ],
+    "lat": "37.520088",
+    "lon": "-77.3313572",
+    "display_name": "Williamsburg at EastCoast Station, Williamsburg Road, Sanburne Park, Henrico County, Virginia, 23231, United States of America",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "2650768389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470861798",
+    "boundingbox": [
+      "-7.2590567",
+      "-7.2580468",
+      "112.8094664",
+      "112.8106753"
+    ],
+    "lat": "-7.2585697",
+    "lon": "112.810468482608",
+    "display_name": "Eastcoast Residence Apartment, Jalan Main Boulevard Pakuwon City, Kalisari, Jawa Timur, 60112, Indonesia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

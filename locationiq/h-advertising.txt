@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "17247581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1683006209",
+    "boundingbox": [
+      "52.3468082",
+      "52.3469082",
+      "4.8355403",
+      "4.8356403"
+    ],
+    "lat": "52.3468582",
+    "lon": "4.8355903",
+    "display_name": "Advertising, Vlaardingenlaan, Slotervaart, Amsterdam, Nieuw-West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1062HM, Nederland",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16677684",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1575247282",
+    "boundingbox": [
+      "52.3453327",
+      "52.3454327",
+      "4.8423266",
+      "4.8424266"
+    ],
+    "lat": "52.3453827",
+    "lon": "4.8423766",
+    "display_name": "Advertising, Anthony Fokkerweg, Bedrijventerrein Schinkel, Amsterdam, Zuid, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1059, Nederland",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  },
+  {
+    "place_id": "5864151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "599507916",
+    "boundingbox": [
+      "51.8017957",
+      "51.8018957",
+      "5.257789",
+      "5.257889"
+    ],
+    "lat": "51.8018457",
+    "lon": "5.257839",
+    "display_name": "Advertising, Hogeweg, Zaltbommel, Gelderland, Nederland, 5301LJ, Nederland",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.101
+  }
+]

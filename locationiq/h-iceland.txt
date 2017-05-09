@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160305656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "299133",
+    "boundingbox": [
+      "63.0859177",
+      "67.353",
+      "-25.0135068",
+      "-12.8046161"
+    ],
+    "lat": "64.9841821",
+    "lon": "-18.1059012",
+    "display_name": "\u00cdsland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.75494543474693,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "131390802",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293481355",
+    "boundingbox": [
+      "51.3863696",
+      "51.3868275",
+      "0.5475318",
+      "0.5479162"
+    ],
+    "lat": "51.38660965",
+    "lon": "0.547714867236488",
+    "display_name": "Iceland, 141-145, High Street, Brompton, Gillingham, Medway, South East, England, ME7 1AQ, UK",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.47847580713286,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "326245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141028495",
+    "boundingbox": [
+      "39.3533802",
+      "39.3933802",
+      "-120.0491429",
+      "-120.0091429"
+    ],
+    "lat": "39.3733802",
+    "lon": "-120.0291429",
+    "display_name": "Iceland, Nevada County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.447828369551,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "68768055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23250543",
+    "boundingbox": [
+      "14.7063895",
+      "14.7094183",
+      "121.0804323",
+      "121.0814026"
+    ],
+    "lat": "14.7069147",
+    "lon": "121.0804375",
+    "display_name": "Iceland, Sitio Ruby, Fairview, Quezon City, District V, Quezon City, Metro Manila, 1122, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70454583",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27423262",
+    "boundingbox": [
+      "14.4782812",
+      "14.4805476",
+      "121.0290566",
+      "121.0293659"
+    ],
+    "lat": "14.4789443",
+    "lon": "121.0293071",
+    "display_name": "Iceland, San Antonio Valley 10 and 11, Don Bosco, Para\u00f1aque, Metro Manila, 1715, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84503779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93420401",
+    "boundingbox": [
+      "14.3217956",
+      "14.3243516",
+      "121.0205753",
+      "121.0241748"
+    ],
+    "lat": "14.3232891",
+    "lon": "121.0223448",
+    "display_name": "Iceland, Mandarin Homes Subdivision 1, Francisco Reyes, General Mariano Alvarez, Cavite, Calabarzon, 4117, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69955868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26538338",
+    "boundingbox": [
+      "51.4910941",
+      "51.4912291",
+      "0.068627",
+      "0.068917"
+    ],
+    "lat": "51.4911656",
+    "lon": "0.0687747205025409",
+    "display_name": "Iceland, Beresford Square, Woolwich Town Centre, Royal Borough of Greenwich, London, Greater London, England, SE18 6HX, UK",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "131350232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293396357",
+    "boundingbox": [
+      "51.3812164",
+      "51.3816475",
+      "-0.2840118",
+      "-0.2835181"
+    ],
+    "lat": "51.3814296",
+    "lon": "-0.283682908111792",
+    "display_name": "Iceland, 26-34, Tolworth Broadway, Tolworth, Berrylands, Royal Borough of Kingston upon Thames, London, Greater London, England, KT6 7HL, UK",
+    "class": "shop",
+    "type": "grocery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "107384705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184454510",
+    "boundingbox": [
+      "50.8298004",
+      "50.8299712",
+      "-0.1367907",
+      "-0.1360731"
+    ],
+    "lat": "50.8298858",
+    "lon": "-0.136431900000002",
+    "display_name": "Iceland, 5/8, London Road, Round Hill, Brighton, Brighton and Hove, South East, England, BN1 4JA, UK",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "98472794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149677010",
+    "boundingbox": [
+      "52.240167",
+      "52.240525",
+      "-0.915134",
+      "-0.9143939"
+    ],
+    "lat": "52.240346",
+    "lon": "-0.91476394999999",
+    "display_name": "Iceland, Harlestone Road, Spencer, Northampton, Northamptonshire, East Midlands, England, NN5 7AE, UK",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

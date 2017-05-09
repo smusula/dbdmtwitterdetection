@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "48473225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3590732845",
+    "boundingbox": [
+      "47.6112175",
+      "47.6113175",
+      "-122.3395765",
+      "-122.3394765"
+    ],
+    "lat": "47.6112675",
+    "lon": "-122.3395265",
+    "display_name": "National, 1601, 3rd Avenue, Belltown, Seattle, King County, Washington, 98101, United States of America",
+    "class": "amenity",
+    "type": "car_rental",
+    "importance": 0.41966198108865
+  },
+  {
+    "place_id": "451050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158282910",
+    "boundingbox": [
+      "39.5889772",
+      "39.6289772",
+      "-78.9603022",
+      "-78.9203022"
+    ],
+    "lat": "39.6089772",
+    "lon": "-78.9403022",
+    "display_name": "National, Allegany County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45096115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3203964474",
+    "boundingbox": [
+      "41.8092255",
+      "41.8492255",
+      "-117.5988536",
+      "-117.5588536"
+    ],
+    "lat": "41.8292255",
+    "lon": "-117.5788536",
+    "display_name": "National, Humboldt County, Nevada, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "407541",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153857440",
+    "boundingbox": [
+      "39.5639716",
+      "39.6039716",
+      "-80.057569",
+      "-80.017569"
+    ],
+    "lat": "39.5839716",
+    "lon": "-80.037569",
+    "display_name": "National, Monongalia County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "333836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150933934",
+    "boundingbox": [
+      "46.7364967",
+      "46.7764967",
+      "-122.0759412",
+      "-122.0359412"
+    ],
+    "lat": "46.7564967",
+    "lon": "-122.0559412",
+    "display_name": "National, Pierce County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "155197760",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420028890",
+    "boundingbox": [
+      "43.3151078",
+      "43.3152806",
+      "5.3729809",
+      "5.3731409"
+    ],
+    "lat": "43.31518015",
+    "lon": "5.3730604313753",
+    "display_name": "National, Rue Ren\u00e9 Cassin, Saint-Mauront, Marseille 3e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13003, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.31606775332943,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "54519342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4200151215",
+    "boundingbox": [
+      "43.3151038",
+      "43.3152038",
+      "5.3730189",
+      "5.3731189"
+    ],
+    "lat": "43.3151538",
+    "lon": "5.3730689",
+    "display_name": "National, Rue Ren\u00e9 Cassin, Saint-Mauront, Marseille 3e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13003, France",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.31606775332943
+  },
+  {
+    "place_id": "155203807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420028889",
+    "boundingbox": [
+      "43.3148325",
+      "43.3154729",
+      "5.3730205",
+      "5.3731487"
+    ],
+    "lat": "43.3148325",
+    "lon": "5.3730205",
+    "display_name": "National, Boulevard National, Saint-Mauront, Marseille 3e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13003, France",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.31606775332943
+  },
+  {
+    "place_id": "155223740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420028888",
+    "boundingbox": [
+      "43.3148378",
+      "43.3154813",
+      "5.3729598",
+      "5.3730914"
+    ],
+    "lat": "43.3154813",
+    "lon": "5.3730914",
+    "display_name": "National, Rue Ren\u00e9 Cassin, Saint-Mauront, Marseille 3e Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13003, France",
+    "class": "railway",
+    "type": "platform",
+    "importance": 0.31606775332943
+  },
+  {
+    "place_id": "119860166",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "236068096",
+    "boundingbox": [
+      "-35.3103207",
+      "-35.3094709",
+      "149.1333716",
+      "149.1349087"
+    ],
+    "lat": "-35.3098958",
+    "lon": "149.13414015",
+    "display_name": "The National, Barton, Canberra, Canberra Central, Australian Capital Territory, 2604, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

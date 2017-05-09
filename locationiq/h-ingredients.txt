@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "47745311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3468326876",
+    "boundingbox": [
+      "39.1007523",
+      "39.1008523",
+      "-84.5121014",
+      "-84.5120014"
+    ],
+    "lat": "39.1008023",
+    "lon": "-84.5120514",
+    "display_name": "Ingredients, Skywalk, Lytle Park Historic District, Over-The-Rhine, Cincinnati, Hamilton County, Ohio, 45202, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "53680682",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4088071263",
+    "boundingbox": [
+      "24.446875",
+      "24.446975",
+      "54.4371675",
+      "54.4372675"
+    ],
+    "lat": "24.446925",
+    "lon": "54.4372175",
+    "display_name": "Ingredients, Eastern Mangroves Corniche, Danat Abu Dhabi, Al Zahraa, Abu Dhabi, \u0623\u0628\u0648 \u0638\u0628\u064a, 52799, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22563702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2238492040",
+    "boundingbox": [
+      "44.8388399",
+      "44.8389399",
+      "-0.5751257",
+      "-0.5750257"
+    ],
+    "lat": "44.8388899",
+    "lon": "-0.5750757",
+    "display_name": "Ingr\u00e9dients, Rue des Trois Conils, Centre ville, Bordeaux, Gironde, Nouvelle-Aquitaine, 33000, France",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  }
+]

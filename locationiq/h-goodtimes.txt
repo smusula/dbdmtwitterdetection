@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "48639382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3562373931",
+    "boundingbox": [
+      "39.7719141",
+      "39.7720141",
+      "-105.0819485",
+      "-105.0818485"
+    ],
+    "lat": "39.7719641",
+    "lon": "-105.0818985",
+    "display_name": "Goodtimes, Wadsworth Boulevard, Wheat Ridge, Jefferson County, Colorado, 80033, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "139464962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "331797851",
+    "boundingbox": [
+      "42.4962035",
+      "42.4963948",
+      "-89.9880691",
+      "-89.9879142"
+    ],
+    "lat": "42.4962786",
+    "lon": "-89.9879916577293",
+    "display_name": "Goodtimes, 148, West Main Street, Warren, Jo Daviess County, Illinois, 61087, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "7006576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "715051047",
+    "boundingbox": [
+      "41.3768574",
+      "41.3769574",
+      "-71.8342872",
+      "-71.8341872"
+    ],
+    "lat": "41.3769074",
+    "lon": "-71.8342372",
+    "display_name": "Goodtimes, West Broad Street, Pawcatuck, New London County, Connecticut, 06379, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

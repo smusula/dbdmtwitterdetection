@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "409587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153691004",
+    "boundingbox": [
+      "34.2745364",
+      "34.3145364",
+      "-85.4130125",
+      "-85.3730125"
+    ],
+    "lat": "34.2945364",
+    "lon": "-85.3930125",
+    "display_name": "Poetry, Chattooga County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "369969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151489281",
+    "boundingbox": [
+      "32.8056814",
+      "32.8456814",
+      "-96.2658113",
+      "-96.2258113"
+    ],
+    "lat": "32.8256814",
+    "lon": "-96.2458113",
+    "display_name": "Poetry, Kaufman County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.33470384519613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "9143219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "941959484",
+    "boundingbox": [
+      "-25.8240535",
+      "-25.8239535",
+      "28.3149005",
+      "28.3150005"
+    ],
+    "lat": "-25.8240035",
+    "lon": "28.3149505",
+    "display_name": "Poetry, Philadelphia Road, Pretorius Park, Tshwane Ward 91, Pretoria, City of Tshwane Metropolitan Municipality, Gauteng, 0044, South Africa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "6538110",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "676282187",
+    "boundingbox": [
+      "-26.1251304",
+      "-26.1250304",
+      "28.0335202",
+      "28.0336202"
+    ],
+    "lat": "-26.1250804",
+    "lon": "28.0335702",
+    "display_name": "Poetry, 6th Road, Johannesburg Ward 90, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2121, South Africa",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

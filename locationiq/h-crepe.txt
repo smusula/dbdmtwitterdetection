@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "42564698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3100387535",
+    "boundingbox": [
+      "46.6840671",
+      "46.7040671",
+      "1.84211",
+      "1.86211"
+    ],
+    "lat": "46.6940671",
+    "lon": "1.85211",
+    "display_name": "Le Crepe, Ardentes, Ch\u00e2teauroux, Indre, Centre-Val de Loire, 36120, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17256794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1674342256",
+    "boundingbox": [
+      "54.6873906",
+      "54.6874906",
+      "25.2792153",
+      "25.2793153"
+    ],
+    "lat": "54.6874406",
+    "lon": "25.2792653",
+    "display_name": "La Crepe, 13, Gedimino pr., Senamiestis, Vilnius, Vilniaus miesto savivaldyb\u0117, Vilniaus apskritis, 01103, Lietuva",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "46074272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3286104546",
+    "boundingbox": [
+      "49.367145",
+      "49.367245",
+      "8.6853203",
+      "8.6854203"
+    ],
+    "lat": "49.367195",
+    "lon": "8.6853703",
+    "display_name": "La Crepe, 1, Hertzstra\u00dfe, Gewerbegebiet Heidelberg-S\u00fcd, Hasenleiser, Rohrbach, Heidelberg, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 69126, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "13340690",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1239327057",
+    "boundingbox": [
+      "-19.9170825",
+      "-19.9169825",
+      "-43.9132657",
+      "-43.9131657"
+    ],
+    "lat": "-19.9170325",
+    "lon": "-43.9132157",
+    "display_name": "La Crepe, Rua Dores do Indai\u00e1, Santa Tereza, Regional Leste, BH, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, 31010-260, Brasil",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "25503260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2454464682",
+    "boundingbox": [
+      "14.5985269",
+      "14.5986269",
+      "-90.5186196",
+      "-90.5185196"
+    ],
+    "lat": "14.5985769",
+    "lon": "-90.5185696",
+    "display_name": "La Crepe, 14 Calle, Zona 9, Ciudad de Guatemala, Guatemala, 01009, Guatemala",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4774537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "510011889",
+    "boundingbox": [
+      "14.5983744",
+      "14.5984744",
+      "-90.5185747",
+      "-90.5184747"
+    ],
+    "lat": "14.5984244",
+    "lon": "-90.5185247",
+    "display_name": "La Crepe, 14 Calle, Zona 9, Ciudad de Guatemala, Guatemala, 01009, Guatemala",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54074024",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4162398402",
+    "boundingbox": [
+      "19.3512385",
+      "19.3513385",
+      "-99.1617367",
+      "-99.1616367"
+    ],
+    "lat": "19.3512885",
+    "lon": "-99.1616867",
+    "display_name": "La Crepe, Cuauht\u00e9moc, Barrio de la Concepcion, Coyoac\u00e1n, CDMX, 04100, M\u00e9xico",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "21823922",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2162579977",
+    "boundingbox": [
+      "-22.9241805",
+      "-22.9240805",
+      "-43.9498916",
+      "-43.9497916"
+    ],
+    "lat": "-22.9241305",
+    "lon": "-43.9498416",
+    "display_name": "Crepe, 137, Rua Rio Grande do Sul, Mangaratiba, Microrregi\u00e3o Itagua\u00ed, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, Brasil",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "27605028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2600878858",
+    "boundingbox": [
+      "36.1679384",
+      "36.1680384",
+      "-115.2869341",
+      "-115.2868341"
+    ],
+    "lat": "36.1679884",
+    "lon": "-115.2868841",
+    "display_name": "The Crepe, 420, South Rampart Boulevard, Queensridge, Las Vegas, Clark County, Nevada, 89145, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "137411105",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321027868",
+    "boundingbox": [
+      "18.0657534",
+      "18.0658983",
+      "-63.0860084",
+      "-63.0858667"
+    ],
+    "lat": "18.0658248",
+    "lon": "-63.0859373241411",
+    "display_name": "La Il Crepe, 9, Rue du G\u00e9n\u00e9ral de Gaulle, Concordia, Marigot, Saint-Martin, 97150, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

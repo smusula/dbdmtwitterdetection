@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160723232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3995076",
+    "boundingbox": [
+      "-46.8870185",
+      "-46.7978139",
+      "-67.724836",
+      "-67.4586815"
+    ],
+    "lat": "-46.83281135",
+    "lon": "-67.5916682186989",
+    "display_name": "Frieda, Deseado, SC, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "74985402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40274374",
+    "boundingbox": [
+      "51.218033",
+      "51.2195226",
+      "10.2761774",
+      "10.2764277"
+    ],
+    "lat": "51.2184416",
+    "lon": "10.2763131",
+    "display_name": "Frieda, Rodeberg, S\u00fcdeichsfeld, Unstrut-Hainich-Kreis, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "75053319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40274377",
+    "boundingbox": [
+      "51.2132351",
+      "51.218033",
+      "10.2669994",
+      "10.2764106"
+    ],
+    "lat": "51.2143985",
+    "lon": "10.2719685",
+    "display_name": "Frieda, S\u00fcdeichsfeld, Unstrut-Hainich-Kreis, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "43613427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3120378556",
+    "boundingbox": [
+      "59.1102415",
+      "59.1103415",
+      "15.3290688",
+      "15.3291688"
+    ],
+    "lat": "59.1102915",
+    "lon": "15.3291188",
+    "display_name": "Frid\u00e5, K\u00e4vesta, Hallsberg, Landskapet N\u00e4rke, \u00d6rebro l\u00e4n, Svealand, Sverige",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "41832357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3045141122",
+    "boundingbox": [
+      "-46.8596759",
+      "-46.8196759",
+      "-67.6127724",
+      "-67.5727724"
+    ],
+    "lat": "-46.8396759",
+    "lon": "-67.5927724",
+    "display_name": "Frieda, Deseado, SC, Argentina",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161038764",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6649366",
+    "boundingbox": [
+      "51.1877585",
+      "51.2337409",
+      "10.1258199",
+      "10.2764277"
+    ],
+    "lat": "51.2193171",
+    "lon": "10.1909141",
+    "display_name": "Frieda, Ershausen/Geismar, Landkreis Eichsfeld, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.24927434823075
+  },
+  {
+    "place_id": "51124251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3815608981",
+    "boundingbox": [
+      "50.0919918",
+      "50.0920918",
+      "14.44642",
+      "14.44652"
+    ],
+    "lat": "50.0920418",
+    "lon": "14.44647",
+    "display_name": "Frida, Karl\u00ednsk\u00e9 n\u00e1m\u011bst\u00ed, Florenc, Karl\u00edn, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 186 00, \u010cesko",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18768344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1813912838",
+    "boundingbox": [
+      "51.2120727",
+      "51.2121727",
+      "6.7639623",
+      "6.7640623"
+    ],
+    "lat": "51.2121227",
+    "lon": "6.7640123",
+    "display_name": "Frida, 4, Bilker Allee, Unterbilk, Stadtbezirk 3, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40219, Deutschland",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "16707446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1569014593",
+    "boundingbox": [
+      "51.2120879",
+      "51.2121879",
+      "6.763971",
+      "6.764071"
+    ],
+    "lat": "51.2121379",
+    "lon": "6.764021",
+    "display_name": "Frida, 4, Bilker Allee, Unterbilk, Stadtbezirk 3, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40219, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654296992",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4737826356",
+    "boundingbox": [
+      "43.2609209",
+      "43.2610209",
+      "-2.9349308",
+      "-2.9348308"
+    ],
+    "lat": "43.2609709",
+    "lon": "-2.9348808",
+    "display_name": "Frida, Telesforo Aranzadi kalea, San Frantzizko, Zabalburu, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

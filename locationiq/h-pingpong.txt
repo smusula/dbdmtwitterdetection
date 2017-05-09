@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "46818172",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3353435097",
+    "boundingbox": [
+      "56.8067407",
+      "56.8068407",
+      "60.6124082",
+      "60.6125082"
+    ],
+    "lat": "56.8067907",
+    "lon": "60.6124582",
+    "display_name": "PingPong, 149, \u0443\u043b\u0438\u0446\u0430 8 \u041c\u0430\u0440\u0442\u0430, \u0410\u0432\u0442\u043e\u0432\u043e\u043a\u0437\u0430\u043b, \u0427\u043a\u0430\u043b\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0415\u043a\u0430\u0442\u0435\u0440\u0438\u043d\u0431\u0443\u0440\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 620130, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "45959131",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3253938669",
+    "boundingbox": [
+      "12.8917426",
+      "12.8918426",
+      "100.8737788",
+      "100.8738788"
+    ],
+    "lat": "12.8917926",
+    "lon": "100.8738288",
+    "display_name": "Pingpong, \u0e08\u0e2d\u0e21\u0e40\u0e17\u0e35\u0e22\u0e19\u0e2a\u0e32\u0e22\u0e2b\u0e19\u0e36\u0e48\u0e07, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20260, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2653717735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479370680",
+    "boundingbox": [
+      "44.1350311",
+      "44.13519",
+      "9.6843035",
+      "9.6845007"
+    ],
+    "lat": "44.13512245",
+    "lon": "9.68440281853749",
+    "display_name": "PINGPONG, Via Roma, Piculla, Vernazza, SP, LIG, 19018, Italia",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  }
+]

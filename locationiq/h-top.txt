@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "121584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "25515690",
+    "boundingbox": [
+      "39.0550937",
+      "39.0850937",
+      "-95.6376813",
+      "-95.6076813"
+    ],
+    "lat": "39.0700937",
+    "lon": "-95.6226813",
+    "display_name": "Philip Billard Municipal Airport, Northeast Lamr Avenue, Topeka, Shawnee County, Kansas, 66616, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.68994651568189,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "3151050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358706032",
+    "boundingbox": [
+      "32.932858",
+      "32.932958",
+      "-84.491639",
+      "-84.491539"
+    ],
+    "lat": "32.932908",
+    "lon": "-84.491589",
+    "display_name": "The Top, Upson County, Georgia, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "479417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158499752",
+    "boundingbox": [
+      "40.6900646",
+      "40.7300646",
+      "-79.4655981",
+      "-79.4255981"
+    ],
+    "lat": "40.7100646",
+    "lon": "-79.4455981",
+    "display_name": "Top, Armstrong County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7710044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "834446179",
+    "boundingbox": [
+      "46.1819559",
+      "46.2219559",
+      "12.8100519",
+      "12.8500519"
+    ],
+    "lat": "46.2019559",
+    "lon": "12.8300519",
+    "display_name": "Toppo, PN, FVG, Italia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4620938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501339379",
+    "boundingbox": [
+      "7.8138",
+      "7.8538",
+      "8.1162",
+      "8.1562"
+    ],
+    "lat": "7.8338",
+    "lon": "8.1362",
+    "display_name": "Top, Agatu, Benue, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127860321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "273653902",
+    "boundingbox": [
+      "40.9370398",
+      "40.9445245",
+      "47.4232547",
+      "47.431026"
+    ],
+    "lat": "40.9404673",
+    "lon": "47.4266343",
+    "display_name": "Top, O\u011fuz rayonu, Az\u0259rbaycan",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4278243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "460374392",
+    "boundingbox": [
+      "47.050759",
+      "47.090759",
+      "23.9802542",
+      "24.0202542"
+    ],
+    "lat": "47.070759",
+    "lon": "24.0002542",
+    "display_name": "P\u0103durenii, Cluj, 407209, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.36081675474887,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74204115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37946645",
+    "boundingbox": [
+      "53.3517802",
+      "53.3532923",
+      "-6.208355",
+      "-6.2070666"
+    ],
+    "lat": "53.3525363",
+    "lon": "-6.20771077279939",
+    "display_name": "TOP, North Dock, North Dock B ED, Dublin 1, Dublin, County Dublin, Leinster, D01, Ireland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "148022699",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "378927729",
+    "boundingbox": [
+      "22.3616057",
+      "22.3624927",
+      "114.0398637",
+      "114.0410069"
+    ],
+    "lat": "22.3621147",
+    "lon": "114.040588905545",
+    "display_name": "\u50b2\u5ead\u5cf0 The Top, \u9752\u9f8d\u982d Tsing Lung Tau, \u9752\u9f8d\u982d\u6751 Tsing Lung Tau Tsuen, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "58454334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6553853",
+    "boundingbox": [
+      "53.0229189",
+      "53.0234179",
+      "5.6891925",
+      "5.6902624"
+    ],
+    "lat": "53.0234179",
+    "lon": "5.6891925",
+    "display_name": "Top, Sneek, S\u00fadwest-Frysl\u00e2n, Friesland, Nederland, 8606JT, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  }
+]

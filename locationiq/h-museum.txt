@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "909486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "283610177",
+    "boundingbox": [
+      "39.7459977",
+      "39.7460977",
+      "20.0199043",
+      "20.0200043"
+    ],
+    "lat": "39.7460477",
+    "lon": "20.0199543",
+    "display_name": "Museum, SH81, Ksamil, Sarand\u00eb, Qarku i Vlor\u00ebs, Shqip\u00ebria",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.54596585868395,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "160315483",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "346820",
+    "boundingbox": [
+      "42.5667774",
+      "42.6271549",
+      "-2.2595478",
+      "-2.2002248"
+    ],
+    "lat": "42.6061514",
+    "lon": "-2.226237",
+    "display_name": "Mues, Navarra, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52826098909157,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "127420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26486736",
+    "boundingbox": [
+      "38.5803703",
+      "38.9003703",
+      "41.3367451",
+      "41.6567451"
+    ],
+    "lat": "38.7403703",
+    "lon": "41.4967451",
+    "display_name": "Mu\u015f, Mu\u015f merkez, Mu\u015f, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "city",
+    "importance": 0.4682262062439,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160298201",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "223440",
+    "boundingbox": [
+      "38.4829853",
+      "39.5382483",
+      "41.1094168",
+      "42.7126062"
+    ],
+    "lat": "38.9740786",
+    "lon": "41.9590433",
+    "display_name": "Mu\u015f, Do\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43819062238834,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160300149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "241688",
+    "boundingbox": [
+      "39.755653",
+      "40.1666308",
+      "-82.2340545",
+      "-81.6908109"
+    ],
+    "lat": "40.0064162",
+    "lon": "-81.9984696",
+    "display_name": "Muskingum County, Ohio, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41242982278102,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4918498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "536331177",
+    "boundingbox": [
+      "43.6620172",
+      "43.6720172",
+      "-79.3984142",
+      "-79.3884142"
+    ],
+    "lat": "43.6670172",
+    "lon": "-79.3934142",
+    "display_name": "Museum, Queen's Park, Yorkville, Old Toronto, Toronto, Ontario, M5S 1K7, Canada",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.41175576870917,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "160325553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "382592",
+    "boundingbox": [
+      "43.7227059",
+      "43.7513982",
+      "4.1921518",
+      "4.2134808"
+    ],
+    "lat": "43.741",
+    "lon": "4.20191",
+    "display_name": "Mus, Nimes, Gard, Occitanie, 30121, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35185343041668,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "150853016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395670412",
+    "boundingbox": [
+      "24.285096",
+      "24.2947797",
+      "153.9739088",
+      "153.9844788"
+    ],
+    "lat": "24.29082365",
+    "lon": "153.980451743095",
+    "display_name": "\u5357\u9ce5\u5cf6\u822a\u7a7a\u57fa\u5730, \u5c0f\u7b20\u539f\u6751, \u5c0f\u7b20\u539f\u652f\u5e81, \u6771\u4eac\u90fd, \u65e5\u672c",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.33810656006742,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "129101529",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281815318",
+    "boundingbox": [
+      "53.8118508",
+      "54.0814161",
+      "130.8502455",
+      "131.1788063"
+    ],
+    "lat": "53.9696243",
+    "lon": "131.0081023",
+    "display_name": "\u041c\u0443\u0441, \u0422\u0443\u0433\u0443\u0440\u043e-\u0427\u0443\u043c\u0438\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0425\u0430\u0431\u0430\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u043a\u0440\u0430\u0439, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "119725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "24569929",
+    "boundingbox": [
+      "50.0752081",
+      "50.0852081",
+      "14.4261168",
+      "14.4361168"
+    ],
+    "lat": "50.0802081",
+    "lon": "14.4311168",
+    "display_name": "Muzeum, Wilsonova, Nov\u00e9 M\u011bsto, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 12000, \u010cesko",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.30707848858916,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

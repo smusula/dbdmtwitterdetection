@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160246587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "9407",
+    "boundingbox": [
+      "42.4288238",
+      "42.6559357",
+      "1.4135781",
+      "1.7863837"
+    ],
+    "lat": "42.5407167",
+    "lon": "1.5732033",
+    "display_name": "Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68684698764111,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160705296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3720358",
+    "boundingbox": [
+      "7.358373",
+      "10.949461",
+      "11.3415213",
+      "13.729551"
+    ],
+    "lat": "9.5129772",
+    "lon": "12.3881887",
+    "display_name": "Adamawa, Nigeria",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52106825968404,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160442499",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1720051",
+    "boundingbox": [
+      "9.6844057",
+      "11.7160828",
+      "42.708703",
+      "44.3395582"
+    ],
+    "lat": "10.6249365",
+    "lon": "43.3421809",
+    "display_name": "Awdal, Jamhuuriyadda Soomaaliland, Soomaaliya \u0627\u0644\u0635\u0648\u0645\u0627\u0644",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.50334291715277,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160570162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2750694",
+    "boundingbox": [
+      "5.9747738",
+      "8.1902032",
+      "11.1826054",
+      "15.2336207"
+    ],
+    "lat": "6.8518652",
+    "lon": "13.2445712",
+    "display_name": "AD, Cameroun",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37255813723317,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "4274234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "463185376",
+    "boundingbox": [
+      "47.2723759",
+      "47.3123759",
+      "23.0009883",
+      "23.0409883"
+    ],
+    "lat": "47.2923759",
+    "lon": "23.0209883",
+    "display_name": "Dio\u0219od, S\u0103laj, 457168, Rom\u00e2nia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.3321866047208,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2650708116",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470276840",
+    "boundingbox": [
+      "12.6011459",
+      "12.6016735",
+      "-8.0138435",
+      "-8.0131232"
+    ],
+    "lat": "12.6014097",
+    "lon": "-8.01353579755803",
+    "display_name": "AD, Baco-Djicoroni, Bamako, District de Bamako, 00223, Mali",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102836572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166338411",
+    "boundingbox": [
+      "57.4630625",
+      "57.4633524",
+      "10.5266323",
+      "10.5274879"
+    ],
+    "lat": "57.4632075",
+    "lon": "10.5270601004548",
+    "display_name": "Ad, K\u00e6ret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17692743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1721860048",
+    "boundingbox": [
+      "23.22",
+      "23.26",
+      "57.51",
+      "57.55"
+    ],
+    "lat": "23.24",
+    "lon": "57.53",
+    "display_name": "\u0627\u0644\u062f\u0633, \u0645\u062d\u0627\u0641\u0638\u0629 \u062c\u0646\u0648\u0628 \u0627\u0644\u0628\u0627\u0637\u0646\u0629, \u0639\u0645\u0627\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651729692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4678668529",
+    "boundingbox": [
+      "49.7937918",
+      "49.7938918",
+      "9.9279153",
+      "9.9280153"
+    ],
+    "lat": "49.7938418",
+    "lon": "9.9279653",
+    "display_name": "AED, Rathausplatz, W\u00fcrzburg Altstadt, W\u00fcrzburg, Unterfranken, Bayern, 97070, Deutschland",
+    "class": "emergency",
+    "type": "defibrillator",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653915077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "160341352",
+    "boundingbox": [
+      "48.691429",
+      "48.691675",
+      "6.191581",
+      "6.191949"
+    ],
+    "lat": "48.691541",
+    "lon": "6.19179327352941",
+    "display_name": "AD Garage Expert des Tiercelins, Rue des Tiercelins, Nancy, Meurthe-et-Moselle, Grand-Est, 54000, France",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  }
+]

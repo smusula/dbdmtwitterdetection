@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160255374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62341",
+    "boundingbox": [
+      "48.9664472",
+      "50.9423256",
+      "6.1122494",
+      "8.5083135"
+    ],
+    "lat": "49.7497346",
+    "lon": "7.4396553",
+    "display_name": "Rheinland-Pfalz, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72600693281803,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160372983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1070361",
+    "boundingbox": [
+      "39.653923",
+      "40.0023932",
+      "-97.9303739",
+      "-97.3681789"
+    ],
+    "lat": "39.8266503",
+    "lon": "-97.6580833",
+    "display_name": "Republic County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46428602909183,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2652362904",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475463207",
+    "boundingbox": [
+      "-6.182654",
+      "-6.177416",
+      "-49.4448469",
+      "-49.4442439"
+    ],
+    "lat": "-6.180038",
+    "lon": "-49.4445451",
+    "display_name": "RP, Eldorado dos Caraj\u00e1s, 17 de Abril, Microrregi\u00e3o de Parauapebas, Mesorregi\u00e3o Sudeste Paraense, PA, Regi\u00e3o Norte, Brasil",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "117894652",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "228167001",
+    "boundingbox": [
+      "-47.8200565",
+      "-47.8115225",
+      "-72.0590847",
+      "-72.0454224"
+    ],
+    "lat": "-47.8161085",
+    "lon": "-72.0514622",
+    "display_name": "RP, Estancia la Oriental, R\u00edo Chico, SC, Argentina",
+    "class": "highway",
+    "type": "primary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "159267400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "441790816",
+    "boundingbox": [
+      "9.6377171",
+      "9.6379022",
+      "-9.0562033",
+      "-9.0559216"
+    ],
+    "lat": "9.6378335",
+    "lon": "-9.0560464",
+    "display_name": "RP, Komodou, Kankan, Guin\u00e9e",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.2
+  },
+  {
+    "place_id": "22505828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2206135815",
+    "boundingbox": [
+      "-22.9211151",
+      "-22.9210151",
+      "-43.2359746",
+      "-43.2358746"
+    ],
+    "lat": "-22.9210651",
+    "lon": "-43.2359246",
+    "display_name": "RP, Rua Ribeiro Guimar\u00e3es, Vila Isabel, Rio de Janeiro, Microrregi\u00e3o Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, 20511-010, Brasil",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "139660886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "332625395",
+    "boundingbox": [
+      "-22.9268895",
+      "-22.9264497",
+      "-43.2467037",
+      "-43.24627"
+    ],
+    "lat": "-22.92666245",
+    "lon": "-43.2464875511364",
+    "display_name": "Posto RP, 707, Rua Bar\u00e3o de Mesquita, Andara\u00ed, Rio de Janeiro, Microrregi\u00e3o Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, 20510-340, Brasil",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "39309958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2917158986",
+    "boundingbox": [
+      "43.2988886",
+      "43.2989886",
+      "76.9305122",
+      "76.9306122"
+    ],
+    "lat": "43.2989386",
+    "lon": "76.9305622",
+    "display_name": "RP, \u0443\u043b\u0438\u0446\u0430 \u0416\u0430\u043d\u0441\u0443\u0433\u0443\u0440\u043e\u0432\u0430, \u0410\u0439\u043d\u0430\u0431\u0443\u043b\u0430\u043a, \u0410\u043b\u043c\u0430\u0442\u044b, 050064, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "53880449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4119690177",
+    "boundingbox": [
+      "47.4868927",
+      "47.4869927",
+      "22.5761131",
+      "22.5762131"
+    ],
+    "lat": "47.4869427",
+    "lon": "22.5761631",
+    "display_name": "RP, Strada Tudor Vladimirescu, T\u0103\u0219nad, Satu Mare, 445300, Rom\u00e2nia",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "47312212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3404186241",
+    "boundingbox": [
+      "43.2602774",
+      "43.2603774",
+      "76.8509868",
+      "76.8510868"
+    ],
+    "lat": "43.2603274",
+    "lon": "76.8510368",
+    "display_name": "RP, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u044b\u0441\u043a\u0443\u043b\u043e\u0432\u0430, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u041a\u0443\u0440\u044b\u043b\u044b\u0441\u0448\u0438, \u0410\u043b\u0430\u0442\u0430\u0443\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043b\u043c\u0430\u0442\u044b, 050047, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  }
+]

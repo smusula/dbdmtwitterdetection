@@ -1,0 +1,110 @@
+[
+  {
+    "place_id": "145820587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369518687",
+    "boundingbox": [
+      "33.3289102",
+      "33.341471",
+      "-86.7345256",
+      "-86.7229099"
+    ],
+    "lat": "33.334834",
+    "lon": "-86.7290799",
+    "display_name": "Thunder, Pelham, Shelby County, Alabama, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "158285062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "436180049",
+    "boundingbox": [
+      "42.4824479",
+      "42.4833959",
+      "-104.9458218",
+      "-104.9421489"
+    ],
+    "lat": "42.482538",
+    "lon": "-104.9441629",
+    "display_name": "Thunder, Platte County, Wyoming, 82213, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "126405671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264312352",
+    "boundingbox": [
+      "51.5305855",
+      "51.53149",
+      "-0.2778174",
+      "-0.2762327"
+    ],
+    "lat": "51.53103775",
+    "lon": "-0.277025025719404",
+    "display_name": "Thunder, Cumberland Avenue, Alperton, London Borough of Brent, London, Greater London, England, NW10 7SF, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "15226233",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1396060066",
+    "boundingbox": [
+      "51.1491151",
+      "51.1492151",
+      "14.9847024",
+      "14.9848024"
+    ],
+    "lat": "51.1491651",
+    "lon": "14.9847524",
+    "display_name": "Thunder, 15, Wilhelmsplatz, Innenstadt, G\u00f6rlitz, Landkreis G\u00f6rlitz, Sachsen, 02826, Deutschland",
+    "class": "shop",
+    "type": "video",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47947082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3468588921",
+    "boundingbox": [
+      "48.6713964",
+      "48.6714964",
+      "-121.0710897",
+      "-121.0709897"
+    ],
+    "lat": "48.6714464",
+    "lon": "-121.0710397",
+    "display_name": "Thunder, Thunder Creek Trail, Whatcom County, Washington, United States of America",
+    "class": "tourism",
+    "type": "camp_site",
+    "importance": 0.101
+  },
+  {
+    "place_id": "51865736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3896758116",
+    "boundingbox": [
+      "8.4242031",
+      "8.4243031",
+      "-82.4280299",
+      "-82.4279299"
+    ],
+    "lat": "8.4242531",
+    "lon": "-82.4279799",
+    "display_name": "Thunder, Calle 3 de Noviembre, Barriada Lassonde, San Mateo, David, Provincia de Chiriqu\u00ed, Panam\u00e1",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,92 @@
+[
+  {
+    "place_id": "127278335",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269524823",
+    "boundingbox": [
+      "19.6845835",
+      "19.6856227",
+      "-101.1444895",
+      "-101.1444818"
+    ],
+    "lat": "19.6845835",
+    "lon": "-101.1444895",
+    "display_name": "Editorial, Morelia, Michoac\u00e1n de Ocampo, 58270, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100238139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156941411",
+    "boundingbox": [
+      "14.4609386",
+      "14.4685954",
+      "121.0303377",
+      "121.031726"
+    ],
+    "lat": "14.464488",
+    "lon": "121.0315458",
+    "display_name": "Editorial, Fourth Estate Subdivision, San Antonio, Para\u00f1aque, Metro Manila, 1715, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69221489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24799950",
+    "boundingbox": [
+      "-41.4819469",
+      "-41.4801333",
+      "-72.972282",
+      "-72.9722808"
+    ],
+    "lat": "-41.4811153",
+    "lon": "-72.972282",
+    "display_name": "Editorial, Parque Industrial Tyrol, Terrazas de Angelm\u00f3, Puerto Montt, Provincia de Llanquihue, X Regi\u00f3n de Los Lagos, 5503778, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "152949475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "406511117",
+    "boundingbox": [
+      "14.0828015",
+      "14.0833443",
+      "-87.161488",
+      "-87.1611143"
+    ],
+    "lat": "14.0829715",
+    "lon": "-87.1613624233726",
+    "display_name": "Editorial, Bulevar Suyapa, Villa Ol\u00edmpica, Prados Universitarios, Tegucigalpa, Francisco Moraz\u00e1n, 12101, Honduras",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609331510",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "450890895",
+    "boundingbox": [
+      "45.4467425",
+      "45.4469251",
+      "-73.4369384",
+      "-73.4366377"
+    ],
+    "lat": "45.44682435",
+    "lon": "-73.4368193520735",
+    "display_name": "Editorial, Rue pi\u00e9tonne, Quartier DIX30, Brossard, Longueuil (agglomeration), Qu\u00e9bec, J4W 5J2, Canada",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

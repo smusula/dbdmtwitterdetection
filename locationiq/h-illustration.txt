@@ -1,0 +1,112 @@
+[
+  {
+    "place_id": "2608570091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "449149437",
+    "boundingbox": [
+      "41.4694819",
+      "41.4699184",
+      "-71.3063646",
+      "-71.3059513"
+    ],
+    "lat": "41.46970145",
+    "lon": "-71.3061579425058",
+    "display_name": "National Museum of American Illustration, 492, Bellevue Avenue, Newport, Newport County, Rhode Island, 02840, United States of America",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.32367496645424,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "42145578",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3059089468",
+    "boundingbox": [
+      "51.5355251",
+      "51.5356251",
+      "-0.1240221",
+      "-0.1239221"
+    ],
+    "lat": "51.5355751",
+    "lon": "-0.1239721",
+    "display_name": "House of Illustration, Regent's Canal towpath, Holborn, London Borough of Camden, London, Greater London, England, N1C 4AB, UK",
+    "class": "tourism",
+    "type": "museum",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_museum.p.20.png"
+  },
+  {
+    "place_id": "54123997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4171784396",
+    "boundingbox": [
+      "51.5073574",
+      "51.5074574",
+      "-0.1391836",
+      "-0.1390836"
+    ],
+    "lat": "51.5074074",
+    "lon": "-0.1391336",
+    "display_name": "The Illustration Cupboard, Bury Street, St. James's, Mayfair, City of Westminster, London, Greater London, England, SW1A 1HA, UK",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26946913",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2536238499",
+    "boundingbox": [
+      "13.0034982",
+      "13.0035982",
+      "77.6168997",
+      "77.6169997"
+    ],
+    "lat": "13.0035482",
+    "lon": "77.6169497",
+    "display_name": "aPaulogy Curious Illustration, Clarke Road, Richards Town, St Thomastown, Bengaluru, Bangalore Urban, Karnataka, 560001, India",
+    "class": "tourism",
+    "type": "gallery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651557405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4610791580",
+    "boundingbox": [
+      "48.1591932",
+      "48.1592932",
+      "11.5683191",
+      "11.5684191"
+    ],
+    "lat": "48.1592432",
+    "lon": "11.5683691",
+    "display_name": "Tobias Frank Concept Art & Illustration, 36, Elisabethstra\u00dfe, Neuschwabing, Bezirksteil Neuschwabing, Stadtbezirk 04 Schwabing-West, M\u00fcnchen, OB, Bayern, 80796, Deutschland",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2652189639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2927038518",
+    "boundingbox": [
+      "52.5551369",
+      "52.5552369",
+      "13.438646",
+      "13.438746"
+    ],
+    "lat": "52.5551869",
+    "lon": "13.438696",
+    "display_name": "Cords-Illustration, 27c, Gustav-Adolf-Stra\u00dfe, Wei\u00dfensee, Pankow, Berlin, 13086, Deutschland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  }
+]

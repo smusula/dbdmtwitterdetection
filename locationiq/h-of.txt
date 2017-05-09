@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160405828",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1236154",
+    "boundingbox": [
+      "40.7763888",
+      "40.9883937",
+      "40.180561",
+      "40.4771496"
+    ],
+    "lat": "40.8825914",
+    "lon": "40.275324264809",
+    "display_name": "Of, Trabzon, Karadeniz B\u00f6lgesi, T\u00fcrkiye",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41908579539046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1351608",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "303789393",
+    "boundingbox": [
+      "40.9052592",
+      "40.9852592",
+      "40.2285683",
+      "40.3085683"
+    ],
+    "lat": "40.9452592",
+    "lon": "40.2685683",
+    "display_name": "Of, Trabzon, Karadeniz B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "15930707",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1429881609",
+    "boundingbox": [
+      "37.8644503",
+      "37.9044503",
+      "40.7199332",
+      "40.7599332"
+    ],
+    "lat": "37.8844503",
+    "lon": "40.7399332",
+    "display_name": "Of, Bismil, Diyarbak\u0131r, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "37790277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2874225101",
+    "boundingbox": [
+      "48.881449",
+      "48.881549",
+      "2.285426",
+      "2.285526"
+    ],
+    "lat": "48.881499",
+    "lon": "2.285476",
+    "display_name": "OF, Boulevard Gouvion-Saint-Cyr, Ternes, 17e, Paris, \u00cele-de-France, 75017, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "73150789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "34158346",
+    "boundingbox": [
+      "53.5191858",
+      "53.5198245",
+      "10.0314468",
+      "10.0327251"
+    ],
+    "lat": "53.51950635",
+    "lon": "10.0320859503693",
+    "display_name": "OF, Stinkb\u00fcdelsgang, Veddel, Hamburg-Mitte, Hamburg, 20539, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160637809",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3226490",
+    "boundingbox": [
+      "50.8192098",
+      "50.8202997",
+      "4.3982415",
+      "4.3999336"
+    ],
+    "lat": "50.81977585",
+    "lon": "4.39879936804723",
+    "display_name": "OF, Boulevard du Triomphe - Triomflaan, Ixelles - Elsene, Bruxelles-Capitale - Brussel-Hoofdstad, R\u00e9gion de Bruxelles-Capitale - Brussels Hoofdstedelijk Gewest, 1050, Belgi\u00eb - Belgique - Belgien",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "3537083",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369539168",
+    "boundingbox": [
+      "52.5063485",
+      "52.5064485",
+      "-2.0217046",
+      "-2.0216046"
+    ],
+    "lat": "52.5063985",
+    "lon": "-2.0216546",
+    "display_name": "OF, Dudley Road, Birchfield, Oldbury, Sandwell, West Midlands, England, B69 3HD, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "125915077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "261969819",
+    "boundingbox": [
+      "40.803789",
+      "40.8039694",
+      "-77.8554844",
+      "-77.8552156"
+    ],
+    "lat": "40.8038744",
+    "lon": "-77.855341319306",
+    "display_name": "OF, McKean Road, State College, Centre County, Pennsylvania, 16802, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "5101695",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "572861205",
+    "boundingbox": [
+      "56.2790585",
+      "56.2791585",
+      "14.5196492",
+      "14.5197492"
+    ],
+    "lat": "56.2791085",
+    "lon": "14.5196992",
+    "display_name": "Olofstr\u00f6m, V\u00e4stra Storgatan, Olofstr\u00f6m, Blekinge l\u00e4n, G\u00f6taland, 29391, Sverige",
+    "class": "railway",
+    "type": "technical_station",
+    "importance": 0.101
+  },
+  {
+    "place_id": "1376219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "310591088",
+    "boundingbox": [
+      "48.1564078",
+      "48.1565078",
+      "11.641978",
+      "11.642078"
+    ],
+    "lat": "48.1564578",
+    "lon": "11.642028",
+    "display_name": "Abteilung Oberf\u00f6hring - Ger\u00e4tehaus Englschalking, 88, Ostpreu\u00dfenstra\u00dfe, Bezirksteil Englschalking, Stadtbezirk 13 Bogenhausen, M\u00fcnchen, OB, Bayern, 81927, Deutschland",
+    "class": "amenity",
+    "type": "fire_station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_firestation3.p.20.png"
+  }
+]

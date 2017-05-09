@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "15166224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1391486693",
+    "boundingbox": [
+      "52.4562731",
+      "52.4563731",
+      "13.3219485",
+      "13.3220485"
+    ],
+    "lat": "52.4563231",
+    "lon": "13.3219985",
+    "display_name": "coffeetime, Albrechtstra\u00dfe, Steglitz, Steglitz-Zehlendorf, Berlin, 12165, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "47652890",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3446416114",
+    "boundingbox": [
+      "53.4176078",
+      "53.4177078",
+      "10.0266608",
+      "10.0267608"
+    ],
+    "lat": "53.4176578",
+    "lon": "10.0267108",
+    "display_name": "Coffeetime, 38c, Appenstedter Weg, Meckelfeld, Seevetal, Landkreis Harburg, Niedersachsen, 21217, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

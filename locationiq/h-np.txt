@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160291536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "184633",
+    "boundingbox": [
+      "26.3477172",
+      "30.446945",
+      "80.0586226",
+      "88.2015257"
+    ],
+    "lat": "28.1082107",
+    "lon": "84.0917515",
+    "display_name": "\u0928\u0947\u092a\u093e\u0932",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.72817807738039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "464982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158267853",
+    "boundingbox": [
+      "39.845968",
+      "39.885968",
+      "-75.199635",
+      "-75.159635"
+    ],
+    "lat": "39.865968",
+    "lon": "-75.179635",
+    "display_name": "National Park, Gloucester County, New Jersey, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "55442050",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4293047115",
+    "boundingbox": [
+      "-42.7065099",
+      "-42.6665099",
+      "146.70071",
+      "146.74071"
+    ],
+    "lat": "-42.6865099",
+    "lon": "146.72071",
+    "display_name": "National Park, Derwent Valley, Tasmania, Australia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "984514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "290681617",
+    "boundingbox": [
+      "-39.1927293",
+      "-39.1527293",
+      "175.3837274",
+      "175.4237274"
+    ],
+    "lat": "-39.1727293",
+    "lon": "175.4037274",
+    "display_name": "National Park, Ruapehu District, Manawatu-Wanganui, New Zealand/Aotearoa",
+    "class": "place",
+    "type": "village",
+    "importance": 0.25552306351606,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646352865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5944514",
+    "boundingbox": [
+      "43.0169456",
+      "43.0269782",
+      "-87.9537033",
+      "-87.9476886"
+    ],
+    "lat": "43.0218548",
+    "lon": "-87.9499388",
+    "display_name": "National Park, Milwaukee, Milwaukee County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160668046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3570589",
+    "boundingbox": [
+      "28.5608418",
+      "28.5634926",
+      "77.2351639",
+      "77.2387366"
+    ],
+    "lat": "28.56218555",
+    "lon": "77.2373798845926",
+    "display_name": "National Park, Lajpat Nagar IV, New Delhi, Delhi, India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2646647716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460236679",
+    "boundingbox": [
+      "54.2878226",
+      "54.2881039",
+      "18.2297349",
+      "18.2319679"
+    ],
+    "lat": "54.2878758",
+    "lon": "18.2306361",
+    "display_name": "NP, Kie\u0142pino, gmina Kartuzy, powiat kartuski, pomorskie, 83-307, Polska",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2646593593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219934680",
+    "boundingbox": [
+      "54.2871727",
+      "54.2889045",
+      "18.1422938",
+      "18.1452315"
+    ],
+    "lat": "54.2877562",
+    "lon": "18.143889",
+    "display_name": "NP, gmina Somonino, powiat kartuski, pomorskie, Polska",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2646593594",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219934764",
+    "boundingbox": [
+      "54.287281",
+      "54.2881396",
+      "18.1370807",
+      "18.1429523"
+    ],
+    "lat": "54.287281",
+    "lon": "18.1403037",
+    "display_name": "NP, R\u0119boszewo-Wybudowania, gmina Kartuzy, powiat kartuski, pomorskie, Polska",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78702073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56176578",
+    "boundingbox": [
+      "6.8194221",
+      "6.8238725",
+      "-58.155097",
+      "-58.1480859"
+    ],
+    "lat": "6.82191435",
+    "lon": "-58.1517384355131",
+    "display_name": "National Park, Thomas Lands, Demerara-Mahaica Region, Demerara-Mahaica, 413622, Guyana",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.2
+  }
+]

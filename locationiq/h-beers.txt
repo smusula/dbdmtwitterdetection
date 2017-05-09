@@ -1,0 +1,153 @@
+[
+  {
+    "place_id": "160439908",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1525644",
+    "boundingbox": [
+      "51.6995016",
+      "51.7452766",
+      "5.7884302",
+      "5.8477972"
+    ],
+    "lat": "51.72244",
+    "lon": "5.82155183466545",
+    "display_name": "Beers NB, Cuijk, Noord-Brabant, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39244504582027,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "219961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "43655577",
+    "boundingbox": [
+      "51.7055728",
+      "51.7455728",
+      "5.8118086",
+      "5.8518086"
+    ],
+    "lat": "51.7255728",
+    "lon": "5.8318086",
+    "display_name": "Beers, Noord-Brabant, Nederland, 5437, Nederland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "575088",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "240048378",
+    "boundingbox": [
+      "53.5855915",
+      "53.6655915",
+      "8.8043067",
+      "8.8843067"
+    ],
+    "lat": "53.6255915",
+    "lon": "8.8443067",
+    "display_name": "Bad Bederkesa, Cuxhaven, Niedersachsen, Deutschland",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "66655240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20067427",
+    "boundingbox": [
+      "42.41817",
+      "42.41889",
+      "-75.3808229",
+      "-75.3806129"
+    ],
+    "lat": "42.41889",
+    "lon": "-75.3808229",
+    "display_name": "Beers, Mount Upton, Town of Guilford, Chenango County, New York, 13809, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "223382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "48066088",
+    "boundingbox": [
+      "53.1359496",
+      "53.1759496",
+      "5.7144494",
+      "5.7544494"
+    ],
+    "lat": "53.1559496",
+    "lon": "5.7344494",
+    "display_name": "Bears, Friesland, Nederland, 9025, Nederland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.10803387666472,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16094466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1483238584",
+    "boundingbox": [
+      "45.7654791",
+      "45.7655791",
+      "4.8275935",
+      "4.8276935"
+    ],
+    "lat": "45.7655291",
+    "lon": "4.8276435",
+    "display_name": "The Beers, Rue Fran\u00e7ois Vernay, 5e, Lyon 5e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69005, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2610333260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4503811450",
+    "boundingbox": [
+      "45.8221462",
+      "45.8222462",
+      "4.9928872",
+      "4.9929872"
+    ],
+    "lat": "45.8221962",
+    "lon": "4.9929372",
+    "display_name": "Beer's, D 1084a, Beynost, Bourg-en-Bresse, Ain, Auvergne-Rh\u00f4ne-Alpes, 01700, France",
+    "class": "shop",
+    "type": "alcohol",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_alcohol.p.20.png"
+  },
+  {
+    "place_id": "120540026",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "239109371",
+    "boundingbox": [
+      "40.952472",
+      "40.9526782",
+      "29.0942947",
+      "29.0947027"
+    ],
+    "lat": "40.95261125",
+    "lon": "29.0944507356465",
+    "display_name": "Beer's, Cetin Eme\u00e7 Bulvar\u0131, Bostanc\u0131, Kad\u0131k\u00f6y, \u0130stanbul, Marmara B\u00f6lgesi, 34744, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

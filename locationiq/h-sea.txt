@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "77645927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50898115",
+    "boundingbox": [
+      "47.4280559",
+      "47.4668598",
+      "-122.3207346",
+      "-122.2960596"
+    ],
+    "lat": "47.4475673",
+    "lon": "-122.308015756952",
+    "display_name": "Seattle-Tacoma International Airport, SeaTac Departures, SeaTac, King County, Washington, 98148, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.49027480086994,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "333202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "143999877",
+    "boundingbox": [
+      "50.8928965",
+      "50.9328965",
+      "-2.9488542",
+      "-2.9088542"
+    ],
+    "lat": "50.9128965",
+    "lon": "-2.9288542",
+    "display_name": "Sea, Somerset, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45794641",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3239302263",
+    "boundingbox": [
+      "-4.0740999",
+      "-4.0340999",
+      "121.5697",
+      "121.6097"
+    ],
+    "lat": "-4.0540999",
+    "lon": "121.5897",
+    "display_name": "Sea, Sulawesi Tenggara, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14392836",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308670762",
+    "boundingbox": [
+      "-1.5538515",
+      "-1.5138515",
+      "121.8006171",
+      "121.8406171"
+    ],
+    "lat": "-1.5338515",
+    "lon": "121.8206171",
+    "display_name": "Sea, Sulawesi Tengah, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14285274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308652961",
+    "boundingbox": [
+      "1.4074372",
+      "1.4474372",
+      "124.7835315",
+      "124.8235315"
+    ],
+    "lat": "1.4274372",
+    "lon": "124.8035315",
+    "display_name": "Sea, Sulawesi Utara, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45910183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3269455076",
+    "boundingbox": [
+      "45.6601003",
+      "45.6801003",
+      "10.2732753",
+      "10.2932753"
+    ],
+    "lat": "45.6701003",
+    "lon": "10.2832753",
+    "display_name": "Sea, Casto, Comunit\u00e0 montana della valle Sabbia, BS, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13404417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1241886128",
+    "boundingbox": [
+      "42.798946",
+      "42.818946",
+      "-0.7306204",
+      "-0.7106204"
+    ],
+    "lat": "42.808946",
+    "lon": "-0.7206204",
+    "display_name": "El Sea, Valle de Hecho, La Jacetania, Huesca, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "46148005",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3323911933",
+    "boundingbox": [
+      "-13.5046931",
+      "-13.4846931",
+      "-172.4088233",
+      "-172.3888233"
+    ],
+    "lat": "-13.4946931",
+    "lon": "-172.3988233",
+    "display_name": "Le Sea, Paia, S\u0101moa",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160616211",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2964759",
+    "boundingbox": [
+      "33.1797569",
+      "33.2414973",
+      "44.3715241",
+      "44.4372919"
+    ],
+    "lat": "33.2097437",
+    "lon": "44.4033563942643",
+    "display_name": "Seha, Rasheed, \u0628\u063a\u062f\u0627\u062f, \u0627\u0644\u0643\u0631\u062e, \u0645\u062d\u0627\u0641\u0638\u0629 \u0628\u063a\u062f\u0627\u062f, \u0627\u0644\u0639\u0631\u0627\u0642",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "77265327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "49180412",
+    "boundingbox": [
+      "-34.4149768",
+      "-34.414187",
+      "19.2478739",
+      "19.2491054"
+    ],
+    "lat": "-34.4146367",
+    "lon": "19.2485886",
+    "display_name": "Sea, Overstrand Ward 3, Overstrand Local Municipality, Overberg District Municipality, Western Cape, 7200, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

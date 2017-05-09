@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "24400028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2364035601",
+    "boundingbox": [
+      "53.0339144",
+      "53.0340144",
+      "5.7773582",
+      "5.7774582"
+    ],
+    "lat": "53.0339644",
+    "lon": "5.7774082",
+    "display_name": "Camping, De Fryske Marren, Friesland, Nederland",
+    "class": "waterway",
+    "type": "biwak",
+    "importance": 0.425
+  },
+  {
+    "place_id": "43247220",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3118713180",
+    "boundingbox": [
+      "-19.3311882",
+      "-19.2911882",
+      "-69.4508778",
+      "-69.4108778"
+    ],
+    "lat": "-19.3111882",
+    "lon": "-69.4308778",
+    "display_name": "Camping, Provincia del Tamarugal, I Regi\u00f3n de Tarapac\u00e1, Chile",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12253276",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1154254202",
+    "boundingbox": [
+      "37.8790244",
+      "37.9190244",
+      "-4.8048984",
+      "-4.7648984"
+    ],
+    "lat": "37.8990244",
+    "lon": "-4.7848984",
+    "display_name": "Camping, Distrito Norte Sierra, C\u00f3rdoba, Andaluc\u00eda, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "104528477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "172669161",
+    "boundingbox": [
+      "48.9172445",
+      "48.9257844",
+      "8.1402108",
+      "8.1583872"
+    ],
+    "lat": "48.9215762",
+    "lon": "8.14588025047576",
+    "display_name": "Camping, Munchhausen, Haguenau-Wissembourg, Bas-Rhin, Grand-Est, 67470, France",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157916029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "434413525",
+    "boundingbox": [
+      "49.8637205",
+      "49.8648726",
+      "5.0784018",
+      "5.0803804"
+    ],
+    "lat": "49.86401745",
+    "lon": "5.07950064350229",
+    "display_name": "Camping, Ratentout, Bouillon, Neufch\u00e2teau, Luxembourg, Wallonie, 6830;6831;6832;6833;6834;6836;6838, Belgi\u00eb - Belgique - Belgien",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "85489198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97716576",
+    "boundingbox": [
+      "50.0780165",
+      "50.081101",
+      "4.6410308",
+      "4.6457556"
+    ],
+    "lat": "50.0796288",
+    "lon": "4.64347642062386",
+    "display_name": "Camping, Viroinval, Philippeville, Namur, Wallonie, 5670, Belgi\u00eb - Belgique - Belgien",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "131539576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294349985",
+    "boundingbox": [
+      "45.5571226",
+      "45.55858",
+      "-75.5081318",
+      "-75.5048059"
+    ],
+    "lat": "45.55760335",
+    "lon": "-75.5064588123255",
+    "display_name": "Camping, Les Collines-de-l'Outaouais, Qu\u00e9bec, Canada",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "112218109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "205236193",
+    "boundingbox": [
+      "51.3722087",
+      "51.3729348",
+      "8.7035535",
+      "8.7071894"
+    ],
+    "lat": "51.37258045",
+    "lon": "8.70536651788845",
+    "display_name": "Camping, Heringhausen, Diemelsee, Landkreis Waldeck-Frankenberg, Regierungsbezirk Kassel, Hessen, 34519, Deutschland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "154172149",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "414609684",
+    "boundingbox": [
+      "41.9236088",
+      "41.9244805",
+      "19.5410636",
+      "19.5423219"
+    ],
+    "lat": "41.924077",
+    "lon": "19.541673118574",
+    "display_name": "Camping, Barbullush, Bushat, Shkod\u00ebr, Qarku i Shkodr\u00ebs, 266, Shqip\u00ebria",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "95387835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135095346",
+    "boundingbox": [
+      "-32.1767202",
+      "-32.17238",
+      "-64.4499743",
+      "-64.4441132"
+    ],
+    "lat": "-32.1745247",
+    "lon": "-64.4469799919701",
+    "display_name": "Camping, Villa del Dique, Calamuchita, Cba., 5862, Argentina",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  }
+]

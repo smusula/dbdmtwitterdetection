@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "160350307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "442321",
+    "boundingbox": [
+      "48.5518135",
+      "49.6211124",
+      "13.5359746",
+      "15.6042038"
+    ],
+    "lat": "49.0864773",
+    "lon": "14.600203565351",
+    "display_name": "Jiho\u010desk\u00fd kraj, Jihoz\u00e1pad, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52844029717446,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "126512468",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264996283",
+    "boundingbox": [
+      "28.6285967",
+      "28.6307575",
+      "77.1162116",
+      "77.1170721"
+    ],
+    "lat": "28.62967715",
+    "lon": "77.1166418502696",
+    "display_name": "JC, Hari Nagar, New Delhi, Delhi, 110064, India",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2646039815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "458484807",
+    "boundingbox": [
+      "49.8340217",
+      "49.8345269",
+      "18.1650297",
+      "18.1653166"
+    ],
+    "lat": "49.8345269",
+    "lon": "18.1653166",
+    "display_name": "JC, Poruba, Ostrava, okres Ostrava-m\u011bsto, Moravskoslezsk\u00fd kraj, Moravskoslezsko, 70833, \u010cesko",
+    "class": "highway",
+    "type": "footway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "21305043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2117842194",
+    "boundingbox": [
+      "15.2051963",
+      "15.2052963",
+      "120.7082845",
+      "120.7083845"
+    ],
+    "lat": "15.2052463",
+    "lon": "120.7083345",
+    "display_name": "jc, San Vicente-Bliss-PAC road, Ayala, Pampanga, Central Luzon, 2011, Philippines",
+    "class": "natural",
+    "type": "tree",
+    "importance": 0.111
+  },
+  {
+    "place_id": "1393662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313675528",
+    "boundingbox": [
+      "63.0968165",
+      "63.0969165",
+      "21.6168075",
+      "21.6169075"
+    ],
+    "lat": "63.0968665",
+    "lon": "21.6168575",
+    "display_name": "JC, Hovioikeudenpuistikko, V\u00f6yrinkaupunki, Vaasa, Vaasan seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, 65100, Suomi",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "48101020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3512456634",
+    "boundingbox": [
+      "37.1753508",
+      "37.1754508",
+      "-3.6008274",
+      "-3.6007274"
+    ],
+    "lat": "37.1754008",
+    "lon": "-3.6007774",
+    "display_name": "JC, Calle Mesones, Centro - Sagrario, Granada, Andaluc\u00eda, 18001, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55640336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4314713589",
+    "boundingbox": [
+      "-2.2188564",
+      "-2.2187564",
+      "-79.9117864",
+      "-79.9116864"
+    ],
+    "lat": "-2.2188064",
+    "lon": "-79.9117364",
+    "display_name": "JC, Calle 42A, Letamendi, Guayaquil, Guayas, 090302, Ecuador",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "11672693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1126805478",
+    "boundingbox": [
+      "55.7134857",
+      "55.7135857",
+      "13.1590081",
+      "13.1591081"
+    ],
+    "lat": "55.7135357",
+    "lon": "13.1590581",
+    "display_name": "JC, 10, F\u00f6retagsv\u00e4gen, Pils\u00e5ker, V\u00e4ster, Lund, Sk\u00e5ne, G\u00f6taland, 227 61, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "44902028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3173172249",
+    "boundingbox": [
+      "65.584721",
+      "65.584821",
+      "22.1556159",
+      "22.1557159"
+    ],
+    "lat": "65.584771",
+    "lon": "22.1556659",
+    "display_name": "JC, 22, Timmermansgatan, Bergviken, Lule\u00e5, Norrbotten, Norrbottens l\u00e4n, Norrland, 971 26, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "12334963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1149657105",
+    "boundingbox": [
+      "56.0293386",
+      "56.0294386",
+      "14.1558527",
+      "14.1559527"
+    ],
+    "lat": "56.0293886",
+    "lon": "14.1559027",
+    "display_name": "JC, Cardellsgatan, Kristianstad City, Kristianstad, Sk\u00e5ne, G\u00f6taland, SE-291 31, Sverige",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

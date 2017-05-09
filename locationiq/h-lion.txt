@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "15224651",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1401611393",
+    "boundingbox": [
+      "45.7603216",
+      "45.7604216",
+      "1.3027844",
+      "1.3028844"
+    ],
+    "lat": "45.7603716",
+    "lon": "1.3028344",
+    "display_name": "Lion, C 24, Le Mas du Puy, Le Vigen, Limoges, Haute-Vienne, Nouvelle-Aquitaine, 87110, France",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.74491489043698,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "160266184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "120965",
+    "boundingbox": [
+      "45.7073666",
+      "45.8082628",
+      "4.7718134",
+      "4.8983774"
+    ],
+    "lat": "45.7578137",
+    "lon": "4.8320114",
+    "display_name": "Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "city",
+    "importance": 0.71705073313018,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2651301911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4666529150",
+    "boundingbox": [
+      "35.646734",
+      "35.646834",
+      "140.126657",
+      "140.126757"
+    ],
+    "lat": "35.646784",
+    "lon": "140.126707",
+    "display_name": "\u30e9\u30a4\u30aa\u30f3, \u6771\u4eac\u74b0\u72b6, \u7a32\u6bdb\u533a, \u5343\u8449\u5e02, \u5343\u8449\u770c, 263-0005, \u65e5\u672c",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.64491489043698,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "160266379",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "120714",
+    "boundingbox": [
+      "48.9762827",
+      "49.0085668",
+      "6.2427103",
+      "6.2810859"
+    ],
+    "lat": "48.9996632",
+    "lon": "6.2590844",
+    "display_name": "Li\u00e9hon, Metz, Moselle, Grand-Est, 57420, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55888678982371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160316501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "349010",
+    "boundingbox": [
+      "42.0292774",
+      "43.2386327",
+      "-7.0770535",
+      "-4.7323648"
+    ],
+    "lat": "42.63414505",
+    "lon": "-5.97141500453998",
+    "display_name": "Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52377989328879,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "126503125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264586661",
+    "boundingbox": [
+      "42.575812",
+      "42.6231891",
+      "-5.5986375",
+      "-5.5552441"
+    ],
+    "lat": "42.5989995",
+    "lon": "-5.5682412",
+    "display_name": "Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "city",
+    "importance": 0.48432458310216,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160627532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3331152",
+    "boundingbox": [
+      "46.2342084",
+      "46.2922169",
+      "6.0169447",
+      "6.0857264"
+    ],
+    "lat": "46.2609102",
+    "lon": "6.0545955",
+    "display_name": "Le Lion, Gex, Ain, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  },
+  {
+    "place_id": "160311357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "339984",
+    "boundingbox": [
+      "42.5469341",
+      "42.6403368",
+      "-5.6312399",
+      "-5.533654"
+    ],
+    "lat": "42.5989995",
+    "lon": "-5.5682412",
+    "display_name": "Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "city",
+    "importance": 0.43789556599376,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "131678059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "295031825",
+    "boundingbox": [
+      "46.2890172",
+      "46.2890711",
+      "6.0820032",
+      "6.0821633"
+    ],
+    "lat": "46.2890711",
+    "lon": "6.0821633",
+    "display_name": "Le Lion, Ornex, Gex, Ain, Auvergne-Rh\u00f4ne-Alpes, 01210, France",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "840290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "273601416",
+    "boundingbox": [
+      "20.9618598",
+      "21.2818598",
+      "-101.842508",
+      "-101.522508"
+    ],
+    "lat": "21.1218598",
+    "lon": "-101.682508",
+    "display_name": "Le\u00f3n, Guanajuato, M\u00e9xico",
+    "class": "place",
+    "type": "city",
+    "importance": 0.41715694630872,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  }
+]

@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "63349234",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14757284",
+    "boundingbox": [
+      "35.987197",
+      "35.98777",
+      "-96.0851699",
+      "-96.0851469"
+    ],
+    "lat": "35.987197",
+    "lon": "-96.0851469",
+    "display_name": "Show, Sapulpa, Creek County, Oklahoma, 74066, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60009107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9509833",
+    "boundingbox": [
+      "34.926556",
+      "34.926617",
+      "-84.0173749",
+      "-84.0171529"
+    ],
+    "lat": "34.926617",
+    "lon": "-84.0171529",
+    "display_name": "Show, Canal Lake, Union County, Georgia, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "28958835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2690662614",
+    "boundingbox": [
+      "-8.594564",
+      "-8.594464",
+      "116.1164739",
+      "116.1165739"
+    ],
+    "lat": "-8.594514",
+    "lon": "116.1165239",
+    "display_name": "show, Jalan Majapahit, Lingk. Taman Baru, Kel. Pagesangan Timur, Kota Mataram, Kec. Mataram, Nusa Tenggara Barat, 83127, Indonesia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28878168",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2690664203",
+    "boundingbox": [
+      "-8.6039074",
+      "-8.6038074",
+      "116.0737801",
+      "116.0738801"
+    ],
+    "lat": "-8.6038574",
+    "lon": "116.0738301",
+    "display_name": "show, Komp. Loang Baloq, Lingk. Sembalun, Kel. Tanjung Karang, Kota Mataram, Kec. Sekarbela, Nusa Tenggara Barat, 83115, Indonesia",
+    "class": "natural",
+    "type": "beach",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_beach.p.20.png"
+  },
+  {
+    "place_id": "144479077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363031650",
+    "boundingbox": [
+      "51.5145646",
+      "51.5146637",
+      "-0.1976337",
+      "-0.1975297"
+    ],
+    "lat": "51.51461415",
+    "lon": "-0.197581677712528",
+    "display_name": "Show, 173, Westbourne Grove, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, England, W11, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "34771158",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2813165684",
+    "boundingbox": [
+      "43.2552572",
+      "43.2553572",
+      "-2.9130841",
+      "-2.9129841"
+    ],
+    "lat": "43.2553072",
+    "lon": "-2.9130341",
+    "display_name": "Show, Zabalbide Kalea, Santutxu, Bego\u00f1a, Bilbao, Bilboaldea, Bizkaia, Euskadi, 48001;48002;48003;48004;48005;48006;48007;48008;48009;48010;48011;48012;48013;48014;48015, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "21058851",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2088700346",
+    "boundingbox": [
+      "51.3283435",
+      "51.3284435",
+      "6.5646994",
+      "6.5647994"
+    ],
+    "lat": "51.3283935",
+    "lon": "6.5647494",
+    "display_name": "Show, 12, Hochstra\u00dfe, Innenstadt, Krefeld-Mitte, Krefeld, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 47798, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "23249025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2292271773",
+    "boundingbox": [
+      "37.7680435",
+      "37.7681435",
+      "-3.7891006",
+      "-3.7890006"
+    ],
+    "lat": "37.7680935",
+    "lon": "-3.7890506",
+    "display_name": "Show, 9, Calle San Clemente, SAN BARTOLOM\u00c9, Ja\u00e9n, Andaluc\u00eda, 23004, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "128613328",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "278910059",
+    "boundingbox": [
+      "44.5867666",
+      "44.5868549",
+      "-123.2555608",
+      "-123.2553723"
+    ],
+    "lat": "44.58681075",
+    "lon": "-123.25546657409",
+    "display_name": "The Show, 1915, Northwest 9th Street, Corvallis, Benton County, Oregon, 97330, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17308704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1656860646",
+    "boundingbox": [
+      "33.8155932",
+      "33.8156932",
+      "-116.4080752",
+      "-116.4079752"
+    ],
+    "lat": "33.8156432",
+    "lon": "-116.4080252",
+    "display_name": "The Show, East Ramon Road, Rancho Mirage, Riverside County, California, 92276, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  }
+]

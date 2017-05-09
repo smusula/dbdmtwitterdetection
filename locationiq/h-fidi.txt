@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "160357185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "571747",
+    "boundingbox": [
+      "-21.9434273",
+      "-12.2613865",
+      "-179.9999999",
+      "180"
+    ],
+    "lat": "-18.1239695",
+    "lon": "179.0122737",
+    "display_name": "Viti",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68775635257623,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160485624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2167367",
+    "boundingbox": [
+      "-5.7817694",
+      "-5.4897763",
+      "15.2398427",
+      "15.322295"
+    ],
+    "lat": "-5.6268706",
+    "lon": "15.3027393",
+    "display_name": "Mfidi, Madimba, Bas-Congo, Kongo-Central, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.45
+  }
+]

@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "96576243",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "139957818",
+    "boundingbox": [
+      "-29.1037008",
+      "-29.1023838",
+      "26.2419444",
+      "26.2436637"
+    ],
+    "lat": "-29.1031764",
+    "lon": "26.2429654",
+    "display_name": "Jagger, Mangaung Ward 21, Bloemfontein, Mangaung Metropolitan Municipality, Free State, 9300, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66829458",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20248470",
+    "boundingbox": [
+      "40.779618",
+      "40.779972",
+      "-73.3951949",
+      "-73.3943459"
+    ],
+    "lat": "40.779972",
+    "lon": "-73.3946309",
+    "display_name": "Jagger, Melville, Suffolk County, New York, 11747, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54786985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4242438300",
+    "boundingbox": [
+      "55.6696668",
+      "55.6697668",
+      "12.5546964",
+      "12.5547964"
+    ],
+    "lat": "55.6697168",
+    "lon": "12.5547464",
+    "display_name": "Jagger, Istedgade, K\u00f8dbyen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1650, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "49397619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3676000351",
+    "boundingbox": [
+      "52.5012767",
+      "52.5013767",
+      "13.3290907",
+      "13.3291907"
+    ],
+    "lat": "52.5013267",
+    "lon": "13.3291407",
+    "display_name": "Jagger, Meinekestra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10719, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "8091388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "879400391",
+    "boundingbox": [
+      "59.8536761",
+      "59.8537761",
+      "30.3030664",
+      "30.3031664"
+    ],
+    "lat": "59.8537261",
+    "lon": "30.3031164",
+    "display_name": "Jagger, 2, \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u041a\u043e\u043d\u0441\u0442\u0438\u0442\u0443\u0446\u0438\u0438, \u041f\u0440\u0435\u0434\u043f\u043e\u0440\u0442\u043e\u0432\u0430\u044f, \u043e\u043a\u0440\u0443\u0433 \u041d\u043e\u0432\u043e\u0438\u0437\u043c\u0430\u0439\u043b\u043e\u0432\u0441\u043a\u043e\u0435, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

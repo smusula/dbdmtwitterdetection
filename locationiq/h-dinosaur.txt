@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "160261236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112164",
+    "boundingbox": [
+      "40.233249",
+      "40.250201",
+      "-109.0181139",
+      "-108.9928619"
+    ],
+    "lat": "40.243578",
+    "lon": "-109.0145612",
+    "display_name": "Dinosaur, Moffat County, Colorado, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36650672486204,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "65736140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18530132",
+    "boundingbox": [
+      "38.3659745",
+      "38.3664939",
+      "-90.3889443",
+      "-90.3886616"
+    ],
+    "lat": "38.3659745",
+    "lon": "-90.3889443",
+    "display_name": "Dinosaur, Sunnyside, Jefferson County, Missouri, 63052, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2652425463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475609998",
+    "boundingbox": [
+      "-41.1967469",
+      "-41.1957103",
+      "146.3204103",
+      "146.3236653"
+    ],
+    "lat": "-41.196101",
+    "lon": "146.3219468",
+    "display_name": "Dinosaur, Don, Devonport, City of Devonport, Tasmania, 7310, Australia",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "15435724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1379942397",
+    "boundingbox": [
+      "51.4171266",
+      "51.4172266",
+      "-0.0680412",
+      "-0.0679412"
+    ],
+    "lat": "51.4171766",
+    "lon": "-0.0679912",
+    "display_name": "Dinosaur, Orchard Grove, Crystal Palace, London Borough of Bromley, London, Greater London, England, SE20 8DW, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "15105789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1379942453",
+    "boundingbox": [
+      "51.4177382",
+      "51.4178382",
+      "-0.0667614",
+      "-0.0666614"
+    ],
+    "lat": "51.4177882",
+    "lon": "-0.0667114",
+    "display_name": "Dinosaur, Geological strata bridge, Crystal Palace, London Borough of Bromley, London, Greater London, England, SE20 8DX, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2646815832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4563260345",
+    "boundingbox": [
+      "-6.9008255",
+      "-6.9007255",
+      "107.5983619",
+      "107.5984619"
+    ],
+    "lat": "-6.9007755",
+    "lon": "107.5984119",
+    "display_name": "Dinosaur, Jalan Dr. Otten, Sukabungah, Jawa Barat, 40218, Indonesia",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "341841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150958666",
+    "boundingbox": [
+      "36.6121729",
+      "36.6321729",
+      "-119.5570744",
+      "-119.5370744"
+    ],
+    "lat": "36.6221729",
+    "lon": "-119.5470744",
+    "display_name": "Miley, Fresno County, California, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.47009012684562,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "418669",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154009300",
+    "boundingbox": [
+      "32.9279407",
+      "32.9679407",
+      "-81.0517712",
+      "-81.0117712"
+    ],
+    "lat": "32.9479407",
+    "lon": "-81.0317712",
+    "display_name": "Miley, Hampton County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54441147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4173293080",
+    "boundingbox": [
+      "44.475558",
+      "44.475658",
+      "0.2568415",
+      "0.2569415"
+    ],
+    "lat": "44.475608",
+    "lon": "0.2568915",
+    "display_name": "Miley, Birac-sur-Trec, Marmande, Lot-et-Garonne, Nouvelle-Aquitaine, 47200, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "63696080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15367062",
+    "boundingbox": [
+      "29.81693",
+      "29.816931",
+      "-95.2845439",
+      "-95.2843719"
+    ],
+    "lat": "29.81693",
+    "lon": "-95.2845439",
+    "display_name": "Miley, Houston, Harris County, Texas, 77028, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65847080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18727424",
+    "boundingbox": [
+      "37.010619",
+      "37.010639",
+      "-91.3225889",
+      "-91.3211399"
+    ],
+    "lat": "37.010633",
+    "lon": "-91.3219259",
+    "display_name": "Miley, Winona, Shannon County, Missouri, 65588, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78719338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56203468",
+    "boundingbox": [
+      "56.479992",
+      "56.4801061",
+      "-2.995016",
+      "-2.9948863"
+    ],
+    "lat": "56.479992",
+    "lon": "-2.995016",
+    "display_name": "The Miley, Downfield, Dundee, Dundee City, Scotland, UK",
+    "class": "highway",
+    "type": "steps",
+    "importance": 0.175
+  },
+  {
+    "place_id": "104121687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171350295",
+    "boundingbox": [
+      "56.4798651",
+      "56.479992",
+      "-2.9950163",
+      "-2.995016"
+    ],
+    "lat": "56.4798651",
+    "lon": "-2.9950163",
+    "display_name": "The Miley, Downfield, Dundee, Dundee City, Scotland, UK",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "78926086",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "56203467",
+    "boundingbox": [
+      "56.4713104",
+      "56.4717072",
+      "-3.0015025",
+      "-3.0014541"
+    ],
+    "lat": "56.4713104",
+    "lon": "-3.0015025",
+    "display_name": "The Miley, Lochee, Dundee, Dundee City, Scotland, UK",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "45546334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3240855605",
+    "boundingbox": [
+      "48.835833",
+      "48.835933",
+      "2.3217419",
+      "2.3218419"
+    ],
+    "lat": "48.835883",
+    "lon": "2.3217919",
+    "display_name": "Le Miley, Rue Raymond Losserand, Plaisance, 14e, Paris, \u00cele-de-France, 75014, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "104120048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171350298",
+    "boundingbox": [
+      "56.4717072",
+      "56.4798651",
+      "-3.0014541",
+      "-2.9950163"
+    ],
+    "lat": "56.4766982",
+    "lon": "-2.9995088",
+    "display_name": "The Miley, Lochee, Dundee, Dundee City, Scotland, UK",
+    "class": "railway",
+    "type": "abandoned",
+    "importance": 0.101
+  }
+]

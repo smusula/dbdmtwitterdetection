@@ -1,0 +1,151 @@
+[
+  {
+    "place_id": "4318548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "472429001",
+    "boundingbox": [
+      "51.1800079",
+      "51.2600079",
+      "-3.016414",
+      "-2.936414"
+    ],
+    "lat": "51.2200079",
+    "lon": "-2.976414",
+    "display_name": "Highbridge, Somerset, South West England, England, TA9 3, UK",
+    "class": "place",
+    "type": "town",
+    "importance": 0.46415097256809,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "633237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "243065533",
+    "boundingbox": [
+      "54.7660921",
+      "54.8060921",
+      "-2.9609087",
+      "-2.9209087"
+    ],
+    "lat": "54.7860921",
+    "lon": "-2.9409087",
+    "display_name": "Highbridge, Cumbria, North West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647480539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4578025552",
+    "boundingbox": [
+      "56.874553",
+      "56.914553",
+      "-4.9790753",
+      "-4.9390753"
+    ],
+    "lat": "56.894553",
+    "lon": "-4.9590753",
+    "display_name": "Highbridge, Highland, Scotland, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "317430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150932880",
+    "boundingbox": [
+      "44.263244",
+      "44.303244",
+      "-112.2324888",
+      "-112.1924888"
+    ],
+    "lat": "44.283244",
+    "lon": "-112.2124888",
+    "display_name": "Highbridge, Clark County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "71603474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29579709",
+    "boundingbox": [
+      "55.017192",
+      "55.0177389",
+      "-1.6250815",
+      "-1.6236678"
+    ],
+    "lat": "55.0177389",
+    "lon": "-1.6239735",
+    "display_name": "Highbridge, Gosforth, Newcastle upon Tyne, Tyne and Wear, North East England, England, NE3 2JH, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "102869018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166594937",
+    "boundingbox": [
+      "51.166073",
+      "51.1662095",
+      "-3.3081283",
+      "-3.307628"
+    ],
+    "lat": "51.166073",
+    "lon": "-3.3081283",
+    "display_name": "Highbridge, Williton CP, West Somerset District, Somerset, South West England, England, TA4 4RQ, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "95565498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135983953",
+    "boundingbox": [
+      "52.7321566",
+      "52.7325012",
+      "-1.1102765",
+      "-1.1089639"
+    ],
+    "lat": "52.7324856",
+    "lon": "-1.1096047",
+    "display_name": "Highbridge, Sileby, Charnwood, Leicestershire, East Midlands, England, LE12 7LZ, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "4491793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "474888985",
+    "boundingbox": [
+      "51.6874908",
+      "51.6875908",
+      "-0.0066185",
+      "-0.0065185"
+    ],
+    "lat": "51.6875408",
+    "lon": "-0.0065685",
+    "display_name": "Highbridge, Abbey View Roundabout, Waltham Abbey CP, Epping Forest, Essex, East of England, England, EN9 1BY, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

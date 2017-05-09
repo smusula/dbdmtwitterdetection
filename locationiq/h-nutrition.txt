@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "54116432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4170124356",
+    "boundingbox": [
+      "37.1132567",
+      "37.1133567",
+      "-121.6387989",
+      "-121.6386989"
+    ],
+    "lat": "37.1133067",
+    "lon": "-121.6387489",
+    "display_name": "Nutrition, Vineyard Boulevard, Morgan Hill, Santa Clara County, California, 95037, United States of America",
+    "class": "shop",
+    "type": "nutrition_supplements",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53325946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4051804761",
+    "boundingbox": [
+      "-16.4021932",
+      "-16.4020932",
+      "-71.5299889",
+      "-71.5298889"
+    ],
+    "lat": "-16.4021432",
+    "lon": "-71.5299389",
+    "display_name": "Nutrition, Octavio Mu\u00f1oz Najar, La Muela, Umacollo, Arequipa, 04000, Per\u00fa",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "140921232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "337729790",
+    "boundingbox": [
+      "16.430667",
+      "16.4307879",
+      "102.8480134",
+      "102.8481332"
+    ],
+    "lat": "16.43073215",
+    "lon": "102.848073526986",
+    "display_name": "\u0e42\u0e20\u0e0a\u0e19\u0e28\u0e32\u0e2a\u0e15\u0e23\u0e4c, \u0e0b\u0e2d\u0e22\u0e1b\u0e23\u0e30\u0e0a\u0e32\u0e2a\u0e42\u0e21\u0e2a\u0e23 17 (\u0e23\u0e48\u0e27\u0e21\u0e21\u0e34\u0e15\u0e23), \u0e28\u0e38\u0e20\u0e32\u0e25\u0e31\u0e22\u0e1e\u0e32\u0e23\u0e4c\u0e04\u0e27\u0e34\u0e27, \u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e02\u0e2d\u0e19\u0e41\u0e01\u0e48\u0e19, 40000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  }
+]

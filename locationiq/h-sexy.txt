@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "153987263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "413403248",
+    "boundingbox": [
+      "18.9330617",
+      "18.9331216",
+      "-70.4046298",
+      "-70.4045591"
+    ],
+    "lat": "18.93309165",
+    "lon": "-70.40459445",
+    "display_name": "Sexy, Calle Dominicana, Hugo Ch\u00e1vez, Bonao, Monse\u00f1or Nouel, Rep\u00fablica Dominicana",
+    "class": "shop",
+    "type": "erotic",
+    "importance": 0.101
+  },
+  {
+    "place_id": "48166295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3540564217",
+    "boundingbox": [
+      "39.9291829",
+      "39.9292829",
+      "116.4610045",
+      "116.4611045"
+    ],
+    "lat": "39.9292329",
+    "lon": "116.4610545",
+    "display_name": "Sexy, \u56e2\u7ed3\u6e56\u8def, \u8f9b\u5e84\u6751, \u671d\u9633\u533a / Chaoyang, \u5317\u4eac\u5e02, 100004, \u4e2d\u56fd",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "24262081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2366692480",
+    "boundingbox": [
+      "-37.7996409",
+      "-37.7995409",
+      "144.900814",
+      "144.900914"
+    ],
+    "lat": "-37.7995909",
+    "lon": "144.900864",
+    "display_name": "Sexy, 32A, Nicholson Street, Footscray, City of Maribyrnong, Greater Melbourne, Victoria, 3011, Australia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

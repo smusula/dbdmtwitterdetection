@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "95981933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138141251",
+    "boundingbox": [
+      "40.7498531",
+      "40.751161",
+      "-73.9944445",
+      "-73.9925923"
+    ],
+    "lat": "40.7505247",
+    "lon": "-73.9935501780078",
+    "display_name": "MSG, 46, West 31 Street, Koreatown, Manhattan, New York County, NYC, New York, NY 10001, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.6696462138632,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "54461554",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4205895695",
+    "boundingbox": [
+      "50.9475681",
+      "50.9476681",
+      "6.9589317",
+      "6.9590317"
+    ],
+    "lat": "50.9476181",
+    "lon": "6.9589817",
+    "display_name": "msg, 55, Domstra\u00dfe, Kunibertsviertel, Altstadt-Nord, Innenstadt, K\u00f6ln, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50668, Deutschland",
+    "class": "office",
+    "type": "it",
+    "importance": 0.111
+  },
+  {
+    "place_id": "83306593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87823812",
+    "boundingbox": [
+      "49.777992",
+      "49.77906",
+      "9.374359",
+      "9.377311"
+    ],
+    "lat": "49.778572",
+    "lon": "9.375726",
+    "display_name": "MSG, Uferstra\u00dfe, Dorfprozelten, Landkreis Miltenberg, Unterfranken, Bayern, 97904, Deutschland",
+    "class": "man_made",
+    "type": "pier",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55382091",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4299925889",
+    "boundingbox": [
+      "49.9783007",
+      "49.9784007",
+      "36.2721229",
+      "36.2722229"
+    ],
+    "lat": "49.9783507",
+    "lon": "36.2721729",
+    "display_name": "\u0421\u0422\u041e \u041c\u0430\u0441\u0442\u0435\u0440 \u0421\u0435\u0440\u0432\u0438\u0441, 1, \u041d\u043e\u0432\u043e\u0440\u043e\u0441\u0456\u0439\u0441\u044c\u043a\u0438\u0439 \u043f\u0440\u043e\u0432\u0443\u043b\u043e\u043a, \u0411\u0430\u043b\u0430\u0448\u043e\u0432\u043a\u0430, \u0425\u0430\u0440\u043a\u0456\u0432, \u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0425\u0430\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 61065, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "72076467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30777105",
+    "boundingbox": [
+      "49.2009801",
+      "49.2013972",
+      "8.1110754",
+      "8.1115119"
+    ],
+    "lat": "49.20126335",
+    "lon": "8.11137461263474",
+    "display_name": "Max-Slevogt-Gymnasium, 2, Hindenburgstra\u00dfe, Landau-Kernstadt, Landau, Landau in der Pfalz, Rheinland-Pfalz, 76829, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "118724934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231254684",
+    "boundingbox": [
+      "57.1403557",
+      "57.1412075",
+      "24.673191",
+      "24.6761609"
+    ],
+    "lat": "57.1407822",
+    "lon": "24.6746737599766",
+    "display_name": "MS\u0122, A3, Ozolaine, Jaunkrimulda, S\u0113jas novads, Vidzeme, Latvija",
+    "class": "leisure",
+    "type": "stadium",
+    "importance": 0.001
+  },
+  {
+    "place_id": "11017291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042038883",
+    "boundingbox": [
+      "-29.8552351",
+      "-29.8252351",
+      "28.761934",
+      "28.791934"
+    ],
+    "lat": "-29.8402351",
+    "lon": "28.776934",
+    "display_name": "Matsaile Airport, A4, Matabeng, Qacha's Nek District, Qacha's Nek, Lesotho",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

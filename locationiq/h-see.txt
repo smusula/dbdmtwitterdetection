@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "90738694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117425080",
+    "boundingbox": [
+      "50.7345327",
+      "50.737747",
+      "10.9372939",
+      "10.9448421"
+    ],
+    "lat": "50.7362382",
+    "lon": "10.9411212",
+    "display_name": "Die See, Ilmenau, Ilm-Kreis, Th\u00fcringen, Deutschland, Europe",
+    "class": "waterway",
+    "type": "drain",
+    "importance": 0.425
+  },
+  {
+    "place_id": "197816",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "35321448",
+    "boundingbox": [
+      "49.4392031",
+      "49.4792031",
+      "11.5014722",
+      "11.5414722"
+    ],
+    "lat": "49.4592031",
+    "lon": "11.5214722",
+    "display_name": "See, Happurg (VGem), Landkreis N\u00fcrnberger Land, Mittelfranken, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1514905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "325194467",
+    "boundingbox": [
+      "49.1685649",
+      "49.2085649",
+      "11.9624948",
+      "12.0024948"
+    ],
+    "lat": "49.1885649",
+    "lon": "11.9824948",
+    "display_name": "See, Landkreis Schwandorf, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "268588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "66492141",
+    "boundingbox": [
+      "49.1172556",
+      "49.1572556",
+      "11.7346834",
+      "11.7746834"
+    ],
+    "lat": "49.1372556",
+    "lon": "11.7546834",
+    "display_name": "See, Landkreis Neumarkt in der Oberpfalz, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "136067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "27277158",
+    "boundingbox": [
+      "48.4659502",
+      "48.5059502",
+      "11.8224229",
+      "11.8624229"
+    ],
+    "lat": "48.4859502",
+    "lon": "11.8424229",
+    "display_name": "See, Zolling (VGem), Bayern, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "24874221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2405403866",
+    "boundingbox": [
+      "49.0337123",
+      "49.0737123",
+      "12.4217194",
+      "12.4617194"
+    ],
+    "lat": "49.0537123",
+    "lon": "12.4417194",
+    "display_name": "See, Falkenstein (VGem), Landkreis Cham, OPf, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6123981",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "632715655",
+    "boundingbox": [
+      "48.7234878",
+      "48.7634878",
+      "11.9470659",
+      "11.9870659"
+    ],
+    "lat": "48.7434878",
+    "lon": "11.9670659",
+    "display_name": "See, Landkreis Kelheim, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "70454837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27491244",
+    "boundingbox": [
+      "47.6803848",
+      "47.6826331",
+      "10.3309026",
+      "10.3351544"
+    ],
+    "lat": "47.68148715",
+    "lon": "10.3328155785055",
+    "display_name": "See, Landkreis Oberallg\u00e4u, Schwaben, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1509424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "324304829",
+    "boundingbox": [
+      "48.3335366",
+      "48.3735366",
+      "12.2476481",
+      "12.2876481"
+    ],
+    "lat": "48.3535366",
+    "lon": "12.2676481",
+    "display_name": "See, Velden (VGem), Landkreis Landshut, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1503178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "324293283",
+    "boundingbox": [
+      "48.7458303",
+      "48.7858303",
+      "12.6896857",
+      "12.7296857"
+    ],
+    "lat": "48.7658303",
+    "lon": "12.7096857",
+    "display_name": "See, Landkreis Dingolfing-Landau, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

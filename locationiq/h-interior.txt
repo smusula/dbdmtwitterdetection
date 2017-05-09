@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "26620341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2528649013",
+    "boundingbox": [
+      "12.5107167",
+      "12.5507167",
+      "123.7122033",
+      "123.7522033"
+    ],
+    "lat": "12.5307167",
+    "lon": "123.7322033",
+    "display_name": "Interior, Bangad, Masbate, Bicol Region, Philippines",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6852858",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "703488292",
+    "boundingbox": [
+      "8.0539072",
+      "8.0739072",
+      "-72.9772601",
+      "-72.9572601"
+    ],
+    "lat": "8.0639072",
+    "lon": "-72.9672601",
+    "display_name": "El Interior, Alto El Pozo, Bucarasica, Norte de Santander, Colombia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160295052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "194946",
+    "boundingbox": [
+      "43.7192965",
+      "43.7335214",
+      "-102.0011301",
+      "-101.9681476"
+    ],
+    "lat": "43.726938",
+    "lon": "-101.9840419",
+    "display_name": "Interior, Jackson County, South Dakota, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.32367496645424,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2645907151",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242182623",
+    "boundingbox": [
+      "-14.9263738",
+      "-14.9259019",
+      "13.5185601",
+      "13.5191164"
+    ],
+    "lat": "-14.9263738",
+    "lon": "13.5191164",
+    "display_name": "interior, condominio omatapalo, Lubango, Hu\u00edla, Angola",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "70745681",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28265108",
+    "boundingbox": [
+      "18.4642305",
+      "18.4647055",
+      "-69.9567276",
+      "-69.9565437"
+    ],
+    "lat": "18.4646179",
+    "lon": "-69.9566925",
+    "display_name": "Interior, La Castellana, Los Jardines, Santo Domingo, Distrito Nacional, 10149, Rep\u00fablica Dominicana",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71369336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28976103",
+    "boundingbox": [
+      "14.6454074",
+      "14.6455874",
+      "121.0906429",
+      "121.0924788"
+    ],
+    "lat": "14.6455801",
+    "lon": "121.0915788",
+    "display_name": "Interior, Valentino Subdivision, Malanday, Marikina, Metro Manila, 1805, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76907219",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "47544766",
+    "boundingbox": [
+      "-33.4810224",
+      "-33.4803742",
+      "-70.6929167",
+      "-70.6918589"
+    ],
+    "lat": "-33.4807721",
+    "lon": "-70.6926802",
+    "display_name": "Interior, Cerrillos, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9210007, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "128769162",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "280016485",
+    "boundingbox": [
+      "-33.5082339",
+      "-33.5079067",
+      "-70.7634654",
+      "-70.7634586"
+    ],
+    "lat": "-33.5079067",
+    "lon": "-70.7634586",
+    "display_name": "Interior, Maip\u00fa, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9250678, Chile",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "82253870",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "81413706",
+    "boundingbox": [
+      "-33.4365996",
+      "-33.4354783",
+      "-71.6947694",
+      "-71.6930742"
+    ],
+    "lat": "-33.4365996",
+    "lon": "-71.694072",
+    "display_name": "Interior, Comunidad Challamillay, El Quisco, Provincia de San Antonio, V Regi\u00f3n de Valpara\u00edso, Chile",
+    "class": "highway",
+    "type": "living_street",
+    "importance": 0.2
+  },
+  {
+    "place_id": "112041985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204367514",
+    "boundingbox": [
+      "20.9659872",
+      "20.9678621",
+      "-101.2858537",
+      "-101.2837723"
+    ],
+    "lat": "20.9667266",
+    "lon": "-101.2853713",
+    "display_name": "Interior, M\u00e1rtires del 22 de abril, Yerbabuena, Guanajuato, 36257, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

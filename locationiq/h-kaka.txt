@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "17315814",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1683892756",
+    "boundingbox": [
+      "-38.8157799",
+      "-38.8156799",
+      "174.82572",
+      "174.82582"
+    ],
+    "lat": "-38.8157299",
+    "lon": "174.82577",
+    "display_name": "Kaka, Ruapehu District, Manawatu-Wanganui, New Zealand/Aotearoa",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "16860545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1576552250",
+    "boundingbox": [
+      "7.248487",
+      "7.328487",
+      "36.5350985",
+      "36.6150985"
+    ],
+    "lat": "7.288487",
+    "lon": "36.5750985",
+    "display_name": "Kaka, Kaffa, Southern Nations, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "21656161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2151753466",
+    "boundingbox": [
+      "10.5394573",
+      "10.6194573",
+      "32.1109234",
+      "32.1909234"
+    ],
+    "lat": "10.5794573",
+    "lon": "32.1509234",
+    "display_name": "Kaka, Upper Nile State, South Sudan",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "355537",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150978861",
+    "boundingbox": [
+      "32.4897805",
+      "32.5297805",
+      "-112.3365307",
+      "-112.2965307"
+    ],
+    "lat": "32.5097805",
+    "lon": "-112.3165307",
+    "display_name": "Kaka, Maricopa County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38518118496167,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17578866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1701215340",
+    "boundingbox": [
+      "-4.4627777",
+      "-4.4227777",
+      "15.3262778",
+      "15.3662778"
+    ],
+    "lat": "-4.4427777",
+    "lon": "15.3462778",
+    "display_name": "Kaka, Mont-Ngafula, Kinshasa, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25520437",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2460907582",
+    "boundingbox": [
+      "3.0842513",
+      "3.1242513",
+      "12.1365883",
+      "12.1765883"
+    ],
+    "lat": "3.1042513",
+    "lon": "12.1565883",
+    "display_name": "Kaka, Dja-et-Lobo, SU, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41857492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3037751308",
+    "boundingbox": [
+      "6.2567879",
+      "6.2967879",
+      "14.0744871",
+      "14.1144871"
+    ],
+    "lat": "6.2767879",
+    "lon": "14.0944871",
+    "display_name": "Kaka, Mb\u00e9r\u00e9, AD, Cameroun",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4557283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501411308",
+    "boundingbox": [
+      "8.78",
+      "8.82",
+      "12.43",
+      "12.47"
+    ],
+    "lat": "8.8",
+    "lon": "12.45",
+    "display_name": "Kaka, Fufore, Adamawa, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4583119",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501493096",
+    "boundingbox": [
+      "7.03",
+      "7.07",
+      "3.78",
+      "3.82"
+    ],
+    "lat": "7.05",
+    "lon": "3.8",
+    "display_name": "Kaka, Ijebu North, Ogun, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4597156",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501362382",
+    "boundingbox": [
+      "8.096667",
+      "8.136667",
+      "11.18",
+      "11.22"
+    ],
+    "lat": "8.116667",
+    "lon": "11.2",
+    "display_name": "Kaka, Bali, Taraba, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

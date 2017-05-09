@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "6048189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "618869101",
+    "boundingbox": [
+      "52.1523486",
+      "52.1524486",
+      "-0.7023068",
+      "-0.7022068"
+    ],
+    "lat": "52.1523986",
+    "lon": "-0.7022568",
+    "display_name": "Words, High Street South, Olney, Milton Keynes, South East, England, MK46 4AJ, UK",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27918548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2618010042",
+    "boundingbox": [
+      "40.730527",
+      "40.730627",
+      "-74.2784446",
+      "-74.2783446"
+    ],
+    "lat": "40.730577",
+    "lon": "-74.2783946",
+    "display_name": "[words], 179, Maplewood Avenue, Maplewood, Essex County, New Jersey, 07040, United States of America",
+    "class": "shop",
+    "type": "books",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649587898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4625324426",
+    "boundingbox": [
+      "3.142754",
+      "3.142854",
+      "101.6689348",
+      "101.6690348"
+    ],
+    "lat": "3.142804",
+    "lon": "101.6689848",
+    "display_name": "Words, Jalan Maarof, Bukit Persekutuan, Sentul, KL, 59000, Malaysia",
+    "class": "amenity",
+    "type": "kindergarten",
+    "importance": 0.101
+  }
+]

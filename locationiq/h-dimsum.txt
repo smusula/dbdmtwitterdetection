@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "53101388",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4043128201",
+    "boundingbox": [
+      "10.2658493",
+      "10.2659493",
+      "123.841923",
+      "123.842023"
+    ],
+    "lat": "10.2658993",
+    "lon": "123.841973",
+    "display_name": "Dimsum, Cebu South Road, Cebu City, Cebu, Central Visayas, 6000, Philippines",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "130252008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "287812813",
+    "boundingbox": [
+      "23.3759656",
+      "23.3761428",
+      "85.3324203",
+      "85.3325759"
+    ],
+    "lat": "23.37605425",
+    "lon": "85.3324933191582",
+    "display_name": "DIMSUM, Circular Road., Chutia, Ranchi, R\u0101nch\u012b, Ranchi, Jharkhand, 834001, India",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45408029",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3213739749",
+    "boundingbox": [
+      "10.7895934",
+      "10.7896934",
+      "106.7040704",
+      "106.7041704"
+    ],
+    "lat": "10.7896434",
+    "lon": "106.7041204",
+    "display_name": "DimSum, Nguy\u1ec5n Th\u1ecb Minh Khai, Ph\u01b0\u1eddng \u0110a Kao, Qu\u1eadn 1, Tp HCM, 100081, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18360980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1762105772",
+    "boundingbox": [
+      "14.8213944",
+      "14.8214944",
+      "120.9233992",
+      "120.9234992"
+    ],
+    "lat": "14.8214444",
+    "lon": "120.9234492",
+    "display_name": "Dimsum, Drive Thru, Petron Nlex South Bocaue, San Juan, Bulacan, Central Luzon, 3016, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "52650536",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3996613640",
+    "boundingbox": [
+      "37.738964",
+      "37.739064",
+      "-122.4799157",
+      "-122.4798157"
+    ],
+    "lat": "37.739014",
+    "lon": "-122.4798657",
+    "display_name": "Riverside Seafood Restaurant, 1201, Vicente Street, Saint Francis Wood, SF, California, 94116, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

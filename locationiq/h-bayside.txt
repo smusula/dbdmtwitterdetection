@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "480934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158810776",
+    "boundingbox": [
+      "40.7683851",
+      "40.7684851",
+      "-73.7771273",
+      "-73.7770273"
+    ],
+    "lat": "40.7684351",
+    "lon": "-73.7770773",
+    "display_name": "Bayside, Queens, Queens County, NYC, New York, 11361, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.47942458931282
+  },
+  {
+    "place_id": "331481",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "141033387",
+    "boundingbox": [
+      "40.8223507",
+      "40.8623507",
+      "-124.0836714",
+      "-124.0436714"
+    ],
+    "lat": "40.8423507",
+    "lon": "-124.0636714",
+    "display_name": "Bayside, Humboldt County, California, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.4514973276097,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "6283071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "656180804",
+    "boundingbox": [
+      "53.3686902",
+      "53.4086902",
+      "-6.160244",
+      "-6.120244"
+    ],
+    "lat": "53.3886902",
+    "lon": "-6.140244",
+    "display_name": "Bayside, Sutton ED, Dublin 13, Fingal, County Dublin, Leinster, Ireland",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.44434558847462,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "463986",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158322581",
+    "boundingbox": [
+      "37.7279071",
+      "37.7679071",
+      "-75.7374299",
+      "-75.6974299"
+    ],
+    "lat": "37.7479071",
+    "lon": "-75.7174299",
+    "display_name": "Bayside, Accomack County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42356246868834,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160300251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "242833",
+    "boundingbox": [
+      "43.169474",
+      "43.197598",
+      "-87.9244039",
+      "-87.880698"
+    ],
+    "lat": "43.1831885",
+    "lon": "-87.9055514",
+    "display_name": "Bayside, Milwaukee County, Wisconsin, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42136144456224,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "465288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158347253",
+    "boundingbox": [
+      "38.0856854",
+      "38.1256854",
+      "-76.6727364",
+      "-76.6327364"
+    ],
+    "lat": "38.1056854",
+    "lon": "-76.6527364",
+    "display_name": "Bayside, Westmoreland County, Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38224092420522,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11151513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1052017318",
+    "boundingbox": [
+      "42.0567838",
+      "42.0967838",
+      "-88.4348955",
+      "-88.3948955"
+    ],
+    "lat": "42.0767838",
+    "lon": "-88.4148955",
+    "display_name": "Bayside, Kane County, Illinois, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "501284",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158861203",
+    "boundingbox": [
+      "42.2800994",
+      "42.3200994",
+      "-70.9028235",
+      "-70.8628235"
+    ],
+    "lat": "42.3000994",
+    "lon": "-70.8828235",
+    "display_name": "Bayside, Plymouth County, Massachusetts, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "433966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154308618",
+    "boundingbox": [
+      "35.7286838",
+      "35.7686838",
+      "-84.681049",
+      "-84.641049"
+    ],
+    "lat": "35.7486838",
+    "lon": "-84.661049",
+    "display_name": "Bayside, Roane County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "400225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153759600",
+    "boundingbox": [
+      "34.5364818",
+      "34.5764818",
+      "-86.9875078",
+      "-86.9475078"
+    ],
+    "lat": "34.5564818",
+    "lon": "-86.9675078",
+    "display_name": "Bayside, Morgan County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

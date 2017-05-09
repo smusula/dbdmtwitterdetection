@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "153839835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "412282019",
+    "boundingbox": [
+      "43.0716632",
+      "43.0724896",
+      "-89.3090598",
+      "-89.3084353"
+    ],
+    "lat": "43.07205635",
+    "lon": "-89.3087618987866",
+    "display_name": "Dean Health, Service Road, Madison, Dane County, Wisconsin, 53716, United States of America",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  },
+  {
+    "place_id": "139580496",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "332207136",
+    "boundingbox": [
+      "43.3894774",
+      "43.3898851",
+      "19.6620294",
+      "19.6627896"
+    ],
+    "lat": "43.3897086",
+    "lon": "19.6623583400785",
+    "display_name": "Health, 200, \u041f\u0440\u0438\u0458\u0435\u043f\u043e\u0459\u0435, \u041e\u043f\u0448\u0442\u0438\u043d\u0430 \u041f\u0440\u0438\u0458\u0435\u043f\u043e\u0459\u0435, \u0417\u043b\u0430\u0442\u0438\u0431\u043e\u0440\u0441\u043a\u0438 \u043e\u043a\u0440\u0443\u0433, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u043d\u0430 \u0421\u0440\u0431\u0438\u0458\u0430, 31300, \u0421\u0440\u0431\u0438\u0458\u0430",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "159718341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444764473",
+    "boundingbox": [
+      "27.0532821",
+      "27.0536881",
+      "87.2822408",
+      "87.282737"
+    ],
+    "lat": "27.05349345",
+    "lon": "87.2824799485413",
+    "display_name": "Health Post, Road, Pakhribas, \u0927\u0928\u0915\u0941\u091f\u093e, \u0915\u094b\u0936\u0940 \u0905\u091e\u094d\u091a\u0932, \u092a\u0941\u0930\u094d\u0935\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0928\u0947\u092a\u093e\u0932",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  },
+  {
+    "place_id": "55447626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4310517391",
+    "boundingbox": [
+      "10.5003567",
+      "10.5004567",
+      "99.1787754",
+      "99.1788754"
+    ],
+    "lat": "10.5004067",
+    "lon": "99.1788254",
+    "display_name": "Health, 3180, \u0e0a\u0e38\u0e21\u0e1e\u0e23, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e38\u0e21\u0e1e\u0e23, 86000, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  },
+  {
+    "place_id": "2610640761",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "454606892",
+    "boundingbox": [
+      "34.3517445",
+      "34.3517771",
+      "47.073169",
+      "47.0744668"
+    ],
+    "lat": "34.3517771",
+    "lon": "47.073169",
+    "display_name": "\u0633\u0644\u0627\u0645\u062a, \u0627\u0644\u0647\u06cc\u0647, \u0645\u062c\u062a\u0645\u0639 \u0645\u0647\u0631, \u0642\u0631\u0647 \u0633\u0648, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647, \u0627\u0633\u062a\u0627\u0646 \u06a9\u0631\u0645\u0627\u0646\u0634\u0627\u0647\u200e, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "150788389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "395193554",
+    "boundingbox": [
+      "-0.1242268",
+      "-0.1237291",
+      "-78.4717634",
+      "-78.4714885"
+    ],
+    "lat": "-0.12398165",
+    "lon": "-78.4716329792231",
+    "display_name": "San J. Obrero, Avenida General Eloy Alfaro, Comit\u00e9 del Pueblo, Quito, Pichincha, 170303, Ecuador",
+    "class": "amenity",
+    "type": "hospital",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/health_hospital.p.20.png"
+  }
+]

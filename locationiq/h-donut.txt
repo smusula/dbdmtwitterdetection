@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "2653621071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "378371268",
+    "boundingbox": [
+      "51.2561181",
+      "51.2564421",
+      "-0.581464",
+      "-0.5812575"
+    ],
+    "lat": "51.2562818",
+    "lon": "-0.581357280994273",
+    "display_name": "donut, Rowan Close, Slyfield Industrial Estate, Bellfields, Guildford, Surrey, South East, England, GU1 1JY, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.111
+  },
+  {
+    "place_id": "151790998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400894442",
+    "boundingbox": [
+      "-33.9699204",
+      "-33.9698205",
+      "150.8914689",
+      "150.8915896"
+    ],
+    "lat": "-33.9698696",
+    "lon": "150.891529334583",
+    "display_name": "Donut, Roy Watts Road, Glenfield, Sydney, Campbelltown, NSW, 2565, Australia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2646434640",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4553950555",
+    "boundingbox": [
+      "51.6193018",
+      "51.6194018",
+      "-3.9455165",
+      "-3.9454165"
+    ],
+    "lat": "51.6193518",
+    "lon": "-3.9454665",
+    "display_name": "The Donut Den, Oxford Street, Castle, Swansea, Wales, SA1 3PE, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18483918",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1802312722",
+    "boundingbox": [
+      "51.6217337",
+      "51.6218337",
+      "-3.938801",
+      "-3.938701"
+    ],
+    "lat": "51.6217837",
+    "lon": "-3.938751",
+    "display_name": "Donut, Parc Tawe Link Road, Castle, Swansea, Wales, SA1 2AL, UK",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "16722837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1584111262",
+    "boundingbox": [
+      "41.5513187",
+      "41.5514187",
+      "-88.1571917",
+      "-88.1570917"
+    ],
+    "lat": "41.5513687",
+    "lon": "-88.1571417",
+    "display_name": "Donut Den, Theodore Street, Joliet, Will County, Illinois, 60435, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28262052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2646671879",
+    "boundingbox": [
+      "33.8087623",
+      "33.8088623",
+      "-118.3600598",
+      "-118.3599598"
+    ],
+    "lat": "33.8088123",
+    "lon": "-118.3600098",
+    "display_name": "Donut Den, Pacific Coast Highway, Torrance, Los Angeles County, California, 90505, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "20074364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2011578329",
+    "boundingbox": [
+      "37.3660458",
+      "37.3661458",
+      "-121.9420594",
+      "-121.9419594"
+    ],
+    "lat": "37.3660958",
+    "lon": "-121.9420094",
+    "display_name": "Donut Den, Martin Avenue, Santa Clara, Santa Clara County, California, 95050, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "54140705",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4163033233",
+    "boundingbox": [
+      "53.5002207",
+      "53.5003207",
+      "-1.0378395",
+      "-1.0377395"
+    ],
+    "lat": "53.5002707",
+    "lon": "-1.0377895",
+    "display_name": "Donut Den, Brockholes Lane, Cantley CP, Doncaster, Yorkshire and the Humber, England, DN3 3NH, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

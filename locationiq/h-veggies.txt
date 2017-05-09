@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "57173203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4446223623",
+    "boundingbox": [
+      "21.2456499",
+      "21.2457499",
+      "81.6416304",
+      "81.6417304"
+    ],
+    "lat": "21.2456999",
+    "lon": "81.6416804",
+    "display_name": "veggies, NH30, Raipur, Chhattisgarh, 492007, India",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "28383488",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2652376938",
+    "boundingbox": [
+      "26.504968",
+      "26.505068",
+      "80.2290872",
+      "80.2291872"
+    ],
+    "lat": "26.505018",
+    "lon": "80.2291372",
+    "display_name": "Veggies, Hall 7 Hall 8 Road, Kanpur, Kanpur Nagar, Uttar Pradesh, 208012, India",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "16014030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1471051373",
+    "boundingbox": [
+      "22.319058",
+      "22.319158",
+      "87.3058381",
+      "87.3059381"
+    ],
+    "lat": "22.319108",
+    "lon": "87.3058881",
+    "display_name": "Veggies, Scholars' Avenue, Kharagpur, Paschim Medinipur, West Bengal, 721301, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

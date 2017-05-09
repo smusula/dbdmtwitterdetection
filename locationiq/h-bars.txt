@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160615991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3242585",
+    "boundingbox": [
+      "45.072804",
+      "45.1170078",
+      "0.9926305",
+      "1.1052148"
+    ],
+    "lat": "45.09824",
+    "lon": "1.06238",
+    "display_name": "Bars, P\u00e9rigueux, Dordogne, Nouvelle-Aquitaine, 24210, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.527581015601,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "10717258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "975238900",
+    "boundingbox": [
+      "44.7546537",
+      "44.7946537",
+      "2.6495219",
+      "2.6895219"
+    ],
+    "lat": "44.7746537",
+    "lon": "2.6695219",
+    "display_name": "Bars, Rodez, Aveyron, Occitanie, 12600, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4050666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "431354130",
+    "boundingbox": [
+      "43.8476983",
+      "43.8876983",
+      "5.8778302",
+      "5.9178302"
+    ],
+    "lat": "43.8676983",
+    "lon": "5.8978302",
+    "display_name": "Le Bars, Digne-les-Bains, Alpes-de-Haute-Provence, Provence-Alpes-C\u00f4te d'Azur, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646058241",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4545311720",
+    "boundingbox": [
+      "43.988955",
+      "43.989055",
+      "2.1123169",
+      "2.1124169"
+    ],
+    "lat": "43.989005",
+    "lon": "2.1123669",
+    "display_name": "Bars, Cagnac-les-Mines, Albi, Tarn, Occitanie, 81130, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "28562230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2663152462",
+    "boundingbox": [
+      "52.9235478",
+      "52.9435478",
+      "-0.1853334",
+      "-0.1653334"
+    ],
+    "lat": "52.9335478",
+    "lon": "-0.1753334",
+    "display_name": "The Bars, Boston, Lincolnshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14937604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1356998873",
+    "boundingbox": [
+      "63.4172091",
+      "63.4572091",
+      "22.5764488",
+      "22.6164488"
+    ],
+    "lat": "63.4372091",
+    "lon": "22.5964488",
+    "display_name": "Jeppo, B\u00e4rs, Pietarsaaren seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, 66850, Suomi",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "7050353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "756861245",
+    "boundingbox": [
+      "56.4838893",
+      "56.5238893",
+      "8.9400581",
+      "8.9800581"
+    ],
+    "lat": "56.5038893",
+    "lon": "8.9600581",
+    "display_name": "B\u00e6rs, Skive Kommune, Region Midtjylland, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56335805",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4379826268",
+    "boundingbox": [
+      "33.09764",
+      "33.13764",
+      "65.01509",
+      "65.05509"
+    ],
+    "lat": "33.11764",
+    "lon": "65.03509",
+    "display_name": "\u0628\u0631\u0633, \u0628\u0627\u063a\u0631\u0627\u0646, Helmand \u0647\u0644\u0645\u0646\u062f, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18580582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1796720078",
+    "boundingbox": [
+      "42.3410569",
+      "42.3810569",
+      "43.890904",
+      "43.930904"
+    ],
+    "lat": "42.3610569",
+    "lon": "43.910904",
+    "display_name": "\u0411\u0430\u0440\u0441, \u0414\u0437\u0430\u0443\u044b \u0440\u0430\u0439\u043e\u043d, \u0425\u0443\u0441\u0441\u0430\u0440 \u0418\u0440\u044b\u0441\u0442\u043e\u043d - \u042e\u0436\u043d\u0430\u044f \u041e\u0441\u0435\u0442\u0438\u044f, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160270540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "128216",
+    "boundingbox": [
+      "43.495545",
+      "43.5283621",
+      "0.2725451",
+      "0.3285139"
+    ],
+    "lat": "43.5127778",
+    "lon": "0.295",
+    "display_name": "Bars, Mirande, Gers, Occitanie, 32300, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.26095925177046,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

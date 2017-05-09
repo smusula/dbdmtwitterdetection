@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "42540738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3098616803",
+    "boundingbox": [
+      "6.4137262",
+      "6.4537262",
+      "-10.2378672",
+      "-10.1978672"
+    ],
+    "lat": "6.4337262",
+    "lon": "-10.2178672",
+    "display_name": "Paper, District # 1, Grand Bassa County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160392194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1250604",
+    "boundingbox": [
+      "41.0287843",
+      "41.1410015",
+      "19.8745892",
+      "20.0195366"
+    ],
+    "lat": "41.0538876",
+    "lon": "19.9569239",
+    "display_name": "Pap\u00ebr, Elbasan, Qarku i Elbasanit, Shqip\u00ebria",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36204844474975,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "61079309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10660426",
+    "boundingbox": [
+      "41.2368045",
+      "41.2375022",
+      "-75.9559581",
+      "-75.9545406"
+    ],
+    "lat": "41.2369037",
+    "lon": "-75.9554358",
+    "display_name": "Paper, Plymouth, Luzerne County, Pennsylvania, 18651, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67841117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21802826",
+    "boundingbox": [
+      "37.737471",
+      "37.738187",
+      "-89.2895269",
+      "-89.2891849"
+    ],
+    "lat": "37.7378435",
+    "lon": "-89.289342977847",
+    "display_name": "Paper, Mount Carbon, Jackson County, Illinois, 62966, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61258613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11425597",
+    "boundingbox": [
+      "45.360429",
+      "45.37774",
+      "-70.8061239",
+      "-70.7878219"
+    ],
+    "lat": "45.367944",
+    "lon": "-70.7950809",
+    "display_name": "Paper, Coburn Gore, Franklin County, Maine, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "12517293",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1189583238",
+    "boundingbox": [
+      "52.1534397",
+      "52.1535397",
+      "4.4770219",
+      "4.4771219"
+    ],
+    "lat": "52.1534897",
+    "lon": "4.4770719",
+    "display_name": "paper, Frederik van Eedenlaan, Haagwegkwartier, Leiden, Zuid-Holland, Nederland, 2321BJ, Nederland",
+    "class": "amenity",
+    "type": "recycling",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_recycling.p.20.png"
+  },
+  {
+    "place_id": "17358978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1699300871",
+    "boundingbox": [
+      "48.9338811",
+      "48.9339811",
+      "21.8889346",
+      "21.8890346"
+    ],
+    "lat": "48.9339311",
+    "lon": "21.8889846",
+    "display_name": "paper, Mierov\u00e1, Humenn\u00e9, Pre\u0161ovsk\u00fd kraj, V\u00fdchodn\u00e9 Slovensko, 066 01, Slovensko",
+    "class": "amenity",
+    "type": "recycling",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_recycling.p.20.png"
+  },
+  {
+    "place_id": "43652675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3124227539",
+    "boundingbox": [
+      "52.5450154",
+      "52.5451154",
+      "12.3444844",
+      "12.3445844"
+    ],
+    "lat": "52.5450654",
+    "lon": "12.3445344",
+    "display_name": "paper, Stra\u00dfe der Freundschaft, Premnitz OT Am Dachsberg, D\u00f6beritz, Premnitz, Landkreis Havelland, Brandenburg, 14727, Deutschland",
+    "class": "amenity",
+    "type": "recycling",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_recycling.p.20.png"
+  },
+  {
+    "place_id": "17287380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1678625884",
+    "boundingbox": [
+      "50.0689445",
+      "50.0690445",
+      "8.8396503",
+      "8.8397503"
+    ],
+    "lat": "50.0689945",
+    "lon": "8.8397003",
+    "display_name": "paper, Franz-Liszt-Stra\u00dfe, Hausen, Obertshausen, Landkreis Offenbach, Regierungsbezirk Darmstadt, Hessen, 63179, Deutschland",
+    "class": "amenity",
+    "type": "recycling",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_recycling.p.20.png"
+  },
+  {
+    "place_id": "55092394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4246124056",
+    "boundingbox": [
+      "-15.9441971",
+      "-15.9440971",
+      "38.6645359",
+      "38.6646359"
+    ],
+    "lat": "-15.9441471",
+    "lon": "38.6645859",
+    "display_name": "paper, Zamb\u00e9zia, Mo\u00e7ambique",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  }
+]

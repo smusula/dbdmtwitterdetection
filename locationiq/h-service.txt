@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "363798",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151740258",
+    "boundingbox": [
+      "37.9514344",
+      "37.9914344",
+      "-91.1659716",
+      "-91.1259716"
+    ],
+    "lat": "37.9714344",
+    "lon": "-91.1459716",
+    "display_name": "Service, Crawford County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "391755",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153617748",
+    "boundingbox": [
+      "31.7157162",
+      "31.7557162",
+      "-89.243392",
+      "-89.203392"
+    ],
+    "lat": "31.7357162",
+    "lon": "-89.223392",
+    "display_name": "Service, Jones County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "53433081",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4053585172",
+    "boundingbox": [
+      "31.871128",
+      "31.871228",
+      "-102.4072794",
+      "-102.4071794"
+    ],
+    "lat": "31.871178",
+    "lon": "-102.4072294",
+    "display_name": "Service, Odessa, Ector County, Texas, 79769, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "119425007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "234322361",
+    "boundingbox": [
+      "32.5827419",
+      "32.5886622",
+      "74.0531304",
+      "74.0607586"
+    ],
+    "lat": "32.58541325",
+    "lon": "74.0577716883524",
+    "display_name": "Service, Gujrat, Gujr\u0101t District, \u067e\u0646\u062c\u0627\u0628, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "122233341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246313011",
+    "boundingbox": [
+      "-37.643124",
+      "-37.6431065",
+      "145.0435944",
+      "145.043707"
+    ],
+    "lat": "-37.6431167",
+    "lon": "145.0436553",
+    "display_name": "service, Epping, City of Whittlesea, Greater Melbourne, Victoria, 3752, Australia",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "141554205",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "340933624",
+    "boundingbox": [
+      "-1.4654209",
+      "-1.4529419",
+      "-78.1540399",
+      "-78.1232859"
+    ],
+    "lat": "-1.4585299",
+    "lon": "-78.1378719",
+    "display_name": "service, Cumand\u00e1, Cant\u00f3n Palora, Morona Santiago, Ecuador",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.21
+  },
+  {
+    "place_id": "74005265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37164388",
+    "boundingbox": [
+      "32.3076605",
+      "32.3107296",
+      "35.1693315",
+      "35.1797277"
+    ],
+    "lat": "32.309683",
+    "lon": "35.1744777",
+    "display_name": "service, \u0628\u0632\u0627\u0631\u064a\u0629, \u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u0628\u0644\u0633, Area B, \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d5\u05e9\u05d5\u05de\u05e8\u05d5\u05df, \u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "73944471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37152092",
+    "boundingbox": [
+      "32.3103582",
+      "32.3243083",
+      "35.1613249",
+      "35.1722993"
+    ],
+    "lat": "32.3164243",
+    "lon": "35.1653513",
+    "display_name": "service, \u0628\u0632\u0627\u0631\u064a\u0629, \u0645\u062d\u0627\u0641\u0638\u0629 \u0646\u0627\u0628\u0644\u0633, Area A, \u05d9\u05d4\u05d5\u05d3\u05d4 \u05d5\u05e9\u05d5\u05de\u05e8\u05d5\u05df, \u0627\u0644\u0623\u0631\u0627\u0636\u064a \u0627\u0644\u0641\u0644\u0633\u0637\u064a\u0646\u064a\u0629",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "65505294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18285847",
+    "boundingbox": [
+      "44.0197469",
+      "44.0207655",
+      "-91.5539672",
+      "-91.5441301"
+    ],
+    "lat": "44.0197469",
+    "lon": "-91.5487908",
+    "display_name": "Service, Homer, Winona County, Minnesota, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136806133",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "318517301",
+    "boundingbox": [
+      "-34.3531008",
+      "-34.3527529",
+      "18.9294165",
+      "18.9317113"
+    ],
+    "lat": "-34.3528174",
+    "lon": "18.9306257",
+    "display_name": "Service, Overstrand Ward 10, Overstrand Local Municipality, Overberg District Municipality, Western Cape, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

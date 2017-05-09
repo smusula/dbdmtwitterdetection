@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160266588",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "121470",
+    "boundingbox": [
+      "41.7268671",
+      "41.734862",
+      "-87.7411989",
+      "-87.7214349"
+    ],
+    "lat": "41.731246",
+    "lon": "-87.7309533",
+    "display_name": "Hometown, Cook County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.45497609677909,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160293042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187759",
+    "boundingbox": [
+      "40.808972",
+      "40.830839",
+      "-76.0064999",
+      "-75.9585069"
+    ],
+    "lat": "40.8236994",
+    "lon": "-75.9802045",
+    "display_name": "Hometown, Schuylkill County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42724870109112,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "423605",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153900374",
+    "boundingbox": [
+      "38.5128674",
+      "38.5528674",
+      "-81.8812443",
+      "-81.8412443"
+    ],
+    "lat": "38.5328674",
+    "lon": "-81.8612443",
+    "display_name": "Hometown, Putnam County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.34591738766298,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "128080976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "275275690",
+    "boundingbox": [
+      "43.392972",
+      "43.3967083",
+      "-89.0346967",
+      "-89.0286301"
+    ],
+    "lat": "43.3948949",
+    "lon": "-89.0325763754591",
+    "display_name": "Hometown, Fall River, Columbia County, Wisconsin, 53932, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "145130344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "366629557",
+    "boundingbox": [
+      "40.8545612",
+      "40.8581537",
+      "111.6472033",
+      "111.6573565"
+    ],
+    "lat": "40.8575573",
+    "lon": "111.6528298",
+    "display_name": "hometown, \u7389\u6cc9\u533a, \u547c\u548c\u6d69\u7279\u5e02, \u56de\u6c11\u533a (Huimin), \u0425\u04e9\u0445 / \u547c\u548c\u6d69\u7279\u5e02 / Hohhot, \u5185\u8499\u53e4\u81ea\u6cbb\u533a / Inner Mongolia, \u4e2d\u56fd",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.21
+  },
+  {
+    "place_id": "100246650",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156941359",
+    "boundingbox": [
+      "14.4653303",
+      "14.4671415",
+      "121.0314724",
+      "121.0324452"
+    ],
+    "lat": "14.4653303",
+    "lon": "121.0322799",
+    "display_name": "Hometown, Nehemiah Golden Townhouses, San Antonio, Para\u00f1aque, Metro Manila, 1715, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "29954333",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2722497176",
+    "boundingbox": [
+      "52.0784202",
+      "52.0785202",
+      "4.310444",
+      "4.310544"
+    ],
+    "lat": "52.0784702",
+    "lon": "4.310494",
+    "display_name": "Hometown, 6, Buitenhof, Museumkwartier, Den Haag, MRDH, Zuid-Holland, Nederland, 2513AG, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18413648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1779441445",
+    "boundingbox": [
+      "17.4270676",
+      "17.4271676",
+      "78.4529981",
+      "78.4530981"
+    ],
+    "lat": "17.4271176",
+    "lon": "78.4530481",
+    "display_name": "Hometown, Greenlands Road, Nishat Bagh Colony, Panjagutta, Hyderabad, Medak, Telangana, 500082, India",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "126356911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "264247231",
+    "boundingbox": [
+      "36.1136895",
+      "36.1138412",
+      "-97.0881027",
+      "-97.0878997"
+    ],
+    "lat": "36.11373795",
+    "lon": "-97.0880006726569",
+    "display_name": "Hometown, West 8th Avenue, Stillwater, Payne County, Oklahoma, 74074, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18604194",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1814280124",
+    "boundingbox": [
+      "33.2980417",
+      "33.2981417",
+      "-96.9823767",
+      "-96.9822767"
+    ],
+    "lat": "33.2980917",
+    "lon": "-96.9823267",
+    "display_name": "Hometown, US 377, Aubrey, Denton County, Texas, 76258, United States of America",
+    "class": "amenity",
+    "type": "pharmacy",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_pharmacy_dispensing.p.20.png"
+  }
+]

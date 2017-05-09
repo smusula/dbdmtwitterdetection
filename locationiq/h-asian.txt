@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "86506464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "102266879",
+    "boundingbox": [
+      "56.1511374",
+      "56.1567186",
+      "49.1050501",
+      "49.1111655"
+    ],
+    "lat": "56.1537309",
+    "lon": "49.1082258",
+    "display_name": "\u0410\u0441\u044f\u043d\u044c, \u0412\u044b\u0441\u043e\u043a\u043e\u0433\u043e\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0430\u0442\u0430\u0440\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 422723, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25400923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2430028485",
+    "boundingbox": [
+      "50.8826474",
+      "50.8827474",
+      "12.0775318",
+      "12.0776318"
+    ],
+    "lat": "50.8826974",
+    "lon": "12.0775818",
+    "display_name": "asian, Bahnhofstra\u00dfe, Untermhaus, Gera, Th\u00fcringen, 07545, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "19993354",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1985355380",
+    "boundingbox": [
+      "48.8681588",
+      "48.8682588",
+      "2.3014086",
+      "2.3015086"
+    ],
+    "lat": "48.8682088",
+    "lon": "2.3014586",
+    "display_name": "Asian, Passage Commun J8, Champs-\u00c9lys\u00e9es, 8e, Paris, \u00cele-de-France, 75008, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "7196454",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "766771808",
+    "boundingbox": [
+      "51.702869",
+      "51.702969",
+      "19.4196219",
+      "19.4197219"
+    ],
+    "lat": "51.702919",
+    "lon": "19.4196719",
+    "display_name": "Asian, 274a, Pabianicka, Chocianowice, \u0141\u00f3d\u017a-G\u00f3rna, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 93-457, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "18626587",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1792256883",
+    "boundingbox": [
+      "41.6463538",
+      "41.6464538",
+      "-0.8821287",
+      "-0.8820287"
+    ],
+    "lat": "41.6464038",
+    "lon": "-0.8820787",
+    "display_name": "Asian, 9, Calle Madre Vedruna, Casco Viejo, Zaragoza, Arag\u00f3n, 50008, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48436631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3553083998",
+    "boundingbox": [
+      "50.5866983",
+      "50.5867983",
+      "8.6703571",
+      "8.6704571"
+    ],
+    "lat": "50.5867483",
+    "lon": "8.6704071",
+    "display_name": "Asian, Neustadt, Kleinlinden, Gie\u00dfen, Landkreis Gie\u00dfen, Regierungsbezirk Gie\u00dfen, Hessen, 35390, Deutschland",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "3455074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "367314655",
+    "boundingbox": [
+      "52.6283797",
+      "52.6284797",
+      "11.1726694",
+      "11.1727694"
+    ],
+    "lat": "52.6284297",
+    "lon": "11.1727194",
+    "display_name": "Asian, Am Hegefeld, Kl\u00f6tze, Altmarkkreis Salzwedel, Sachsen-Anhalt, 38486, Deutschland",
+    "class": "shop",
+    "type": "food",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609307799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3814373853",
+    "boundingbox": [
+      "55.4861494",
+      "55.4862494",
+      "9.4730141",
+      "9.4731141"
+    ],
+    "lat": "55.4861994",
+    "lon": "9.4730641",
+    "display_name": "Asian, Sydbanegade, S\u00f8ndervang, Kolding, Kolding Kommune, Region Syddanmark, 6000, Danmark",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "1448109",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "321199004",
+    "boundingbox": [
+      "48.7330434",
+      "48.7331434",
+      "11.1828129",
+      "11.1829129"
+    ],
+    "lat": "48.7330934",
+    "lon": "11.1828629",
+    "display_name": "Le-Asian, Schwalbenstra\u00dfe, Feldkirchen, Neuburg a.d.Donau, Landkreis Neuburg-Schrobenhausen, OB, Bayern, 86633, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "18259972",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1757048268",
+    "boundingbox": [
+      "13.7809825",
+      "13.7810825",
+      "100.5758491",
+      "100.5759491"
+    ],
+    "lat": "13.7810325",
+    "lon": "100.5758991",
+    "display_name": "Asian, \u0e16\u0e19\u0e19\u0e23\u0e31\u0e0a\u0e14\u0e32\u0e20\u0e34\u0e40\u0e29\u0e01, \u0e40\u0e02\u0e15\u0e14\u0e34\u0e19\u0e41\u0e14\u0e07, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10400, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

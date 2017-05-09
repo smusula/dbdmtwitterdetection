@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "76200319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "43647507",
+    "boundingbox": [
+      "51.4552642",
+      "51.4552695",
+      "7.0128851",
+      "7.01321"
+    ],
+    "lat": "51.4552695",
+    "lon": "7.0131602",
+    "display_name": "Kunst, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, Deutschland",
+    "class": "waterway",
+    "type": "ditch",
+    "importance": 0.425
+  },
+  {
+    "place_id": "28329710",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2643891138",
+    "boundingbox": [
+      "50.7907091",
+      "50.7908091",
+      "7.9742399",
+      "7.9743399"
+    ],
+    "lat": "50.7907591",
+    "lon": "7.9742899",
+    "display_name": "Kunst, Langewiese, Neunkirchen, Kreis Siegen-Wittgenstein, Regierungsbezirk Arnsberg, Nordrhein-Westfalen, 57290, Deutschland",
+    "class": "man_made",
+    "type": "mineshaft",
+    "importance": 0.23061965013967
+  },
+  {
+    "place_id": "42360093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3092426641",
+    "boundingbox": [
+      "52.4687801",
+      "52.4688801",
+      "13.3291614",
+      "13.3292614"
+    ],
+    "lat": "52.4688301",
+    "lon": "13.3292114",
+    "display_name": "Kunst, Handjerystra\u00dfe, Friedenau, Tempelhof-Sch\u00f6neberg, Berlin, 12161, Deutschland",
+    "class": "shop",
+    "type": "art",
+    "importance": 0.101
+  },
+  {
+    "place_id": "8729385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "912508574",
+    "boundingbox": [
+      "45.9388448",
+      "45.9389448",
+      "15.4842368",
+      "15.4843368"
+    ],
+    "lat": "45.9388948",
+    "lon": "15.4842868",
+    "display_name": "Kunst, Ulica mladinskih delovnih brigad, Kr\u0161ko, Lower Sava Statistical Region, 8270, Slovenija",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "2610617490",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4510920690",
+    "boundingbox": [
+      "45.9389278",
+      "45.9390278",
+      "15.4843731",
+      "15.4844731"
+    ],
+    "lat": "45.9389778",
+    "lon": "15.4844231",
+    "display_name": "Kunst, Ulica mladinskih delovnih brigad, Kr\u0161ko, Lower Sava Statistical Region, 8270, Slovenija",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "158716811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "438395220",
+    "boundingbox": [
+      "45.9384802",
+      "45.9387854",
+      "15.4837384",
+      "15.4842307"
+    ],
+    "lat": "45.93865135",
+    "lon": "15.4839849203581",
+    "display_name": "Kunst, Ulica mladinskih delovnih brigad, Kr\u0161ko, Lower Sava Statistical Region, 8270, Slovenija",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47447368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3455366593",
+    "boundingbox": [
+      "49.328243",
+      "49.328343",
+      "8.544751",
+      "8.544851"
+    ],
+    "lat": "49.328293",
+    "lon": "8.544801",
+    "display_name": "Kunst, Dresdener Stra\u00dfe, Hockenheim, Verwaltungsgemeinschaft Hockenheim, Rhein-Neckar-Kreis, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 68766, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "8219368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "884773124",
+    "boundingbox": [
+      "51.6177949",
+      "51.6178949",
+      "11.0815776",
+      "11.0816776"
+    ],
+    "lat": "51.6178449",
+    "lon": "11.0816276",
+    "display_name": "Kunst, Bergbaulehrpfad, Neudorf, Harzgerode, Landkreis Harz, Sachsen-Anhalt, 06493, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "48170262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3519647862",
+    "boundingbox": [
+      "53.4443967",
+      "53.4444967",
+      "8.6036533",
+      "8.6037533"
+    ],
+    "lat": "53.4444467",
+    "lon": "8.6037033",
+    "display_name": "Kunst, Waldstra\u00dfe, Stotel, Loxstedt, Landkreis Cuxhaven, Niedersachsen, 27612, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "132873364",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300454518",
+    "boundingbox": [
+      "53.1043826",
+      "53.1045099",
+      "9.1392722",
+      "9.1395214"
+    ],
+    "lat": "53.10444625",
+    "lon": "9.13939681533225",
+    "display_name": "Kunst, Amtshof, Ottersberg Bahnhof, Ottersberg, Landkreis Verden, Niedersachsen, 28870, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

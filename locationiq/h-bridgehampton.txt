@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "160287845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175699",
+    "boundingbox": [
+      "40.8899949",
+      "40.9748386",
+      "-72.3365369",
+      "-72.2855739"
+    ],
+    "lat": "40.9378777",
+    "lon": "-72.3009157",
+    "display_name": "Bridgehampton, Suffolk County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4846342182247,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "118279894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "229661256",
+    "boundingbox": [
+      "51.0128233",
+      "51.0156009",
+      "-2.6255607",
+      "-2.6226693"
+    ],
+    "lat": "51.0141868",
+    "lon": "-2.62391857244269",
+    "display_name": "Bridgehampton, Yeovilton CP, South Somerset, Somerset, South West England, England, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "137866494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "323207013",
+    "boundingbox": [
+      "40.9391213",
+      "40.9392067",
+      "-72.3097147",
+      "-72.3095985"
+    ],
+    "lat": "40.93916455",
+    "lon": "-72.3096561617569",
+    "display_name": "Bridgehampton, 30, Maple Lane, Bridgehampton, Suffolk County, New York, 11932, United States of America",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "51630434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3865087004",
+    "boundingbox": [
+      "40.9443914",
+      "40.9444914",
+      "-72.8425987",
+      "-72.8424987"
+    ],
+    "lat": "40.9444414",
+    "lon": "-72.8425487",
+    "display_name": "Bridgehampton, Front Street, Wading River, Suffolk County, New York, 11792, United States of America",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  }
+]

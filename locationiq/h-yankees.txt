@@ -1,0 +1,97 @@
+[
+  {
+    "place_id": "15902206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1427521107",
+    "boundingbox": [
+      "40.7498046",
+      "40.7499046",
+      "-73.9833653",
+      "-73.9832653"
+    ],
+    "lat": "40.7498546",
+    "lon": "-73.9833153",
+    "display_name": "Yankees, 393, 5th Avenue, Koreatown, Manhattan, New York County, NYC, New York, 10035, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "16949287",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1632379415",
+    "boundingbox": [
+      "-26.2967755",
+      "-26.2966755",
+      "28.0467348",
+      "28.0468348"
+    ],
+    "lat": "-26.2967255",
+    "lon": "28.0467848",
+    "display_name": "Yankees, Kliprivier Road, Johannesburg Ward 23, Johannesburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2001, South Africa",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "139192888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "330338176",
+    "boundingbox": [
+      "54.6422157",
+      "54.6423276",
+      "-3.5433901",
+      "-3.543177"
+    ],
+    "lat": "54.64227515",
+    "lon": "-3.5432827280859",
+    "display_name": "Yankees, 37, Washington Street, Workington, Ashfield, Allerdale, Cumbria, North West England, England, CA14 3AX, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "39328531",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2918364668",
+    "boundingbox": [
+      "-26.1715427",
+      "-26.1714427",
+      "27.685252",
+      "27.685352"
+    ],
+    "lat": "-26.1714927",
+    "lon": "27.685302",
+    "display_name": "Yankees, Sauer Street, Randfontein Ward 4, Randfontein Local Municipality, West Rand District Municipality, Gauteng, South Africa",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "749954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "260243753",
+    "boundingbox": [
+      "53.3697767",
+      "53.3698767",
+      "-1.4934409",
+      "-1.4933409"
+    ],
+    "lat": "53.3698267",
+    "lon": "-1.4933909",
+    "display_name": "Yankee's, Ecclesall Road, Little Sheffield, Sharrow, Sheffield, Yorkshire and the Humber, England, S11 8PN, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160292269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187710",
+    "boundingbox": [
+      "39.904299",
+      "39.913788",
+      "-76.6429549",
+      "-76.6308589"
+    ],
+    "lat": "39.9089887",
+    "lon": "-76.6369115",
+    "display_name": "Yoe, York County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4470698843996,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "50992236",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3798805101",
+    "boundingbox": [
+      "13.007507",
+      "13.047507",
+      "-3.3822476",
+      "-3.3422476"
+    ],
+    "lat": "13.027507",
+    "lon": "-3.3622476",
+    "display_name": "Yo, Kassoum, Sourou, Boucle du Mouhoun, Burkina Faso",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42752202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3109685801",
+    "boundingbox": [
+      "6.50977",
+      "6.54977",
+      "-10.4516999",
+      "-10.4116999"
+    ],
+    "lat": "6.52977",
+    "lon": "-10.4316999",
+    "display_name": "Yoe, Todee, Montserrado County, Liberia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "41999793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3062218553",
+    "boundingbox": [
+      "8.2174607",
+      "8.2574607",
+      "-7.7104334",
+      "-7.6704334"
+    ],
+    "lat": "8.2374607",
+    "lon": "-7.6904334",
+    "display_name": "Yo, Bafing, Woroba, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42902950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3106156708",
+    "boundingbox": [
+      "8.267761",
+      "8.307761",
+      "-8.0818579",
+      "-8.0418579"
+    ],
+    "lat": "8.287761",
+    "lon": "-8.0618579",
+    "display_name": "Yo, Bafing, Woroba, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42656451",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3087182853",
+    "boundingbox": [
+      "7.571097",
+      "7.611097",
+      "-12.87169",
+      "-12.83169"
+    ],
+    "lat": "7.591097",
+    "lon": "-12.85169",
+    "display_name": "Yo, Bonthe District, Southern Province, Sierra Leone",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4557803",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501416606",
+    "boundingbox": [
+      "13.5376011",
+      "13.5776011",
+      "13.2126908",
+      "13.2526908"
+    ],
+    "lat": "13.5576011",
+    "lon": "13.2326908",
+    "display_name": "Yau Lawanti, Abadam, Borno, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10925439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042025627",
+    "boundingbox": [
+      "55.6958581",
+      "55.7258581",
+      "-117.116897",
+      "-117.086897"
+    ],
+    "lat": "55.7108581",
+    "lon": "-117.101897",
+    "display_name": "Donnelly Airport, Range Road 210, Donnelly, Alberta, Canada",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.13958297447186,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "2652782466",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4702383156",
+    "boundingbox": [
+      "-34.6250294",
+      "-34.6249294",
+      "-58.4677232",
+      "-58.4676232"
+    ],
+    "lat": "-34.6249794",
+    "lon": "-58.4676732",
+    "display_name": "Yo, Avenida Avellaneda, Flores, CABA, Comuna 7, CABA, C1406FWY, Argentina",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2645664941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4535678189",
+    "boundingbox": [
+      "39.4837465",
+      "39.4838465",
+      "-0.3784061",
+      "-0.3783061"
+    ],
+    "lat": "39.4837965",
+    "lon": "-0.3783561",
+    "display_name": "YO, Carrer de Lleida, Morvedre, La Sa\u00efdia, la Sa\u00efdia, vall\u00b4de ebo, Comarca de Val\u00e8ncia, Valencia/Val\u00e8ncia, Comunitat Valenciana, 46003, Espa\u00f1a",
+    "class": "amenity",
+    "type": "car_rental",
+    "importance": 0.101
+  }
+]

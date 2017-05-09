@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "4266991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "462007984",
+    "boundingbox": [
+      "57.7363174",
+      "57.8163174",
+      "25.9770113",
+      "26.0570113"
+    ],
+    "lat": "57.7763174",
+    "lon": "26.0170113",
+    "display_name": "Valka, Valkas novads, Vidzeme, Latvija",
+    "class": "place",
+    "type": "town",
+    "importance": 0.46803774035962,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "160361027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "933755",
+    "boundingbox": [
+      "48.8462844",
+      "48.8576079",
+      "7.603178",
+      "7.6183519"
+    ],
+    "lat": "48.8519787",
+    "lon": "7.61247138699397",
+    "display_name": "La Walck, Val-de-Moder, Haguenau-Wissembourg, Bas-Rhin, Grand-Est, 67350, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42536083199948,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "46484621",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3321322552",
+    "boundingbox": [
+      "53.0147842",
+      "53.0148842",
+      "-1.8604071",
+      "-1.8603071"
+    ],
+    "lat": "53.0148342",
+    "lon": "-1.8603571",
+    "display_name": "The Walk, East Staffordshire, Staffordshire, West Midlands, England, UK",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2609011905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1898515",
+    "boundingbox": [
+      "57.7543988",
+      "57.7984621",
+      "25.9642221",
+      "26.0505286"
+    ],
+    "lat": "57.77644465",
+    "lon": "26.0032184662821",
+    "display_name": "Valka, Valkas novads, Vidzeme, Latvija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160784930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4245820",
+    "boundingbox": [
+      "53.0977415",
+      "53.1105498",
+      "-7.7283416",
+      "-7.7019505"
+    ],
+    "lat": "53.10413785",
+    "lon": "-7.71652862945336",
+    "display_name": "The Walk, Kinnitty ED, Birr Municipal District, County Offaly, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "142506340",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "348318159",
+    "boundingbox": [
+      "48.9978088",
+      "49.0026536",
+      "23.3921449",
+      "23.4096458"
+    ],
+    "lat": "49.0015322",
+    "lon": "23.4017295",
+    "display_name": "\u0412\u0435\u043b\u0438\u043a\u0438\u0439, \u041a\u043e\u0440\u043e\u0441\u0442\u0456\u0432\u0441\u044c\u043a\u0430 \u0441\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0421\u043a\u043e\u043b\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "137741414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "322742519",
+    "boundingbox": [
+      "57.1579476",
+      "57.1778426",
+      "28.4877862",
+      "28.5338407"
+    ],
+    "lat": "57.1636638",
+    "lon": "28.5088275",
+    "display_name": "\u0412\u0435\u043b\u0438\u043a\u0430\u044f, \u041e\u0441\u0442\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041f\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.31239812023006
+  },
+  {
+    "place_id": "120852270",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "240410790",
+    "boundingbox": [
+      "52.0413169",
+      "52.0444071",
+      "-0.8679355",
+      "-0.8625215"
+    ],
+    "lat": "52.042946",
+    "lon": "-0.865221809554287",
+    "display_name": "The Walk, Calverton, Milton Keynes, South East, England, UK",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "49564935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3667654372",
+    "boundingbox": [
+      "49.0827008",
+      "49.0828008",
+      "22.9673388",
+      "22.9674388"
+    ],
+    "lat": "49.0827508",
+    "lon": "22.9673888",
+    "display_name": "\u0412\u0435\u0440\u0431\u043e\u0440\u0438\u043d\u044c, \u0411\u043e\u0440\u0438\u043d\u0441\u044c\u043a\u0430 \u0441\u0435\u043b\u0438\u0449\u043d\u0430 \u0440\u0430\u0434\u0430, \u0422\u0443\u0440\u043a\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041b\u044c\u0432\u0456\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160519049",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2133243",
+    "boundingbox": [
+      "57.7645545",
+      "57.7953596",
+      "26.0204243",
+      "26.0851551"
+    ],
+    "lat": "57.7830004",
+    "lon": "26.041835",
+    "display_name": "Valga, Valga maakond, Eesti",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  }
+]

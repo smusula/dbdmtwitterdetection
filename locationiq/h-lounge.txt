@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "135015547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "310489914",
+    "boundingbox": [
+      "6.0552605",
+      "6.055297",
+      "37.5575073",
+      "37.5575428"
+    ],
+    "lat": "6.0552787",
+    "lon": "37.5575250427273",
+    "display_name": "Lounge, \u12a0\u122d\u1263 \u121d\u1295\u132d / Arba Minch, Gamo Gofa, Southern Nations, 40, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "112787269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "207557176",
+    "boundingbox": [
+      "49.1858934",
+      "49.186223",
+      "-2.0985897",
+      "-2.0979325"
+    ],
+    "lat": "49.18609405",
+    "lon": "-2.09826362096307",
+    "display_name": "58-60, The Lounge, Parish of Saint Helier, JE2, Jersey",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "40266509",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2960381172",
+    "boundingbox": [
+      "45.7853775",
+      "45.7854775",
+      "4.8571444",
+      "4.8572444"
+    ],
+    "lat": "45.7854275",
+    "lon": "4.8571944",
+    "display_name": "Le Lounge, Esplanade Raymond Barre, Cit\u00e9 Internationale, Lyon 6e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69006, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "124802161",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256781063",
+    "boundingbox": [
+      "-33.8801471",
+      "-33.88002",
+      "151.2146798",
+      "151.2148426"
+    ],
+    "lat": "-33.88008095",
+    "lon": "151.214764345336",
+    "display_name": "The Lounge, Goulburn Street, The Rocks, Sydney, NSW, NSW 2010, Australia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "2650962341",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4657135690",
+    "boundingbox": [
+      "38.7079233",
+      "38.7080233",
+      "-9.1471712",
+      "-9.1470712"
+    ],
+    "lat": "38.7079733",
+    "lon": "-9.1471212",
+    "display_name": "Lounge, 1, Rua da Moeda, S\u00e3o Paulo, Cais do Sodre, S\u00e3o Paulo, Miseric\u00f3rdia, Lisboa, Grande Lisboa, \u00c1rea Metropolitana de Lisboa, 1200-275, Portugal",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56304190",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4412824638",
+    "boundingbox": [
+      "63.4330795",
+      "63.4331795",
+      "10.3965879",
+      "10.3966879"
+    ],
+    "lat": "63.4331295",
+    "lon": "10.3966379",
+    "display_name": "Lounge, 31, Olav Tryggvasons gate, Bakklandet, Midtbyen, Trondheim, S\u00f8r-Tr\u00f8ndelag, 7011, Norge",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "47516901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3463636051",
+    "boundingbox": [
+      "36.4885323",
+      "36.4886323",
+      "-4.9515455",
+      "-4.9514455"
+    ],
+    "lat": "36.4885823",
+    "lon": "-4.9514955",
+    "display_name": "The Lounge, Avenida Julio Iglesias, Aldea Blanca, Puerto Ban\u00fas, Marbella, M\u00e1laga, Andaluc\u00eda, 29660, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "17241832",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1644349518",
+    "boundingbox": [
+      "52.6824468",
+      "52.6825468",
+      "-1.8296904",
+      "-1.8295904"
+    ],
+    "lat": "52.6824968",
+    "lon": "-1.8296404",
+    "display_name": "The Lounge, Bird Street, Lichfield, Staffordshire, West Midlands, England, WS13 6QA, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "130914725",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "291252827",
+    "boundingbox": [
+      "52.5841702",
+      "52.5843674",
+      "-1.9786002",
+      "-1.9781914"
+    ],
+    "lat": "52.58422915",
+    "lon": "-1.9783670874375",
+    "display_name": "The Lounge, Freer Street, Blakenall, Walsall, West Midlands, England, WS1 1PT, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "4268729",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "459180044",
+    "boundingbox": [
+      "52.4443638",
+      "52.4444638",
+      "-1.9350762",
+      "-1.9349762"
+    ],
+    "lat": "52.4444138",
+    "lon": "-1.9350262",
+    "display_name": "The Lounge, Bristol Road, Bournbrook, Selly Oak, West Midlands Combined Authority, West Midlands, England, B29 6BQ, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "21013465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2076788349",
+    "boundingbox": [
+      "45.8427933",
+      "45.8827933",
+      "2.3277755",
+      "2.3677755"
+    ],
+    "lat": "45.8627933",
+    "lon": "2.3477755",
+    "display_name": "La Core, Aubusson, Creuse, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1485501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336172818",
+    "boundingbox": [
+      "27.2053333",
+      "27.2453333",
+      "-109.3701666",
+      "-109.3301666"
+    ],
+    "lat": "27.2253333",
+    "lon": "-109.3501666",
+    "display_name": "El Core, Navojoa, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23468969",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2319741362",
+    "boundingbox": [
+      "48.698753",
+      "48.718753",
+      "6.5377555",
+      "6.5577555"
+    ],
+    "lat": "48.708753",
+    "lon": "6.5477555",
+    "display_name": "La Core, Arracourt, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54370, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21633337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2128935033",
+    "boundingbox": [
+      "48.4147258",
+      "48.4347258",
+      "6.4520239",
+      "6.4720239"
+    ],
+    "lat": "48.4247258",
+    "lon": "6.4620239",
+    "display_name": "La Core, Essey-la-C\u00f4te, Lun\u00e9ville, Meurthe-et-Moselle, Grand-Est, 54830, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42868414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3110552448",
+    "boundingbox": [
+      "46.0722858",
+      "46.0723858",
+      "2.7888967",
+      "2.7889967"
+    ],
+    "lat": "46.0723358",
+    "lon": "2.7889467",
+    "display_name": "La Core, Goutti\u00e8res, Riom, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 63390, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "11992581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1150910555",
+    "boundingbox": [
+      "7.52333",
+      "7.54333",
+      "34.92333",
+      "34.94333"
+    ],
+    "lat": "7.53333",
+    "lon": "34.93333",
+    "display_name": "Core, Zone 0, Gambela, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "430556",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154009405",
+    "boundingbox": [
+      "39.6601124",
+      "39.7001124",
+      "-80.1271145",
+      "-80.0871145"
+    ],
+    "lat": "39.6801124",
+    "lon": "-80.1071145",
+    "display_name": "Core, Monongalia County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.34417377737972,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2646137347",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547445764",
+    "boundingbox": [
+      "13.422382",
+      "13.422482",
+      "120.7068205",
+      "120.7069205"
+    ],
+    "lat": "13.422432",
+    "lon": "120.7068705",
+    "display_name": "Core, Balao, Abra de Ilog, Occidental Mindoro, Mimaropa, Philippines",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17092275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1606908249",
+    "boundingbox": [
+      "43.0210498",
+      "43.0610498",
+      "17.8171408",
+      "17.8571408"
+    ],
+    "lat": "43.0410498",
+    "lon": "17.8371408",
+    "display_name": "\u010core, Op\u0107ina Stolac, Hercegova\u010dko-neretvanska \u017eupanija/kanton, Federacija Bosne i Hercegovine, Bosna i Hercegovina",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "51848435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3895765170",
+    "boundingbox": [
+      "49.0518436",
+      "49.0718436",
+      "4.1221799",
+      "4.1421799"
+    ],
+    "lat": "49.0618436",
+    "lon": "4.1321799",
+    "display_name": "Le Cor\u00e9, Tours-sur-Marne, \u00c9pernay, Marne, Grand-Est, 51150, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

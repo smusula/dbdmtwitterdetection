@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "8100450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "884126598",
+    "boundingbox": [
+      "55.2910657",
+      "55.3310657",
+      "8.8029046",
+      "8.8429046"
+    ],
+    "lat": "55.3110657",
+    "lon": "8.8229046",
+    "display_name": "Seem, Esbjerg Kommune, Region Syddanmark, Danmark",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2644972302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4521245067",
+    "boundingbox": [
+      "-34.8269717",
+      "-34.8268717",
+      "-55.9665167",
+      "-55.9664167"
+    ],
+    "lat": "-34.8269217",
+    "lon": "-55.9664667",
+    "display_name": "SEEM, Avenida Ingeniero Luis Giannattasio, Solymar, Ciudad de la Costa, Canelones, 15005, Uruguay",
+    "class": "amenity",
+    "type": "clinic",
+    "importance": 0.101
+  }
+]

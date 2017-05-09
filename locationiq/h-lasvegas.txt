@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "40677592",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2993367679",
+    "boundingbox": [
+      "24.0412033",
+      "24.0812033",
+      "-104.6158883",
+      "-104.5758883"
+    ],
+    "lat": "24.0612033",
+    "lon": "-104.5958883",
+    "display_name": "LasVegas, Durango, M\u00e9xico",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25740581",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2476191766",
+    "boundingbox": [
+      "20.8344256",
+      "20.8345256",
+      "106.6923405",
+      "106.6924405"
+    ],
+    "lat": "20.8344756",
+    "lon": "106.6923905",
+    "display_name": "Lasvegas, L\u00ea V\u0103n Thuy\u1ebft, Nam Ph\u00e1p 1, H\u1ea3i Ph\u00f2ng, 180000, Vi\u1ec7t Nam",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "28452183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2632323063",
+    "boundingbox": [
+      "51.523605",
+      "51.523705",
+      "20.0175711",
+      "20.0176711"
+    ],
+    "lat": "51.523655",
+    "lon": "20.0176211",
+    "display_name": "LasVegas, 69, \u015awi\u0119tego Antoniego, Hubala I, Tomasz\u00f3w Mazowiecki, powiat tomaszowski, \u0142\u00f3dzkie, Polska",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2651933180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4683130510",
+    "boundingbox": [
+      "47.406574",
+      "47.406674",
+      "32.2772804",
+      "32.2773804"
+    ],
+    "lat": "47.406624",
+    "lon": "32.2773304",
+    "display_name": "The LasVegas, \u041e150203, \u041d\u043e\u0432\u043e\u0431\u0456\u0440\u0437\u0443\u043b\u0456\u0432\u043a\u0430, \u0411\u0430\u0448\u0442\u0430\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043a\u043e\u043b\u0430\u0457\u0432\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 56131, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  }
+]

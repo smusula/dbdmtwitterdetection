@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "14015289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1263138751",
+    "boundingbox": [
+      "52.3918524",
+      "52.3919524",
+      "13.0916164",
+      "13.0917164"
+    ],
+    "lat": "52.3919024",
+    "lon": "13.0916664",
+    "display_name": "fashionista, 27, Rudolf-Breitscheid-Stra\u00dfe, Babelsberg Nord, Babelsberg, Potsdam, Brandenburg, 14482, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "146129013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "370577060",
+    "boundingbox": [
+      "48.1964965",
+      "48.196591",
+      "16.3375937",
+      "16.3377655"
+    ],
+    "lat": "48.1965438",
+    "lon": "16.3376796099821",
+    "display_name": "Fashionista, Bahnsteig 2, Nibelungenviertel, KG F\u00fcnfhaus, Rudolfsheim-F\u00fcnfhaus, Wien, 1150, \u00d6sterreich",
+    "class": "shop",
+    "type": "fashion",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647727418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4584003420",
+    "boundingbox": [
+      "48.1692566",
+      "48.1693566",
+      "16.4729328",
+      "16.4730328"
+    ],
+    "lat": "48.1693066",
+    "lon": "16.4729828",
+    "display_name": "Fashionista, 6, Landwehrstra\u00dfe, KG Kaiserebersdorf, Simmering, Wien, 1110, \u00d6sterreich",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  },
+  {
+    "place_id": "150984011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "396029585",
+    "boundingbox": [
+      "48.1848832",
+      "48.1849745",
+      "16.3759737",
+      "16.376293"
+    ],
+    "lat": "48.1849289",
+    "lon": "16.3761333519721",
+    "display_name": "Fashionista, S\u00fcdtiroler Platz, Quartier Belvedere, KG Favoriten, Favoriten, Wien, 1100, \u00d6sterreich",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "19167139",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1856225781",
+    "boundingbox": [
+      "54.7893467",
+      "54.7894467",
+      "9.4316942",
+      "9.4317942"
+    ],
+    "lat": "54.7893967",
+    "lon": "9.4317442",
+    "display_name": "Fashionista, 85, Gro\u00dfe Stra\u00dfe, Westliche H\u00f6he, Flensburg, Schleswig-Holstein, 24937, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "56829580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4427864979",
+    "boundingbox": [
+      "41.3131456",
+      "41.3132456",
+      "-72.9216272",
+      "-72.9215272"
+    ],
+    "lat": "41.3131956",
+    "lon": "-72.9215772",
+    "display_name": "Fashionista, Whitney Avenue, East Rock, New Haven, New Haven County, Connecticut, 06518, United States of America",
+    "class": "shop",
+    "type": "second_hand",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18725568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1818327258",
+    "boundingbox": [
+      "4.937879",
+      "4.937979",
+      "-52.3328213",
+      "-52.3327213"
+    ],
+    "lat": "4.937929",
+    "lon": "-52.3327713",
+    "display_name": "Fashionista, Rue Christophe Colomb, Cit\u00e9 Floralies, Cayenne, Guyane, 97300, France",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55751921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4335591641",
+    "boundingbox": [
+      "-11.9005525",
+      "-11.9004525",
+      "-77.0341832",
+      "-77.0340832"
+    ],
+    "lat": "-11.9005025",
+    "lon": "-77.0341332",
+    "display_name": "Fashionista, Avenida San Martin, AH La Voz de Israel, Carabayllo, Lima, 15316, Per\u00fa",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "21220504",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2102994217",
+    "boundingbox": [
+      "27.7129157",
+      "27.7130157",
+      "85.3275877",
+      "85.3276877"
+    ],
+    "lat": "27.7129657",
+    "lon": "85.3276377",
+    "display_name": "Fashionista, Bhagwati marg, Kamalpokhari, Narayan Chaur, \u0915\u093e\u0920\u092e\u093e\u0921\u094c\u0902, \u092c\u093e\u0917\u092e\u0924\u0940 \u0905\u091e\u094d\u091a\u0932, \u092e\u0927\u094d\u092f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, 00977, \u0928\u0947\u092a\u093e\u0932",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "55821472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4327232554",
+    "boundingbox": [
+      "59.9565488",
+      "59.9566488",
+      "30.3561534",
+      "30.3562534"
+    ],
+    "lat": "59.9565988",
+    "lon": "30.3562034",
+    "display_name": "\u041c\u043e\u0434\u043d\u0438\u0446\u0430, 6, \u043f\u043b\u043e\u0449\u0430\u0434\u044c \u041b\u0435\u043d\u0438\u043d\u0430, \u0412\u044b\u0431\u043e\u0440\u0433\u0441\u043a\u0430\u044f \u0441\u0442\u043e\u0440\u043e\u043d\u0430, \u0424\u0438\u043d\u043b\u044f\u043d\u0434\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0421\u0430\u043d\u043a\u0442-\u041f\u0435\u0442\u0435\u0440\u0431\u0443\u0440\u0433, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 190000, \u0420\u0424",
+    "class": "shop",
+    "type": "fabric",
+    "importance": 0.001
+  }
+]

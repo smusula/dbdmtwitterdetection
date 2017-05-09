@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": "67192968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20852562",
+    "boundingbox": [
+      "56.4558917",
+      "56.4577916",
+      "-2.975919",
+      "-2.972401"
+    ],
+    "lat": "56.4566397",
+    "lon": "-2.9739929",
+    "display_name": "Greenmarket, Hilltown, Dundee, Dundee City, Scotland, DD1 4ED, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99097271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151702830",
+    "boundingbox": [
+      "56.4545084",
+      "56.4546583",
+      "-2.9816075",
+      "-2.9814396"
+    ],
+    "lat": "56.4546583",
+    "lon": "-2.9816075",
+    "display_name": "Greenmarket, Blackness, Dundee, Dundee City, Scotland, DD1 4JW, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "76155931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44356313",
+    "boundingbox": [
+      "56.4572928",
+      "56.4575504",
+      "-2.971082",
+      "-2.9706967"
+    ],
+    "lat": "56.4575504",
+    "lon": "-2.971082",
+    "display_name": "Greenmarket, Hilltown, Dundee, Dundee City, Scotland, DD1 4AY, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70269214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26927770",
+    "boundingbox": [
+      "56.4557729",
+      "56.4559468",
+      "-2.9762242",
+      "-2.9759134"
+    ],
+    "lat": "56.4558569",
+    "lon": "-2.97606671714534",
+    "display_name": "Greenmarket, Hilltown, Dundee, Dundee City, Scotland, DD1 4QB, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68796848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23952846",
+    "boundingbox": [
+      "56.4545086",
+      "56.4558158",
+      "-2.9820382",
+      "-2.9762042"
+    ],
+    "lat": "56.4554348",
+    "lon": "-2.9793363",
+    "display_name": "Greenmarket, Blackness, Dundee, Dundee City, Scotland, DD1 4LN, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "100117593",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156454588",
+    "boundingbox": [
+      "50.1186046",
+      "50.1186861",
+      "-5.5376053",
+      "-5.5371393"
+    ],
+    "lat": "50.1186693",
+    "lon": "-5.5373045",
+    "display_name": "The Greenmarket, Penzance, Cornwall, South West England, England, TR18, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72065423",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "31665380",
+    "boundingbox": [
+      "50.1180285",
+      "50.1186046",
+      "-5.5371592",
+      "-5.5368446"
+    ],
+    "lat": "50.118475",
+    "lon": "-5.5371592",
+    "display_name": "The Greenmarket, Penzance, Cornwall, South West England, England, TR18, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

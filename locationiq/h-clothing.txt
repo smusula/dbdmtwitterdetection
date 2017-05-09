@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "56277946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4385112353",
+    "boundingbox": [
+      "33.7718729",
+      "33.7719729",
+      "-118.1897355",
+      "-118.1896355"
+    ],
+    "lat": "33.7719229",
+    "lon": "-118.1896855",
+    "display_name": "Clothing, Long Beach Boulevard, Willowville, Long Beach, Los Angeles County, California, 90802, United States of America",
+    "class": "amenity",
+    "type": "marketplace",
+    "importance": 0.101
+  },
+  {
+    "place_id": "41056063",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2993101569",
+    "boundingbox": [
+      "53.334549",
+      "53.334649",
+      "-6.3191121",
+      "-6.3190121"
+    ],
+    "lat": "53.334599",
+    "lon": "-6.3190621",
+    "display_name": "_____ Clothing, Galtymore Road, Goldenbridge South, Crumlin A ED, Dublin 12, Dublin, County Dublin, Leinster, D08, Ireland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "50387012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3752342138",
+    "boundingbox": [
+      "49.9118885",
+      "49.9119885",
+      "-116.9038413",
+      "-116.9037413"
+    ],
+    "lat": "49.9119385",
+    "lon": "-116.9037913",
+    "display_name": "Clothing, Front Street, Kaslo, Regional District of Central Kootenay, British Columbia, V0G 1M0, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "17346113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1675749553",
+    "boundingbox": [
+      "11.363633",
+      "11.363733",
+      "77.7472187",
+      "77.7473187"
+    ],
+    "lat": "11.363683",
+    "lon": "77.7472687",
+    "display_name": "Clothing, SH79, Pallipalayam, Namakkal district, Tamil Nadu, India",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

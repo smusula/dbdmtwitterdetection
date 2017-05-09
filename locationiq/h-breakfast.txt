@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "25714187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2473958380",
+    "boundingbox": [
+      "25.02729",
+      "25.02739",
+      "121.4789792",
+      "121.4790792"
+    ],
+    "lat": "25.02734",
+    "lon": "121.4790292",
+    "display_name": "breakfast, \u6587\u8056\u8857, \u9f8d\u7fe0\u91cc, \u65b0\u5317\u5e02, \u677f\u6a4b\u5340, \u65b0\u5317\u5e02, 22045, \u81fa\u7063",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "1467632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "318709509",
+    "boundingbox": [
+      "35.9049106",
+      "35.9050106",
+      "-78.6002882",
+      "-78.6001882"
+    ],
+    "lat": "35.9049606",
+    "lon": "-78.6002382",
+    "display_name": "Breakfast, Morrocroft Drive, Raleigh, Wake County, North Carolina, 27615, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "49521431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3684823577",
+    "boundingbox": [
+      "43.3031349",
+      "43.3032349",
+      "-3.0351943",
+      "-3.0350943"
+    ],
+    "lat": "43.3031849",
+    "lon": "-3.0351443",
+    "display_name": "The Breakfast, 10, Calle Axular kalea, Llano, San Gabriel, Valle de Tr\u00e1paga-Trapagaran, Bilboaldea, Bizkaia, Euskadi, 48510, Espa\u00f1a",
+    "class": "craft",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146852332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374049338",
+    "boundingbox": [
+      "26.7477434",
+      "26.7481463",
+      "94.2127338",
+      "94.2130974"
+    ],
+    "lat": "26.74795335",
+    "lon": "94.2129065602492",
+    "display_name": "Breakfast, Na-Ali, Rowriah/ jail Road Area, Jorhat, Assam, 785001, India",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55488569",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4314383989",
+    "boundingbox": [
+      "22.8308456",
+      "22.8309456",
+      "104.985996",
+      "104.986096"
+    ],
+    "lat": "22.8308956",
+    "lon": "104.986046",
+    "display_name": "Breakfast, QL34, H\u00e0 Giang, T\u1ec9nh H\u00e0 Giang, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "57017467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4432821573",
+    "boundingbox": [
+      "41.8863297",
+      "41.8864297",
+      "-71.396531",
+      "-71.396431"
+    ],
+    "lat": "41.8863797",
+    "lon": "-71.396481",
+    "display_name": "Breakfast, Darling Street, Central Falls, Providence County, Rhode Island, 02863, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "10977591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "995139500",
+    "boundingbox": [
+      "-22.9111512",
+      "-22.9110512",
+      "-68.200017",
+      "-68.199917"
+    ],
+    "lat": "-22.9111012",
+    "lon": "-68.199967",
+    "display_name": "Breakfast, Plaza, San Pedro de Atacama, Provincia de El Loa, II Regi\u00f3n de Antofagasta, 1410000, Chile",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "3775625",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "414556799",
+    "boundingbox": [
+      "40.6466476",
+      "40.6467476",
+      "22.94916",
+      "22.94926"
+    ],
+    "lat": "40.6466976",
+    "lon": "22.94921",
+    "display_name": "Breakfast, 4, \u039c\u03b9\u03c7\u03ac\u03bb\u03b7 \u039a\u03b1\u03c1\u03b1\u03bf\u03bb\u03ae, \u03a3\u03c5\u03ba\u03b9\u03ad\u03c2, \u0394\u03ae\u03bc\u03bf\u03c2 \u039d\u03ad\u03b1\u03c0\u03bf\u03bb\u03b7\u03c2 - \u03a3\u03c5\u03ba\u03b5\u03ce\u03bd, \u03a0\u03b5\u03c1\u03b9\u03c6\u03b5\u03c1\u03b5\u03b9\u03b1\u03ba\u03ae \u0395\u03bd\u03cc\u03c4\u03b7\u03c4\u03b1 \u0398\u03b5\u03c3\u03c3\u03b1\u03bb\u03bf\u03bd\u03af\u03ba\u03b7\u03c2, \u03a0\u03b5\u03c1\u03b9\u03c6\u03ad\u03c1\u03b5\u03b9\u03b1 \u039a\u03b5\u03bd\u03c4\u03c1\u03b9\u03ba\u03ae\u03c2 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2, \u0391\u03c0\u03bf\u03ba\u03b5\u03bd\u03c4\u03c1\u03c9\u03bc\u03ad\u03bd\u03b7 \u0394\u03b9\u03bf\u03af\u03ba\u03b7\u03c3\u03b7 \u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03af\u03b1\u03c2 - \u0398\u03c1\u03ac\u03ba\u03b7\u03c2, 56625, \u0395\u03bb\u03bb\u03ac\u03b4\u03b1",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "53134444",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4048913322",
+    "boundingbox": [
+      "47.5002588",
+      "47.5003588",
+      "19.052257",
+      "19.052357"
+    ],
+    "lat": "47.5003088",
+    "lon": "19.052307",
+    "display_name": "P\u00e9kery = Gelarto Bistro, 11, Sas utca, Lip\u00f3tv\u00e1ros, 5. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1051, Magyarorsz\u00e1g",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "6995923",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "711677517",
+    "boundingbox": [
+      "32.0627154",
+      "32.0628154",
+      "34.7697625",
+      "34.7698625"
+    ],
+    "lat": "32.0627654",
+    "lon": "34.7698125",
+    "display_name": "\u05d1\u05e8\u05e7\u05e4\u05e1\u05d8, 6, \u05e9\u05d3\u05e8\u05d5\u05ea \u05e8\u05d5\u05d8\u05e9\u05d9\u05dc\u05d3, \u05e0\u05d5\u05d5\u05d4 \u05e6\u05d3\u05e7, \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1-\u05d9\u05e4\u05d5, \u05de\u05d7\u05d5\u05d6 \u05ea\u05dc \u05d0\u05d1\u05d9\u05d1, 6688218, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

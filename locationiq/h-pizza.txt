@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "25845624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2479047788",
+    "boundingbox": [
+      "44.1393144",
+      "44.1394144",
+      "10.5239708",
+      "10.5240708"
+    ],
+    "lat": "44.1393644",
+    "lon": "10.5240208",
+    "display_name": "La Pizza, Barga, LU, TOS, Italia",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "4555206",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501369094",
+    "boundingbox": [
+      "10.4539965",
+      "10.4939965",
+      "13.0765295",
+      "13.1165295"
+    ],
+    "lat": "10.4739965",
+    "lon": "13.0965295",
+    "display_name": "Pizza, Askira-Uba, Borno, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14471313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1293853521",
+    "boundingbox": [
+      "44.0731567",
+      "44.1131567",
+      "10.4363889",
+      "10.4763889"
+    ],
+    "lat": "44.0931567",
+    "lon": "10.4563889",
+    "display_name": "Piezza, LU, TOS, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42522691",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3093928938",
+    "boundingbox": [
+      "46.21312",
+      "46.23312",
+      "9.6397174",
+      "9.6597174"
+    ],
+    "lat": "46.22312",
+    "lon": "9.6497174",
+    "display_name": "Piezza, Val Masino, Comunit\u00e0 Montana della Valtellina di Morbegno, SO, LOM, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "68829732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24053978",
+    "boundingbox": [
+      "14.7365316",
+      "14.7377289",
+      "121.0398673",
+      "121.0401374"
+    ],
+    "lat": "14.7377289",
+    "lon": "121.0398936",
+    "display_name": "Pizza, Kaligayahan, North Olympus 3, District V, Quezon City, Metro Manila, 1124, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "5948806",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "602276737",
+    "boundingbox": [
+      "52.2122679",
+      "52.2123679",
+      "21.0466028",
+      "21.0467028"
+    ],
+    "lat": "52.2123179",
+    "lon": "21.0466528",
+    "display_name": "Pizza, 145, Czerniakowska, XII, \u015ar\u00f3dmie\u015bcie, Warszawa, mazowieckie, 00-453, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "49376061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3670659725",
+    "boundingbox": [
+      "38.9063204",
+      "38.9064204",
+      "-77.041303",
+      "-77.041203"
+    ],
+    "lat": "38.9063704",
+    "lon": "-77.041253",
+    "display_name": "& Pizza, 1215, Connecticut Avenue Northwest, Golden Triangle, Dupont Circle, Washington, District of Columbia, 20036, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "80287511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "66975203",
+    "boundingbox": [
+      "46.4006882",
+      "46.4008124",
+      "6.5889106",
+      "6.588991"
+    ],
+    "lat": "46.40075945",
+    "lon": "6.58895215959916",
+    "display_name": "La Pizza, Place Charles de Gaulle, La Serraz, \u00c9vian-les-Bains, Thonon-les-Bains, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74500, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "39599737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2932293343",
+    "boundingbox": [
+      "50.3565029",
+      "50.3566029",
+      "106.4505085",
+      "106.4506085"
+    ],
+    "lat": "50.3565529",
+    "lon": "106.4505585",
+    "display_name": "Pizza, 41, \u0443\u043b\u0438\u0446\u0430 \u041b\u0435\u043d\u0438\u043d\u0430, \u041a\u044f\u0445\u0442\u0430, \u041a\u044f\u0445\u0442\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0411\u0443\u0440\u044f\u0442\u0438\u044f, \u0421\u0424\u041e, 671840, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "22818054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2287022693",
+    "boundingbox": [
+      "51.5996102",
+      "51.5997102",
+      "7.0903852",
+      "7.0904852"
+    ],
+    "lat": "51.5996602",
+    "lon": "7.0904352",
+    "display_name": "Pizza, Turmstra\u00dfe, Westerholt, Herten, Kreis Recklinghausen, Regierungsbezirk M\u00fcnster, Nordrhein-Westfalen, 45701, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

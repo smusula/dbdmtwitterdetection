@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "82129838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "78592407",
+    "boundingbox": [
+      "34.8544512",
+      "34.8545289",
+      "-118.1936426",
+      "-118.189816"
+    ],
+    "lat": "34.8545119",
+    "lon": "-118.1901309",
+    "display_name": "Rosegold Avenue, Rosamond, Kern County, California, 93560, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60815698",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10502939",
+    "boundingbox": [
+      "38.665961",
+      "38.666201",
+      "-121.1767659",
+      "-121.1762739"
+    ],
+    "lat": "38.665961",
+    "lon": "-121.1767659",
+    "display_name": "Rosegold Place, Folsom, Sacramento County, California, 95630, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68876639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24130685",
+    "boundingbox": [
+      "40.704855",
+      "40.704897",
+      "-73.6823829",
+      "-73.6771149"
+    ],
+    "lat": "40.704868",
+    "lon": "-73.6788849",
+    "display_name": "Rosegold Street, Franklin Square, Nassau County, New York, 11010, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160293301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "188017",
+    "boundingbox": [
+      "40.237838",
+      "40.246276",
+      "-78.8620019",
+      "-78.8378759"
+    ],
+    "lat": "40.2436873",
+    "lon": "-78.8489115",
+    "display_name": "Paint, Somerset County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39821395047302,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11020511",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "987001443",
+    "boundingbox": [
+      "48.48717",
+      "48.52717",
+      "12.7658103",
+      "12.8058103"
+    ],
+    "lat": "48.50717",
+    "lon": "12.7858103",
+    "display_name": "Paint, Falkenberg (VGem), Landkreis Rottal-Inn, NB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "67353477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21068478",
+    "boundingbox": [
+      "31.0518",
+      "31.053724",
+      "-96.1859039",
+      "-96.1855849"
+    ],
+    "lat": "31.052693",
+    "lon": "-96.1859039",
+    "display_name": "Paint, Wealthy, Leon County, Texas, 77871, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63596369",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15146329",
+    "boundingbox": [
+      "30.535131",
+      "30.536385",
+      "-98.3316699",
+      "-98.3299199"
+    ],
+    "lat": "30.536025",
+    "lon": "-98.3311109",
+    "display_name": "Paint, Horseshoe Bay, Burnet County, Texas, 78657, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "73587258",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "35442283",
+    "boundingbox": [
+      "49.7917924",
+      "49.7923078",
+      "11.7627884",
+      "11.7661934"
+    ],
+    "lat": "49.7917924",
+    "lon": "11.7645766",
+    "display_name": "Paint, Schlammersdorf, Kirchenthumbach (VGem), Landkreis Neustadt an der Waldnaab, OPf, Bayern, 95519, Deutschland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130354292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "288283054",
+    "boundingbox": [
+      "37.4938517",
+      "37.4956536",
+      "-121.9414693",
+      "-121.9385865"
+    ],
+    "lat": "37.49469885",
+    "lon": "-121.940035420106",
+    "display_name": "Paint, Tesla Test Track, Warm Springs District, Fremont, Alameda County, California, 94539, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "21984507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2162269089",
+    "boundingbox": [
+      "37.2863859",
+      "37.2864859",
+      "-121.9762055",
+      "-121.9761055"
+    ],
+    "lat": "37.2864359",
+    "lon": "-121.9761555",
+    "display_name": "Paint, West Campbell Avenue, Campbell, Santa Clara County, California, 95130, United States of America",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "108226689",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "188544916",
+    "boundingbox": [
+      "32.8791563",
+      "32.8803303",
+      "-80.0348287",
+      "-80.0337882"
+    ],
+    "lat": "32.87989605",
+    "lon": "-80.034214151285",
+    "display_name": "Paint, Dreamliner Drive, North Charleston, Charleston County, South Carolina, 29425, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52190480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3927432085",
+    "boundingbox": [
+      "9.6037184",
+      "9.6038184",
+      "76.5103522",
+      "76.5104522"
+    ],
+    "lat": "9.6037684",
+    "lon": "76.5104022",
+    "display_name": "Paint, Kottayam - Medical College Bypass Road, Choottuveli, Aymanam, Kottayam, Kerala, 686015, India",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "6579399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "683408921",
+    "boundingbox": [
+      "55.0439901",
+      "55.0440901",
+      "82.9129013",
+      "82.9130013"
+    ],
+    "lat": "55.0440401",
+    "lon": "82.9129513",
+    "display_name": "\u041f\u0430\u0438\u043d\u0442, 52, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0416\u0435\u043b\u0435\u0437\u043d\u043e\u0434\u043e\u0440\u043e\u0436\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a, \u041d\u043e\u0432\u043e\u0441\u0438\u0431\u0438\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 630000, \u0420\u0424",
+    "class": "shop",
+    "type": "hardware",
+    "importance": 0.001
+  }
+]

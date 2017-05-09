@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "83251181",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "87531588",
+    "boundingbox": [
+      "44.2417372",
+      "44.2993036",
+      "9.6948074",
+      "9.7297972"
+    ],
+    "lat": "44.2720864",
+    "lon": "9.7093749",
+    "display_name": "Mangia, Sesta Godano, SP, LIG, Italia",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "8157260",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "882727378",
+    "boundingbox": [
+      "44.2374585",
+      "44.2774585",
+      "9.6824338",
+      "9.7224338"
+    ],
+    "lat": "44.2574585",
+    "lon": "9.7024338",
+    "display_name": "Mangia, SP, LIG, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.40054222624232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25731968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2475343555",
+    "boundingbox": [
+      "26.0745556",
+      "26.1145556",
+      "66.3085692",
+      "66.3485692"
+    ],
+    "lat": "26.0945556",
+    "lon": "66.3285692",
+    "display_name": "Mangia, \u0636\u0644\u0639 \u0644\u0633\u0628\u06cc\u0644\u06c1 / Lasbela, \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646 / Balochistan, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27944375",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2611844623",
+    "boundingbox": [
+      "-18.6452971",
+      "-18.6052971",
+      "-173.9749482",
+      "-173.9349482"
+    ],
+    "lat": "-18.6252971",
+    "lon": "-173.9549482",
+    "display_name": "Mangia, Vahe Ha'alaufuli, Vava\u02bbu, Tonga",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45491418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3232923482",
+    "boundingbox": [
+      "40.7638201",
+      "40.7639201",
+      "-73.9765595",
+      "-73.9764595"
+    ],
+    "lat": "40.7638701",
+    "lon": "-73.9765095",
+    "display_name": "Mangia, 50, West 57th Street, Diamond District, Manhattan, New York County, NYC, New York, 10019, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2648075197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4591487994",
+    "boundingbox": [
+      "55.673214",
+      "55.673314",
+      "12.554347",
+      "12.554447"
+    ],
+    "lat": "55.673264",
+    "lon": "12.554397",
+    "display_name": "Mangia, Bagerstr\u00e6de, K\u00f8dbyen, Vesterbro, K\u00f8benhavn, K\u00f8benhavns Kommune, Region Hovedstaden, 1617, Danmark",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "11451815",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1111977534",
+    "boundingbox": [
+      "43.7743257",
+      "43.7744257",
+      "-79.5015817",
+      "-79.5014817"
+    ],
+    "lat": "43.7743757",
+    "lon": "-79.5015317",
+    "display_name": "Mangia, Vanier Lane, North York, Toronto, Ontario, M3J 3M6, Canada",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "23775423",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2334928094",
+    "boundingbox": [
+      "50.0794616",
+      "50.0795616",
+      "19.9724191",
+      "19.9725191"
+    ],
+    "lat": "50.0795116",
+    "lon": "19.9724691",
+    "display_name": "Mangia, 45, Pilot\u00f3w, Olsza II, Pr\u0105dnik Czerwony, Krak\u00f3w, ma\u0142opolskie, 31-462, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "212143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "38107982",
+    "boundingbox": [
+      "48.8323694",
+      "48.8324694",
+      "9.1672717",
+      "9.1673717"
+    ],
+    "lat": "48.8324194",
+    "lon": "9.1673217",
+    "display_name": "Mangia, 76, Unterl\u00e4nder Stra\u00dfe, Zuffenhausen-Mitte, Zuffenhausen, Stuttgart, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 70435, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "13749708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1251977741",
+    "boundingbox": [
+      "30.407428",
+      "30.407528",
+      "-97.71353",
+      "-97.71343"
+    ],
+    "lat": "30.407478",
+    "lon": "-97.71348",
+    "display_name": "Mangia, Gracy Farms Lane, Austin, Travis County, Texas, 78727, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  }
+]

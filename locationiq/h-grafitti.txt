@@ -1,0 +1,168 @@
+[
+  {
+    "place_id": "11862954",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1126805660",
+    "boundingbox": [
+      "55.7137038",
+      "55.7138038",
+      "13.1599955",
+      "13.1600955"
+    ],
+    "lat": "55.7137538",
+    "lon": "13.1600455",
+    "display_name": "Grafitti, 10, F\u00f6retagsv\u00e4gen, Pils\u00e5ker, V\u00e4ster, Lund, Sk\u00e5ne, G\u00f6taland, 227 61, Sverige",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "14127014",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1275927960",
+    "boundingbox": [
+      "14.6094116",
+      "14.6095116",
+      "121.0808105",
+      "121.0809105"
+    ],
+    "lat": "14.6094616",
+    "lon": "121.0808605",
+    "display_name": "Grafitti, Orchard Road, Eastwood City, Bagumbayan, Quezon City, District III, Quezon City, Metro Manila, 1110, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "25354025",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2445604222",
+    "boundingbox": [
+      "53.0721817",
+      "53.0722817",
+      "8.8027283",
+      "8.8028283"
+    ],
+    "lat": "53.0722317",
+    "lon": "8.8027783",
+    "display_name": "Grafitti, Herrlichkeit, Alte Neustadt, Neustadt, Stadtbezirk Bremen-S\u00fcd, Bremen, 28199, Deutschland",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "48900474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3609400684",
+    "boundingbox": [
+      "52.3899095",
+      "52.3900095",
+      "20.9308992",
+      "20.9309992"
+    ],
+    "lat": "52.3899595",
+    "lon": "20.9309492",
+    "display_name": "Grafitti, 74, Warszawska, Bukowiec A, Legionowo, powiat legionowski, mazowieckie, 05-120, Polska",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "150277503",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "391469228",
+    "boundingbox": [
+      "10.0112772",
+      "10.0114136",
+      "-84.2149606",
+      "-84.2148656"
+    ],
+    "lat": "10.01134615",
+    "lon": "-84.2149135995491",
+    "display_name": "Grafitti, Avenida 10, El Carmen, Alajuela, Cant\u00f3n Alajuela, Provincia Alajuela, 20101, Costa Rica",
+    "class": "shop",
+    "type": "copyshop",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18660685",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1796453793",
+    "boundingbox": [
+      "-24.1852548",
+      "-24.1851548",
+      "-65.3016156",
+      "-65.3015156"
+    ],
+    "lat": "-24.1852048",
+    "lon": "-65.3015656",
+    "display_name": "Grafitti, 600, Belgrano, Centro, San Salvador de Jujuy, Municipio de San Salvador de Jujuy, Departamento Doctor Manuel Belgrano, JJY, 4600, Argentina",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "27251130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2582825072",
+    "boundingbox": [
+      "10.4838761",
+      "10.4839761",
+      "-66.8185545",
+      "-66.8184545"
+    ],
+    "lat": "10.4839261",
+    "lon": "-66.8185045",
+    "display_name": "Grafitti, Av. Francisco de Miranda, Los Ruices Sur, El Marqu\u00e9s, Petare, Municipio Sucre, Miranda, Regi\u00f3n Capital, 1071, Venezuela",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "22786889",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2262764215",
+    "boundingbox": [
+      "10.4860209",
+      "10.4861209",
+      "-66.9338385",
+      "-66.9337385"
+    ],
+    "lat": "10.4860709",
+    "lon": "-66.9337885",
+    "display_name": "Grafitti, Av. Jos\u00e9 Antonio P\u00e1ez, Urbanizaci\u00f3n: Las Fuentes, El Para\u00edso, Urbanizaci\u00f3n El Para\u00edso, Municipio Libertador, Distrito Capital, Regi\u00f3n Capital, 1020, Venezuela",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25469342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2435639037",
+    "boundingbox": [
+      "10.491611",
+      "10.491711",
+      "-66.8771662",
+      "-66.8770662"
+    ],
+    "lat": "10.491661",
+    "lon": "-66.8771162",
+    "display_name": "Grafitti, Av. Casanova, Chacaito, Pinto Salinas, Parroquia El Recreo, Municipio Libertador, Distrito Capital, Regi\u00f3n Capital, 1050, Venezuela",
+    "class": "shop",
+    "type": "department_store",
+    "importance": 0.101
+  }
+]

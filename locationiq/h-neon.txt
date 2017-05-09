@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "420387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154037896",
+    "boundingbox": [
+      "37.1714915",
+      "37.2114915",
+      "-82.7334904",
+      "-82.6934904"
+    ],
+    "lat": "37.1914915",
+    "lon": "-82.7134904",
+    "display_name": "Neon, Letcher County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22272866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2186424579",
+    "boundingbox": [
+      "13.4110601",
+      "13.4510601",
+      "-3.7974561",
+      "-3.7574561"
+    ],
+    "lat": "13.4310601",
+    "lon": "-3.7774561",
+    "display_name": "N\u00e9on, Cercle de Bankass, Mopti, Mali",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "89865558",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114770442",
+    "boundingbox": [
+      "7.1236119",
+      "7.1256588",
+      "125.6177264",
+      "125.6182437"
+    ],
+    "lat": "7.1247587",
+    "lon": "125.6179192",
+    "display_name": "Neon, Emily Homes Phase 3, El Punto Vista, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "75495562",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41079411",
+    "boundingbox": [
+      "51.5628313",
+      "51.5695987",
+      "4.4593277",
+      "4.4679239"
+    ],
+    "lat": "51.5669644",
+    "lon": "4.4630864",
+    "display_name": "Neon, Borchwerf II, Oud Gastel, Halderberge, Noord-Brabant, Nederland, 4751XA, Nederland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "78918361",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "58123391",
+    "boundingbox": [
+      "31.755492",
+      "31.7591699",
+      "-106.5076784",
+      "-106.5062187"
+    ],
+    "lat": "31.7573726",
+    "lon": "-106.5068274",
+    "display_name": "Neon, Postal, Ciudad Ju\u00e1rez, Ju\u00e1rez, Chihuahua, 32100, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "92277783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "123061388",
+    "boundingbox": [
+      "13.7742505",
+      "13.7743036",
+      "121.0613727",
+      "121.0619359"
+    ],
+    "lat": "13.7742929",
+    "lon": "121.0616828",
+    "display_name": "Neon, Alangilan, Batangas City, Batangas, Calabarzon, 4200, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84050331",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91362758",
+    "boundingbox": [
+      "14.3592526",
+      "14.3608374",
+      "120.9329539",
+      "120.9332463"
+    ],
+    "lat": "14.3608374",
+    "lon": "120.9329539",
+    "display_name": "Neon, Golden City, Dasmari\u00f1as, Cavite, Calabarzon, 4114, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "104216433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "171665541",
+    "boundingbox": [
+      "20.556861",
+      "20.5576031",
+      "-103.2972164",
+      "-103.2959413"
+    ],
+    "lat": "20.5571303",
+    "lon": "-103.2963452",
+    "display_name": "Neon, Las Pintitas, El Salto, Jalisco, 45693, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90259438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "115750558",
+    "boundingbox": [
+      "-11.9920869",
+      "-11.9919683",
+      "-77.0167189",
+      "-77.0151099"
+    ],
+    "lat": "-11.9920152",
+    "lon": "-77.0159686",
+    "display_name": "Neon, Urbanizaci\u00f3n Gan\u00edmedes, San Juan de Lurigancho, Lima, Lima 36, Per\u00fa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84590037",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "93577990",
+    "boundingbox": [
+      "14.338961",
+      "14.3409481",
+      "121.0564135",
+      "121.0572284"
+    ],
+    "lat": "14.3409481",
+    "lon": "121.0564135",
+    "display_name": "Neon, Phase 7B, Pacita I, San Pedro, Laguna, Calabarzon, 4023, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

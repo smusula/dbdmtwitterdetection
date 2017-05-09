@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "94902377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133135826",
+    "boundingbox": [
+      "22.3070713",
+      "22.3089647",
+      "114.2583546",
+      "114.2610829"
+    ],
+    "lat": "22.3080045",
+    "lon": "114.259719803055",
+    "display_name": "8, \u5929\u6649 The Wings, \u5c07\u8ecd\u6fb3\u5e02\u4e2d\u5fc3 Tseung Kwan O Town Centre, \u5c07\u8ecd\u6fb3 Tseung Kwan O, \u65b0\u754c New Territories, HK, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.46019232957918
+  },
+  {
+    "place_id": "41624866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3030650544",
+    "boundingbox": [
+      "48.7306034",
+      "48.7506034",
+      "-80.7943147",
+      "-80.7743147"
+    ],
+    "lat": "48.7406034",
+    "lon": "-80.7843147",
+    "display_name": "Wings, Porquis Junction, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "155486831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421800295",
+    "boundingbox": [
+      "0.464396",
+      "0.4645086",
+      "101.3722668",
+      "101.3724439"
+    ],
+    "lat": "0.46445765",
+    "lon": "101.3723587",
+    "display_name": "Wings, Pekanbaru, Riau, 28293, Indonesia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "52508202",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3979564242",
+    "boundingbox": [
+      "1.2900764",
+      "1.2901764",
+      "103.8455294",
+      "103.8456294"
+    ],
+    "lat": "1.2901264",
+    "lon": "103.8455794",
+    "display_name": "Wings, 3D, River Valley Road, Clarke Quay, City Hall, Singapore, Central Singapore Community Development Council, 179024, Singapore",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "48565299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3593818931",
+    "boundingbox": [
+      "33.7751034",
+      "33.7752034",
+      "-118.137622",
+      "-118.137522"
+    ],
+    "lat": "33.7751534",
+    "lon": "-118.137572",
+    "display_name": "Wings, East 7th Street, Belmont Shore, Long Beach, Los Angeles County, California, 90814, United States of America",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "24530045",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2398151483",
+    "boundingbox": [
+      "51.4381708",
+      "51.4382708",
+      "14.2641197",
+      "14.2642197"
+    ],
+    "lat": "51.4382208",
+    "lon": "14.2641697",
+    "display_name": "Wings, Bautzener Allee, WK III, Neustadt, Hoyerswerda, Landkreis Bautzen, Sachsen, 02977, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "85493470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "97636508",
+    "boundingbox": [
+      "51.7139652",
+      "51.7160624",
+      "-0.4759376",
+      "-0.4723863"
+    ],
+    "lat": "51.71524645",
+    "lon": "-0.474200068874634",
+    "display_name": "The Wings, Barnes Lane, Chipperfield CP, Dacorum, Hertfordshire, East of England, England, UK",
+    "class": "natural",
+    "type": "wood",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/landuse_coniferous_and_deciduous.p.20.png"
+  },
+  {
+    "place_id": "55731294",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4319002240",
+    "boundingbox": [
+      "43.5318631",
+      "43.5319631",
+      "-96.7389919",
+      "-96.7388919"
+    ],
+    "lat": "43.5319131",
+    "lon": "-96.7389419",
+    "display_name": "Wings, 1101, West 22nd Street, Sioux Falls, Minnehaha County, South Dakota, 57105, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "124760950",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "256647617",
+    "boundingbox": [
+      "40.9236353",
+      "40.9261725",
+      "-76.1080129",
+      "-76.1051223"
+    ],
+    "lat": "40.9261725",
+    "lon": "-76.1080129",
+    "display_name": "Wings, Walden Drive, Millers Corner, Schuylkill County, Pennsylvania, 18242, United States of America",
+    "class": "aerialway",
+    "type": "chair_lift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "120168165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "237309999",
+    "boundingbox": [
+      "27.7373257",
+      "27.7378967",
+      "-82.7481897",
+      "-82.7478543"
+    ],
+    "lat": "27.7376186",
+    "lon": "-82.7480854084155",
+    "display_name": "Wings, 6705, Gulf Boulevard, St. Pete Beach, Pinellas County, Florida, 33706, United States of America",
+    "class": "shop",
+    "type": "souvenirs",
+    "importance": 0.101
+  }
+]

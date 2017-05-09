@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "1439476",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "314950665",
+    "boundingbox": [
+      "44.4070449",
+      "44.4071449",
+      "8.9656778",
+      "8.9657778"
+    ],
+    "lat": "44.4070949",
+    "lon": "8.9657278",
+    "display_name": "Roasted, Via Donghi, Villa Rosa, Bassa Val Bisagno, Genova, GE, LIG, 16131, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "155449934",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "421346140",
+    "boundingbox": [
+      "39.066511",
+      "39.0665545",
+      "-108.5642733",
+      "-108.5641104"
+    ],
+    "lat": "39.06654035",
+    "lon": "-108.564191847925",
+    "display_name": "Roasted, 502, Colorado Avenue, Grand Junction, Mesa County, Colorado, 81501, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2646883274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4564004236",
+    "boundingbox": [
+      "55.4468641",
+      "55.4469641",
+      "11.7887924",
+      "11.7888924"
+    ],
+    "lat": "55.4469141",
+    "lon": "11.7888424",
+    "display_name": "Roasted, N\u00f8rregade, Ringsted, Ringsted Kommune, Region Sj\u00e6lland, 4100, Danmark",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

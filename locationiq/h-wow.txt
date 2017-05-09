@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "46987439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3415798459",
+    "boundingbox": [
+      "-16.1366304",
+      "-16.0966304",
+      "168.1449068",
+      "168.1849068"
+    ],
+    "lat": "-16.1166304",
+    "lon": "168.1649068",
+    "display_name": "Wow, Malampa, Vanuatu",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "135970146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "314432234",
+    "boundingbox": [
+      "52.381865",
+      "52.3833352",
+      "4.8427003",
+      "4.844042"
+    ],
+    "lat": "52.3827861",
+    "lon": "4.84336125924634",
+    "display_name": "60, WOW, Amsterdam, West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1061 HC, Nederland",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "3613428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369145207",
+    "boundingbox": [
+      "61.73853",
+      "61.76853",
+      "-150.0688595",
+      "-150.0388595"
+    ],
+    "lat": "61.75353",
+    "lon": "-150.0538595",
+    "display_name": "Willow Airport, George Parks Highway, Willow, Matanuska-Susitna, Alaska, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.14748918685134,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "128094357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "275477537",
+    "boundingbox": [
+      "52.118882",
+      "52.1190532",
+      "4.2893695",
+      "4.2896683"
+    ],
+    "lat": "52.11896765",
+    "lon": "4.28951890712792",
+    "display_name": "Wow, 58, Zwarte Pad, Belgisch Park, Den Haag, MRDH, Zuid-Holland, Nederland, 2586ZZ, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "11731092",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1104509673",
+    "boundingbox": [
+      "51.481999",
+      "51.482099",
+      "-3.1734429",
+      "-3.1733429"
+    ],
+    "lat": "51.482049",
+    "lon": "-3.1733929",
+    "display_name": "Wow, Churchill Way, Butetown, Cardiff, Wales, CF, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "20090538",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2014152149",
+    "boundingbox": [
+      "-22.9531515",
+      "-22.9530515",
+      "-43.1871696",
+      "-43.1870696"
+    ],
+    "lat": "-22.9531015",
+    "lon": "-43.1871196",
+    "display_name": "Wow, Rua Paulo Barreto, Botafogo, Rio de Janeiro, Microrregi\u00e3o Rio de Janeiro, Regi\u00e3o Metropolitana do Rio de Janeiro, RJ, Regi\u00e3o Sudeste, 22280030, Brasil",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "52228724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3942161730",
+    "boundingbox": [
+      "60.3922215",
+      "60.3923215",
+      "5.3238505",
+      "5.3239505"
+    ],
+    "lat": "60.3922715",
+    "lon": "5.3239005",
+    "display_name": "WOW, Torgallmenningen, Sentrum, Bergenhus, Bergen, Hordaland, 5807, Norge",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "47783748",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3491963173",
+    "boundingbox": [
+      "52.4786795",
+      "52.4787795",
+      "-1.8969205",
+      "-1.8968205"
+    ],
+    "lat": "52.4787295",
+    "lon": "-1.8968705",
+    "display_name": "Wow, 135;135A, New Street, Digbeth, Attwood Green, Birmingham, West Midlands, England, B2, UK",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56560495",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405483798",
+    "boundingbox": [
+      "31.2543531",
+      "31.2544531",
+      "121.481534",
+      "121.481634"
+    ],
+    "lat": "31.2544031",
+    "lon": "121.481584",
+    "display_name": "WOW!, 234, \u6b66\u8fdb\u8def, \u8679\u53e3\u533a, \u4e0a\u6d77\u5e02, 200080, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "8406271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "891945123",
+    "boundingbox": [
+      "43.5818717",
+      "43.5819717",
+      "-79.6149803",
+      "-79.6148803"
+    ],
+    "lat": "43.5819217",
+    "lon": "-79.6149303",
+    "display_name": "Wow! - \ucc9c\ud558\uc77c, 55, Dundas Street East, Cooksville, Ont., Peel Region, Ontario, L5A 1V9, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "57166716",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "4260517",
+    "boundingbox": [
+      "52.2079794",
+      "52.2111758",
+      "0.1201217",
+      "0.1271452"
+    ],
+    "lat": "52.2095649",
+    "lon": "0.123596911981007",
+    "display_name": "Jesus College (University of Cambridge), The Chimney, Market Ward, Cambridge, Cambridgeshire, East of England, England, CB5 8BL, UK",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.55003529986312,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "46957604",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3412766197",
+    "boundingbox": [
+      "-17.266841",
+      "-17.226841",
+      "-71.5281972",
+      "-71.4881972"
+    ],
+    "lat": "-17.246841",
+    "lon": "-71.5081972",
+    "display_name": "Jesus, Islay, Arequipa, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "22331372",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2206470682",
+    "boundingbox": [
+      "10.187396",
+      "10.227396",
+      "39.1296694",
+      "39.1696694"
+    ],
+    "lat": "10.207396",
+    "lon": "39.1496694",
+    "display_name": "Jesus, North Shewa (K3), \u12a0\u121b\u122b, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16042781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1437814749",
+    "boundingbox": [
+      "28.6809029",
+      "28.7209029",
+      "-17.9709521",
+      "-17.9309521"
+    ],
+    "lat": "28.7009029",
+    "lon": "-17.9509521",
+    "display_name": "El Jesus, Tijarafe, Santa Cruz de Tenerife, Canarias, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160871927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5668171",
+    "boundingbox": [
+      "10.026958",
+      "10.0827393",
+      "-84.160764",
+      "-84.1209883"
+    ],
+    "lat": "10.0414815",
+    "lon": "-84.1471973",
+    "display_name": "Jes\u00fas, Cant\u00f3n Santa B\u00e1rbara, Provincia Heredia, 40404, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160876100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5652525",
+    "boundingbox": [
+      "9.9209834",
+      "9.9908512",
+      "-84.4688789",
+      "-84.3821764"
+    ],
+    "lat": "9.973634",
+    "lon": "-84.4235892",
+    "display_name": "Jes\u00fas, Cant\u00f3n Atenas, Provincia Alajuela, 20502, Costa Rica",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160458197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1896127",
+    "boundingbox": [
+      "-7.4027189",
+      "-7.196047",
+      "-78.4654901",
+      "-78.2717519"
+    ],
+    "lat": "-7.2489715",
+    "lon": "-78.3794945",
+    "display_name": "Jes\u00fas, Cajamarca, Per\u00fa",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3340643557406,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160891580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5767947",
+    "boundingbox": [
+      "39.4371099",
+      "39.4626475",
+      "-0.4060611",
+      "-0.3811514"
+    ],
+    "lat": "39.4499893",
+    "lon": "-0.388681036251113",
+    "display_name": "Jes\u00fas, vall\u00b4de ebo, Comarca de Val\u00e8ncia, Valencia/Val\u00e8ncia, Comunitat Valenciana, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "11746430",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1107977559",
+    "boundingbox": [
+      "39.4348776",
+      "39.4748776",
+      "-0.4068172",
+      "-0.3668172"
+    ],
+    "lat": "39.4548776",
+    "lon": "-0.3868172",
+    "display_name": "Jes\u00fas, vall\u00b4de ebo, Comarca de Val\u00e8ncia, Valencia/Val\u00e8ncia, Comunitat Valenciana, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "28331546",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2644178958",
+    "boundingbox": [
+      "41.6381317",
+      "41.6781317",
+      "-0.8906877",
+      "-0.8506877"
+    ],
+    "lat": "41.6581317",
+    "lon": "-0.8706877",
+    "display_name": "Jes\u00fas, Zaragoza, Arag\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

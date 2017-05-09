@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "2646457121",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4554451812",
+    "boundingbox": [
+      "48.2821238",
+      "48.3021238",
+      "-0.5452712",
+      "-0.5252712"
+    ],
+    "lat": "48.2921238",
+    "lon": "-0.5352712",
+    "display_name": "Les Desserts, Aron, Mayenne, Pays de la Loire, 53440, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26266958",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2504092178",
+    "boundingbox": [
+      "40.6783937",
+      "40.6784937",
+      "-73.9643433",
+      "-73.9642433"
+    ],
+    "lat": "40.6784437",
+    "lon": "-73.9642933",
+    "display_name": "D's Just Desserts, 738, Bergen Street, Crown Heights, BK, Kings County, NYC, New York, 11213, United States of America",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "2649393459",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4620794193",
+    "boundingbox": [
+      "1.2979487",
+      "1.2980487",
+      "103.8563082",
+      "103.8564082"
+    ],
+    "lat": "1.2979987",
+    "lon": "103.8563582",
+    "display_name": "Ah Chew Desserts, 17, Seah Street, Clarke Quay, Bras Basah, Singapore, Central Singapore Community Development Council, 188382, Singapore",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "51487021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3834333243",
+    "boundingbox": [
+      "34.1675839",
+      "34.1676839",
+      "-118.6175536",
+      "-118.6174536"
+    ],
+    "lat": "34.1676339",
+    "lon": "-118.6175036",
+    "display_name": "Doan's Desserts and Coffee, Ventura Boulevard, Woodland Hills, LA, Los Angeles County, California, 91367, United States of America",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "45379930",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3211888197",
+    "boundingbox": [
+      "39.7574635",
+      "39.7575635",
+      "-104.9869858",
+      "-104.9868858"
+    ],
+    "lat": "39.7575135",
+    "lon": "-104.9869358",
+    "display_name": "Sugarmill Desserts, 2461, Larimer Street, Five Points, Denver, Denver County, Colorado, 80205, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "49330256",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3650919610",
+    "boundingbox": [
+      "52.6273557",
+      "52.6274557",
+      "-1.1197484",
+      "-1.1196484"
+    ],
+    "lat": "52.6274057",
+    "lon": "-1.1196984",
+    "display_name": "Heavenly Desserts, London Road, Highfields, Leicester, City of Leicester, East Midlands, England, LE2 1ED, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "25388009",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2449401802",
+    "boundingbox": [
+      "14.6483873",
+      "14.6484873",
+      "121.0571449",
+      "121.0572449"
+    ],
+    "lat": "14.6484373",
+    "lon": "121.0571949",
+    "display_name": "Frozen Desserts, 57, Maginhawa, UP Village, Quezon City, District IV, Quezon City, Metro Manila, 1101, Philippines",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2649812342",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "468666887",
+    "boundingbox": [
+      "35.5932058",
+      "35.5932572",
+      "-82.5514702",
+      "-82.5513403"
+    ],
+    "lat": "35.5932315",
+    "lon": "-82.55140525",
+    "display_name": "Double D's Coffee & Desserts, Aston Street, Asheville, Buncombe County, North Carolina, 28801, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2651518693",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4673794976",
+    "boundingbox": [
+      "46.2026967",
+      "46.2027967",
+      "6.2486526",
+      "6.2487526"
+    ],
+    "lat": "46.2027467",
+    "lon": "6.2487026",
+    "display_name": "DP Desserts et Pains, 6 bis, Rue du Commerce, Ville-la-Grand, Saint-Julien-en-Genevois, Haute-Savoie, Auvergne-Rh\u00f4ne-Alpes, 74100, France",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "28321043",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2624180799",
+    "boundingbox": [
+      "10.3131386",
+      "10.3132386",
+      "123.8960448",
+      "123.8961448"
+    ],
+    "lat": "10.3131886",
+    "lon": "123.8960948",
+    "display_name": "Brunch Desserts, Don Ramon Aboitiz Street, Mercado Compound, Cebu City, Cebu, Central Visayas, 6000, Philippines",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "39002989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2907324786",
+    "boundingbox": [
+      "55.7579173",
+      "55.7580173",
+      "37.5832972",
+      "37.5833972"
+    ],
+    "lat": "55.7579673",
+    "lon": "37.5833472",
+    "display_name": "Selfie, 31, \u041d\u043e\u0432\u0438\u043d\u0441\u043a\u0438\u0439 \u0431\u0443\u043b\u044c\u0432\u0430\u0440, \u041a\u0443\u0434\u0440\u0438\u043d\u043e, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 123242, \u0420\u0424",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2654215344",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4735827104",
+    "boundingbox": [
+      "45.0589813",
+      "45.0590813",
+      "7.6788606",
+      "7.6789606"
+    ],
+    "lat": "45.0590313",
+    "lon": "7.6789106",
+    "display_name": "Selfie, 30/D, Via Saluzzo, San Salvario, Circoscrizione 8, Torino, TO, PIE, 10125, Italia",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2609145649",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4472781142",
+    "boundingbox": [
+      "45.8026219",
+      "45.8027219",
+      "15.9424476",
+      "15.9425476"
+    ],
+    "lat": "45.8026719",
+    "lon": "15.9424976",
+    "display_name": "Selfie, Ulica Dragojle Jarnevi\u0107, Ljubljanica, Tre\u0161njevka - sjever, Zagreb, Grad Zagreb, 10110, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "2654565609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4645388100",
+    "boundingbox": [
+      "-34.564219",
+      "-34.564119",
+      "-58.4546139",
+      "-58.4545139"
+    ],
+    "lat": "-34.564169",
+    "lon": "-58.4545639",
+    "display_name": "Selfie, Avenida Cabildo, Barrio Chino, Belgrano, CABA, Comuna 13, CABA, C1426ABR, Argentina",
+    "class": "shop",
+    "type": "mobile_phone",
+    "importance": 0.101
+  },
+  {
+    "place_id": "156173493",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "425007713",
+    "boundingbox": [
+      "-0.2028777",
+      "-0.2027916",
+      "-78.4902546",
+      "-78.4901578"
+    ],
+    "lat": "-0.20283465",
+    "lon": "-78.4902062",
+    "display_name": "Selfie, Jos\u00e9 Calama, Mariscal Sucre, Quito, Pichincha, 170524, Ecuador",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "50439655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3760010382",
+    "boundingbox": [
+      "49.5521598",
+      "49.5522598",
+      "25.5883192",
+      "25.5884192"
+    ],
+    "lat": "49.5522098",
+    "lon": "25.5883692",
+    "display_name": "Selfie, 14, \u0417\u0430\u043c\u043a\u043e\u0432\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0426\u0435\u043d\u0442\u0440, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 46000-46499, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "college",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "2647121393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4569316067",
+    "boundingbox": [
+      "57.0033981",
+      "57.0034981",
+      "40.9891622",
+      "40.9892622"
+    ],
+    "lat": "57.0034481",
+    "lon": "40.9892122",
+    "display_name": "Selfie, \u0428\u0435\u0440\u0435\u043c\u0435\u0442\u0435\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u041b\u0435\u043d\u0438\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0418\u0432\u0430\u043d\u043e\u0432\u043e, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0418\u0432\u0430\u043d\u043e\u0432\u043e, \u0418\u0432\u0430\u043d\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 153000, \u0420\u0424",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "55440302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4317407600",
+    "boundingbox": [
+      "55.5834203",
+      "55.5835203",
+      "38.2204408",
+      "38.2205408"
+    ],
+    "lat": "55.5834703",
+    "lon": "38.2204908",
+    "display_name": "Selfie, \u0421\u0435\u0432\u0435\u0440\u043d\u043e\u0435 \u0448\u043e\u0441\u0441\u0435, \u0425\u043e\u043b\u043e\u0434\u043e\u0432\u043e, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0435 \u043f\u043e\u0441\u0435\u043b\u0435\u043d\u0438\u0435 \u0420\u0430\u043c\u0435\u043d\u0441\u043a\u043e\u0435, \u0420\u0430\u043c\u0435\u043d\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 140103, \u0420\u0424",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40571882",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2968169950",
+    "boundingbox": [
+      "55.7689884",
+      "55.7690884",
+      "37.5969893",
+      "37.5970893"
+    ],
+    "lat": "55.7690384",
+    "lon": "37.5970393",
+    "display_name": "Selfie, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0421\u0443\u0449\u0451\u0432\u043e, \u0422\u0432\u0435\u0440\u0441\u043a\u043e\u0439 \u0440\u0430\u0439\u043e\u043d, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 123104, \u0420\u0424",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52239117",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3944137968",
+    "boundingbox": [
+      "55.6923038",
+      "55.6924038",
+      "37.5317187",
+      "37.5318187"
+    ],
+    "lat": "55.6923538",
+    "lon": "37.5317687",
+    "display_name": "Selfie, 25 \u043a5, \u041b\u043e\u043c\u043e\u043d\u043e\u0441\u043e\u0432\u0441\u043a\u0438\u0439 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0412\u043e\u0440\u043e\u0431\u044c\u0451\u0432\u044b \u0413\u043e\u0440\u044b, \u0440\u0430\u0439\u043e\u043d \u0420\u0430\u043c\u0435\u043d\u043a\u0438, \u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 119234, \u0420\u0424",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

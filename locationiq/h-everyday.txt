@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "28486470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2660472372",
+    "boundingbox": [
+      "18.8200179",
+      "18.8201179",
+      "99.0309557",
+      "99.0310557"
+    ],
+    "lat": "18.8200679",
+    "lon": "99.0310057",
+    "display_name": "Everyday, \u0e1a\u0e49\u0e32\u0e19\u0e2a\u0e31\u0e19\u0e17\u0e23\u0e32\u0e22\u0e21\u0e39\u0e25, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e40\u0e0a\u0e35\u0e22\u0e07\u0e43\u0e2b\u0e21\u0e48, 50210, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "45449722",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3219332524",
+    "boundingbox": [
+      "45.4542417",
+      "45.4543417",
+      "9.1803005",
+      "9.1804005"
+    ],
+    "lat": "45.4542917",
+    "lon": "9.1803505",
+    "display_name": "everyday, Via Scaldasole, Borgo San Gottardo, Porta Ticinese, Milano, MI, LOM, 20136, Italia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "28573998",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2661121501",
+    "boundingbox": [
+      "40.4227872",
+      "40.4228872",
+      "-3.6999403",
+      "-3.6998403"
+    ],
+    "lat": "40.4228372",
+    "lon": "-3.6998903",
+    "display_name": "Everyday, Calle de Augusto Figueroa, Barrio Justicia, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28004, Espa\u00f1a",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "17063059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1615820532",
+    "boundingbox": [
+      "42.1283635",
+      "42.1284635",
+      "24.7813454",
+      "24.7814454"
+    ],
+    "lat": "42.1284135",
+    "lon": "24.7813954",
+    "display_name": "Everyday, \u0421\u044a\u0435\u0434\u0438\u043d\u0435\u043d\u0438\u0435, \u0422\u043e\u0434\u043e\u0440 \u041a\u0430\u0431\u043b\u0435\u0448\u043a\u043e\u0432, \u0422\u0440\u0430\u043a\u0438\u044f, \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 4023, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "52552610",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3980459096",
+    "boundingbox": [
+      "54.7179805",
+      "54.7180805",
+      "55.9794439",
+      "55.9795439"
+    ],
+    "lat": "54.7180305",
+    "lon": "55.9794939",
+    "display_name": "Everyday, 22, \u0411\u0430\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0417\u0435\u043b\u0451\u043d\u0430\u044f \u0420\u043e\u0449\u0430, \u0423\u0444\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u0444\u0430, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 450078, \u0420\u0424",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "45467993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3235846799",
+    "boundingbox": [
+      "54.7693609",
+      "54.7694609",
+      "56.0610433",
+      "56.0611433"
+    ],
+    "lat": "54.7694109",
+    "lon": "56.0610933",
+    "display_name": "Everyday, 17, \u0443\u043b\u0438\u0446\u0430 \u0411\u0430\u044f\u0437\u0438\u0442\u0430 \u0411\u0438\u043a\u0431\u0430\u044f, \u0421\u0438\u043f\u0430\u0439\u043b\u043e\u0432\u043e, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0423\u0444\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u0444\u0430, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 450000, \u0420\u0424",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "52220300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3931834657",
+    "boundingbox": [
+      "54.7197494",
+      "54.7198494",
+      "55.989734",
+      "55.989834"
+    ],
+    "lat": "54.7197994",
+    "lon": "55.989784",
+    "display_name": "\u0423\u043d\u0438\u0432\u0435\u0440\u0441\u0430\u043c Everyday, 64/1, \u0411\u0430\u043a\u0430\u043b\u0438\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0417\u0435\u043b\u0451\u043d\u0430\u044f \u0420\u043e\u0449\u0430, \u0423\u0444\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u0444\u0430, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 450022, \u0420\u0424",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "25019438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2433746795",
+    "boundingbox": [
+      "54.7088261",
+      "54.7089261",
+      "55.9698156",
+      "55.9699156"
+    ],
+    "lat": "54.7088761",
+    "lon": "55.9698656",
+    "display_name": "Everyday, 15/1, \u0421\u043e\u0447\u0438\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0417\u0435\u043b\u0451\u043d\u0430\u044f \u0420\u043e\u0449\u0430, \u041a\u0438\u0440\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0423\u0444\u0430, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u0444\u0430, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 450103, \u0420\u0424",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2647521520",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4579124990",
+    "boundingbox": [
+      "4.5961596",
+      "4.5962596",
+      "101.0770818",
+      "101.0771818"
+    ],
+    "lat": "4.5962096",
+    "lon": "101.0771318",
+    "display_name": "Everyday, 29, Jalan Market, Taman Lim, Fair Park, Ipoh, PRK, 30000, Malaysia",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2654422157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4740902899",
+    "boundingbox": [
+      "49.2292575",
+      "49.2293575",
+      "-123.0049701",
+      "-123.0048701"
+    ],
+    "lat": "49.2293075",
+    "lon": "-123.0049201",
+    "display_name": "Everyday, 4500, Kingsway, Metrotown, Burnaby, Greater Vancouver Regional District, British Columbia, V5H 4V3, Canada",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  }
+]

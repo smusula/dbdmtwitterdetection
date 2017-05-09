@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "124285164",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "254867469",
+    "boundingbox": [
+      "46.2050588",
+      "46.2051771",
+      "-82.4118592",
+      "-82.4109789"
+    ],
+    "lat": "46.20509345",
+    "lon": "-82.4111056550296",
+    "display_name": "Spanish, Ontario, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "27828031",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2616677873",
+    "boundingbox": [
+      "46.183239",
+      "46.203239",
+      "-82.3573069",
+      "-82.3373069"
+    ],
+    "lat": "46.193239",
+    "lon": "-82.3473069",
+    "display_name": "Spanish, Elliot Lake, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2650983876",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4658113089",
+    "boundingbox": [
+      "-34.5183673",
+      "-34.5182673",
+      "-58.505378",
+      "-58.505278"
+    ],
+    "lat": "-34.5183173",
+    "lon": "-58.505328",
+    "display_name": "Amor mio, Vicente L\u00f3pez, Partido de Vicente L\u00f3pez, Bs. As., Argentina",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.325
+  },
+  {
+    "place_id": "55754660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4346041292",
+    "boundingbox": [
+      "32.2538967",
+      "32.2539967",
+      "77.1779406",
+      "77.1780406"
+    ],
+    "lat": "32.2539467",
+    "lon": "77.1779906",
+    "display_name": "The Spanish, Manu Mandir Road, Old Manali, Kullu, Himachal Pradesh, 175131, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "5032452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "566346908",
+    "boundingbox": [
+      "52.3767052",
+      "52.3768052",
+      "4.8822746",
+      "4.8823746"
+    ],
+    "lat": "52.3767552",
+    "lon": "4.8823246",
+    "display_name": "La Oliva Pintxos y Vinos, 122, Egelantiersstraat, Jordaan, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1015 PR, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16362441",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1486109769",
+    "boundingbox": [
+      "52.3635937",
+      "52.3636937",
+      "4.8852922",
+      "4.8853922"
+    ],
+    "lat": "52.3636437",
+    "lon": "4.8853422",
+    "display_name": "Granada, Leidsekruisstraat, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017RE, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16230383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1477529612",
+    "boundingbox": [
+      "52.3634676",
+      "52.3635676",
+      "4.8853666",
+      "4.8854666"
+    ],
+    "lat": "52.3635176",
+    "lon": "4.8854166",
+    "display_name": "El Patio Granada, Lange Leidsedwarsstraat, Amsterdam, Centrum, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 1017RE, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16350248",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1519649662",
+    "boundingbox": [
+      "52.0774704",
+      "52.0775704",
+      "4.3056406",
+      "4.3057406"
+    ],
+    "lat": "52.0775204",
+    "lon": "4.3056906",
+    "display_name": "La Riojana, Torenstraat, Kortenbos, Den Haag, MRDH, Zuid-Holland, Nederland, 2513BV, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "15270997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1391523601",
+    "boundingbox": [
+      "53.5687275",
+      "53.5688275",
+      "9.98004",
+      "9.98014"
+    ],
+    "lat": "53.5687775",
+    "lon": "9.98009",
+    "display_name": "arrabiata, 132, Grindelallee, Rotherbaum, Eimsb\u00fcttel, Hamburg, 20146, Deutschland",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "17153920",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1629898272",
+    "boundingbox": [
+      "51.210626",
+      "51.210726",
+      "4.3897914",
+      "4.3898914"
+    ],
+    "lat": "51.210676",
+    "lon": "4.3898414",
+    "display_name": "El Puerto, Waalsekaai, Het Zuid, Antwerpen, Vlaanderen, 2000, Belgi\u00eb - Belgique - Belgien",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

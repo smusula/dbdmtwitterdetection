@@ -1,0 +1,128 @@
+[
+  {
+    "place_id": "145864963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369689797",
+    "boundingbox": [
+      "45.4317532",
+      "45.4324971",
+      "8.4694236",
+      "8.4716981"
+    ],
+    "lat": "45.43214845",
+    "lon": "8.47055729945628",
+    "display_name": "Slayer Blades s.r.l., Zona Industriale La Ciliegia, Casalbeltrame, NO, PIE, Italia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "88559696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "110281838",
+    "boundingbox": [
+      "54.0312009",
+      "54.0316149",
+      "9.3572868",
+      "9.3611505"
+    ],
+    "lat": "54.0314068",
+    "lon": "9.3592081",
+    "display_name": "Slayer Street, Gribbohm, Schenefeld, Kreis Steinburg, Schleswig-Holstein, 25596, Deutschland",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63613288",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15199670",
+    "boundingbox": [
+      "29.928961",
+      "29.92939",
+      "-98.4077609",
+      "-98.4024299"
+    ],
+    "lat": "29.92939",
+    "lon": "-98.4045419",
+    "display_name": "Deerslayer, Spring Branch, Comal County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63636965",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15257142",
+    "boundingbox": [
+      "29.557352",
+      "29.564682",
+      "-97.9572309",
+      "-97.9510529"
+    ],
+    "lat": "29.560757",
+    "lon": "-97.9548619",
+    "display_name": "Deer Slayer Drive, Seguin, Guadalupe County, Texas, 78155, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "62061169",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12515315",
+    "boundingbox": [
+      "34.742442",
+      "34.743344",
+      "-82.7498059",
+      "-82.7495059"
+    ],
+    "lat": "34.742881",
+    "lon": "-82.7495729",
+    "display_name": "Deer Slayer Trail, Kelcar Acres, Pickens County, South Carolina, 29630, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "66075794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19075514",
+    "boundingbox": [
+      "39.486571",
+      "39.489224",
+      "-82.4699449",
+      "-82.4678089"
+    ],
+    "lat": "39.488225",
+    "lon": "-82.4694319",
+    "display_name": "Deer Slayer Trail, Blackjack, Hocking County, Ohio, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "159273728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "441821032",
+    "boundingbox": [
+      "52.9779465",
+      "52.9780536",
+      "-1.0964677",
+      "-1.096301"
+    ],
+    "lat": "52.9780001",
+    "lon": "-1.09638433592294",
+    "display_name": "Dragon Slayer House, 5, Grassingdale Close, Arnold and Carlton, Gedling, Nottinghamshire, East Midlands, England, NG4 4FE, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

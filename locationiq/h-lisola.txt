@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "2649738028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6759552",
+    "boundingbox": [
+      "45.4845354",
+      "45.4909597",
+      "9.1824014",
+      "9.1956966"
+    ],
+    "lat": "45.4875652",
+    "lon": "9.1889721",
+    "display_name": "Isola, Milano, MI, LOM, Italia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.29497837370268,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17966380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1741574344",
+    "boundingbox": [
+      "44.1491741",
+      "44.1891741",
+      "10.7695125",
+      "10.8095125"
+    ],
+    "lat": "44.1691741",
+    "lon": "10.7895125",
+    "display_name": "L'Isola, Unione dei comuni del Frignano, MO, EMR, Italia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "100073186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "156315482",
+    "boundingbox": [
+      "45.3314982",
+      "45.3399572",
+      "8.4135755",
+      "8.4294113"
+    ],
+    "lat": "45.33567445",
+    "lon": "8.4228745236303",
+    "display_name": "L'Isola, Vercelli, VC, PIE, 13100, Italia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50264289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3747494633",
+    "boundingbox": [
+      "43.7459401",
+      "43.7659401",
+      "10.2978228",
+      "10.3178228"
+    ],
+    "lat": "43.7559401",
+    "lon": "10.3078228",
+    "display_name": "L'Isola, Vecchiano, PI, TOS, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45586017",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3258693595",
+    "boundingbox": [
+      "43.4489678",
+      "43.4490678",
+      "11.6561817",
+      "11.6562817"
+    ],
+    "lat": "43.4490178",
+    "lon": "11.6562317",
+    "display_name": "L'Isola, Pergine Valdarno, AR, TOS, Italia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "4777281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "515157151",
+    "boundingbox": [
+      "45.3370716",
+      "45.3371716",
+      "8.4222052",
+      "8.4223052"
+    ],
+    "lat": "45.3371216",
+    "lon": "8.4222552",
+    "display_name": "L'Isola, Vercelli, VC, PIE, 13100, Italia",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "55216862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4261603270",
+    "boundingbox": [
+      "44.3503843",
+      "44.3504843",
+      "9.1513311",
+      "9.1514311"
+    ],
+    "lat": "44.3504343",
+    "lon": "9.1513811",
+    "display_name": "L'isola, Ruta, Camogli, GE, LIG, 16032, Italia",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2650342545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "469771540",
+    "boundingbox": [
+      "51.4227614",
+      "51.4228481",
+      "-0.2171917",
+      "-0.2170234"
+    ],
+    "lat": "51.42280435",
+    "lon": "-0.217107313179347",
+    "display_name": "L'Isola, 28, Ridgway, Cottenham Park, London Borough of Merton, London, Greater London, England, SW19 4QW, UK",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "24799860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2418310211",
+    "boundingbox": [
+      "50.7486513",
+      "50.7487513",
+      "6.1656386",
+      "6.1657386"
+    ],
+    "lat": "50.7487013",
+    "lon": "6.1656886",
+    "display_name": "L'Isola, 808, Trierer Stra\u00dfe, Brand, Aachen, St\u00e4dteregion Aachen, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 52078, Deutschland",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.001
+  },
+  {
+    "place_id": "8259217",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "885764798",
+    "boundingbox": [
+      "37.5143419",
+      "37.5144419",
+      "15.1041178",
+      "15.1042178"
+    ],
+    "lat": "37.5143919",
+    "lon": "15.1041678",
+    "display_name": "L'Isola, 88, Viale Africa, Ognina, Picanello-Ognina-Barriera-Canalicchio, Catania, CT, SIC, 95127, Italia",
+    "class": "shop",
+    "type": "furniture",
+    "importance": 0.001
+  }
+]

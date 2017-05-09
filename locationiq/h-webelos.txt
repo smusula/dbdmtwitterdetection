@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "63900472",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15432275",
+    "boundingbox": [
+      "29.545548",
+      "29.546738",
+      "-95.1801269",
+      "-95.1786739"
+    ],
+    "lat": "29.545909",
+    "lon": "-95.1791249",
+    "display_name": "Webelos Street, Olcott, Harris County, Texas, 77546, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63716555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15353222",
+    "boundingbox": [
+      "29.545909",
+      "29.5466344",
+      "-95.1791249",
+      "-95.1783792"
+    ],
+    "lat": "29.545909",
+    "lon": "-95.1791249",
+    "display_name": "Webelos Court, Olcott, Harris County, Texas, 77546, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65600898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17874262",
+    "boundingbox": [
+      "43.138605",
+      "43.139212",
+      "-85.3649939",
+      "-85.3643909"
+    ],
+    "lat": "43.138605",
+    "lon": "-85.3643909",
+    "display_name": "Webelos Drive Northeast, Kent County, Michigan, 48838, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "98750939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150296316",
+    "boundingbox": [
+      "35.3406073",
+      "35.3410935",
+      "-79.553331",
+      "-79.5486005"
+    ],
+    "lat": "35.3407658",
+    "lon": "-79.5507785",
+    "display_name": "Webelos Lane, Harris, Moore County, North Carolina, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  }
+]

@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "14441380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308678259",
+    "boundingbox": [
+      "-6.8695537",
+      "-6.8295537",
+      "106.1120903",
+      "106.1520903"
+    ],
+    "lat": "-6.8495537",
+    "lon": "106.1320903",
+    "display_name": "Cihara, Banten, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56176171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4379735749",
+    "boundingbox": [
+      "-11.9936049",
+      "-11.9935049",
+      "-77.0619949",
+      "-77.0618949"
+    ],
+    "lat": "-11.9935549",
+    "lon": "-77.0619449",
+    "display_name": "Ciara, 3698, Alfredo Mendiola, El Naranjal, Independencia, Lima, Lima 28, Per\u00fa",
+    "class": "shop",
+    "type": "shoes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648559041",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4602224112",
+    "boundingbox": [
+      "36.7835478",
+      "36.7836478",
+      "3.0258793",
+      "3.0259793"
+    ],
+    "lat": "36.7835978",
+    "lon": "3.0259293",
+    "display_name": "CIARA, Route Bouchaoui Hocine, Cit\u00e9 310 logements, La Fantan, Bouzar\u00e9ah, Da\u00efra Bouzareah, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16340, RADP",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "2653730745",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "419597211",
+    "boundingbox": [
+      "-32.928187",
+      "-32.9281234",
+      "-60.8123097",
+      "-60.8122373"
+    ],
+    "lat": "-32.9281595",
+    "lon": "-60.8122805580684",
+    "display_name": "Ciara, 2880, Yrigoyen, Funes R., Zona 2, Funes, Municipio de Funes, Departamento Rosario, Sta. Fe, S2132, Argentina",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "158438781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "436912465",
+    "boundingbox": [
+      "-12.0750877",
+      "-12.0749898",
+      "-77.0500425",
+      "-77.0499446"
+    ],
+    "lat": "-12.07503875",
+    "lon": "-77.04999355",
+    "display_name": "Ciara, Jir\u00f3n Mariscal Toribio Luzuriaga, Jes\u00fas Mar\u00eda, Lima, 11, Per\u00fa",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55101801",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4272210578",
+    "boundingbox": [
+      "35.807708",
+      "35.807808",
+      "-83.5747683",
+      "-83.5746683"
+    ],
+    "lat": "35.807758",
+    "lon": "-83.5747183",
+    "display_name": "GroomNglitz, LLC, 171-SWT 19, East Wears Valley Road, Pigeon Forge, Sevier County, Tennessee, 37863, United States of America",
+    "class": "shop",
+    "type": "pet",
+    "importance": 0.001
+  }
+]

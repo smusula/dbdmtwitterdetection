@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "115256728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218154661",
+    "boundingbox": [
+      "51.3836286",
+      "51.3836854",
+      "0.1611769",
+      "0.1613297"
+    ],
+    "lat": "51.383657",
+    "lon": "0.161253322156863",
+    "display_name": "Breathe, 1, Broadway, Crockenhill CP, Sevenoaks, Kent, South East, England, BR8 8JH, UK",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "4167322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "448525882",
+    "boundingbox": [
+      "51.4458272",
+      "51.4459272",
+      "0.2143256",
+      "0.2144256"
+    ],
+    "lat": "51.4458772",
+    "lon": "0.2143756",
+    "display_name": "Breathe, Essex Road, Dartford, Kent, South East, England, DA1 2DT, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648317212",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4597292417",
+    "boundingbox": [
+      "-35.0155703",
+      "-35.0154703",
+      "138.7363479",
+      "138.7364479"
+    ],
+    "lat": "-35.0155203",
+    "lon": "138.7363979",
+    "display_name": "Breathe, B33, Aldgate, Heathfield, South Australia, 5153, Australia",
+    "class": "shop",
+    "type": "Beauty",
+    "importance": 0.101
+  }
+]

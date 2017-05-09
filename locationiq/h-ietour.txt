@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "2647525899",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4579337817",
+    "boundingbox": [
+      "55.7739815",
+      "55.7740815",
+      "37.5840815",
+      "37.5841815"
+    ],
+    "lat": "55.7740315",
+    "lon": "37.5841315",
+    "display_name": "itour, 39 \u04414, 2-\u044f \u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041a\u0443\u0434\u0440\u0438\u043d\u043e, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0430\u0434\u043c\u0438\u043d\u0438\u0441\u0442\u0440\u0430\u0442\u0438\u0432\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u041c\u043e\u0441\u043a\u0432\u0430, \u0426\u0424\u041e, 125047, \u0420\u0424",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.001
+  },
+  {
+    "place_id": "23415629",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2319274243",
+    "boundingbox": [
+      "54.7244582",
+      "54.7245582",
+      "20.4950008",
+      "20.4951008"
+    ],
+    "lat": "54.7245082",
+    "lon": "20.4950508",
+    "display_name": "itour, 7, \u0443\u043b\u0438\u0446\u0430 \u041a\u0438\u0440\u043e\u0432\u0430, \u0426\u0435\u043d\u0442\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434, \u041a\u0430\u043b\u0438\u043d\u0438\u043d\u0433\u0440\u0430\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 236022, \u0420\u0424",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.001
+  },
+  {
+    "place_id": "49006567",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3637654253",
+    "boundingbox": [
+      "28.2099563",
+      "28.2100563",
+      "83.9568117",
+      "83.9569117"
+    ],
+    "lat": "28.2100063",
+    "lon": "83.9568617",
+    "display_name": "ITour, Baidam Road, Pokhara Sub-Metropolitan Ward No. 6, Pokhara, Pokhara Sub Metropolitan, \u0915\u093e\u0938\u094d\u0915\u0940 (Kaski), \u0917\u0923\u094d\u0921\u0915\u0940 \u0905\u091e\u094d\u091a\u0932, \u092a\u0936\u094d\u091a\u093f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, Pokhara-6, \u0928\u0947\u092a\u093e\u0932",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.001
+  }
+]

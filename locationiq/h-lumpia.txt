@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "41130613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3009670163",
+    "boundingbox": [
+      "53.9507833",
+      "53.9508833",
+      "20.2052278",
+      "20.2053278"
+    ],
+    "lat": "53.9508333",
+    "lon": "20.2052778",
+    "display_name": "\u0141umpia, Konradowo, gmina \u015awi\u0105tki, powiat olszty\u0144ski, warmi\u0144sko-mazurskie, 11-008, Polska",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.25
+  },
+  {
+    "place_id": "47611961",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3471837769",
+    "boundingbox": [
+      "43.4601015",
+      "43.4602015",
+      "5.3532899",
+      "5.3533899"
+    ],
+    "lat": "43.4601515",
+    "lon": "5.3533399",
+    "display_name": "Lumpia, Rue de la Marjourano, L'Arbois, La Foraine, Cabri\u00e8s, Aix-en-Provence, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13480, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "122470",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "25389429",
+    "boundingbox": [
+      "60.1663198",
+      "60.1763198",
+      "24.9364566",
+      "24.9464566"
+    ],
+    "lat": "60.1713198",
+    "lon": "24.9414566",
+    "display_name": "asema, 1, Kaivokatu, Keskusta, Kluuvi, Etel\u00e4inen suurpiiri, Helsinki, Helsingin seutukunta, Uusimaa, Etel\u00e4-Suomi, 00100, Suomi",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.73611299526866,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "7041566",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "724099215",
+    "boundingbox": [
+      "52.2926743",
+      "52.2927743",
+      "4.6981028",
+      "4.6982028"
+    ],
+    "lat": "52.2927243",
+    "lon": "4.6981528",
+    "display_name": "Station, Mercuriusplein, Beukenhorst, Hoofddorp, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2132HA, Nederland",
+    "class": "amenity",
+    "type": "bus_station",
+    "importance": 0.43074299592768,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_station.p.20.png"
+  },
+  {
+    "place_id": "160491795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1908819",
+    "boundingbox": [
+      "6.2716667",
+      "7.1466665",
+      "98.9499715",
+      "100.220253"
+    ],
+    "lat": "7.0366682",
+    "lon": "99.9615397",
+    "display_name": "\u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e2a\u0e15\u0e39\u0e25, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42119479171338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "513551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "174672649",
+    "boundingbox": [
+      "52.2591435",
+      "52.2592435",
+      "4.6448214",
+      "4.6449214"
+    ],
+    "lat": "52.2591935",
+    "lon": "4.6448714",
+    "display_name": "Station, Venneperweg, Nieuw-Vennep, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2153AX, Nederland",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.409123069644,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "55593656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4337163390",
+    "boundingbox": [
+      "38.9690563",
+      "39.0090563",
+      "46.7201256",
+      "46.7601256"
+    ],
+    "lat": "38.9890563",
+    "lon": "46.7401256",
+    "display_name": "\u0633\u062a\u0646, \u0628\u062e\u0634 \u0645\u0646\u062c\u0648\u0627\u0646, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062e\u062f\u0627\u0622\u0641\u0631\u06cc\u0646, \u0627\u0633\u062a\u0627\u0646 \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u0634\u0631\u0642\u06cc, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "place",
+    "type": "village",
+    "importance": 0.40545343654463,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "59579704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8045956",
+    "boundingbox": [
+      "53.3648029",
+      "53.3652012",
+      "-2.273706",
+      "-2.2725044"
+    ],
+    "lat": "53.36501715",
+    "lon": "-2.27310563210227",
+    "display_name": "Manchester Airport, Terminal Road North, Ringway, Manchester, Greater Manchester, North West England, England, M90 3RR, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.39047487619448,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "12931275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1233486749",
+    "boundingbox": [
+      "45.7882739",
+      "45.8282739",
+      "0.1291382",
+      "0.1691382"
+    ],
+    "lat": "45.8082739",
+    "lon": "0.1491382",
+    "display_name": "La Station, Angoul\u00eame, Charente, Nouvelle-Aquitaine, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "18133054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1739658345",
+    "boundingbox": [
+      "46.7149283",
+      "46.7549283",
+      "1.5685967",
+      "1.6085967"
+    ],
+    "lat": "46.7349283",
+    "lon": "1.5885967",
+    "display_name": "La Station, Ch\u00e2teauroux, Indre, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "445318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154305865",
+    "boundingbox": [
+      "33.8156624",
+      "33.8556624",
+      "-84.0115765",
+      "-83.9715765"
+    ],
+    "lat": "33.8356624",
+    "lon": "-83.9915765",
+    "display_name": "The Station, Gwinnett County, Georgia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4021048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "431361872",
+    "boundingbox": [
+      "52.6465376",
+      "52.6565376",
+      "-3.3277214",
+      "-3.3177214"
+    ],
+    "lat": "52.6515376",
+    "lon": "-3.3227214",
+    "display_name": "Llanfair Caereinion, Pool Road, Llanfair Caereinion, Powys, Wales, SY21 0SF, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.37222126525828,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

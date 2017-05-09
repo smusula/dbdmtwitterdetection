@@ -1,0 +1,177 @@
+[
+  {
+    "place_id": "160563985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2521952",
+    "boundingbox": [
+      "62.2843557",
+      "62.7058152",
+      "27.4066007",
+      "28.545522"
+    ],
+    "lat": "62.4894313",
+    "lon": "27.7860813",
+    "display_name": "Lepp\u00e4virta, Varkauden seutukunta, Pohjois-Savo, It\u00e4-Suomen aluehallintovirasto, It\u00e4-Suomi, Suomi",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42500346529015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160494434",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2178091",
+    "boundingbox": [
+      "55.1205233",
+      "55.4327016",
+      "9.7850334",
+      "10.2938782"
+    ],
+    "lat": "55.2766595",
+    "lon": "10.0657895988964",
+    "display_name": "Assens Kommune, Region Syddanmark, Danmark",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38635547206423,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "26166143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2502001236",
+    "boundingbox": [
+      "48.090489",
+      "48.110489",
+      "11.4823011",
+      "11.5023011"
+    ],
+    "lat": "48.100489",
+    "lon": "11.4923011",
+    "display_name": "420, Stadtbezirk 20 Hadern, Unterdill, M\u00fcnchen, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.36,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161258735",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "66.013997592876",
+      "66.014097592876",
+      "-23.013473535753",
+      "-23.013373535753"
+    ],
+    "lat": "66.0140475928763",
+    "lon": "-23.0134235357534",
+    "display_name": "S\u00fa\u00f0av\u00edk, S\u00fa\u00f0av\u00edkurhreppur, Vestfir\u00f0ir, 420, \u00cdsland",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161843064",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "24.256984984268",
+      "24.257084984268",
+      "120.72999923878",
+      "120.73009923878"
+    ],
+    "lat": "24.2570349842683",
+    "lon": "120.730049238781",
+    "display_name": "\u7fc1\u5b50\u91cc, \u9802\u89d2\u6f6d, \u8c50\u539f\u5340, \u81fa\u4e2d\u5e02, 420, \u81fa\u7063",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161102309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "7.4107867633745",
+      "7.4108867633745",
+      "-7.5510800797758",
+      "-7.5509800797758"
+    ],
+    "lat": "7.41083676337454",
+    "lon": "-7.55103007977575",
+    "display_name": "Quartier Kenedy, Man, Tonpki, Montagnes, 420, C\u00f4te d\u2019Ivoire",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "161126150",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "boundingbox": [
+      "62.152911226393",
+      "62.153011226393",
+      "-6.9446263146428",
+      "-6.9445263146428"
+    ],
+    "lat": "62.1529612263929",
+    "lon": "-6.94457631464281",
+    "display_name": "H\u00f3sv\u00edk, Streymoyar s\u00fdsla, 420, Territorial waters of Faroe Islands",
+    "class": "place",
+    "type": "postcode",
+    "importance": 0.335
+  },
+  {
+    "place_id": "2435197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "344665529",
+    "boundingbox": [
+      "43.2419527",
+      "43.2420527",
+      "27.8276974",
+      "27.8277974"
+    ],
+    "lat": "43.2420027",
+    "lon": "27.8277474",
+    "display_name": "\u041b\u0435\u0442\u0438\u0449\u0435 \u0412\u0430\u0440\u043d\u0430, \u0410\u0432\u0442\u043e\u043c\u0430\u0433\u0438\u0441\u0442\u0440\u0430\u043b\u0430 \u0425\u0435\u043c\u0443\u0441, \u0410\u043a\u0441\u0430\u043a\u043e\u0432\u043e, \u041e\u0431\u0449\u0438\u043d\u0430 \u0410\u043a\u0441\u0430\u043a\u043e\u0432\u043e, \u041e\u0431\u043b\u0430\u0441\u0442 \u0412\u0430\u0440\u043d\u0430, 9023, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "highway",
+    "type": "motorway_junction",
+    "importance": 0.31673028276881
+  },
+  {
+    "place_id": "160812925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4786071",
+    "boundingbox": [
+      "48.6462416",
+      "48.6515507",
+      "6.0723039",
+      "6.079417"
+    ],
+    "lat": "48.6487219",
+    "lon": "6.07615308383149",
+    "display_name": "420, Maron, Nancy, Meurthe-et-Moselle, Grand-Est, 54230, France",
+    "class": "landuse",
+    "type": "forest",
+    "importance": 0.31
+  },
+  {
+    "place_id": "126910431",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "266927727",
+    "boundingbox": [
+      "53.1725257",
+      "53.1727119",
+      "15.4100271",
+      "15.4102259"
+    ],
+    "lat": "53.17261925",
+    "lon": "15.410126817088",
+    "display_name": "420, Choszczno, gmina Choszczno, powiat choszcze\u0144ski, zachodniopomorskie, Polska",
+    "class": "landuse",
+    "type": "allotments",
+    "importance": 0.31
+  }
+]

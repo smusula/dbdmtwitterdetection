@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160380452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1153067",
+    "boundingbox": [
+      "47.830363",
+      "49.0000919",
+      "-118.8699389",
+      "-118.1023249"
+    ],
+    "lat": "48.4736934",
+    "lon": "-118.4834361",
+    "display_name": "Ferry County, Washington, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4896709717155,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2645097291",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "455576367",
+    "boundingbox": [
+      "-18.2761637",
+      "-18.2759447",
+      "21.7878274",
+      "21.787965"
+    ],
+    "lat": "-18.2760407",
+    "lon": "21.7878962",
+    "display_name": "Ferry, North-West District, Botswana",
+    "class": "waterway",
+    "type": "dock",
+    "importance": 0.425
+  },
+  {
+    "place_id": "52409389",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3925969060",
+    "boundingbox": [
+      "16.2541746",
+      "16.2941746",
+      "-61.8227753",
+      "-61.7827753"
+    ],
+    "lat": "16.2741746",
+    "lon": "-61.8027753",
+    "display_name": "Ferry, Basse-Terre, Guadeloupe, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "25785398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2479462417",
+    "boundingbox": [
+      "45.3991108",
+      "45.4391108",
+      "3.8542372",
+      "3.8942372"
+    ],
+    "lat": "45.4191108",
+    "lon": "3.8742372",
+    "display_name": "Ferry, Ambert, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, 63840 Sauvessanges, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "9210853",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "944039295",
+    "boundingbox": [
+      "47.1970018",
+      "47.2370018",
+      "1.3615072",
+      "1.4015072"
+    ],
+    "lat": "47.2170018",
+    "lon": "1.3815072",
+    "display_name": "Le Ferry, Romorantin-Lanthenay, Loir-et-Cher, Centre-Val de Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "47041067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3401474744",
+    "boundingbox": [
+      "47.3242732",
+      "47.3642732",
+      "-1.3271676",
+      "-1.2871676"
+    ],
+    "lat": "47.3442732",
+    "lon": "-1.3071676",
+    "display_name": "Ferry, Ch\u00e2teaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "435535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154068517",
+    "boundingbox": [
+      "39.5603377",
+      "39.6003377",
+      "-84.1243796",
+      "-84.0843796"
+    ],
+    "lat": "39.5803377",
+    "lon": "-84.1043796",
+    "display_name": "Ferry, Greene County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "414976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153784675",
+    "boundingbox": [
+      "43.5641773",
+      "43.6041773",
+      "-86.2447917",
+      "-86.2047917"
+    ],
+    "lat": "43.5841773",
+    "lon": "-86.2247917",
+    "display_name": "Ferry, Oceana County, Michigan, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "335450",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150920786",
+    "boundingbox": [
+      "63.9966667",
+      "64.0366667",
+      "-149.1366666",
+      "-149.0966666"
+    ],
+    "lat": "64.0166667",
+    "lon": "-149.1166666",
+    "display_name": "Ferry, Denali, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "40104591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2952829170",
+    "boundingbox": [
+      "35.7677597",
+      "35.8077597",
+      "-115.4256519",
+      "-115.3856519"
+    ],
+    "lat": "35.7877597",
+    "lon": "-115.4056519",
+    "display_name": "Ferry, Clark County, Nevada, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

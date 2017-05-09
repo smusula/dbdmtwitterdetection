@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "23334068",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2307765522",
+    "boundingbox": [
+      "43.8872568",
+      "43.9072568",
+      "7.6276239",
+      "7.6476239"
+    ],
+    "lat": "43.8972568",
+    "lon": "7.6376239",
+    "display_name": "Mural, Isolabona, IM, LIG, Italia",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13497943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242917464",
+    "boundingbox": [
+      "43.121142",
+      "43.141142",
+      "-6.5263996",
+      "-6.5063996"
+    ],
+    "lat": "43.131142",
+    "lon": "-6.5163996",
+    "display_name": "La Mural, Cangas del Narcea, Asturias / Asturies, Asturias, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "99016501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151795120",
+    "boundingbox": [
+      "20.5373879",
+      "20.5392723",
+      "-100.3964798",
+      "-100.3964471"
+    ],
+    "lat": "20.5383903",
+    "lon": "-100.3964471",
+    "display_name": "Mural, Misi\u00f3n Mariana, Los Olvera, Santiago de Quer\u00e9taro, Corregidora, Quer\u00e9taro, 76904, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "12221448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1157195488",
+    "boundingbox": [
+      "43.6719338",
+      "43.6720338",
+      "-79.3796291",
+      "-79.3795291"
+    ],
+    "lat": "43.6719838",
+    "lon": "-79.3795791",
+    "display_name": "mural, Mount Pleasant Road, Rosedale, Old Toronto, Toronto, Ontario, M4W 3J6, Canada",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "18563937",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1822233917",
+    "boundingbox": [
+      "51.7661106",
+      "51.7662106",
+      "19.4545325",
+      "19.4546325"
+    ],
+    "lat": "51.7661606",
+    "lon": "19.4545825",
+    "display_name": "Mural, 32, Aleja Tadeusza Ko\u015bciuszki, Katedralna, \u0141\u00f3d\u017a-\u015ar\u00f3dmie\u015bcie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-606, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "18745174",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1822229796",
+    "boundingbox": [
+      "51.7763072",
+      "51.7764072",
+      "19.4512511",
+      "19.4513511"
+    ],
+    "lat": "51.7763572",
+    "lon": "19.4513011",
+    "display_name": "Mural, Legion\u00f3w, Katedralna, \u0141\u00f3d\u017a-\u015ar\u00f3dmie\u015bcie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-720, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "52225359",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3940810535",
+    "boundingbox": [
+      "51.7728155",
+      "51.7729155",
+      "19.4741406",
+      "19.4742406"
+    ],
+    "lat": "51.7728655",
+    "lon": "19.4741906",
+    "display_name": "Mural, 3, Uniwersytecka, \u015ar\u00f3dmie\u015bcie-Wsch\u00f3d, \u0141\u00f3d\u017a-\u015ar\u00f3dmie\u015bcie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-251, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "18744914",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1822216026",
+    "boundingbox": [
+      "51.7746163",
+      "51.7747163",
+      "19.4527157",
+      "19.4528157"
+    ],
+    "lat": "51.7746663",
+    "lon": "19.4527657",
+    "display_name": "Mural, Zachodnia, Katedralna, \u0141\u00f3d\u017a-\u015ar\u00f3dmie\u015bcie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-403, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "48073790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3484007751",
+    "boundingbox": [
+      "51.7625648",
+      "51.7626648",
+      "19.4406247",
+      "19.4407247"
+    ],
+    "lat": "51.7626148",
+    "lon": "19.4406747",
+    "display_name": "Mural, 10, \u0141\u0105kowa, Stare Polesie, \u0141\u00f3d\u017a-Polesie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-558, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "18778240",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1822238527",
+    "boundingbox": [
+      "51.7765168",
+      "51.7766168",
+      "19.4502359",
+      "19.4503359"
+    ],
+    "lat": "51.7765668",
+    "lon": "19.4502859",
+    "display_name": "Mural, 19, Legion\u00f3w, Katedralna, \u0141\u00f3d\u017a-\u015ar\u00f3dmie\u015bcie, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 90-720, Polska",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

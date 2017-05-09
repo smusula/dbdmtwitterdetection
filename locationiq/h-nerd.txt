@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "54905862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4256920284",
+    "boundingbox": [
+      "37.5351924",
+      "37.5352924",
+      "126.9914918",
+      "126.9915918"
+    ],
+    "lat": "37.5352424",
+    "lon": "126.9915418",
+    "display_name": "NERD, 22, \uc774\ud0dc\uc6d0\ub85c17\uae38, \uc774\ucd0c 1\ub3d9 (Itaewon 1-dong), \uc774\ud0dc\uc6d0\ub3d9 (Itaewon-dong), \uc6a9\uc0b0\uad6c, \uc11c\uc6b8\ud2b9\ubcc4\uc2dc, 04351, \ub300\ud55c\ubbfc\uad6d",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "94204977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130062004",
+    "boundingbox": [
+      "31.7162784",
+      "31.7165569",
+      "35.0867807",
+      "35.0875493"
+    ],
+    "lat": "31.7164791",
+    "lon": "35.0873455",
+    "display_name": "\u05e0\u05e8\u05d3, \u05d4\u05e8 \u05db\u05ea\u05e8\u05d5\u05df, \u05e6\u05d5\u05e8 \u05d4\u05d3\u05e1\u05d4, \u05de\u05d7\u05d5\u05d6 \u05d9\u05e8\u05d5\u05e9\u05dc\u05d9\u05dd, \u05de\u05d3\u05d9\u05e0\u05ea \u05d9\u05e9\u05e8\u05d0\u05dc",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

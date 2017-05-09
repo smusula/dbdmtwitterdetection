@@ -1,0 +1,58 @@
+[
+  {
+    "place_id": "124484188",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255616155",
+    "boundingbox": [
+      "23.1244102",
+      "23.1253233",
+      "-82.314182",
+      "-82.3141218"
+    ],
+    "lat": "23.1251341",
+    "lon": "-82.3141541",
+    "display_name": "Padres, Cruz Verde, Antonio Guiteras, La Habana, Guanabacoa, La Habana, 11100, Cuba",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44616200",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3147296793",
+    "boundingbox": [
+      "48.1321219",
+      "48.1322219",
+      "11.5687009",
+      "11.5688009"
+    ],
+    "lat": "48.1321719",
+    "lon": "11.5687509",
+    "display_name": "Padres, 43, Blumenstra\u00dfe, Angerviertel, Bezirksteil Angerviertel, Stadtbezirk 01 Altstadt-Lehel, M\u00fcnchen, OB, Bayern, 80331, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "6067242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "634816751",
+    "boundingbox": [
+      "43.131529",
+      "43.131629",
+      "-2.0620589",
+      "-2.0619589"
+    ],
+    "lat": "43.131579",
+    "lon": "-2.0620089",
+    "display_name": "Padres, San Bartolome plaza, San Inazio, Ibarra, Tolosaldea, Gipuzkoa, Euskadi, 20400, Espa\u00f1a",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

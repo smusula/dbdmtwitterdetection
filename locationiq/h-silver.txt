@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "380687",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151705551",
+    "boundingbox": [
+      "34.5148157",
+      "34.5548157",
+      "-93.5301901",
+      "-93.4901901"
+    ],
+    "lat": "34.5348157",
+    "lon": "-93.5101901",
+    "display_name": "Silver, Montgomery County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "442232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154297055",
+    "boundingbox": [
+      "33.6579398",
+      "33.6979398",
+      "-80.3773052",
+      "-80.3373052"
+    ],
+    "lat": "33.6779398",
+    "lon": "-80.3573052",
+    "display_name": "Silver, Clarendon County, South Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "93510831",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "127687153",
+    "boundingbox": [
+      "51.8417912",
+      "51.8732493",
+      "128.0321481",
+      "128.0824913"
+    ],
+    "lat": "51.8564655",
+    "lon": "128.0581762",
+    "display_name": "\u0421\u0435\u0440\u0435\u0431\u0440\u044f\u043d\u044b\u0439, \u0421\u0435\u043b\u0435\u0442\u043a\u0430\u043d\u0441\u043a\u0438\u0439 \u0441\u0435\u043b\u044c\u0441\u043e\u0432\u0435\u0442, \u0428\u0438\u043c\u0430\u043d\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043c\u0443\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0414\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.325
+  },
+  {
+    "place_id": "371054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151611314",
+    "boundingbox": [
+      "32.0508907",
+      "32.0908907",
+      "-100.702808",
+      "-100.662808"
+    ],
+    "lat": "32.0708907",
+    "lon": "-100.682808",
+    "display_name": "Silver, Coke County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.27714730829695,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "77698867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51405749",
+    "boundingbox": [
+      "7.0871855",
+      "7.0885975",
+      "125.6033067",
+      "125.6054957"
+    ],
+    "lat": "7.0878159",
+    "lon": "125.6041788",
+    "display_name": "Silver, Mineral Village, Poblacion, Davao City, Davao, 8016, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89865762",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114803949",
+    "boundingbox": [
+      "7.1973709",
+      "7.1984629",
+      "125.6394106",
+      "125.6394995"
+    ],
+    "lat": "7.1984629",
+    "lon": "125.6394995",
+    "display_name": "Silver, Marrieta Subdivision, Upper Ilang, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "89900180",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "114770417",
+    "boundingbox": [
+      "7.1235095",
+      "7.1253182",
+      "125.6186342",
+      "125.6190989"
+    ],
+    "lat": "7.1244366",
+    "lon": "125.6187719",
+    "display_name": "Silver, Emily Homes Phase 3, El Punto Vista, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67428021",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21177828",
+    "boundingbox": [
+      "30.869805",
+      "30.871798",
+      "-94.8254609",
+      "-94.8101609"
+    ],
+    "lat": "30.871775",
+    "lon": "-94.8177579",
+    "display_name": "Silver, Moscow, Polk County, Texas, 77350, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63733439",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15372133",
+    "boundingbox": [
+      "29.5587484",
+      "29.5597128",
+      "-104.3607873",
+      "-104.3607662"
+    ],
+    "lat": "29.5587484",
+    "lon": "-104.3607662",
+    "display_name": "Silver, Presidio, Presidio County, Texas, 79845, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63678526",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15271447",
+    "boundingbox": [
+      "26.2469655",
+      "26.2482603",
+      "-98.1838291",
+      "-98.1836229"
+    ],
+    "lat": "26.2469655",
+    "lon": "-98.1838291",
+    "display_name": "Silver, Pharr, Hidalgo County, Texas, 78539, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

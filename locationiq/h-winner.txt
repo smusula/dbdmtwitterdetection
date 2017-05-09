@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160295370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "195062",
+    "boundingbox": [
+      "43.364565",
+      "43.386331",
+      "-99.889798",
+      "-99.8336821"
+    ],
+    "lat": "43.376667",
+    "lon": "-99.8590069",
+    "display_name": "Winner, Tripp County, South Dakota, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.48375675185157,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "20361301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2036818541",
+    "boundingbox": [
+      "47.7054985",
+      "47.7454985",
+      "11.6973769",
+      "11.7373769"
+    ],
+    "lat": "47.7254985",
+    "lon": "11.7173769",
+    "display_name": "Winner, Landkreis Miesbach, OB, Bayern, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "358405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151331217",
+    "boundingbox": [
+      "39.312501",
+      "39.352501",
+      "-94.5118967",
+      "-94.4718967"
+    ],
+    "lat": "39.332501",
+    "lon": "-94.4918967",
+    "display_name": "Winner, Clay County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "426032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154141288",
+    "boundingbox": [
+      "36.3770566",
+      "36.4170566",
+      "-82.1290157",
+      "-82.0890157"
+    ],
+    "lat": "36.3970566",
+    "lon": "-82.1090157",
+    "display_name": "Winner, Carter County, Tennessee, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4990436",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "560989552",
+    "boundingbox": [
+      "51.1459315",
+      "51.1859315",
+      "5.3720516",
+      "5.4120516"
+    ],
+    "lat": "51.1659315",
+    "lon": "5.3920516",
+    "display_name": "Eksel, Winner, Maaseik, Limburg, Vlaanderen, 3941, Belgi\u00eb - Belgique - Belgien",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "384568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151782159",
+    "boundingbox": [
+      "48.5777539",
+      "48.6177539",
+      "-95.4599734",
+      "-95.4199734"
+    ],
+    "lat": "48.5977539",
+    "lon": "-95.4399734",
+    "display_name": "Winner, Roseau County, Minnesota, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.36392466723397,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49104489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3650602645",
+    "boundingbox": [
+      "50.7768249",
+      "50.7968249",
+      "-0.9280366",
+      "-0.9080366"
+    ],
+    "lat": "50.7868249",
+    "lon": "-0.9180366",
+    "display_name": "The Winner, Chichester, West Sussex, South East, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2647838189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45308563",
+    "boundingbox": [
+      "-16.5503987",
+      "-16.5484261",
+      "-68.1816171",
+      "-68.1809409"
+    ],
+    "lat": "-16.5494197",
+    "lon": "-68.1812815",
+    "display_name": "Winner, Rosas Pampa Industrial, Municipio El Alto, Provincia Murillo, LPZ, Bolivia",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "51782144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3861776566",
+    "boundingbox": [
+      "35.1776407",
+      "35.1777407",
+      "136.9249976",
+      "136.9250976"
+    ],
+    "lat": "35.1776907",
+    "lon": "136.9250476",
+    "display_name": "winner, \u702c\u6238\u4fe1\u7528\u91d1\u5eab\u8eca\u9053\u652f\u5e97\u685c\u901a\u6b69\u9053\u6a4b, \u6771\u533a, \u540d\u53e4\u5c4b\u5e02, \u6d77\u90e8\u90e1, \u611b\u77e5\u770c, 461-0002, \u65e5\u672c",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "53822175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4128063301",
+    "boundingbox": [
+      "46.7554883",
+      "46.7555883",
+      "23.5790144",
+      "23.5791144"
+    ],
+    "lat": "46.7555383",
+    "lon": "23.5790644",
+    "display_name": "Winner, 52, Strada Louis Pasteur, Zorilor, Cluj-Napoca, Cluj, 400351, Rom\u00e2nia",
+    "class": "shop",
+    "type": "bookmaker",
+    "importance": 0.101
+  }
+]

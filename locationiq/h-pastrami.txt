@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "7100059",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "765081348",
+    "boundingbox": [
+      "40.7223797",
+      "40.7224797",
+      "-73.9876986",
+      "-73.9875986"
+    ],
+    "lat": "40.7224297",
+    "lon": "-73.9876486",
+    "display_name": "pastrami!, 201, East Houston Street, Lower East Side, Manhattan, New York County, NYC, New York, 10002, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2608476027",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4459183507",
+    "boundingbox": [
+      "47.5324145",
+      "47.5325145",
+      "19.0407825",
+      "19.0408825"
+    ],
+    "lat": "47.5324645",
+    "lon": "19.0408325",
+    "display_name": "Pastrami, Lajos utca, Lajos utcai lak\u00f3telep, \u00d3buda, 3. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1036, Magyarorsz\u00e1g",
+    "class": "amenity",
+    "type": "bicycle_parking",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160450060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1815278",
+    "boundingbox": [
+      "52.5885494",
+      "52.7606438",
+      "6.9955539",
+      "7.1917364"
+    ],
+    "lat": "52.6474242",
+    "lon": "7.0947959",
+    "display_name": "Twist, Landkreis Emsland, Niedersachsen, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43452569928643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "121664752",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243877530",
+    "boundingbox": [
+      "40.9849474",
+      "40.9853748",
+      "-111.8929651",
+      "-111.8928477"
+    ],
+    "lat": "40.9852122",
+    "lon": "-111.8929397",
+    "display_name": "Twist, Farmington, Davis County, Utah, United States of America",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "2806674",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356680153",
+    "boundingbox": [
+      "38.8726928",
+      "38.8727928",
+      "-111.9149749",
+      "-111.9148749"
+    ],
+    "lat": "38.8727428",
+    "lon": "-111.9149249",
+    "display_name": "The Twist, Sevier County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "48585456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3600357649",
+    "boundingbox": [
+      "37.3672152",
+      "37.3872152",
+      "-109.7519512",
+      "-109.7319512"
+    ],
+    "lat": "37.3772152",
+    "lon": "-109.7419512",
+    "display_name": "The Twist, San Juan County, Utah, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "364841",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151527517",
+    "boundingbox": [
+      "35.356196",
+      "35.396196",
+      "-90.5273265",
+      "-90.4873265"
+    ],
+    "lat": "35.376196",
+    "lon": "-90.5073265",
+    "display_name": "Twist, Cross County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3187004523946,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160585609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2725406",
+    "boundingbox": [
+      "51.5626442",
+      "51.5945019",
+      "5.8225768",
+      "5.8980599"
+    ],
+    "lat": "51.5787484",
+    "lon": "5.85856162484738",
+    "display_name": "Westerbeek, Sint Anthonis, Noord-Brabant, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.28323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "94411183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "131391201",
+    "boundingbox": [
+      "52.2801545",
+      "52.2806913",
+      "4.6214624",
+      "4.621881"
+    ],
+    "lat": "52.2803652",
+    "lon": "4.6216181",
+    "display_name": "Twist, Nieuw-Vennep, Haarlemmermeer, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland, 2152TJ, Nederland",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "69245776",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "24273825",
+    "boundingbox": [
+      "51.783302",
+      "51.7892103",
+      "-0.6434051",
+      "-0.6380893"
+    ],
+    "lat": "51.7869854",
+    "lon": "-0.6399567",
+    "display_name": "The Twist, Wigginton CP, Dacorum, Hertfordshire, East of England, England, HP23, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70574539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27934205",
+    "boundingbox": [
+      "52.5734311",
+      "52.6012435",
+      "7.1078678",
+      "7.1105422"
+    ],
+    "lat": "52.590525",
+    "lon": "7.1096424",
+    "display_name": "Twist, Wietmarschen, Landkreis Grafschaft Bentheim, Niedersachsen, 49835, Deutschland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63231548",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14560988",
+    "boundingbox": [
+      "32.952066",
+      "32.952139",
+      "-105.6310749",
+      "-105.6292969"
+    ],
+    "lat": "32.952091",
+    "lon": "-105.6301969",
+    "display_name": "Twist, Wimsatt, Otero County, New Mexico, 88317, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,59 @@
+[
+  {
+    "place_id": "29418373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2711624202",
+    "boundingbox": [
+      "46.8117932",
+      "46.8118932",
+      "-71.22482",
+      "-71.22472"
+    ],
+    "lat": "46.8118432",
+    "lon": "-71.22477",
+    "display_name": "Le Scanner, Rue De Saint-Vallier Est, Vieux-Qu\u00e9bec\u2013Cap-Blanc\u2013Colline-Parlementaire, Saint-Roch, Qu\u00e9bec, G1K3V1, Canada",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "22193030",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2189943055",
+    "boundingbox": [
+      "43.3283952",
+      "43.3284952",
+      "-1.9706767",
+      "-1.9705767"
+    ],
+    "lat": "43.3284452",
+    "lon": "-1.9706267",
+    "display_name": "Scanner, Jose Migel Barandiaran pasealekua, Gros, Donostia/San Sebasti\u00e1n, Donostialdea/Donostia-San Sebasti\u00e1n, Gipuzkoa, Euskadi, 20001;20002;20003;20004;20005;20006;20007;20008;20009;20010;20011;20012;20013;20014;20015;20016;20017;20018, Espa\u00f1a",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "56117285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4358170917",
+    "boundingbox": [
+      "-12.1919541",
+      "-12.1918541",
+      "-76.983239",
+      "-76.983139"
+    ],
+    "lat": "-12.1919041",
+    "lon": "-76.983189",
+    "display_name": "Scanner, Avenida San Juan, Chorrillos, Lima, 15064, Per\u00fa",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  }
+]

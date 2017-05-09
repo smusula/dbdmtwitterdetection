@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "429680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153982646",
+    "boundingbox": [
+      "39.6664617",
+      "39.7064617",
+      "-81.3248375",
+      "-81.2848375"
+    ],
+    "lat": "39.6864617",
+    "lon": "-81.3048375",
+    "display_name": "Flag, Noble County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "366728",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151530881",
+    "boundingbox": [
+      "35.7992429",
+      "35.8392429",
+      "-92.4143248",
+      "-92.3743248"
+    ],
+    "lat": "35.8192429",
+    "lon": "-92.3943248",
+    "display_name": "Flag, Stone County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27177979",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2550143847",
+    "boundingbox": [
+      "58.5847762",
+      "58.5848762",
+      "126.7002945",
+      "126.7003945"
+    ],
+    "lat": "58.5848262",
+    "lon": "126.7003445",
+    "display_name": "\u0424\u043b\u0430\u0433, \u0410\u043b\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "67581666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20782173",
+    "boundingbox": [
+      "33.713549",
+      "33.713558",
+      "-98.2008579",
+      "-98.2005849"
+    ],
+    "lat": "33.713549",
+    "lon": "-98.2005849",
+    "display_name": "Flag, Bluegrove, Clay County, Texas, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "87738628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "107395130",
+    "boundingbox": [
+      "14.8404836",
+      "14.8419292",
+      "120.3082221",
+      "120.3094266"
+    ],
+    "lat": "14.8413924",
+    "lon": "120.3087178",
+    "display_name": "Flag, Subic Bay Gateway Park, Subic Bay Freeport, Olongapo, Central Luzon, 2200, Philippines",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "46557630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3370506913",
+    "boundingbox": [
+      "48.2267016",
+      "48.2268016",
+      "16.3112523",
+      "16.3113523"
+    ],
+    "lat": "48.2267516",
+    "lon": "16.3113023",
+    "display_name": "The Flag, 19, Alszeile, Frauenfeld, KG Dornbach, Hernals, Wien, 1170, \u00d6sterreich",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "55820838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4327196734",
+    "boundingbox": [
+      "51.1794934",
+      "51.1795934",
+      "4.4153419",
+      "4.4154419"
+    ],
+    "lat": "51.1795434",
+    "lon": "4.4153919",
+    "display_name": "Flag, Lode Craeybeckxtunnel, Middelheim, Antwerpen, Vlaanderen, 2020, Belgi\u00eb - Belgique - Belgien",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "46455580",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3315134506",
+    "boundingbox": [
+      "37.8071491",
+      "37.8072491",
+      "-122.4247313",
+      "-122.4246313"
+    ],
+    "lat": "37.8071991",
+    "lon": "-122.4246813",
+    "display_name": "Flag, Beach Street, Russian Hill, SF, California, 94109, United States of America",
+    "class": "man_made",
+    "type": "Buoy",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56223757",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4365816873",
+    "boundingbox": [
+      "23.8289997",
+      "23.8290997",
+      "90.4027575",
+      "90.4028575"
+    ],
+    "lat": "23.8290497",
+    "lon": "90.4028075",
+    "display_name": "Flag, Kurmitola Road, Gulshan 2, \u09a2\u09be\u0995\u09be, Sirajdikhan, \u09a2\u09be\u0995\u09be \u09ac\u09bf\u09ad\u09be\u0997, 1206, \u09ac\u09be\u0982\u09b2\u09be\u09a6\u09c7\u09b6",
+    "class": "man_made",
+    "type": "flagpole",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2648937210",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4610575193",
+    "boundingbox": [
+      "30.4144477",
+      "30.4145477",
+      "-91.177837",
+      "-91.177737"
+    ],
+    "lat": "30.4144977",
+    "lon": "-91.177787",
+    "display_name": "Flag, Tower Drive, Baton Rouge, East Baton Rouge Parish, Louisiana, 70803, United States of America",
+    "class": "man_made",
+    "type": "flagpole",
+    "importance": 0.101
+  }
+]

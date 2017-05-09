@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "53086655",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4032726183",
+    "boundingbox": [
+      "38.3510638",
+      "38.3910638",
+      "127.1318423",
+      "127.1718423"
+    ],
+    "lat": "38.3710638",
+    "lon": "127.1518423",
+    "display_name": "\uc678\ud559\ub9ac, \uac15\uc6d0\ub3c4, \uc870\uc120\ubbfc\uc8fc\uc8fc\uc758\uc778\ubbfc\uacf5\ud654\uad6d",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60953677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10743527",
+    "boundingbox": [
+      "34.277302",
+      "34.27731",
+      "-118.8884759",
+      "-118.8866829"
+    ],
+    "lat": "34.27731",
+    "lon": "-118.8866829",
+    "display_name": "James Weak Avenue, Moorpark, Ventura County, California, 93021, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67488286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20649945",
+    "boundingbox": [
+      "36.772908",
+      "36.773275",
+      "-76.0643759",
+      "-76.0642089"
+    ],
+    "lat": "36.773275",
+    "lon": "-76.0643759",
+    "display_name": "Weak Branch Court, Princess Anne, Colony Acres, Virginia Beach, Virginia, 23453, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "63326039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14690418",
+    "boundingbox": [
+      "33.910362",
+      "33.910418",
+      "-96.2859419",
+      "-96.2685759"
+    ],
+    "lat": "33.91041",
+    "lon": "-96.2768919",
+    "display_name": "Weak Bridge Road, Roberta, Bryan County, Oklahoma, 74701, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61629564",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11756543",
+    "boundingbox": [
+      "40.4215932",
+      "40.4220372",
+      "-79.9256212",
+      "-79.9256069"
+    ],
+    "lat": "40.4220372",
+    "lon": "-79.9256212",
+    "display_name": "Weak Way, Squirrel Hill South, PGH, Allegheny County, Pennsylvania, 15217, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "2651356080",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4668717094",
+    "boundingbox": [
+      "-34.5924595",
+      "-34.5923595",
+      "-58.4332213",
+      "-58.4331213"
+    ],
+    "lat": "-34.5924095",
+    "lon": "-58.4331713",
+    "display_name": "Weak-Meak, Avenida C\u00f3rdoba, Palermo Soho, CABA, C1414BAU, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2898336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357581758",
+    "boundingbox": [
+      "33.8558697",
+      "33.8559697",
+      "-104.0639043",
+      "-104.0638043"
+    ],
+    "lat": "33.8559197",
+    "lon": "-104.0638543",
+    "display_name": "Weak Wells Tank, Lovington Road, Chaves County, New Mexico, United States of America",
+    "class": "landuse",
+    "type": "reservoir",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2649399403",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4620943830",
+    "boundingbox": [
+      "-34.6676959",
+      "-34.6675959",
+      "-58.7259496",
+      "-58.7258496"
+    ],
+    "lat": "-34.6676459",
+    "lon": "-58.7258996",
+    "display_name": "Weak-Meak Advanced, Riobamba, Lago del Bosque, Merlo, Partido de Merlo, Bs. As., 1722, Argentina",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2650056074",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4636033528",
+    "boundingbox": [
+      "-34.5447536",
+      "-34.5446536",
+      "-58.7084328",
+      "-58.7083328"
+    ],
+    "lat": "-34.5447036",
+    "lon": "-58.7083828",
+    "display_name": "Weak Meak, Avenida Presidente J.D. Per\u00f3n, San Miguel, Partido de San Miguel, Bs. As., B1663, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "146609355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "372210093",
+    "boundingbox": [
+      "-1.0574747",
+      "-1.0573253",
+      "-80.011949",
+      "-80.0118038"
+    ],
+    "lat": "-1.05739925",
+    "lon": "-80.0118783107059",
+    "display_name": "Cyber, weak-cheap, Via Manta - Quevedo, San Sebastian, Cant\u00f3n Pichincha, Manab\u00ed, Ecuador",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

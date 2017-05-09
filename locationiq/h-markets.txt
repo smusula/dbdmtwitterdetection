@@ -1,0 +1,148 @@
+[
+  {
+    "place_id": "4489559",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "490672474",
+    "boundingbox": [
+      "54.5750249",
+      "54.6150249",
+      "-5.9432872",
+      "-5.9032872"
+    ],
+    "lat": "54.5950249",
+    "lon": "-5.9232872",
+    "display_name": "Markets, Belfast, County Antrim, Northern Ireland, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2644762868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6729283",
+    "boundingbox": [
+      "54.5922175",
+      "54.5952975",
+      "-5.9265489",
+      "-5.9177179"
+    ],
+    "lat": "54.5937557",
+    "lon": "-5.91990186450946",
+    "display_name": "Markets, Town Parks, Belfast, County Antrim, Northern Ireland, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "125154898",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "258519480",
+    "boundingbox": [
+      "33.2543561",
+      "33.2558144",
+      "73.3039563",
+      "73.3054845"
+    ],
+    "lat": "33.25496675",
+    "lon": "73.3049536358449",
+    "display_name": "Markets, Gujar Khan, R\u0101walpindi District, \u067e\u0646\u062c\u0627\u0628, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "127684971",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "272969827",
+    "boundingbox": [
+      "13.965512",
+      "13.9661367",
+      "5.6749383",
+      "5.6757591"
+    ],
+    "lat": "13.9658283",
+    "lon": "5.67537591612545",
+    "display_name": "Markets, Galmi, Birni N'Konni, Tahoua, Niger",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.3
+  },
+  {
+    "place_id": "6371374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "658045538",
+    "boundingbox": [
+      "53.52615",
+      "53.52625",
+      "-1.1324386",
+      "-1.1323386"
+    ],
+    "lat": "53.5262",
+    "lon": "-1.1323886",
+    "display_name": "Markets, Church Way, Hyde Park, Doncaster, Yorkshire and the Humber, England, DN1 2PH, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6810221",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "694663431",
+    "boundingbox": [
+      "-16.8185528",
+      "-16.8184528",
+      "145.6334364",
+      "145.6335364"
+    ],
+    "lat": "-16.8185028",
+    "lon": "145.6334864",
+    "display_name": "Markets, Therwine Street, Kuranda, QLD, Australia",
+    "class": "amenity",
+    "type": "marketplace",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16614500",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1556087641",
+    "boundingbox": [
+      "36.2695795",
+      "36.2696795",
+      "32.3183762",
+      "32.3184762"
+    ],
+    "lat": "36.2696295",
+    "lon": "32.3184262",
+    "display_name": "Markets, Mehmet O\u011fuz Bulvari, Istiklal, Gazipa\u015fa, Antalya, Akdeniz B\u00f6lgesi, T\u00fcrkiye",
+    "class": "amenity",
+    "type": "marketplace",
+    "importance": 0.101
+  },
+  {
+    "place_id": "16377093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1501261194",
+    "boundingbox": [
+      "40.8743773",
+      "40.8744773",
+      "29.1302439",
+      "29.1303439"
+    ],
+    "lat": "40.8744273",
+    "lon": "29.1302939",
+    "display_name": "Markets, Alt\u0131nordu Sokak, Dragos, Adalar, \u0130stanbul, Marmara B\u00f6lgesi, T\u00fcrkiye",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  }
+]

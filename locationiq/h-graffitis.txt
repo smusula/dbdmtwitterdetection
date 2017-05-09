@@ -1,0 +1,78 @@
+[
+  {
+    "place_id": "2648643171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4604378844",
+    "boundingbox": [
+      "-21.349117",
+      "-21.349017",
+      "55.4833636",
+      "55.4834636"
+    ],
+    "lat": "-21.349067",
+    "lon": "55.4834136",
+    "display_name": "Graffitis, Rue Amiral Lacaze, La Ravine Blanche, Saint-Pierre, La R\u00e9union, 97410, France",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "45237298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3229217059",
+    "boundingbox": [
+      "43.6874186",
+      "43.6875186",
+      "-79.5963174",
+      "-79.5962174"
+    ],
+    "lat": "43.6874686",
+    "lon": "-79.5962674",
+    "display_name": "Graffiti's, Carlingview Drive, Etobicoke, Toronto, Ontario, M9W 5G1, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "16139761",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1465001784",
+    "boundingbox": [
+      "43.889506",
+      "43.889606",
+      "-0.5015209",
+      "-0.5014209"
+    ],
+    "lat": "43.889556",
+    "lon": "-0.5014709",
+    "display_name": "Graffiti's, Rue des Cordeliers, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "122240976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "246344619",
+    "boundingbox": [
+      "44.5235137",
+      "44.5238049",
+      "-89.5854827",
+      "-89.5852754"
+    ],
+    "lat": "44.52365895",
+    "lon": "-89.5853790782432",
+    "display_name": "Graffiti's, 912, Main Street, Stevens Point, Portage County, Wisconsin, 54481, United States of America",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "place_id": "2609380941",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4479774898",
+    "boundingbox": [
+      "14.0353333",
+      "14.0753333",
+      "14.6206667",
+      "14.6606667"
+    ],
+    "lat": "14.0553333",
+    "lon": "14.6406667",
+    "display_name": "Body, Kanem \u0643\u0627\u0646\u0645, Tchad \u062a\u0634\u0627\u062f",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13873062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1252382196",
+    "boundingbox": [
+      "48.8396472",
+      "48.8397472",
+      "2.3887872",
+      "2.3888872"
+    ],
+    "lat": "48.8396972",
+    "lon": "2.3888372",
+    "display_name": "Body, Rue de Charenton, 12e Arrondissement (urbain), Picpus, 12e, Paris, \u00cele-de-France, 75012, France",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52447938",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3964858652",
+    "boundingbox": [
+      "51.3290755",
+      "51.3291755",
+      "12.3368783",
+      "12.3369783"
+    ],
+    "lat": "51.3291255",
+    "lon": "12.3369283",
+    "display_name": "Body, Zschochersche Stra\u00dfe, Plagwitz, S\u00fcdwest, Leipzig, Sachsen, 04229, Deutschland",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23426062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2318141910",
+    "boundingbox": [
+      "37.7616298",
+      "37.7617298",
+      "-122.4353184",
+      "-122.4352184"
+    ],
+    "lat": "37.7616798",
+    "lon": "-122.4352684",
+    "display_name": "Body, 450, Castro Street, Castro District, SF, California, 94114, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2646035262",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4544560393",
+    "boundingbox": [
+      "-33.9195321",
+      "-33.9194321",
+      "150.9248507",
+      "150.9249507"
+    ],
+    "lat": "-33.9194821",
+    "lon": "150.9249007",
+    "display_name": "Body, George Street, Liverpool, Sydney, Liverpool, NSW, 2170, Australia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "159388555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "442485088",
+    "boundingbox": [
+      "-17.7668164",
+      "-17.7665342",
+      "-63.2019832",
+      "-63.2017007"
+    ],
+    "lat": "-17.7666753",
+    "lon": "-63.2018419553229",
+    "display_name": "Body, Avenida Marcelo Terceros B\u00e1nzer, Sirari, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "148827586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "383872094",
+    "boundingbox": [
+      "8.8785351",
+      "8.8787462",
+      "-79.7840607",
+      "-79.7838622"
+    ],
+    "lat": "8.8786406",
+    "lon": "-79.7839614394888",
+    "display_name": "Body, Ave. Ricardo J Alfaro, La Chorrera, Provincia de Panam\u00e1 Oeste, Panam\u00e1",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

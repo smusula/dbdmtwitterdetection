@@ -1,0 +1,184 @@
+[
+  {
+    "place_id": "2610364551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "170826827",
+    "boundingbox": [
+      "3.0516592",
+      "3.0916592",
+      "101.6910437",
+      "101.7310437"
+    ],
+    "lat": "3.0716592",
+    "lon": "101.7110437",
+    "display_name": "BTS, Taman Segar, KL, Malaysia",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.40130071139371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "147325736",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375663981",
+    "boundingbox": [
+      "48.153882",
+      "48.1907535",
+      "17.1898874",
+      "17.2417045"
+    ],
+    "lat": "48.17232305",
+    "lon": "17.2134665861767",
+    "display_name": "Letisko M.R. \u0160tef\u00e1nika, Majersk\u00e1, Vraku\u0148a, okres Bratislava II, Bratislava, Bratislavsk\u00fd kraj, 82107, Slovensko",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.31303438301933,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "132290686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "297892203",
+    "boundingbox": [
+      "52.567699",
+      "52.5679353",
+      "16.8350507",
+      "16.8354145"
+    ],
+    "lat": "52.5678305",
+    "lon": "16.8352198975162",
+    "display_name": "BTS, Chludowo, gmina Suchy Las, powiat pozna\u0144ski, wielkopolskie, 62-001, Polska",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "107348318",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "184284206",
+    "boundingbox": [
+      "-6.5975529",
+      "-6.5974666",
+      "106.8089865",
+      "106.8090707"
+    ],
+    "lat": "-6.59750975",
+    "lon": "106.8090286",
+    "display_name": "BTS, Tegalega, Jawa Barat, 16127, Indonesia",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118406417",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "230057284",
+    "boundingbox": [
+      "39.197589",
+      "39.2004796",
+      "-106.8041658",
+      "-106.7991965"
+    ],
+    "lat": "39.1991459",
+    "lon": "-106.8010729",
+    "display_name": "BTS, Pitkin County, Colorado, 81612, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "10971550",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "993260984",
+    "boundingbox": [
+      "49.6397002",
+      "49.6398002",
+      "16.834159",
+      "16.834259"
+    ],
+    "lat": "49.6397502",
+    "lon": "16.834209",
+    "display_name": "bts, Napoleonsk\u00e1 cesta, Kladky, okres Prost\u011bjov, Olomouck\u00fd kraj, St\u0159edn\u00ed Morava, 79854, \u010cesko",
+    "class": "man_made",
+    "type": "tower",
+    "importance": 0.111
+  },
+  {
+    "place_id": "128987032",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281274541",
+    "boundingbox": [
+      "51.4965694",
+      "51.4971845",
+      "6.957903",
+      "6.9589113"
+    ],
+    "lat": "51.49693075",
+    "lon": "6.95855143263055",
+    "display_name": "BTS, 31, Econova-Allee, Bergeborbeck, Stadtbezirk IV, Borbeck, Essen, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 45356, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654427789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4741452935",
+    "boundingbox": [
+      "45.2325591",
+      "45.2326591",
+      "9.4037889",
+      "9.4038889"
+    ],
+    "lat": "45.2326091",
+    "lon": "9.4038389",
+    "display_name": "BTS, Piazzale dei Cappuccini, Sant'Angelo Lodigiano, LO, LOM, 20079, Italia",
+    "class": "man_made",
+    "type": "mast",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654427792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4741452958",
+    "boundingbox": [
+      "45.238713",
+      "45.238813",
+      "9.4033219",
+      "9.4034219"
+    ],
+    "lat": "45.238763",
+    "lon": "9.4033719",
+    "display_name": "BTS, Via Ugo Foscolo, Sant'Angelo Lodigiano, LO, LOM, 26866, Italia",
+    "class": "man_made",
+    "type": "mast",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654427790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4741452937",
+    "boundingbox": [
+      "45.2412998",
+      "45.2413998",
+      "9.4026583",
+      "9.4027583"
+    ],
+    "lat": "45.2413498",
+    "lon": "9.4027083",
+    "display_name": "BTS, Via dello Statuto, Sant'Angelo Lodigiano, LO, LOM, 26866, Italia",
+    "class": "man_made",
+    "type": "mast",
+    "importance": 0.101
+  }
+]

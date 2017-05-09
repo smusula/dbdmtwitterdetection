@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "51458807",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3850772665",
+    "boundingbox": [
+      "42.0767813",
+      "42.0768813",
+      "-87.7065372",
+      "-87.7064372"
+    ],
+    "lat": "42.0768313",
+    "lon": "-87.7064872",
+    "display_name": "Coworkers LLC, 1167, Wilmette Avenue, Wilmette, Cook County, Illinois, 60091, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56430545",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4389449007",
+    "boundingbox": [
+      "6.1702648",
+      "6.1703648",
+      "1.1990687",
+      "1.1991687"
+    ],
+    "lat": "6.1703148",
+    "lon": "1.1991187",
+    "display_name": "AC, Avenue Pya, Aflao-Gakli, 5e Arr., Lom\u00e9, BP 80512, Togo",
+    "class": "office",
+    "type": "ngo",
+    "importance": 0.001
+  }
+]

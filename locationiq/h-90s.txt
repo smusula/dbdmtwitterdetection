@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "53592713",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4096577029",
+    "boundingbox": [
+      "51.2913684",
+      "51.2914684",
+      "-115.1683732",
+      "-115.1682732"
+    ],
+    "lat": "51.2914184",
+    "lon": "-115.1683232",
+    "display_name": "Red 90's Tower, Alberta, Canada",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "90832642",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117826954",
+    "boundingbox": [
+      "4.498558",
+      "4.5001283",
+      "-74.0853439",
+      "-74.0799574"
+    ],
+    "lat": "4.498728",
+    "lon": "-74.0825949",
+    "display_name": "Calle 90S, Casaloma, Tihuaque, Usme, Bogot\u00e1, 110541, Colombia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "122740399",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248346521",
+    "boundingbox": [
+      "4.6133085",
+      "4.6143111",
+      "-74.2134714",
+      "-74.2133526"
+    ],
+    "lat": "4.6137621",
+    "lon": "-74.2134063",
+    "display_name": "calle 90S, Bosa Providencia, Bosa, Bogot\u00e1, 110731, Colombia",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49146527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3648186546",
+    "boundingbox": [
+      "14.624845",
+      "14.624945",
+      "121.0328275",
+      "121.0329275"
+    ],
+    "lat": "14.624895",
+    "lon": "121.0328775",
+    "display_name": "Back to the 90s, Tomas Morato Avenue, Kristong Hari, Quezon City, District IV, Quezon City, Metro Manila, 1112, Philippines",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56634752",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4422462191",
+    "boundingbox": [
+      "54.4719235",
+      "54.4720235",
+      "-7.6338173",
+      "-7.6337173"
+    ],
+    "lat": "54.4719735",
+    "lon": "-7.6337673",
+    "display_name": "Joe 90s, A32, Irvinestown, Townhill, Irvinestown, County Fermanagh, Northern Ireland, BT94 1GS, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "24544637",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2384123420",
+    "boundingbox": [
+      "11.5448348",
+      "11.5449348",
+      "104.9228399",
+      "104.9229399"
+    ],
+    "lat": "11.5448848",
+    "lon": "104.9228899",
+    "display_name": "Frangipani Villa-90s, \u1795\u17d2\u179b\u17bc\u179c \u17e7\u17e1, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1794\u17b9\u1784\u1780\u17c1\u1784\u1780\u1784\u1791\u17b8 \u17e1, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 12304, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "85639273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "98392152",
+    "boundingbox": [
+      "19.5180052",
+      "19.5186224",
+      "-98.8908865",
+      "-98.8902544"
+    ],
+    "lat": "19.5180052",
+    "lon": "-98.8908865",
+    "display_name": "PARTY TIME TEX 80`S 90`S, Texcoco, M\u00e9xico, 56100, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "1435445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "313903419",
+    "boundingbox": [
+      "47.2407759",
+      "47.2408759",
+      "-1.5299652",
+      "-1.5298652"
+    ],
+    "lat": "47.2408259",
+    "lon": "-1.5299152",
+    "display_name": "90's Avenue, 90, Boulevard Jules Verne, Croissant, Grand Clos, Nantes, Loire-Atlantique, Pays de la Loire, 44000;44100;44200;44300, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48944355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3623412740",
+    "boundingbox": [
+      "44.9803181",
+      "44.9804181",
+      "-93.2718928",
+      "-93.2717928"
+    ],
+    "lat": "44.9803681",
+    "lon": "-93.2718428",
+    "display_name": "Gay 90's, 408, Hennepin Avenue, St Anthony West, Phillips, Minneapolis, Hennepin County, Minnesota, 55401, United States of America",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.001
+  },
+  {
+    "place_id": "49240624",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3650775488",
+    "boundingbox": [
+      "56.8212546",
+      "56.8213546",
+      "35.9110245",
+      "35.9111245"
+    ],
+    "lat": "56.8213046",
+    "lon": "35.9110745",
+    "display_name": "90's Remix Club, 28, \u0443\u043b\u0438\u0446\u0430 \u041b\u0435\u0432\u0438\u0442\u0430\u043d\u0430, \u042e\u0436\u043d\u044b\u0439, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0422\u0432\u0435\u0440\u044c, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0422\u0432\u0435\u0440\u044c, \u0422\u0432\u0435\u0440\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 170030, \u0420\u0424",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.001
+  }
+]

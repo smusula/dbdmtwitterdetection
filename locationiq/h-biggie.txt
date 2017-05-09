@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "2646979033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "337080930",
+    "boundingbox": [
+      "-25.2877919",
+      "-25.2876054",
+      "-57.5984756",
+      "-57.5983189"
+    ],
+    "lat": "-25.28769865",
+    "lon": "-57.59839725",
+    "display_name": "Biggie, Avenida Espa\u00f1a, Mariscal L\u00f3pez, Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, 595, Paraguay",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2646580732",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "460070460",
+    "boundingbox": [
+      "-25.2991701",
+      "-25.2990326",
+      "-57.5734681",
+      "-57.5732048"
+    ],
+    "lat": "-25.29913555",
+    "lon": "-57.5732835722879",
+    "display_name": "Biggie, Doctor Guido Boggiani, Mcal. Jos\u00e9 F\u00e9lix Estigarribia, Mariscal Estigarribia, Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, 1854, Paraguay",
+    "class": "shop",
+    "type": "supermarket",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_supermarket.p.20.png"
+  },
+  {
+    "place_id": "2646530475",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "459883232",
+    "boundingbox": [
+      "-25.2993203",
+      "-25.2991937",
+      "-57.5938469",
+      "-57.5937043"
+    ],
+    "lat": "-25.29925005",
+    "lon": "-57.5937756066236",
+    "display_name": "Biggie, Avenida Ch\u00f3feres del Chaco, Recoleta, Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, 1805, Paraguay",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "2646875619",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4563785952",
+    "boundingbox": [
+      "-25.2861323",
+      "-25.2860323",
+      "-57.5749926",
+      "-57.5748926"
+    ],
+    "lat": "-25.2860823",
+    "lon": "-57.5749426",
+    "display_name": "Biggie, Avenida Espa\u00f1a, Villa Morra, Asunci\u00f3n, Distrito Capital de Paraguay, Regi\u00f3n Oriental, 1813, Paraguay",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

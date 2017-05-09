@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "394686",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153427481",
+    "boundingbox": [
+      "37.2433857",
+      "37.2833857",
+      "-88.1586359",
+      "-88.1186359"
+    ],
+    "lat": "37.2633857",
+    "lon": "-88.1386359",
+    "display_name": "View, Crittenden County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "334720",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150936863",
+    "boundingbox": [
+      "42.4307431",
+      "42.4707431",
+      "-113.7172342",
+      "-113.6772342"
+    ],
+    "lat": "42.4507431",
+    "lon": "-113.6972342",
+    "display_name": "View, Cassia County, Idaho, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160715489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3756424",
+    "boundingbox": [
+      "28.4465451",
+      "28.4481366",
+      "76.9698089",
+      "76.9713486"
+    ],
+    "lat": "28.4472569",
+    "lon": "76.9705368601233",
+    "display_name": "The View, Sector 37D, Gurugram, Gurgaon District, Haryana, India",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "350506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151342579",
+    "boundingbox": [
+      "32.3234532",
+      "32.3634532",
+      "-99.9060215",
+      "-99.8660215"
+    ],
+    "lat": "32.3434532",
+    "lon": "-99.8860215",
+    "display_name": "View, Taylor County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.31332756789753,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "79258925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59529230",
+    "boundingbox": [
+      "-27.5481115",
+      "-27.5467878",
+      "153.1102688",
+      "153.1120559"
+    ],
+    "lat": "-27.5476237",
+    "lon": "153.111071761012",
+    "display_name": "The View, Wishart, Brisbane, Brisbane City, QLD, 4122, Australia",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "126154976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262942193",
+    "boundingbox": [
+      "40.8218872",
+      "40.8241449",
+      "-77.8863973",
+      "-77.8826291"
+    ],
+    "lat": "40.82302075",
+    "lon": "-77.8845523385422",
+    "display_name": "The View, Patton Township, Centre County, Pennsylvania, 16803, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "142235003",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "346554605",
+    "boundingbox": [
+      "11.5475151",
+      "11.5477669",
+      "104.9250001",
+      "104.9252125"
+    ],
+    "lat": "11.547641",
+    "lon": "104.9251063",
+    "display_name": "The View, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179f\u1784\u17d2\u1780\u17b6\u178f\u17cb\u1794\u17b9\u1784\u1780\u17c1\u1784\u1780\u1784\u1791\u17b8 \u17e1, \u1781\u178e\u17d2\u178c\u1785\u17c6\u1780\u17b6\u179a\u1798\u1793, \u179a\u17b6\u1787\u1792\u17b6\u1793\u17b8\u1797\u17d2\u1793\u17c6\u1796\u17c1\u1789, 077253598, \u1796\u17d2\u179a\u17c7\u179a\u17b6\u1787\u17b6\u178e\u17b6\u1785\u1780\u17d2\u179a\u200b\u1780\u1798\u17d2\u1796\u17bb\u1787\u17b6",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.3
+  },
+  {
+    "place_id": "66293869",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "19505785",
+    "boundingbox": [
+      "32.9862477",
+      "32.9868005",
+      "-117.1115177",
+      "-117.1111388"
+    ],
+    "lat": "32.9864643",
+    "lon": "-117.1113012",
+    "display_name": "view, San Diego, San Diego County, California, 92127, United States of America",
+    "class": "highway",
+    "type": "track",
+    "importance": 0.21
+  },
+  {
+    "place_id": "68333819",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23005835",
+    "boundingbox": [
+      "53.83665",
+      "53.8368154",
+      "-1.516792",
+      "-1.5121129"
+    ],
+    "lat": "53.8367047",
+    "lon": "-1.5142605",
+    "display_name": "The View, Roundhay, Leeds, East Riding of Yorkshire, Yorkshire and the Humber, England, LS8 1DS, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68713146",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23128971",
+    "boundingbox": [
+      "53.8602419",
+      "53.860943",
+      "-1.5634869",
+      "-1.555863"
+    ],
+    "lat": "53.8602899",
+    "lon": "-1.5594278",
+    "display_name": "The View, Alwoodley, Leeds, East Riding of Yorkshire, Yorkshire and the Humber, England, LS17, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

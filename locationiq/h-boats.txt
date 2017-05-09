@@ -1,0 +1,94 @@
+[
+  {
+    "place_id": "159689334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "444421288",
+    "boundingbox": [
+      "50.6701098",
+      "50.6702806",
+      "-1.5106099",
+      "-1.5100416"
+    ],
+    "lat": "50.6701985",
+    "lon": "-1.51032888189903",
+    "display_name": "boats, Promenade, Freshwater, Freshwater Bay, Isle of Wight, South East, England, PO40 9RB, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "49819326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3709450633",
+    "boundingbox": [
+      "55.0003659",
+      "55.0004659",
+      "-1.4249126",
+      "-1.4248126"
+    ],
+    "lat": "55.0004159",
+    "lon": "-1.4248626",
+    "display_name": "Boats, George Scott Street, Cleadon Park, South Tyneside, Tyne and Wear, North East England, England, NE33 2QJ, UK",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "2654642302",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481648272",
+    "boundingbox": [
+      "50.5954566",
+      "50.5958887",
+      "-1.1944037",
+      "-1.1930833"
+    ],
+    "lat": "50.59567115",
+    "lon": "-1.19395180628971",
+    "display_name": "(boats), Madeira Road, Ventnor, Bonchurch Village, Isle of Wight, South East, England, PO38 1QY, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654641623",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "481645799",
+    "boundingbox": [
+      "50.5948174",
+      "50.5951746",
+      "-1.1967925",
+      "-1.1962249"
+    ],
+    "lat": "50.5949763",
+    "lon": "-1.1965666551917",
+    "display_name": "(boats), Kings Bay Road, Ventnor, Isle of Wight, South East, England, PO38 1QY, UK",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "25903392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2495694239",
+    "boundingbox": [
+      "42.7951438",
+      "42.7952438",
+      "-71.2503313",
+      "-71.2502313"
+    ],
+    "lat": "42.7951938",
+    "lon": "-71.2502813",
+    "display_name": "Boats, West Duston Road, Big Bear Plaza, Salem, Rockingham County, New Hampshire, 03079, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "58270539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6272327",
+    "boundingbox": [
+      "31.839636",
+      "31.852198",
+      "-88.1666909",
+      "-88.1628519"
+    ],
+    "lat": "31.845884",
+    "lon": "-88.1650279",
+    "display_name": "Wildlife, Womack Hill, Choctaw County, Alabama, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64424277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16486338",
+    "boundingbox": [
+      "35.152388",
+      "35.152754",
+      "-77.0384909",
+      "-77.0382299"
+    ],
+    "lat": "35.152592",
+    "lon": "-77.0383429",
+    "display_name": "Wildlife, Forest, Craven County, North Carolina, 28519, United States of America",
+    "class": "highway",
+    "type": "service",
+    "importance": 0.175
+  },
+  {
+    "place_id": "126562413",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "265154178",
+    "boundingbox": [
+      "46.6935221",
+      "46.6938306",
+      "-122.9582943",
+      "-122.9579155"
+    ],
+    "lat": "46.6936763",
+    "lon": "-122.958104897816",
+    "display_name": "Wildlife, South Gold Street, Centralia, Lewis County, Washington, 98531, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

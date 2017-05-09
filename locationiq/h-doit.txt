@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "16373987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1488292581",
+    "boundingbox": [
+      "46.47786",
+      "46.51786",
+      "-0.6706377",
+      "-0.6306377"
+    ],
+    "lat": "46.49786",
+    "lon": "-0.6506377",
+    "display_name": "La Doit, Fontenay-le-Comte, Vend\u00e9e, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50626891",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3779596848",
+    "boundingbox": [
+      "46.588031",
+      "46.588131",
+      "4.5202015",
+      "4.5203015"
+    ],
+    "lat": "46.588081",
+    "lon": "4.5202515",
+    "display_name": "La Doit, Saint-Marcelin-de-Cray, Charolles, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71460, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "123117367",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "249757283",
+    "boundingbox": [
+      "52.378392",
+      "52.3784394",
+      "1.0685363",
+      "1.0685631"
+    ],
+    "lat": "52.3784394",
+    "lon": "1.0685631",
+    "display_name": "The Doit, Roydon, South Norfolk District, Norfolk, East of England, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "103703977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "169801691",
+    "boundingbox": [
+      "52.3757762",
+      "52.378392",
+      "1.0670862",
+      "1.0685363"
+    ],
+    "lat": "52.3771278",
+    "lon": "1.067846",
+    "display_name": "The Doit, Wortham, Mid Suffolk, Suffolk, East of England, England, UK",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "87591365",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "106906081",
+    "boundingbox": [
+      "35.7789936",
+      "35.7798248",
+      "139.6900301",
+      "139.6907865"
+    ],
+    "lat": "35.77941355",
+    "lon": "139.690409440024",
+    "display_name": "Doit, \u74b0\u516b\u901a\u308a, \u677f\u6a4b\u533a, \u6771\u4eac\u90fd, 1140001, \u65e5\u672c",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "2649466448",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4622338679",
+    "boundingbox": [
+      "10.497185",
+      "10.497285",
+      "-66.8565169",
+      "-66.8564169"
+    ],
+    "lat": "10.497235",
+    "lon": "-66.8564669",
+    "display_name": "Doit!, Av. Bland\u00edn, Parroquia Chacao, Municipio Chacao, Miranda, Regi\u00f3n Capital, 1060, Venezuela",
+    "class": "shop",
+    "type": "variety_store",
+    "importance": 0.101
+  },
+  {
+    "place_id": "77603515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "50875776",
+    "boundingbox": [
+      "43.2685037",
+      "43.2686528",
+      "76.924807",
+      "76.9251165"
+    ],
+    "lat": "43.26857825",
+    "lon": "76.9249617271091",
+    "display_name": "\u0414\u043e\u0439\u0442, 162 \u0410, \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442 \u0420\u0430\u0439\u044b\u043c\u0431\u0435\u043a\u0430, \u043c\u0438\u043a\u0440\u043e\u0440\u0430\u0439\u043e\u043d \u0417\u0430\u0440\u044f \u0412\u043e\u0441\u0442\u043e\u043a\u0430, \u0410\u043b\u043c\u0430\u0442\u044b, 050004, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "19143383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1875505918",
+    "boundingbox": [
+      "35.6716976",
+      "35.6717976",
+      "139.8371394",
+      "139.8372394"
+    ],
+    "lat": "35.6717476",
+    "lon": "139.8371894",
+    "display_name": "\u30c9\u30a4\u30c8, \u845b\u897f\u6a4b\u901a\u308a, \u6c5f\u6771\u533a, \u6771\u4eac\u90fd, 136-0076, \u65e5\u672c",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "752810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "261001572",
+    "boundingbox": [
+      "35.7752314",
+      "35.7753314",
+      "139.7716695",
+      "139.7717695"
+    ],
+    "lat": "35.7752814",
+    "lon": "139.7717195",
+    "display_name": "\u30c9\u30a4\u30c8\u897f\u65b0\u4e95\u5e97, \u6c5f\u5317\u30d0\u30b9\u901a\u308a, \u8db3\u7acb\u533a, \u6771\u4eac\u90fd, 1210831, \u65e5\u672c",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  },
+  {
+    "place_id": "123514987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251341973",
+    "boundingbox": [
+      "35.7924128",
+      "35.7929407",
+      "139.5804923",
+      "139.5810144"
+    ],
+    "lat": "35.79267675",
+    "lon": "139.58075335",
+    "display_name": "\u30c9\u30a4\u30c8, \u5ddd\u8d8a\u8857\u9053, \u548c\u5149\u5e02, \u5317\u845b\u98fe\u90e1, \u57fc\u7389\u770c, 3510012, \u65e5\u672c",
+    "class": "shop",
+    "type": "doityourself",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_diy.p.20.png"
+  }
+]

@@ -1,0 +1,115 @@
+[
+  {
+    "place_id": "452039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154330737",
+    "boundingbox": [
+      "40.8083916",
+      "40.8483916",
+      "-81.368445",
+      "-81.328445"
+    ],
+    "lat": "40.8283916",
+    "lon": "-81.348445",
+    "display_name": "Trump, Stark County, Ohio, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "465486",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158350433",
+    "boundingbox": [
+      "39.6623264",
+      "39.7023264",
+      "-76.6221909",
+      "-76.5821909"
+    ],
+    "lat": "39.6823264",
+    "lon": "-76.6021909",
+    "display_name": "Trump, Baltimore County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "383603",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151952884",
+    "boundingbox": [
+      "38.8291609",
+      "38.8691609",
+      "-105.8083387",
+      "-105.7683387"
+    ],
+    "lat": "38.8491609",
+    "lon": "-105.7883387",
+    "display_name": "Trump, Park County, Colorado, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "45857498",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3266725236",
+    "boundingbox": [
+      "49.5066024",
+      "49.5067024",
+      "8.2088459",
+      "8.2089459"
+    ],
+    "lat": "49.5066524",
+    "lon": "8.2088959",
+    "display_name": "Trump, 38, Hauptstra\u00dfe, Freinsheim, Landkreis Bad D\u00fcrkheim, Rheinland-Pfalz, 67251, Deutschland",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "111856868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204016437",
+    "boundingbox": [
+      "25.942981",
+      "25.9434487",
+      "-80.120806",
+      "-80.1202346"
+    ],
+    "lat": "25.9432161",
+    "lon": "-80.1205583242764",
+    "display_name": "Trump International Beach Resort, 18001, Collins Avenue, Sunny Isles Beach, Miami-Dade County, Florida, 33160, United States of America",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "10521186",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "969016678",
+    "boundingbox": [
+      "-26.1029124",
+      "-26.1028124",
+      "27.9905175",
+      "27.9906175"
+    ],
+    "lat": "-26.1028624",
+    "lon": "27.9905675",
+    "display_name": "Trump, bazaar, The Brightwater Commons, Johannesburg Ward 102, Randburg, City of Johannesburg Metropolitan Municipality, Gauteng, 2125, South Africa",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  }
+]

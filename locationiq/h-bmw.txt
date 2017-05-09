@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "129824978",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "285386595",
+    "boundingbox": [
+      "48.2544177",
+      "48.2549387",
+      "12.5423178",
+      "12.5431882"
+    ],
+    "lat": "48.25468585",
+    "lon": "12.542797050133",
+    "display_name": "Autohaus BMW VOGL, 1, Leisederstra\u00dfe, Industriepark, Starkheim, M\u00fchldorf am Inn, Landkreis M\u00fchldorf am Inn, OB, Bayern, 84453, Deutschland",
+    "class": "shop",
+    "type": "car",
+    "importance": 0.75594458948477,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car.p.20.png"
+  },
+  {
+    "place_id": "2652410374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "40717412",
+    "boundingbox": [
+      "-27.4563854",
+      "-27.4550005",
+      "153.0357706",
+      "153.037396"
+    ],
+    "lat": "-27.455693",
+    "lon": "153.036582949375",
+    "display_name": "BMW, Fortitude Valley, Brisbane, Brisbane City, QLD, 4006, Australia",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "87394011",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "105815169",
+    "boundingbox": [
+      "50.0199964",
+      "50.0212678",
+      "10.2184044",
+      "10.2199066"
+    ],
+    "lat": "50.02062475",
+    "lon": "10.2191542602171",
+    "display_name": "3, BMW, Maintal, Schweinfurt, Unterfranken, Bayern, 97424, Deutschland, Europe",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "159041660",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "440468827",
+    "boundingbox": [
+      "53.2651125",
+      "53.2657397",
+      "10.4040468",
+      "10.4052737"
+    ],
+    "lat": "53.26550425",
+    "lon": "10.4046068976961",
+    "display_name": "BMW, Kreideberg, L\u00fcneburg, Landkreis L\u00fcneburg, Niedersachsen, 21339, Deutschland",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "80433306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "68216633",
+    "boundingbox": [
+      "51.8835304",
+      "51.8844341",
+      "11.0773192",
+      "11.0783877"
+    ],
+    "lat": "51.88403915",
+    "lon": "11.0778570872858",
+    "display_name": "BMW, Wehrstedt, Halberstadt, Landkreis Harz, Sachsen-Anhalt, 38820, Deutschland",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "134002377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "305440603",
+    "boundingbox": [
+      "53.6179338",
+      "53.6234413",
+      "-0.9746223",
+      "-0.9669793"
+    ],
+    "lat": "53.6213845",
+    "lon": "-0.970591808564373",
+    "display_name": "BMW, Thorne TC, Doncaster, East Riding of Yorkshire, Yorkshire and the Humber, England, UK",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "48438368",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3553751810",
+    "boundingbox": [
+      "50.54845",
+      "50.54855",
+      "15.187227",
+      "15.187327"
+    ],
+    "lat": "50.5485",
+    "lon": "15.187277",
+    "display_name": "Bavor\u00e1k, Hrub\u00e1 Sk\u00e1la, okres Semily, Libereck\u00fd kraj, Severov\u00fdchod, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "18428305",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1794098332",
+    "boundingbox": [
+      "-7.9834605",
+      "-7.9434605",
+      "112.6315256",
+      "112.6715256"
+    ],
+    "lat": "-7.9634605",
+    "lon": "112.6515256",
+    "display_name": "Bumi Meranti Wangi, Jawa Timur, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "83703167",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "88919151",
+    "boundingbox": [
+      "51.1325183",
+      "51.1342688",
+      "6.9058928",
+      "6.9079004"
+    ],
+    "lat": "51.13330485",
+    "lon": "6.90686128276382",
+    "display_name": "11-15, Hans Brandenburg GmbH, Hellerhof, Stadtbezirk 10, D\u00fcsseldorf, Regierungsbezirk D\u00fcsseldorf, Nordrhein-Westfalen, 40595, Deutschland",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "146384179",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "371726605",
+    "boundingbox": [
+      "-6.8526132",
+      "-6.8505082",
+      "39.2267427",
+      "39.2281615"
+    ],
+    "lat": "-6.85162245",
+    "lon": "39.2274895064876",
+    "display_name": "AMW Tipers And Trucks, Miembeni, Vingunguti, Dar es Salaam, Coastal, 17503, Tanzania",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  }
+]

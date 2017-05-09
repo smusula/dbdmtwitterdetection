@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "148226742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "380960948",
+    "boundingbox": [
+      "-33.4277137",
+      "-33.4270959",
+      "-70.7748225",
+      "-70.7740656"
+    ],
+    "lat": "-33.42740005",
+    "lon": "-70.7744428929146",
+    "display_name": "Fashion, Pudahuel, Provincia de Santiago, Regi\u00f3n Metropolitana de Santiago, 9020078, Chile",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "53671176",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4108166369",
+    "boundingbox": [
+      "40.4616066",
+      "40.4617066",
+      "-3.6977718",
+      "-3.6976718"
+    ],
+    "lat": "40.4616566",
+    "lon": "-3.6977218",
+    "display_name": "Fashion, Calle de San Felipe, Tetu\u00e1n, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28020, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "24078373",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2350883175",
+    "boundingbox": [
+      "43.6352676",
+      "43.6353676",
+      "3.8689971",
+      "3.8690971"
+    ],
+    "lat": "43.6353176",
+    "lon": "3.8690471",
+    "display_name": "Le Fashion, Rue de la Ch\u00eanaie, H\u00f4pitaux-Facult\u00e9s, Montpellier, H\u00e9rault, Occitanie, 34000;34070;34080;34090, France",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "2652239756",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4689384506",
+    "boundingbox": [
+      "-23.5255673",
+      "-23.5254673",
+      "-46.6375567",
+      "-46.6374567"
+    ],
+    "lat": "-23.5255173",
+    "lon": "-46.6375067",
+    "display_name": "Fashion, 102, Rua J\u00falio Concei\u00e7\u00e3o, Bom Retiro, SP, Microrregi\u00e3o de S\u00e3o Paulo, RMSP, Mesorregi\u00e3o Metropolitana de S\u00e3o Paulo, SP, Regi\u00e3o Sudeste, 01126-000, Brasil",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "93216780",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "126370026",
+    "boundingbox": [
+      "46.7937581",
+      "46.7941465",
+      "4.8255144",
+      "4.8258253"
+    ],
+    "lat": "46.7939074",
+    "lon": "4.82565887800677",
+    "display_name": "Fashion, Peugeot Nomblot, Les Rotondes, Le Moulin Patin, Ch\u00e2tenoy-le-Royal, Chalon-sur-Sa\u00f4ne, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71880, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "2650909099",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3002702573",
+    "boundingbox": [
+      "41.6441184",
+      "41.6442184",
+      "41.6229265",
+      "41.6230265"
+    ],
+    "lat": "41.6441684",
+    "lon": "41.6229765",
+    "display_name": "M\u10dd\u10d3\u10d0 (Fashion), \u10d6\u10e3\u10e0\u10d0\u10d1 \u10d2\u10dd\u10e0\u10d2\u10d8\u10da\u10d0\u10eb\u10d8\u10e1 \u10e5\u10e3\u10e9\u10d0, \u10d1\u10d0\u10d7\u10e3\u10db\u10d8, \u10d0\u10ed\u10d0\u10e0\u10d8\u10e1 \u10d0\u10d5\u10e2\u10dd\u10dc\u10dd\u10db\u10d8\u10e3\u10e0\u10d8 \u10e0\u10d4\u10e1\u10de\u10e3\u10d1\u10da\u10d8\u10d9\u10d0, 6100, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "15967886",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1440382058",
+    "boundingbox": [
+      "43.4588922",
+      "43.4589922",
+      "-3.8084767",
+      "-3.8083767"
+    ],
+    "lat": "43.4589422",
+    "lon": "-3.8084267",
+    "display_name": "Fashion, Calle de Isabel II, Marqu\u00e9s de Valdecilla, Santander, Comarca de Santander, Cantabria, 39002, Espa\u00f1a",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "50236353",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3743902283",
+    "boundingbox": [
+      "-6.8100043",
+      "-6.8099043",
+      "39.2594975",
+      "39.2595975"
+    ],
+    "lat": "-6.8099543",
+    "lon": "39.2595475",
+    "display_name": "Fashion, Idrisa Road, Idrisa, Mzimuni, Dar es Salaam, Coastal, 78492, Tanzania",
+    "class": "shop",
+    "type": "tailor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18027383",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1750324511",
+    "boundingbox": [
+      "52.5241891",
+      "52.5242891",
+      "5.7182942",
+      "5.7183942"
+    ],
+    "lat": "52.5242391",
+    "lon": "5.7183442",
+    "display_name": "Y Fashion, De Redepassage, Winkelcentrum SuyderSee, Dronten, Flevoland, Nederland, 8251ES, Nederland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "45048591",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3199766024",
+    "boundingbox": [
+      "38.2216179",
+      "38.2217179",
+      "15.2422013",
+      "15.2423013"
+    ],
+    "lat": "38.2216679",
+    "lon": "15.2422513",
+    "display_name": "Fashion, Via Giacomo Medici, Fossazzo, Milazzo, ME, SIC, 98057, Italia",
+    "class": "shop",
+    "type": "jewelry",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_jewelry.p.20.png"
+  }
+]

@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "109654115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194760889",
+    "boundingbox": [
+      "47.0319436",
+      "47.0332098",
+      "15.4779173",
+      "15.4789803"
+    ],
+    "lat": "47.0327274",
+    "lon": "15.4783541",
+    "display_name": "A2Z, Liebenau, Graz, Steiermark, 8041, \u00d6sterreich",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "108930230",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "191618940",
+    "boundingbox": [
+      "47.033617",
+      "47.0352411",
+      "15.4757895",
+      "15.4775366"
+    ],
+    "lat": "47.0344214",
+    "lon": "15.4767372",
+    "display_name": "A2Z, Engelsdorf, Liebenau, Graz, Steiermark, 8041, \u00d6sterreich",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.2
+  },
+  {
+    "place_id": "109658152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194760892",
+    "boundingbox": [
+      "47.0285173",
+      "47.0302565",
+      "15.4801776",
+      "15.4815745"
+    ],
+    "lat": "47.0288838",
+    "lon": "15.4812724",
+    "display_name": "A2Z, Neudorf, Liebenau, Graz, Steiermark, 8041, \u00d6sterreich",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.2
+  }
+]

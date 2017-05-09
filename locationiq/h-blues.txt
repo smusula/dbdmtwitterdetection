@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "2645452",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356680134",
+    "boundingbox": [
+      "37.6371588",
+      "37.6372588",
+      "-111.8591211",
+      "-111.8590211"
+    ],
+    "lat": "37.6372088",
+    "lon": "-111.8590711",
+    "display_name": "The Blues, Garfield County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "146889538",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374193215",
+    "boundingbox": [
+      "51.0627938",
+      "51.0628723",
+      "-1.3170461",
+      "-1.3168962"
+    ],
+    "lat": "51.06283305",
+    "lon": "-1.31697113442983",
+    "display_name": "blues, Southgate Street, Winchester, Hampshire, South East, England, SO23 9DA, UK",
+    "class": "shop",
+    "type": "deli",
+    "importance": 0.111
+  },
+  {
+    "place_id": "105559044",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "176864627",
+    "boundingbox": [
+      "53.7020745",
+      "53.702184",
+      "-1.6775511",
+      "-1.6773849"
+    ],
+    "lat": "53.70213875",
+    "lon": "-1.67746213202028",
+    "display_name": "blues, Crossley Street, Firthcliffe, Kirklees, Yorkshire and the Humber, England, WF15 7BE, UK",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "21810135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2165495950",
+    "boundingbox": [
+      "45.4359928",
+      "45.4360928",
+      "12.3250165",
+      "12.3251165"
+    ],
+    "lat": "45.4360428",
+    "lon": "12.3250665",
+    "display_name": "Blues, Calle dei Preti, Dorsoduro, Venezia-Murano-Burano, Venezia, VE, VEN, 30123, Italia",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56564271",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405768690",
+    "boundingbox": [
+      "41.7063323",
+      "41.7064323",
+      "44.7893857",
+      "44.7894857"
+    ],
+    "lat": "41.7063823",
+    "lon": "44.7894357",
+    "display_name": "Blues, \u10d2\u10d8\u10dd\u10e0\u10d2\u10d8 \u10d0\u10ee\u10d5\u10da\u10d4\u10d3\u10d8\u10d0\u10dc\u10d8\u10e1 \u10e5\u10e3\u10e9\u10d0, \u10e4\u10d8\u10e5\u10e0\u10d8\u10e1 \u10d2\u10dd\u10e0\u10d0, \u10d5\u10d4\u10e0\u10d4, \u10eb\u10d5\u10d4\u10da\u10d8 \u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8\u10e1 \u10e0\u10d0\u10d8\u10dd\u10dc\u10d8, \u10d7\u10d1\u10d8\u10da\u10d8\u10e1\u10d8, 0108, \u10e1\u10d0\u10e5\u10d0\u10e0\u10d7\u10d5\u10d4\u10da\u10dd",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "44954226",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3191091564",
+    "boundingbox": [
+      "38.6558793",
+      "38.6559793",
+      "-90.3032442",
+      "-90.3031442"
+    ],
+    "lat": "38.6559293",
+    "lon": "-90.3031942",
+    "display_name": "Blues, Delmar Boulevard, St. Louis, City of St. Louis, Missouri, 63130; 63124, United States of America",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "163313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "30210243",
+    "boundingbox": [
+      "-1.2949023",
+      "-1.2948023",
+      "36.7996358",
+      "36.7997358"
+    ],
+    "lat": "-1.2948523",
+    "lon": "36.7996858",
+    "display_name": "The Blues, Argwings Kodhek Road, Hurlingham, Nairobi, 30728, Kenya",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21634551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2149452990",
+    "boundingbox": [
+      "41.2237132",
+      "41.2238132",
+      "13.5684689",
+      "13.5685689"
+    ],
+    "lat": "41.2237632",
+    "lon": "13.5685189",
+    "display_name": "Blues, Via dell'Indipendenza, Gaeta, LT, LAZ, 04024, Italia",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "84719645",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94385070",
+    "boundingbox": [
+      "47.859492",
+      "47.859642",
+      "-3.4620299",
+      "-3.4618269"
+    ],
+    "lat": "47.859593",
+    "lon": "-3.46190935",
+    "display_name": "Blues, Rue du Croeziou, Le Bourg, Vourglas, R\u00e9den\u00e9, Quimper, Finist\u00e8re, Bretagne, 29300, France",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "45044072",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3199320248",
+    "boundingbox": [
+      "12.099441",
+      "12.099541",
+      "-68.9217364",
+      "-68.9216364"
+    ],
+    "lat": "12.099491",
+    "lon": "-68.9216864",
+    "display_name": "Blues, Penstraat, Nieuw Nederland, Berg Altena, Willemstad, Cura\u00e7ao, 0000NA, Nederland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

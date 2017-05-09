@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "2647703428",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "429549344",
+    "boundingbox": [
+      "36.0029845",
+      "36.0064646",
+      "-95.9103623",
+      "-95.9065052"
+    ],
+    "lat": "36.00469275",
+    "lon": "-95.908433647954",
+    "display_name": "Tradition, Tulsa, Tulsa County, Oklahoma, 74137, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "137470023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "321396918",
+    "boundingbox": [
+      "33.9765705",
+      "33.9767949",
+      "-84.5682721",
+      "-84.56779"
+    ],
+    "lat": "33.9765705",
+    "lon": "-84.5682721",
+    "display_name": "The Tradition, Oakton, Elizabeth, Marietta, Cobb County, Georgia, 30060, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "19691204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1950661006",
+    "boundingbox": [
+      "48.8569112",
+      "48.8570112",
+      "2.3997402",
+      "2.3998402"
+    ],
+    "lat": "48.8569612",
+    "lon": "2.3997902",
+    "display_name": "La Tradition, Rue des Orteaux, Saint-Blaise, Charonne, 20e, Paris, \u00cele-de-France, 75020, France",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "46795813",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3396035263",
+    "boundingbox": [
+      "59.3260003",
+      "59.3261003",
+      "18.0735948",
+      "18.0736948"
+    ],
+    "lat": "59.3260503",
+    "lon": "18.0736448",
+    "display_name": "Tradition, \u00d6sterl\u00e5nggatan, Gamla stan, S\u00f6dermalms stadsdelsomr\u00e5de, Sthlm, Stockholm, Landskapet Uppland, Stockholms l\u00e4n, Svealand, 11131, Sverige",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "56983737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4445192527",
+    "boundingbox": [
+      "50.6316899",
+      "50.6317899",
+      "3.0549658",
+      "3.0550658"
+    ],
+    "lat": "50.6317399",
+    "lon": "3.0550158",
+    "display_name": "La Tradition, 73, Rue Mass\u00e9na, Zone Urbaine Lille, Lille, Nord, Hauts-de-France, 59000, France",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "50339425",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3750673651",
+    "boundingbox": [
+      "48.6482323",
+      "48.6483323",
+      "-2.0264132",
+      "-2.0263132"
+    ],
+    "lat": "48.6482823",
+    "lon": "-2.0263632",
+    "display_name": "Tradition, 6, Rue Broussais, Intra-Muros, Saint-Malo, Ille-et-Vilaine, Bretagne, 35400, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "19258332",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1898757641",
+    "boundingbox": [
+      "48.8976654",
+      "48.8977654",
+      "2.0898155",
+      "2.0899155"
+    ],
+    "lat": "48.8977154",
+    "lon": "2.0898655",
+    "display_name": "La Tradition, 46, Rue de Poissy, Saint-Germain-en-Laye, Yvelines, \u00cele-de-France, 78100, France",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "25480775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2457904042",
+    "boundingbox": [
+      "51.7451099",
+      "51.7452099",
+      "8.8202094",
+      "8.8203094"
+    ],
+    "lat": "51.7451599",
+    "lon": "8.8202594",
+    "display_name": "Tradition, Postweg, Benhausen, Paderborn, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33100, Deutschland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "6006440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "612857521",
+    "boundingbox": [
+      "43.8894229",
+      "43.8895229",
+      "-0.5010266",
+      "-0.5009266"
+    ],
+    "lat": "43.8894729",
+    "lon": "-0.5009766",
+    "display_name": "Tradition, Petite Rue Saint-Roch, Mont-de-Marsan, Landes, Nouvelle-Aquitaine, 40000, France",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "18180106",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1745782706",
+    "boundingbox": [
+      "50.6147002",
+      "50.6148002",
+      "3.142764",
+      "3.142864"
+    ],
+    "lat": "50.6147502",
+    "lon": "3.142814",
+    "display_name": "Tradition, Rue de la Tradition, Zone Urbaine Lille, Triolo, Villeneuve-d'Ascq, Lille, Nord, Hauts-de-France, 59491;59493;59650, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

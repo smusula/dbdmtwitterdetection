@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2650668079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4646693728",
+    "boundingbox": [
+      "42.3584797",
+      "42.3585797",
+      "-71.0629495",
+      "-71.0628495"
+    ],
+    "lat": "42.3585297",
+    "lon": "-71.0628995",
+    "display_name": "Car Insurance Boston (all insurance quotes), 159, Bowdoin Street, Downtown Crossing, Beacon Hill, Boston, Suffolk County, Massachusetts, 02108, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647786203",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4585375115",
+    "boundingbox": [
+      "35.1611394",
+      "35.1612394",
+      "33.3747419",
+      "33.3748419"
+    ],
+    "lat": "35.1611894",
+    "lon": "33.3747919",
+    "display_name": "Quotes Food n Bar, 53, Kallipoleos, \u039b\u03b5\u03c5\u03ba\u03c9\u03c3\u03af\u03b1 - Lefko\u015fa, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s, 1070, \u039a\u03cd\u03c0\u03c1\u03bf\u03c2 - K\u0131br\u0131s",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "48886804",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3597500517",
+    "boundingbox": [
+      "53.321559",
+      "53.321659",
+      "-6.2663462",
+      "-6.2662462"
+    ],
+    "lat": "53.321609",
+    "lon": "-6.2662962",
+    "display_name": "Smart Quotes, 1, Rathmines Road Upper, Ranelagh, Dublin 6, Dublin, County Dublin, Leinster, D06, Ireland",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  }
+]

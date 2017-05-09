@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "16973868",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1601390826",
+    "boundingbox": [
+      "63.5138769",
+      "63.5538769",
+      "22.9289381",
+      "22.9689381"
+    ],
+    "lat": "63.5338769",
+    "lon": "22.9489381",
+    "display_name": "With, Pietarsaaren seutukunta, Pohjanmaa, L\u00e4nsi- ja Sis\u00e4-Suomen aluehallintovirasto, L\u00e4nsi-Suomi, Suomi",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "1414082",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "310983195",
+    "boundingbox": [
+      "69.6504061",
+      "69.6505061",
+      "18.959685",
+      "18.959785"
+    ],
+    "lat": "69.6504561",
+    "lon": "18.959735",
+    "display_name": "With, Sj\u00f8gata, Rambergan, Nordbyen, Troms\u00f8, Troms, 9008, Norge",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "45812073",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3276666373",
+    "boundingbox": [
+      "35.6693872",
+      "35.6694872",
+      "139.7182129",
+      "139.7183129"
+    ],
+    "lat": "35.6694372",
+    "lon": "139.7182629",
+    "display_name": ".with, \u9752\u5c71\u901a\u308a, \u5357\u9752\u5c716, \u6e2f\u533a, \u6771\u4eac\u90fd, 107-0062, \u65e5\u672c",
+    "class": "shop",
+    "type": "massage",
+    "importance": 0.101
+  },
+  {
+    "place_id": "75372951",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "41376133",
+    "boundingbox": [
+      "44.5669097",
+      "44.5674534",
+      "-123.2841311",
+      "-123.2831227"
+    ],
+    "lat": "44.5672435",
+    "lon": "-123.28340368024",
+    "display_name": "Withycombe Hall, Southwest Campus Way, Corvallis, Benton County, Oregon, 97331, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

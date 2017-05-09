@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "19624255",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1938467964",
+    "boundingbox": [
+      "-2.0509604",
+      "3.0690396",
+      "32.0131341",
+      "37.1331341"
+    ],
+    "lat": "0.5090396",
+    "lon": "34.5731341",
+    "display_name": "Western, Kenya",
+    "class": "place",
+    "type": "state",
+    "importance": 0.65,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160446532",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1756045",
+    "boundingbox": [
+      "52.3562759",
+      "52.3988241",
+      "4.8353455",
+      "4.8956659"
+    ],
+    "lat": "52.3766721",
+    "lon": "4.863724",
+    "display_name": "West, Amsterdam, MRA, Stadsregio Amsterdam, Noord-Holland, Nederland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.52194901562232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160281157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153552",
+    "boundingbox": [
+      "-30.7220582",
+      "-27.2583813",
+      "-59.6744993",
+      "-55.6201712"
+    ],
+    "lat": "-28.5912314",
+    "lon": "-57.9394657",
+    "display_name": "Ctes., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48549881517384,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160252738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "52834",
+    "boundingbox": [
+      "59.854144",
+      "62.267493",
+      "12.1379108",
+      "16.7046001"
+    ],
+    "lat": "61.06030095",
+    "lon": "14.2152516043282",
+    "display_name": "Dalarna, Svealand, Sverige",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47614635803195,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160323130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "311776",
+    "boundingbox": [
+      "-9.4692464",
+      "-4.9871494",
+      "140.8416553",
+      "144.1230595"
+    ],
+    "lat": "-7.4999999",
+    "lon": "142",
+    "display_name": "Western, Papua Region, Papua Niugini",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.41966198108865,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160421322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1395406",
+    "boundingbox": [
+      "51.2978415",
+      "51.3391521",
+      "12.2366519",
+      "12.3118986"
+    ],
+    "lat": "51.3183347",
+    "lon": "12.2669082868383",
+    "display_name": "West, Leipzig, Sachsen, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160903171",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5623294",
+    "boundingbox": [
+      "48.7369045",
+      "48.7905189",
+      "11.2559076",
+      "11.3845877"
+    ],
+    "lat": "48.763676",
+    "lon": "11.3255202308594",
+    "display_name": "West, Ingolstadt, OB, Bayern, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160844184",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5432694",
+    "boundingbox": [
+      "49.2088272",
+      "49.2895635",
+      "6.8276387",
+      "6.9627736"
+    ],
+    "lat": "49.24916775",
+    "lon": "6.93221984273488",
+    "display_name": "West, Saarbr\u00fccken, Regionalverband Saarbr\u00fccken, Saarland, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160529663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2442703",
+    "boundingbox": [
+      "10.387666",
+      "10.694794",
+      "-67.4127339",
+      "-66.3093779"
+    ],
+    "lat": "10.6105431",
+    "lon": "-66.8982425",
+    "display_name": "Vargas, Regi\u00f3n Capital, Venezuela",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39107154876043,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "161007456",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6584731",
+    "boundingbox": [
+      "31.7802399",
+      "31.8225213",
+      "-97.1064007",
+      "-97.0772989"
+    ],
+    "lat": "31.8034812",
+    "lon": "-97.093347",
+    "display_name": "West, McLennan County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.37916594894371,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

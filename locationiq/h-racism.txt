@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "742993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "257536473",
+    "boundingbox": [
+      "42.35806",
+      "42.35816",
+      "-71.0622599",
+      "-71.0621599"
+    ],
+    "lat": "42.35811",
+    "lon": "-71.0622099",
+    "display_name": "Library Resource Center On Racism, Beacon Street, Downtown Crossing, Beacon Hill, Boston, Suffolk County, Massachusetts, 02108, United States of America",
+    "class": "amenity",
+    "type": "library",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_library.p.20.png"
+  },
+  {
+    "place_id": "42431199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3085148186",
+    "boundingbox": [
+      "54.0051876",
+      "54.0052876",
+      "-6.394132",
+      "-6.394032"
+    ],
+    "lat": "54.0052376",
+    "lon": "-6.394082",
+    "display_name": "National Consultative Committee on Racism and Multiculturalism, Seatown Place, Townparks, Dundalk No. 4 Urban, Dundalk, County Louth, Leinster, Ireland",
+    "class": "office",
+    "type": " association",
+    "importance": 0.101
+  }
+]

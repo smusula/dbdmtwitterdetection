@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "196953",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "34710078",
+    "boundingbox": [
+      "43.6563331",
+      "43.6663331",
+      "-79.388066",
+      "-79.378066"
+    ],
+    "lat": "43.6613331",
+    "lon": "-79.383066",
+    "display_name": "College, 448, Yonge Street, Church-Wellesley Village, Old Toronto, Toronto, Ontario, M4Y 1X4, Canada",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.42191850354092,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "2655091767",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "7101986",
+    "boundingbox": [
+      "45.2781421",
+      "45.3761248",
+      "-75.8858142",
+      "-75.7267827"
+    ],
+    "lat": "45.32664695",
+    "lon": "-75.838556285377",
+    "display_name": "College, Ottawa, Ontario, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "331864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150919423",
+    "boundingbox": [
+      "64.8369444",
+      "64.8769444",
+      "-147.8227777",
+      "-147.7827777"
+    ],
+    "lat": "64.8569444",
+    "lon": "-147.8027777",
+    "display_name": "College, Fairbanks North Star, Alaska, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "5175474",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "595511065",
+    "boundingbox": [
+      "14.1424278",
+      "14.1824278",
+      "121.2209175",
+      "121.2609175"
+    ],
+    "lat": "14.1624278",
+    "lon": "121.2409175",
+    "display_name": "College, Los Ba\u00f1os, Laguna, Calabarzon, Philippines",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2610496514",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4640074",
+    "boundingbox": [
+      "64.8061246",
+      "64.928346",
+      "-147.9108589",
+      "-147.7375449"
+    ],
+    "lat": "64.86723955",
+    "lon": "-147.811617625284",
+    "display_name": "College, Mertensia Street, College, Fairbanks North Star, Alaska, 99709, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36522811055188,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "40468076",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2959629321",
+    "boundingbox": [
+      "43.4416777",
+      "43.4417777",
+      "1.9102021",
+      "1.9103021"
+    ],
+    "lat": "43.4417277",
+    "lon": "1.9102521",
+    "display_name": "College, Saint-F\u00e9lix-Lauragais, Toulouse, Haute-Garonne, Occitanie, 31540, France",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "160803615",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4726583",
+    "boundingbox": [
+      "53.8396173",
+      "53.8598953",
+      "-6.7628105",
+      "-6.7412029"
+    ],
+    "lat": "53.8498604",
+    "lon": "-6.75201178120891",
+    "display_name": "College, Nobber, Kells, County Meath, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160643700",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3312424",
+    "boundingbox": [
+      "52.3268201",
+      "52.3358158",
+      "-6.5306449",
+      "-6.511825"
+    ],
+    "lat": "52.33131755",
+    "lon": "-6.51784741985223",
+    "display_name": "College, Carrick, Wexford Municipal District, County Wexford, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "94921549",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "133328557",
+    "boundingbox": [
+      "35.4823527",
+      "35.4859176",
+      "-97.5432257",
+      "-97.5389496"
+    ],
+    "lat": "35.4845182",
+    "lon": "-97.5399774859819",
+    "display_name": "College, Oklahoma City, Oklahoma County, Oklahoma, 73106, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "45419103",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3232179947",
+    "boundingbox": [
+      "53.0152088",
+      "53.0153088",
+      "-112.8216092",
+      "-112.8215092"
+    ],
+    "lat": "53.0152588",
+    "lon": "-112.8215592",
+    "display_name": "College, Camrose, Alberta, T4V2R3, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

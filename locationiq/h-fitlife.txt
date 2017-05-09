@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "5320283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "596245655",
+    "boundingbox": [
+      "40.0592522",
+      "40.0593522",
+      "-75.1905118",
+      "-75.1904118"
+    ],
+    "lat": "40.0593022",
+    "lon": "-75.1904618",
+    "display_name": "FitLife, 7140, Germantown Avenue, Mount Pleasant, Philadelphia, Philadelphia County, Pennsylvania, 19118, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "6888894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "724559856",
+    "boundingbox": [
+      "54.6782378",
+      "54.6783378",
+      "25.2741213",
+      "25.2742213"
+    ],
+    "lat": "54.6782878",
+    "lon": "25.2741713",
+    "display_name": "Fitlife, Mindaugo g., Naujamiestis, Vilnius, Vilniaus miesto savivaldyb\u0117, Vilniaus apskritis, 03011, Lietuva",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "2649087337",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "262286607",
+    "boundingbox": [
+      "37.805415",
+      "37.8055884",
+      "-122.4132411",
+      "-122.4131339"
+    ],
+    "lat": "37.8055017",
+    "lon": "-122.4131875",
+    "display_name": "Fitlife, Bay Street, Russian Hill, SF, California, 94123, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "45414533",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3231455861",
+    "boundingbox": [
+      "49.219178",
+      "49.219278",
+      "28.4421535",
+      "28.4422535"
+    ],
+    "lat": "49.219228",
+    "lon": "28.4422035",
+    "display_name": "FitLife, 10, \u0410\u043a\u0430\u0434\u0435\u043c\u0456\u043a\u0430 \u042e\u0449\u0435\u043d\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0412\u0456\u043d\u043d\u0438\u0446\u044f, \u0412\u0456\u043d\u043d\u0438\u0446\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 21000-21499, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

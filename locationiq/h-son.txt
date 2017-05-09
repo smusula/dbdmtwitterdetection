@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160433357",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1673426",
+    "boundingbox": [
+      "26.2969879",
+      "32.4940771",
+      "-115.0530222",
+      "-108.4242707"
+    ],
+    "lat": "29.3333331",
+    "lon": "-110.666667",
+    "display_name": "Sonora, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.68622280865507,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "106040993",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "178708193",
+    "boundingbox": [
+      "24.4989196",
+      "25.710638",
+      "83.6886054",
+      "84.8712675"
+    ],
+    "lat": "25.0426069",
+    "lon": "84.3436367",
+    "display_name": "Son, Sasaram, Bhojpur, Rohtas, Bihar, 821115, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.49529223844486
+  },
+  {
+    "place_id": "160571060",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2757528",
+    "boundingbox": [
+      "46.1780461",
+      "46.2558485",
+      "7.3053566",
+      "7.425274"
+    ],
+    "lat": "46.2311749",
+    "lon": "7.3588795",
+    "display_name": "Sion, Valais - Wallis, 1950, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45895748093831,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160435022",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1684688",
+    "boundingbox": [
+      "46.1149046",
+      "46.1480195",
+      "8.9710525",
+      "9.0602251"
+    ],
+    "lat": "46.1297164",
+    "lon": "8.9861048",
+    "display_name": "Isone, Circolo di Giubiasco, Distretto di Bellinzona, Ticino, 6810, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45828342686645,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2651783656",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6968079",
+    "boundingbox": [
+      "20.1537205",
+      "20.8262665",
+      "103.1590849",
+      "103.6833275"
+    ],
+    "lat": "20.4898024",
+    "lon": "103.354414160364",
+    "display_name": "\u0e8a\u0ec8\u0ead\u0e99, \u0eab\u0ebb\u0ea7\u0e9e\u0eb1\u0e99, \u0e9b\u0eb0\u0ec0\u0e97\u0e94\u0ea5\u0eb2\u0ea7",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "638094",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244081268",
+    "boundingbox": [
+      "32.0461023",
+      "32.3661023",
+      "114.3475758",
+      "114.6675758"
+    ],
+    "lat": "32.2061023",
+    "lon": "114.5075758",
+    "display_name": "\u7f57\u5c71\u53bf, \u7f57\u5c71\u53bf (Luoshan), \u4fe1\u9633\u5e02 / Xinyang, \u6cb3\u5357\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "city",
+    "importance": 0.43127075754404,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "127916246",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "274635816",
+    "boundingbox": [
+      "22.7285508",
+      "23.08413",
+      "81.906923",
+      "82.1063959"
+    ],
+    "lat": "22.9432688",
+    "lon": "82.0733764",
+    "display_name": "Son, Bil\u0101spur, Bilaspur, Chhattisgarh, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "113774909",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "210988066",
+    "boundingbox": [
+      "22.853169",
+      "22.8609114",
+      "82.0433704",
+      "82.0536134"
+    ],
+    "lat": "22.8557739",
+    "lon": "82.0496559",
+    "display_name": "Son, Bil\u0101spur, Bilaspur, Chhattisgarh, India",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.425
+  },
+  {
+    "place_id": "99662793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "154736325",
+    "boundingbox": [
+      "24.4612682",
+      "24.5338119",
+      "82.9983567",
+      "83.1437797"
+    ],
+    "lat": "24.4800172",
+    "lon": "83.0513983",
+    "display_name": "Son River, Sonbhadra, Uttar Pradesh, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  },
+  {
+    "place_id": "112126127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "204957208",
+    "boundingbox": [
+      "24.5184439",
+      "24.6168001",
+      "82.3777966",
+      "82.9983567"
+    ],
+    "lat": "24.5785597",
+    "lon": "82.6960593",
+    "display_name": "Son River, Singrauli, Sidhi, Madhya Pradesh, 486889, India",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.425
+  }
+]

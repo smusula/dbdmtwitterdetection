@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "2647480008",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "462403714",
+    "boundingbox": [
+      "40.7558553",
+      "40.7578925",
+      "-73.9865255",
+      "-73.9853447"
+    ],
+    "lat": "40.75689985",
+    "lon": "-73.9860337539674",
+    "display_name": "Times Square, Diamond District, Manhattan, New York County, NYC, New York, 10036, United States of America",
+    "class": "highway",
+    "type": "pedestrian",
+    "importance": 0.50782078042589
+  },
+  {
+    "place_id": "1316400",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "299046361",
+    "boundingbox": [
+      "40.7579023",
+      "40.7580023",
+      "-73.9856198",
+      "-73.9855198"
+    ],
+    "lat": "40.7579523",
+    "lon": "-73.9855698",
+    "display_name": "Times Square, 7th Avenue, Diamond District, Manhattan, New York County, NYC, New York, 10036, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.50782078042589,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "10811165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1012752018",
+    "boundingbox": [
+      "22.2778856",
+      "22.2779856",
+      "114.1817501",
+      "114.1818501"
+    ],
+    "lat": "22.2779356",
+    "lon": "114.1818001",
+    "display_name": "\u6642\u4ee3\u5ee3\u5834 Times Square, \u970e\u6771\u8857 Sharp Street East, \u5929\u540e Tin Hau, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, TIMES SQUARE MALL 13F, \u4e2d\u56fd",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.34314331355821
+  },
+  {
+    "place_id": "131565963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "294351176",
+    "boundingbox": [
+      "22.2776923",
+      "22.2787964",
+      "114.1815079",
+      "114.1828514"
+    ],
+    "lat": "22.27822405",
+    "lon": "114.182114116392",
+    "display_name": "1, \u6642\u4ee3\u5ee3\u5834 Times Square, \u9285\u947c\u7063 Causeway Bay, \u7063\u4ed4\u5340 Wan Chai District, \u9999\u6e2f\u5cf6 Hong Kong Island, HK, 0000, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.31490776660872
+  },
+  {
+    "place_id": "125639265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "260640923",
+    "boundingbox": [
+      "51.5122146",
+      "51.5130509",
+      "-0.0687663",
+      "-0.0677103"
+    ],
+    "lat": "51.51257855",
+    "lon": "-0.0681874413969813",
+    "display_name": "Times Square, St.George in the East, London Borough of Tower Hamlets, London, Greater London, England, E1W, UK",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71205572",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29265223",
+    "boundingbox": [
+      "14.8231546",
+      "14.8237584",
+      "120.281985",
+      "120.2823347"
+    ],
+    "lat": "14.82334815",
+    "lon": "120.282173406637",
+    "display_name": "Times Square, Subic Bay Freeport, Olongapo, Central Luzon, 2200, Philippines",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.2
+  },
+  {
+    "place_id": "94270016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130302308",
+    "boundingbox": [
+      "43.4024817",
+      "43.403385",
+      "-79.7823251",
+      "-79.7810697"
+    ],
+    "lat": "43.40296615",
+    "lon": "-79.7817163971307",
+    "display_name": "Times Square, Orchard, Burlington, Ontario, L7L5H9, Canada",
+    "class": "landuse",
+    "type": "retail",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130009089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286595347",
+    "boundingbox": [
+      "-35.2181308",
+      "-35.2165209",
+      "149.1440258",
+      "149.1451701"
+    ],
+    "lat": "-35.21735455",
+    "lon": "149.144590625736",
+    "display_name": "Times Square, Mitchell, Gungahlin, Australian Capital Territory, 2911, Australia",
+    "class": "landuse",
+    "type": "construction",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68281706",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21817893",
+    "boundingbox": [
+      "42.0267205",
+      "42.0267521",
+      "-88.2758244",
+      "-88.2748168"
+    ],
+    "lat": "42.0267205",
+    "lon": "-88.2748168",
+    "display_name": "Times Square, Elgin, Kane County, Illinois, 60120, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.12027225158296
+  },
+  {
+    "place_id": "64728750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16921748",
+    "boundingbox": [
+      "32.180465",
+      "32.1810625",
+      "-110.8049636",
+      "-110.8041241"
+    ],
+    "lat": "32.180465",
+    "lon": "-110.8041378",
+    "display_name": "Times Square, Tucson, Pima County, Arizona, 85730, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

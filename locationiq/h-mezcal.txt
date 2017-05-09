@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "122698850",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "248178568",
+    "boundingbox": [
+      "24.8218675",
+      "24.8222329",
+      "-107.4347022",
+      "-107.4346297"
+    ],
+    "lat": "24.8218675",
+    "lon": "-107.4347022",
+    "display_name": "El Mezcal, Culiac\u00e1n, Sinaloa, 80050, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2651380054",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "472793847",
+    "boundingbox": [
+      "20.4660841",
+      "20.4664777",
+      "-103.2938655",
+      "-103.2938375"
+    ],
+    "lat": "20.4663102",
+    "lon": "-103.2938375",
+    "display_name": "Mezcal, Paseo de los Agaves, El Capul\u00edn, Tlajomulco de Z\u00fa\u00f1iga, Jalisco, 45675, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "99917983",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "155330640",
+    "boundingbox": [
+      "20.6905246",
+      "20.691959",
+      "-103.2519413",
+      "-103.2518291"
+    ],
+    "lat": "20.6915505",
+    "lon": "-103.2519072",
+    "display_name": "Mezcal, Residencias El Prado, Nuevo Israel, Tonal\u00e1, Jalisco, 45412, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "130039237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "286653708",
+    "boundingbox": [
+      "20.7206406",
+      "20.7207972",
+      "-102.3468753",
+      "-102.3449686"
+    ],
+    "lat": "20.7207338",
+    "lon": "-102.3457403",
+    "display_name": "Mezcal, Arandas, Jalisco, 47182, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "131335873",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "293335829",
+    "boundingbox": [
+      "25.5485034",
+      "25.5512133",
+      "-108.4580735",
+      "-108.4575321"
+    ],
+    "lat": "25.5495591",
+    "lon": "-108.4577518",
+    "display_name": "Mezcal, San Pedro Paredes, Guasave, Sinaloa, M\u00e9xico",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49162051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3654005597",
+    "boundingbox": [
+      "50.0752382",
+      "50.0753382",
+      "14.4343315",
+      "14.4344315"
+    ],
+    "lat": "50.0752882",
+    "lon": "14.4343815",
+    "display_name": "Mezcal, 599/18, Jugosl\u00e1vsk\u00e1, Vinohrady, Praha, okres Hlavn\u00ed m\u011bsto Praha, Hlavn\u00ed m\u011bsto Praha, Praha, 12000, \u010cesko",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "21788708",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2157803635",
+    "boundingbox": [
+      "38.9556824",
+      "38.9557824",
+      "-95.3058409",
+      "-95.3057409"
+    ],
+    "lat": "38.9557324",
+    "lon": "-95.3057909",
+    "display_name": "El Mezcal, 1520, Wakarusa Drive, Lawrence, Douglas County, Kansas, 66049, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "115467018",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "218952770",
+    "boundingbox": [
+      "38.9421596",
+      "38.9424747",
+      "-95.258561",
+      "-95.2583619"
+    ],
+    "lat": "38.94231715",
+    "lon": "-95.25846145",
+    "display_name": "El Mezcal, 1819, West 23rd Street, Lawrence, Douglas County, Kansas, 66046, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "48635398",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3606791587",
+    "boundingbox": [
+      "37.3342548",
+      "37.3343548",
+      "-121.8897346",
+      "-121.8896346"
+    ],
+    "lat": "37.3343048",
+    "lon": "-121.8896846",
+    "display_name": "Mezcal, West San Fernando Street, Historic District, Japantown, San Jos\u00e9, Santa Clara County, California, 95110, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "4298618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "470638835",
+    "boundingbox": [
+      "41.3166141",
+      "41.3167141",
+      "-72.9089355",
+      "-72.9088355"
+    ],
+    "lat": "41.3166641",
+    "lon": "-72.9088855",
+    "display_name": "Mezcal, Lawrence Street, East Rock, New Haven, New Haven County, Connecticut, 06511, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

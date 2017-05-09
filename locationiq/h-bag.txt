@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "15360677",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1368351927",
+    "boundingbox": [
+      "44.9483112",
+      "44.9484112",
+      "14.7550242",
+      "14.7551242"
+    ],
+    "lat": "44.9483612",
+    "lon": "14.7550742",
+    "display_name": "Bag, Rijeka, Primorsko-Goranska \u017eupanija, Hrvatska",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160420862",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1390978",
+    "boundingbox": [
+      "47.5923118",
+      "47.649088",
+      "19.4202901",
+      "19.5014942"
+    ],
+    "lat": "47.6337331",
+    "lon": "19.4792099",
+    "display_name": "Bag, Asz\u00f3di j\u00e1r\u00e1s, Pest megye, K\u00f6z\u00e9p-Magyarorsz\u00e1g, Magyarorsz\u00e1g",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38891132353959,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "28007766",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2619530398",
+    "boundingbox": [
+      "45.0264961",
+      "45.0664961",
+      "15.9906308",
+      "16.0306308"
+    ],
+    "lat": "45.0464961",
+    "lon": "16.0106308",
+    "display_name": "Bag, Op\u0107ina Bu\u017eim, Unsko-sanski kanton/\u017eupanija, Federacija Bosne i Hercegovine, Bosna i Hercegovina",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50506189",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3772011731",
+    "boundingbox": [
+      "50.2359863",
+      "50.2559863",
+      "-3.7670264",
+      "-3.7470264"
+    ],
+    "lat": "50.2459863",
+    "lon": "-3.7570264",
+    "display_name": "The Bag, East Portlemouth, Devon, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "88355664",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "109566318",
+    "boundingbox": [
+      "16.3746201",
+      "16.3760583",
+      "120.6102687",
+      "120.6282063"
+    ],
+    "lat": "16.3753653",
+    "lon": "120.621930014002",
+    "display_name": "Loakan Airport, Runway Access Road, Richgate Square 1 Subdivision, Prieto Compound, Apugan, Benguet, Cordillera Administrative Region, 2600, Philippines",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.31110721079729,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "56538002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4402908628",
+    "boundingbox": [
+      "31.573472",
+      "31.613472",
+      "66.435939",
+      "66.475939"
+    ],
+    "lat": "31.593472",
+    "lon": "66.455939",
+    "display_name": "\u0628\u0627\u063a, \u0631\u063a\u0633\u062a\u0627\u0646, Kandahar \u06a9\u0646\u062f\u0647\u0627\u0631, \u0627\u0641\u063a\u0627\u0646\u0633\u062a\u0627\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "147036075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "374711008",
+    "boundingbox": [
+      "37.4193917",
+      "37.4199203",
+      "41.3761737",
+      "41.3768238"
+    ],
+    "lat": "37.41972695",
+    "lon": "41.3764960799088",
+    "display_name": "Ba\u011f, Ak\u00e7akaya Mahallesi, Midyat, Mardin, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, 47500, T\u00fcrkiye",
+    "class": "landuse",
+    "type": "vineyard",
+    "importance": 0.2
+  },
+  {
+    "place_id": "147655135",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "377598570",
+    "boundingbox": [
+      "37.7734249",
+      "37.7749008",
+      "29.0461417",
+      "29.0481074"
+    ],
+    "lat": "37.7741458",
+    "lon": "29.0475314402363",
+    "display_name": "Ba\u011f, Bah\u00e7elievler Mahallesi, Merkezefendi, Denizli, Ege B\u00f6lgesi, 20085, T\u00fcrkiye",
+    "class": "landuse",
+    "type": "vineyard",
+    "importance": 0.2
+  },
+  {
+    "place_id": "56704921",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4432156292",
+    "boundingbox": [
+      "40.5097388",
+      "40.5098388",
+      "50.1240563",
+      "50.1241563"
+    ],
+    "lat": "40.5097888",
+    "lon": "50.1241063",
+    "display_name": "bag, Fioletov, Buzovna, Bak\u0131 \u0130nzibati \u018frazisi, AZ1041, Az\u0259rbaycan",
+    "class": "tourism",
+    "type": "viewpoint",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_view_point.p.20.png"
+  },
+  {
+    "place_id": "46472943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3319987864",
+    "boundingbox": [
+      "49.2371877",
+      "49.2372877",
+      "6.9921883",
+      "6.9922883"
+    ],
+    "lat": "49.2372377",
+    "lon": "6.9922383",
+    "display_name": "The Bag, Bahnhofstra\u00dfe, Sankt Johann, Bezirk Mitte, Saarbr\u00fccken, Regionalverband Saarbr\u00fccken, Saarland, 66111, Deutschland",
+    "class": "shop",
+    "type": "bag",
+    "importance": 0.101
+  }
+]

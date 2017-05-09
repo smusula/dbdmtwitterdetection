@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160284079",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "161943",
+    "boundingbox": [
+      "30.1477908",
+      "34.996052",
+      "-91.6550089",
+      "-88.0977944"
+    ],
+    "lat": "32.9715645",
+    "lon": "-89.7348496",
+    "display_name": "Mississippi, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78315259199359,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3502924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "369125402",
+    "boundingbox": [
+      "48.8207954",
+      "48.8407954",
+      "8.5028477",
+      "8.5228477"
+    ],
+    "lat": "48.8307954",
+    "lon": "8.5128477",
+    "display_name": "Miss, Straubenhardt, Enzkreis, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3420985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "365104519",
+    "boundingbox": [
+      "48.8290213",
+      "48.8490213",
+      "8.565294",
+      "8.585294"
+    ],
+    "lat": "48.8390213",
+    "lon": "8.575294",
+    "display_name": "Miss, Arnbach, Verwaltungsgemeinschaft Neuenb\u00fcrg, Enzkreis, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, Deutschland",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160587324",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2748062",
+    "boundingbox": [
+      "57.5675239",
+      "58.0241166",
+      "72.4154015",
+      "72.6091292"
+    ],
+    "lat": "57.8000569",
+    "lon": "72.5530842",
+    "display_name": "\u041c\u0438\u0441\u0441, \u0422\u0435\u0432\u0440\u0438\u0437\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041e\u043c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, \u0420\u0424",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.35
+  },
+  {
+    "place_id": "107864093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "186781486",
+    "boundingbox": [
+      "46.5767538",
+      "46.5876567",
+      "15.0207185",
+      "15.0265467"
+    ],
+    "lat": "46.58099",
+    "lon": "15.0224888",
+    "display_name": "Me\u017ea, Dravograd, Koro\u0161ka, Slovenija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "100578880",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158434973",
+    "boundingbox": [
+      "46.5365477",
+      "46.5767538",
+      "14.8599209",
+      "15.0251396"
+    ],
+    "lat": "46.5489075",
+    "lon": "14.9430377",
+    "display_name": "Me\u017ea, Ravne na Koro\u0161kem, Koro\u0161ka, Slovenija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "103182727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "167795685",
+    "boundingbox": [
+      "46.4662904",
+      "46.5277539",
+      "14.8115162",
+      "14.8734662"
+    ],
+    "lat": "46.4811669",
+    "lon": "14.8558368",
+    "display_name": "Me\u017ea, \u010crna na Koro\u0161kem, Koro\u0161ka, Slovenija",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "53543542",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4086657895",
+    "boundingbox": [
+      "47.3691975",
+      "47.3692975",
+      "9.6989194",
+      "9.6990194"
+    ],
+    "lat": "47.3692475",
+    "lon": "9.6989694",
+    "display_name": "Miss, Buchenau, Hohenems, Dornbirn, Vorarlberg, 6845, \u00d6sterreich",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "17878070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1721770280",
+    "boundingbox": [
+      "23.1119986",
+      "23.1519986",
+      "58.3630919",
+      "58.4030919"
+    ],
+    "lat": "23.1319986",
+    "lon": "58.3830919",
+    "display_name": "\u0645\u0633, \u0645\u0646\u0637\u0642\u0629 \u0627\u0644\u062f\u0627\u062e\u0644\u064a\u0629, \u0639\u0645\u0627\u0646",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "26199418",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2503837764",
+    "boundingbox": [
+      "45.8076034",
+      "45.8077034",
+      "15.918603",
+      "15.918703"
+    ],
+    "lat": "45.8076534",
+    "lon": "15.918653",
+    "display_name": "miss, Ulica Dragutina Lermana, Oranice, Stenjevec, Zagreb, Grad Zagreb, 10145, Hrvatska",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

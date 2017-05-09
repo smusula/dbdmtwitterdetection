@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "4627115",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "501404781",
+    "boundingbox": [
+      "6.746667",
+      "6.786667",
+      "3.48",
+      "3.52"
+    ],
+    "lat": "6.766667",
+    "lon": "3.5",
+    "display_name": "Ipa, Shagamu, Ogun, Nigeria",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "23827285",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2340766638",
+    "boundingbox": [
+      "58.2868215",
+      "58.2869215",
+      "26.5982371",
+      "26.5983371"
+    ],
+    "lat": "58.2868715",
+    "lon": "26.5982871",
+    "display_name": "Ipa, Aiamaa k\u00fcla, N\u00f5o vald, Tartu maakond, Eesti",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "69332892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25088612",
+    "boundingbox": [
+      "52.0959875",
+      "52.1154074",
+      "29.1645423",
+      "29.1780325"
+    ],
+    "lat": "52.1087922",
+    "lon": "29.1707342",
+    "display_name": "\u0418\u043f\u0430, \u041c\u043e\u0437\u044b\u0440\u044c, \u041c\u043e\u0437\u044b\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "69329039",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25055659",
+    "boundingbox": [
+      "52.1154074",
+      "52.7185599",
+      "29.0678903",
+      "29.4911482"
+    ],
+    "lat": "52.3965271",
+    "lon": "29.3209835",
+    "display_name": "\u0418\u043f\u0430, \u041a\u0430\u043b\u0438\u043d\u043a\u043e\u0432\u0438\u0447\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0413\u043e\u043c\u0435\u043b\u044c\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "77817046",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "51732619",
+    "boundingbox": [
+      "-8.065061",
+      "-8.0622631",
+      "-34.926792",
+      "-34.9237114"
+    ],
+    "lat": "-8.06380685",
+    "lon": "-34.9252455434488",
+    "display_name": "IPA, San Martin, Recife, Microrregi\u00e3o de Recife, Regi\u00e3o Metropolitana de Recife, Mesorregi\u00e3o Metropolitana de Recife, PE, Regi\u00e3o Nordeste, 51210080, Brasil",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "157777356",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "433843594",
+    "boundingbox": [
+      "62.1290372",
+      "62.1378382",
+      "50.2137962",
+      "50.2286985"
+    ],
+    "lat": "62.1347844",
+    "lon": "50.2234253",
+    "display_name": "\u0418\u043f\u0430, \u0423\u0441\u0442\u044c-\u0412\u044b\u043c\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u041a\u043e\u043c\u0438, \u0421\u0435\u0432\u0435\u0440\u043e-\u0417\u0430\u043f\u0430\u0434\u043d\u044b\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, \u0420\u0424",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "56664775",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4413238557",
+    "boundingbox": [
+      "2.2644935",
+      "2.2844935",
+      "-52.8632756",
+      "-52.8432756"
+    ],
+    "lat": "2.2744935",
+    "lon": "-52.8532756",
+    "display_name": "\u0197pa, Clevel\u00e2ndia do Norte, Oiapoque, Microrregi\u00e3o de Oiapoque, Mesorregi\u00e3o Norte do Amap\u00e1, AP, Regi\u00e3o Norte, Brasil",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "127871727",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "274214505",
+    "boundingbox": [
+      "44.0423139",
+      "44.0449731",
+      "-121.4045556",
+      "-121.4022742"
+    ],
+    "lat": "44.0441782",
+    "lon": "-121.4036902",
+    "display_name": "IPA, Deschutes County, Oregon, United States of America",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "51398544",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3842652378",
+    "boundingbox": [
+      "47.1538352",
+      "47.1539352",
+      "27.6323681",
+      "27.6324681"
+    ],
+    "lat": "47.1538852",
+    "lon": "27.6324181",
+    "display_name": "IPA, Strada Aurel Vlaicu, Avia\u021biei, Ia\u0219i, 700930, Rom\u00e2nia",
+    "class": "railway",
+    "type": "tram_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_tram_stop.p.20.png"
+  },
+  {
+    "place_id": "13559306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243760135",
+    "boundingbox": [
+      "-29.9033454",
+      "-29.9032454",
+      "30.9753111",
+      "30.9754111"
+    ],
+    "lat": "-29.9032954",
+    "lon": "30.9753611",
+    "display_name": "International Police Association, Helmsdale Road, eThekwini Ward 64, Durban, eThekwini Metropolitan Municipality, KwaZulu-Natal, 4094, South Africa",
+    "class": "tourism",
+    "type": "guest_house",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_bed_and_breakfast.p.20.png"
+  }
+]

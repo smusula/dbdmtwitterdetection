@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "2649665432",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4627624096",
+    "boundingbox": [
+      "16.8907479",
+      "16.8908479",
+      "96.1078841",
+      "96.1079841"
+    ],
+    "lat": "16.8907979",
+    "lon": "96.1079341",
+    "display_name": "fml, \u1017\u101f\u102d\u102f\u101c\u1019\u103a\u1038, Lann Thit Group, \u1021\u1004\u103a\u1038\u1005\u102d\u1014\u103a, Northern District, \u101b\u1014\u103a\u1000\u102f\u1014\u103a, Yangon, \u1019\u103c\u1014\u103a\u1019\u102c",
+    "class": "shop",
+    "type": "dry_cleaning",
+    "importance": 0.111
+  },
+  {
+    "place_id": "147251718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "375671254",
+    "boundingbox": [
+      "25.0580922",
+      "25.0584057",
+      "-77.3175637",
+      "-77.3172206"
+    ],
+    "lat": "25.0582477",
+    "lon": "-77.3173923819498",
+    "display_name": "FML, 3, Wulff Road, Nassau, New Providence, The Bahamas",
+    "class": "amenity",
+    "type": "gambling",
+    "importance": 0.101
+  },
+  {
+    "place_id": "10073057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "962966896",
+    "boundingbox": [
+      "56.311748",
+      "56.311848",
+      "38.1359636",
+      "38.1360636"
+    ],
+    "lat": "56.311798",
+    "lon": "38.1360136",
+    "display_name": "\u0424\u0438\u0437-\u041c\u0430\u0442 \u043b\u0438\u0446\u0435\u0439, 3, \u0443\u043b\u0438\u0446\u0430 \u041a\u0430\u0440\u043b\u0430 \u041c\u0430\u0440\u043a\u0441\u0430, \u0420\u0430\u0431\u043e\u0447\u043a\u0430, \u0421\u0435\u0440\u0433\u0438\u0435\u0432 \u041f\u043e\u0441\u0430\u0434, \u0421\u0435\u0440\u0433\u0438\u0435\u0432\u043e-\u041f\u043e\u0441\u0430\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u043e\u0441\u043a\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0426\u0424\u041e, 141315, \u0420\u0424",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

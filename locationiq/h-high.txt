@@ -1,0 +1,168 @@
+[
+  {
+    "place_id": "57102363",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "2987999",
+    "boundingbox": [
+      "51.7527307",
+      "51.752741",
+      "-1.2524117",
+      "-1.2521948"
+    ],
+    "lat": "51.7527307",
+    "lon": "-1.2524117",
+    "display_name": "High Street, Grandpont, Oxford, Oxon, South East, England, OX1 4BJ, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.41732695533476
+  },
+  {
+    "place_id": "357680",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151412050",
+    "boundingbox": [
+      "33.5923265",
+      "33.6323265",
+      "-95.7671849",
+      "-95.7271849"
+    ],
+    "lat": "33.6123265",
+    "lon": "-95.7471849",
+    "display_name": "High, Lamar County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "379338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151683585",
+    "boundingbox": [
+      "36.4509",
+      "36.4909",
+      "-93.5563999",
+      "-93.5163999"
+    ],
+    "lat": "36.4709",
+    "lon": "-93.5363999",
+    "display_name": "High, Carroll County, Arkansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27306790",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2590594954",
+    "boundingbox": [
+      "51.749678",
+      "51.789678",
+      "0.0739271",
+      "0.1139271"
+    ],
+    "lat": "51.769678",
+    "lon": "0.0939271",
+    "display_name": "The High, Harlow, Essex, East of England, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "54074001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4163512256",
+    "boundingbox": [
+      "37.439685",
+      "37.459685",
+      "-75.7289639",
+      "-75.7089639"
+    ],
+    "lat": "37.449685",
+    "lon": "-75.7189639",
+    "display_name": "High, Northampton County, Virginia, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "91068245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "118608820",
+    "boundingbox": [
+      "51.7515595",
+      "51.7516493",
+      "-1.2469818",
+      "-1.2469001"
+    ],
+    "lat": "51.7516122",
+    "lon": "-1.246921",
+    "display_name": "High Street, Grandpont, Oxford, Oxon, South East, England, OX1 4AU, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59497525",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8125931",
+    "boundingbox": [
+      "51.7523394",
+      "51.7523599",
+      "-1.248871",
+      "-1.2487345"
+    ],
+    "lat": "51.7523394",
+    "lon": "-1.2487345",
+    "display_name": "High Street, Grandpont, Oxford, Oxon, South East, England, OX3 8LA, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "70658427",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27895984",
+    "boundingbox": [
+      "51.7523599",
+      "51.7525905",
+      "-1.2502984",
+      "-1.248871"
+    ],
+    "lat": "51.7525177",
+    "lon": "-1.2498122",
+    "display_name": "High Street, Grandpont, Oxford, Oxon, South East, England, OX1 4BE, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "142926523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "352884786",
+    "boundingbox": [
+      "51.7526731",
+      "51.752775",
+      "-1.2520251",
+      "-1.2505836"
+    ],
+    "lat": "51.7527453",
+    "lon": "-1.2511195",
+    "display_name": "High Street, Grandpont, Oxford, Oxon, South East, England, OX1 4AP, UK",
+    "class": "highway",
+    "type": "tertiary",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "109615224",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "194672109",
+    "boundingbox": [
+      "34.9935763",
+      "35.0072975",
+      "-81.9774178",
+      "-81.9656093"
+    ],
+    "lat": "35.0003217",
+    "lon": "-81.9708849150477",
+    "display_name": "University of South Carolina-Upstate, Gramling Drive, Valley Falls, Spartanburg County, South Carolina, 29303, United States of America",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.47300331552197,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "2866395",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357643676",
+    "boundingbox": [
+      "43.0407833",
+      "43.0408833",
+      "-76.1392166",
+      "-76.1391166"
+    ],
+    "lat": "43.0408333",
+    "lon": "-76.1391666",
+    "display_name": "State University of New York Upstate Medical University, Renwick Avenue, University Hill, Syracuse, Onondaga County, New York, 13210, United States of America",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.44354646925471,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "95426856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135252902",
+    "boundingbox": [
+      "44.8657021",
+      "44.872503",
+      "-74.316788",
+      "-74.3098986"
+    ],
+    "lat": "44.8676814",
+    "lon": "-74.3126649088172",
+    "display_name": "Upstate Correctional Facility, State Highway 37, Fay, Franklin County, New York, United States of America",
+    "class": "amenity",
+    "type": "prison",
+    "importance": 0.3713907126481,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_prison.p.20.png"
+  },
+  {
+    "place_id": "95434829",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "135252900",
+    "boundingbox": [
+      "44.8765623",
+      "44.8842536",
+      "-74.327315",
+      "-74.3210099"
+    ],
+    "lat": "44.88091655",
+    "lon": "-74.3240778032153",
+    "display_name": "Upstate Correctional Facility, Bare Hill Road, Fay, Franklin County, New York, 12953, United States of America",
+    "class": "amenity",
+    "type": "prison",
+    "importance": 0.3713907126481,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_prison.p.20.png"
+  },
+  {
+    "place_id": "59241250",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7934821",
+    "boundingbox": [
+      "34.619862",
+      "34.626998",
+      "-87.0656199",
+      "-87.0655649"
+    ],
+    "lat": "34.623463",
+    "lon": "-87.0656169",
+    "display_name": "Upstate Park Road, Sherwood Estates, Morgan County, Alabama, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "46212786",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3299238254",
+    "boundingbox": [
+      "42.7288762",
+      "42.7289762",
+      "-73.6947822",
+      "-73.6946822"
+    ],
+    "lat": "42.7289262",
+    "lon": "-73.6947322",
+    "display_name": "Upstate Photographers Studio, 169, River Street, City of Troy, Rensselaer County, New York, 12180, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "159598894",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "443814814",
+    "boundingbox": [
+      "43.0600425",
+      "43.0604331",
+      "-73.8148735",
+      "-73.8143014"
+    ],
+    "lat": "43.06023785",
+    "lon": "-73.814587446919",
+    "display_name": "Upstate Distilling, Geyser Road, City of Saratoga Springs, Saratoga County, New York, 12866, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "15229977",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1402311023",
+    "boundingbox": [
+      "42.8682898",
+      "42.8683898",
+      "-73.8232059",
+      "-73.8231059"
+    ],
+    "lat": "42.8683398",
+    "lon": "-73.8231559",
+    "display_name": "Upstate Concert Hall, NY 146, Clifton Park Center, Town of Clifton Park, Saratoga County, New York, 12065, United States of America",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "127495380",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "271121948",
+    "boundingbox": [
+      "42.0404983",
+      "42.040678",
+      "-74.1272429",
+      "-74.1270823"
+    ],
+    "lat": "42.0406025",
+    "lon": "-74.12716106",
+    "display_name": "Upstate Films Woodstock, 132, Tinker Street, Woodstock, Town of Woodstock, Ulster County, New York, 12498, United States of America",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  },
+  {
+    "place_id": "45850817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3265918188",
+    "boundingbox": [
+      "41.9274651",
+      "41.9275651",
+      "-73.913033",
+      "-73.912933"
+    ],
+    "lat": "41.9275151",
+    "lon": "-73.912983",
+    "display_name": "Upstate Films, 6415, Montgomery Street, Rhinebeck, Town of Rhinebeck, Dutchess County, New York, 12572, United States of America",
+    "class": "amenity",
+    "type": "cinema",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_cinema.p.20.png"
+  }
+]

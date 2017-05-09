@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160254321",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44853",
+    "boundingbox": [
+      "45.3612212",
+      "45.3976261",
+      "9.1888984",
+      "9.2303703"
+    ],
+    "lat": "45.373069",
+    "lon": "9.211149",
+    "display_name": "Opera, MI, LOM, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.48946848220542,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160248387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "9537",
+    "boundingbox": [
+      "48.869581",
+      "48.8845536",
+      "2.3259257",
+      "2.3498597"
+    ],
+    "lat": "48.87708025",
+    "lon": "2.33791879842134",
+    "display_name": "9e, Paris, \u00cele-de-France, 75009, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46052356987067,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "12605777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1183279850",
+    "boundingbox": [
+      "47.5023151",
+      "47.5024151",
+      "19.059058",
+      "19.059158"
+    ],
+    "lat": "47.5023651",
+    "lon": "19.059108",
+    "display_name": "Opera, Andr\u00e1ssy \u00fat, Ter\u00e9zv\u00e1ros, 6. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1061, Magyarorsz\u00e1g",
+    "class": "railway",
+    "type": "halt",
+    "importance": 0.36392466723397
+  },
+  {
+    "place_id": "630087",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "243510336",
+    "boundingbox": [
+      "48.8656446",
+      "48.8756446",
+      "2.32733",
+      "2.33733"
+    ],
+    "lat": "48.8706446",
+    "lon": "2.33233",
+    "display_name": "Op\u00e9ra, Boulevard des Capucines, Quartier des Halles, Op\u00e9ra, Paris, \u00cele-de-France, 75009, France",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.35185343041668,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "6689277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "688074964",
+    "boundingbox": [
+      "48.8710562",
+      "48.8711562",
+      "2.3324048",
+      "2.3325048"
+    ],
+    "lat": "48.8711062",
+    "lon": "2.3324548",
+    "display_name": "Op\u00e9ra, Place de l'Op\u00e9ra, Chauss\u00e9e-d'Antin, 9e, Paris, \u00cele-de-France, 75009, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.3282657693621,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "82869866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "83786859",
+    "boundingbox": [
+      "43.9496291",
+      "43.9498331",
+      "4.8049802",
+      "4.8057128"
+    ],
+    "lat": "43.9497285",
+    "lon": "4.80532544019802",
+    "display_name": "Op\u00e9ra Grand Avignon, Place de l'Horloge, Avignon, Vaucluse, Provence-Alpes-C\u00f4te d'Azur, 84000, France",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.25089190172262,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "21581751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2142316639",
+    "boundingbox": [
+      "48.8507492",
+      "48.8907492",
+      "2.3124542",
+      "2.3524542"
+    ],
+    "lat": "48.8707492",
+    "lon": "2.3324542",
+    "display_name": "Op\u00e9ra, 9e, Paris, \u00cele-de-France, 75009, France",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "161030671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6581592",
+    "boundingbox": [
+      "43.2910105",
+      "43.2960745",
+      "5.3710631",
+      "5.3788263"
+    ],
+    "lat": "43.2933068",
+    "lon": "5.375022",
+    "display_name": "Op\u00e9ra, Marseille 1er Arrondissement, Marseille, Bouches-du-Rh\u00f4ne, Provence-Alpes-C\u00f4te d'Azur, 13001, France",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "56294974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4405991654",
+    "boundingbox": [
+      "40.4130644",
+      "40.4230644",
+      "-3.7143711",
+      "-3.7043711"
+    ],
+    "lat": "40.4180644",
+    "lon": "-3.7093711",
+    "display_name": "\u00d3pera, Plaza de Isabel II, Barrio Palacio, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28013, Espa\u00f1a",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.23470384519613,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "69881446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "26374556",
+    "boundingbox": [
+      "40.1855385",
+      "40.1864886",
+      "44.514491",
+      "44.5156824"
+    ],
+    "lat": "40.18601555",
+    "lon": "44.5150866943956",
+    "display_name": "\u0555\u057a\u0565\u0580\u0561\u0575\u056b \u0587 \u0562\u0561\u056c\u0565\u057f\u056b \u0561\u0566\u0563\u0561\u0575\u056b\u0576 \u0561\u056f\u0561\u0564\u0565\u0574\u056b\u0561\u056f\u0561\u0576 \u0569\u0561\u057f\u0580\u0578\u0576, 54, \u0539\u0578\u0582\u0574\u0561\u0576\u0575\u0561\u0576 \u0583\u0578\u0572\u0578\u0581, Kentron, \u0535\u0580\u0587\u0561\u0576, 0002, \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.21606775332943,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  }
+]

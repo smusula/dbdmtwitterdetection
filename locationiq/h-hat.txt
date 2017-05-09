@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160911460",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5910105",
+    "boundingbox": [
+      "29.5997957",
+      "29.6267895",
+      "80.6713299",
+      "80.7186215"
+    ],
+    "lat": "29.6133777",
+    "lon": "80.6929150663128",
+    "display_name": "Hat, \u092c\u0948\u0924\u0921\u0940 (Baitadi), \u092e\u0939\u093e\u0915\u093e\u0932\u0940 \u0905\u091e\u094d\u091a\u0932, \u0938\u0941\u0926\u0941\u0930 \u092a\u0936\u094d\u091a\u093f\u092e\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0928\u0947\u092a\u093e\u0932",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160362204",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "437722",
+    "boundingbox": [
+      "49.9324472",
+      "49.9710891",
+      "18.2098093",
+      "18.2818288"
+    ],
+    "lat": "49.9464431",
+    "lon": "18.2393133",
+    "display_name": "Ha\u0165, okres Opava, Moravskoslezsk\u00fd kraj, Moravskoslezsko, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42711967205517,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "16417638",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1506872454",
+    "boundingbox": [
+      "48.7986201",
+      "49.4386201",
+      "-58.5389849",
+      "-57.8989849"
+    ],
+    "lat": "49.1186201",
+    "lon": "-58.2189849",
+    "display_name": "The Hat, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "3233519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358795401",
+    "boundingbox": [
+      "41.47512",
+      "41.47522",
+      "-120.6105633",
+      "-120.6104633"
+    ],
+    "lat": "41.47517",
+    "lon": "-120.6105133",
+    "display_name": "The Hat, Modoc County, California, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "3270747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358922049",
+    "boundingbox": [
+      "38.1932742",
+      "38.1933742",
+      "-108.9551548",
+      "-108.9550548"
+    ],
+    "lat": "38.1933242",
+    "lon": "-108.9551048",
+    "display_name": "The Hat, Montrose County, Colorado, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2603489",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356683139",
+    "boundingbox": [
+      "38.1485467",
+      "38.1486467",
+      "-110.1910175",
+      "-110.1909175"
+    ],
+    "lat": "38.1485967",
+    "lon": "-110.1909675",
+    "display_name": "The Hat, Garfield County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "2889666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "357763682",
+    "boundingbox": [
+      "42.0788028",
+      "42.0789028",
+      "-103.7299932",
+      "-103.7298932"
+    ],
+    "lat": "42.0788528",
+    "lon": "-103.7299432",
+    "display_name": "The Hat, Sioux County, Nebraska, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "3079002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "358663892",
+    "boundingbox": [
+      "42.6042869",
+      "42.6043869",
+      "-116.1954325",
+      "-116.1953325"
+    ],
+    "lat": "42.6043369",
+    "lon": "-116.1953825",
+    "display_name": "The Hat, Owyhee County, Idaho, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "634631",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244489001",
+    "boundingbox": [
+      "51.2843507",
+      "51.3243507",
+      "14.4367386",
+      "14.4767386"
+    ],
+    "lat": "51.3043507",
+    "lon": "14.4567386",
+    "display_name": "Teicha - Hat, Landkreis Bautzen, Sachsen, Deutschland",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651356943",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6954038",
+    "boundingbox": [
+      "48.30654",
+      "48.3382037",
+      "22.6297304",
+      "22.652873"
+    ],
+    "lat": "48.3163499",
+    "lon": "22.6394724",
+    "display_name": "\u0413\u0430\u0442\u044c, \u0411\u0435\u0440\u0435\u0433\u0456\u0432\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35730822489547,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

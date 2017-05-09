@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "148358523",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381700368",
+    "boundingbox": [
+      "5.9135715",
+      "5.9184165",
+      "-8.6285003",
+      "-8.6284574"
+    ],
+    "lat": "5.9135715",
+    "lon": "-8.6284574",
+    "display_name": "water, Gbao, Grand Gedeh County, Liberia",
+    "class": "waterway",
+    "type": "ditch",
+    "importance": 0.435
+  },
+  {
+    "place_id": "145250864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "367167893",
+    "boundingbox": [
+      "-29.3239067",
+      "-29.3191638",
+      "27.5636626",
+      "27.566"
+    ],
+    "lat": "-29.3212574",
+    "lon": "27.5643799",
+    "display_name": "water, Berea District, Mafeteng, Lesotho",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "144948002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365602685",
+    "boundingbox": [
+      "-29.2908513",
+      "-29.2899456",
+      "27.5695259",
+      "27.5703148"
+    ],
+    "lat": "-29.290303",
+    "lon": "27.5698806",
+    "display_name": "water, 4030 N, Berea District, Berea, 75038, Lesotho",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "145048051",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "365762523",
+    "boundingbox": [
+      "-29.3241587",
+      "-29.3239067",
+      "27.5636227",
+      "27.5636626"
+    ],
+    "lat": "-29.3241587",
+    "lon": "27.5636227",
+    "display_name": "water, Berea District, Maseru, Lesotho",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "168521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "30844571",
+    "boundingbox": [
+      "53.7071926",
+      "53.7471926",
+      "-2.2613302",
+      "-2.2213302"
+    ],
+    "lat": "53.7271926",
+    "lon": "-2.2413302",
+    "display_name": "Water, Lancs, North West England, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "27879892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2609055680",
+    "boundingbox": [
+      "40.3477551",
+      "40.3877551",
+      "-75.9481848",
+      "-75.9081848"
+    ],
+    "lat": "40.3677551",
+    "lon": "-75.9281848",
+    "display_name": "Water, Berks County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "21297445",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2116549116",
+    "boundingbox": [
+      "50.6032175",
+      "50.6232175",
+      "-3.7686124",
+      "-3.7486124"
+    ],
+    "lat": "50.6132175",
+    "lon": "-3.7586124",
+    "display_name": "Water, Teignbridge, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2645451960",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4529961389",
+    "boundingbox": [
+      "35.2779005",
+      "35.2780005",
+      "5.3386706",
+      "5.3387706"
+    ],
+    "lat": "35.2779505",
+    "lon": "5.3387206",
+    "display_name": "\u0628\u0626\u0631, Bitam, Da\u00efra de Barika, Batna, RADP",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.325
+  },
+  {
+    "place_id": "2652040957",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4685543990",
+    "boundingbox": [
+      "-3.5450724",
+      "-3.5449724",
+      "-78.9649986",
+      "-78.9648986"
+    ],
+    "lat": "-3.5450224",
+    "lon": "-78.9649486",
+    "display_name": "Cascada Tres Chorreras, Tutupali, Cant\u00f3n Yacuambi, Zamora Chinchipe, Ecuador",
+    "class": "waterway",
+    "type": "waterfall",
+    "importance": 0.325
+  },
+  {
+    "place_id": "78059237",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "52016181",
+    "boundingbox": [
+      "50.1395405",
+      "50.1434175",
+      "15.7959833",
+      "15.8005569"
+    ],
+    "lat": "50.141516",
+    "lon": "15.7987694584392",
+    "display_name": "water, Opatovice nad Labem, okres Pardubice, Pardubick\u00fd kraj, Severov\u00fdchod, 50331, \u010cesko",
+    "class": "landuse",
+    "type": "reservoir",
+    "importance": 0.31
+  }
+]

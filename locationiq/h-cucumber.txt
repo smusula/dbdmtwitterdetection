@@ -1,0 +1,131 @@
+[
+  {
+    "place_id": "449742",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154386365",
+    "boundingbox": [
+      "37.257892",
+      "37.297892",
+      "-81.6467746",
+      "-81.6067746"
+    ],
+    "lat": "37.277892",
+    "lon": "-81.6267746",
+    "display_name": "Cucumber, McDowell County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.41673028276881,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "60728006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10587062",
+    "boundingbox": [
+      "14.5874876",
+      "14.5887571",
+      "121.0721344",
+      "121.0743105"
+    ],
+    "lat": "14.5876183",
+    "lon": "121.0739452",
+    "display_name": "Cucumber, Valle Verde 5, Ugong, Pasig, Metro Manila, 1604, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "156058322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "424327049",
+    "boundingbox": [
+      "14.5047008",
+      "14.5047505",
+      "121.0527398",
+      "121.0528427"
+    ],
+    "lat": "14.5047253",
+    "lon": "121.0527861",
+    "display_name": "Cucumber, FTI Complex, Tipas, Taguig, Metro Manila, 1633, Philippines",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "148306709",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381177664",
+    "boundingbox": [
+      "14.5018381",
+      "14.5047008",
+      "121.0494492",
+      "121.0527398"
+    ],
+    "lat": "14.5045236",
+    "lon": "121.0526245",
+    "display_name": "Cucumber, Western Bicutan, Taguig, Metro Manila, 1633, Philippines",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "101653763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "162336420",
+    "boundingbox": [
+      "14.5011872",
+      "14.504809",
+      "121.0370001",
+      "121.0449264"
+    ],
+    "lat": "14.5032691",
+    "lon": "121.0422637",
+    "display_name": "Cucumber, Western Bicutan, Taguig, Metro Manila, 1713, Philippines",
+    "class": "highway",
+    "type": "secondary",
+    "importance": 0.2
+  },
+  {
+    "place_id": "44637264",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3168119790",
+    "boundingbox": [
+      "12.9241696",
+      "12.9242696",
+      "100.8780418",
+      "100.8781418"
+    ],
+    "lat": "12.9242196",
+    "lon": "100.8780918",
+    "display_name": "Cucumber, \u0e1e\u0e31\u0e17\u0e22\u0e32\u0e43\u0e15\u0e49, \u0e1e\u0e31\u0e17\u0e22\u0e32, \u0e08\u0e31\u0e07\u0e2b\u0e27\u0e31\u0e14\u0e0a\u0e25\u0e1a\u0e38\u0e23\u0e35, 20260, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "2646152487",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4547815944",
+    "boundingbox": [
+      "10.3425275",
+      "10.3426275",
+      "107.0764694",
+      "107.0765694"
+    ],
+    "lat": "10.3425775",
+    "lon": "107.0765194",
+    "display_name": "Cucumber, Nguy\u1ec5n Tr\u00e3i, X\u00f3m L\u01b0\u1edbi, Th\u00e0nh ph\u1ed1 V\u0169ng T\u00e0u, T\u1ec9nh B\u00e0 R\u1ecba \u2013 V\u0169ng T\u00e0u, 79000, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  }
+]

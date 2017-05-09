@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160253479",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "63512",
+    "boundingbox": [
+      "42.9222206",
+      "47.4598397",
+      "-71.0841693",
+      "-66.8854161"
+    ],
+    "lat": "45.709097",
+    "lon": "-68.85902",
+    "display_name": "Maine, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6960117209556,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160972822",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6041206",
+    "boundingbox": [
+      "54.0539576",
+      "54.4178705",
+      "-4.7946844",
+      "-4.3076852"
+    ],
+    "lat": "54.2358167",
+    "lon": "-4.51459864569825",
+    "display_name": "Isle of Man, Braddan, Middle, Isle of Man",
+    "class": "place",
+    "type": "island",
+    "importance": 0.61011383802528
+  },
+  {
+    "place_id": "160255316",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62269",
+    "boundingbox": [
+      "53.845",
+      "54.5534288",
+      "-5.1707284",
+      "-3.965406"
+    ],
+    "lat": "54.1936805",
+    "lon": "-4.5591147",
+    "display_name": "Isle of Man",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.61011383802528,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160349391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "412876",
+    "boundingbox": [
+      "49.6669237",
+      "50.1649059",
+      "8.2889983",
+      "11.3978061"
+    ],
+    "lat": "49.9354788",
+    "lon": "9.8058264",
+    "display_name": "Main, Landkreis Main-Spessart, Unterfranken, Bayern, Deutschland, Europe",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.54729541000297
+  },
+  {
+    "place_id": "14648764",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1308641601",
+    "boundingbox": [
+      "-1.2542331",
+      "-1.2142331",
+      "132.0916109",
+      "132.1316109"
+    ],
+    "lat": "-1.2342331",
+    "lon": "132.1116109",
+    "display_name": "Men, Papua Barat, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "74498563",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37872021",
+    "boundingbox": [
+      "44.4969315",
+      "44.5077438",
+      "3.5240187",
+      "3.5405725"
+    ],
+    "lat": "44.50240255",
+    "lon": "3.5310549950404",
+    "display_name": "Mende Brenoux, D 225, Mende, Loz\u00e8re, Occitanie, 48000, France",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.36392466723397,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "13559799",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1243761977",
+    "boundingbox": [
+      "41.3371322",
+      "41.3571322",
+      "-2.7674503",
+      "-2.7474503"
+    ],
+    "lat": "41.3471322",
+    "lon": "-2.7574503",
+    "display_name": "El Men, Rello, Comarca de Berlanga, Soria, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "102946140",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166918352",
+    "boundingbox": [
+      "50.0881595",
+      "50.0882017",
+      "8.5963682",
+      "8.6014295"
+    ],
+    "lat": "50.0881882",
+    "lon": "8.5995532",
+    "display_name": "Main, Frankfurt, Regierungsbezirk Darmstadt, Hessen, Deutschland",
+    "class": "waterway",
+    "type": "canal",
+    "importance": 0.325
+  },
+  {
+    "place_id": "102963663",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166960793",
+    "boundingbox": [
+      "49.6771295",
+      "49.6807298",
+      "10.0349636",
+      "10.0391147"
+    ],
+    "lat": "49.6784265",
+    "lon": "10.037026",
+    "display_name": "Main, Ochsenfurt, Landkreis W\u00fcrzburg, Unterfranken, Bayern, Deutschland",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.325
+  },
+  {
+    "place_id": "23334336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2311371301",
+    "boundingbox": [
+      "36.836152",
+      "36.876152",
+      "38.846093",
+      "38.886093"
+    ],
+    "lat": "36.856152",
+    "lon": "38.866093",
+    "display_name": "Haktan\u0131r, Ak\u00e7akale, \u015eanl\u0131urfa, G\u00fcneydo\u011fu Anadolu B\u00f6lgesi, T\u00fcrkiye",
+    "class": "place",
+    "type": "village",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

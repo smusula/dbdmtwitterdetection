@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "84905738",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "95200459",
+    "boundingbox": [
+      "8.3960452",
+      "8.4005014",
+      "39.39296",
+      "39.3974981"
+    ],
+    "lat": "8.39787",
+    "lon": "39.39433",
+    "display_name": "[Hiking], Sodere, East Shewa, Oromia, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "964387",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "291732682",
+    "boundingbox": [
+      "65.1630314",
+      "65.1631314",
+      "-14.2685746",
+      "-14.2684746"
+    ],
+    "lat": "65.1630814",
+    "lon": "-14.2685246",
+    "display_name": "Hiking, 953, Fjar\u00f0abygg\u00f0, Austurland, \u00cdsland",
+    "class": "tourism",
+    "type": "information",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_information.p.20.png"
+  },
+  {
+    "place_id": "124932927",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "257482413",
+    "boundingbox": [
+      "47.0265397",
+      "47.0382721",
+      "10.9771893",
+      "10.9859612"
+    ],
+    "lat": "47.0339431",
+    "lon": "10.9820042",
+    "display_name": "Steig  \u00dcber dem Egg, L\u00e4ngenfeld, Imst, Tirol, 6444, \u00d6sterreich",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.075
+  }
+]

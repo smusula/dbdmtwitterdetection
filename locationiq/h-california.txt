@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160284811",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "165475",
+    "boundingbox": [
+      "32.5295236",
+      "42.009499",
+      "-124.4820029",
+      "-114.1307815"
+    ],
+    "lat": "36.7014631",
+    "lon": "-118.7559973",
+    "display_name": "California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.944818372042,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292393",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "187252",
+    "boundingbox": [
+      "40.025874",
+      "40.105745",
+      "-79.9471259",
+      "-79.8792677"
+    ],
+    "lat": "40.0657724",
+    "lon": "-79.8918435",
+    "display_name": "California, Washington County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45113932557876,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160277290",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "141178",
+    "boundingbox": [
+      "38.616032",
+      "38.645932",
+      "-92.5954749",
+      "-92.5243319"
+    ],
+    "lat": "38.6275421",
+    "lon": "-92.566517",
+    "display_name": "California, Moniteau County, Missouri, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.44630273065884,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160561360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2713321",
+    "boundingbox": [
+      "25.2021621",
+      "25.2040107",
+      "55.1423961",
+      "55.1452883"
+    ],
+    "lat": "25.2029945",
+    "lon": "55.143762173053",
+    "display_name": "California, Dubai, \u062f\u0628\u064a\u200e, \u0627\u0644\u0625\u0645\u0627\u0631\u0627\u062a \u0627\u0644\u0639\u0631\u0628\u064a\u0651\u0629 \u0627\u0644\u0645\u062a\u0651\u062d\u062f\u0629",
+    "class": "place",
+    "type": "island",
+    "importance": 0.425
+  },
+  {
+    "place_id": "160304299",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "297709",
+    "boundingbox": [
+      "-23.7169999",
+      "-23.6149999",
+      "-51.4349999",
+      "-51.2379999"
+    ],
+    "lat": "-23.6672542",
+    "lon": "-51.3554555",
+    "display_name": "Calif\u00f3rnia, Microrregi\u00e3o Apucarana, Mesorregi\u00e3o Norte Central Paranaense, PR, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.40978559908338,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160833861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5246018",
+    "boundingbox": [
+      "-31.4527019",
+      "-31.4502134",
+      "-64.2086805",
+      "-64.2021446"
+    ],
+    "lat": "-31.451096",
+    "lon": "-64.205523",
+    "display_name": "California, C\u00f3rdoba, Departamento Capital, Cba., Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "152572924",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "404265735",
+    "boundingbox": [
+      "10.9440447",
+      "10.9482526",
+      "-74.8279878",
+      "-74.8247323"
+    ],
+    "lat": "10.94592975",
+    "lon": "-74.8261348940972",
+    "display_name": "California, Barranquilla, Atl\u00e1ntico, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160971906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6059765",
+    "boundingbox": [
+      "10.9440447",
+      "10.9482526",
+      "-74.8279878",
+      "-74.8247323"
+    ],
+    "lat": "10.94592975",
+    "lon": "-74.8261348940972",
+    "display_name": "California, Barranquilla, Atl\u00e1ntico, Colombia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "412723",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153926404",
+    "boundingbox": [
+      "39.0452059",
+      "39.0852059",
+      "-84.4472385",
+      "-84.4072385"
+    ],
+    "lat": "39.0652059",
+    "lon": "-84.4272385",
+    "display_name": "California, Cincinnati, Hamilton County, Ohio, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.3898123467551,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "471849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158384239",
+    "boundingbox": [
+      "38.2804029",
+      "38.3204029",
+      "-76.5274541",
+      "-76.4874541"
+    ],
+    "lat": "38.3004029",
+    "lon": "-76.5074541",
+    "display_name": "California, Saint Mary's County, Maryland, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.3870721613232,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

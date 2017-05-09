@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "52896391",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3996483880",
+    "boundingbox": [
+      "49.2681629",
+      "49.2682629",
+      "-123.1498771",
+      "-123.1497771"
+    ],
+    "lat": "49.2682129",
+    "lon": "-123.1498271",
+    "display_name": "Adventures, 1965, West 4th Avenue, Kitsilano, Vancouver, Greater Vancouver Regional District, British Columbia, V6J, Canada",
+    "class": "office",
+    "type": "travel_agent",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111791842",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203572051",
+    "boundingbox": [
+      "39.6550023",
+      "39.65601",
+      "66.9469767",
+      "66.9485672"
+    ],
+    "lat": "39.65549275",
+    "lon": "66.9475576397159",
+    "display_name": "Adventures, Lutfiy ko'chasi, Samarqand, Samarqand Tumani, Samarqand Viloyati, 140100, O\u02bbzbekiston",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "2652342036",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "462439653",
+    "boundingbox": [
+      "33.4880335",
+      "33.4888048",
+      "-101.885751",
+      "-101.8854774"
+    ],
+    "lat": "33.488462",
+    "lon": "-101.8856142",
+    "display_name": "Adventures, Indiana Avenue, Hatton Place, Lubbock, Lubbock County, Texas, 79413, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "41857477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3046624136",
+    "boundingbox": [
+      "47.5127112",
+      "47.5128112",
+      "-92.5613242",
+      "-92.5612242"
+    ],
+    "lat": "47.5127612",
+    "lon": "-92.5612742",
+    "display_name": "Adventures, Mountain Iron Drive, Mountain Iron, Saint Louis County, Minnesota, 55792, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "446911",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154288670",
+    "boundingbox": [
+      "28.16779",
+      "28.20779",
+      "-82.7595453",
+      "-82.7195453"
+    ],
+    "lat": "28.18779",
+    "lon": "-82.7395453",
+    "display_name": "Holiday, Pasco County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.39741955987991,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72848933",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33612641",
+    "boundingbox": [
+      "28.1727547",
+      "28.202772",
+      "-82.7734019",
+      "-82.7116869"
+    ],
+    "lat": "28.187755",
+    "lon": "-82.7416079707393",
+    "display_name": "Holiday, Pasco County, Florida, United States of America",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.39741955987991,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4555973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "488152837",
+    "boundingbox": [
+      "43.117996",
+      "43.137996",
+      "-80.9801461",
+      "-80.9601461"
+    ],
+    "lat": "43.127996",
+    "lon": "-80.9701461",
+    "display_name": "Holiday, Woodstock, Oxford County, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2655065648",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "482373747",
+    "boundingbox": [
+      "33.0933834",
+      "33.0970799",
+      "-97.0499277",
+      "-97.0398499"
+    ],
+    "lat": "33.09524965",
+    "lon": "-97.0484870499101",
+    "display_name": "Holiday, Highland Village, Denton County, Texas, 75077, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "118739077",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "231387112",
+    "boundingbox": [
+      "31.5044137",
+      "31.5097464",
+      "-110.2569786",
+      "-110.2493984"
+    ],
+    "lat": "31.5070079",
+    "lon": "-110.253742407864",
+    "display_name": "Holiday, Sierra Vista, Cochise County, Arizona, 85650, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "67466794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20906134",
+    "boundingbox": [
+      "29.463458",
+      "29.464987",
+      "-94.6083569",
+      "-94.6046869"
+    ],
+    "lat": "29.464199",
+    "lon": "-94.6065169",
+    "display_name": "Holiday, Bolivar Peninsula, Galveston County, Texas, 77650, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60539692",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10051985",
+    "boundingbox": [
+      "32.867074",
+      "32.867593",
+      "-97.1296399",
+      "-97.1296339"
+    ],
+    "lat": "32.867074",
+    "lon": "-97.1296399",
+    "display_name": "Holiday, Colleyville, Tarrant County, Texas, 76034, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67923308",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21867433",
+    "boundingbox": [
+      "42.345468",
+      "42.345803",
+      "-88.0713289",
+      "-88.0713239"
+    ],
+    "lat": "42.345803",
+    "lon": "-88.0713239",
+    "display_name": "Holiday, Hainesville, Lake County, Illinois, 60030, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65230071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "17795059",
+    "boundingbox": [
+      "43.370614",
+      "43.370622",
+      "-84.6650749",
+      "-84.6622009"
+    ],
+    "lat": "43.370614",
+    "lon": "-84.6622009",
+    "display_name": "Holiday, Alma, Gratiot County, Michigan, 48801, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65699747",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18487734",
+    "boundingbox": [
+      "38.251537",
+      "38.252334",
+      "-93.7803889",
+      "-93.7799959"
+    ],
+    "lat": "38.251947",
+    "lon": "-93.7800749",
+    "display_name": "Holiday, Deepwater, Henry County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

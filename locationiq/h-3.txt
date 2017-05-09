@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "76377810",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "45332354",
+    "boundingbox": [
+      "35.6645444",
+      "35.6655875",
+      "139.7347503",
+      "139.7368078"
+    ],
+    "lat": "35.6650822",
+    "lon": "139.7358308",
+    "display_name": "\u9996\u90fd\u9ad8\u901f3\u53f7\u6e0b\u8c37\u7dda, \u5357\u9752\u5c716, \u6e2f\u533a, \u6771\u4eac\u90fd, 106-0032, \u65e5\u672c",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.58741134402285
+  },
+  {
+    "place_id": "160482416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1991416",
+    "boundingbox": [
+      "48.1753757",
+      "48.2131825",
+      "16.3750528",
+      "16.4310992"
+    ],
+    "lat": "48.19364355",
+    "lon": "16.3962863913571",
+    "display_name": "Landstra\u00dfe, Wien, 1030, \u00d6sterreich",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5550274390303,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160803980",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4730909",
+    "boundingbox": [
+      "32.60056",
+      "34.88753",
+      "-5.8831089",
+      "-2.8989999"
+    ],
+    "lat": "33.8333136",
+    "lon": "-4.8556381",
+    "display_name": "F\u00e8s-Mekn\u00e8s \u2d3c\u2d30\u2d59-\u2d4e\u2d3d\u2d4f\u2d30\u2d59 \u0641\u0627\u0633-\u0645\u0643\u0646\u0627\u0633, \u2d4d\u2d4e\u2d56\u2d54\u2d49\u2d31 \u0627\u0644\u0645\u063a\u0631\u0628",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160586298",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2804758",
+    "boundingbox": [
+      "42.545847",
+      "42.6559357",
+      "1.4680186",
+      "1.6074521"
+    ],
+    "lat": "42.600955",
+    "lon": "1.52983878624568",
+    "display_name": "Ordino, AD300, Andorra",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5272353055406,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "92083597",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "122303910",
+    "boundingbox": [
+      "25.0967372",
+      "25.0998649",
+      "121.6677558",
+      "121.6762444"
+    ],
+    "lat": "25.0986528",
+    "lon": "121.6720114",
+    "display_name": "\u798f\u723e\u6469\u6c99\u9ad8\u901f\u516c\u8def, \u53cb\u4e00\u91cc, \u9d1b\u9d26\u6f6d, \u4e03\u5835\u5340, \u57fa\u9686\u5e02, 22173, \u81fa\u7063",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.51199628916409
+  },
+  {
+    "place_id": "80377313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67696270",
+    "boundingbox": [
+      "25.0998649",
+      "25.1026093",
+      "121.6762444",
+      "121.6806851"
+    ],
+    "lat": "25.100978",
+    "lon": "121.6785946",
+    "display_name": "\u4e03\u5835\u96a7\u9053, \u5835\u5317\u91cc, \u8208\u5316\u4e09\u5751, \u4e03\u5835\u5340, \u57fa\u9686\u5e02, 22173, \u81fa\u7063",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.51199628916409
+  },
+  {
+    "place_id": "160716350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3765489",
+    "boundingbox": [
+      "41.3200041",
+      "41.3854382",
+      "2.1008268",
+      "2.1807766"
+    ],
+    "lat": "41.35098635",
+    "lon": "2.15256363281901",
+    "display_name": "Sants-Montju\u00efc, Barcelona, BCN, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42860758955174,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "80370281",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67696292",
+    "boundingbox": [
+      "25.1365814",
+      "25.1367471",
+      "121.7083695",
+      "121.708879"
+    ],
+    "lat": "25.1366797",
+    "lon": "121.7086717",
+    "display_name": "\u798f\u723e\u6469\u6c99\u9ad8\u901f\u516c\u8def, \u5916\u5bee\u91cc, \u5916\u5bee, \u5b89\u6a02\u5340, \u57fa\u9686\u5e02, 204, \u81fa\u7063",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.41199628916409
+  },
+  {
+    "place_id": "80377303",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67696258",
+    "boundingbox": [
+      "25.0900647",
+      "25.0918122",
+      "121.6543142",
+      "121.6600818"
+    ],
+    "lat": "25.0910149",
+    "lon": "121.6571327",
+    "display_name": "\u6c50\u6b62\u96a7\u9053, \u9109\u9577\u91cc, \u57e4\u5167, \u6c50\u6b62\u5340, \u65b0\u5317\u5e02, 22168, \u81fa\u7063",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.41199628916409
+  },
+  {
+    "place_id": "80370277",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "67696238",
+    "boundingbox": [
+      "25.1260016",
+      "25.1275419",
+      "121.6978011",
+      "121.697987"
+    ],
+    "lat": "25.1265735",
+    "lon": "121.6978862",
+    "display_name": "\u798f\u723e\u6469\u6c99\u9ad8\u901f\u516c\u8def, \u746a\u6771\u91cc, \u4e0a\u80a1, \u4e03\u5835\u5340, \u57fa\u9686\u5e02, 204, \u81fa\u7063",
+    "class": "highway",
+    "type": "motorway",
+    "importance": 0.41199628916409
+  }
+]

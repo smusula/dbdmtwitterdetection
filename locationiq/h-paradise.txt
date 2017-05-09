@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160286020",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "170053",
+    "boundingbox": [
+      "35.9846009",
+      "36.137126",
+      "-115.2081619",
+      "-115.0593252"
+    ],
+    "lat": "36.1150858",
+    "lon": "-115.1734141",
+    "display_name": "Paradise, Clark County, Nevada, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54219075512388,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160721724",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3983857",
+    "boundingbox": [
+      "39.725361",
+      "39.801543",
+      "-121.6556519",
+      "-121.5644519"
+    ],
+    "lat": "39.7596061",
+    "lon": "-121.6219176",
+    "display_name": "Paradise, Butte County, California, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49107154876044,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292793",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "189198",
+    "boundingbox": [
+      "39.9945748",
+      "40.015638",
+      "-76.1415449",
+      "-76.1107059"
+    ],
+    "lat": "40.0098226",
+    "lon": "-76.1285654",
+    "display_name": "Paradise, Lancaster County, Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43810656006742,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "344307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150961550",
+    "boundingbox": [
+      "46.766378",
+      "46.806378",
+      "-121.7556442",
+      "-121.7156442"
+    ],
+    "lat": "46.786378",
+    "lon": "-121.7356442",
+    "display_name": "Paradise, Pierce County, Washington, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.42247097762006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2806438",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "356679469",
+    "boundingbox": [
+      "37.5315951",
+      "37.5316951",
+      "-113.4258386",
+      "-113.4257386"
+    ],
+    "lat": "37.5316451",
+    "lon": "-113.4257886",
+    "display_name": "Paradise, Iron County, Utah, United States of America",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "160453471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1557771",
+    "boundingbox": [
+      "47.5023312",
+      "47.5841027",
+      "-52.9244902",
+      "-52.8215749"
+    ],
+    "lat": "47.5255933",
+    "lon": "-52.8724144",
+    "display_name": "Paradise, Newfoundland and Labrador, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38891132353959,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1287926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "302129404",
+    "boundingbox": [
+      "51.7836824",
+      "51.8236824",
+      "-2.208269",
+      "-2.168269"
+    ],
+    "lat": "51.8036824",
+    "lon": "-2.188269",
+    "display_name": "Paradise, Gloucestershire, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158606364",
+    "boundingbox": [
+      "40.5489786",
+      "40.5889786",
+      "-76.4010664",
+      "-76.3610664"
+    ],
+    "lat": "40.5689786",
+    "lon": "-76.3810664",
+    "display_name": "Paradise, Schuylkill County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "415130",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153862937",
+    "boundingbox": [
+      "40.9537778",
+      "40.9937778",
+      "-80.727301",
+      "-80.687301"
+    ],
+    "lat": "40.9737778",
+    "lon": "-80.707301",
+    "display_name": "Paradise, Mahoning County, Ohio, United States of America",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "498527",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158876309",
+    "boundingbox": [
+      "41.4767593",
+      "41.5167593",
+      "-74.6646058",
+      "-74.6246058"
+    ],
+    "lat": "41.4967593",
+    "lon": "-74.6446058",
+    "display_name": "Paradise, Town of Deerpark, Orange County, New York, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "2608754152",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "449588897",
+    "boundingbox": [
+      "49.8820306",
+      "49.8897877",
+      "-119.5800881",
+      "-119.5682039"
+    ],
+    "lat": "49.88368",
+    "lon": "-119.5720049",
+    "display_name": "RSVP, Rose Valley, West Kelowna, Regional District of Central Okanagan, British Columbia, Canada",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "19341626",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1883462420",
+    "boundingbox": [
+      "40.7232868",
+      "40.7233868",
+      "-74.0038704",
+      "-74.0037704"
+    ],
+    "lat": "40.7233368",
+    "lon": "-74.0038204",
+    "display_name": "RSVP, 15, Watts Street, Greenwich Village, Manhattan, New York County, NYC, New York, 10013, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "28445555",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2642199824",
+    "boundingbox": [
+      "51.3397505",
+      "51.3398505",
+      "-0.7454034",
+      "-0.7453034"
+    ],
+    "lat": "51.3398005",
+    "lon": "-0.7453534",
+    "display_name": "RSVP, High Street, Heatherside, Surrey Heath, Surrey, South East, England, GU15 3LG, UK",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "14415242",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1294246028",
+    "boundingbox": [
+      "52.473174",
+      "52.473274",
+      "-1.8954466",
+      "-1.8953466"
+    ],
+    "lat": "52.473224",
+    "lon": "-1.8953966",
+    "display_name": "RSVP, Claybrook Street, Digbeth, Attwood Green, West Midlands Combined Authority, West Midlands, England, B5 4RU, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "56394639",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4384607091",
+    "boundingbox": [
+      "-30.3453725",
+      "-30.3452725",
+      "153.0719268",
+      "153.0720268"
+    ],
+    "lat": "-30.3453225",
+    "lon": "153.0719768",
+    "display_name": "RSVP, Avonleigh Drive, Boambee East, Coffs Harbour, NSW, 2452, Australia",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  }
+]

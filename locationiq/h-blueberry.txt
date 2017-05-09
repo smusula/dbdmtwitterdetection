@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "387178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151957940",
+    "boundingbox": [
+      "46.5602179",
+      "46.6002179",
+      "-91.6887992",
+      "-91.6487992"
+    ],
+    "lat": "46.5802179",
+    "lon": "-91.6687992",
+    "display_name": "Blueberry, Town of Maple, Douglas County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653592632",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "25921867",
+    "boundingbox": [
+      "51.5736934",
+      "51.5748074",
+      "8.7231591",
+      "8.7254858"
+    ],
+    "lat": "51.57438405",
+    "lon": "8.7244784247047",
+    "display_name": "blueberry, Haaren, Bad W\u00fcnnenberg, Kreis Paderborn, Regierungsbezirk Detmold, Nordrhein-Westfalen, 33181, Deutschland",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.31
+  },
+  {
+    "place_id": "60960966",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10468246",
+    "boundingbox": [
+      "39.188882",
+      "39.1917572",
+      "-121.0062475",
+      "-121.0048449"
+    ],
+    "lat": "39.190278",
+    "lon": "-121.0057259",
+    "display_name": "Blueberry, Peardale, Nevada County, California, 95945, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71226144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29084536",
+    "boundingbox": [
+      "14.5352198",
+      "14.5406745",
+      "121.0566149",
+      "121.0606503"
+    ],
+    "lat": "14.5377678",
+    "lon": "121.0585927",
+    "display_name": "Blueberry, Rizal, Makati, District II, Makati, Metro Manila, 1208, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64010245",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "15355396",
+    "boundingbox": [
+      "30.562637",
+      "30.562915",
+      "-98.4104019",
+      "-98.4092039"
+    ],
+    "lat": "30.562776",
+    "lon": "-98.4098669",
+    "display_name": "Blueberry, Llano County, Texas, 78657, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "67245866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "20918648",
+    "boundingbox": [
+      "33.500157",
+      "33.5006021",
+      "-96.6243585",
+      "-96.6240554"
+    ],
+    "lat": "33.5002979",
+    "lon": "-96.6242646",
+    "display_name": "Blueberry, Howe, Grayson County, Texas, 75459, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65981323",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18504280",
+    "boundingbox": [
+      "37.047824",
+      "37.049212",
+      "-91.7144019",
+      "-91.7138829"
+    ],
+    "lat": "37.048378",
+    "lon": "-91.7140809",
+    "display_name": "Blueberry, Turnerville, Howell County, Missouri, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "58040345",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "6273216",
+    "boundingbox": [
+      "32.032145",
+      "32.036529",
+      "-88.1745279",
+      "-88.1688779"
+    ],
+    "lat": "32.035888",
+    "lon": "-88.1703519",
+    "display_name": "Blueberry, Morgan Chapel, Choctaw County, Alabama, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61595912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11392384",
+    "boundingbox": [
+      "43.598634",
+      "43.599051",
+      "-70.2820299",
+      "-70.2805219"
+    ],
+    "lat": "43.59905",
+    "lon": "-70.2813279",
+    "display_name": "Blueberry, South Portland, Cumberland County, Maine, 04106, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61372892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11604709",
+    "boundingbox": [
+      "39.107191",
+      "39.107834",
+      "-74.8025949",
+      "-74.8022249"
+    ],
+    "lat": "39.107191",
+    "lon": "-74.8025949",
+    "display_name": "Blueberry, Middle Township, Cape May County, New Jersey, 08204, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

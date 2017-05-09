@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "23082521",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2292145630",
+    "boundingbox": [
+      "-26.149724",
+      "-26.109724",
+      "27.831114",
+      "27.871114"
+    ],
+    "lat": "-26.129724",
+    "lon": "27.851114",
+    "display_name": "Princess, Roodepoort, City of Johannesburg Metropolitan Municipality, Gauteng, South Africa",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "433723",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154047799",
+    "boundingbox": [
+      "38.3675819",
+      "38.4075819",
+      "-82.7657187",
+      "-82.7257187"
+    ],
+    "lat": "38.3875819",
+    "lon": "-82.7457187",
+    "display_name": "Princess, Boyd County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.33263829078643,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "111785872",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "203483946",
+    "boundingbox": [
+      "45.4899626",
+      "45.490727",
+      "-73.492961",
+      "-73.4918567"
+    ],
+    "lat": "45.4899626",
+    "lon": "-73.492961",
+    "display_name": "Princess, Greenfield Park, Longueuil, Longueuil (agglomeration), Qu\u00e9bec, J4V 1T9, Canada",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "68078377",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "22082491",
+    "boundingbox": [
+      "41.4717053",
+      "41.4717173",
+      "-87.9980546",
+      "-87.9974591"
+    ],
+    "lat": "41.4717173",
+    "lon": "-87.9974591",
+    "display_name": "Princess, New Lenox, Will County, Illinois, 60433, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61132296",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "11224416",
+    "boundingbox": [
+      "28.3767196",
+      "28.3767276",
+      "-82.6524298",
+      "-82.6500954"
+    ],
+    "lat": "28.3767196",
+    "lon": "-82.6511063",
+    "display_name": "Princess, Hudson, Pasco County, Florida, 34667, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59727199",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "8691970",
+    "boundingbox": [
+      "42.63691",
+      "42.637077",
+      "-82.8510439",
+      "-82.8472049"
+    ],
+    "lat": "42.637055",
+    "lon": "-82.8491089",
+    "display_name": "Princess, Chesterfield Township, Macomb County, Michigan, 48051, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "61805120",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "12268476",
+    "boundingbox": [
+      "38.7740971",
+      "38.7755886",
+      "-90.8649588",
+      "-90.8639352"
+    ],
+    "lat": "38.7748117",
+    "lon": "-90.8641357",
+    "display_name": "Princess, St. Charles County, Missouri, 63385, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "80859654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "71443573",
+    "boundingbox": [
+      "-28.5665176",
+      "-28.5636363",
+      "29.7764015",
+      "29.7811988"
+    ],
+    "lat": "-28.5654044",
+    "lon": "29.7792781",
+    "display_name": "Princess, Emnambithi/Ladysmith Ward 12, Emnambithi/Ladysmith Local Municipality, Uthukela District Municipality, KwaZulu-Natal, South Africa",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2654055382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4732861315",
+    "boundingbox": [
+      "1.3016974",
+      "1.3017974",
+      "103.858772",
+      "103.858872"
+    ],
+    "lat": "1.3017474",
+    "lon": "103.858822",
+    "display_name": "Princess, 96, Arab Street, Clarke Quay, Beach Road, Singapore, Central Singapore Community Development Council, 199135, Singapore",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "54073394",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4139794593",
+    "boundingbox": [
+      "47.4931897",
+      "47.4932897",
+      "19.0558525",
+      "19.0559525"
+    ],
+    "lat": "47.4932397",
+    "lon": "19.0559025",
+    "display_name": "Princess, Ferenciek tere, alulj\u00e1r\u00f3, Belv\u00e1ros, 5. ker\u00fclet, Budapest, K\u00f6z\u00e9p-Magyarorsz\u00e1g, 1053, Magyarorsz\u00e1g",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  }
+]

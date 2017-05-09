@@ -1,0 +1,38 @@
+[
+  {
+    "place_id": "70396528",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "27258670",
+    "boundingbox": [
+      "14.4570715",
+      "14.459547",
+      "120.9544712",
+      "120.9548581"
+    ],
+    "lat": "14.4582171",
+    "lon": "120.9545745",
+    "display_name": "Thursday, St. Joseph Village, Espiritu 2, Bacoor, Cavite, Calabarzon, 4102, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "84134783",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "91662199",
+    "boundingbox": [
+      "14.3423146",
+      "14.3437217",
+      "121.0620349",
+      "121.0630998"
+    ],
+    "lat": "14.3432332",
+    "lon": "121.0628342",
+    "display_name": "Thursday, Phase 7B, Pacita I, San Pedro, Laguna, Calabarzon, 4023, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

@@ -1,0 +1,57 @@
+[
+  {
+    "place_id": "3705402",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "392184130",
+    "boundingbox": [
+      "51.5723492",
+      "51.5724492",
+      "-0.3544936",
+      "-0.3543936"
+    ],
+    "lat": "51.5723992",
+    "lon": "-0.3544436",
+    "display_name": "Found, 9, Shaftesbury Circle, South Harrow, London Borough of Harrow, London, Greater London, England, HA2 0AJ, UK",
+    "class": "shop",
+    "type": "charity",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23184902",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2295226320",
+    "boundingbox": [
+      "42.0471641",
+      "42.0472641",
+      "-87.6789467",
+      "-87.6788467"
+    ],
+    "lat": "42.0472141",
+    "lon": "-87.6788967",
+    "display_name": "Found, 1631, Chicago Avenue, Downtown, Evanston, Cook County, Illinois, 60201, United States of America",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "2651929854",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4683090400",
+    "boundingbox": [
+      "51.3830071",
+      "51.3831071",
+      "-2.3576113",
+      "-2.3575113"
+    ],
+    "lat": "51.3830571",
+    "lon": "-2.3575613",
+    "display_name": "Found, 17, Argyle Street, Widcombe, City of Bath, Bath and North East Somerset, South West England, England, BA2 4BQ, UK",
+    "class": "shop",
+    "type": "boutique",
+    "importance": 0.101
+  }
+]

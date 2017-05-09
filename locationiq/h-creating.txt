@@ -1,0 +1,76 @@
+[
+  {
+    "place_id": "153376185",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "409210096",
+    "boundingbox": [
+      "38.8396136",
+      "38.8405895",
+      "139.8974549",
+      "139.8983761"
+    ],
+    "lat": "38.8401123",
+    "lon": "139.897900403201",
+    "display_name": "\u5e84\u5185\u753a\u6587\u5316\u5275\u9020\u9928\u300c\u97ff\u30db\u30fc\u30eb\u300d, \u4f59\u76ee\u52a0\u8302\u7dda, \u5e84\u5185\u753a, \u6771\u7530\u5ddd\u90e1, \u5c71\u5f62\u770c, 999-7781, \u65e5\u672c",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.13061965013967,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "52145309",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3929290121",
+    "boundingbox": [
+      "48.1588842",
+      "48.1589842",
+      "11.5643766",
+      "11.5644766"
+    ],
+    "lat": "48.1589342",
+    "lon": "11.5644266",
+    "display_name": "Creating Sustainability e. V., 37, Zentnerstra\u00dfe, Neuschwabing, Bezirksteil Neuschwabing, Stadtbezirk 04 Schwabing-West, M\u00fcnchen, OB, Bayern, 80798, Deutschland",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "17748259",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1707668594",
+    "boundingbox": [
+      "-32.9639582",
+      "-32.9638582",
+      "151.622906",
+      "151.623006"
+    ],
+    "lat": "-32.9639082",
+    "lon": "151.622956",
+    "display_name": "Creating Waves Hair Salon, Main Road, Boolaroo, Newcastle, Newcastle-Maitland, Lake Macquarie, NSW, 2284, Australia",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "3387007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "367823136",
+    "boundingbox": [
+      "25.7043944",
+      "25.7044944",
+      "-80.3822721",
+      "-80.3821721"
+    ],
+    "lat": "25.7044444",
+    "lon": "-80.3822221",
+    "display_name": "Creating and Growing Child Development Center, Southwest 117th Avenue, Kendall, Miami-Dade County, Florida, 33173, United States of America",
+    "class": "amenity",
+    "type": "kindergarten",
+    "importance": 0.101
+  }
+]

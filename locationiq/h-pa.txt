@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160317273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "287668",
+    "boundingbox": [
+      "7.0338679",
+      "9.8701757",
+      "-83.0517244",
+      "-77.1393778"
+    ],
+    "lat": "8.3096067",
+    "lon": "-81.3066245",
+    "display_name": "Panam\u00e1",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.82416204145396,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160283905",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "162109",
+    "boundingbox": [
+      "39.7197662",
+      "42.5146891",
+      "-80.5210832",
+      "-74.6895019"
+    ],
+    "lat": "40.9699889",
+    "lon": "-77.727883",
+    "display_name": "Pennsylvania, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.78569624202177,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160292067",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "185579",
+    "boundingbox": [
+      "-9.8390247",
+      "2.5909298",
+      "-58.8969999",
+      "-45.9437936"
+    ],
+    "lat": "-4.7493932",
+    "lon": "-52.8973005",
+    "display_name": "PA, Regi\u00e3o Norte, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71461201696645,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160772283",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4521144",
+    "boundingbox": [
+      "-9.3833332",
+      "1.1369057",
+      "133.5217666",
+      "141.0194444"
+    ],
+    "lat": "-3.9885727",
+    "lon": "138.3485219",
+    "display_name": "Papua, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.6695769483306,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160350856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "442460",
+    "boundingbox": [
+      "49.572126",
+      "50.207575",
+      "15.3628116",
+      "16.8673931"
+    ],
+    "lat": "49.88981895",
+    "lon": "16.1283253719487",
+    "display_name": "Pardubick\u00fd kraj, Severov\u00fdchod, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55540818436019,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160245633",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "39295",
+    "boundingbox": [
+      "37.5393034",
+      "38.7206781",
+      "12.9287426",
+      "14.2943904"
+    ],
+    "lat": "37.8819551",
+    "lon": "13.6094590353932",
+    "display_name": "PA, SIC, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "71289777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "29209690",
+    "boundingbox": [
+      "42.6469372",
+      "42.6473663",
+      "-71.1326286",
+      "-71.1319383"
+    ],
+    "lat": "42.6471435",
+    "lon": "-71.1322910355567",
+    "display_name": "PA, Salem Street, Andover, Essex County, Massachusetts, 01810, United States of America",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.54455264392427,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "160599718",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2916382",
+    "boundingbox": [
+      "11.48298",
+      "11.6901528",
+      "-3.4210882",
+      "-3.0971269"
+    ],
+    "lat": "11.58656585",
+    "lon": "-3.26667072591842",
+    "display_name": "P\u00e2, Bal\u00e9, Boucle du Mouhoun, Burkina Faso",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46651065523957,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "81092301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "72940814",
+    "boundingbox": [
+      "53.8009619",
+      "53.8363",
+      "-101.2592928",
+      "-101.2014935"
+    ],
+    "lat": "53.8224172",
+    "lon": "-101.2405152",
+    "display_name": "The Pas, Manitoba, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43170884311896,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160263821",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "113869",
+    "boundingbox": [
+      "-2.6089505",
+      "-1.0038332",
+      "-78.1800239",
+      "-75.5849936"
+    ],
+    "lat": "-1.9166669",
+    "lon": "-76.9999999",
+    "display_name": "Pastaza, Ecuador",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42356246868834,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

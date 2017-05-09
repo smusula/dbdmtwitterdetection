@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "160347477",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "405166",
+    "boundingbox": [
+      "59.0452527",
+      "59.4872529",
+      "9.2276426",
+      "9.779706"
+    ],
+    "lat": "59.2663783",
+    "lon": "9.53128188264669",
+    "display_name": "Skien, Telemark, Norge",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "48332334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3535969514",
+    "boundingbox": [
+      "50.552894",
+      "50.552994",
+      "15.177783",
+      "15.177883"
+    ],
+    "lat": "50.552944",
+    "lon": "15.177833",
+    "display_name": "Sk\u00edn, Karlovice, okres Semily, Libereck\u00fd kraj, Severov\u00fdchod, \u010cesko",
+    "class": "natural",
+    "type": "peak",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_peak.p.20.png"
+  },
+  {
+    "place_id": "170573",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "31264139",
+    "boundingbox": [
+      "59.167622",
+      "59.247622",
+      "9.569466",
+      "9.649466"
+    ],
+    "lat": "59.207622",
+    "lon": "9.609466",
+    "display_name": "Skien, Telemark, Norge",
+    "class": "place",
+    "type": "town",
+    "importance": 0.3,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "28242864",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2642895059",
+    "boundingbox": [
+      "51.516905",
+      "51.517005",
+      "-0.0877908",
+      "-0.0876908"
+    ],
+    "lat": "51.516955",
+    "lon": "-0.0877408",
+    "display_name": "skin, 25, Copthall Avenue, City of London, Greater London, England, EC2R 7BN, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.111
+  },
+  {
+    "place_id": "100527949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158287231",
+    "boundingbox": [
+      "57.6951379",
+      "57.6952753",
+      "11.9815534",
+      "11.981813"
+    ],
+    "lat": "57.69520405",
+    "lon": "11.9816600589343",
+    "display_name": "Skin, 2B, Lyckans v\u00e4g, Lorensberg, Centrum, Gbg, G\u00f6teborg, V\u00e4stra G\u00f6talands l\u00e4n, G\u00f6taland, 41132, Sverige",
+    "class": "amenity",
+    "type": "doctors",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/health_doctors.p.20.png"
+  },
+  {
+    "place_id": "2648270987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "464528088",
+    "boundingbox": [
+      "51.5377802",
+      "51.5379185",
+      "-0.1407306",
+      "-0.1404014"
+    ],
+    "lat": "51.53785205",
+    "lon": "-0.140554672495569",
+    "display_name": "Skin, Bayham Street, Somers Town, London Borough of Camden, London, Greater London, England, NW1 0AG, UK",
+    "class": "shop",
+    "type": "vacant",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2651676396",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4677251784",
+    "boundingbox": [
+      "51.543237",
+      "51.543337",
+      "-0.1792848",
+      "-0.1791848"
+    ],
+    "lat": "51.543287",
+    "lon": "-0.1792348",
+    "display_name": "Skin, 41, Fairfax Road, Swiss Cottage, South Hampstead, London Borough of Camden, London, Greater London, England, NW6 3HX, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "138841560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "329050805",
+    "boundingbox": [
+      "51.4538011",
+      "51.4539175",
+      "-2.5962911",
+      "-2.5961354"
+    ],
+    "lat": "51.45385885",
+    "lon": "-2.59620449124846",
+    "display_name": "Skin, Clare Street, Kingsdown, Finzels Reach, Bristol, City of Bristol, South West England, England, BS1 1YG, UK",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  },
+  {
+    "place_id": "99491702",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "153484344",
+    "boundingbox": [
+      "50.9015987",
+      "50.9017103",
+      "-1.4031213",
+      "-1.4029746"
+    ],
+    "lat": "50.90165415",
+    "lon": "-1.40304856868411",
+    "display_name": "Skin, East Street, St Mary's, Southampton, South East, England, SO14 3HB, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2644824196",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4516882353",
+    "boundingbox": [
+      "54.9720353",
+      "54.9721353",
+      "-1.6117556",
+      "-1.6116556"
+    ],
+    "lat": "54.9720853",
+    "lon": "-1.6117056",
+    "display_name": "Skin, Grey Street, Grainger Town, Newcastle upon Tyne, Tyne and Wear, North East England, England, NE1 6ES, UK",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

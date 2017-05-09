@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "70839726",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28296708",
+    "boundingbox": [
+      "14.6732235",
+      "14.6740614",
+      "121.0274965",
+      "121.0275922"
+    ],
+    "lat": "14.6732235",
+    "lon": "121.0274965",
+    "display_name": "Finance, Victoria Village, Bahay Toro, Quezon City, District I, Quezon City, Metro Manila, 1105, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "57574175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "5191745",
+    "boundingbox": [
+      "14.4267135",
+      "14.4268031",
+      "121.0259824",
+      "121.0260007"
+    ],
+    "lat": "14.4268031",
+    "lon": "121.0260007",
+    "display_name": "Finance, Ayala Alabang, Muntinlupa, Metro Manila, 1751, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "72641390",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32975984",
+    "boundingbox": [
+      "14.423385",
+      "14.4267135",
+      "121.0250729",
+      "121.0259824"
+    ],
+    "lat": "14.4251124",
+    "lon": "121.0254665",
+    "display_name": "Finance, Madrigal Business Park, Ayala Alabang, Muntinlupa, Metro Manila, 1751, Philippines",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "74237058",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "38065385",
+    "boundingbox": [
+      "14.4232158",
+      "14.423385",
+      "121.0250095",
+      "121.0250729"
+    ],
+    "lat": "14.4232158",
+    "lon": "121.0250095",
+    "display_name": "Finance, Ayala Alabang, Muntinlupa, Metro Manila, 1751, Philippines",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "60633297",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10212209",
+    "boundingbox": [
+      "14.6266119",
+      "14.6282206",
+      "121.104428",
+      "121.1052127"
+    ],
+    "lat": "14.6272665",
+    "lon": "121.1049114",
+    "display_name": "Finance, St. Gregory Village, Cainta, Rizal, Calabarzon, 1900, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "144610982",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363588184",
+    "boundingbox": [
+      "-15.3905172",
+      "-15.39013",
+      "35.3221446",
+      "35.3225827"
+    ],
+    "lat": "-15.390328",
+    "lon": "35.3223749591164",
+    "display_name": "finance, Namiwawa Road, Zomba, Southern Region, Malawi",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.111
+  },
+  {
+    "place_id": "91523257",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120425325",
+    "boundingbox": [
+      "52.6674489",
+      "52.6675807",
+      "1.2746537",
+      "1.2749032"
+    ],
+    "lat": "52.6675148",
+    "lon": "1.27477843524064",
+    "display_name": "Finance, Delft Way, Mile Cross, Norwich, Norfolk, East of England, England, NR6 6BB, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55449794",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4308319793",
+    "boundingbox": [
+      "13.0684613",
+      "13.0685613",
+      "80.260546",
+      "80.260646"
+    ],
+    "lat": "13.0685113",
+    "lon": "80.260596",
+    "display_name": "VIJAYA BANK & DUGAR FINANCE INDIA LTD, 121, Rukmani Lakshmipathi Road, Egmore, Zone 7 Nungambakkam, Chennai City Corporation Limits, Chennai district, Tamil Nadu, 600008, India",
+    "class": "amenity",
+    "type": "bank",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/money_bank2.p.20.png"
+  },
+  {
+    "place_id": "44798939",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3196247227",
+    "boundingbox": [
+      "26.5525003",
+      "26.5526003",
+      "-81.8899721",
+      "-81.8898721"
+    ],
+    "lat": "26.5525503",
+    "lon": "-81.8899221",
+    "display_name": "Finance, 8099, College Parkway, McGregor, McGregor Park, Lee County, Florida, 33919, United States of America",
+    "class": "office",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "148282409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "380954855",
+    "boundingbox": [
+      "5.1514755",
+      "5.1519369",
+      "10.1661466",
+      "10.1666917"
+    ],
+    "lat": "5.15174695",
+    "lon": "10.1664759074046",
+    "display_name": "Finance, Bafang-Bangangt\u00e9, Bafang, Haut-Nkam, OU, Cameroun",
+    "class": "office",
+    "type": "financial",
+    "importance": 0.101
+  }
+]

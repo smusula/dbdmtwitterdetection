@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "4216885",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "444901329",
+    "boundingbox": [
+      "29.5325287",
+      "29.5326287",
+      "-98.4492442",
+      "-98.4491442"
+    ],
+    "lat": "29.5325787",
+    "lon": "-98.4491942",
+    "display_name": "Motivational Systems, Inc., 10111, Broadway, San Antonio, Bexar County, Texas, 78217, United States of America",
+    "class": "craft",
+    "type": "signmaker",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2525646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "354231962",
+    "boundingbox": [
+      "38.9088867",
+      "38.9089867",
+      "-90.1498807",
+      "-90.1497807"
+    ],
+    "lat": "38.9089367",
+    "lon": "-90.1498307",
+    "display_name": "James Center Motivational Achievement, Amelia Street, Alton, Madison County, Illinois, 62002, United States of America",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  }
+]

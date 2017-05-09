@@ -1,0 +1,183 @@
+[
+  {
+    "place_id": "96189232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138627850",
+    "boundingbox": [
+      "-5.0365509",
+      "-5.036262",
+      "-39.0079645",
+      "-39.0076249"
+    ],
+    "lat": "-5.0364083",
+    "lon": "-39.0077913645417",
+    "display_name": "Takeoff Pragliding Hanggliding Quixada, Barreiro, Quixad\u00e1, Microrregi\u00e3o o Sert\u00e3o de Quixeramobim, Mesorregi\u00e3o dos Sert\u00f5es Cearenses, CE, Regi\u00e3o Nordeste, Brasil",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "96121178",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "138615477",
+    "boundingbox": [
+      "-3.6650367",
+      "-3.6639745",
+      "-40.9607926",
+      "-40.9596414"
+    ],
+    "lat": "-3.6645128",
+    "lon": "-40.9602087792637",
+    "display_name": "Takeoff Paragliding Hanggliding, Tiangu\u00e1, Mesorregi\u00e3o Noroeste Cearense, CE, Regi\u00e3o Nordeste, Brasil",
+    "class": "landuse",
+    "type": "recreation_ground",
+    "importance": 0.3
+  },
+  {
+    "place_id": "61000449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "10517782",
+    "boundingbox": [
+      "38.662221",
+      "38.662283",
+      "-121.2185709",
+      "-121.2178129"
+    ],
+    "lat": "38.662225",
+    "lon": "-121.2182259",
+    "display_name": "Takeoff Court, Orangevale, Sacramento County, California, 95628, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "64777985",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "16871027",
+    "boundingbox": [
+      "34.294645",
+      "34.300489",
+      "-114.1379808",
+      "-114.1361259"
+    ],
+    "lat": "34.297625",
+    "lon": "-114.1371189",
+    "display_name": "Takeoff Point Road, La Paz County, Arizona, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "132892071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300521464",
+    "boundingbox": [
+      "6.4373315",
+      "6.4487716",
+      "3.5105254",
+      "3.5120671"
+    ],
+    "lat": "6.442834",
+    "lon": "3.5117931",
+    "display_name": "Pioneer Takeoff, Maiyegun, Eti Osa, Lagos, Nigeria",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "51680229",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3876322159",
+    "boundingbox": [
+      "39.8752699",
+      "39.8753699",
+      "-75.24671",
+      "-75.24661"
+    ],
+    "lat": "39.8753199",
+    "lon": "-75.24666",
+    "display_name": "Ready For Takeoff, PA 291, Philadelphia, Philadelphia County, Pennsylvania, 19153, United States of America",
+    "class": "leisure",
+    "type": "playground",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54619471",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4198152694",
+    "boundingbox": [
+      "46.2729975",
+      "46.2730975",
+      "13.4732915",
+      "13.4733915"
+    ],
+    "lat": "46.2730475",
+    "lon": "13.4733415",
+    "display_name": "Stol takeoff, Stol Mountain Pass, Kobarid, Gori\u0161ka, Slovenija",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  },
+  {
+    "place_id": "2654849052",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3178755578",
+    "boundingbox": [
+      "45.8332832",
+      "45.8333832",
+      "9.2935682",
+      "9.2936682"
+    ],
+    "lat": "45.8333332",
+    "lon": "9.2936182",
+    "display_name": "Paragliding TakeOff Centrale Cornizzoloinvolo (SW,S,SE), Monte Cornizzolo - Sentiero per la val Pesora, Gajum, Terz'Alpe, Canzo, CO, LOM, 22035, Italia",
+    "class": "aeroway",
+    "type": "takeoff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2654856265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4750895521",
+    "boundingbox": [
+      "45.8330068",
+      "45.8331068",
+      "9.3019495",
+      "9.3020495"
+    ],
+    "lat": "45.8330568",
+    "lon": "9.3019995",
+    "display_name": "Main Paragliding TakeOff (S-SW), Via per Monte Rai, Pusiano, CO, LOM, 22035, Italia",
+    "class": "aeroway",
+    "type": "takeoff",
+    "importance": 0.101
+  },
+  {
+    "place_id": "147463075",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "376671383",
+    "boundingbox": [
+      "51.873186",
+      "51.873623",
+      "-0.5379933",
+      "-0.5375702"
+    ],
+    "lat": "51.87340575",
+    "lon": "-0.537783817801205",
+    "display_name": "Paragliding Takeoff, Whipsnade Road, Whipsnade CP, Whipsnade, Central Bedfordshire, East of England, England, UK",
+    "class": "leisure",
+    "type": "pitch",
+    "importance": 0.101
+  }
+]

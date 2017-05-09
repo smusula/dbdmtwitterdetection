@@ -1,0 +1,147 @@
+[
+  {
+    "place_id": "50469948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3762666096",
+    "boundingbox": [
+      "48.8431198",
+      "48.8432198",
+      "2.3129749",
+      "2.3130749"
+    ],
+    "lat": "48.8431698",
+    "lon": "2.3130249",
+    "display_name": "Explore, 164, Rue de Vaugirard, Necker, 15e, Paris, \u00cele-de-France, 75015, France",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19599263",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1918036160",
+    "boundingbox": [
+      "53.9613832",
+      "53.9614832",
+      "-1.0861193",
+      "-1.0860193"
+    ],
+    "lat": "53.9614332",
+    "lon": "-1.0860693",
+    "display_name": "Explore, Museum Street, The Groves, Fishergate, York, Yorkshire and the Humber, England, YO1 7DS, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "136520600",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "316930251",
+    "boundingbox": [
+      "42.4350976",
+      "42.435258",
+      "19.2669523",
+      "19.267234"
+    ],
+    "lat": "42.4351798",
+    "lon": "19.2670928540654",
+    "display_name": "Explore, 25, Djecevica, Dra\u010d, Podgorica, Op\u0161tina Podgorica, 81000, \u0426\u0440\u043d\u0430 \u0413\u043e\u0440\u0430 / Crna Gora",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2647774125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4585135743",
+    "boundingbox": [
+      "46.8370492",
+      "46.8371492",
+      "29.6297905",
+      "29.6298905"
+    ],
+    "lat": "46.8370992",
+    "lon": "29.6298405",
+    "display_name": "Explore, 105, \u0443\u043b\u0438\u0446\u0430 25 \u041e\u043a\u0442\u044f\u0431\u0440\u044f, \u041f\u043b\u043e\u0449\u0430\u0434\u044c \u0421\u0443\u0432\u043e\u0440\u043e\u0432\u0430, \u0426\u0435\u043d\u0442\u0440, \u0422\u0438\u0440\u0430\u0441\u043f\u043e\u043b\u044c, \u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u044c\u0435, \u041d\u0438\u0441\u0442\u0440\u044f\u043d\u044d - \u041f\u0440\u0438\u0434\u043d\u0435\u0441\u0442\u0440\u043e\u0432\u044c\u0435 - \u041f\u0440\u0438\u0434\u043d\u0456\u0441\u0442\u0440\u043e\u0432'\u044f, md - 3300, Moldova",
+    "class": "shop",
+    "type": "travel_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "160843568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5374203",
+    "boundingbox": [
+      "47.30138",
+      "47.3016677",
+      "-1.5093625",
+      "-1.5088105"
+    ],
+    "lat": "47.30152795",
+    "lon": "-1.50908513555418",
+    "display_name": "EXPLORE, 1, Boulevard Amp\u00e8re, Zone d'Activit\u00e9 de la Fleuriaye, Haute Angle, Carquefou, Nantes, Loire-Atlantique, Pays de la Loire, 44470, France",
+    "class": "office",
+    "type": "company",
+    "importance": 0.101
+  },
+  {
+    "place_id": "47517502",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3437323264",
+    "boundingbox": [
+      "54.6010976",
+      "54.6011976",
+      "-3.1377414",
+      "-3.1376414"
+    ],
+    "lat": "54.6011476",
+    "lon": "-3.1376914",
+    "display_name": "Explore, Main Street, Allerdale, Cumbria, North West England, England, CA12 5JD, UK",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  },
+  {
+    "place_id": "75766838",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "42805483",
+    "boundingbox": [
+      "28.3788671",
+      "28.3814796",
+      "-81.5471413",
+      "-81.5441217"
+    ],
+    "lat": "28.38014515",
+    "lon": "-81.5456622643351",
+    "display_name": "Explore, Tramway, Bay Lake, Reedy Creek Improvement District, Orange County, Florida, 32830, United States of America",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.101
+  },
+  {
+    "place_id": "56631336",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4425457315",
+    "boundingbox": [
+      "46.2103325",
+      "46.2104325",
+      "-74.586187",
+      "-74.586087"
+    ],
+    "lat": "46.2103825",
+    "lon": "-74.586137",
+    "display_name": "Explore!, Chemin du Cur\u00e9-Deslauriers, Tremblant, Qu\u00e9bec, J8E3M9, Canada",
+    "class": "shop",
+    "type": "outdoor",
+    "importance": 0.101
+  }
+]

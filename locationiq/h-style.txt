@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "91430071",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "120306595",
+    "boundingbox": [
+      "55.523339",
+      "55.5241461",
+      "-4.0655591",
+      "-4.0641324"
+    ],
+    "lat": "55.5237288",
+    "lon": "-4.0648281",
+    "display_name": "The Style, Muirkirk, East Ayrshire, Scotland, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "28520769",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2653722482",
+    "boundingbox": [
+      "40.4252564",
+      "40.4253564",
+      "-3.7073422",
+      "-3.7072422"
+    ],
+    "lat": "40.4253064",
+    "lon": "-3.7072922",
+    "display_name": "Style, 56, Calle de San Bernardo, Barrio Universidad, Centro, Madrid, \u00c1rea metropolitana de Madrid y Corredor del Henares, Comunidad de Madrid, 28015, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "18491424",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1790063496",
+    "boundingbox": [
+      "52.5111698",
+      "52.5112698",
+      "13.2980062",
+      "13.2981062"
+    ],
+    "lat": "52.5112198",
+    "lon": "13.2980562",
+    "display_name": "Le Style, 67, Bismarckstra\u00dfe, Charlottenburg, Charlottenburg-Wilmersdorf, Berlin, 10627, Deutschland",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  },
+  {
+    "place_id": "16256056",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1502763940",
+    "boundingbox": [
+      "43.5077101",
+      "43.5078101",
+      "16.4669021",
+      "16.4670021"
+    ],
+    "lat": "43.5077601",
+    "lon": "16.4669521",
+    "display_name": "Style, Ru\u0111era Bo\u0161kovi\u0107a, Smrde\u010dac, Split 3, Split, Splitsko-Dalmatinska \u017eupanija, 21114, Hrvatska",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "54496963",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4207682005",
+    "boundingbox": [
+      "42.1396469",
+      "42.1397469",
+      "24.7912788",
+      "24.7913788"
+    ],
+    "lat": "42.1396969",
+    "lon": "24.7913288",
+    "display_name": "Style, bl. 15, \u0431\u0443\u043b. \u041e\u0441\u0432\u043e\u0431\u043e\u0436\u0434\u0435\u043d\u0438\u0435, \u0417\u0430\u0445\u0430\u0440\u0438 \u0417\u043e\u0433\u0440\u0430\u0444, \u0425\u0430\u043d \u0410\u0441\u043f\u0430\u0440\u0443\u0445, \u041f\u043b\u043e\u0432\u0434\u0438\u0432, \u041e\u0431\u043b\u0430\u0441\u0442 \u041f\u043b\u043e\u0432\u0434\u0438\u0432, 4023, \u0411\u044a\u043b\u0433\u0430\u0440\u0438\u044f",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "8680232",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "913530136",
+    "boundingbox": [
+      "52.5114783",
+      "52.5115783",
+      "13.4365434",
+      "13.4366434"
+    ],
+    "lat": "52.5115283",
+    "lon": "13.4365934",
+    "display_name": "Style, 11, Stra\u00dfe der Pariser Kommune, Fhain, Friedrichshain-Kreuzberg, Berlin, 10243, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "7006826",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "732694538",
+    "boundingbox": [
+      "43.580837",
+      "43.580937",
+      "-79.6153411",
+      "-79.6152411"
+    ],
+    "lat": "43.580887",
+    "lon": "-79.6152911",
+    "display_name": "The Style, 32, Dundas Street East, Cooksville, Ont., Peel Region, Ontario, L5A 1V9, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "144564949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "363432770",
+    "boundingbox": [
+      "52.3733948",
+      "52.3735377",
+      "-1.2622173",
+      "-1.2620221"
+    ],
+    "lat": "52.37346605",
+    "lon": "-1.26211998456809",
+    "display_name": "Style, Chestnut Field, New Bilton, Rugby, Warwickshire, West Midlands, England, CV21 2PE, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "53711327",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4073822602",
+    "boundingbox": [
+      "54.4695479",
+      "54.4696479",
+      "-1.192268",
+      "-1.192168"
+    ],
+    "lat": "54.4695979",
+    "lon": "-1.192218",
+    "display_name": "Style, High Street, Mill Vale, Hambleton, North Yorkshire, Yorkshire and the Humber, England, TS9 5DQ, UK",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "54980991",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4230812794",
+    "boundingbox": [
+      "53.1354453",
+      "53.1355453",
+      "26.0177224",
+      "26.0178224"
+    ],
+    "lat": "53.1354953",
+    "lon": "26.0177724",
+    "display_name": "Style, 31, \u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u0411\u0430\u0440\u0430\u043d\u043e\u0432\u0438\u0447\u0438, \u0411\u0440\u0435\u0441\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 225408, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "shop",
+    "type": "beauty",
+    "importance": 0.101
+  }
+]

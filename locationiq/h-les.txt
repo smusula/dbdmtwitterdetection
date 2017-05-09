@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160315574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "346338",
+    "boundingbox": [
+      "42.7850158",
+      "42.8283708",
+      "0.6641451",
+      "0.7675312"
+    ],
+    "lat": "42.8126916",
+    "lon": "0.7118311",
+    "display_name": "Les, Val d'Aran, Lleida, CAT, Espa\u00f1a",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.56514534942609,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "128638749",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279369091",
+    "boundingbox": [
+      "50.1548396",
+      "50.2398896",
+      "4.8981917",
+      "5.1167708"
+    ],
+    "lat": "50.19386",
+    "lon": "4.9997513",
+    "display_name": "La Lesse, Houyet, Dinant, Namur, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.48286766306967
+  },
+  {
+    "place_id": "128661926",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279369089",
+    "boundingbox": [
+      "50.1300129",
+      "50.1403058",
+      "5.152913",
+      "5.1646856"
+    ],
+    "lat": "50.1357906",
+    "lon": "5.1589593",
+    "display_name": "La Lesse, Rochefort, Dinant, Namur, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.48286766306967
+  },
+  {
+    "place_id": "128661540",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "279369090",
+    "boundingbox": [
+      "50.1403058",
+      "50.1455643",
+      "5.1357",
+      "5.152913"
+    ],
+    "lat": "50.1426104",
+    "lon": "5.1444764",
+    "display_name": "La Lesse, Rochefort, Dinant, Namur, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.48286766306967
+  },
+  {
+    "place_id": "79956721",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62974553",
+    "boundingbox": [
+      "50.1206388",
+      "50.1309963",
+      "5.1646856",
+      "5.1923098"
+    ],
+    "lat": "50.1290498",
+    "lon": "5.179634",
+    "display_name": "Lesse, Rochefort, Dinant, Namur, Wallonie, Belgi\u00eb - Belgique - Belgien",
+    "class": "waterway",
+    "type": "river",
+    "importance": 0.48286766306967
+  },
+  {
+    "place_id": "499385",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158853595",
+    "boundingbox": [
+      "40.7158857",
+      "40.7159857",
+      "-73.9868556",
+      "-73.9867556"
+    ],
+    "lat": "40.7159357",
+    "lon": "-73.9868056",
+    "display_name": "Lower East Side, Manhattan, New York, NYC, New York, 10002, United States of America",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.47752588093114
+  },
+  {
+    "place_id": "17212575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1666522354",
+    "boundingbox": [
+      "43.3264829",
+      "43.3664829",
+      "-7.1405261",
+      "-7.1005261"
+    ],
+    "lat": "43.3464829",
+    "lon": "-7.1205261",
+    "display_name": "Les, Asturias / Asturies, Asturias, 33775, Espa\u00f1a",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4003173",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "433075733",
+    "boundingbox": [
+      "-8.1627584",
+      "-8.1227584",
+      "115.3478466",
+      "115.3878466"
+    ],
+    "lat": "-8.1427584",
+    "lon": "115.3678466",
+    "display_name": "Les, KECAMATAN KUBU, Bali, Indonesia",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "32502910",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2774994776",
+    "boundingbox": [
+      "45.4732357",
+      "45.4932357",
+      "4.8193668",
+      "4.8393668"
+    ],
+    "lat": "45.4832357",
+    "lon": "4.8293668",
+    "display_name": "Les, Reventin-Vaugris, Vienne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38121, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "32432134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2774994781",
+    "boundingbox": [
+      "45.4910369",
+      "45.5110369",
+      "5.016383",
+      "5.036383"
+    ],
+    "lat": "45.5010369",
+    "lon": "5.026383",
+    "display_name": "Les, Moidieu-D\u00e9tourbe, Vienne, Is\u00e8re, Auvergne-Rh\u00f4ne-Alpes, 38440, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

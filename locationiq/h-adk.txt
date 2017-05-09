@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "161010855",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6610249",
+    "boundingbox": [
+      "6.1322345",
+      "6.1368907",
+      "1.222092",
+      "1.2289475"
+    ],
+    "lat": "6.1348194",
+    "lon": "1.2260331",
+    "display_name": "Adoboukom\u00e9, 1er Arr., Lom\u00e9, Togo",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "56273892",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4410184092",
+    "boundingbox": [
+      "10.5957282",
+      "10.5958282",
+      "14.3032704",
+      "14.3033704"
+    ],
+    "lat": "10.5957782",
+    "lon": "14.3033204",
+    "display_name": "adk, Maroua-Kouss\u00e9ri, Maroua I, CUM, Diamar\u00e9, EN, Cameroun",
+    "class": "tourism",
+    "type": "chalet",
+    "importance": 0.111
+  },
+  {
+    "place_id": "23085849",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2303923547",
+    "boundingbox": [
+      "39.5709952",
+      "39.5710952",
+      "2.6521292",
+      "2.6522292"
+    ],
+    "lat": "39.5710452",
+    "lon": "2.6521792",
+    "display_name": "ADK, pla\u00e7a Major, Canamunt, Palma, Illes Balears, 07002, 124",
+    "class": "amenity",
+    "type": "fast_food",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_fastfood.p.20.png"
+  },
+  {
+    "place_id": "143644812",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "357760712",
+    "boundingbox": [
+      "46.3583169",
+      "46.3591906",
+      "15.9979089",
+      "15.9994324"
+    ],
+    "lat": "46.35875375",
+    "lon": "15.998670625",
+    "display_name": "ADK, Cirkulane, Podravska, 2282, Slovenija",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "115543360",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "219232718",
+    "boundingbox": [
+      "43.2311802",
+      "43.2333613",
+      "76.8775782",
+      "76.8806172"
+    ],
+    "lat": "43.2323848",
+    "lon": "76.8791728342133",
+    "display_name": "ADK, 90, \u0443\u043b\u0438\u0446\u0430 \u0421\u0430\u0442\u043f\u0430\u0435\u0432\u0430, \u0411\u043e\u0441\u0442\u0430\u043d\u0434\u044b\u043a\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u0410\u043b\u043c\u0430\u0442\u044b, 050005, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "shop",
+    "type": "mall",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7358195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "783566913",
+    "boundingbox": [
+      "51.8637391",
+      "51.8937391",
+      "-176.6593527",
+      "-176.6293527"
+    ],
+    "lat": "51.8787391",
+    "lon": "-176.6443527",
+    "display_name": "Adak Airport, Main Road, Turnkey, Adak, Aleutians West, Alaska, 99546, United States of America",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.093055316314571,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

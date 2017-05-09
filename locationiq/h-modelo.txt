@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160304289",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "296726",
+    "boundingbox": [
+      "-26.8169999",
+      "-26.7319999",
+      "-53.1249999",
+      "-52.9609305"
+    ],
+    "lat": "-26.7752382",
+    "lon": "-53.0525512",
+    "display_name": "Modelo, Microrregi\u00e3o de Chapec\u00f3, Mesorregi\u00e3o do Oeste Catarinense, SC, Regi\u00e3o Sul, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49067435694066,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160828113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4756036",
+    "boundingbox": [
+      "-39.0275554",
+      "-39.0222467",
+      "-67.5994842",
+      "-67.5922811"
+    ],
+    "lat": "-39.0248744",
+    "lon": "-67.5960498",
+    "display_name": "Modelo, Departamento General Roca, RN, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "1480654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "336150396",
+    "boundingbox": [
+      "29.3165",
+      "29.3565",
+      "-110.8269999",
+      "-110.7869999"
+    ],
+    "lat": "29.3365",
+    "lon": "-110.8069999",
+    "display_name": "El Modelo, Hermosillo, Sonora, M\u00e9xico",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3890142",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "416765156",
+    "boundingbox": [
+      "-18.3210539",
+      "-18.2810539",
+      "-56.9434199",
+      "-56.9034199"
+    ],
+    "lat": "-18.3010539",
+    "lon": "-56.9234199",
+    "display_name": "Paiagu\u00e1s, Modelo, Microrregi\u00e3o do Baixo Pantanal, Mesorregi\u00e3o Pantanal Sul Matro-Grossense, MS, Regi\u00e3o Centro-Oeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15019035",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1368158669",
+    "boundingbox": [
+      "8.2211482",
+      "8.2611482",
+      "-73.379428",
+      "-73.339428"
+    ],
+    "lat": "8.2411482",
+    "lon": "-73.359428",
+    "display_name": "La Modelo, Oca\u00f1a, Norte de Santander, Colombia",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "49281501",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3645133107",
+    "boundingbox": [
+      "-14.7469616",
+      "-14.7069616",
+      "-70.3047825",
+      "-70.2647825"
+    ],
+    "lat": "-14.7269616",
+    "lon": "-70.2847825",
+    "display_name": "Modelo, Az\u00e1ngaro, Puno, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2653512824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4719590349",
+    "boundingbox": [
+      "22.7012002",
+      "22.7412002",
+      "-83.0849333",
+      "-83.0449333"
+    ],
+    "lat": "22.7212002",
+    "lon": "-83.0649333",
+    "display_name": "El Modelo, San Crist\u00f3bal, Artemisa, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16661976",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1548577188",
+    "boundingbox": [
+      "22.3871376",
+      "22.4271376",
+      "-80.4223761",
+      "-80.3823761"
+    ],
+    "lat": "22.4071376",
+    "lon": "-80.4023761",
+    "display_name": "Modelo, Santa Isabel de las Lajas, Cienfuegos, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "16639568",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1542750482",
+    "boundingbox": [
+      "21.7598506",
+      "21.7998506",
+      "-79.9723704",
+      "-79.9323704"
+    ],
+    "lat": "21.7798506",
+    "lon": "-79.9523704",
+    "display_name": "Modelo, Trinidad, Sancti Spiritus, Cuba",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14221378",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289235576",
+    "boundingbox": [
+      "14.0381332",
+      "14.0781332",
+      "-87.2484223",
+      "-87.2084223"
+    ],
+    "lat": "14.0581332",
+    "lon": "-87.2284223",
+    "display_name": "La Modelo, Tegucigalpa, Francisco Moraz\u00e1n, Honduras",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

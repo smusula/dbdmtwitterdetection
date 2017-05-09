@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160542144",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2390836",
+    "boundingbox": [
+      "1.4586943",
+      "6.2744496",
+      "94.7717124",
+      "98.6861879"
+    ],
+    "lat": "4.3685491",
+    "lon": "97.0253024",
+    "display_name": "Aceh, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71913301996709,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160324628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "326266",
+    "boundingbox": [
+      "-11.144833",
+      "-7.1130609",
+      "-73.9830624",
+      "-66.6199444"
+    ],
+    "lat": "-9.0478678",
+    "lon": "-70.5264975",
+    "display_name": "AC, Regi\u00e3o Norte, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.64563308358244,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160252973",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "52825",
+    "boundingbox": [
+      "63.0928311",
+      "66.3453487",
+      "14.331272",
+      "22.0897726"
+    ],
+    "lat": "64.71420135",
+    "lon": "18.5857486507278",
+    "display_name": "V\u00e4sterbottens l\u00e4n, Norrland, Sverige",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47586701837918,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160614666",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2954787",
+    "boundingbox": [
+      "5.55408",
+      "8.5739184",
+      "16.68124",
+      "19.073852"
+    ],
+    "lat": "7.1314008",
+    "lon": "17.7041361",
+    "display_name": "Ouham, K\u00f6d\u00f6r\u00f6s\u00ease t\u00ee B\u00eaafr\u00eeka - R\u00e9publique Centrafricaine",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.39283038881613,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2650708114",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "470276836",
+    "boundingbox": [
+      "12.6013793",
+      "12.6019766",
+      "-8.0150019",
+      "-8.0143993"
+    ],
+    "lat": "12.6016293",
+    "lon": "-8.01456039177411",
+    "display_name": "AC, Baco-Djicoroni, Bamako, District de Bamako, 00223, Mali",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "102801306",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "166338410",
+    "boundingbox": [
+      "57.4632655",
+      "57.4635691",
+      "10.5267389",
+      "10.5276017"
+    ],
+    "lat": "57.46342355",
+    "lon": "10.5271735984659",
+    "display_name": "Ac, K\u00e6ret, Frederikshavn Kommune, Region Nordjylland, 9900, Danmark",
+    "class": "landuse",
+    "type": "grass",
+    "importance": 0.3
+  },
+  {
+    "place_id": "78349636",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "54609190",
+    "boundingbox": [
+      "45.8665721",
+      "45.8704059",
+      "10.7159177",
+      "10.7180846"
+    ],
+    "lat": "45.8689935",
+    "lon": "10.7171746",
+    "display_name": "AC, Ledro, Comunit\u00e0 Alto Garda e Ledro, TN, TAA, 38067, Italia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "55069925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4252801995",
+    "boundingbox": [
+      "40.663231",
+      "40.663331",
+      "-73.9848649",
+      "-73.9847649"
+    ],
+    "lat": "40.663281",
+    "lon": "-73.9848149",
+    "display_name": "AC, 15th Street, Park Slope, BK, Kings County, NYC, New York, 11215, United States of America",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "83785893",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "89982173",
+    "boundingbox": [
+      "48.2520289",
+      "48.2525468",
+      "16.4285324",
+      "16.4291462"
+    ],
+    "lat": "48.25230645",
+    "lon": "16.4288729097648",
+    "display_name": "AC, Donaufelder Stra\u00dfe, KG Leopoldau, Floridsdorf, Wien, 1210, \u00d6sterreich",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "86372507",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "101510086",
+    "boundingbox": [
+      "45.0356774",
+      "45.036281",
+      "7.6671065",
+      "7.6676285"
+    ],
+    "lat": "45.0359792",
+    "lon": "7.66736752220483",
+    "display_name": "Hotel AC Torino, Via Bisalta, Nizza Millefonti, Circoscrizione 9, Torino, TO, PIE, 10126, Italia",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  }
+]

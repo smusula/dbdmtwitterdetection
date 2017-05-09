@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "161029040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "6572138",
+    "boundingbox": [
+      "21.3759233",
+      "21.441209",
+      "72.1633634",
+      "72.2248405"
+    ],
+    "lat": "21.4241814",
+    "lon": "72.2111327340093",
+    "display_name": "Alang Ship Breaking Yard, Alang, Bh\u0101vnagar, Gujarat, India",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "129040949",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "281597829",
+    "boundingbox": [
+      "25.1171867",
+      "25.1193443",
+      "66.7235088",
+      "66.727502"
+    ],
+    "lat": "25.1182299",
+    "lon": "66.7254795135386",
+    "display_name": "Gandani Ship Breaking Yard, Gadani, \u0636\u0644\u0639 \u0644\u0633\u0628\u06cc\u0644\u06c1 / Lasbela, \u0628\u0644\u0648\u0686\u0633\u062a\u0627\u0646 / Balochistan, 90300, \u200f\u067e\u0627\u06a9\u0633\u062a\u0627\u0646\u200e",
+    "class": "landuse",
+    "type": "industrial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "52497654",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3972053186",
+    "boundingbox": [
+      "51.2842587",
+      "51.2843587",
+      "9.9927978",
+      "9.9928978"
+    ],
+    "lat": "51.2843087",
+    "lon": "9.9928478",
+    "display_name": "Breaking Walls, Sickenberger Stra\u00dfe, Allendorf, Bad Sooden-Allendorf, Werra-Mei\u00dfner-Kreis, Regierungsbezirk Kassel, Hessen, 37242, Deutschland, Europe",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.29401684500863,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "112569214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "206559468",
+    "boundingbox": [
+      "28.1521041",
+      "28.1576866",
+      "-82.2858992",
+      "-82.2798902"
+    ],
+    "lat": "28.1548979",
+    "lon": "-82.2857145",
+    "display_name": "Breaking Rock Drive, Tampa, Hillsborough County, Florida, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "136602310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "317258215",
+    "boundingbox": [
+      "28.1569205",
+      "28.1572323",
+      "-82.2822435",
+      "-82.281751"
+    ],
+    "lat": "28.1570625",
+    "lon": "-82.2820688",
+    "display_name": "Breaking Rock Drive, Tampa, Hillsborough County, Florida, 33543, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "79254935",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59475565",
+    "boundingbox": [
+      "39.1912691",
+      "39.1915218",
+      "-76.8039119",
+      "-76.80374"
+    ],
+    "lat": "39.1914483",
+    "lon": "-76.8038108",
+    "display_name": "Breaking Wave Drive, Long Reach, Waterloo, Howard County, Maryland, 21045, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "59431138",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "7684053",
+    "boundingbox": [
+      "38.7720878",
+      "38.7762165",
+      "-104.6501673",
+      "-104.6501243"
+    ],
+    "lat": "38.7742492",
+    "lon": "-104.6501673",
+    "display_name": "Breaking Dawn Street, El Paso County, Colorado, 80925, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "49213089",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3637778469",
+    "boundingbox": [
+      "39.9571038",
+      "39.9572038",
+      "-75.1689441",
+      "-75.1688441"
+    ],
+    "lat": "39.9571538",
+    "lon": "-75.1688941",
+    "display_name": "Jesus Breaking Bread, Race Street, Chinatown, Philadelphia, Philadelphia County, Pennsylvania, 19103, United States of America",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "41410948",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3019242204",
+    "boundingbox": [
+      "37.7952548",
+      "37.7953548",
+      "-122.3959227",
+      "-122.3958227"
+    ],
+    "lat": "37.7953048",
+    "lon": "-122.3958727",
+    "display_name": "Breaking Bread, Commercial Street, Embarcadero Center 4, SF, California, 94111, United States of America",
+    "class": "shop",
+    "type": "bakery",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_bakery.p.20.png"
+  },
+  {
+    "place_id": "56708719",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4429132793",
+    "boundingbox": [
+      "53.9191535",
+      "53.9192535",
+      "27.5868697",
+      "27.5869697"
+    ],
+    "lat": "53.9192035",
+    "lon": "27.5869197",
+    "display_name": "\u041b\u0430\u0431\u0430\u0440\u0430\u0442\u043e\u0440\u044b\u044f  Breaking Bad, 8, \u0443\u043b\u0438\u0446\u0430 \u042f\u043a\u0443\u0431\u0430 \u041a\u043e\u043b\u0430\u0441\u0430, \u0421\u043e\u0432\u0435\u0442\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041c\u0438\u043d\u0441\u043a, 220000, \u0411\u0435\u043b\u0430\u0440\u0443\u0441\u044c",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

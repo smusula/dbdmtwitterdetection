@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "155221132",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "420012508",
+    "boundingbox": [
+      "17.1382265",
+      "17.1397956",
+      "-25.0674431",
+      "-25.0658106"
+    ],
+    "lat": "17.13899955",
+    "lon": "-25.0671656500066",
+    "display_name": "X\u00f4x\u00f4, Faj\u00e3 de Cima, Lombo de Pico, Ribeira Grande, 1139, Cabo Verde",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "54909463",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4253960174",
+    "boundingbox": [
+      "23.3656961",
+      "23.3657961",
+      "85.3471068",
+      "85.3472068"
+    ],
+    "lat": "23.3657461",
+    "lon": "85.3471568",
+    "display_name": "xoxo, NH20, Makchund Toli, Chutia, Ranchi, R\u0101nch\u012b, Ranchi, Jharkhand, 834001, India",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  }
+]

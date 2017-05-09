@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160749334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4136816",
+    "boundingbox": [
+      "44.9617738",
+      "45.5376502",
+      "-76.3555856",
+      "-75.2465782"
+    ],
+    "lat": "45.4210328",
+    "lon": "-75.6900218",
+    "display_name": "Ottawa, Ontario, Canada",
+    "class": "place",
+    "type": "city",
+    "importance": 0.67749985126194,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "2644820916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4516792614",
+    "boundingbox": [
+      "3.846667",
+      "3.886667",
+      "20.746667",
+      "20.786667"
+    ],
+    "lat": "3.866667",
+    "lon": "20.766667",
+    "display_name": "Ovo, \u00c9quateur, Nord-Ubangi, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "11225269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1082997156",
+    "boundingbox": [
+      "-19.9396558",
+      "-19.9395558",
+      "-43.9355336",
+      "-43.9354336"
+    ],
+    "lat": "-19.9396058",
+    "lon": "-43.9354836",
+    "display_name": "Ovo, Rua Fernandes Tourinho, Savassi, Regional Centro-Sul, BH, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, 30320-380, Brasil",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "78652751",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "55982070",
+    "boundingbox": [
+      "53.6254342",
+      "53.6255558",
+      "55.9217297",
+      "55.9223657"
+    ],
+    "lat": "53.625495",
+    "lon": "55.9220477",
+    "display_name": "\u041e\u0412\u041e, \u0443\u043b\u0438\u0446\u0430 \u041a\u0443\u0440\u0447\u0430\u0442\u043e\u0432\u0430, \u0421\u0442\u0435\u0440\u043b\u0438\u0442\u0430\u043c\u0430\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0421\u0442\u0435\u0440\u043b\u0438\u0442\u0430\u043c\u0430\u043a, \u0411\u0430\u0448\u043a\u043e\u0440\u0442\u043e\u0441\u0442\u0430\u043d, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 453121, \u0420\u0424",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "20466464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2034734107",
+    "boundingbox": [
+      "52.5028421",
+      "52.5029421",
+      "103.8240169",
+      "103.8241169"
+    ],
+    "lat": "52.5028921",
+    "lon": "103.8240669",
+    "display_name": "\u041e\u0412\u041e, 9, \u0411\u0443\u043b\u044c\u0432\u0430\u0440\u043d\u0430\u044f \u0443\u043b\u0438\u0446\u0430, 220-\u0439 \u043a\u0432\u0430\u0440\u0442\u0430\u043b, \u0411 \u043a\u0432-\u043b, \u0410\u043d\u0433\u0430\u0440\u0441\u043a, \u0410\u043d\u0433\u0430\u0440\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 665824, \u0420\u0424",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "79258491",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "59528042",
+    "boundingbox": [
+      "56.4103707",
+      "56.4110767",
+      "61.9232296",
+      "61.9244695"
+    ],
+    "lat": "56.4107237",
+    "lon": "61.92384955",
+    "display_name": "\u041e\u0412\u041e, 9, \u0443\u043b\u0438\u0446\u0430 \u041a\u0430\u0434\u043e\u0447\u043d\u0438\u043a\u043e\u0432\u0430, \u041e\u043a\u0442\u044f\u0431\u0440\u044c\u0441\u043a\u0438\u0439, \u0421\u0438\u043d\u0430\u0440\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041a\u0430\u043c\u0435\u043d\u0441\u043a-\u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439, \u042e\u0436\u043d\u044b\u0439 \u0443\u043f\u0440\u0430\u0432\u043b\u0435\u043d\u0447\u0435\u0441\u043a\u0438\u0439 \u043e\u043a\u0440\u0443\u0433, \u0421\u0432\u0435\u0440\u0434\u043b\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 623400, \u0420\u0424",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "127100906",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "268224772",
+    "boundingbox": [
+      "61.0381773",
+      "61.03843",
+      "76.125648",
+      "76.1261007"
+    ],
+    "lat": "61.03830375",
+    "lon": "76.1258744083396",
+    "display_name": "\u041e\u0412\u041e, 5, \u0443\u043b\u0438\u0446\u0430 \u0410\u0431\u0430\u0437\u0430\u0440\u043e\u0432\u0430, \u0421\u0435\u0432\u0435\u0440\u043e-\u0412\u043e\u0441\u0442\u043e\u0447\u043d\u0430\u044f \u043f\u0440\u043e\u043c\u0437\u043e\u043d\u0430, \u041c\u0435\u0433\u0438\u043e\u043d, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041c\u0435\u0433\u0438\u043e\u043d, \u0425\u0430\u043d\u0442\u044b-\u041c\u0430\u043d\u0441\u0438\u0439\u0441\u043a\u0438\u0439 \u0430\u0432\u0442\u043e\u043d\u043e\u043c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433 - \u042e\u0433\u0440\u0430, \u0423\u0440\u0430\u043b\u044c\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 628680, \u0420\u0424",
+    "class": "office",
+    "type": "administrative",
+    "importance": 0.001
+  },
+  {
+    "place_id": "101902326",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "163348456",
+    "boundingbox": [
+      "57.9564679",
+      "57.956602",
+      "102.7623977",
+      "102.7629251"
+    ],
+    "lat": "57.95653495",
+    "lon": "102.762661424369",
+    "display_name": "\u041e\u0412\u041e, 4, \u0443\u043b\u0438\u0446\u0430 \u0414\u0435\u043a\u0430\u0431\u0440\u0438\u0441\u0442\u043e\u0432, \u0423\u0441\u0442\u044c-\u0418\u043b\u0438\u043c\u0441\u043a, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u0423\u0441\u0442\u044c-\u0418\u043b\u0438\u043c\u0441\u043a, \u0418\u0440\u043a\u0443\u0442\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 666685, \u0420\u0424",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.001
+  },
+  {
+    "place_id": "106473047",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "180658180",
+    "boundingbox": [
+      "58.9706433",
+      "58.9708514",
+      "126.2753634",
+      "126.2756566"
+    ],
+    "lat": "58.9707316",
+    "lon": "126.275517948085",
+    "display_name": "\u041e\u0412\u041e, 39, \u0423\u043a\u0443\u043b\u0430\u043d\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041f\u044f\u0442\u044b\u0439, \u0422\u043e\u043c\u043c\u043e\u0442, \u0410\u043b\u0434\u0430\u043d\u0441\u043a\u0438\u0439 \u0443\u043b\u0443\u0441, \u0420\u0435\u0441\u043f\u0443\u0431\u043b\u0438\u043a\u0430 \u0421\u0430\u0445\u0430 (\u042f\u043a\u0443\u0442\u0438\u044f), \u0414\u0424\u041e, \u0420\u0424",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "56385740",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4398371789",
+    "boundingbox": [
+      "56.0858862",
+      "56.0859862",
+      "86.0196285",
+      "86.0197285"
+    ],
+    "lat": "56.0859362",
+    "lon": "86.0196785",
+    "display_name": "\u041e\u0412\u041e, \u0443\u043b\u0438\u0446\u0430 \u041b\u0435\u043d\u0438\u043d\u0430, \u0410\u043d\u0436\u0435\u0440\u043e-\u0421\u0443\u0434\u0436\u0435\u043d\u0441\u043a, \u0410\u043d\u0436\u0435\u0440\u043e-\u0421\u0443\u0434\u0436\u0435\u043d\u0441\u043a\u0438\u0439 \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433, \u041a\u0435\u043c\u0435\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u0421\u0424\u041e, 652470, \u0420\u0424",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  }
+]

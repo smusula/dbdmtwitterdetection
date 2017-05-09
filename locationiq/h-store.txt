@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160258737",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "62607",
+    "boundingbox": [
+      "50.9378508",
+      "53.0416917",
+      "10.5608128",
+      "13.1868819"
+    ],
+    "lat": "51.908526",
+    "lon": "11.4939134",
+    "display_name": "Sachsen-Anhalt, Deutschland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.67575017594291,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160541916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2388664",
+    "boundingbox": [
+      "-3.3853338",
+      "1.583554",
+      "118.8772126",
+      "124.9619235"
+    ],
+    "lat": "-1.6937785",
+    "lon": "120.8088555",
+    "display_name": "Sulawesi Tengah, Indonesia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160354792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "535880",
+    "boundingbox": [
+      "-0.2135136",
+      "1.9257601",
+      "6.260642",
+      "7.6704783"
+    ],
+    "lat": "0.8875498",
+    "lon": "6.9648718",
+    "display_name": "S\u00e3o Tom\u00e9 e Pr\u00edncipe",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54573201539355,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160349482",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "442397",
+    "boundingbox": [
+      "49.5013458",
+      "50.6189491",
+      "13.3964604",
+      "15.5354572"
+    ],
+    "lat": "50.0601579",
+    "lon": "13.8307479420999",
+    "display_name": "St\u0159edo\u010desk\u00fd kraj, St\u0159edn\u00ed \u010cechy, \u010cesko",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.54232535347468,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160464865",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1681497",
+    "boundingbox": [
+      "46.163108",
+      "46.2332034",
+      "15.2789975",
+      "15.3605461"
+    ],
+    "lat": "46.221034",
+    "lon": "15.3134867",
+    "display_name": "\u0160tore, Savinja Statistical Region, Slovenija",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.49031725222743,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "124275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26036604",
+    "boundingbox": [
+      "48.8403169",
+      "48.8803169",
+      "21.8558902",
+      "21.8958902"
+    ],
+    "lat": "48.8603169",
+    "lon": "21.8758902",
+    "display_name": "Star\u00e9, Ko\u0161ick\u00fd kraj, V\u00fdchodn\u00e9 Slovensko, 072 23, Slovensko",
+    "class": "place",
+    "type": "village",
+    "importance": 0.46239695346006,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160349962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "415768",
+    "boundingbox": [
+      "37.388653",
+      "37.7385406",
+      "-102.0419899",
+      "-101.5244749"
+    ],
+    "lat": "37.5691072",
+    "lon": "-101.7935647",
+    "display_name": "Stanton County, Kansas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46066414630254,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160248416",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "44928",
+    "boundingbox": [
+      "45.3964974",
+      "45.4251894",
+      "11.9935227",
+      "12.0756913"
+    ],
+    "lat": "45.4168454",
+    "lon": "12.0023037",
+    "display_name": "Stra, VE, VEN, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.43828868701015,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160474901",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1873632",
+    "boundingbox": [
+      "8.3456879",
+      "9.9380667",
+      "105.5436626",
+      "106.4538443"
+    ],
+    "lat": "9.5348587",
+    "lon": "105.9892536",
+    "display_name": "S\u00f3c Tr\u0103ng, Vi\u1ec7t Nam",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42894632141447,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160722013",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3925268",
+    "boundingbox": [
+      "48.6802159",
+      "48.6967801",
+      "9.1842545",
+      "9.2487831"
+    ],
+    "lat": "48.6887513",
+    "lon": "9.20579575480171",
+    "display_name": "Manfred Rommel Flughafen Stuttgart, Flughafenstra\u00dfe, Plieningen, Stuttgart, Regierungsbezirk Stuttgart, Baden-W\u00fcrttemberg, 70599, Deutschland",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.41566370487655,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  }
+]

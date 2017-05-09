@@ -1,0 +1,56 @@
+[
+  {
+    "place_id": "26849589",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2542911469",
+    "boundingbox": [
+      "52.4044626",
+      "52.4045626",
+      "16.9359319",
+      "16.9360319"
+    ],
+    "lat": "52.4045126",
+    "lon": "16.9359819",
+    "display_name": "iMode Serwis Apple - iPhone iPad MacBook, 5, Zielona, Rybaki, Stare Miasto, Pozna\u0144, wielkopolskie, 61-851, Polska",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "53808770",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4126842611",
+    "boundingbox": [
+      "50.4497342",
+      "50.4498342",
+      "30.4426928",
+      "30.4427928"
+    ],
+    "lat": "50.4497842",
+    "lon": "30.4427428",
+    "display_name": "EDAM Apple IPhone MacBook iPad, 42\u0430, \u0412\u0438\u0431\u043e\u0440\u0437\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0421\u043e\u043b\u043e\u043c\u2019\u044f\u043d\u0441\u044c\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041a\u0438\u0457\u0432, 03047, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "55267343",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4303293390",
+    "boundingbox": [
+      "-17.7701324",
+      "-17.7700324",
+      "-63.1723878",
+      "-63.1722878"
+    ],
+    "lat": "-17.7700824",
+    "lon": "-63.1723378",
+    "display_name": "Apple Store -MacBook Bolivia, Avenida Crist\u00f3bal de Mendoza, Barrio M\u00e1quina Vieja, Municipio Santa Cruz de la Sierra, Provincia Andr\u00e9s Ib\u00e1\u00f1ez, SCZ, 3212, Bolivia",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,130 @@
+[
+  {
+    "place_id": "71792817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "30893120",
+    "boundingbox": [
+      "49.3005045",
+      "49.3008286",
+      "12.1720652",
+      "12.1767962"
+    ],
+    "lat": "49.300562",
+    "lon": "12.174282",
+    "display_name": "Werk, Wackersdorf, Wackersdorf (VGem), Landkreis Schwandorf, OPf, Bayern, 92442, Deutschland",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "18533319",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1817112581",
+    "boundingbox": [
+      "49.2038348",
+      "49.2039348",
+      "7.9640116",
+      "7.9641116"
+    ],
+    "lat": "49.2038848",
+    "lon": "7.9640616",
+    "display_name": "werk, 10, Me\u00dfplatz, Annweiler am Trifels, Sarnstall, Annweiler am Trifels, Landkreis S\u00fcdliche Weinstra\u00dfe, Rheinland-Pfalz, 76855, Deutschland",
+    "class": "amenity",
+    "type": "ice_cream",
+    "importance": 0.111
+  },
+  {
+    "place_id": "49160574",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3649690560",
+    "boundingbox": [
+      "52.0792086",
+      "52.0793086",
+      "4.3187315",
+      "4.3188315"
+    ],
+    "lat": "52.0792586",
+    "lon": "4.3187815",
+    "display_name": "Werk, Fluwelen Burgwal, Museumkwartier, Den Haag, MRDH, Zuid-Holland, Nederland, 2511CJ, Nederland",
+    "class": "office",
+    "type": "employment_agency",
+    "importance": 0.101
+  },
+  {
+    "place_id": "46439251",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3360863629",
+    "boundingbox": [
+      "48.2335353",
+      "48.2336353",
+      "16.3607712",
+      "16.3608712"
+    ],
+    "lat": "48.2335853",
+    "lon": "16.3608212",
+    "display_name": "Das Werk, 12, Spittelauer L\u00e4nde, Thurygrund II, KG Alsergrund, Alsergrund, Wien, 1090, \u00d6sterreich",
+    "class": "amenity",
+    "type": "culture_center",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653877800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "479844997",
+    "boundingbox": [
+      "51.1920535",
+      "51.1921898",
+      "12.7424416",
+      "12.7426766"
+    ],
+    "lat": "51.1921217",
+    "lon": "12.7425590944859",
+    "display_name": "Werk, Grimmaer Stra\u00dfe, Gro\u00dfbothen, Grimma, Landkreis Leipzig, Sachsen, 04668, Deutschland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "18660987",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1835467331",
+    "boundingbox": [
+      "50.7993563",
+      "50.7994563",
+      "6.878827",
+      "6.878927"
+    ],
+    "lat": "50.7994063",
+    "lon": "6.878877",
+    "display_name": "Werkschutz Phantasialand, 31-41, Berggeiststra\u00dfe, Badorf, Br\u00fchl, Rhein-Erft-Kreis, Regierungsbezirk K\u00f6ln, Nordrhein-Westfalen, 50321, Deutschland",
+    "class": "amenity",
+    "type": "fire_station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_firestation3.p.20.png"
+  },
+  {
+    "place_id": "36367295",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2843726821",
+    "boundingbox": [
+      "47.5268335",
+      "47.5269335",
+      "15.484313",
+      "15.484413"
+    ],
+    "lat": "47.5268835",
+    "lon": "15.484363",
+    "display_name": "Werk, Semmering Begleitstra\u00dfe, Edenbauer, St. Barbara im M\u00fcrztal, Bezirk Bruck-M\u00fcrzzuschlag, Steiermark, 8661, \u00d6sterreich",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

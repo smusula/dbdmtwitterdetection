@@ -1,0 +1,74 @@
+[
+  {
+    "place_id": "105845225",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177851885",
+    "boundingbox": [
+      "46.2350064",
+      "46.2354926",
+      "4.794196",
+      "4.7944785"
+    ],
+    "lat": "46.23528005",
+    "lon": "4.79435555858369",
+    "display_name": "truck, Aire de Cr\u00eaches, Les Mazoyers, Cr\u00eaches-sur-Sa\u00f4ne, M\u00e2con, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71680, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "105820195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "177851887",
+    "boundingbox": [
+      "46.2341134",
+      "46.2350439",
+      "4.7952754",
+      "4.7961967"
+    ],
+    "lat": "46.23466015",
+    "lon": "4.79571328335439",
+    "display_name": "truck, Aire des Sablons, Les Mazoyers, Cr\u00eaches-sur-Sa\u00f4ne, M\u00e2con, Sa\u00f4ne-et-Loire, Bourgogne-Franche-Comt\u00e9, 71680, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "119039667",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232518102",
+    "boundingbox": [
+      "46.1434961",
+      "46.1444274",
+      "4.7670431",
+      "4.7675516"
+    ],
+    "lat": "46.1439625",
+    "lon": "4.76729519022534",
+    "display_name": "truck, Aire de Drac\u00e9, Les Cordi\u00e8res, Drac\u00e9, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69220, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  },
+  {
+    "place_id": "119048254",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232520042",
+    "boundingbox": [
+      "46.1375172",
+      "46.1379228",
+      "4.7673736",
+      "4.7676599"
+    ],
+    "lat": "46.13771805",
+    "lon": "4.76751425485216",
+    "display_name": "truck, Aire de Taponas, Taponas, Villefranche-sur-Sa\u00f4ne, Rh\u00f4ne, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69220, France",
+    "class": "amenity",
+    "type": "parking",
+    "importance": 0.111
+  }
+]

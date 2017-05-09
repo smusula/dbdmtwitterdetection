@@ -1,0 +1,39 @@
+[
+  {
+    "place_id": "6704646",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "687335864",
+    "boundingbox": [
+      "44.2316638",
+      "44.2516638",
+      "-76.5984433",
+      "-76.5784433"
+    ],
+    "lat": "44.2416638",
+    "lon": "-76.5884433",
+    "display_name": "Bayridge, Kingston, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3706784",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "408425840",
+    "boundingbox": [
+      "44.2494897",
+      "44.2495897",
+      "-76.5944011",
+      "-76.5943011"
+    ],
+    "lat": "44.2495397",
+    "lon": "-76.5943511",
+    "display_name": "Bayridge, Kingston, Ontario, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  }
+]

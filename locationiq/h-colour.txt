@@ -1,0 +1,40 @@
+[
+  {
+    "place_id": "12042311",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1133372888",
+    "boundingbox": [
+      "43.3934108",
+      "43.3935108",
+      "-80.3208884",
+      "-80.3207884"
+    ],
+    "lat": "43.3934608",
+    "lon": "-80.3208384",
+    "display_name": "Colour, 355, Hespeler Road, City of Cambridge, Regional Municipality of Waterloo, Ontario, N3H 4Z7, Canada",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "47200835",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3425109540",
+    "boundingbox": [
+      "46.7553315",
+      "46.7554315",
+      "36.7873996",
+      "36.7874996"
+    ],
+    "lat": "46.7553815",
+    "lon": "36.7874496",
+    "display_name": "\u041a\u043e\u043b\u0456\u0440, 43, \u0423\u043d\u0456\u0432\u0435\u0440\u0441\u0438\u0442\u0435\u0442\u0441\u044c\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0411\u0435\u0440\u0434\u044f\u043d\u0441\u044c\u043a, \u0411\u0435\u0440\u0434\u044f\u043d\u0441\u044c\u043a\u0430 \u043c\u0456\u0441\u044c\u043a\u0430 \u0440\u0430\u0434\u0430, \u0417\u0430\u043f\u043e\u0440\u0456\u0437\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 71100, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

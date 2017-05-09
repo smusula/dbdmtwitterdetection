@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160269586",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "127082",
+    "boundingbox": [
+      "41.801482",
+      "41.885711",
+      "-89.5155829",
+      "-89.4389319"
+    ],
+    "lat": "41.842224",
+    "lon": "-89.4815484",
+    "display_name": "Dixon, Lee County, Illinois, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.58811472337203,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "72811275",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "33122098",
+    "boundingbox": [
+      "38.423754",
+      "38.489081",
+      "-121.8685689",
+      "-121.7996019"
+    ],
+    "lat": "38.4454641",
+    "lon": "-121.8232957",
+    "display_name": "Dixon, Solano County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50561306853826,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160263197",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "112505",
+    "boundingbox": [
+      "38.380103",
+      "38.489081",
+      "-121.8685689",
+      "-121.7862209"
+    ],
+    "lat": "38.4454641",
+    "lon": "-121.8232957",
+    "display_name": "Dixon, Solano County, California, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.50561306853826,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160442062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1425465",
+    "boundingbox": [
+      "42.265518",
+      "42.7633154",
+      "-97.0189739",
+      "-96.6321536"
+    ],
+    "lat": "42.4351249",
+    "lon": "-96.8792568",
+    "display_name": "Dixon County, Nebraska, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.47142999611518,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160271990",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "130742",
+    "boundingbox": [
+      "37.492581",
+      "37.526853",
+      "-87.7179639",
+      "-87.6782699"
+    ],
+    "lat": "37.5178218",
+    "lon": "-87.6902885",
+    "display_name": "Dixon, Webster County, Kentucky, United States of America",
+    "class": "place",
+    "type": "city",
+    "importance": 0.43766926065964,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "350743",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151321973",
+    "boundingbox": [
+      "36.1786344",
+      "36.2186344",
+      "-105.90863",
+      "-105.86863"
+    ],
+    "lat": "36.1986344",
+    "lon": "-105.88863",
+    "display_name": "Dixon, Rio Arriba County, New Mexico, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "473093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158538563",
+    "boundingbox": [
+      "41.5378545",
+      "41.5778545",
+      "-75.9176973",
+      "-75.8776973"
+    ],
+    "lat": "41.5578545",
+    "lon": "-75.8976973",
+    "display_name": "Dixon, Wyoming County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "349465",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151335679",
+    "boundingbox": [
+      "33.0492834",
+      "33.0892834",
+      "-96.0469146",
+      "-96.0069146"
+    ],
+    "lat": "33.0692834",
+    "lon": "-96.0269146",
+    "display_name": "Dixon, Hunt County, Texas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "392845",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153417896",
+    "boundingbox": [
+      "30.7196333",
+      "30.7596333",
+      "-86.152441",
+      "-86.112441"
+    ],
+    "lat": "30.7396333",
+    "lon": "-86.132441",
+    "display_name": "Dixon, Walton County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "415975",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153716481",
+    "boundingbox": [
+      "46.3124462",
+      "46.3524462",
+      "-86.8732067",
+      "-86.8332067"
+    ],
+    "lat": "46.3324462",
+    "lon": "-86.8532067",
+    "display_name": "Dixon, Alger County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

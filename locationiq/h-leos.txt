@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "49953183",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3697607859",
+    "boundingbox": [
+      "47.7910257",
+      "47.8310257",
+      "-2.082239",
+      "-2.042239"
+    ],
+    "lat": "47.8110257",
+    "lon": "-2.062239",
+    "display_name": "Lehos, Redon, Ille-et-Vilaine, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17305066",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1652155436",
+    "boundingbox": [
+      "53.5624503",
+      "53.5625503",
+      "10.0949275",
+      "10.0950275"
+    ],
+    "lat": "53.5625003",
+    "lon": "10.0949775",
+    "display_name": "LEOS, Stoltenstra\u00dfe, Horn, Hamburg-Mitte, Hamburg, 22119, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54129093",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4172233314",
+    "boundingbox": [
+      "50.1329258",
+      "50.1330258",
+      "8.7669017",
+      "8.7670017"
+    ],
+    "lat": "50.1329758",
+    "lon": "8.7669517",
+    "display_name": "Leos, 563, Hanauer Landstra\u00dfe, Fechenheim, Frankfurt, Regierungsbezirk Darmstadt, Hessen, 60386, Deutschland",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "127341840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "269986949",
+    "boundingbox": [
+      "53.0803866",
+      "53.080584",
+      "8.8198277",
+      "8.8202951"
+    ],
+    "lat": "53.0804745",
+    "lon": "8.82006709944506",
+    "display_name": "Leos, 1, Parkallee, Bahnhofsvorstadt, Mitte, Stadtbezirk Bremen-Mitte, Bremen, 28209, Deutschland",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "6725997",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "682275621",
+    "boundingbox": [
+      "50.1914272",
+      "50.1915272",
+      "-5.408215",
+      "-5.408115"
+    ],
+    "lat": "50.1914772",
+    "lon": "-5.408165",
+    "display_name": "Leos, Market Square, Hayle, Cornwall, South West England, England, TR27, UK",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "22649506",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2246528778",
+    "boundingbox": [
+      "47.723286",
+      "47.723386",
+      "10.315935",
+      "10.316035"
+    ],
+    "lat": "47.723336",
+    "lon": "10.315985",
+    "display_name": "Leos, 4, Bahnhofstra\u00dfe, Haubenschlo\u00df, Kempten (Allg\u00e4u), Schwaben, Bayern, 87435,87437,87439, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "6070411",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "617175026",
+    "boundingbox": [
+      "48.2773071",
+      "48.2774071",
+      "14.2493736",
+      "14.2494736"
+    ],
+    "lat": "48.2773571",
+    "lon": "14.2494236",
+    "display_name": "Leos, 1, Michaelsbergstra\u00dfe, Richtersiedlung, Leonding, Linz-Land, Ober\u00f6sterreich, 4060, \u00d6sterreich",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  },
+  {
+    "place_id": "63082419",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "14252485",
+    "boundingbox": [
+      "40.445807",
+      "40.44694",
+      "-75.8923719",
+      "-75.8907229"
+    ],
+    "lat": "40.446525",
+    "lon": "-75.8918199",
+    "display_name": "Leo's Den, Maiden Creek, Berks County, Pennsylvania, 19510, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  },
+  {
+    "place_id": "54172779",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4168104799",
+    "boundingbox": [
+      "53.4568671",
+      "53.4569671",
+      "9.9873253",
+      "9.9874253"
+    ],
+    "lat": "53.4569171",
+    "lon": "9.9873753",
+    "display_name": "Leo's, 86, Hannoversche Stra\u00dfe, Harburg, Hamburg, 21079, Deutschland",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "25912279",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2496651335",
+    "boundingbox": [
+      "52.4915193",
+      "52.4916193",
+      "13.3874152",
+      "13.3875152"
+    ],
+    "lat": "52.4915693",
+    "lon": "13.3874652",
+    "display_name": "Leo's, 49, Mehringdamm, Kreuzberg, Friedrichshain-Kreuzberg, Berlin, 10961, Deutschland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160250694",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "54386",
+    "boundingbox": [
+      "58.3971392",
+      "59.5307135",
+      "15.6164645",
+      "18.1027545"
+    ],
+    "lat": "58.96382725",
+    "lon": "16.7299348116221",
+    "display_name": "S\u00f6dermanlands l\u00e4n, Svealand, Sverige",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.57289081775607,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160562040",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2761595",
+    "boundingbox": [
+      "51.1455606",
+      "51.1507337",
+      "12.2351429",
+      "12.2440718"
+    ],
+    "lat": "51.1474124",
+    "lon": "12.2405769",
+    "display_name": "D, Elstertrebnitz, Pegau, Landkreis Leipzig, Sachsen, 04523, Deutschland",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.50234598959543
+  },
+  {
+    "place_id": "160281265",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "153538",
+    "boundingbox": [
+      "-36.0006311",
+      "-31.8337999",
+      "-67.4760999",
+      "-64.8827201"
+    ],
+    "lat": "-33.2762201",
+    "lon": "-65.9515545",
+    "display_name": "San Luis, Argentina",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.46170918902438,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "41766877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3027804015",
+    "boundingbox": [
+      "23.1294185",
+      "23.1295185",
+      "113.2695267",
+      "113.2696267"
+    ],
+    "lat": "23.1294685",
+    "lon": "113.2695767",
+    "display_name": "\u519c\u8bb2\u6240 D, \u4e2d\u5c71\u56db\u8def, \u8d8a\u79c0\u533a, \u5317\u4eac\u8857\u9053, \u8d8a\u79c0\u533a (Yuexiu), \u5e7f\u5dde\u5e02 / Guangzhou, \u5e7f\u4e1c\u7701, 510375, \u4e2d\u56fd",
+    "class": "railway",
+    "type": "subway_entrance",
+    "importance": 0.46019232957918
+  },
+  {
+    "place_id": "639852",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244082485",
+    "boundingbox": [
+      "32.698889",
+      "33.978889",
+      "106.941111",
+      "108.221111"
+    ],
+    "lat": "33.338889",
+    "lon": "107.581111",
+    "display_name": "\u6d0b\u53bf, \u6c49\u4e2d\u5e02 / Hanzhong, \u4e2d\u56fd",
+    "class": "place",
+    "type": "county",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160760113",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4062436",
+    "boundingbox": [
+      "20.4294563",
+      "20.4510368",
+      "-100.1645626",
+      "-100.1446282"
+    ],
+    "lat": "20.4402312",
+    "lon": "-100.1536164",
+    "display_name": "La D, Pedro Escobedo, Quer\u00e9taro, M\u00e9xico",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.45,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "9075000",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "939968446",
+    "boundingbox": [
+      "43.6041451",
+      "43.6042451",
+      "3.8803408",
+      "3.8804408"
+    ],
+    "lat": "43.6041951",
+    "lon": "3.8803908",
+    "display_name": "Montpellier Saint-Roch, Rue des Deux Ponts, Gares, Centre, Montpellier, H\u00e9rault, Occitanie, 34000;34070;34080;34090, France",
+    "class": "railway",
+    "type": "stop",
+    "importance": 0.44895026566653
+  },
+  {
+    "place_id": "151739777",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "400584782",
+    "boundingbox": [
+      "27.0598446",
+      "27.063159",
+      "86.3545146",
+      "86.358454"
+    ],
+    "lat": "27.0611914",
+    "lon": "86.3567676",
+    "display_name": "d, Hardeni, \u0909\u0926\u092f\u092a\u0941\u0930, \u0938\u0917\u0930\u092e\u093e\u0925\u093e \u0905\u091e\u094d\u091a\u0932, \u092a\u0941\u0930\u094d\u0935\u093e\u091e\u094d\u091a\u0932 \u0935\u093f\u0915\u093e\u0938 \u0915\u094d\u0937\u0947\u0924\u094d\u0930, \u0928\u0947\u092a\u093e\u0932",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "620350",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244081798",
+    "boundingbox": [
+      "38.583013",
+      "38.903013",
+      "114.812718",
+      "115.132718"
+    ],
+    "lat": "38.743013",
+    "lon": "114.972718",
+    "display_name": "\u5510\u53bf, \u5510\u53bf (Tang), \u4fdd\u5b9a\u5e02, \u6cb3\u5317\u7701, \u4e2d\u56fd",
+    "class": "place",
+    "type": "city",
+    "importance": 0.4346648566325,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160627962",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3309805",
+    "boundingbox": [
+      "9.034115",
+      "11.3800863",
+      "-14.0123615",
+      "-12.1100905"
+    ],
+    "lat": "10.1154374",
+    "lon": "-13.1916882",
+    "display_name": "R\u00e9gion de Kindia, Guin\u00e9e",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.42876858236251,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  }
+]

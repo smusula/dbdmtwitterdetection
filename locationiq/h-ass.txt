@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160251007",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "46330",
+    "boundingbox": [
+      "45.8464894",
+      "45.8878116",
+      "9.243466",
+      "9.2868183"
+    ],
+    "lat": "45.8606694",
+    "lon": "9.2697487",
+    "display_name": "Asso, CO, LOM, Italia",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.5900911650427,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "54488618",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4195914591",
+    "boundingbox": [
+      "60.0980349",
+      "60.0981349",
+      "19.9245267",
+      "19.9246267"
+    ],
+    "lat": "60.0980849",
+    "lon": "19.9245767",
+    "display_name": "\u00c5SS, Mariehamn, Mariehamns stad, Landskapet \u00c5land, Regional State Agency \u00c5land, \u00c5land, Suomi",
+    "class": "waterway",
+    "type": "fuel",
+    "importance": 0.325
+  },
+  {
+    "place_id": "132292",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26480789",
+    "boundingbox": [
+      "57.6894029",
+      "57.6994029",
+      "-4.2547935",
+      "-4.2447935"
+    ],
+    "lat": "57.6944029",
+    "lon": "-4.2497935",
+    "display_name": "Alness, U5112, Alness, Highland, Scotland, IV17 0UY, UK",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.17217279423731,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "127425613",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "270576428",
+    "boundingbox": [
+      "52.2314129",
+      "52.2319197",
+      "6.8461003",
+      "6.8469352"
+    ],
+    "lat": "52.23166635",
+    "lon": "6.84651778226645",
+    "display_name": "ASS, Overloop, Havengebied, Enschede, Regio Twente, Overijssel, Nederland, 7547AM, Nederland",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "135150763",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311129723",
+    "boundingbox": [
+      "52.4879719",
+      "52.4882712",
+      "-1.8973583",
+      "-1.8969733"
+    ],
+    "lat": "52.48807625",
+    "lon": "-1.89721802444615",
+    "display_name": "ASS, Cliveland Street, Jewellery Quarter, Newtown, Birmingham, West Midlands, England, B19, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "111153539",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "200817173",
+    "boundingbox": [
+      "51.5205267",
+      "51.5208524",
+      "14.0122461",
+      "14.0130233"
+    ],
+    "lat": "51.5206641",
+    "lon": "14.012634682027",
+    "display_name": "ASS, B 96, Buchwalde, Senftenberg, Landkreis Oberspreewald-Lausitz, Brandenburg, 01968, Deutschland",
+    "class": "shop",
+    "type": "car_repair",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_car_repair.p.20.png"
+  },
+  {
+    "place_id": "149762630",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388486658",
+    "boundingbox": [
+      "50.5707916",
+      "50.5714082",
+      "11.7927441",
+      "11.7937505"
+    ],
+    "lat": "50.57110265",
+    "lon": "11.7932373663651",
+    "display_name": "Ass, 80, Oschitzer Stra\u00dfe, Schleiz, Saale-Orla-Kreis, Th\u00fcringen, 07907, Deutschland",
+    "class": "amenity",
+    "type": "fuel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_fuel.p.20.png"
+  },
+  {
+    "place_id": "149813313",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "388486657",
+    "boundingbox": [
+      "50.5711399",
+      "50.5713209",
+      "11.793149",
+      "11.7934154"
+    ],
+    "lat": "50.5712294",
+    "lon": "11.7932678339273",
+    "display_name": "ASS, Oschitzer Stra\u00dfe, Schleiz, Saale-Orla-Kreis, Th\u00fcringen, 07907, Deutschland",
+    "class": "amenity",
+    "type": "car_wash",
+    "importance": 0.101
+  },
+  {
+    "place_id": "80116028",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65231524",
+    "boundingbox": [
+      "47.8164564",
+      "47.8167914",
+      "10.9020173",
+      "10.9025627"
+    ],
+    "lat": "47.81662225",
+    "lon": "10.9022933796056",
+    "display_name": "ASS, Wiesenweg, Lechvorstadt, Schongau, Landkreis Weilheim-Schongau, OB, Bayern, 86956, Deutschland",
+    "class": "shop",
+    "type": "computer",
+    "importance": 0.101
+  },
+  {
+    "place_id": "100586696",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "158449911",
+    "boundingbox": [
+      "47.6232491",
+      "47.6235084",
+      "8.3169301",
+      "8.3173694"
+    ],
+    "lat": "47.6233495",
+    "lon": "8.31714975654149",
+    "display_name": "Ass, 30, Lauchringer Stra\u00dfe, Neuwiesen Hof, Lauchringen, Verwaltungsgemeinschaft Waldshut-Tiengen, Landkreis Waldshut, Regierungsbezirk Freiburg, Baden-W\u00fcrttemberg, 79787, Deutschland",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

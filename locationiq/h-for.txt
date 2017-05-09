@@ -1,0 +1,187 @@
+[
+  {
+    "place_id": "160628931",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "3352541",
+    "boundingbox": [
+      "54.6791607",
+      "54.7554976",
+      "8.3949203",
+      "8.5968159"
+    ],
+    "lat": "54.7173519",
+    "lon": "8.4957628497197",
+    "display_name": "F\u00f6hr, Alkersum, F\u00f6hr-Amrum, Kreis Nordfriesland, Schleswig-Holstein, Deutschland",
+    "class": "place",
+    "type": "island",
+    "importance": 0.4489572928996
+  },
+  {
+    "place_id": "160180415",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "447775921",
+    "boundingbox": [
+      "-29.9826182",
+      "-29.9789596",
+      "29.0317475",
+      "29.0330724"
+    ],
+    "lat": "-29.9805551",
+    "lon": "29.032005",
+    "display_name": "for, Qacha's Nek District, Qacha's Nek, Lesotho",
+    "class": "waterway",
+    "type": "stream",
+    "importance": 0.435
+  },
+  {
+    "place_id": "121472643",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "243013821",
+    "boundingbox": [
+      "-3.7810475",
+      "-3.7716012",
+      "-38.5506458",
+      "-38.5208772"
+    ],
+    "lat": "-3.77636315",
+    "lon": "-38.5371771780859",
+    "display_name": "Aeroporto Internacional de Fortaleza, Avenida Senador Carlos Jereissati, Aeroporto, Fortaleza, Microrregi\u00e3o de Fortaleza, Mesorregi\u00e3o Metropolitana de Fortaleza, CE, Regi\u00e3o Nordeste, 60740130, Brasil",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.42247097762006,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "4746824",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "510903618",
+    "boundingbox": [
+      "47.415923",
+      "47.435923",
+      "7.8218047",
+      "7.8418047"
+    ],
+    "lat": "47.425923",
+    "lon": "7.8318047",
+    "display_name": "For, Wittinsburg, Bezirk Sissach, Basel-Landschaft, 4443, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50976759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3797226189",
+    "boundingbox": [
+      "42.8459998",
+      "42.8460998",
+      "-2.6721028",
+      "-2.6720028"
+    ],
+    "lat": "42.8460498",
+    "lon": "-2.6720528",
+    "display_name": "For, Calle del Lehendakari Aguirre, Zabalgunea, Ensanche, Vitoria-Gasteiz, Vitoria-Gasteizko Eskualdea / Cuadrilla de Vitoria, Araba/\u00c1lava, Euskadi, 01001, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "26841856",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2538259808",
+    "boundingbox": [
+      "42.1372734",
+      "42.1373734",
+      "-0.4069522",
+      "-0.4068522"
+    ],
+    "lat": "42.1373234",
+    "lon": "-0.4069022",
+    "display_name": "For, Coso Bajo, Barrio de San Lorenzo, Huesca, Hoya de Huesca / Plana de Uesca, Huesca, Arag\u00f3n, 22001, Espa\u00f1a",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "54206628",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4158244005",
+    "boundingbox": [
+      "49.0086986",
+      "49.0087986",
+      "8.4103577",
+      "8.4104577"
+    ],
+    "lat": "49.0087486",
+    "lon": "8.4104077",
+    "display_name": "FOR, 3, Fritz-Erler-Stra\u00dfe, Innenstadt-Ost, Karlsruhe, Regierungsbezirk Karlsruhe, Baden-W\u00fcrttemberg, 76133, Deutschland",
+    "class": "office",
+    "type": "university",
+    "importance": 0.101
+  },
+  {
+    "place_id": "116212033",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "221966564",
+    "boundingbox": [
+      "37.3196099",
+      "37.3198792",
+      "-122.0452937",
+      "-122.0447005"
+    ],
+    "lat": "37.31974885",
+    "lon": "-122.04499710061",
+    "display_name": "Forum, Campus Drive, Cupertino, Santa Clara County, California, 95014-5713, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "102671249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165945764",
+    "boundingbox": [
+      "44.7685183",
+      "44.7695095",
+      "11.492373",
+      "11.4934294"
+    ],
+    "lat": "44.7690163",
+    "lon": "11.4928846659156",
+    "display_name": "FOR, Via Segadizzo, Poggio Renatico, FE, EMR, 44028, Italia",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "14222492",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1289178985",
+    "boundingbox": [
+      "61.1217104",
+      "61.1218104",
+      "8.8579272",
+      "8.8580272"
+    ],
+    "lat": "61.1217604",
+    "lon": "8.8579772",
+    "display_name": "F\u00f8r, 261, Vestre Slidre, Oppland, 2966, Norge",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  }
+]

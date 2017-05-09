@@ -1,0 +1,114 @@
+[
+  {
+    "place_id": "48978467",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3612041751",
+    "boundingbox": [
+      "-13.6892632",
+      "-13.6492632",
+      "-74.6094",
+      "-74.5694"
+    ],
+    "lat": "-13.6692632",
+    "lon": "-74.5894",
+    "display_name": "Cute, V\u00edctor Fajardo, Ayacucho, Per\u00fa",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52013272",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3913316382",
+    "boundingbox": [
+      "47.9796478",
+      "47.9996478",
+      "6.738347",
+      "6.758347"
+    ],
+    "lat": "47.9896478",
+    "lon": "6.748347",
+    "display_name": "Le Cute, Basse-sur-le-Rupt, \u00c9pinal, Vosges, Grand-Est, 88120, France",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4241877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "458636848",
+    "boundingbox": [
+      "16.763889",
+      "16.803889",
+      "-98.0222219",
+      "-97.9822219"
+    ],
+    "lat": "16.783889",
+    "lon": "-98.0022219",
+    "display_name": "El Cuete, Santa Mar\u00eda Zacatepec, Oaxaca, M\u00e9xico",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.275,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13671704",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1242633867",
+    "boundingbox": [
+      "42.359408",
+      "42.379408",
+      "-6.4145875",
+      "-6.3945875"
+    ],
+    "lat": "42.369408",
+    "lon": "-6.4045875",
+    "display_name": "El Cuete, Lucillo, Le\u00f3n, Castilla y Le\u00f3n, Espa\u00f1a",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.25,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "2651735601",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "473843472",
+    "boundingbox": [
+      "-34.6206359",
+      "-34.6205779",
+      "-58.3702438",
+      "-58.3701527"
+    ],
+    "lat": "-34.6206073",
+    "lon": "-58.370198473796",
+    "display_name": "Cute!, Humberto I, San Telmo, CABA, Comuna 1, CABA, C1065AAR, Argentina",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "6027012",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "623568965",
+    "boundingbox": [
+      "-18.8790908",
+      "-18.8789908",
+      "47.5600435",
+      "47.5601435"
+    ],
+    "lat": "-18.8790408",
+    "lon": "47.5600935",
+    "display_name": "Cute, L\u00e0lana Ambatobe, Ambatobe, Mandrosoa, Province d\u2019Antananarivo, 101, Madagasikara",
+    "class": "shop",
+    "type": "beautician",
+    "importance": 0.101
+  }
+]

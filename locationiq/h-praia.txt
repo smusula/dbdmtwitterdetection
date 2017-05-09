@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "149405",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "28095099",
+    "boundingbox": [
+      "14.7560169",
+      "15.0760169",
+      "-23.6696131",
+      "-23.3496131"
+    ],
+    "lat": "14.9160169",
+    "lon": "-23.5096131",
+    "display_name": "Praia, 7600, Cabo Verde",
+    "class": "place",
+    "type": "city",
+    "importance": 0.62211416956041,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_city.p.20.png"
+  },
+  {
+    "place_id": "160733968",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4021586",
+    "boundingbox": [
+      "14.8999393",
+      "14.9968293",
+      "-23.5860072",
+      "-23.4546338"
+    ],
+    "lat": "14.9493353",
+    "lon": "-23.5205943229594",
+    "display_name": "Praia, Cabo Verde",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.55,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "7183175",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "747948105",
+    "boundingbox": [
+      "36.9109086",
+      "36.9909086",
+      "-25.1374567",
+      "-25.0574567"
+    ],
+    "lat": "36.9509086",
+    "lon": "-25.0974567",
+    "display_name": "Praia, Portugal (\u00e1guas territoriais)",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "26881750",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2544282794",
+    "boundingbox": [
+      "-20.5175217",
+      "-20.4775217",
+      "-43.8791113",
+      "-43.8391113"
+    ],
+    "lat": "-20.4975217",
+    "lon": "-43.8591113",
+    "display_name": "Praia, Microrregi\u00e3o Conselheiro Lafaiete, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "3845800",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "416759027",
+    "boundingbox": [
+      "-4.8332284",
+      "-4.7932284",
+      "-54.6882619",
+      "-54.6482619"
+    ],
+    "lat": "-4.8132284",
+    "lon": "-54.6682619",
+    "display_name": "Altamira, Praia, Microrregi\u00e3o de Altamira, Mesorregi\u00e3o Sudoeste Paraense, PA, Regi\u00e3o Norte, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "52256837",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3937076917",
+    "boundingbox": [
+      "-6.8331562",
+      "-6.7931562",
+      "-72.1747356",
+      "-72.1347356"
+    ],
+    "lat": "-6.8131562",
+    "lon": "-72.1547356",
+    "display_name": "Atalaia do Norte, Praia, Microrregi\u00e3o do Alto Solim\u00f5es, Mesorregi\u00e3o Sudoeste Amazonense, AM, Regi\u00e3o Norte, Brasil",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160856239",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5535283",
+    "boundingbox": [
+      "-19.8970977",
+      "-19.8873501",
+      "-44.0964145",
+      "-44.0889714"
+    ],
+    "lat": "-19.8923715",
+    "lon": "-44.0924759",
+    "display_name": "Bairro da Praia, Sede, Contagem, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "160856435",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "5536753",
+    "boundingbox": [
+      "-20.251885",
+      "-20.2440144",
+      "-43.8090119",
+      "-43.8014244"
+    ],
+    "lat": "-20.2487485",
+    "lon": "-43.8054139",
+    "display_name": "Praia, Itabirito, Microrregi\u00e3o Ouro Preto, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "2653855334",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4728364816",
+    "boundingbox": [
+      "-19.778391",
+      "-19.778291",
+      "-44.2305144",
+      "-44.2304144"
+    ],
+    "lat": "-19.778341",
+    "lon": "-44.2304644",
+    "display_name": "Praia, Esmeraldas, Microrregi\u00e3o Belo Horizonte, Regi\u00e3o Metropolitana de Belo Horizonte, Mesorregi\u00e3o Metropolitana de Belo Horizonte, MG, Regi\u00e3o Sudeste, Brasil",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "134172023",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "306158870",
+    "boundingbox": [
+      "22.205003",
+      "22.2063846",
+      "113.5406677",
+      "113.5417693"
+    ],
+    "lat": "22.2056352",
+    "lon": "113.541223098933",
+    "display_name": "\u6d77\u64ce\u5929 The Praia, \u7b77\u5b50\u57fa Fai Chi Kei, \u82b1\u738b\u5802\u5340 Santo Ant\u00f3nio, \u6fb3\u9580 Macau, 853, \u4e2d\u56fd",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  }
+]

@@ -1,0 +1,152 @@
+[
+  {
+    "place_id": "79902888",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "62277169",
+    "boundingbox": [
+      "45.7818429",
+      "45.7824722",
+      "4.8476613",
+      "4.8485324"
+    ],
+    "lat": "45.78215785",
+    "lon": "4.84810814127187",
+    "display_name": "Interpol, All\u00e9e Achille Lignon, Cit\u00e9 Internationale, Lyon 6e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69006, France",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.65262221600152,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "2650695267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "226928446",
+    "boundingbox": [
+      "36.7263218",
+      "36.7289796",
+      "3.1500936",
+      "3.1541549"
+    ],
+    "lat": "36.72764995",
+    "lon": "3.15282349606675",
+    "display_name": "Interpol, Cinq Maisons, Mohammadia, Da\u00efra Dar El Be\u00efda, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16058, RADP",
+    "class": "landuse",
+    "type": "commercial",
+    "importance": 0.3
+  },
+  {
+    "place_id": "2647425848",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "381220861",
+    "boundingbox": [
+      "45.7824693",
+      "45.7825808",
+      "4.8500546",
+      "4.8502516"
+    ],
+    "lat": "45.7825808",
+    "lon": "4.8502516",
+    "display_name": "Interpol, Cit\u00e9 Internationale, Lyon 6e Arrondissement, Lyon, M\u00e9tropole de Lyon, Circonscription d\u00e9partementale du Rh\u00f4ne, Auvergne-Rh\u00f4ne-Alpes, 69006, France",
+    "class": "highway",
+    "type": "bus_stop",
+    "importance": 0.2,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_bus_stop2.p.20.png"
+  },
+  {
+    "place_id": "132295789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298029812",
+    "boundingbox": [
+      "1.3056492",
+      "1.3061292",
+      "103.8218261",
+      "103.8225208"
+    ],
+    "lat": "1.3059053",
+    "lon": "103.822256131264",
+    "display_name": "Interpol, 18, Nassim Hill, Tanglin, Singapore, Central Singapore Community Development Council, 258482, Singapore",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "76310675",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "44862181",
+    "boundingbox": [
+      "41.3051016",
+      "41.3053798",
+      "69.2627674",
+      "69.2631377"
+    ],
+    "lat": "41.30524075",
+    "lon": "69.2629525467518",
+    "display_name": "Interpol, Yunus Rajabiy ko'chasi, Yakkasaroy Tumani, Shaykhontohur Tumani, Toshkent, 100000, O\u02bbzbekiston",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "6721771",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "691098530",
+    "boundingbox": [
+      "36.7220559",
+      "36.7221559",
+      "3.1982911",
+      "3.1983911"
+    ],
+    "lat": "36.7221059",
+    "lon": "3.1983411",
+    "display_name": "Interpol, Route de l'a\u00e9roport \u0637\u0631\u064a\u0642 \u0627\u0644\u0645\u0637\u0627\u0631, Dar El Be\u00efda, Da\u00efra Dar El Be\u00efda, Alger - \u0627\u0644\u062c\u0632\u0627\u0626\u0631, 16311, RADP",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  },
+  {
+    "place_id": "74174789",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "37631749",
+    "boundingbox": [
+      "-4.3125287",
+      "-4.3124018",
+      "15.286758",
+      "15.2869913"
+    ],
+    "lat": "-4.3124652",
+    "lon": "15.2868746497046",
+    "display_name": "Interpol, Avenue des Forces Arm\u00e9es, Royal, Gombe, Kinshasa, 243, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23834609",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2338889792",
+    "boundingbox": [
+      "40.2192448",
+      "40.2193448",
+      "44.540256",
+      "44.540356"
+    ],
+    "lat": "40.2192948",
+    "lon": "44.540306",
+    "display_name": "\u053b\u0546\u054f\u0535\u0550\u054a\u0548\u053c\u053b \u0531\u0536\u0533\u0531\u0545\u053b\u0546 \u053f\u0535\u0546\u054f\u0550\u0548\u0546\u0531\u053f\u0531\u0546 \u0532\u0545\u0548\u0552\u0550\u0548, 48, \u0536\u0561\u0584\u0561\u0580\u056b\u0561 \u054d\u0561\u0580\u056f\u0561\u057e\u0561\u0563\u056b \u0583\u0578\u0572\u0578\u0581, \u0554\u0561\u0576\u0561\u0584\u0565\u057c \u0570\u0561\u0574\u0561\u0575\u0576\u0584, \u0535\u0580\u0587\u0561\u0576, 0052, \u0540\u0561\u0575\u0561\u057d\u057f\u0561\u0576",
+    "class": "amenity",
+    "type": "police",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/amenity_police2.p.20.png"
+  }
+]

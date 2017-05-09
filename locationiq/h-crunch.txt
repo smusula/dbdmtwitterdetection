@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "53662374",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4113144392",
+    "boundingbox": [
+      "40.7272333",
+      "40.7273333",
+      "-73.9917594",
+      "-73.9916594"
+    ],
+    "lat": "40.7272833",
+    "lon": "-73.9917094",
+    "display_name": "Crunch, 2, Cooper Square, NoHo, Manhattan, New York County, NYC, New York, 10003, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "28054122",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2623873438",
+    "boundingbox": [
+      "40.7445803",
+      "40.7446803",
+      "-73.9966337",
+      "-73.9965337"
+    ],
+    "lat": "40.7446303",
+    "lon": "-73.9965837",
+    "display_name": "Crunch, 225, West 23rd Street, Chelsea, Manhattan, New York County, NYC, New York, 10011, United States of America",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54891643",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4252837964",
+    "boundingbox": [
+      "52.0811129",
+      "52.0812129",
+      "4.2971612",
+      "4.2972612"
+    ],
+    "lat": "52.0811629",
+    "lon": "4.2972112",
+    "display_name": "Crunch, Piet Heinstraat, Zeeheldenkwartier, Den Haag, MRDH, Zuid-Holland, Nederland, 2518, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "45153553",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3221481817",
+    "boundingbox": [
+      "51.452924",
+      "51.453024",
+      "-0.1041375",
+      "-0.1040375"
+    ],
+    "lat": "51.452974",
+    "lon": "-0.1040875",
+    "display_name": "Crunch, 107, Dulwich Road, Herne Hill, London Borough of Lambeth, London, Greater London, England, SE24 0NG, UK",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "2652350016",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "475430425",
+    "boundingbox": [
+      "45.5025608",
+      "45.5030776",
+      "-122.5388276",
+      "-122.5383767"
+    ],
+    "lat": "45.50279035",
+    "lon": "-122.538602095123",
+    "display_name": "Crunch, 12112, Southeast Division Street, Powellhurst, Portland, Multnomah County, Oregon, 97266, United States of America",
+    "class": "leisure",
+    "type": "fitness_centre",
+    "importance": 0.101
+  },
+  {
+    "place_id": "26142519",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2501119324",
+    "boundingbox": [
+      "37.8702991",
+      "37.8703991",
+      "-122.2667578",
+      "-122.2666578"
+    ],
+    "lat": "37.8703491",
+    "lon": "-122.2667078",
+    "display_name": "Crunch, 2144, Center Street, Downtown Berkeley, Berkeley, Alameda County, California, 94704, United States of America",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "22949300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2280845749",
+    "boundingbox": [
+      "42.5631731",
+      "42.5632731",
+      "12.6457922",
+      "12.6458922"
+    ],
+    "lat": "42.5632231",
+    "lon": "12.6458422",
+    "display_name": "Crunch, 34, Via Federico Fratini, Vocabolo Pentima Bassa, Terni, TR, UMB, 05100, Italia",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "54459781",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4209659708",
+    "boundingbox": [
+      "14.1005254",
+      "14.1006254",
+      "-87.1939944",
+      "-87.1938944"
+    ],
+    "lat": "14.1005754",
+    "lon": "-87.1939444",
+    "display_name": "Crunch, Republica de Argentina, La Argentina, Palmira, Tegucigalpa, Francisco Moraz\u00e1n, 12101, Honduras",
+    "class": "shop",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "52623867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3992924360",
+    "boundingbox": [
+      "25.7912773",
+      "25.7913773",
+      "-80.1414701",
+      "-80.1413701"
+    ],
+    "lat": "25.7913273",
+    "lon": "-80.1414201",
+    "display_name": "Crunch, 1676, Alton Road, Miami Beach, Miami-Dade County, Florida, 33139, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  },
+  {
+    "place_id": "26468137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2521642692",
+    "boundingbox": [
+      "33.8609356",
+      "33.8610356",
+      "-118.1260664",
+      "-118.1259664"
+    ],
+    "lat": "33.8609856",
+    "lon": "-118.1260164",
+    "display_name": "Crunch Fitness, 5815, Bellflower Boulevard, Lakewood, Los Angeles County, California, 90713, United States of America",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

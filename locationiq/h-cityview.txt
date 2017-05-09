@@ -1,0 +1,148 @@
+[
+  {
+    "place_id": "442869",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154131327",
+    "boundingbox": [
+      "36.0818039",
+      "36.1218039",
+      "-80.2247698",
+      "-80.1847698"
+    ],
+    "lat": "36.1018039",
+    "lon": "-80.2047698",
+    "display_name": "Cityview, Forsyth County, North Carolina, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "129057",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "26229568",
+    "boundingbox": [
+      "45.3523632",
+      "45.3524632",
+      "-75.7457654",
+      "-75.7456654"
+    ],
+    "lat": "45.3524132",
+    "lon": "-75.7457154",
+    "display_name": "Cityview, Nepean, College, Ottawa, Ontario, K2C2G9, Canada",
+    "class": "place",
+    "type": "neighbourhood",
+    "importance": 0.3
+  },
+  {
+    "place_id": "104732006",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173328312",
+    "boundingbox": [
+      "41.8904502",
+      "41.8909438",
+      "-87.6184998",
+      "-87.6178423"
+    ],
+    "lat": "41.8907755",
+    "lon": "-87.6181778345801",
+    "display_name": "Cityview, 480, North McClurg Court, Streeterville, Chicago, Cook County, Illinois, 60611, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "104698773",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173328313",
+    "boundingbox": [
+      "41.8896228",
+      "41.890186",
+      "-87.6184784",
+      "-87.6178148"
+    ],
+    "lat": "41.8898225",
+    "lon": "-87.6181407594552",
+    "display_name": "Cityview, 440, North McClurg Court, Streeterville, Chicago, Cook County, Illinois, 60611, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "123452614",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "251098215",
+    "boundingbox": [
+      "39.9624493",
+      "39.9630745",
+      "-75.1729208",
+      "-75.1713677"
+    ],
+    "lat": "39.96275015",
+    "lon": "-75.1721361580339",
+    "display_name": "Cityview, 2001, Hamilton Street, Spring Garden, Philadelphia, Philadelphia County, Pennsylvania, 19103, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "13952867",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1272674957",
+    "boundingbox": [
+      "22.3136358",
+      "22.3137358",
+      "114.1716801",
+      "114.1717801"
+    ],
+    "lat": "22.3136858",
+    "lon": "114.1717301",
+    "display_name": "\u57ce\u666f\u570b\u969b The Cityview, 23, \u7aa9\u6253\u8001\u9053 Waterloo Road, \u4eac\u58eb\u67cf King's Park, \u6cb9\u9ebb\u5730 Yau Ma Tei, \u6cb9\u5c16\u65fa\u5340 Yau Tsim Mong District, \u4e5d\u9f8d Kowloon, HK, KIL 3348, \u4e2d\u56fd",
+    "class": "tourism",
+    "type": "hotel",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/accommodation_hotel2.p.20.png"
+  },
+  {
+    "place_id": "22383671",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2230440959",
+    "boundingbox": [
+      "10.7848618",
+      "10.7849618",
+      "106.6995115",
+      "106.6996115"
+    ],
+    "lat": "10.7849118",
+    "lon": "106.6995615",
+    "display_name": "cityView, 12, M\u1ea1c \u0110\u0129nh Chi, Ph\u01b0\u1eddng \u0110a Kao, Qu\u1eadn 1, Tp HCM, 100081, Vi\u1ec7t Nam",
+    "class": "amenity",
+    "type": "kindergarten",
+    "importance": 0.101
+  },
+  {
+    "place_id": "102607647",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "165627078",
+    "boundingbox": [
+      "10.7847684",
+      "10.7851969",
+      "106.6993138",
+      "106.699764"
+    ],
+    "lat": "10.7849826",
+    "lon": "106.699538901365",
+    "display_name": "Cityview, 12, M\u1ea1c \u0110\u0129nh Chi, Ph\u01b0\u1eddng \u0110a Kao, Qu\u1eadn 1, Tp HCM, 100081, Vi\u1ec7t Nam",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  }
+]

@@ -1,0 +1,147 @@
+[
+  {
+    "place_id": "437286",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154090543",
+    "boundingbox": [
+      "26.3795264",
+      "26.4195264",
+      "-81.8595314",
+      "-81.8195314"
+    ],
+    "lat": "26.3995264",
+    "lon": "-81.8395314",
+    "display_name": "Coconut, Lee County, Florida, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "121326744",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "242367314",
+    "boundingbox": [
+      "11.4139898",
+      "11.4142943",
+      "75.8253036",
+      "75.8255624"
+    ],
+    "lat": "11.41413985",
+    "lon": "75.8253893149674",
+    "display_name": "Coconut, Nanminda 13th Mile, Kozhikode, Kerala, 673613, India",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "132553322",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298980958",
+    "boundingbox": [
+      "11.1714202",
+      "11.1718443",
+      "124.9822184",
+      "124.9838907"
+    ],
+    "lat": "11.1716329",
+    "lon": "124.983075614182",
+    "display_name": "Coconut, Arado, Palo, Leyte 1st District, Leyte, Eastern Visayas, 6501, Philippines",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "132480096",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298746904",
+    "boundingbox": [
+      "11.1754848",
+      "11.176249",
+      "124.985084",
+      "124.9861636"
+    ],
+    "lat": "11.17584485",
+    "lon": "124.985895848019",
+    "display_name": "Coconut, San Jose, Palo, Leyte 1st District, Leyte, Eastern Visayas, 6501, Philippines",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "132566426",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "298999363",
+    "boundingbox": [
+      "11.170865",
+      "11.1723874",
+      "124.9615823",
+      "124.9634727"
+    ],
+    "lat": "11.17167755",
+    "lon": "124.962283166671",
+    "display_name": "Coconut, Libertad, Palo, Leyte 1st District, Leyte, Eastern Visayas, 6501, Philippines",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "132838145",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "300173972",
+    "boundingbox": [
+      "11.1566549",
+      "11.1568693",
+      "124.9571266",
+      "124.9572178"
+    ],
+    "lat": "11.15676685",
+    "lon": "124.957166292654",
+    "display_name": "Coconut, San Isidro, Palo, Leyte 1st District, Leyte, Eastern Visayas, 6501, Philippines",
+    "class": "landuse",
+    "type": "farm",
+    "importance": 0.3
+  },
+  {
+    "place_id": "135314449",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311514217",
+    "boundingbox": [
+      "10.8045678",
+      "10.8067377",
+      "124.9672957",
+      "124.9693004"
+    ],
+    "lat": "10.8055348",
+    "lon": "124.968690264213",
+    "display_name": "Coconut, Liwayway, Javier, Leyte 5th District, Leyte, Eastern Visayas, 6511, Philippines",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.3
+  },
+  {
+    "place_id": "135239513",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "311517600",
+    "boundingbox": [
+      "10.8101053",
+      "10.810738",
+      "124.9663934",
+      "124.9671827"
+    ],
+    "lat": "10.8103794",
+    "lon": "124.966798285076",
+    "display_name": "Coconut, MacArthur, Leyte 2nd District, Leyte, Eastern Visayas, 6509, Philippines",
+    "class": "landuse",
+    "type": "farmland",
+    "importance": 0.3
+  }
+]

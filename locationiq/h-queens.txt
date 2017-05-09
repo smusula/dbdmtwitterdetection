@@ -1,0 +1,188 @@
+[
+  {
+    "place_id": "160324310",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "369519",
+    "boundingbox": [
+      "40.4932114",
+      "40.8119497",
+      "-74.0444158",
+      "-73.7001808"
+    ],
+    "lat": "40.6524927",
+    "lon": "-73.7914213158161",
+    "display_name": "Queens County, NYC, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.71868771016489,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "98163187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "148215569",
+    "boundingbox": [
+      "52.2013319",
+      "52.2036871",
+      "0.1129553",
+      "0.1163762"
+    ],
+    "lat": "52.20248115",
+    "lon": "0.114708265185821",
+    "display_name": "Queens' College (University of Cambridge), Silver Street, Newnham Ward, Cambridge, Cambridgeshire, East of England, England, CB3 9ET, UK",
+    "class": "amenity",
+    "type": "university",
+    "importance": 0.53838660857629,
+    "icon": "https://locationiq.org/static/images/mapicons/education_university.p.20.png"
+  },
+  {
+    "place_id": "98451266",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "149173477",
+    "boundingbox": [
+      "51.511725",
+      "51.5119662",
+      "-0.1328939",
+      "-0.1325306"
+    ],
+    "lat": "51.51184655",
+    "lon": "-0.13271203559227",
+    "display_name": "Queen's, 48, Shaftesbury Avenue, Chinatown, City of Westminster, London, Greater London, England, W1D 6BA, UK",
+    "class": "amenity",
+    "type": "theatre",
+    "importance": 0.38286766306967,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_theatre.p.20.png"
+  },
+  {
+    "place_id": "432817",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154296702",
+    "boundingbox": [
+      "38.6136862",
+      "38.6536862",
+      "-83.4587995",
+      "-83.4187995"
+    ],
+    "lat": "38.6336862",
+    "lon": "-83.4387995",
+    "display_name": "Queens, Lewis County, Kentucky, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "429214",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153943989",
+    "boundingbox": [
+      "38.8370477",
+      "38.8770477",
+      "-80.1567446",
+      "-80.1167446"
+    ],
+    "lat": "38.8570477",
+    "lon": "-80.1367446",
+    "display_name": "Queens, Upshur County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "505320",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "158863443",
+    "boundingbox": [
+      "40.7298243",
+      "40.7698243",
+      "-73.8176336",
+      "-73.7776336"
+    ],
+    "lat": "40.7498243",
+    "lon": "-73.7976336",
+    "display_name": "Queens, New York, NYC, New York, United States of America",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "104749795",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "173391657",
+    "boundingbox": [
+      "1.292197",
+      "1.2936749",
+      "103.8052512",
+      "103.8073539"
+    ],
+    "lat": "1.29303435",
+    "lon": "103.806063253273",
+    "display_name": "Queens, Queenstown, Singapore, Central Singapore Community Development Council, Singapore",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "68138974",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "21951652",
+    "boundingbox": [
+      "38.574026",
+      "38.576453",
+      "-89.0449039",
+      "-89.0424759"
+    ],
+    "lat": "38.57469",
+    "lon": "-89.0441919",
+    "display_name": "Queens, Marion County, Illinois, 62870, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "71035125",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "28873789",
+    "boundingbox": [
+      "7.0572638",
+      "7.0586256",
+      "125.5507207",
+      "125.5542709"
+    ],
+    "lat": "7.0578632",
+    "lon": "125.5526124",
+    "display_name": "Queens, Royal Valley Subdivision, Davao City, Davao, 8000, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "124583480",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "255922212",
+    "boundingbox": [
+      "57.1467273",
+      "57.1468933",
+      "-2.1782563",
+      "-2.1776558"
+    ],
+    "lat": "57.1467798",
+    "lon": "-2.178101",
+    "display_name": "Queen's Den, Hazlehead, Aberdeen, Aberdeen City, Scotland, AB15 8BE, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.1
+  }
+]

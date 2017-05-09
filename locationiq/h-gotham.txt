@@ -1,0 +1,189 @@
+[
+  {
+    "place_id": "374535",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151683119",
+    "boundingbox": [
+      "43.2033214",
+      "43.2433214",
+      "-90.3115131",
+      "-90.2715131"
+    ],
+    "lat": "43.2233214",
+    "lon": "-90.2915131",
+    "display_name": "Gotham, Richland County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38613333173007,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160292446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "185222",
+    "boundingbox": [
+      "52.8443025",
+      "52.8795185",
+      "-1.2358368",
+      "-1.1632254"
+    ],
+    "lat": "52.8616989",
+    "lon": "-1.20109913454929",
+    "display_name": "Gotham, Rushcliffe, Nottinghamshire, East Midlands, England, UK",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.36522811055188,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "3707916",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "386926995",
+    "boundingbox": [
+      "52.8471515",
+      "52.8871515",
+      "-1.2232428",
+      "-1.1832428"
+    ],
+    "lat": "52.8671515",
+    "lon": "-1.2032428",
+    "display_name": "Gotham, Nottinghamshire, East Midlands, England, UK",
+    "class": "place",
+    "type": "village",
+    "importance": 0.36522811055188,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4583348",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "494980981",
+    "boundingbox": [
+      "43.6517916",
+      "43.6717916",
+      "-80.9470187",
+      "-80.9270187"
+    ],
+    "lat": "43.6617916",
+    "lon": "-80.9370187",
+    "display_name": "Gotham, Stratford, Perth County, Ontario, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160796420",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "4633742",
+    "boundingbox": [
+      "52.8740855",
+      "52.8858868",
+      "-6.9228865",
+      "-6.9058117"
+    ],
+    "lat": "52.8804098",
+    "lon": "-6.9138758",
+    "display_name": "Gotham, Ballaghmoon ED, Athy Municipal District, County Kildare, Leinster, Ireland",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "12075788",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1150899193",
+    "boundingbox": [
+      "8.12333",
+      "8.14333",
+      "37.59",
+      "37.61"
+    ],
+    "lat": "8.13333",
+    "lon": "37.6",
+    "display_name": "Gotham, Abelti, Jimma, Oromia, \u12a2\u1275\u12ee\u1335\u12eb",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "98638575",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "150295725",
+    "boundingbox": [
+      "50.8620647",
+      "50.8635426",
+      "-3.5379882",
+      "-3.534755"
+    ],
+    "lat": "50.86277115",
+    "lon": "-3.53627484291658",
+    "display_name": "Gotham, Cadeleigh CP, Mid Devon, Devon, South West England, England, UK",
+    "class": "landuse",
+    "type": "farmyard",
+    "importance": 0.3
+  },
+  {
+    "place_id": "152220157",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "402698389",
+    "boundingbox": [
+      "40.2005296",
+      "40.2031908",
+      "-75.4345529",
+      "-75.4296981"
+    ],
+    "lat": "40.20183865",
+    "lon": "-75.4321976638488",
+    "display_name": "4031, Gotham, Skippack Township, Montgomery County, Pennsylvania, 19426, United States of America",
+    "class": "landuse",
+    "type": "residential",
+    "importance": 0.3
+  },
+  {
+    "place_id": "49808274",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3708806647",
+    "boundingbox": [
+      "49.2827992",
+      "49.2828992",
+      "-123.1159134",
+      "-123.1158134"
+    ],
+    "lat": "49.2828492",
+    "lon": "-123.1158634",
+    "display_name": "Gotham, 602, Dunsmuir Street, Downtown, Vancouver, Greater Vancouver Regional District, British Columbia, V7Y1E8, Canada",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "144760759",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "364635587",
+    "boundingbox": [
+      "51.5144523",
+      "51.5146084",
+      "-0.1954607",
+      "-0.1952265"
+    ],
+    "lat": "51.51452325",
+    "lon": "-0.195341175030652",
+    "display_name": "Gotham, 17, Pembridge Villas, Notting Hill, Royal Borough of Kensington and Chelsea, London, Greater London, England, W2 4XB, UK",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  }
+]

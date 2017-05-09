@@ -1,0 +1,113 @@
+[
+  {
+    "place_id": "714002",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "255065222",
+    "boundingbox": [
+      "14.2583208",
+      "14.3383208",
+      "120.9669097",
+      "121.0469097"
+    ],
+    "lat": "14.2983208",
+    "lon": "121.0069097",
+    "display_name": "GMA, General Mariano Alvarez, Cavite, Calabarzon, 4117, Philippines",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "10941338",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1042040040",
+    "boundingbox": [
+      "3.2203699",
+      "3.2503699",
+      "19.7562994",
+      "19.7862994"
+    ],
+    "lat": "3.2353699",
+    "lon": "19.7712994",
+    "display_name": "Gemena Airport, RN6, Gemena, \u00c9quateur, Sud-Ubangi, R\u00e9publique d\u00e9mocratique du Congo",
+    "class": "aeroway",
+    "type": "aerodrome",
+    "importance": 0.16679990974024,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_airport2.p.20.png"
+  },
+  {
+    "place_id": "80165307",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "65454552",
+    "boundingbox": [
+      "48.0477341",
+      "48.0478866",
+      "-1.6022909",
+      "-1.6020731"
+    ],
+    "lat": "48.0478061",
+    "lon": "-1.60215738801467",
+    "display_name": "GMA, Rue de la Lib\u00e9ration, La Malti\u00e8re, Vern-sur-Seiche, Rennes, Ille-et-Vilaine, Bretagne, 35770, France",
+    "class": "shop",
+    "type": "electronics",
+    "importance": 0.101
+  },
+  {
+    "place_id": "94153446",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "130060005",
+    "boundingbox": [
+      "54.1265195",
+      "54.1272127",
+      "8.8681896",
+      "8.8693156"
+    ],
+    "lat": "54.1268403",
+    "lon": "8.86874184864256",
+    "display_name": "GMA, 3, Helgolandkai, B\u00fcsum, B\u00fcsum-Wesselburen, Kreis Dithmarschen, Schleswig-Holstein, 25761, Deutschland",
+    "class": "amenity",
+    "type": "research_institute",
+    "importance": 0.101
+  },
+  {
+    "place_id": "130650551",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "289747036",
+    "boundingbox": [
+      "-10.5948811",
+      "-10.5946436",
+      "151.2087829",
+      "151.2090418"
+    ],
+    "lat": "-10.59477295",
+    "lon": "151.208909562341",
+    "display_name": "GMa, Lagisuna, Milne Bay District, Milne Bay, Papua Region, Papua Niugini",
+    "class": "leisure",
+    "type": "garden",
+    "importance": 0.101
+  },
+  {
+    "place_id": "40560267",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2967423166",
+    "boundingbox": [
+      "15.420802",
+      "15.430802",
+      "79.0074584",
+      "79.0174584"
+    ],
+    "lat": "15.425802",
+    "lon": "79.0124584",
+    "display_name": "Gudimetta, NH544D, Talicherla, Prakasam, Andhra Pradesh, India",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  }
+]

@@ -1,0 +1,190 @@
+[
+  {
+    "place_id": "160287840",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "175687",
+    "boundingbox": [
+      "40.9135877",
+      "40.9898832",
+      "-72.7282239",
+      "-72.6132959"
+    ],
+    "lat": "40.9170435",
+    "lon": "-72.6620401",
+    "display_name": "Riverhead, Suffolk County, New York, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4439472180372,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "31927433",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2763204767",
+    "boundingbox": [
+      "-36.7980729",
+      "-36.7180729",
+      "174.5468304",
+      "174.6268304"
+    ],
+    "lat": "-36.7580729",
+    "lon": "174.5868304",
+    "display_name": "Riverhead, Auckland, New Zealand/Aotearoa",
+    "class": "place",
+    "type": "town",
+    "importance": 0.4,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "3753860",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "410413470",
+    "boundingbox": [
+      "51.2668956",
+      "51.3068956",
+      "0.1499332",
+      "0.1899332"
+    ],
+    "lat": "51.2868956",
+    "lon": "0.1699332",
+    "display_name": "Riverhead, Sevenoaks, Kent, South East, England, UK",
+    "class": "place",
+    "type": "suburb",
+    "importance": 0.3898123467551,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "35588195",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2824339683",
+    "boundingbox": [
+      "53.4905799",
+      "53.4906799",
+      "-0.5086663",
+      "-0.5085663"
+    ],
+    "lat": "53.4906299",
+    "lon": "-0.5086163",
+    "display_name": "Riverhead, Hibaldstow, North Lincolnshire, Yorkshire and the Humber, England, UK",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "15750099",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1435566466",
+    "boundingbox": [
+      "47.658791",
+      "47.678791",
+      "-53.2700585",
+      "-53.2500585"
+    ],
+    "lat": "47.668791",
+    "lon": "-53.2600585",
+    "display_name": "Riverhead, Harbour Grace, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "12108440",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1145254648",
+    "boundingbox": [
+      "43.5654134",
+      "43.5854134",
+      "-65.6145077",
+      "-65.5945077"
+    ],
+    "lat": "43.5754134",
+    "lon": "-65.6045077",
+    "display_name": "Riverhead, Municipality of the District of Barrington, Shelburne County, Nova Scotia, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15958662",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1438962428",
+    "boundingbox": [
+      "46.7559867",
+      "46.7759867",
+      "-53.3629196",
+      "-53.3429196"
+    ],
+    "lat": "46.7659867",
+    "lon": "-53.3529196",
+    "display_name": "Riverhead, Trepassey, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "15672772",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1431418750",
+    "boundingbox": [
+      "47.5214915",
+      "47.5414915",
+      "-53.2155791",
+      "-53.1955791"
+    ],
+    "lat": "47.5314915",
+    "lon": "-53.2055791",
+    "display_name": "Riverhead, Brigus, Newfoundland and Labrador, Canada",
+    "class": "place",
+    "type": "locality",
+    "importance": 0.35,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "160589582",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "2832826",
+    "boundingbox": [
+      "46.9300162",
+      "47.0611945",
+      "-53.5781515",
+      "-53.411324"
+    ],
+    "lat": "46.9728439",
+    "lon": "-53.5154704",
+    "display_name": "Riverhead, Newfoundland and Labrador, Canada",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.28177847009039,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "84741055",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "94289590",
+    "boundingbox": [
+      "51.0834217",
+      "51.0835397",
+      "-1.1274156",
+      "-1.1271929"
+    ],
+    "lat": "51.0834217",
+    "lon": "-1.1271929",
+    "display_name": "Riverhead, Bishops Sutton, Winchester, Hampshire, South East, England, UK",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

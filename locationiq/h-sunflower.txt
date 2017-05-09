@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "160451584",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1833656",
+    "boundingbox": [
+      "33.269489",
+      "33.986012",
+      "-90.7657779",
+      "-90.4526289"
+    ],
+    "lat": "33.4980504",
+    "lon": "-90.6020669",
+    "display_name": "Sunflower County, Mississippi, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.493977856445,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "334300",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "150935086",
+    "boundingbox": [
+      "33.8442086",
+      "33.8842086",
+      "-111.4876348",
+      "-111.4476348"
+    ],
+    "lat": "33.8642086",
+    "lon": "-111.4676348",
+    "display_name": "Sunflower, Maricopa County, Arizona, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.38799804112914,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "72744062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "32949556",
+    "boundingbox": [
+      "33.533898",
+      "33.552715",
+      "-90.5441349",
+      "-90.5312049"
+    ],
+    "lat": "33.5428954",
+    "lon": "-90.5370326",
+    "display_name": "Sunflower, Sunflower County, Mississippi, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38323539012287,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "424944",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153916652",
+    "boundingbox": [
+      "40.711455",
+      "40.751455",
+      "-80.2595055",
+      "-80.2195055"
+    ],
+    "lat": "40.731455",
+    "lon": "-80.2395055",
+    "display_name": "Sunflower, Beaver County, Pennsylvania, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "411560",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153639567",
+    "boundingbox": [
+      "31.3623897",
+      "31.4023897",
+      "-88.0283346",
+      "-87.9883346"
+    ],
+    "lat": "31.3823897",
+    "lon": "-88.0083346",
+    "display_name": "Sunflower, Washington County, Alabama, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "341392",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151361298",
+    "boundingbox": [
+      "39.0452817",
+      "39.0852817",
+      "-94.8841304",
+      "-94.8441304"
+    ],
+    "lat": "39.0652817",
+    "lon": "-94.8641304",
+    "display_name": "Sunflower, Wyandotte County, Kansas, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "405134",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153642131",
+    "boundingbox": [
+      "34.6439838",
+      "34.6839838",
+      "-88.5714401",
+      "-88.5314401"
+    ],
+    "lat": "34.6639838",
+    "lon": "-88.5514401",
+    "display_name": "Sunflower, Prentiss County, Mississippi, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "452382",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154334877",
+    "boundingbox": [
+      "38.885084",
+      "38.925084",
+      "-81.4981775",
+      "-81.4581775"
+    ],
+    "lat": "38.905084",
+    "lon": "-81.4781775",
+    "display_name": "Sunflower, Roane County, West Virginia, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "383273",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "153471852",
+    "boundingbox": [
+      "45.7832872",
+      "45.8232872",
+      "-89.6623657",
+      "-89.6223657"
+    ],
+    "lat": "45.8032872",
+    "lon": "-89.6423657",
+    "display_name": "Sunflower, Oneida County, Wisconsin, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.37020262461153,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "68797409",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "23649490",
+    "boundingbox": [
+      "14.7292533",
+      "14.7292593",
+      "121.0520749",
+      "121.053578"
+    ],
+    "lat": "14.7292593",
+    "lon": "121.0530555",
+    "display_name": "Sunflower, Zabarte Subdivision, Kaligayahan, Quezon City, District V, Quezon City, Metro Manila, 1123, Philippines",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  }
+]

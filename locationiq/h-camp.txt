@@ -1,0 +1,192 @@
+[
+  {
+    "place_id": "160468792",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "1839374",
+    "boundingbox": [
+      "32.905689",
+      "33.077084",
+      "-95.1526029",
+      "-94.7245789"
+    ],
+    "lat": "32.9723128",
+    "lon": "-94.9852857",
+    "display_name": "Camp County, Texas, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.38518118496167,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "21071187",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2089307346",
+    "boundingbox": [
+      "53.7880134",
+      "53.8280134",
+      "-128.4837788",
+      "-128.4437788"
+    ],
+    "lat": "53.8080134",
+    "lon": "-128.4637788",
+    "display_name": "camp, Regional District of Kitimat-Stikine, British Columbia, Canada",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.385,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "30457895",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2733766783",
+    "boundingbox": [
+      "45.6783263",
+      "45.7183263",
+      "2.5808076",
+      "2.6208076"
+    ],
+    "lat": "45.6983263",
+    "lon": "2.6008076",
+    "display_name": "Le Camp, Clermont-Ferrand, Puy-de-D\u00f4me, Auvergne-Rh\u00f4ne-Alpes, France",
+    "class": "place",
+    "type": "village",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "4447147",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "473184963",
+    "boundingbox": [
+      "50.6546052",
+      "50.6946052",
+      "-4.3093505",
+      "-4.2693505"
+    ],
+    "lat": "50.6746052",
+    "lon": "-4.2893505",
+    "display_name": "Camp, Devon, South West England, England, UK",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "13106086",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1212532905",
+    "boundingbox": [
+      "48.4077754",
+      "48.4477754",
+      "-4.660195",
+      "-4.620195"
+    ],
+    "lat": "48.4277754",
+    "lon": "-4.640195",
+    "display_name": "Le Camp, Brest, Finist\u00e8re, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "14475325",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1317583090",
+    "boundingbox": [
+      "48.2150378",
+      "48.2550378",
+      "-3.4126375",
+      "-3.3726375"
+    ],
+    "lat": "48.2350378",
+    "lon": "-3.3926375",
+    "display_name": "Le Camp, Guingamp, C\u00f4tes-d'Armor, Bretagne, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "17453061",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1702086280",
+    "boundingbox": [
+      "44.6202926",
+      "44.6602926",
+      "2.2526264",
+      "2.2926264"
+    ],
+    "lat": "44.6402926",
+    "lon": "2.2726264",
+    "display_name": "Le Camp, Villefranche-de-Rouergue, Aveyron, Occitanie, 12300, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "10946111",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "976494051",
+    "boundingbox": [
+      "48.8064132",
+      "48.8464132",
+      "-0.1368164",
+      "-0.0968164"
+    ],
+    "lat": "48.8264132",
+    "lon": "-0.1168164",
+    "display_name": "Le Camp, Argentan, Orne, Normandie, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "922107",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "282350865",
+    "boundingbox": [
+      "47.8279256",
+      "47.8679256",
+      "0.2754783",
+      "0.3154783"
+    ],
+    "lat": "47.8479256",
+    "lon": "0.2954783",
+    "display_name": "Le Camp, Le Mans, Sarthe, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "50102714",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3731662745",
+    "boundingbox": [
+      "47.4408497",
+      "47.4808497",
+      "-1.6454032",
+      "-1.6054032"
+    ],
+    "lat": "47.4608497",
+    "lon": "-1.6254032",
+    "display_name": "Le Camp, Ch\u00e2teaubriant-Ancenis, Loire-Atlantique, Pays de la Loire, France",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  }
+]

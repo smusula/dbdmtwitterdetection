@@ -1,0 +1,75 @@
+[
+  {
+    "place_id": "160299070",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "relation",
+    "osm_id": "238715",
+    "boundingbox": [
+      "37.412622",
+      "37.4299",
+      "-81.4425529",
+      "-81.4174459"
+    ],
+    "lat": "37.420948",
+    "lon": "-81.4401033",
+    "display_name": "Northfork, McDowell County, West Virginia, United States of America",
+    "class": "boundary",
+    "type": "administrative",
+    "importance": 0.4282657693621,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_boundary_administrative.p.20.png"
+  },
+  {
+    "place_id": "60484912",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "9984209",
+    "boundingbox": [
+      "33.05437",
+      "33.055239",
+      "-97.0003899",
+      "-97.0002399"
+    ],
+    "lat": "33.05505",
+    "lon": "-97.0002399",
+    "display_name": "Northfork, Lewisville, Denton County, Texas, 75057, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "65771100",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "18722287",
+    "boundingbox": [
+      "40.420857",
+      "40.43347",
+      "-92.3183399",
+      "-92.2938209"
+    ],
+    "lat": "40.433446",
+    "lon": "-92.3097439",
+    "display_name": "Northfork, Middle Fabius, Scotland County, Missouri, United States of America",
+    "class": "highway",
+    "type": "unclassified",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2569143",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "347079597",
+    "boundingbox": [
+      "34.3874783",
+      "34.3875783",
+      "-118.2524241",
+      "-118.2523241"
+    ],
+    "lat": "34.3875283",
+    "lon": "-118.2523741",
+    "display_name": "Northfork, Santa Clara Truck Trail, Palmdale, Los Angeles County, California, United States of America",
+    "class": "tourism",
+    "type": "picnic_site",
+    "importance": 0.101
+  }
+]

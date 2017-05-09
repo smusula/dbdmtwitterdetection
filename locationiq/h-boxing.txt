@@ -1,0 +1,96 @@
+[
+  {
+    "place_id": "633443",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "244076952",
+    "boundingbox": [
+      "37.1135401",
+      "37.1935401",
+      "118.0646769",
+      "118.1446769"
+    ],
+    "lat": "37.1535401",
+    "lon": "118.1046769",
+    "display_name": "\u535a\u5174\u53bf, \u535a\u5174\u53bf (Boxing), \u6ee8\u5dde\u5e02 / Binzhou, \u5c71\u4e1c\u7701, 256500, \u4e2d\u56fd",
+    "class": "place",
+    "type": "town",
+    "importance": 0.52512279904903,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_town.p.20.png"
+  },
+  {
+    "place_id": "2610222464",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4500834542",
+    "boundingbox": [
+      "43.6364421",
+      "43.6365421",
+      "51.1620305",
+      "51.1621305"
+    ],
+    "lat": "43.6364921",
+    "lon": "51.1620805",
+    "display_name": "boxing, \u0443\u043b\u0438\u0446\u0430 \u042e\u0431\u0438\u043b\u0435\u0439\u043d\u0430\u044f, 5 \u043c\u043a\u0440., \u0410\u043a\u0442\u0430\u0443, \u0410\u043a\u0442\u0430\u0443 \u0413.\u0410., \u041c\u0430\u043d\u0433\u0438\u0441\u0442\u0430\u0443\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 130000, \u049a\u0430\u0437\u0430\u049b\u0441\u0442\u0430\u043d",
+    "class": "amenity",
+    "type": "school",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/education_school.p.20.png"
+  },
+  {
+    "place_id": "40380355",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2965174394",
+    "boundingbox": [
+      "39.8880888",
+      "39.8881888",
+      "-105.0767113",
+      "-105.0766113"
+    ],
+    "lat": "39.8881388",
+    "lon": "-105.0766613",
+    "display_name": "LA Boxing, Reed Street, Walnut Creek, Westminster, Jefferson County, Colorado, 80021, United States of America",
+    "class": "shop",
+    "type": "sports",
+    "importance": 0.101
+  },
+  {
+    "place_id": "23972964",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2339632251",
+    "boundingbox": [
+      "37.1336929",
+      "37.1436929",
+      "118.1311597",
+      "118.1411597"
+    ],
+    "lat": "37.1386929",
+    "lon": "118.1361597",
+    "display_name": "\u535a\u5174, G205;S323, \u535a\u5174\u53bf, \u535a\u5174\u53bf (Boxing), \u6ee8\u5dde\u5e02 / Binzhou, \u5c71\u4e1c\u7701, 256500, \u4e2d\u56fd",
+    "class": "railway",
+    "type": "station",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/transport_train_station2.p.20.png"
+  },
+  {
+    "place_id": "47903386",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3468602608",
+    "boundingbox": [
+      "13.7581116",
+      "13.7582116",
+      "100.6266285",
+      "100.6267285"
+    ],
+    "lat": "13.7581616",
+    "lon": "100.6266785",
+    "display_name": "\u0e21\u0e27\u0e22, \u0e16\u0e19\u0e19\u0e23\u0e32\u0e21\u0e04\u0e33\u0e41\u0e2b\u0e07, \u0e40\u0e02\u0e15\u0e1a\u0e32\u0e07\u0e01\u0e30\u0e1b\u0e34, \u0e01\u0e23\u0e38\u0e07\u0e40\u0e17\u0e1e\u0e21\u0e2b\u0e32\u0e19\u0e04\u0e23, 10240, \u0e1b\u0e23\u0e30\u0e40\u0e17\u0e28\u0e44\u0e17\u0e22",
+    "class": "leisure",
+    "type": "sports_centre",
+    "importance": 0.001,
+    "icon": "https://locationiq.org/static/images/mapicons/sport_leisure_centre.p.20.png"
+  }
+]

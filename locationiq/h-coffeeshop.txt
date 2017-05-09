@@ -1,0 +1,191 @@
+[
+  {
+    "place_id": "48291557",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3527776022",
+    "boundingbox": [
+      "1.2857211",
+      "1.2858211",
+      "103.8265735",
+      "103.8266735"
+    ],
+    "lat": "1.2857711",
+    "lon": "103.8266235",
+    "display_name": "Coffeeshop, 18, Jalan Membina, Radin Mas, Tiong Bahru, Singapore, Central Singapore Community Development Council, 169485, Singapore",
+    "class": "amenity",
+    "type": "restaurant",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_restaurant.p.20.png"
+  },
+  {
+    "place_id": "53833697",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4114503591",
+    "boundingbox": [
+      "37.7470003",
+      "37.7471003",
+      "-122.4188454",
+      "-122.4187454"
+    ],
+    "lat": "37.7470503",
+    "lon": "-122.4187954",
+    "display_name": "CoffeeShop, 3139, Mission Street, Bernal Heights, SF, California, 94110, United States of America",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "6653494",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "682038556",
+    "boundingbox": [
+      "52.1577458",
+      "52.1578458",
+      "5.3756237",
+      "5.3757237"
+    ],
+    "lat": "52.1577958",
+    "lon": "5.3756737",
+    "display_name": "Coffeeshop, Puntenburgerlaan, Soesterkwartier, Amersfoort, Utrecht, Nederland, 3812CG, Nederland",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "6041765",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "617990245",
+    "boundingbox": [
+      "46.9641415",
+      "46.9642415",
+      "7.4578773",
+      "7.4579773"
+    ],
+    "lat": "46.9641915",
+    "lon": "7.4579273",
+    "display_name": "Coffeeshop, 42a, Winkelriedstrasse, Breitfeld, Stadtteil V, Bern, Verwaltungskreis Bern-Mittelland, Bern - Berne, 3014, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "craft",
+    "type": "electrician",
+    "importance": 0.101
+  },
+  {
+    "place_id": "19624946",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1939744084",
+    "boundingbox": [
+      "47.0481909",
+      "47.0482909",
+      "8.3054652",
+      "8.3055652"
+    ],
+    "lat": "47.0482409",
+    "lon": "8.3055152",
+    "display_name": "Coffeeshop, Winkelriedstrasse, Neustadt, Luzern, 6002, Schweiz, Suisse, Svizzera, Svizra",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "48331984",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3535818896",
+    "boundingbox": [
+      "38.0587289",
+      "38.0588289",
+      "46.3588512",
+      "46.3589512"
+    ],
+    "lat": "38.0587789",
+    "lon": "46.3589012",
+    "display_name": "Coffeeshop, \u0628\u0644\u0648\u0627\u0631 \u0648\u0644\u0649 \u0639\u0635\u0631, \u06a9\u0645\u067e \u0645\u0633\u06a9\u0648\u0646\u06cc \u06a9\u0627\u0631\u06a9\u0646\u0627\u0646 \u0633\u0627\u0632\u0645\u0627\u0646 \u0622\u0628, \u0648\u0644\u0649 \u0639\u0635\u0631 \u0634\u0645\u0627\u0644\u0649, \u062a\u0628\u0631\u06cc\u0632, \u0628\u062e\u0634 \u0645\u0631\u06a9\u0632\u06cc, \u0634\u0647\u0631\u0633\u062a\u0627\u0646 \u062a\u0628\u0631\u06cc\u0632, \u0627\u0633\u062a\u0627\u0646 \u0622\u0630\u0631\u0628\u0627\u06cc\u062c\u0627\u0646 \u0634\u0631\u0642\u06cc, 5157857934, \u200f\u0627\u06cc\u0631\u0627\u0646\u200e",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "46027198",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3302933083",
+    "boundingbox": [
+      "56.3255992",
+      "56.3256992",
+      "44.0044558",
+      "44.0045558"
+    ],
+    "lat": "56.3256492",
+    "lon": "44.0045058",
+    "display_name": "Coffeeshop, 2, \u0411\u043e\u043b\u044c\u0448\u0430\u044f \u041f\u043e\u043a\u0440\u043e\u0432\u0441\u043a\u0430\u044f \u0443\u043b\u0438\u0446\u0430, \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0438\u0439 \u0440\u0430\u0439\u043e\u043d, \u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434, \u0433\u043e\u0440\u043e\u0434\u0441\u043a\u043e\u0439 \u043e\u043a\u0440\u0443\u0433 \u041d\u0438\u0436\u043d\u0438\u0439 \u041d\u043e\u0432\u0433\u043e\u0440\u043e\u0434, \u041d\u0438\u0436\u0435\u0433\u043e\u0440\u043e\u0434\u0441\u043a\u0430\u044f \u043e\u0431\u043b\u0430\u0441\u0442\u044c, \u041f\u0440\u0438\u0432\u043e\u043b\u0436\u0441\u043a\u0438\u0439 \u0444\u0435\u0434\u0435\u0440\u0430\u043b\u044c\u043d\u044b\u0439 \u043e\u043a\u0440\u0443\u0433, 603005, \u0420\u0424",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "46213249",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3304904448",
+    "boundingbox": [
+      "48.6188739",
+      "48.6189739",
+      "22.2893074",
+      "22.2894074"
+    ],
+    "lat": "48.6189239",
+    "lon": "22.2893574",
+    "display_name": "CoffeeShop, 25, \u0421\u0432\u043e\u0431\u043e\u0434\u0438 \u043f\u0440\u043e\u0441\u043f\u0435\u043a\u0442, \u0411\u0410\u041c, \u0423\u0436\u0433\u043e\u0440\u043e\u0434, \u0417\u0430\u043a\u0430\u0440\u043f\u0430\u0442\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 88000-88499, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "10652048",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "977491427",
+    "boundingbox": [
+      "48.3093044",
+      "48.3094044",
+      "18.0983163",
+      "18.0984163"
+    ],
+    "lat": "48.3093544",
+    "lon": "18.0983663",
+    "display_name": "Coffeeshop, 1A, Akademick\u00e1, Chrenov\u00e1, Nitra, Nitriansky kraj, Z\u00e1padn\u00e9 Slovensko, 949 01, Slovensko",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "18531866",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "1779154803",
+    "boundingbox": [
+      "57.7816288",
+      "57.7817288",
+      "14.1723354",
+      "14.1724354"
+    ],
+    "lat": "57.7816788",
+    "lon": "14.1723854",
+    "display_name": "Coffeeshop, Borgm\u00e4stargr\u00e4nd, K\u00e5lg\u00e5rden, J\u00f6nk\u00f6ping, J\u00f6nk\u00f6pings l\u00e4n, G\u00f6taland, 55321, Sverige",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  }
+]

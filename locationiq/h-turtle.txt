@@ -1,0 +1,185 @@
+[
+  {
+    "place_id": "2493515",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "353890878",
+    "boundingbox": [
+      "44.9889849",
+      "44.9890849",
+      "-88.6101625",
+      "-88.6100625"
+    ],
+    "lat": "44.9890349",
+    "lon": "-88.6101125",
+    "display_name": "Turtle, Menominee County, Wisconsin, United States of America",
+    "class": "waterway",
+    "type": "rapids",
+    "importance": 0.425
+  },
+  {
+    "place_id": "425576",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "154142718",
+    "boundingbox": [
+      "44.1708521",
+      "44.2108521",
+      "-83.7624847",
+      "-83.7224847"
+    ],
+    "lat": "44.1908521",
+    "lon": "-83.7424847",
+    "display_name": "Turtle, Iosco County, Michigan, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "377062",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "151637427",
+    "boundingbox": [
+      "37.5033783",
+      "37.5433783",
+      "-91.4323626",
+      "-91.3923626"
+    ],
+    "lat": "37.5233783",
+    "lon": "-91.4123626",
+    "display_name": "Turtle, Dent County, Missouri, United States of America",
+    "class": "place",
+    "type": "hamlet",
+    "importance": 0.375,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_place_village.p.20.png"
+  },
+  {
+    "place_id": "42667001",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3105456311",
+    "boundingbox": [
+      "6.43539",
+      "6.43549",
+      "-10.5886999",
+      "-10.5885999"
+    ],
+    "lat": "6.43544",
+    "lon": "-10.5886499",
+    "display_name": "Turtle, Bensonville City, Careysburg, Montserrado County, Liberia",
+    "class": "place",
+    "type": "isolated_dwelling",
+    "importance": 0.35
+  },
+  {
+    "place_id": "110086165",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "196775281",
+    "boundingbox": [
+      "29.6994941",
+      "29.7003488",
+      "-98.1363171",
+      "-98.1354406"
+    ],
+    "lat": "29.7000773",
+    "lon": "-98.135719",
+    "display_name": "Turtle, New Braunfels, Comal County, Texas, 78130, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "106980730",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "182749352",
+    "boundingbox": [
+      "41.3082034",
+      "41.3091932",
+      "-72.7197663",
+      "-72.7185276"
+    ],
+    "lat": "41.3088231",
+    "lon": "-72.7191784",
+    "display_name": "Turtle, Nut Plains, New Haven County, Connecticut, 06437, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "145984925",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "369889689",
+    "boundingbox": [
+      "39.2019265",
+      "39.2023777",
+      "-74.8265978",
+      "-74.8253194"
+    ],
+    "lat": "39.2023777",
+    "lon": "-74.8265978",
+    "display_name": "Turtle, Dennis Township, Cape May County, New Jersey, 08270, United States of America",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "90848547",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "117970428",
+    "boundingbox": [
+      "-23.9037671",
+      "-23.9027412",
+      "29.5030307",
+      "29.5043969"
+    ],
+    "lat": "-23.9030256",
+    "lon": "29.5032262",
+    "display_name": "Turtle, Polokwane Ward 20, Polokwane Local Municipality, Capricorn District Municipality, Limpopo, 0700, South Africa",
+    "class": "highway",
+    "type": "residential",
+    "importance": 0.2
+  },
+  {
+    "place_id": "2610419084",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "453877895",
+    "boundingbox": [
+      "39.8260844",
+      "39.8368939",
+      "-77.5294115",
+      "-77.5041891"
+    ],
+    "lat": "39.8289846",
+    "lon": "-77.5212576",
+    "display_name": "Turtle, Slabtown, Franklin County, Pennsylvania, 17237, United States of America",
+    "class": "highway",
+    "type": "cycleway",
+    "importance": 0.175
+  },
+  {
+    "place_id": "1469269",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "316546627",
+    "boundingbox": [
+      "36.0005509",
+      "36.0006509",
+      "-78.9010763",
+      "-78.9009763"
+    ],
+    "lat": "36.0006009",
+    "lon": "-78.9010263",
+    "display_name": "Turtle, 502, Foster Street, Old North Durham, Durham, Durham County, North Carolina, 27701, United States of America",
+    "class": "tourism",
+    "type": "attraction",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/poi_point_of_interest.p.20.png"
+  }
+]

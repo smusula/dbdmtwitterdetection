@@ -1,0 +1,77 @@
+[
+  {
+    "place_id": "2651188861",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4664513889",
+    "boundingbox": [
+      "-24.7510634",
+      "-24.7509634",
+      "-65.7506734",
+      "-65.7505734"
+    ],
+    "lat": "-24.7510134",
+    "lon": "-65.7506234",
+    "display_name": "portrait, Ruta Nacional 51, Chorrillos, Rosario de Lerma, SA, 4407, Argentina",
+    "class": "tourism",
+    "type": "artwork",
+    "importance": 0.111,
+    "icon": "https://locationiq.org/static/images/mapicons/tourist_art_gallery2.p.20.png"
+  },
+  {
+    "place_id": "56310137",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4406619602",
+    "boundingbox": [
+      "51.4264178",
+      "51.4265178",
+      "0.0999813",
+      "0.1000813"
+    ],
+    "lat": "51.4264678",
+    "lon": "0.1000313",
+    "display_name": "The Portrait, Main Road, Longlands, Sidcup, London Borough of Bexley, London, Greater London, England, UK",
+    "class": "amenity",
+    "type": "bar",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_bar.p.20.png"
+  },
+  {
+    "place_id": "150543473",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "393268436",
+    "boundingbox": [
+      "43.0507668",
+      "43.051248",
+      "-87.9075136",
+      "-87.9067552"
+    ],
+    "lat": "43.0510096",
+    "lon": "-87.9071446633015",
+    "display_name": "Portrait, 455, East Pleasant Street, The North End, Milwaukee, Milwaukee County, Wisconsin, 53202, United States of America",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54874301",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4225440292",
+    "boundingbox": [
+      "50.0801224",
+      "50.0802224",
+      "12.3677451",
+      "12.3678451"
+    ],
+    "lat": "50.0801724",
+    "lon": "12.3677951",
+    "display_name": "Portrait, R\u016f\u017eov\u00e1, Cheb, okres Cheb, Karlovarsk\u00fd kraj, Severoz\u00e1pad, 35002, \u010cesko",
+    "class": "shop",
+    "type": "hairdresser",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_hairdresser.p.20.png"
+  }
+]

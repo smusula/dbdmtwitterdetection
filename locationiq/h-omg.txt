@@ -1,0 +1,186 @@
+[
+  {
+    "place_id": "98783936",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "151011140",
+    "boundingbox": [
+      "-31.9524434",
+      "-31.9492585",
+      "152.4155374",
+      "152.4188395"
+    ],
+    "lat": "-31.9511334",
+    "lon": "152.417394",
+    "display_name": "OMG, Kiwarrak, Taree, Mid-Coast, NSW, Australia",
+    "class": "highway",
+    "type": "path",
+    "importance": 0.175
+  },
+  {
+    "place_id": "39326042",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2917958300",
+    "boundingbox": [
+      "50.3681615",
+      "50.3682615",
+      "-4.135986",
+      "-4.135886"
+    ],
+    "lat": "50.3682115",
+    "lon": "-4.135936",
+    "display_name": "omg, Exchange Street, Barbican, Plymouth, South West England, England, PL1 2LD, UK",
+    "class": "amenity",
+    "type": "nightclub",
+    "importance": 0.111
+  },
+  {
+    "place_id": "48861877",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "3614924522",
+    "boundingbox": [
+      "51.7343959",
+      "51.7344959",
+      "19.4490045",
+      "19.4491045"
+    ],
+    "lat": "51.7344459",
+    "lon": "19.4490545",
+    "display_name": "OMG, 12, Cieszy\u0144ska, Rokicie, \u0141\u00f3d\u017a-G\u00f3rna, \u0141\u00f3d\u017a, \u0142\u00f3dzkie, 93-502, Polska",
+    "class": "shop",
+    "type": "convenience",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_convenience.p.20.png"
+  },
+  {
+    "place_id": "118928414",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "232331011",
+    "boundingbox": [
+      "51.4409663",
+      "51.4410983",
+      "0.1505721",
+      "0.1507469"
+    ],
+    "lat": "51.4410323",
+    "lon": "0.150659499999997",
+    "display_name": "OMG, Mill Row, Bexley, London Borough of Bexley, London, Greater London, England, DA5 1LB, UK",
+    "class": "building",
+    "type": "yes",
+    "importance": 0.101
+  },
+  {
+    "place_id": "2653798552",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4726989194",
+    "boundingbox": [
+      "29.9571715",
+      "29.9572715",
+      "-90.0638073",
+      "-90.0637073"
+    ],
+    "lat": "29.9572215",
+    "lon": "-90.0637573",
+    "display_name": "OMG!, 542, Saint Peter Street, Vieux Carre Historic District, French Quarter, New Orleans, Orleans Parish, Louisiana, 70116, United States of America",
+    "class": "shop",
+    "type": "gift",
+    "importance": 0.101
+  },
+  {
+    "place_id": "155889370",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "way",
+    "osm_id": "423499150",
+    "boundingbox": [
+      "-0.2014568",
+      "-0.2013749",
+      "-78.4976424",
+      "-78.4975499"
+    ],
+    "lat": "-0.20141585",
+    "lon": "-78.49759615",
+    "display_name": "OMG, Avenida 10 de Agosto, Belisario Quevedo, Quito, Pichincha, 170526, Ecuador",
+    "class": "shop",
+    "type": "clothes",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/shopping_clothes.p.20.png"
+  },
+  {
+    "place_id": "53621717",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4101469291",
+    "boundingbox": [
+      "49.554421",
+      "49.554521",
+      "25.5972295",
+      "25.5973295"
+    ],
+    "lat": "49.554471",
+    "lon": "25.5972795",
+    "display_name": "OMG, 7\u0430, \u0424\u0440\u0430\u043d\u043a\u0430 \u0432\u0443\u043b\u0438\u0446\u044f, \u0426\u0435\u043d\u0442\u0440, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c, \u0422\u0435\u0440\u043d\u043e\u043f\u0456\u043b\u044c\u0441\u044c\u043a\u0430 \u043e\u0431\u043b\u0430\u0441\u0442\u044c, 46000-46499, \u0423\u043a\u0440\u0430\u0457\u043d\u0430",
+    "class": "amenity",
+    "type": "cafe",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_cafe.p.20.png"
+  },
+  {
+    "place_id": "25711989",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "2453516151",
+    "boundingbox": [
+      "45.3750423",
+      "45.3751423",
+      "9.688429",
+      "9.688529"
+    ],
+    "lat": "45.3750923",
+    "lon": "9.688479",
+    "display_name": "OMG, 27, Via della Pierina, Crema Nuova, Crema, CR, LOM, 26013, Italia",
+    "class": "place",
+    "type": "house",
+    "importance": 0.101
+  },
+  {
+    "place_id": "7742127",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "835065394",
+    "boundingbox": [
+      "52.4542358",
+      "52.4543358",
+      "-1.8775562",
+      "-1.8774562"
+    ],
+    "lat": "52.4542858",
+    "lon": "-1.8775062",
+    "display_name": "OMG!, Ladypool Road, Moseley, Balsall Heath, West Midlands Combined Authority, West Midlands, England, B12, UK",
+    "class": "shop",
+    "type": "confectionery",
+    "importance": 0.101
+  },
+  {
+    "place_id": "54052421",
+    "licence": "Data \u00a9 OpenStreetMap contributors, ODbL 1.0. http://www.openstreetmap.org/copyright",
+    "osm_type": "node",
+    "osm_id": "4150551337",
+    "boundingbox": [
+      "60.4854369",
+      "60.4855369",
+      "22.1650102",
+      "22.1651102"
+    ],
+    "lat": "60.4854869",
+    "lon": "22.1650602",
+    "display_name": "OMG, Tasalanaukio, Kerttula, Raisio, Turun seutukunta, Varsinais-Suomi, Lounais-Suomen aluehallintovirasto, Etel\u00e4-Suomi, 21200, Suomi",
+    "class": "amenity",
+    "type": "pub",
+    "importance": 0.101,
+    "icon": "https://locationiq.org/static/images/mapicons/food_pub.p.20.png"
+  }
+]
