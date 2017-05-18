@@ -1,7 +1,7 @@
 import math
 import numpy as np
 from scipy.sparse import dok_matrix, coo_matrix
-import src.position as position
+from src import position
 from src.position import Position, DEG_LATITUDE
 
 def build(
@@ -9,8 +9,8 @@ def build(
     time_resolution = 1800,
     distance_resolution = 100,
     scale_number = 4,
-    min_similarity = .5,
-    min_terms = 5
+    min_similarity = 0,
+    min_terms = 0
 ):
     nb_tweets = len(tweets)
 

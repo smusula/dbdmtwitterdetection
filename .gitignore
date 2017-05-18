@@ -87,3 +87,7 @@ ENV/
 
 # Rope project settings
 .ropeproject
+
+detection/input.txt
+detection/tmp.txt
+detection/data.js

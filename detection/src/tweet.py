@@ -10,8 +10,8 @@ class Tweet :
         self.time = time
         self.position = position
 
-    def delay(self,other) :
-        return abs((self.time-other.time).total_seconds())
+def delay(t1, t2):
+    return abs((t1.time - t2.time).total_seconds())
 
 def from_csv_entry(line):
     tokens = line.strip().split('|')
@@ -31,4 +31,4 @@ def from_csv_entry(line):
     hashtags = list(map(lambda x: '#' + x, hashtags))
     body = tokens[10]
 
-    return Tweet(_id, user_id,body, hashtags, time, position)
+    return Tweet(_id, user_id, body, hashtags, time, position)
