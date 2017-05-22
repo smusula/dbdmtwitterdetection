@@ -42,8 +42,13 @@ class Event:
 
 def to_json(evt):
     out = '{"type":"Feature", "properties":{'
-    body = evt.tweets[0].body.replace('"', '\\"')
-    out += '"people":{}, "tweet":"{}"'.format(math.log(evt.nb_users), body)
+    body = np.random.choice(evt.tweets).body.replace('"', '\\"')
+    out += '"people":{}, "tweet":"{}", "hashtags":"{}", "time":"{}"'.format(
+        math.log(evt.nb_users),
+        body,
+        ' '.join(evt.hashtags),
+        evt.starting_time
+    )
     out += '},"geometry":{"type":"Point","coordinates":['
     out += '{},{}'.format(evt.center.longitude, evt.center.latitude)
     out += ']}},'

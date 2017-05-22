@@ -2,7 +2,7 @@ import sys
 import numpy as np
 from src import tweet, event, similarity_matrix
 
-LIMIT = 10000
+LIMIT = 100000
 TMP_PATH = 'tmp.txt'
 RAM = 4000
 MIN_USERS = 3

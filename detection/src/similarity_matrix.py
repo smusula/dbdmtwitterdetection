@@ -26,6 +26,8 @@ def build(
     max_time = max(map(lambda t: t.time, tweets))
     max_lat = max(map(lambda t: t.position.latitude, tweets))
     max_lon = max(map(lambda t: t.position.longitude, tweets))
+    print(min_time)
+    print(max_time - min_time)
 
     min_dist = distance_resolution
     left_upper_corner = Position(min_lat + delta_dlat / 2, min_lon + delta_dlong / 2)
